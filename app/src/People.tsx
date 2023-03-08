@@ -29,6 +29,7 @@ const People = ({
     guest: 'Guest',
     enemy: 'Enemy',
     friend: 'Friend',
+    family: 'Family',
   }
 
   const editingControls = (<div>
@@ -54,11 +55,16 @@ const People = ({
         </EuiFlexGroup>)
         return (<EuiFlexItem key={p.person_id} grow={false}>
           <EuiCard
-            title={(<EuiText style={{textOverflow: 'ellipsis', overflow: 'hidden', fontWeight: 'bold', whiteSpace: 'nowrap'}}>{`${p.first_name} ${p.last_name}`}</EuiText>)}
+            title={(<EuiText style={{textOverflow: 'ellipsis', overflow: 'hidden', fontWeight: 'bold', whiteSpace: 'nowrap'}}>{p.display_name || `${p.first_name} ${p.last_name}`}</EuiText>)}
             textAlign="left"
             style={{width: imgWidth}}
             titleSize="xs"
             grow={false}
+            onClick={() => {
+              if (isEditing) {
+                setPersonDoc(JSON.stringify(p, "    "))
+              }
+            }}
             image={p.thumb ? (<div>
               <img
                 style={{width: imgWidth}}
@@ -69,6 +75,7 @@ const People = ({
             footer={(<div>
               <EuiBadge color="primary">{categoryLabel[p.category]}</EuiBadge>
               <EuiBadge color="hollow">{p.event_count}</EuiBadge>
+              {p.is_beefing && <EuiBadge color="default">&#x1F969;</EuiBadge>}
             </div>)}
           />
         </EuiFlexItem>)
@@ -79,7 +86,7 @@ const People = ({
 }
 
 async function onCreatePerson(personDoc, addToast) {
-  await axios.post('/api/people', personDoc)
+  await axios.put(`/api/people/${personDoc.first_name.substring(0, 1).toLowerCase()}${personDoc.last_name.toLowerCase()}`, personDoc)
 }
 
 export default People

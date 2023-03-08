@@ -1,0 +1,108 @@
+import React from 'react'
+import {
+  EuiSearchBar,
+  Query,
+} from '@elastic/eui'
+import { useDispatch, useSelector } from 'react-redux'
+import { setAll as setAllEvents } from './data/eventsSlice'
+import axios from 'axios'
+
+const SearchBox = () => {
+  const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
+  const dispatch = useDispatch()
+  const people = useSelector(state => state.people.value)
+
+  const fields = {
+    person_id: {
+      type: "string",
+      valueDescription: "the person id",
+      validate: v => {
+        if (people.find(p => p.person_id === v) === undefined) {
+          throw new Error(`Person with ID [${v}] not found`)
+        }
+      }
+    },
+    category: {
+      type: "string",
+      valueDescription: "the category of the event"
+    }
+  }
+
+  const nestedFields = [
+    "people.person_id"
+  ]
+
+  const filters = [
+    {
+      type: 'field_value_selection',
+      field: 'people.person_id',
+      name: 'Person',
+      multiSelect: 'or',
+      options: people && people.map(p => ({
+        value: p.person_id,
+        name: p.display_name || `${p.first_name} ${p.last_name}`,
+      }))
+    },
+    {
+      type: 'field_value_selection',
+      field: 'category',
+      name: 'Category',
+      multiSelect: 'or',
+      options: [
+        {
+          "value": "video",
+          "name": "Video",
+        },
+        {
+          "value": "podcast",
+          "name": "Podcast",
+        },
+        {
+          "value": "major",
+          "name": "Major Event",
+        },
+        {
+          "value": "controversy",
+          "name": "Controversy",
+        }
+      ],
+    }
+  ]
+
+  return (<div><EuiSearchBar
+      fullWidth={false}
+      key="search"
+      onChange={q => {
+        if (q.query) {
+          console.log(q)
+          console.log(Query.toESQuery(q.query))
+          onSearchChange(dispatch, searchAbortController, setSearchAbortController, nestedFields)(q.query)
+        }
+      }}
+      box={{
+        incremental: false,
+        schema: {
+          fields: fields,
+        },
+      }}
+      filters={filters}
+  /></div>)
+}
+
+const onSearchChange = (dispatch, searchAbortController, setSearchAbortController, nestedFields) => async (search: Query) => {
+  console.log("search query", search)
+  const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField))
+  console.log("searchWithoutNestedFields", searchWithoutNestedFields)
+  searchAbortController.abort()
+  const newSearchAbortController = new AbortController()
+  setSearchAbortController(newSearchAbortController)
+  const esQuery = Query.toESQuery(searchWithoutNestedFields)
+  console.log("esQueryWithoutNested", esQuery)
+  const response = await axios.post('/api/events', esQuery, {
+    signal: newSearchAbortController.signal
+  })
+  const filteredEvents = Query.execute(search, response.data)
+  dispatch(setAllEvents(filteredEvents))
+}
+
+export default SearchBox;

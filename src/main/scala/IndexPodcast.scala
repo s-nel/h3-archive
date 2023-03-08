@@ -230,6 +230,7 @@ object IndexPodcast {
     KeywordField("category"),
     TextField("first_name"),
     TextField("last_name"),
+    TextField("display_name"),
     TextField("description"),
     TextField("aliases"),
     BooleanField("is_beefing"),

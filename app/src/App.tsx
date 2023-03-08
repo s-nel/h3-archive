@@ -12,6 +12,9 @@ import axios from 'axios'
 import {
   EuiGlobalToastList,
   EuiHeader,
+  EuiHeaderSection,
+  EuiHeaderSectionItem,
+  EuiImage,
   EuiPageTemplate,
   EuiProvider,
   EuiSideNav,
@@ -28,7 +31,7 @@ import { remove as removeToast } from './data/toastsSlice'
 const Root = () => {
   const [hasFetchedData, setFetchedData] = React.useState(false)
   const dispatch = useDispatch()
-  const toasts = useSelector(state => state.toasts.value)
+  const toasts = useSelector(state => state.toasts.value.toasts)
   const loc = useLocation()
 
   const navItems = [
@@ -63,37 +66,45 @@ const Root = () => {
   }
 
   return (<EuiProvider colorMode="dark" modify={themeOverrides}>
-    <EuiHeader
-    
-    >
-      <EuiPageTemplate 
-        panelled 
-        grow 
-        restrictWidth={false} 
-        style={{ background: "none" }} 
-        mainProps={{ style: { backgroundColor: "rgba(29, 30, 36, .8)" } }}
-        paddingSize="xl"
-      >
-        <EuiPageTemplate.Sidebar>
-          <EuiSideNav items={navItems} renderItem={props => <Link to={props.href} {...props} />} />
-        </EuiPageTemplate.Sidebar>
-        <EuiPageTemplate.Header 
-          iconType="/logo.svg" 
-          pageTitle=" " 
-          iconProps={{
-            size: "original"
-          }}
-        />
-        <EuiPageTemplate.Section grow={true} style={{ background: "none" }}>
-          <Outlet/>
-        </EuiPageTemplate.Section>
-      </EuiPageTemplate>
-      <EuiGlobalToastList
-        toasts={toasts}
-        dismissToast={toast => dispatch(removeToast(toast.id))}
-        toastLifeTimeMs={6000}
-      />
+    <EuiHeader>
+      <EuiHeaderSection>
+        <EuiHeaderSectionItem>
+          <EuiImage
+            height={20}
+            style={{ marginLeft: "20px" }}
+            alt="logo"
+            src="/logo.svg"
+          />
+        </EuiHeaderSectionItem>
+      </EuiHeaderSection>
     </EuiHeader>
+    <EuiPageTemplate
+      panelled
+      grow
+      restrictWidth={false}
+      style={{ background: "none" }}
+      mainProps={{ style: { backgroundColor: "rgba(29, 30, 36, .8)" } }}
+      paddingSize="xl"
+    >
+      <EuiPageTemplate.Sidebar>
+        <EuiSideNav items={navItems} renderItem={props => <Link to={props.href} {...props} key={props.href} />} />
+      </EuiPageTemplate.Sidebar>
+      {/*<EuiPageTemplate.Header 
+        iconType="/logo.svg" 
+        pageTitle=" " 
+        iconProps={{
+          size: "original"
+        }}
+      />*/}
+      <EuiPageTemplate.Section grow={true} style={{ background: "none" }}>
+        <Outlet />
+      </EuiPageTemplate.Section>
+    </EuiPageTemplate>
+    <EuiGlobalToastList
+      toasts={toasts}
+      dismissToast={toast => dispatch(removeToast(toast.id))}
+      toastLifeTimeMs={6000}
+    />
   </EuiProvider>)
 }
 
@@ -116,7 +127,7 @@ const App = () => {
       ],
     },
   ])
-  
+
   return (<Provider store={store}><RouterProvider router={router} /></Provider>);
 }
 
@@ -143,4 +154,4 @@ async function getEvents(dispatch) {
   dispatch(setAllEvents(response.data))
 }
 
-export default App;
+export default App

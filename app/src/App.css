@@ -40,4 +40,5 @@
 body {
   background: url(../public/background.svg) no-repeat;
   background-size: 100% 100%;
+  background-attachment: fixed;
 }

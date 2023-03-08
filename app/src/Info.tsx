@@ -8,6 +8,7 @@ import {
   EuiFlexGroup,
   EuiFlexItem,
   EuiHorizontalRule,
+  EuiIcon,
   EuiImage,
   EuiListGroup,
   EuiPanel,
@@ -15,7 +16,7 @@ import {
   EuiTextColor,
   EuiTitle,
 } from '@elastic/eui'
-import { BsSpotify, BsYoutube } from 'react-icons/bs'
+import { BsSpotify, BsYoutube, BsPerson } from 'react-icons/bs'
 import axios from 'axios'
 import { set as setEvent } from './data/eventsSlice'
 import { add as addToast } from './data/toastsSlice'
@@ -47,7 +48,9 @@ const Info = ({ info, isEditing, setInfo }) => {
 
   const categoryLabel = {
     video: 'Video',
-    podcast: 'Podcast'
+    podcast: 'Podcast',
+    major: 'Major Event',
+    controversy: 'Controversy',
   }
 
   const typeIcons = {
@@ -66,29 +69,73 @@ const Info = ({ info, isEditing, setInfo }) => {
     creator: 'Creator',
     host: 'Host',
     guest: 'Guest',
-    topic: 'Discussed'
+    topic: 'Discussed',
+    subject: 'Subject',
+    crew: 'Crew',
+  }
+
+  const roleSort = {
+    creator: -1,
+    subject: 0,
+    host: 1,
+    guest: 2,
+    topic: 3,
+    crew: 4
+  }
+
+  const sortPeopleByRole = (a, b) => {
+    if (!a) {
+      return 1
+    }
+    if (!b) {
+      return -1
+    }
+    const diff = roleSort[a.role] - roleSort[b.role]
+    if (diff === 0) {
+      return a.person_id.localeCompare(b.person_id)
+    }
+    return diff
   }
 
   const columns = [
     {
-      render: t => t.key
+      name: "key",
+      render: t => t ? t.key : ''
     },
     {
-      render: t => t.value
+      value: "value",
+      render: t => t ? t.value : ''
     },
   ]
 
   const peopleColumns = [
     {
       render: pRef => {
+        try {
+          if (!people) {
+            return <div></div>
+          }
+          const person = people.find(p => p.person_id === pRef.person_id)
+          if (!person || !person.thumb) {
+            return (<BsPerson style={{ width: "32px", height: "32px" }} />)
+          }
+          return (<EuiImage alt={person.display_name} width={32} height={32} src={person.thumb} />)
+        } catch (err) {
+          console.error(err)
+        }
+      },
+      width: "50",
+    },
+    {
+      render: pRef => {
         if (!people) {
-          return null
+          return ''
         }
         const person = people.find(p => p.person_id === pRef.person_id)
         if (!person) {
-          return null
+          return ''
         }
-        return `${person.first_name} ${person.last_name}`
+        return person.display_name || `${person.first_name} ${person.last_name}`
       }
     },
     {
@@ -137,7 +184,7 @@ const Info = ({ info, isEditing, setInfo }) => {
           <EuiText>
             <h4>People</h4>
           </EuiText>
-          <EuiBasicTable items={info.people} columns={peopleColumns} />
+          <EuiBasicTable items={info.people ? [...info.people].sort(sortPeopleByRole) : []} columns={peopleColumns} />
         </EuiPanel>)}
         {links && links.length > 0 && (<EuiPanel grow={false}>
           <EuiText>
@@ -161,12 +208,12 @@ const Info = ({ info, isEditing, setInfo }) => {
 
 const onSaveDoc = (dispatch, setInfo) => async (event) => {
   await axios.put(`/api/events/${event.event_id}`, event)
-  dispatch(addToast({
-    title: 'Saved',
-    color: 'success',
-  }))
+  // dispatch(addToast({
+  //   title: 'Saved',
+  //   color: 'success',
+  // }))
   dispatch(setEvent(event))
-  setInfo(event)
+  //setInfo(event)
 }
 
 export default Info;

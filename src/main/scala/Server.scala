@@ -17,6 +17,8 @@ import io.circe.syntax._
 import IndexPodcast._
 
 import akka.http.scaladsl.server.{PathMatcher, RouteResult}
+import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
+import io.circe.Json
 
 import java.net.URI
 import java.time.{Duration, Instant}
@@ -50,6 +52,11 @@ object Server extends FailFastCirceSupport {
               complete(getEvents(elasticsearchClient, maybeQuery))
             }
           } ~
+            post {
+              entity(as[Json]) { search =>
+                complete(searchEvents(elasticsearchClient, search))
+              }
+            } ~
             pathPrefix("^.+$".r) { eventId =>
               entity(as[EventDoc]) { event =>
                 put {
@@ -115,6 +122,25 @@ object Server extends FailFastCirceSupport {
     for {
       hits <- elasticsearchClient.execute {
         search(eventsIndex).query(query).size(1000)
+      }
+    } yield {
+      hits.result.hits.hits.toList.flatMap { hit =>
+        decode[EventDoc](hit.sourceAsString).toTry match {
+          case Success(event) =>
+            List(event)
+          case Failure(exception) =>
+            println("Failed to deserialize doc")
+            exception.printStackTrace()
+            Nil
+        }
+      }
+    }
+  }
+
+  def searchEvents(elasticClient: ElasticClient, searchBody: Json): Future[List[EventDoc]] = {
+    for {
+      hits <- elasticClient.execute {
+        search(eventsIndex).query(RawQuery(searchBody.noSpaces)).size(1000)
       }
     } yield {
       hits.result.hits.hits.toList.flatMap { hit =>
@@ -218,6 +244,7 @@ object Server extends FailFastCirceSupport {
       category: String,
       firstName: String,
       lastName: String,
+      displayName: Option[String],
       thumb: Option[String],
       description: Option[String],
       aliases: Option[Set[String]],
