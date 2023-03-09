@@ -43,7 +43,7 @@ const People = ({
   return (<div>
     <EuiFlexGroup wrap>
       {people && people.map((p, i) => {
-        const imgWidth = i < 10 ? "200px" : "150px"
+        const imgWidth = i < 10 ? "200px" : "175px"
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           justifyContent="center" 

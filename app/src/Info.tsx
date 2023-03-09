@@ -152,7 +152,7 @@ const Info = ({ info, isEditing, setInfo }) => {
 
   const infoDom = (<EuiFlexGroup>
     <EuiFlexItem grow={3}>
-      <EuiPanel hasShadow={false}>
+      <EuiPanel color="transparent" hasShadow={false}>
         <EuiFlexGroup alignItems="baseline">
           {info.thumb && (<EuiFlexItem grow={false}>
             <EuiImage alt="thumbnail" src={info.thumb} />  

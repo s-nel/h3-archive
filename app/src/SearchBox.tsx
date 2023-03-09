@@ -2,10 +2,12 @@ import React from 'react'
 import {
   EuiSearchBar,
   Query,
+  SearchFilterConfig
 } from '@elastic/eui'
 import { useDispatch, useSelector } from 'react-redux'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import axios from 'axios'
+import { DateTime } from 'luxon'
 
 const SearchBox = () => {
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
@@ -13,9 +15,9 @@ const SearchBox = () => {
   const people = useSelector(state => state.people.value)
 
   const fields = {
-    person_id: {
+    person: {
       type: "string",
-      valueDescription: "the person id",
+      valueDescription: "the person",
       validate: v => {
         if (people.find(p => p.person_id === v) === undefined) {
           throw new Error(`Person with ID [${v}] not found`)
@@ -25,17 +27,22 @@ const SearchBox = () => {
     category: {
       type: "string",
       valueDescription: "the category of the event"
+    },
+    date: {
+      type: "date",
+      valueDescription: "the date of the event"
     }
   }
 
   const nestedFields = [
-    "people.person_id"
+    "person",
+    "date"
   ]
 
-  const filters = [
+  const filters: SearchFilterConfig[] = [
     {
       type: 'field_value_selection',
-      field: 'people.person_id',
+      field: 'person',
       name: 'Person',
       multiSelect: 'or',
       options: people && people.map(p => ({
@@ -70,7 +77,6 @@ const SearchBox = () => {
   ]
 
   return (<div><EuiSearchBar
-      fullWidth={false}
       key="search"
       onChange={q => {
         if (q.query) {
@@ -90,16 +96,20 @@ const SearchBox = () => {
 }
 
 const onSearchChange = (dispatch, searchAbortController, setSearchAbortController, nestedFields) => async (search: Query) => {
-  console.log("search query", search)
-  const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField))
+  const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), search)
   console.log("searchWithoutNestedFields", searchWithoutNestedFields)
   searchAbortController.abort()
   const newSearchAbortController = new AbortController()
   setSearchAbortController(newSearchAbortController)
   const esQuery = Query.toESQuery(searchWithoutNestedFields)
-  console.log("esQueryWithoutNested", esQuery)
+  console.log("esQuery", esQuery)
   const response = await axios.post('/api/events', esQuery, {
     signal: newSearchAbortController.signal
+  })
+  // Flat array of person id
+  response.data.forEach(e => {
+    e.person = e.people.map(p => p.person_id)
+    e.date = e.start_date
   })
   const filteredEvents = Query.execute(search, response.data)
   dispatch(setAllEvents(filteredEvents))

@@ -2,6 +2,7 @@ import React from 'react'
 import {
   createBrowserRouter,
   Link,
+  Navigate,
   Outlet,
   RouterProvider,
   useLocation,
@@ -24,6 +25,8 @@ import { Provider } from 'react-redux'
 import store from './data/store'
 import Timeline from './Timeline'
 import People from './People'
+import Lore from './Lore'
+import Soundbites from './Soundbites'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import { setAll as setAllPeople } from './data/peopleSlice'
 import { remove as removeToast } from './data/toastsSlice'
@@ -33,6 +36,20 @@ const Root = () => {
   const dispatch = useDispatch()
   const toasts = useSelector(state => state.toasts.value.toasts)
   const loc = useLocation()
+
+  React.useEffect(() => {
+    if (!hasFetchedData) {
+      setFetchedData(true)
+      getEvents(dispatch)
+    }
+  }, [dispatch, hasFetchedData, setFetchedData])
+
+  if (loc.pathname.match('/.*/$')) {
+    return <Navigate replace to={{
+        pathname: loc.pathname.replace(/\/+$/, ""),
+        search: loc.search
+    }}/>
+  }
 
   const navItems = [
     {
@@ -46,15 +63,20 @@ const Root = () => {
       id: 'people',
       href: '/people',
       isSelected: loc.pathname === '/people',
+    },
+    {
+      name: 'Lore',
+      id: 'lore',
+      href: '/lore',
+      isSelected: loc.pathname === '/lore',
+    },
+    {
+      name: 'Soundbites',
+      id: 'soundbites',
+      href: '/soundbites',
+      isSelected: loc.pathname === '/soundbites'
     }
   ]
-
-  React.useEffect(() => {
-    if (!hasFetchedData) {
-      setFetchedData(true)
-      getEvents(dispatch)
-    }
-  }, [dispatch, hasFetchedData, setFetchedData])
 
   const themeOverrides = {
     "colors": {
@@ -124,6 +146,14 @@ const App = () => {
           path: "/people",
           element: <People isEditing={isEditing} />,
         },
+        {
+          path: "/lore",
+          element: <Lore />,
+        },
+        {
+          path: "/soundbites",
+          element: <Soundbites />,
+        }
       ],
     },
   ])
@@ -144,7 +174,15 @@ async function getPeople(dispatch, events) {
     person.event_count = eventCount
     return person
   })
-  const sorted = withEventCounts.sort((a, b) => b.event_count - a.event_count)
+  const sorted = withEventCounts.sort((a, b) => {
+    const diff = b.event_count - a.event_count
+    if (diff !== 0) {
+      return diff
+    }
+    const aName = a.display_name || `${a.first_name} ${a.last_name}`
+    const bName = b.display_name || `${b.first_name} ${b.last_name}`
+    aName.localeCompare(bName)
+  })
   dispatch(setAllPeople(sorted))
 }
 

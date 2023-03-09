@@ -16,6 +16,7 @@ import io.circe.parser.decode
 import io.circe.syntax._
 import IndexPodcast._
 
+import akka.http.scaladsl.coding.Coders
 import akka.http.scaladsl.server.{PathMatcher, RouteResult}
 import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
 import io.circe.Json
@@ -49,12 +50,16 @@ object Server extends FailFastCirceSupport {
         pathPrefix("events") {
           get {
             parameters("q".optional) { maybeQuery =>
-              complete(getEvents(elasticsearchClient, maybeQuery))
+              encodeResponseWith(Coders.Gzip) {
+                complete(getEvents(elasticsearchClient, maybeQuery))
+              }
             }
           } ~
             post {
               entity(as[Json]) { search =>
-                complete(searchEvents(elasticsearchClient, search))
+                encodeResponseWith(Coders.Gzip) {
+                  complete(searchEvents(elasticsearchClient, search))
+                }
               }
             } ~
             pathPrefix("^.+$".r) { eventId =>
@@ -124,7 +129,7 @@ object Server extends FailFastCirceSupport {
         search(eventsIndex).query(query).size(1000)
       }
     } yield {
-      hits.result.hits.hits.toList.flatMap { hit =>
+      val results = hits.result.hits.hits.toList.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {
           case Success(event) =>
             List(event)
@@ -134,6 +139,7 @@ object Server extends FailFastCirceSupport {
             Nil
         }
       }
+      results
     }
   }
 
