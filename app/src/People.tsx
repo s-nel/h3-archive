@@ -7,10 +7,13 @@ import {
   EuiFlexItem,
   EuiHorizontalRule,
   EuiIcon,
+  EuiPageHeader,
+  EuiSpacer,
   EuiText,
 } from '@elastic/eui'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
+import { useNavigate } from 'react-router-dom'
 
 const People = ({
   isEditing,
@@ -18,6 +21,7 @@ const People = ({
 }) => {
   const [personDoc, setPersonDoc] = React.useState('')
   const people = useSelector((state) => state.people.value)
+  const navigate = useNavigate()
 
   if (!people) {
     return null
@@ -30,6 +34,7 @@ const People = ({
     enemy: 'Enemy',
     friend: 'Friend',
     family: 'Family',
+    lore: 'Lore',
   }
 
   const editingControls = (<div>
@@ -41,9 +46,12 @@ const People = ({
   </div>)
 
   return (<div>
+    <EuiPageHeader pageTitle="People" />
+    <EuiSpacer size="xl" />
     <EuiFlexGroup wrap>
       {people && people.map((p, i) => {
-        const imgWidth = i < 10 ? "200px" : "175px"
+        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : "150px")
+        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : "118px")
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           justifyContent="center" 
@@ -55,15 +63,13 @@ const People = ({
         </EuiFlexGroup>)
         return (<EuiFlexItem key={p.person_id} grow={false}>
           <EuiCard
-            title={(<EuiText style={{textOverflow: 'ellipsis', overflow: 'hidden', fontWeight: 'bold', whiteSpace: 'nowrap'}}>{p.display_name || `${p.first_name} ${p.last_name}`}</EuiText>)}
+            title={(<EuiText style={{width: innerWidth, textOverflow: 'ellipsis', overflow: 'hidden', fontWeight: 'bold', whiteSpace: 'nowrap'}}>{p.display_name || `${p.first_name} ${p.last_name}`}</EuiText>)}
             textAlign="left"
             style={{width: imgWidth}}
             titleSize="xs"
             grow={false}
             onClick={() => {
-              if (isEditing) {
-                setPersonDoc(JSON.stringify(p, "    "))
-              }
+              navigate(`/people/${p.person_id}`)
             }}
             image={p.thumb ? (<div>
               <img

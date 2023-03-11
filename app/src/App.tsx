@@ -6,6 +6,7 @@ import {
   Outlet,
   RouterProvider,
   useLocation,
+  useParams,
 } from "react-router-dom";
 import { useDispatch, useSelector } from 'react-redux'
 import './App.css';
@@ -19,12 +20,14 @@ import {
   EuiPageTemplate,
   EuiProvider,
   EuiSideNav,
+  EuiSideNavItem,
 } from '@elastic/eui';
 import '@elastic/eui/dist/eui_theme_dark.css';
 import { Provider } from 'react-redux'
 import store from './data/store'
 import Timeline from './Timeline'
 import People from './People'
+import Person from './Person'
 import Lore from './Lore'
 import Soundbites from './Soundbites'
 import { setAll as setAllEvents } from './data/eventsSlice'
@@ -35,7 +38,9 @@ const Root = () => {
   const [hasFetchedData, setFetchedData] = React.useState(false)
   const dispatch = useDispatch()
   const toasts = useSelector(state => state.toasts.value.toasts)
+  const people = useSelector(state => state.people.value)
   const loc = useLocation()
+  const params = useParams()
 
   React.useEffect(() => {
     if (!hasFetchedData) {
@@ -51,7 +56,24 @@ const Root = () => {
     }}/>
   }
 
-  const navItems = [
+  const personItems = (): EuiSideNavItem[] | undefined => {
+    if (loc.pathname.startsWith('/people') && params.person) {
+      const person = people.find(p => p.person_id === params.person)
+      if (person) {
+        return [
+          {
+            name: person.display_name || `${person.first_name} ${person.last_name}`,
+            id: params.person,
+            isSelected: true
+          }
+        ]
+      }
+      return undefined
+    }
+    return undefined
+  }
+
+  const navItems: EuiSideNavItem[] = [
     {
       name: 'Timeline',
       id: 'timeline',
@@ -63,6 +85,7 @@ const Root = () => {
       id: 'people',
       href: '/people',
       isSelected: loc.pathname === '/people',
+      items: personItems(),
     },
     {
       name: 'Lore',
@@ -109,7 +132,11 @@ const Root = () => {
       paddingSize="xl"
     >
       <EuiPageTemplate.Sidebar>
-        <EuiSideNav items={navItems} renderItem={props => <Link to={props.href} {...props} key={props.href} />} />
+        <EuiSideNav 
+          items={navItems} 
+          mobileTitle="Navigate"
+          renderItem={props => <Link to={props.href} {...props} key={props.href} />} 
+        />
       </EuiPageTemplate.Sidebar>
       {/*<EuiPageTemplate.Header 
         iconType="/logo.svg" 
@@ -147,6 +174,10 @@ const App = () => {
           element: <People isEditing={isEditing} />,
         },
         {
+          path: "/people/:person",
+          element: <Person isEditing={isEditing} />,
+        },
+        {
           path: "/lore",
           element: <Lore />,
         },
@@ -181,7 +212,7 @@ async function getPeople(dispatch, events) {
     }
     const aName = a.display_name || `${a.first_name} ${a.last_name}`
     const bName = b.display_name || `${b.first_name} ${b.last_name}`
-    aName.localeCompare(bName)
+    return aName.localeCompare(bName)
   })
   dispatch(setAllPeople(sorted))
 }

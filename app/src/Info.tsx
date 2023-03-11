@@ -1,6 +1,7 @@
 import React from 'react'
 import { DateTime } from 'luxon'
 import { useDispatch, useSelector } from 'react-redux'
+import { Link } from 'react-router-dom'
 import {
   EuiBadge,
   EuiBasicTable,
@@ -135,7 +136,7 @@ const Info = ({ info, isEditing, setInfo }) => {
         if (!person) {
           return ''
         }
-        return person.display_name || `${person.first_name} ${person.last_name}`
+        return <Link to={`/people/${person.person_id}`}>{person.display_name || `${person.first_name} ${person.last_name}`}</Link>
       }
     },
     {
