@@ -11,6 +11,7 @@ import { DateTime } from 'luxon'
 
 const SearchBox = () => {
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
+  const [isLoading, setLoading] = React.useState(false)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
 
@@ -82,7 +83,7 @@ const SearchBox = () => {
         if (q.query) {
           console.log(q)
           console.log(Query.toESQuery(q.query))
-          onSearchChange(dispatch, searchAbortController, setSearchAbortController, nestedFields)(q.query)
+          onSearchChange(dispatch, searchAbortController, setSearchAbortController, setLoading, nestedFields)(q.query)
         }
       }}
       box={{
@@ -90,12 +91,14 @@ const SearchBox = () => {
         schema: {
           fields: fields,
         },
+        isLoading,
       }}
       filters={filters}
   /></div>)
 }
 
-const onSearchChange = (dispatch, searchAbortController, setSearchAbortController, nestedFields) => async (search: Query) => {
+const onSearchChange = (dispatch, searchAbortController, setSearchAbortController, setLoading, nestedFields) => async (search: Query) => {
+  setLoading(true)
   const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), search)
   console.log("searchWithoutNestedFields", searchWithoutNestedFields)
   searchAbortController.abort()
@@ -113,6 +116,7 @@ const onSearchChange = (dispatch, searchAbortController, setSearchAbortControlle
   })
   const filteredEvents = Query.execute(search, response.data)
   dispatch(setAllEvents(filteredEvents))
+  setLoading(false)
 }
 
 export default SearchBox;

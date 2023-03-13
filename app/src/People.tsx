@@ -1,15 +1,15 @@
 import React from 'react'
 import {
   EuiBadge,
-  EuiButton,
   EuiCard,
   EuiFlexGroup,
   EuiFlexItem,
-  EuiHorizontalRule,
   EuiIcon,
   EuiPageHeader,
+  EuiSearchBar,
   EuiSpacer,
   EuiText,
+  Query,
 } from '@elastic/eui'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
@@ -19,9 +19,18 @@ const People = ({
   isEditing,
   addToast,
 }) => {
-  const [personDoc, setPersonDoc] = React.useState('')
   const people = useSelector((state) => state.people.value)
+  const [query, setQuery] = React.useState(undefined)
+  const [filteredPeople, setFilteredPeople] = React.useState([])
   const navigate = useNavigate()
+
+  React.useEffect(() => {
+    if (query) {
+      setFilteredPeople(Query.execute(query, people))
+    } else {
+      setFilteredPeople(people)
+    }
+  }, [people, query, setFilteredPeople])
 
   if (!people) {
     return null
@@ -37,19 +46,13 @@ const People = ({
     lore: 'Lore',
   }
 
-  const editingControls = (<div>
-    <EuiHorizontalRule/>
-    <pre>
-      <textarea cols={120} rows={30} value={personDoc} onChange={e => setPersonDoc(e.target.value)} />
-    </pre>
-    <EuiButton onClick={() => onCreatePerson(JSON.parse(personDoc), addToast)}>Create</EuiButton>
-  </div>)
-
   return (<div>
     <EuiPageHeader pageTitle="People" />
     <EuiSpacer size="xl" />
+    <PeopleSearch query={query} setQuery={setQuery} />
+    <EuiSpacer size="m" />
     <EuiFlexGroup wrap>
-      {people && people.map((p, i) => {
+      {filteredPeople && filteredPeople.map((p, i) => {
         const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : "150px")
         const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : "118px")
         const missingImg = (<EuiFlexGroup 
@@ -87,12 +90,84 @@ const People = ({
         </EuiFlexItem>)
       })}
     </EuiFlexGroup>
-    {isEditing && editingControls}
   </div>)
 }
 
-async function onCreatePerson(personDoc, addToast) {
-  await axios.put(`/api/people/${personDoc.first_name.substring(0, 1).toLowerCase()}${personDoc.last_name.toLowerCase()}`, personDoc)
+const PeopleSearch = ({
+  query,
+  setQuery,
+}) => {
+  const schema = {
+    flags: [
+      'is_beefing'
+    ],
+    first_name: {
+      type: 'string',
+    },
+    last_name: {
+      type: 'string',
+    },
+    aliases: {
+      type: 'string',
+    },
+    display_name: {
+      type: 'string',
+    },
+    category: {
+      type: 'string',
+    }
+  }
+
+  const filters = [
+    {
+      type: 'field_value_selection',
+      field: 'category',
+      name: 'Category',
+      multiSelect: 'or',
+      options: [
+        {
+          value: 'creator',
+          name: 'Creator',
+        },
+        {
+          value: 'crew',
+          name: 'Crew',
+        },
+        {
+          value: 'friend',
+          name: 'Friend',
+        },
+        {
+          value: 'enemy',
+          name: 'Enemy',
+        },
+        {
+          value: 'guest',
+          name: 'Guest',
+        }
+      ]
+    },
+    {
+      type: 'is',
+      field: 'is_beefing',
+      name: 'Is Beefing \uD83E\uDD69',
+    }
+  ]
+
+  return (<div>
+    <EuiSearchBar
+      onChange={onSearch(setQuery)}
+      filters={filters}
+      box={{
+        incremental: true,
+        schema: schema,
+      }}
+    />
+  </div>)
+}
+
+const onSearch = setQuery => query => {
+  setQuery(query.query)
 }
 
 export default People

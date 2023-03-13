@@ -167,7 +167,7 @@ const Info = ({ info, isEditing, setInfo }) => {
             </EuiText>)}
           </EuiFlexItem>
           <EuiFlexItem grow={false}>
-            <EuiBadge color="primary">
+            <EuiBadge color={colors[info.category]}>
               {categoryLabel[info.category]}
             </EuiBadge>
           </EuiFlexItem>
@@ -215,6 +215,13 @@ const onSaveDoc = (dispatch, setInfo) => async (event) => {
   // }))
   dispatch(setEvent(event))
   //setInfo(event)
+}
+
+export const colors = {
+  podcast: '#32cf69',
+  video: '#5bd9d9',
+  major: '#e375eb',
+  controversy: '#eb635b',
 }
 
 export default Info;
