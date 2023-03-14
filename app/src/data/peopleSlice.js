@@ -3,7 +3,7 @@ import { createSlice } from '@reduxjs/toolkit'
 export const peopleSlice = createSlice({
   name: 'people',
   initialState: {
-    value: [],
+    value: null,
   },
   reducers: {
     setAll: (state, action) => {

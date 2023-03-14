@@ -11,7 +11,15 @@ import cats.implicits._
 import com.sksamuel.elastic4s.{ElasticClient, ElasticProperties}
 import com.sksamuel.elastic4s.ElasticDsl._
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
-import com.sksamuel.elastic4s.fields.{BooleanField, DateField, KeywordField, LongField, NestedField, TextField}
+import com.sksamuel.elastic4s.fields.{
+  BooleanField,
+  DateField,
+  IntegerField,
+  KeywordField,
+  LongField,
+  NestedField,
+  TextField
+}
 import com.snacktrace.archive.model._
 import io.circe.Decoder
 import io.circe.generic.extras.Configuration
@@ -40,6 +48,7 @@ object IndexPodcast {
   val elasticsearchHost = "archive.es.us-central1.gcp.cloud.es.io:443"
   val eventsIndex = "events"
   val peopleIndex = "people"
+  val soundbitesIndex = "soundbites"
 
   final case class Episode(
       description: String,
@@ -235,6 +244,16 @@ object IndexPodcast {
     TextField("aliases"),
     BooleanField("is_beefing"),
     BooleanField("is_squashed_beef")
+  )
+
+  val soundbitesIndexMapping = properties(
+    KeywordField("soundbite_id"),
+    KeywordField("person_id"),
+    TextField("quote"),
+    KeywordField("sound_file"),
+    TextField("description"),
+    IntegerField("winning_year"),
+    IntegerField("nominated_year")
   )
 
   val indexSettings: Map[String, Any] = Map(

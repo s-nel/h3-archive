@@ -7,6 +7,7 @@ import {
   EuiIcon,
   EuiPageHeader,
   EuiSearchBar,
+  EuiSkeletonRectangle,
   EuiSpacer,
   EuiText,
   Query,
@@ -32,10 +33,6 @@ const People = ({
     }
   }, [people, query, setFilteredPeople])
 
-  if (!people) {
-    return null
-  }
-
   const categoryLabel = {
     creator: 'Creator',
     crew: 'Crew',
@@ -44,6 +41,26 @@ const People = ({
     friend: 'Friend',
     family: 'Family',
     lore: 'Lore',
+  }
+
+  if (!people) {
+    return (<div>
+      <EuiPageHeader pageTitle="People" />
+      <EuiSpacer size="xl" />
+      <PeopleSearch query={query} setQuery={setQuery} />
+      <EuiSpacer size="m" />
+      <EuiFlexGroup wrap>
+        <EuiFlexItem grow={false}>
+          <EuiSkeletonRectangle width={200} height={292} />
+        </EuiFlexItem>
+        <EuiFlexItem grow={false}>
+          <EuiSkeletonRectangle width={200} height={292} />
+        </EuiFlexItem>
+        <EuiFlexItem grow={false}>
+          <EuiSkeletonRectangle width={200} height={292} />
+        </EuiFlexItem>
+      </EuiFlexGroup>
+    </div>)
   }
 
   return (<div>

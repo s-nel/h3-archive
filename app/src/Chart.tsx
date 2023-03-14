@@ -5,7 +5,7 @@ import { useSelector } from 'react-redux'
 import { 
   EuiFlexGroup,
   EuiFlexItem,
-  EuiLoadingChart 
+  EuiLoadingChart,
 } from '@elastic/eui'
 import {
   colors
@@ -49,7 +49,7 @@ const Chart = ({ setInfo, info }) => {
       const datum = {
         time: e.start_date,
         color: colors[e.category],
-        size: radiuses[e.category],
+        size: radiuses[e.category] + 2,
         event: e,
       }
       return datum
@@ -84,9 +84,9 @@ const Chart = ({ setInfo, info }) => {
 
     data.forEach(d => {
       if (info && d.event.event_id === info.event_id) {
-        d.size = hoverRadius
+        d.size = hoverRadius + 4
       } else {
-        d.size = radiuses[d.event.category]
+        d.size = radiuses[d.event.category] + 2
       }
     })
     simulation.force("collide").initialize(data)
@@ -99,7 +99,7 @@ const Chart = ({ setInfo, info }) => {
         .attr("stroke", "white")
         .attr("stroke-width", d => info && d.event.event_id === info.event_id ? 3 : 1)
         .attr("fill", d => d.color)
-        .attr("r", d => d.size)
+        .attr("r", d => info && d.event.event_id === info.event_id ? hoverRadius : radiuses[d.event.category])
         .attr("cx", d => xScale(d.time))
         .attr("cy", (marginTop + height - marginBottom) / 2)
         .on('mouseenter', (e, d) => {
@@ -151,8 +151,8 @@ const hover = (setInfo, fixed) => d => {
 const weights = {
   podcast: 0.02,
   video: 0.02,
-  major: 0.02,
-  controversy: 0.02,
+  major: 0.04,
+  controversy: 0.04,
 }
 
 const radiuses = {

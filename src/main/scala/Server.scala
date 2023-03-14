@@ -82,6 +82,16 @@ object Server extends FailFastCirceSupport {
                     complete(updatePerson(elasticsearchClient, personId, person))
                   }
               }
+          } ~
+          pathPrefix("soundbites") {
+            get {
+              complete(getSoundbites(elasticsearchClient))
+            } ~
+              entity(as[SoundbiteDoc]) { soundbite =>
+                pathPrefix("^.+$".r) { soundbiteId =>
+                  complete(updateSoundbite(elasticsearchClient, soundbiteId, soundbite))
+                }
+              }
           }
       }
     }
@@ -94,10 +104,16 @@ object Server extends FailFastCirceSupport {
         createIndex(eventsIndex).mapping(indexMapping)
       }
       _ <- elasticsearchClient.execute {
+        createIndex(soundbitesIndex).mapping(soundbitesIndexMapping)
+      }
+      _ <- elasticsearchClient.execute {
         putMapping(peopleIndex).properties(peopleIndexMapping.properties)
       }
       _ <- elasticsearchClient.execute {
         putMapping(eventsIndex).properties(indexMapping.properties)
+      }
+      _ <- elasticsearchClient.execute {
+        putMapping(soundbitesIndex).properties(soundbitesIndexMapping.properties)
       }
       binding <- Http().newServerAt("localhost", 8080).bind(route)
     } yield {
@@ -217,6 +233,33 @@ object Server extends FailFastCirceSupport {
       .map(_ => ())
   }
 
+  def getSoundbites(client: ElasticClient): Future[List[SoundbiteDoc]] = {
+    for {
+      hits <- client.execute {
+        search(soundbitesIndex).size(500)
+      }
+    } yield {
+      hits.result.hits.hits.toList.flatMap { hit =>
+        decode[SoundbiteDoc](hit.sourceAsString).map(p => p.copy(soundbiteId = Some(hit.id))).toTry match {
+          case Success(soundbite) =>
+            List(soundbite)
+          case Failure(exception) =>
+            println("Failed to deserialize doc")
+            exception.printStackTrace()
+            Nil
+        }
+      }
+    }
+  }
+
+  def updateSoundbite(client: ElasticClient, id: String, doc: SoundbiteDoc): Future[Unit] = {
+    client
+      .execute {
+        indexInto(soundbitesIndex).withId(id).doc(doc.asJson.toString)
+      }
+      .map(_ => ())
+  }
+
   final case class LinkDoc(
       `type`: String,
       url: String
@@ -256,5 +299,15 @@ object Server extends FailFastCirceSupport {
       aliases: Option[Set[String]],
       isBeefing: Option[Boolean],
       isSquashedBeef: Option[Boolean]
+  )
+
+  final case class SoundbiteDoc(
+      soundbiteId: Option[String],
+      personId: String,
+      quote: String,
+      soundFile: String,
+      description: Option[String],
+      winningYear: Option[Int],
+      nominatedYear: Option[Int]
   )
 }

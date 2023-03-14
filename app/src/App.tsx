@@ -32,6 +32,7 @@ import Lore from './Lore'
 import Soundbites from './Soundbites'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import { setAll as setAllPeople } from './data/peopleSlice'
+import { setAll as setAllSoundbites } from './data/soundbitesSlice'
 import { remove as removeToast } from './data/toastsSlice'
 
 const Root = () => {
@@ -46,6 +47,7 @@ const Root = () => {
     if (!hasFetchedData) {
       setFetchedData(true)
       getEvents(dispatch)
+      getSoundbites(dispatch)
     }
   }, [dispatch, hasFetchedData, setFetchedData])
 
@@ -58,7 +60,7 @@ const Root = () => {
 
   const personItems = (): EuiSideNavItem[] | undefined => {
     if (loc.pathname.startsWith('/people') && params.person) {
-      const person = people.find(p => p.person_id === params.person)
+      const person = people && people.find(p => p.person_id === params.person)
       if (person) {
         return [
           {
@@ -221,6 +223,11 @@ async function getEvents(dispatch) {
   const response = await axios.get('/api/events')
   getPeople(dispatch, response.data)
   dispatch(setAllEvents(response.data))
+}
+
+async function getSoundbites(dispatch) {
+  const response = await axios.get('/api/soundbites')
+  dispatch(setAllSoundbites(response.data))
 }
 
 export default App
