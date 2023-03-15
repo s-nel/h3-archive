@@ -253,7 +253,8 @@ object IndexPodcast {
     KeywordField("sound_file"),
     TextField("description"),
     IntegerField("winning_year"),
-    IntegerField("nominated_year")
+    IntegerField("nominated_year"),
+    TextField("alt")
   )
 
   val indexSettings: Map[String, Any] = Map(

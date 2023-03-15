@@ -99,15 +99,17 @@ const Soundbites = () => {
           >
             <EuiFlexGroup direction="column" style={{height: '100%'}} gutterSize="none">
               <EuiFlexItem grow>
-                <EuiFlexGroup gutterSize="s" justifyContent="center" alignItems="center" style={{height: '100%'}}>
+                <EuiFlexGroup gutterSize="s" justifyContent="center" alignItems="center" style={{height: '100%', maxHeight: '125px'}}>
                     <EuiFlexItem grow={1}>
                       <EuiText textAlign="center">
                         <p 
                           style={{ 
                             padding: '8px',
                             color: hovered === soundbite.soundbite_id ? '#5bd45b' : undefined,
+                            overflow: 'hidden', 
+                            maxHeight: '125px',
                           }}
-                        >&ldquo;{soundbite.quote}&rdquo;
+                        >{soundbite.quote ? `“${soundbite.quote}”` : soundbite.alt}
                         </p>
                       </EuiText>
                     </EuiFlexItem>

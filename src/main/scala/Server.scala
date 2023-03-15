@@ -304,7 +304,8 @@ object Server extends FailFastCirceSupport {
   final case class SoundbiteDoc(
       soundbiteId: Option[String],
       personId: String,
-      quote: String,
+      quote: Option[String],
+      alt: Option[String],
       soundFile: String,
       description: Option[String],
       winningYear: Option[Int],

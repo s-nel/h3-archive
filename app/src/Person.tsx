@@ -61,7 +61,7 @@ const Person = ({
 
   const soundbitesColumns = [
     {
-      render: soundbite => soundbite.quote,
+      render: soundbite => soundbite.quote ? `“${soundbite.quote}”` : soundbite.alt,
     },
     {
       width: 50,
