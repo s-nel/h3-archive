@@ -70,8 +70,8 @@ const People = ({
     <EuiSpacer size="m" />
     <EuiFlexGroup wrap>
       {filteredPeople && filteredPeople.map((p, i) => {
-        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : "150px")
-        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : "118px")
+        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : "140px")
+        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : "108px")
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           justifyContent="center" 
@@ -88,6 +88,7 @@ const People = ({
             style={{width: imgWidth}}
             titleSize="xs"
             grow={false}
+            paddingSize="s"
             onClick={() => {
               navigate(`/people/${p.person_id}`)
             }}

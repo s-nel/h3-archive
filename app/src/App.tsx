@@ -89,12 +89,12 @@ const Root = () => {
       isSelected: loc.pathname === '/people',
       items: personItems(),
     },
-    {
-      name: 'Lore',
-      id: 'lore',
-      href: '/lore',
-      isSelected: loc.pathname === '/lore',
-    },
+    // {
+    //   name: 'Lore',
+    //   id: 'lore',
+    //   href: '/lore',
+    //   isSelected: loc.pathname === '/lore',
+    // },
     {
       name: 'Soundbites',
       id: 'soundbites',
@@ -116,12 +116,14 @@ const Root = () => {
     <EuiHeader>
       <EuiHeaderSection>
         <EuiHeaderSectionItem>
-          <EuiImage
-            height={20}
-            style={{ marginLeft: "20px" }}
-            alt="logo"
-            src="/logo.svg"
-          />
+          <Link to="/">
+            <EuiImage
+              height={20}
+              style={{ marginLeft: "20px" }}
+              alt="logo"
+              src="/logo.svg"
+            />
+          </Link>
         </EuiHeaderSectionItem>
       </EuiHeaderSection>
     </EuiHeader>
@@ -179,10 +181,10 @@ const App = () => {
           path: "/people/:person",
           element: <Person isEditing={isEditing} />,
         },
-        {
-          path: "/lore",
-          element: <Lore />,
-        },
+        // {
+        //   path: "/lore",
+        //   element: <Lore />,
+        // },
         {
           path: "/soundbites",
           element: <Soundbites />,

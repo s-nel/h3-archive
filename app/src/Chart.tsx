@@ -32,10 +32,12 @@ const Chart = ({ setInfo, info }) => {
     .attr("style", "max-width: 100%; height: auto; height: intrinsic;"))
 
   const ticked = () => {
-    svg.selectAll(".circ")
-      .attr("cx", d => d.x)
-      .attr("cy", d => d.y)
-      .attr("r", d => d.size)
+    if (Date.now() % 3 === 0) {
+      svg.selectAll(".circ")
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y)
+        //.attr("r", d => d.size)
+    }
   }
 
   const domainMin = events && events.length > 0 ? events.reduce((acc, e) => e.start_date < acc ? e.start_date : acc, DateTime.now().toMillis()) : 1362096000000
@@ -61,32 +63,41 @@ const Chart = ({ setInfo, info }) => {
       .force("collide", d3.forceCollide(d => d.size))
       .alphaDecay(0)
       .alpha(0.3)
-      .on("tick", () => ticked())
-    simulation.tick(300)
+      .on("tick", ticked)
+    simulation.tick(400)
     return [simulation, data]
   }, [events])
 
   const xScale = d3.scaleLinear(xDomain, xRange);
-  const xAxis = d3.axisBottom(xScale).tickFormat(d => xTickFormat(d)).tickSizeOuter(0);
+  const xAxis = d3.axisBottom(xScale).tickFormat(d => xTickFormat(d)).tickSizeOuter(0)
+  const xAxisLines = d3.axisBottom(xScale).tickFormat('').tickSizeOuter(0).tickSizeInner(-height + marginTop + marginBottom)
 
   svg.selectAll('*').remove()
 
   if (data) {
     svg.append("g")
-    .attr("transform", `translate(0,${height - marginBottom})`)
-    .call(xAxis)
-    .call(g => g.append("text")
-        .attr("x", width)
-        .attr("y", marginBottom - 4)
-        .attr("fill", "currentColor")
-        .attr("text-anchor", "end")
-        .text(''))
+      .attr("transform", `translate(0,${height - marginBottom})`)
+      .call(xAxis)
+      .call(g => g.append("text")
+          .attr("x", width)
+          .attr("y", marginBottom - 4)
+          .attr("fill", "currentColor")
+          .attr("text-anchor", "end")
+          .text(''))
+
+    const axisLines = svg.append("g")
+      .attr("transform", `translate(0,${height - marginBottom})`)
+      .style("stroke-dasharray", "5 5")
+      .call(xAxisLines)
+    axisLines
+      .selectAll('line')
+      .style("stroke", "#555")
 
     data.forEach(d => {
       if (info && d.event.event_id === info.event_id) {
-        d.size = hoverRadius + 4
+        d.size = hoverRadius + 3
       } else {
-        d.size = radiuses[d.event.category] + 2
+        d.size = radiuses[d.event.category] + 1
       }
     })
     simulation.force("collide").initialize(data)
@@ -100,8 +111,8 @@ const Chart = ({ setInfo, info }) => {
         .attr("stroke-width", d => info && d.event.event_id === info.event_id ? 3 : 1)
         .attr("fill", d => d.color)
         .attr("r", d => info && d.event.event_id === info.event_id ? hoverRadius : radiuses[d.event.category])
-        .attr("cx", d => xScale(d.time))
-        .attr("cy", (marginTop + height - marginBottom) / 2)
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y)
         .on('mouseenter', (e, d) => {
           e.preventDefault()
           d3.select(this).raise()
@@ -156,10 +167,10 @@ const weights = {
 }
 
 const radiuses = {
-  podcast: 7,
-  video: 7,
-  major: 10,
-  controversy: 10,
+  podcast: 6,
+  video: 6,
+  major: 9,
+  controversy: 9,
 }
 
 export default Chart;

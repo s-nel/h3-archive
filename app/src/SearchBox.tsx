@@ -46,10 +46,10 @@ const SearchBox = () => {
       field: 'person',
       name: 'Person',
       multiSelect: 'or',
-      options: people && people.map(p => ({
+      options: (people && people.map(p => ({
         value: p.person_id,
         name: p.display_name || `${p.first_name} ${p.last_name}`,
-      }))
+      }))) || []
     },
     {
       type: 'field_value_selection',

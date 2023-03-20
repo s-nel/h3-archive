@@ -120,7 +120,7 @@ const Info = ({ info, isEditing, setInfo }) => {
           if (!person || !person.thumb) {
             return (<BsPerson style={{ width: "32px", height: "32px" }} />)
           }
-          return (<EuiImage alt={person.display_name} width={32} height={32} src={person.thumb} />)
+          return (<EuiImage alt={person.display_name || `${person.first_name} ${person.last_name}`} width={32} height={32} src={person.thumb} />)
         } catch (err) {
           console.error(err)
         }
