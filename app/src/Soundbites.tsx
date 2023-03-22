@@ -27,11 +27,15 @@ const Soundbites = () => {
 
   React.useEffect(() => {
     if (query) {
-      setFilteredSoundbites(Query.execute(query, soundbites.map(soundbite => Object.assign({
-        won: !!soundbite.winning_year,
-        nominated: !!soundbite.winning_year || !!soundbite.nominated_year,
-        person: soundbite.person_id,
-      }, soundbite))))
+      setFilteredSoundbites(Query.execute(query, soundbites.map(soundbite => {
+        const person = people && people.find(p => p.person_id === soundbite.person_id)
+        return Object.assign({
+          won: !!soundbite.winning_year,
+          nominated: !!soundbite.winning_year || !!soundbite.nominated_year,
+          person: soundbite.person_id,
+          personName: person && (person.display_name || `${person.first_name} ${person.last_name}`)
+        }, soundbite)
+      })))
     } else {
       setFilteredSoundbites(soundbites)
     }
@@ -190,10 +194,10 @@ const SoundbiteSearch = ({
       field: 'person',
       name: 'Person',
       multiSelect: 'or',
-      options: people && people.filter(p => !!soundbites.find(s => s.person_id === p.person_id)).map(p => ({
+      options: people ? people.filter(p => !!soundbites.find(s => s.person_id === p.person_id)).map(p => ({
         value: p.person_id,
         name: p.display_name || `${p.first_name} ${p.last_name}`,
-      })),
+      })) : [],
       operator: 'exact',
     },
     {
@@ -211,7 +215,8 @@ const SoundbiteSearch = ({
   return (<EuiSearchBar 
     filters={filters}
     box={{
-      schema: schema
+      schema: schema,
+      incremental: true,
     }}
     onChange={onSearch(setQuery)}
   />)

@@ -5,16 +5,29 @@ import {
   EuiFlexGroup,
   EuiFlexItem,
   EuiIcon,
+  EuiImage,
   EuiPageHeader,
+  EuiPanel,
   EuiSearchBar,
   EuiSkeletonRectangle,
   EuiSpacer,
   EuiText,
+  EuiToolTip,
   Query,
 } from '@elastic/eui'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
+
+const categoryLabel = {
+  creator: 'Creator',
+  crew: 'Crew',
+  guest: 'Guest',
+  enemy: 'Enemy',
+  friend: 'Friend',
+  family: 'Family',
+  lore: 'Lore',
+}
 
 const People = ({
   isEditing,
@@ -32,16 +45,6 @@ const People = ({
       setFilteredPeople(people)
     }
   }, [people, query, setFilteredPeople])
-
-  const categoryLabel = {
-    creator: 'Creator',
-    crew: 'Crew',
-    guest: 'Guest',
-    enemy: 'Enemy',
-    friend: 'Friend',
-    family: 'Family',
-    lore: 'Lore',
-  }
 
   if (!people) {
     return (<div>
@@ -70,8 +73,8 @@ const People = ({
     <EuiSpacer size="m" />
     <EuiFlexGroup wrap>
       {filteredPeople && filteredPeople.map((p, i) => {
-        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : "140px")
-        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : "108px")
+        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : (i < 75 ? "140px" : (i < 100 ? "110px" : "80px")))
+        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : (i < 75 ? "108px" : (i < 100 ? "110px": "80px")))
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           justifyContent="center" 
@@ -82,7 +85,7 @@ const People = ({
           </EuiFlexItem>
         </EuiFlexGroup>)
         return (<EuiFlexItem key={p.person_id} grow={false}>
-          <EuiCard
+          {i < 75 && (<EuiCard
             title={(<EuiText style={{width: innerWidth, textOverflow: 'ellipsis', overflow: 'hidden', fontWeight: 'bold', whiteSpace: 'nowrap'}}>{p.display_name || `${p.first_name} ${p.last_name}`}</EuiText>)}
             textAlign="left"
             style={{width: imgWidth}}
@@ -104,7 +107,24 @@ const People = ({
               <EuiBadge color="hollow">{p.event_count}</EuiBadge>
               {p.is_beefing && <EuiBadge color="default">&#x1F969;</EuiBadge>}
             </div>)}
-          />
+          />)}
+          {i >= 75 && (<EuiToolTip content={p.display_name || `${p.first_name} ${p.last_name}`} position="bottom">
+            <EuiPanel
+              style={{width: imgWidth, height: imgWidth}}
+              paddingSize="none"
+              onClick={() => {
+                navigate(`/people/${p.person_id}`)
+              }}
+            >
+              {p.thumb ? (<div>
+                <EuiImage
+                  style={{width: imgWidth, height: imgWidth, borderRadius: "6px"}}
+                  src={p.thumb}
+                  alt={`${p.first_name} ${p.last_name}`}
+                />
+              </div>) : missingImg}
+            </EuiPanel>
+          </EuiToolTip>)}
         </EuiFlexItem>)
       })}
     </EuiFlexGroup>

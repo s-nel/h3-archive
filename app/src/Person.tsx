@@ -1,6 +1,8 @@
 import React from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import {
+  Comparators,
+  Criteria,
   EuiBasicTable,
   EuiBreadcrumb,
   EuiBreadcrumbs,
@@ -17,7 +19,8 @@ import {
 } from '@elastic/eui'
 import { useDispatch, useSelector } from 'react-redux'
 import axios from 'axios'
-import { add as addToast } from './data/toastsSlice'
+import { DateTime } from 'luxon'
+import { roleLabel as roleLabels } from './Info'
 
 const Person = ({
   isEditing,
@@ -26,8 +29,26 @@ const Person = ({
   const personId = useParams().person
   const people = useSelector(state => state.people.value)
   const soundbites = useSelector(state => state.soundbites.value && state.soundbites.value.filter(s => s.person_id === personId))
+  const events = useSelector(state => state.events.value && state.events.value
+    .map(e => {
+      const person = e.people.find(p => p.person_id === personId)
+      if (!person) {
+        return e
+      }
+      return Object.assign({
+        role: person.role,
+        roleLabel: roleLabels[person.role],
+      }, e)
+    })
+    .filter(e => e.role))
   const navigate = useNavigate()
   const dispatch = useDispatch()
+  const [tableProps, setTableProps] = React.useState({
+    pageIndex: 0,
+    pageSize: 10,
+    sortField: null,
+    sortDirection: 'asc',
+  })
 
   const person = people && people.find(p => p.person_id === personId)
 
@@ -53,7 +74,7 @@ const Person = ({
       }
     },
     {
-      text: person.display_name || `${person.first_name} ${person.last_name}`,
+      text: person && (person.display_name || `${person.first_name} ${person.last_name}`),
     },
   ]
 
@@ -61,7 +82,7 @@ const Person = ({
 
   const soundbitesColumns = [
     {
-      render: soundbite => soundbite.quote ? `“${soundbite.quote}”` : soundbite.alt,
+      render: soundbite => soundbite ? (soundbite.quote ? `“${soundbite.quote}”` : soundbite.alt) : '',
     },
     {
       width: 50,
@@ -71,7 +92,7 @@ const Person = ({
           type: 'icon',
           icon: 'play',
           onClick: soundbite => {
-            new Audio(soundbite.sound_file).play()
+            soundbite && new Audio(soundbite.sound_file).play()
           }
         }
       ]
@@ -85,6 +106,91 @@ const Person = ({
     </pre>
     <EuiButton onClick={() => onCreatePerson(JSON.parse(personDoc), dispatch)}>Create</EuiButton>
   </div>)
+
+  const eventsColumns = [
+    {
+      field: 'name',
+      sortable: true,
+      name: 'Name',
+      truncateText: true,
+    },
+    {
+      field: 'roleLabel',
+      name: 'Role',
+      sortable: true,
+    },
+    {
+      field: 'start_date',
+      name: 'Date',
+      sortable: true,
+      render: a => DateTime.fromMillis(a).toLocaleString(DateTime.DATE_HUGE)
+    }
+  ]
+
+
+  const {
+    pageSize,
+    pageIndex,
+    sortField,
+    sortDirection,
+  } = tableProps
+
+  const onChange = ({ page, sort }) => {
+    const newTableProps = {
+      pageIndex: page.index,
+      pageSize: page.size,
+      sortField: sort.field,
+      sortDirection: sort.direction,
+    }
+    console.log(newTableProps)
+    setTableProps(newTableProps)
+  }
+  let sortedEvents
+  if (sortField) {
+    sortedEvents = events.slice(0).sort(Comparators.property(sortField, (a, b) => {
+      if (typeof a === 'string' || a instanceof String) {
+        if (sortDirection === 'asc') {
+          return a.localeCompare(b)
+        } else {
+          return b.localeCompare(a)
+        }
+      } else {
+        if (sortDirection === 'asc') {
+          return a - b
+        } else {
+          return b - a
+        }
+      }
+    }))
+  } else {
+    sortedEvents = events
+  }
+  let eventsTable
+  if (!sortedEvents || sortedEvents.length === 0) {
+    eventsTable = null
+  }
+  const pageOfEvents = () => {
+    const startIndex = pageIndex * pageSize
+    return sortedEvents.slice(startIndex, Math.min(startIndex + pageSize, sortedEvents.length))
+  }
+  eventsTable = (<EuiBasicTable
+    columns={eventsColumns}
+    items={pageOfEvents()}
+    pagination={{
+      pageIndex,
+      pageSize,
+      totalItemCount: events.length,
+      pageSizeOptions: [pageSize],
+    }}
+    onChange={onChange}
+    sorting={{
+      enableAllColumns: true,
+      sort: {
+        field: sortField,
+        direction: sortDirection,
+      }
+    }}
+  />)
 
   return (<div>
     <EuiBreadcrumbs breadcrumbs={breadcrumbs} />
@@ -108,6 +214,7 @@ const Person = ({
           {person.description && <EuiFlexItem grow>
             <EuiText>{person.description}</EuiText>
           </EuiFlexItem>}
+          {eventsTable}
         </EuiFlexGroup>
       </EuiFlexItem>
       {soundbites && soundbites.length > 0 && (<EuiFlexItem grow={1}>

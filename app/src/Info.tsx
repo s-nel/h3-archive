@@ -22,6 +22,14 @@ import axios from 'axios'
 import { set as setEvent } from './data/eventsSlice'
 import { add as addToast } from './data/toastsSlice'
 
+export const roleLabel = {
+  creator: 'Creator',
+  host: 'Host',
+  guest: 'Guest',
+  topic: 'Discussed',
+  subject: 'Subject',
+  crew: 'Crew',
+}
 
 const Info = ({ info, isEditing, setInfo }) => {    
   const [modifiedDoc, setModifiedDoc] = React.useState(info && {event_id: info.event_id, jsonStr: JSON.stringify(info, null, "    ")})
@@ -65,15 +73,6 @@ const Info = ({ info, isEditing, setInfo }) => {
     href: l.url,
     icon: typeIcons[l.type],
   }))
-
-  const roleLabel = {
-    creator: 'Creator',
-    host: 'Host',
-    guest: 'Guest',
-    topic: 'Discussed',
-    subject: 'Subject',
-    crew: 'Crew',
-  }
 
   const roleSort = {
     creator: -1,
