@@ -1,8 +1,9 @@
 import React from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 import {
   Comparators,
   Criteria,
+  EuiBadge,
   EuiBasicTable,
   EuiBreadcrumb,
   EuiBreadcrumbs,
@@ -11,16 +12,24 @@ import {
   EuiFlexItem,
   EuiHorizontalRule,
   EuiImage,
+  EuiLink,
   EuiPageHeader,
   EuiPanel,
   EuiSpacer,
   EuiText,
   EuiTextColor,
+  EuiToolTip,
 } from '@elastic/eui'
 import { useDispatch, useSelector } from 'react-redux'
 import axios from 'axios'
 import { DateTime } from 'luxon'
-import { roleLabel as roleLabels } from './Info'
+import { 
+  roleLabel as roleLabels,
+  categoryLabel as categoryLabels,
+  categoryColor as categoryColors,
+  linkTypeIcons,
+  linkTypeDescription,
+} from './Info'
 
 const Person = ({
   isEditing,
@@ -38,6 +47,8 @@ const Person = ({
       return Object.assign({
         role: person.role,
         roleLabel: roleLabels[person.role],
+        categoryLabel: categoryLabels[e.category],
+        categoryColor: categoryColors[e.category],
       }, e)
     })
     .filter(e => e.role))
@@ -46,7 +57,7 @@ const Person = ({
   const [tableProps, setTableProps] = React.useState({
     pageIndex: 0,
     pageSize: 10,
-    sortField: null,
+    sortField: 'start_date',
     sortDirection: 'asc',
   })
 
@@ -112,7 +123,7 @@ const Person = ({
       field: 'name',
       sortable: true,
       name: 'Name',
-      truncateText: true,
+      render: (a, b) => <Link to={`/?event_id=${b.event_id}`}>{a}</Link>
     },
     {
       field: 'roleLabel',
@@ -124,6 +135,25 @@ const Person = ({
       name: 'Date',
       sortable: true,
       render: a => DateTime.fromMillis(a).toLocaleString(DateTime.DATE_HUGE)
+    },
+    {
+      field: 'categoryLabel',
+      name: 'Category',
+      sortable: true,
+      render: (a, b) => <EuiBadge color={b.categoryColor}>{b.categoryLabel}</EuiBadge>,
+    },
+    {
+      name: 'Links',
+      actions: Object.keys(linkTypeIcons).map(linkType => ({
+        render: a => {
+          return (<EuiToolTip content={linkTypeDescription[linkType]}>
+            <EuiLink href={a.links.find(l => l.type === linkType).url} target="_blank" external={false}>
+              {linkTypeIcons[linkType]}
+            </EuiLink>
+          </EuiToolTip>)
+        },
+        available: a => a.links.find(l => l.type === linkType)
+      }))
     }
   ]
 
@@ -137,12 +167,11 @@ const Person = ({
 
   const onChange = ({ page, sort }) => {
     const newTableProps = {
-      pageIndex: page.index,
-      pageSize: page.size,
+      pageIndex: page && page.index,
+      pageSize: page && page.size,
       sortField: sort.field,
       sortDirection: sort.direction,
     }
-    console.log(newTableProps)
     setTableProps(newTableProps)
   }
   let sortedEvents
@@ -170,36 +199,52 @@ const Person = ({
     eventsTable = null
   }
   const pageOfEvents = () => {
+    if (!pageIndex && !pageSize) {
+      return sortedEvents
+    }
     const startIndex = pageIndex * pageSize
     return sortedEvents.slice(startIndex, Math.min(startIndex + pageSize, sortedEvents.length))
   }
-  eventsTable = (<EuiBasicTable
-    columns={eventsColumns}
-    items={pageOfEvents()}
-    pagination={{
-      pageIndex,
-      pageSize,
-      totalItemCount: events.length,
-      pageSizeOptions: [pageSize],
-    }}
-    onChange={onChange}
-    sorting={{
-      enableAllColumns: true,
-      sort: {
-        field: sortField,
-        direction: sortDirection,
-      }
-    }}
-  />)
+  eventsTable = (<div>
+    <EuiHorizontalRule />
+    <EuiText>
+      <h3>Appears in</h3>
+    </EuiText>
+    <EuiSpacer />
+    <EuiBasicTable
+      columns={eventsColumns}
+      items={pageOfEvents()}
+      pagination={events.length < 10 ? undefined : {
+        pageIndex,
+        pageSize,
+        totalItemCount: events.length,
+        pageSizeOptions: [10, 25, 50],
+      }}
+      onChange={onChange}
+      sorting={{
+        enableAllColumns: true,
+        sort: {
+          field: sortField,
+          direction: sortDirection,
+        }
+      }}
+      rowProps={{
+        style: {
+          background: 'none',
+        }
+      }}
+      tableLayout="auto"
+    />
+  </div>)
 
   return (<div>
     <EuiBreadcrumbs breadcrumbs={breadcrumbs} />
-    <EuiSpacer size="m" />
-    <EuiFlexGroup>
+    <EuiSpacer size="xl" />
+    <EuiFlexGroup gutterSize="xl">
       <EuiFlexItem grow={3}>
         <EuiFlexGroup direction="column">
           <EuiFlexItem grow={false}>
-            <EuiFlexGroup alignItems="baseline">
+            <EuiFlexGroup alignItems="baseline" gutterSize="xl">
               {person.thumb && (<EuiFlexItem grow={false}>
                 <EuiImage style={{width: imgWidth, height: imgWidth}} alt="thumbnail" src={person.thumb} />  
               </EuiFlexItem>)}
@@ -208,25 +253,38 @@ const Person = ({
                 {isDisplayNameDifferent && (<EuiText>
                   <EuiTextColor color="subdued">{`${person.first_name} ${person.last_name}`}</EuiTextColor>
                 </EuiText>)}
+                {person.description && <EuiFlexItem grow>
+                  <EuiSpacer />
+                  <EuiText>{person.description}</EuiText>
+                </EuiFlexItem>}
               </EuiFlexItem>
             </EuiFlexGroup>
           </EuiFlexItem>
-          {person.description && <EuiFlexItem grow>
-            <EuiText>{person.description}</EuiText>
-          </EuiFlexItem>}
           {eventsTable}
         </EuiFlexGroup>
       </EuiFlexItem>
-      {soundbites && soundbites.length > 0 && (<EuiFlexItem grow={1}>
-        <EuiFlexGroup direction="column">
-          <EuiPanel grow={false}>
-            <EuiText>
-              <h4>Soundbites</h4>
-            </EuiText>
-            <EuiBasicTable items={soundbites} columns={soundbitesColumns} />
-          </EuiPanel>
-        </EuiFlexGroup>
-      </EuiFlexItem>)}
+      {((soundbites && soundbites.length > 0) || (person.aliases && person.aliases.length > 0)) && (
+        <EuiFlexItem grow={1}>
+          <EuiFlexGroup direction="column">
+            {soundbites && soundbites.length > 0 && (<EuiFlexItem grow={false}>
+              <EuiPanel grow={false}>
+                <EuiText>
+                  <h4>Soundbites</h4>
+                </EuiText>
+                <EuiBasicTable items={soundbites} columns={soundbitesColumns} />
+              </EuiPanel>
+            </EuiFlexItem>)}
+            {person.aliases && person.aliases.length > 0 && (<EuiFlexItem grow={false}>
+              <EuiPanel grow={false}>
+                <EuiText>
+                  <h4>Also Known As</h4>
+                </EuiText>
+                <EuiBasicTable items={person.aliases} columns={[{render: a => a}]} />
+              </EuiPanel>
+            </EuiFlexItem>)}
+          </EuiFlexGroup>
+        </EuiFlexItem>
+      )}
     </EuiFlexGroup>
     <EuiSpacer size="xl" />
     {isEditing && editingControls}

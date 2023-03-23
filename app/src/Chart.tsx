@@ -8,19 +8,20 @@ import {
   EuiLoadingChart,
 } from '@elastic/eui'
 import {
-  colors
+  categoryColor
 } from './Info'
+
+export const height = 300
 
 const Chart = ({ setInfo, info }) => {
   const width = 2000
-  const height = 300
   const marginTop = 10
   const marginRight = 20
   const marginBottom = 30
   const marginLeft = 20
   const hoverRadius = 16
 
-  const [fixed, setFixed] = React.useState(false)
+  const [fixed, setFixed] = React.useState(!!info)
   const [isLoading, setLoading] = React.useState(true)
   const rootRef = React.useRef(null)
   const events = useSelector(state => state.events.value)
@@ -50,7 +51,7 @@ const Chart = ({ setInfo, info }) => {
     const data = events && events.map(e => {
       const datum = {
         time: e.start_date,
-        color: colors[e.category],
+        color: categoryColor[e.category],
         size: radiuses[e.category] + 2,
         event: e,
       }
@@ -115,8 +116,10 @@ const Chart = ({ setInfo, info }) => {
         .attr("cy", d => d.y)
         .on('mouseenter', (e, d) => {
           e.preventDefault()
-          d3.select(this).raise()
-          hover(setInfo, fixed)(d.event)
+          if (!fixed) {
+            d3.select(this).raise()
+            hover(setInfo, fixed)(d.event)
+          }
         })
         .on('click', (e, d) => {
           toggleSelected(setFixed, fixed)()
@@ -153,10 +156,8 @@ const toggleSelected = (setFixed, fixed) => () => {
   setFixed(!fixed)
 }
 
-const hover = (setInfo, fixed) => d => {
-  if (!fixed) {
-    setInfo(d)
-  }
+const hover = (setInfo) => d => {
+  setInfo(d)
 }
 
 const weights = {

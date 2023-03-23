@@ -31,6 +31,23 @@ export const roleLabel = {
   crew: 'Crew',
 }
 
+export const categoryLabel = {
+  video: 'Video',
+  podcast: 'Podcast',
+  major: 'Major Event',
+  controversy: 'Controversy',
+}
+
+export const linkTypeIcons = {
+  spotify: <BsSpotify/>,
+  youtube: <BsYoutube/>,
+}
+
+export const linkTypeDescription = {
+  spotify: "Listen on Spotify",
+  youtube: "Watch on YouTube",
+}
+
 const Info = ({ info, isEditing, setInfo }) => {    
   const [modifiedDoc, setModifiedDoc] = React.useState(info && {event_id: info.event_id, jsonStr: JSON.stringify(info, null, "    ")})
   const dispatch = useDispatch()
@@ -50,28 +67,11 @@ const Info = ({ info, isEditing, setInfo }) => {
     return null
   }
 
-  const typeNames = {
-    spotify: "Listen on Spotify",
-    youtube: "Watch on YouTube",
-  }
-
-  const categoryLabel = {
-    video: 'Video',
-    podcast: 'Podcast',
-    major: 'Major Event',
-    controversy: 'Controversy',
-  }
-
-  const typeIcons = {
-    spotify: <BsSpotify/>,
-    youtube: <BsYoutube/>,
-  }
-
   const links = info.links && info.links.map(l => ({
-    label: typeNames[l.type],
+    label: linkTypeDescription[l.type],
     target: "_blank",
     href: l.url,
-    icon: typeIcons[l.type],
+    icon: linkTypeIcons[l.type],
   }))
 
   const roleSort = {
@@ -166,7 +166,7 @@ const Info = ({ info, isEditing, setInfo }) => {
             </EuiText>)}
           </EuiFlexItem>
           <EuiFlexItem grow={false}>
-            <EuiBadge color={colors[info.category]}>
+            <EuiBadge color={categoryColor[info.category]}>
               {categoryLabel[info.category]}
             </EuiBadge>
           </EuiFlexItem>
@@ -216,7 +216,7 @@ const onSaveDoc = (dispatch, setInfo) => async (event) => {
   //setInfo(event)
 }
 
-export const colors = {
+export const categoryColor = {
   podcast: '#32cf69',
   video: '#5bd9d9',
   major: '#e375eb',

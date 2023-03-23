@@ -33,18 +33,39 @@ const People = ({
   isEditing,
   addToast,
 }) => {
+  const [force, setForce] = React.useState(0)
   const people = useSelector((state) => state.people.value)
-  const [query, setQuery] = React.useState(undefined)
   const [filteredPeople, setFilteredPeople] = React.useState([])
   const navigate = useNavigate()
 
-  React.useEffect(() => {
-    if (query) {
-      setFilteredPeople(Query.execute(query, people))
-    } else {
-      setFilteredPeople(people)
+  const setQuery = (query) => {
+    console.log(query)
+    const existingParams = new URLSearchParams(window.location.search)
+    if (existingParams.get('q') !== query.text) {
+      if (!query.text || query.text === '') {
+        existingParams.delete('q')
+      } else {
+        existingParams.set('q', query.text)
+      }
+      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
+      window.history.replaceState({path:newurl},'',newurl)
+      setForce(force + 1)
     }
-  }, [people, query, setFilteredPeople])
+  }
+  const searchParams = new URLSearchParams(window.location.search)
+  const query = searchParams.get('q') && Query.parse(searchParams.get('q'))
+
+  console.log("query", query)
+
+  React.useEffect(() => {
+    if (people) {
+      if (query) {
+        setFilteredPeople(Query.execute(query, people))
+      } else {
+        setFilteredPeople(people)
+      }
+    }
+  }, [people, searchParams.get('q'), setFilteredPeople])
 
   if (!people) {
     return (<div>
@@ -195,6 +216,7 @@ const PeopleSearch = ({
   return (<div>
     <EuiSearchBar
       onChange={onSearch(setQuery)}
+      query={query}
       filters={filters}
       box={{
         incremental: true,
