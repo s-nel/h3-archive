@@ -2,12 +2,11 @@ package com.snacktrace.archive
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
-import akka.http.scaladsl.model.{HttpResponse, StatusCode, StatusCodes}
+import akka.http.scaladsl.model.{HttpResponse, StatusCodes}
 import akka.http.scaladsl.server.Directives._
 import com.sksamuel.elastic4s.ElasticClient
 import com.sksamuel.elastic4s.ElasticDsl.{get => _, _}
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
-import com.snacktrace.archive.IndexPodcast.{elasticsearchHost, elasticsearchPassword, elasticsearchUser}
 import com.snacktrace.archive.model.EventId
 import de.heikoseeberger.akkahttpcirce.FailFastCirceSupport
 import io.circe.generic.extras.Configuration
@@ -17,16 +16,14 @@ import io.circe.syntax._
 import IndexPodcast._
 
 import akka.http.scaladsl.coding.Coders
-import akka.http.scaladsl.model.headers.{Cookie, HttpCookie, HttpCookiePair, `Set-Cookie`}
+import akka.http.scaladsl.model.headers.{HttpCookie, `Set-Cookie`}
 import akka.http.scaladsl.server.Directive1
 import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
-import com.snacktrace.archive.Server.validateCredentials
-import com.snacktrace.archive.Settings.SessionSettings
+import com.snacktrace.archive.Settings.{ElasticsearchSettings, SessionSettings}
 import com.typesafe.config.ConfigFactory
 import io.circe.Json
 import pdi.jwt.{Jwt, JwtAlgorithm}
 
-import scala.collection.mutable
 import scala.concurrent.Future
 import scala.io.StdIn
 import scala.util.{Failure, Success, Try}
@@ -88,7 +85,7 @@ object Server extends FailFastCirceSupport {
               pathPrefix("^.+$".r) { eventId =>
                 entity(as[EventDoc]) { event =>
                   put {
-                    complete(updateEvent(readonlyClient, EventId(eventId), event))
+                    complete(updateEvent(client, EventId(eventId), event))
                   }
                 }
               }
@@ -125,7 +122,7 @@ object Server extends FailFastCirceSupport {
             pathPrefix("_login") {
               post {
                 entity(as[Credentials]) { credentials =>
-                  complete(authenticate(settings.session, credentials))
+                  complete(authenticate(settings.elasticsearch, settings.session, credentials))
                 }
               }
             }
@@ -304,12 +301,16 @@ object Server extends FailFastCirceSupport {
       .map(_ => ())
   }
 
-  def authenticate(sessionSettings: SessionSettings, credentials: Credentials): Future[HttpResponse] = {
+  def authenticate(
+      esSettings: ElasticsearchSettings,
+      sessionSettings: SessionSettings,
+      credentials: Credentials
+  ): Future[HttpResponse] = {
     val elasticsearchClient = ElasticClient(
       AkkaHttpClient(
         AkkaHttpClientSettings.default.copy(
           https = true,
-          hosts = Vector(elasticsearchHost),
+          hosts = Vector(esSettings.host),
           username = Some(credentials.user),
           password = Some(credentials.password)
         )

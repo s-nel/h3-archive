@@ -11,8 +11,10 @@ import com.sksamuel.elastic4s.ElasticClient
 import com.sksamuel.elastic4s.ElasticDsl._
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.snacktrace.archive.model.{Category, Event, EventId, Link, LinkType, Tag, Thumb}
+import com.typesafe.config.ConfigFactory
 import io.circe.generic.extras.auto._
 import io.circe.generic.extras.Configuration
+import io.circe.syntax._
 
 import java.net.URI
 import java.time.Instant
@@ -26,17 +28,18 @@ object IndexYoutubeVideos {
   implicit val circeConfig: Configuration = Configuration.default
 
   val youtubeDataApiUrl = Uri("https://www.googleapis.com")
-  val youtubeApiKey = "AIzaSyDaMnpPQtlg0iR8yjT6FrHs45STx73ubX0"
   val h3h3productionsUploadsPlaylistId = "UUDWIvJwLJsE4LG1Atne2blQ"
 
   def main(args: Array[String]): Unit = {
+    val settings = Settings(ConfigFactory.load())
+
     val elasticsearchClient = ElasticClient(
       AkkaHttpClient(
         AkkaHttpClientSettings.default.copy(
           https = true,
-          hosts = Vector(elasticsearchHost),
-          username = Some(elasticsearchUser),
-          password = Some(elasticsearchPassword)
+          hosts = Vector(settings.elasticsearch.host),
+          username = Some(settings.elasticsearch.writeUser),
+          password = Some(settings.elasticsearch.writePassword)
         )
       )
     )
@@ -48,7 +51,7 @@ object IndexYoutubeVideos {
         .withQuery(
           Query(
             "playlistId" -> h3h3productionsUploadsPlaylistId,
-            "key" -> youtubeApiKey,
+            "key" -> settings.youTube.apiKey,
             "part" -> "snippet",
             "maxResults" -> "50"
           )
@@ -62,7 +65,7 @@ object IndexYoutubeVideos {
         .withQuery(
           Query(
             "playlistId" -> h3h3productionsUploadsPlaylistId,
-            "key" -> youtubeApiKey,
+            "key" -> settings.youTube.apiKey,
             "part" -> "snippet",
             "pageToken" -> pageToken,
             "maxResults" -> "50"
@@ -77,7 +80,7 @@ object IndexYoutubeVideos {
         events = videos.items.map(toDomain)
         _ <- events.map { event =>
           elasticsearchClient.execute {
-            indexInto(eventsIndex).id(event.id.value).fields(toDoc(event))
+            indexInto(eventsIndex).id(event.id.value).doc(toDoc(event).asJson.toString())
           }
         }.sequence
         _ <- videos.nextPageToken.toList

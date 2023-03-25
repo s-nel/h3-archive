@@ -7,10 +7,12 @@ import {
   EuiTitle
 } from '@elastic/eui'
 import axios from 'axios'
+import { useNavigate } from 'react-router-dom'
 
 const Login = () => {
   const [user, setUser] = React.useState('')
   const [password, setPassword] = React.useState('')
+  const navigate = useNavigate()
 
   return (<div>
     <EuiTitle>
@@ -30,6 +32,8 @@ const Login = () => {
         axios.post('/api/auth/_login', {
           user,
           password,
+        }).then(() => {
+          navigate("/")
         })
       }}>Login</EuiButton>
     </form>

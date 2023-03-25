@@ -6,9 +6,8 @@ import akka.http.scaladsl.model.Uri.{Path, Query}
 import akka.http.scaladsl.model.headers.{Authorization, BasicHttpCredentials, OAuth2BearerToken}
 import akka.http.scaladsl.model.{FormData, HttpMethods, HttpRequest, Uri}
 import akka.stream.Materializer
-import cats.Parallel
 import cats.implicits._
-import com.sksamuel.elastic4s.{ElasticClient, ElasticProperties}
+import com.sksamuel.elastic4s.ElasticClient
 import com.sksamuel.elastic4s.ElasticDsl._
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.sksamuel.elastic4s.fields.{
@@ -20,15 +19,17 @@ import com.sksamuel.elastic4s.fields.{
   NestedField,
   TextField
 }
+import com.snacktrace.archive.Server.{EventDoc, LinkDoc, PersonRef, TagDoc}
 import com.snacktrace.archive.model._
+import com.typesafe.config.ConfigFactory
 import io.circe.Decoder
+import io.circe.syntax._
 import io.circe.generic.extras.Configuration
 import io.circe.generic.extras.auto._
 import io.circe.parser.decode
 
 import java.net.URI
-import java.time.{Instant, LocalDate, ZoneId}
-import java.time.format.DateTimeFormatter
+import java.time.{LocalDate, ZoneId}
 import scala.concurrent.duration._
 import scala.concurrent.{Await, ExecutionContext, Future}
 
@@ -41,11 +42,6 @@ object IndexPodcast {
   val spotifyAccountsUrl = Uri("https://accounts.spotify.com")
   val spotifyWebApiUrl = Uri("https://api.spotify.com")
   val h3id = "7ydBWzs9BSRh97tsCjOhby"
-  val spotifyClientId = "18d4fe437bab4702909e505d414564cf"
-  val spotifyClientSecret = "89a2fe751d2c4dc69202a2941b649dc8"
-  val elasticsearchUser = "elastic"
-  val elasticsearchPassword = "Vk2ojS8sJEpWWK4p0BnDOaXU"
-  val elasticsearchHost = "archive.es.us-central1.gcp.cloud.es.io:443"
   val eventsIndex = "events"
   val peopleIndex = "people"
   val soundbitesIndex = "soundbites"
@@ -80,13 +76,15 @@ object IndexPodcast {
   )
 
   def main(args: Array[String]): Unit = {
+    val settings = Settings(ConfigFactory.load())
+
     val elasticsearchClient = ElasticClient(
       AkkaHttpClient(
         AkkaHttpClientSettings.default.copy(
           https = true,
-          hosts = Vector(elasticsearchHost),
-          username = Some(elasticsearchUser),
-          password = Some(elasticsearchPassword)
+          hosts = Vector(settings.elasticsearch.host),
+          username = Some(settings.elasticsearch.writeUser),
+          password = Some(settings.elasticsearch.writePassword)
         )
       )
     )
@@ -94,7 +92,7 @@ object IndexPodcast {
     val accessTokenRequest = HttpRequest(
       method = HttpMethods.POST,
       uri = spotifyAccountsUrl.withPath(Path.Empty / "api" / "token"),
-      headers = Seq(Authorization(BasicHttpCredentials(spotifyClientId, spotifyClientSecret))),
+      headers = Seq(Authorization(BasicHttpCredentials(settings.spotify.clientId, settings.spotify.clientSecret))),
       entity = FormData(
         "grant_type" -> "client_credentials"
       ).toEntity
@@ -121,7 +119,39 @@ object IndexPodcast {
         events = episodes.items.map(toDomain)
         _ <- events.map { event =>
           elasticsearchClient.execute {
-            indexInto(eventsIndex).id(event.id.value).fields(toDoc(event))
+            val eventDoc = toDoc(event)
+            val allEventPeople = Set(
+              PersonRef("eklein", "host"),
+              PersonRef("aayad", "crew"),
+              PersonRef("cgrant", "crew"),
+              PersonRef("dswerdlove", "crew"),
+              PersonRef("islater", "crew"),
+              PersonRef("layad", "crew"),
+              PersonRef("love", "crew"),
+              PersonRef("olopes", "crew"),
+              PersonRef("stemple", "crew"),
+              PersonRef("zlouis", "crew")
+            )
+            val people = if (eventDoc.name.toLowerCase.contains("leftovers")) {
+              allEventPeople ++ Set(PersonRef("hpiker", "host"))
+            } else if (eventDoc.name.toLowerCase.contains("after dark")) {
+              allEventPeople ++ Set(PersonRef("hklein", "host"))
+            } else {
+              allEventPeople
+            }
+            val tags = if (eventDoc.name.toLowerCase.contains("leftovers")) {
+              Set(TagDoc("Series", "Leftovers"))
+            } else if (eventDoc.name.toLowerCase.contains("after dark")) {
+              Set(TagDoc("Series", "After Dark"))
+            } else if (eventDoc.name.toLowerCase.contains("h3tv")) {
+              Set(TagDoc("Series", "H3TV"))
+            } else if (eventDoc.name.toLowerCase.contains("off the rails")) {
+              Set(TagDoc("Series", "Off The Rails"))
+            } else {
+              Set.empty[TagDoc]
+            }
+            val transformedDoc = eventDoc.copy(people = Some(people), tags = tags)
+            indexInto(eventsIndex).createOnly(true).id(event.id.value).doc(transformedDoc.asJson.toString())
           }
         }.sequence
         _ <- episodes.next.toList
@@ -174,32 +204,19 @@ object IndexPodcast {
     )
   }
 
-  def toDoc(event: Event): Map[String, Any] = {
-    Map(
-      "event_id" -> event.id.value,
-      "category" -> event.category.name,
-      "name" -> event.name,
-      "description" -> event.description,
-      "children_ids" -> event.children.map(_.id.value).toList,
-      "tags" -> event.tags.map { tag =>
-        Map(
-          "key" -> tag.key,
-          "value" -> tag.value
-        )
-      }.toList,
-      "links" -> event.links.map { link =>
-        Map(
-          "type" -> link.`type`.name,
-          "url" -> link.url.toString
-        )
-      },
-      "start_date" -> event.startDate.toEpochMilli
-    ) ++ Map(
-      "thumb" -> event.thumb.map(_.value),
-      "duration" -> event.duration.map(_.toMillis)
-    ).collect { case (k, Some(v)) =>
-      k -> v
-    }
+  def toDoc(event: Event): EventDoc = {
+    EventDoc(
+      eventId = event.id.value,
+      category = event.category.name,
+      name = event.name,
+      description = event.description,
+      thumb = event.thumb.map(_.value),
+      tags = event.tags.map(t => TagDoc(t.key, t.value)),
+      links = event.links.map(l => LinkDoc(l.`type`.name, l.url.toString)),
+      startDate = event.startDate.toEpochMilli,
+      duration = event.duration.map(_.toMillis),
+      people = Some(Set.empty)
+    )
   }
 
   val indexMapping = properties(

@@ -144,6 +144,7 @@ const Root = () => {
         >
           <EuiPageTemplate.Sidebar>
             <EuiSideNav 
+            style={{position: "fixed"}}
               items={navItems} 
               mobileTitle="Navigate"
               renderItem={props => <Link to={props.href} {...props} key={props.href} />} 
@@ -168,13 +169,13 @@ const Root = () => {
       </EuiProvider>
     </EuiFlexItem>
     <EuiFlexItem grow={false}>
-      <EuiHeader>
+      <EuiHeader style={{boxShadow: "0px 0 10px rgba(0, 0, 0, 0.8)"}}>
         <EuiHeaderSection grow side="right">
           <EuiHeaderSectionItem style={{width: "100%", paddingRight: "20px"}}>
             <EuiFlexGroup gutterSize="s" alignItems="center" justifyContent="flexEnd">
               <EuiFlexItem grow={false}>
                 <EuiText>
-                  <EuiLink color="subtle" external={false} target="_blank" href="https://github.com/s-nel/h3-archive">Made with love</EuiLink>
+                  <EuiLink color="subtle" external={false} target="_blank" href="https://github.com/s-nel/h3-archive/blob/main/CONTRIBUTORS.md">Made with love</EuiLink>
                 </EuiText>
               </EuiFlexItem>
               <EuiFlexItem grow={false}>
