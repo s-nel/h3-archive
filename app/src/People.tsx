@@ -39,7 +39,6 @@ const People = ({
   const navigate = useNavigate()
 
   const setQuery = (query) => {
-    console.log(query)
     const existingParams = new URLSearchParams(window.location.search)
     if (existingParams.get('q') !== query.text) {
       if (!query.text || query.text === '') {
@@ -94,8 +93,8 @@ const People = ({
     <EuiSpacer size="m" />
     <EuiFlexGroup wrap>
       {filteredPeople && filteredPeople.map((p, i) => {
-        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : (i < 75 ? "140px" : (i < 100 ? "110px" : "80px")))
-        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : (i < 75 ? "108px" : (i < 100 ? "110px": "80px")))
+        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : (i < 75 ? "140px" : (i < 150 ? "110px" : "80px")))
+        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : (i < 75 ? "108px" : (i < 150 ? "110px": "80px")))
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           justifyContent="center" 
