@@ -9,31 +9,36 @@ import {
   useParams,
 } from "react-router-dom";
 import { useDispatch, useSelector } from 'react-redux'
+import Cookies from 'js-cookie'
 import './App.css';
 import axios from 'axios'
 import {
+  EuiFlexGroup,
+  EuiFlexItem,
   EuiGlobalToastList,
   EuiHeader,
   EuiHeaderSection,
   EuiHeaderSectionItem,
   EuiImage,
+  EuiLink,
   EuiPageTemplate,
   EuiProvider,
   EuiSideNav,
-  EuiSideNavItem,
+  EuiText,
 } from '@elastic/eui';
 import '@elastic/eui/dist/eui_theme_dark.css';
+import { BsGithub } from 'react-icons/bs'
 import { Provider } from 'react-redux'
 import store from './data/store'
 import Timeline from './Timeline'
 import People from './People'
 import Person from './Person'
-import Lore from './Lore'
 import Soundbites from './Soundbites'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import { setAll as setAllPeople } from './data/peopleSlice'
 import { setAll as setAllSoundbites } from './data/soundbitesSlice'
 import { remove as removeToast } from './data/toastsSlice'
+import Login from './Login'
 
 const Root = () => {
   const [hasFetchedData, setFetchedData] = React.useState(false)
@@ -58,7 +63,7 @@ const Root = () => {
     }}/>
   }
 
-  const personItems = (): EuiSideNavItem[] | undefined => {
+  const personItems = () => {
     if (loc.pathname.startsWith('/people') && params.person) {
       const person = people && people.find(p => p.person_id === params.person)
       if (person) {
@@ -75,7 +80,7 @@ const Root = () => {
     return undefined
   }
 
-  const navItems: EuiSideNavItem[] = [
+  const navItems = [
     {
       name: 'Timeline',
       id: 'timeline',
@@ -112,57 +117,82 @@ const Root = () => {
     }
   }
 
-  return (<EuiProvider colorMode="dark" modify={themeOverrides}>
-    <EuiHeader>
-      <EuiHeaderSection>
-        <EuiHeaderSectionItem>
-          <Link to="/">
-            <EuiImage
-              height={20}
-              style={{ marginLeft: "20px" }}
-              alt="logo"
-              src="/logo.svg"
+  return (<EuiFlexGroup direction="column">
+    <EuiFlexItem grow={1}>
+      <EuiProvider colorMode="dark" modify={themeOverrides}>
+        <EuiHeader>
+          <EuiHeaderSection>
+            <EuiHeaderSectionItem>
+              <Link to="/">
+                <EuiImage
+                  height={20}
+                  style={{ marginLeft: "20px" }}
+                  alt="logo"
+                  src="/logo.svg"
+                />
+              </Link>
+            </EuiHeaderSectionItem>
+          </EuiHeaderSection>
+        </EuiHeader>
+        <EuiPageTemplate
+          panelled
+          grow
+          restrictWidth={false}
+          style={{ background: "none" }}
+          mainProps={{ style: { backgroundColor: "rgba(29, 30, 36, .8)" } }}
+          paddingSize="xl"
+        >
+          <EuiPageTemplate.Sidebar>
+            <EuiSideNav 
+              items={navItems} 
+              mobileTitle="Navigate"
+              renderItem={props => <Link to={props.href} {...props} key={props.href} />} 
             />
-          </Link>
-        </EuiHeaderSectionItem>
-      </EuiHeaderSection>
-    </EuiHeader>
-    <EuiPageTemplate
-      panelled
-      grow
-      restrictWidth={false}
-      style={{ background: "none" }}
-      mainProps={{ style: { backgroundColor: "rgba(29, 30, 36, .8)" } }}
-      paddingSize="xl"
-    >
-      <EuiPageTemplate.Sidebar>
-        <EuiSideNav 
-          items={navItems} 
-          mobileTitle="Navigate"
-          renderItem={props => <Link to={props.href} {...props} key={props.href} />} 
+          </EuiPageTemplate.Sidebar>
+          {/*<EuiPageTemplate.Header 
+            iconType="/logo.svg" 
+            pageTitle=" " 
+            iconProps={{
+              size: "original"
+            }}
+          />*/}
+          <EuiPageTemplate.Section grow={true} style={{ background: "none" }}>
+            <Outlet />
+          </EuiPageTemplate.Section>
+        </EuiPageTemplate>
+        <EuiGlobalToastList
+          toasts={toasts}
+          dismissToast={toast => dispatch(removeToast(toast.id))}
+          toastLifeTimeMs={6000}
         />
-      </EuiPageTemplate.Sidebar>
-      {/*<EuiPageTemplate.Header 
-        iconType="/logo.svg" 
-        pageTitle=" " 
-        iconProps={{
-          size: "original"
-        }}
-      />*/}
-      <EuiPageTemplate.Section grow={true} style={{ background: "none" }}>
-        <Outlet />
-      </EuiPageTemplate.Section>
-    </EuiPageTemplate>
-    <EuiGlobalToastList
-      toasts={toasts}
-      dismissToast={toast => dispatch(removeToast(toast.id))}
-      toastLifeTimeMs={6000}
-    />
-  </EuiProvider>)
+      </EuiProvider>
+    </EuiFlexItem>
+    <EuiFlexItem grow={false}>
+      <EuiHeader>
+        <EuiHeaderSection grow side="right">
+          <EuiHeaderSectionItem style={{width: "100%", paddingRight: "20px"}}>
+            <EuiFlexGroup gutterSize="s" alignItems="center" justifyContent="flexEnd">
+              <EuiFlexItem grow={false}>
+                <EuiText>
+                  <EuiLink color="subtle" external={false} target="_blank" href="https://github.com/s-nel/h3-archive">Made with love</EuiLink>
+                </EuiText>
+              </EuiFlexItem>
+              <EuiFlexItem grow={false}>
+                <EuiLink color="subtle" external={false} target="_blank" href="https://github.com/s-nel/h3-archive">
+                  <BsGithub style={{width: "24px", height: "24px"}} />
+                </EuiLink>
+              </EuiFlexItem>
+            </EuiFlexGroup>
+          </EuiHeaderSectionItem>
+        </EuiHeaderSection>
+      </EuiHeader>
+    </EuiFlexItem>
+  </EuiFlexGroup>)
 }
 
 const App = () => {
-  const [isEditing] = React.useState(true)
+
+  const [isEditing] = React.useState(!!Cookies.get('session'))
 
   const router = createBrowserRouter([
     {
@@ -188,6 +218,10 @@ const App = () => {
         {
           path: "/soundbites",
           element: <Soundbites />,
+        },
+        {
+          path: "/login",
+          element: <Login />
         }
       ],
     },

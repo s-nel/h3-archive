@@ -7,6 +7,7 @@ lazy val root = (project in file("."))
     name := "archive",
     idePackagePrefix := Some("com.snacktrace.archive"),
     libraryDependencies ++= Seq(
+      "com.github.jwt-scala" %% "jwt-core" % "9.2.0",
       "com.sksamuel.elastic4s" %% "elastic4s-client-akka" % "8.5.3",
       "com.typesafe.akka" %% "akka-actor" % "2.7.0",
       "com.typesafe.akka" %% "akka-http" % "10.2.10",

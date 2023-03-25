@@ -7,7 +7,6 @@ import {
 import { useDispatch, useSelector } from 'react-redux'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import axios from 'axios'
-import { DateTime } from 'luxon'
 
 const SearchBox = () => {
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())

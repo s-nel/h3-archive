@@ -2,13 +2,13 @@ package com.snacktrace.archive
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
-import akka.http.scaladsl.model._
+import akka.http.scaladsl.model.{HttpResponse, StatusCode, StatusCodes}
 import akka.http.scaladsl.server.Directives._
 import com.sksamuel.elastic4s.ElasticClient
 import com.sksamuel.elastic4s.ElasticDsl.{get => _, _}
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.snacktrace.archive.IndexPodcast.{elasticsearchHost, elasticsearchPassword, elasticsearchUser}
-import com.snacktrace.archive.model.{Category, Event, EventId, Link, LinkType, Tag, Thumb}
+import com.snacktrace.archive.model.EventId
 import de.heikoseeberger.akkahttpcirce.FailFastCirceSupport
 import io.circe.generic.extras.Configuration
 import io.circe.generic.extras.auto._
@@ -17,30 +17,52 @@ import io.circe.syntax._
 import IndexPodcast._
 
 import akka.http.scaladsl.coding.Coders
-import akka.http.scaladsl.server.{PathMatcher, RouteResult}
+import akka.http.scaladsl.model.headers.{Cookie, HttpCookie, HttpCookiePair, `Set-Cookie`}
+import akka.http.scaladsl.server.Directive1
 import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
+import com.snacktrace.archive.Server.validateCredentials
+import com.snacktrace.archive.Settings.SessionSettings
+import com.typesafe.config.ConfigFactory
 import io.circe.Json
+import pdi.jwt.{Jwt, JwtAlgorithm}
 
-import java.net.URI
-import java.time.{Duration, Instant}
+import scala.collection.mutable
 import scala.concurrent.Future
 import scala.io.StdIn
 import scala.util.{Failure, Success, Try}
 
 object Server extends FailFastCirceSupport {
 
+  val sessionCookieName = "session"
+
+  val clients = scala.collection.mutable.Map.empty[String, ElasticClient]
+
   def main(args: Array[String]): Unit = {
+    val settings = Settings(ConfigFactory.load())
+
+    println(settings)
+
     implicit val circeConfig: Configuration = Configuration.default.withSnakeCaseMemberNames
     implicit val system = ActorSystem("my-system")
     implicit val executionContext = system.dispatcher
 
-    val elasticsearchClient = ElasticClient(
+    val readonlyClient = ElasticClient(
       AkkaHttpClient(
         AkkaHttpClientSettings.default.copy(
           https = true,
-          hosts = Vector(elasticsearchHost),
-          username = Some(elasticsearchUser),
-          password = Some(elasticsearchPassword)
+          hosts = Vector(settings.elasticsearch.host),
+          username = Some(settings.elasticsearch.readUser),
+          password = Some(settings.elasticsearch.readPassword)
+        )
+      )
+    )
+    val readWriteClient = ElasticClient(
+      AkkaHttpClient(
+        AkkaHttpClientSettings.default.copy(
+          https = true,
+          hosts = Vector(settings.elasticsearch.host),
+          username = Some(settings.elasticsearch.writeUser),
+          password = Some(settings.elasticsearch.writePassword)
         )
       )
     )
@@ -51,68 +73,83 @@ object Server extends FailFastCirceSupport {
           get {
             parameters("q".optional) { maybeQuery =>
               encodeResponseWith(Coders.Gzip) {
-                complete(getEvents(elasticsearchClient, maybeQuery))
+                complete(getEvents(readonlyClient, maybeQuery))
               }
             }
           } ~
             post {
               entity(as[Json]) { search =>
                 encodeResponseWith(Coders.Gzip) {
-                  complete(searchEvents(elasticsearchClient, search))
+                  complete(searchEvents(readonlyClient, search))
                 }
               }
             } ~
-            pathPrefix("^.+$".r) { eventId =>
-              entity(as[EventDoc]) { event =>
-                put {
-                  complete(updateEvent(elasticsearchClient, EventId(eventId), event))
+            validateCredentials(settings.session) { client =>
+              pathPrefix("^.+$".r) { eventId =>
+                entity(as[EventDoc]) { event =>
+                  put {
+                    complete(updateEvent(readonlyClient, EventId(eventId), event))
+                  }
                 }
               }
             }
         } ~
           pathPrefix("people") {
             get {
-              complete(getPeople(elasticsearchClient, None))
+              complete(getPeople(readonlyClient, None))
             } ~
-              entity(as[PersonDoc]) { person =>
-                post {
-                  complete(createPerson(elasticsearchClient, person))
-                } ~
-                  pathPrefix("^.+$".r) { personId =>
-                    complete(updatePerson(elasticsearchClient, personId, person))
-                  }
+              validateCredentials(settings.session) { client =>
+                entity(as[PersonDoc]) { person =>
+                  post {
+                    complete(createPerson(client, person))
+                  } ~
+                    pathPrefix("^.+$".r) { personId =>
+                      complete(updatePerson(client, personId, person))
+                    }
+                }
               }
           } ~
           pathPrefix("soundbites") {
             get {
-              complete(getSoundbites(elasticsearchClient))
+              complete(getSoundbites(readonlyClient))
             } ~
-              entity(as[SoundbiteDoc]) { soundbite =>
-                pathPrefix("^.+$".r) { soundbiteId =>
-                  complete(updateSoundbite(elasticsearchClient, soundbiteId, soundbite))
+              validateCredentials(settings.session) { client =>
+                entity(as[SoundbiteDoc]) { soundbite =>
+                  pathPrefix("^.+$".r) { soundbiteId =>
+                    complete(updateSoundbite(client, soundbiteId, soundbite))
+                  }
                 }
               }
+          } ~
+          pathPrefix("auth") {
+            pathPrefix("_login") {
+              post {
+                entity(as[Credentials]) { credentials =>
+                  complete(authenticate(settings.session, credentials))
+                }
+              }
+            }
           }
       }
     }
 
     val bindingFuture = for {
-      _ <- elasticsearchClient.execute {
+      _ <- readWriteClient.execute {
         createIndex(peopleIndex).mapping(peopleIndexMapping)
       }
-      _ <- elasticsearchClient.execute {
+      _ <- readWriteClient.execute {
         createIndex(eventsIndex).mapping(indexMapping)
       }
-      _ <- elasticsearchClient.execute {
+      _ <- readWriteClient.execute {
         createIndex(soundbitesIndex).mapping(soundbitesIndexMapping)
       }
-      _ <- elasticsearchClient.execute {
+      _ <- readWriteClient.execute {
         putMapping(peopleIndex).properties(peopleIndexMapping.properties)
       }
-      _ <- elasticsearchClient.execute {
+      _ <- readWriteClient.execute {
         putMapping(eventsIndex).properties(indexMapping.properties)
       }
-      _ <- elasticsearchClient.execute {
+      _ <- readWriteClient.execute {
         putMapping(soundbitesIndex).properties(soundbitesIndexMapping.properties)
       }
       binding <- Http().newServerAt("localhost", 8080).bind(route)
@@ -120,11 +157,18 @@ object Server extends FailFastCirceSupport {
       binding
     }
 
-    println(s"Server now online. Please navigate to http://localhost:8080/events\nPress RETURN to stop...")
+    println(s"Server now online at http://localhost:8080/\nPress RETURN to stop...")
     StdIn.readLine() // let it run until user presses return
     bindingFuture
       .flatMap(_.unbind()) // trigger unbinding from the port
       .onComplete(_ => system.terminate()) // and shutdown when done
+  }
+
+  def validateCredentials(sessionSettings: SessionSettings): Directive1[ElasticClient] = {
+    cookie(sessionCookieName).flatMap { sessionCookie =>
+      val sub = Jwt.decode(sessionCookie.value, sessionSettings.secret, Seq(JwtAlgorithm.HS224)).get.subject.get
+      provide(clients.get(sub).get)
+    }
   }
 
   def getEvents(elasticsearchClient: ElasticClient, maybeQueryStr: Option[String]): Future[List[EventDoc]] = {
@@ -193,7 +237,7 @@ object Server extends FailFastCirceSupport {
 
     for {
       hits <- elasticsearchClient.execute {
-        search(peopleIndex).query(query).size(500)
+        search(peopleIndex).query(query).size(1000)
       }
     } yield {
       hits.result.hits.hits.toList.flatMap { hit =>
@@ -260,6 +304,32 @@ object Server extends FailFastCirceSupport {
       .map(_ => ())
   }
 
+  def authenticate(sessionSettings: SessionSettings, credentials: Credentials): Future[HttpResponse] = {
+    val elasticsearchClient = ElasticClient(
+      AkkaHttpClient(
+        AkkaHttpClientSettings.default.copy(
+          https = true,
+          hosts = Vector(elasticsearchHost),
+          username = Some(credentials.user),
+          password = Some(credentials.password)
+        )
+      )
+    )
+
+    elasticsearchClient
+      .execute {
+        getUsers()
+      }
+      .map { _ =>
+        clients.put(credentials.user, elasticsearchClient)
+        val jwt = Jwt.encode(s"""{"sub": "${credentials.user}"}""", sessionSettings.secret, JwtAlgorithm.HS224)
+        HttpResponse(
+          status = StatusCodes.OK,
+          headers = Seq(`Set-Cookie`(HttpCookie(sessionCookieName, jwt, httpOnly = false, path = Some("/"))))
+        )
+      }
+  }
+
   final case class LinkDoc(
       `type`: String,
       url: String
@@ -310,5 +380,10 @@ object Server extends FailFastCirceSupport {
       description: Option[String],
       winningYear: Option[Int],
       nominatedYear: Option[Int]
+  )
+
+  final case class Credentials(
+      user: String,
+      password: String
   )
 }
