@@ -19,27 +19,45 @@ import { BsPerson } from 'react-icons/bs'
 const Soundbites = () => {
   const soundbites = useSelector(state => state.soundbites.value)
   const people = useSelector(state => state.people.value)
-  const [query, setQuery] = React.useState(null)
-  const [audios, setAudios] = React.useState(null)
+  const [, setAudios] = React.useState(null)
+  const [force, setForce] = React.useState(0)
   const [hovered, setHovered] = React.useState(null)
   const [filteredSoundbites, setFilteredSoundbites] = React.useState([])
   const width = 175
 
-  React.useEffect(() => {
-    if (query) {
-      setFilteredSoundbites(Query.execute(query, soundbites.map(soundbite => {
-        const person = people && people.find(p => p.person_id === soundbite.person_id)
-        return Object.assign({
-          won: !!soundbite.winning_year,
-          nominated: !!soundbite.winning_year || !!soundbite.nominated_year,
-          person: soundbite.person_id,
-          personName: person && (person.display_name || `${person.first_name} ${person.last_name}`)
-        }, soundbite)
-      })))
-    } else {
-      setFilteredSoundbites(soundbites)
+  const setQuery = (query) => {
+    const existingParams = new URLSearchParams(window.location.search)
+    if (existingParams.get('q') !== query.text) {
+      if (!query.text || query.text === '') {
+        existingParams.delete('q')
+      } else {
+        existingParams.set('q', query.text)
+      }
+      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
+      window.history.replaceState({path:newurl},'',newurl)
+      setForce(force + 1)
     }
-  }, [soundbites, query, setFilteredSoundbites])
+  }
+  const searchParams = new URLSearchParams(window.location.search)
+  const query = searchParams.get('q') && Query.parse(searchParams.get('q'))
+
+  React.useEffect(() => {
+    if (soundbites) {
+      if (query) {
+        setFilteredSoundbites(Query.execute(query, soundbites.map(soundbite => {
+          const person = people && people.find(p => p.person_id === soundbite.person_id)
+          return Object.assign({
+            won: !!soundbite.winning_year,
+            nominated: !!soundbite.winning_year || !!soundbite.nominated_year,
+            person: soundbite.person_id,
+            personName: person && (person.display_name || `${person.first_name} ${person.last_name}`)
+          }, soundbite)
+        })))
+      } else {
+        setFilteredSoundbites(soundbites)
+      }
+    }
+  }, [soundbites, query && query.text, setFilteredSoundbites])
 
   React.useEffect(() => {
     if (soundbites) {
@@ -219,6 +237,7 @@ const SoundbiteSearch = ({
       incremental: true,
     }}
     onChange={onSearch(setQuery)}
+    query={query}
   />)
 }
 

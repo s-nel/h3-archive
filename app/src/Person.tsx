@@ -194,10 +194,6 @@ const Person = ({
   } else {
     sortedEvents = events
   }
-  let eventsTable
-  if (!sortedEvents || sortedEvents.length === 0) {
-    eventsTable = null
-  }
   const pageOfEvents = () => {
     if (!pageIndex && !pageSize) {
       return sortedEvents
@@ -205,37 +201,42 @@ const Person = ({
     const startIndex = pageIndex * pageSize
     return sortedEvents.slice(startIndex, Math.min(startIndex + pageSize, sortedEvents.length))
   }
-  eventsTable = (<div>
-    <EuiHorizontalRule />
-    <EuiText>
-      <h3>Appears in</h3>
-    </EuiText>
-    <EuiSpacer />
-    <EuiBasicTable
-      columns={eventsColumns}
-      items={pageOfEvents()}
-      pagination={events.length < 10 ? undefined : {
-        pageIndex,
-        pageSize,
-        totalItemCount: events.length,
-        pageSizeOptions: [10, 25, 50],
-      }}
-      onChange={onChange}
-      sorting={{
-        enableAllColumns: true,
-        sort: {
-          field: sortField,
-          direction: sortDirection,
-        }
-      }}
-      rowProps={{
-        style: {
-          background: 'none',
-        }
-      }}
-      tableLayout="auto"
-    />
-  </div>)
+  let eventsTable
+  if (!sortedEvents || sortedEvents.length === 0) {
+    eventsTable = null
+  } else {
+    eventsTable = (<div>
+      <EuiHorizontalRule />
+      <EuiText>
+        <h3>Appears in</h3>
+      </EuiText>
+      <EuiSpacer />
+      <EuiBasicTable
+        columns={eventsColumns}
+        items={pageOfEvents()}
+        pagination={events.length < 10 ? undefined : {
+          pageIndex,
+          pageSize,
+          totalItemCount: events.length,
+          pageSizeOptions: [10, 25, 50],
+        }}
+        onChange={onChange}
+        sorting={{
+          enableAllColumns: true,
+          sort: {
+            field: sortField,
+            direction: sortDirection,
+          }
+        }}
+        rowProps={{
+          style: {
+            background: 'none',
+          }
+        }}
+        tableLayout="auto"
+      />
+    </div>)
+  }
 
   return (<div>
     <EuiBreadcrumbs breadcrumbs={breadcrumbs} />

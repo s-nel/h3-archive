@@ -193,7 +193,7 @@ object Server extends FailFastCirceSupport {
 
     for {
       hits <- elasticsearchClient.execute {
-        search(peopleIndex).query(query).size(300)
+        search(peopleIndex).query(query).size(500)
       }
     } yield {
       hits.result.hits.hits.toList.flatMap { hit =>

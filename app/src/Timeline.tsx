@@ -4,7 +4,6 @@ import Chart from './Chart'
 import Info from './Info'
 import './App.css'
 import SearchBox from './SearchBox'
-import { useSearchParams } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 import {
   EuiFlexGroup,
