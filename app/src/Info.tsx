@@ -103,7 +103,7 @@ const Info = ({ info, isEditing, setInfo }) => {
       render: t => t ? t.key : ''
     },
     {
-      value: "value",
+      name: "value",
       render: t => t ? t.value : ''
     },
   ]
@@ -184,7 +184,7 @@ const Info = ({ info, isEditing, setInfo }) => {
           <EuiText>
             <h4>People</h4>
           </EuiText>
-          <EuiBasicTable items={info.people ? [...info.people].sort(sortPeopleByRole) : []} columns={peopleColumns} />
+          <EuiBasicTable responsive={false} items={info.people ? [...info.people].sort(sortPeopleByRole) : []} columns={peopleColumns} />
         </EuiPanel>)}
         {links && links.length > 0 && (<EuiPanel grow={false}>
           <EuiText>

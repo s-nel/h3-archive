@@ -5,6 +5,7 @@ import {
   Criteria,
   EuiBadge,
   EuiBasicTable,
+  EuiBasicTableColumn,
   EuiBreadcrumb,
   EuiBreadcrumbs,
   EuiButton,
@@ -63,6 +64,8 @@ const Person = ({
 
   const person = people && people.find(p => p.person_id === personId)
 
+  console.log(events, people, person)
+
   React.useEffect(() => {
     if (!personDoc && person) {
       const personMinusOtherFields = Object.assign({}, person)
@@ -91,15 +94,16 @@ const Person = ({
 
   const imgWidth = "200px"
 
-  const soundbitesColumns = [
+  const soundbitesColumns: Array<EuiBasicTableColumn<any>> = [
     {
       render: soundbite => soundbite ? (soundbite.quote ? `“${soundbite.quote}”` : soundbite.alt) : '',
     },
     {
-      width: 50,
+      width: '50px',
       actions: [
         {
           name: 'Play',
+          description: 'Play the sound',
           type: 'icon',
           icon: 'play',
           onClick: soundbite => {
@@ -118,7 +122,7 @@ const Person = ({
     <EuiButton onClick={() => onCreatePerson(JSON.parse(personDoc), dispatch)}>Create</EuiButton>
   </div>)
 
-  const eventsColumns = [
+  const eventsColumns: Array<EuiBasicTableColumn<any>> = [
     {
       field: 'name',
       sortable: true,
@@ -129,6 +133,7 @@ const Person = ({
       field: 'roleLabel',
       name: 'Role',
       sortable: true,
+      render: a => a
     },
     {
       field: 'start_date',

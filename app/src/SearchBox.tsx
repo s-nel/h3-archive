@@ -8,7 +8,10 @@ import { useDispatch, useSelector } from 'react-redux'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import axios from 'axios'
 
-const SearchBox = () => {
+const SearchBox = ({
+  setQuery,
+  query,
+}) => {
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
   const [isLoading, setLoading] = React.useState(false)
   const dispatch = useDispatch()
@@ -31,7 +34,7 @@ const SearchBox = () => {
     date: {
       type: "date",
       valueDescription: "the date of the event"
-    }
+    },
   }
 
   const nestedFields = [
@@ -80,13 +83,15 @@ const SearchBox = () => {
       key="search"
       onChange={q => {
         if (q.query) {
-          console.log(q)
-          console.log(Query.toESQuery(q.query))
-          onSearchChange(dispatch, searchAbortController, setSearchAbortController, setLoading, nestedFields)(q.query)
+          // console.log(q)
+          // console.log(Query.toESQuery(q.query))
+          setQuery(q.query)
+          //onSearchChange(dispatch, searchAbortController, setSearchAbortController, setLoading, nestedFields)(q.query)
         }
       }}
+      query={query}
       box={{
-        incremental: false,
+        incremental: true,
         schema: {
           fields: fields,
         },
@@ -96,26 +101,26 @@ const SearchBox = () => {
   /></div>)
 }
 
-const onSearchChange = (dispatch, searchAbortController, setSearchAbortController, setLoading, nestedFields) => async (search: Query) => {
-  setLoading(true)
-  const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), search)
-  console.log("searchWithoutNestedFields", searchWithoutNestedFields)
-  searchAbortController.abort()
-  const newSearchAbortController = new AbortController()
-  setSearchAbortController(newSearchAbortController)
-  const esQuery = Query.toESQuery(searchWithoutNestedFields)
-  console.log("esQuery", esQuery)
-  const response = await axios.post('/api/events', esQuery, {
-    signal: newSearchAbortController.signal
-  })
-  // Flat array of person id
-  response.data.forEach(e => {
-    e.person = e.people.map(p => p.person_id)
-    e.date = e.start_date
-  })
-  const filteredEvents = Query.execute(search, response.data)
-  dispatch(setAllEvents(filteredEvents))
-  setLoading(false)
-}
+// const onSearchChange = (dispatch, searchAbortController, setSearchAbortController, setLoading, nestedFields) => async (search: Query) => {
+//   setLoading(true)
+//   const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), search)
+//   console.log("searchWithoutNestedFields", searchWithoutNestedFields)
+//   searchAbortController.abort()
+//   const newSearchAbortController = new AbortController()
+//   setSearchAbortController(newSearchAbortController)
+//   const esQuery = Query.toESQuery(searchWithoutNestedFields)
+//   console.log("esQuery", esQuery)
+//   const response = await axios.post('/api/events', esQuery, {
+//     signal: newSearchAbortController.signal
+//   })
+//   // Flat array of person id
+//   response.data.forEach(e => {
+//     e.person = e.people.map(p => p.person_id)
+//     e.date = e.start_date
+//   })
+//   const filteredEvents = Query.execute(search, response.data)
+//   dispatch(setAllEvents(filteredEvents))
+//   setLoading(false)
+// }
 
 export default SearchBox;

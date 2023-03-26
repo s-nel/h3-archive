@@ -14,8 +14,8 @@ import {
   EuiText,
   EuiToolTip,
   Query,
+  useIsWithinBreakpoints,
 } from '@elastic/eui'
-import axios from 'axios'
 import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
 
@@ -37,6 +37,7 @@ const People = ({
   const people = useSelector((state) => state.people.value)
   const [filteredPeople, setFilteredPeople] = React.useState([])
   const navigate = useNavigate()
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
 
   const setQuery = (query) => {
     const existingParams = new URLSearchParams(window.location.search)
@@ -53,8 +54,6 @@ const People = ({
   }
   const searchParams = new URLSearchParams(window.location.search)
   const query = searchParams.get('q') && Query.parse(searchParams.get('q'))
-
-  console.log("query", query)
 
   React.useEffect(() => {
     if (people) {
@@ -91,10 +90,10 @@ const People = ({
     <EuiSpacer size="xl" />
     <PeopleSearch query={query} setQuery={setQuery} />
     <EuiSpacer size="m" />
-    <EuiFlexGroup wrap>
+    <EuiFlexGroup wrap responsive={false}>
       {filteredPeople && filteredPeople.map((p, i) => {
-        const imgWidth = i < 10 ? "200px" : (i < 40 ? "175px" : (i < 75 ? "140px" : (i < 150 ? "110px" : "80px")))
-        const innerWidth = i < 10 ? "168px" : (i < 40 ? "143px" : (i < 75 ? "108px" : (i < 150 ? "110px": "80px")))
+        const imgWidth = isMobile ? "125px" : (i < 10 ? "200px" : (i < 40 ? "175px" : (i < 75 ? "140px" : (i < 150 ? "110px" : "80px"))))
+        const innerWidth = isMobile ? "143px" : (i < 10 ? "168px" : (i < 40 ? "143px" : (i < 75 ? "108px" : (i < 150 ? "110px": "80px"))))
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           justifyContent="center" 

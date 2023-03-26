@@ -12,6 +12,7 @@ import {
   EuiText,
   EuiToolTip,
   Query,
+  useIsWithinBreakpoints,
 } from '@elastic/eui'
 import { useSelector } from 'react-redux'
 import { BsPerson } from 'react-icons/bs'
@@ -23,7 +24,6 @@ const Soundbites = () => {
   const [force, setForce] = React.useState(0)
   const [hovered, setHovered] = React.useState(null)
   const [filteredSoundbites, setFilteredSoundbites] = React.useState([])
-  const width = 175
 
   const setQuery = (query) => {
     const existingParams = new URLSearchParams(window.location.search)
@@ -40,6 +40,9 @@ const Soundbites = () => {
   }
   const searchParams = new URLSearchParams(window.location.search)
   const query = searchParams.get('q') && Query.parse(searchParams.get('q'))
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+  const width = isMobile ? 140 : 175
+  const maxTextHeight = isMobile ? 90 : 125
 
   React.useEffect(() => {
     if (soundbites) {
@@ -93,7 +96,7 @@ const Soundbites = () => {
     <EuiSpacer size="xl" />
     <SoundbiteSearch query={query} setQuery={setQuery} people={people} soundbites={soundbites} />
     <EuiSpacer size="m" />
-    <EuiFlexGroup wrap>
+    <EuiFlexGroup responsive={false} wrap>
       {filteredSoundbites && filteredSoundbites.map(soundbite => {
         const person = people && people.find(p => p.person_id === soundbite.person_id)
         return (<EuiFlexItem 
@@ -121,7 +124,7 @@ const Soundbites = () => {
           >
             <EuiFlexGroup direction="column" style={{height: '100%'}} gutterSize="none">
               <EuiFlexItem grow>
-                <EuiFlexGroup gutterSize="s" justifyContent="center" alignItems="center" style={{height: '100%', maxHeight: '125px'}}>
+                <EuiFlexGroup gutterSize="s" justifyContent="center" alignItems="center" style={{height: '100%', maxHeight: `${maxTextHeight}px`}}>
                     <EuiFlexItem grow={1}>
                       <EuiText textAlign="center">
                         <p 
@@ -129,7 +132,7 @@ const Soundbites = () => {
                             padding: '8px',
                             color: hovered === soundbite.soundbite_id ? '#5bd45b' : undefined,
                             overflow: 'hidden', 
-                            maxHeight: '125px',
+                            maxHeight: `${maxTextHeight}px`,
                           }}
                         >{soundbite.quote ? `“${soundbite.quote}”` : soundbite.alt}
                         </p>
@@ -138,7 +141,7 @@ const Soundbites = () => {
                 </EuiFlexGroup>
               </EuiFlexItem>
               <EuiFlexItem grow={false}>
-                <EuiFlexGroup alignItems="flexEnd" gutterSize="s" style={{height: '32px'}}>
+                <EuiFlexGroup alignItems="flexEnd" responsive={false} gutterSize="s" style={{height: '32px'}}>
                   {person && (<EuiToolTip position="bottom" content={person.display_name || `${person.first_name} ${person.last_name}`}>
                     <EuiFlexItem grow={false}>
                       {person.thumb && (<EuiImage 

@@ -6,14 +6,20 @@ import {
   EuiFlexGroup,
   EuiFlexItem,
   EuiLoadingChart,
+  Query,
 } from '@elastic/eui'
 import {
   categoryColor
 } from './Info'
+import _ from 'lodash'
 
 export const height = 300
 
-const Chart = ({ setInfo, info }) => {
+const initSim = _.debounce((data, simulation) => {
+  simulation.force("collide").initialize(data)
+}, 50)
+
+const Chart = ({ setInfo, info, query }) => {
   const width = 2000
   const marginTop = 10
   const marginRight = 20
@@ -24,7 +30,7 @@ const Chart = ({ setInfo, info }) => {
   const [fixed, setFixed] = React.useState(!!info)
   const [isLoading, setLoading] = React.useState(true)
   const rootRef = React.useRef(null)
-  const events = useSelector(state => state.events.value)
+  const unfilteredEvents = useSelector(state => state.events.value)
   const [eventsSize, setEventsSize] = React.useState(0)
   const [svg] = React.useState(d3.create("svg")
     .attr("width", "100%")
@@ -39,6 +45,17 @@ const Chart = ({ setInfo, info }) => {
         .attr("cy", d => d.y)
         //.attr("r", d => d.size)
     }
+  }
+
+  let events
+  if (query) {
+    events = Query.execute(query, unfilteredEvents.map(e => ({
+      ...e,
+      person: e.people.map(p => p.person_id),
+      date: e.start_date,
+    })))
+  } else {
+    events = unfilteredEvents
   }
 
   const domainMin = events && events.length > 0 ? events.reduce((acc, e) => e.start_date < acc ? e.start_date : acc, DateTime.now().toMillis()) : 1362096000000
@@ -67,7 +84,7 @@ const Chart = ({ setInfo, info }) => {
       .on("tick", ticked)
     simulation.tick(400)
     return [simulation, data]
-  }, [events])
+  }, [query && query.text])
 
   const xScale = d3.scaleLinear(xDomain, xRange);
   const xAxis = d3.axisBottom(xScale).tickFormat(d => xTickFormat(d)).tickSizeOuter(0)
@@ -76,6 +93,8 @@ const Chart = ({ setInfo, info }) => {
   svg.selectAll('*').remove()
 
   if (data) {
+    initSim(data, simulation)
+
     svg.append("g")
       .attr("transform", `translate(0,${height - marginBottom})`)
       .call(xAxis)
@@ -101,7 +120,6 @@ const Chart = ({ setInfo, info }) => {
         d.size = radiuses[d.event.category] + 1
       }
     })
-    simulation.force("collide").initialize(data)
     svg.append("g")
       .selectAll(".circ")
       .data(data)
@@ -114,7 +132,7 @@ const Chart = ({ setInfo, info }) => {
         .attr("r", d => info && d.event.event_id === info.event_id ? hoverRadius : radiuses[d.event.category])
         .attr("cx", d => d.x)
         .attr("cy", d => d.y)
-        .on('mouseenter', (e, d) => {
+        .on('mouseenter', (e, d, i) => {
           e.preventDefault()
           if (!fixed) {
             d3.select(this).raise()
@@ -122,7 +140,7 @@ const Chart = ({ setInfo, info }) => {
           }
         })
         .on('click', (e, d) => {
-          toggleSelected(setFixed, fixed)()
+          toggleSelected(setFixed, setInfo, fixed)(d.event)
         })
     if (isLoading) {
       setLoading(false)
@@ -152,7 +170,8 @@ const Chart = ({ setInfo, info }) => {
   return (<div ref={rootRef}></div>);
 }
 
-const toggleSelected = (setFixed, fixed) => () => {
+const toggleSelected = (setFixed, setInfo, fixed) => (e) => {
+  setInfo(e)
   setFixed(!fixed)
 }
 

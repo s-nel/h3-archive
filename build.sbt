@@ -18,5 +18,9 @@ lazy val root = (project in file("."))
       "io.circe" %% "circe-generic-extras" % "0.14.3",
       "io.circe" %% "circe-parser" % "0.14.3",
       "org.typelevel" %% "cats-core" % "2.9.0"
-    )
+    ),
+    assembly / assemblyMergeStrategy := {
+      case PathList("META-INF", xs @ _*) => MergeStrategy.discard
+      case x                             => MergeStrategy.first
+    }
   )
