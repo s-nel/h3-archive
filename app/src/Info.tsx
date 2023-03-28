@@ -197,7 +197,7 @@ const Info = ({ info, isEditing, setInfo }) => {
           <EuiText>
             <h4>Tags</h4>
           </EuiText>
-          <EuiBasicTable items={info.tags} columns={columns} />
+          <EuiBasicTable responsive={false} items={info.tags} columns={columns} />
         </EuiPanel>)}
       </EuiFlexGroup>
     </EuiFlexItem>)}

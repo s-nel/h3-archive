@@ -21,6 +21,8 @@ lazy val root = (project in file("."))
     ),
     assembly / assemblyMergeStrategy := {
       case PathList("META-INF", xs @ _*) => MergeStrategy.discard
+      case PathList("reference.conf")    => MergeStrategy.concat
       case x                             => MergeStrategy.first
-    }
+    },
+    assembly / mainClass := Some("com.snacktrace.archive.Server")
   )

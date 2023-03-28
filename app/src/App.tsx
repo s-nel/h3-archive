@@ -186,7 +186,7 @@ const Root = () => {
               size: "original"
             }}
           />*/}
-          <EuiPageTemplate.Section grow={true} style={{ background: "none" }}>
+          <EuiPageTemplate.Section paddingSize={isMobile ? "s" : undefined} grow={true} style={{ background: "none" }}>
             <Outlet />
           </EuiPageTemplate.Section>
         </EuiPageTemplate>
@@ -342,16 +342,16 @@ const HeaderAppMenu = () => {
       closePopover={closeMenu}
     >
       <EuiKeyPadMenu id={headerAppKeyPadMenuId} style={{ width: "288" }}>
-        <EuiKeyPadMenuItem label="Timeline" onClick={() => {
-          navigate("/")
-        }}>
-          <BsCalendar3 size="50" />
-        </EuiKeyPadMenuItem>
-
         <EuiKeyPadMenuItem label="People" onClick={() => {
           navigate("/people")
         }}>
           <BsPeople size="50" />
+        </EuiKeyPadMenuItem>
+
+        <EuiKeyPadMenuItem label="Timeline" onClick={() => {
+          navigate("/")
+        }}>
+          <BsCalendar3 size="50" />
         </EuiKeyPadMenuItem>
 
         <EuiKeyPadMenuItem label="Soundbites" onClick={() => {

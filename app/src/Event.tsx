@@ -27,9 +27,7 @@ const Event = () => {
   }
 
   return (<div>
-    <EuiBreadcrumbs breadcrumbs={breadcrumbs} />
-    <EuiSpacer size="xl" />
-    <EuiPageHeader pageTitle={event.name} />
+    <EuiBreadcrumbs breadcrumbs={breadcrumbs} responsive={false} />
     <Info info={event} isEditing={false} />
   </div>)
 }

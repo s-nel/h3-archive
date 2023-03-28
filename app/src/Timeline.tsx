@@ -1,16 +1,20 @@
 import React from 'react'
 import { height as chartHeight } from './Chart'
+import { DateTime } from 'luxon'
 import Chart from './Chart'
 import Info from './Info'
 import './App.css'
 import SearchBox from './SearchBox'
 import { useSelector } from 'react-redux'
 import {
+  EuiBasicTable,
   EuiFlexGroup,
   EuiFlexItem,
   EuiLoadingChart,
   EuiSkeletonText,
   EuiSpacer,
+  EuiText,
+  EuiTextColor,
   Query,
   useIsWithinBreakpoints,
 } from '@elastic/eui'
@@ -78,6 +82,10 @@ const EventList = ({
   query,
 }) => {
   const unfilteredEvents = useSelector(state => state.events.value)
+  const [sort, setSort] = React.useState({
+    field: 'date',
+    direction: 'desc'
+  })
 
   let filteredEvents
   if (query) {
@@ -89,19 +97,47 @@ const EventList = ({
   } else {
     filteredEvents = unfilteredEvents
   }
-  console.log("filteredEvents", filteredEvents)
   const sortedEvents = filteredEvents && [...filteredEvents].sort((a, b) => {
-    return a.start_date - b.start_date
+    if (sort.field === 'date') {
+      if (sort.direction === 'asc') {
+        return a.start_date - b.start_date
+      }
+      return b.start_date - a.start_date
+    } else {
+      return 0
+    }
   })
 
-  return (<EuiFlexGroup direction="column">
-    <EuiFlexItem grow={false}>
-      <EuiSpacer size="m"/>
-    </EuiFlexItem>
-    {sortedEvents.map(e => (<EuiFlexItem key={e.event_id} grow={false}>
-      <Link to={`/events/${e.event_id}`}>{e.name}</Link>
-    </EuiFlexItem>))}
-  </EuiFlexGroup>)
+  const eventsColumns = [
+    {
+      name: 'Date',
+      field: 'date',
+      render: (a, e) => (<EuiText>
+        <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
+      </EuiText>),
+      width: '120px',
+      sortable: true,
+    },
+    {
+      name: 'Name',
+      render: e => <Link to={`/events/${e.event_id}`}>{e.name}</Link>
+    }
+  ]
+
+  const onChange = ({sort}) => {
+    console.log(sort)
+    setSort(sort)
+  }
+
+  return (<EuiBasicTable
+    responsive={false}
+    sorting={{
+      sort: sort,
+    }}
+    columns={eventsColumns}
+    items={sortedEvents}
+    onChange={onChange}
+  />)
 }
 
 export default Timeline

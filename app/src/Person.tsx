@@ -244,7 +244,7 @@ const Person = ({
   }
 
   return (<div>
-    <EuiBreadcrumbs breadcrumbs={breadcrumbs} />
+    <EuiBreadcrumbs breadcrumbs={breadcrumbs} responsive={false} />
     <EuiSpacer size="xl" />
     <EuiFlexGroup gutterSize="xl">
       <EuiFlexItem grow={3}>
