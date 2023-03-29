@@ -48,10 +48,12 @@ import Timeline from './Timeline'
 import People from './People'
 import Person from './Person'
 import Soundbites from './Soundbites'
+import Steamies from './Steamies'
 import Event from './Event'
 import { setAll as setAllEvents } from './data/eventsSlice'
 import { setAll as setAllPeople } from './data/peopleSlice'
 import { setAll as setAllSoundbites } from './data/soundbitesSlice'
+import { setAll as setAllSteamies } from './data/steamiesSlice'
 import { remove as removeToast } from './data/toastsSlice'
 import Login from './Login'
 import ScrollToTop from './ScrollToTop';
@@ -70,6 +72,7 @@ const Root = () => {
       setFetchedData(true)
       getEvents(dispatch)
       getSoundbites(dispatch)
+      getSteamies(dispatch)
     }
   }, [dispatch, hasFetchedData, setFetchedData])
 
@@ -122,6 +125,12 @@ const Root = () => {
       id: 'soundbites',
       href: '/soundbites',
       isSelected: loc.pathname === '/soundbites'
+    },
+    {
+      name: 'Steamies',
+      id: 'steamies',
+      href: '/steamies',
+      isSelected: loc.pathname === '/steamies'
     }
   ]
 
@@ -167,7 +176,6 @@ const Root = () => {
           paddingSize="xl"
         >
           {!isMobile && (<EuiPageTemplate.Sidebar>
-            <EuiSpacer size="xl"/>
             <EuiSideNav 
               isOpenOnMobile={mobileNavOpen}
               toggleOpenOnMobile={() => {
@@ -259,6 +267,10 @@ const App = () => {
           element: <Soundbites />,
         },
         {
+          path: "/steamies",
+          element: <Steamies isEditing={isEditing} />,
+        },
+        {
           path: "/login",
           element: <Login />
         }
@@ -303,6 +315,11 @@ async function getEvents(dispatch) {
 async function getSoundbites(dispatch) {
   const response = await axios.get('/api/soundbites')
   dispatch(setAllSoundbites(response.data))
+}
+
+async function getSteamies(dispatch) {
+  const response = await axios.get('/api/steamies')
+  dispatch(setAllSteamies(response.data))
 }
 
 const HeaderAppMenu = () => {

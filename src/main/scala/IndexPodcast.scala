@@ -45,6 +45,7 @@ object IndexPodcast {
   val eventsIndex = "events"
   val peopleIndex = "people"
   val soundbitesIndex = "soundbites"
+  val steamyIndex = "steamies"
 
   final case class Episode(
       description: String,
@@ -272,6 +273,21 @@ object IndexPodcast {
     IntegerField("winning_year"),
     IntegerField("nominated_year"),
     TextField("alt")
+  )
+
+  val steamyIndexMapping = properties(
+    KeywordField("steamy_id"),
+    NestedField(
+      "people",
+      properties = Seq(
+        KeywordField("person_id"),
+        TextField("name"),
+        BooleanField("won")
+      )
+    ),
+    TextField("name"),
+    TextField("description"),
+    IntegerField("year")
   )
 
   val indexSettings: Map[String, Any] = Map(

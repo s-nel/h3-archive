@@ -87,10 +87,10 @@ const People = ({
 
   return (<div>
     <EuiPageHeader pageTitle="People" />
-    <EuiSpacer size="xl" />
+    <EuiSpacer size={isMobile ? "m" : "xl"} />
     <PeopleSearch query={query} setQuery={setQuery} />
     <EuiSpacer size="m" />
-    <EuiFlexGroup wrap responsive={false}>
+    <EuiFlexGroup wrap justifyContent={isMobile ? 'spaceEvenly' : undefined} responsive={false}>
       {filteredPeople && filteredPeople.map((p, i) => {
         const imgWidth = isMobile ? "125px" : (i < 10 ? "200px" : (i < 40 ? "175px" : (i < 75 ? "140px" : (i < 150 ? "110px" : "80px"))))
         const innerWidth = isMobile ? "100px" : (i < 10 ? "168px" : (i < 40 ? "143px" : (i < 75 ? "108px" : (i < 150 ? "110px": "80px"))))

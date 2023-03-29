@@ -37,8 +37,6 @@ object Server extends FailFastCirceSupport {
   def main(args: Array[String]): Unit = {
     val settings = Settings(ConfigFactory.load())
 
-    println(settings)
-
     implicit val circeConfig: Configuration = Configuration.default.withSnakeCaseMemberNames
     implicit val system = ActorSystem("my-system")
     implicit val executionContext = system.dispatcher
@@ -118,6 +116,20 @@ object Server extends FailFastCirceSupport {
                 }
               }
           } ~
+          pathPrefix("steamies") {
+            get {
+              complete(getSteamies(readonlyClient))
+            } ~
+              put {
+                validateCredentials(settings.session) { client =>
+                  entity(as[SteamyDoc]) { steamy =>
+                    pathPrefix("^.+$".r) { steamyId =>
+                      complete(updateSteamy(client, steamyId, steamy))
+                    }
+                  }
+                }
+              }
+          } ~
           pathPrefix("auth") {
             pathPrefix("_login") {
               post {
@@ -141,6 +153,9 @@ object Server extends FailFastCirceSupport {
         createIndex(soundbitesIndex).mapping(soundbitesIndexMapping)
       }
       _ <- readWriteClient.execute {
+        createIndex(steamyIndex).mapping(steamyIndexMapping)
+      }
+      _ <- readWriteClient.execute {
         putMapping(peopleIndex).properties(peopleIndexMapping.properties)
       }
       _ <- readWriteClient.execute {
@@ -148,6 +163,9 @@ object Server extends FailFastCirceSupport {
       }
       _ <- readWriteClient.execute {
         putMapping(soundbitesIndex).properties(soundbitesIndexMapping.properties)
+      }
+      _ <- readWriteClient.execute {
+        putMapping(steamyIndex).properties(steamyIndexMapping.properties)
       }
       binding <- Http().newServerAt("localhost", 8080).bind(route)
     } yield {
@@ -293,10 +311,37 @@ object Server extends FailFastCirceSupport {
     }
   }
 
+  def getSteamies(client: ElasticClient): Future[List[SteamyDoc]] = {
+    for {
+      hits <- client.execute {
+        search(steamyIndex).size(500)
+      }
+    } yield {
+      hits.result.hits.hits.toList.flatMap { hit =>
+        decode[SteamyDoc](hit.sourceAsString).map(p => p.copy(steamyId = Some(hit.id))).toTry match {
+          case Success(steamy) =>
+            List(steamy)
+          case Failure(exception) =>
+            println("Failed to deserialize steamy doc")
+            exception.printStackTrace()
+            Nil
+        }
+      }
+    }
+  }
+
   def updateSoundbite(client: ElasticClient, id: String, doc: SoundbiteDoc): Future[Unit] = {
     client
       .execute {
         indexInto(soundbitesIndex).withId(id).doc(doc.asJson.toString)
+      }
+      .map(_ => ())
+  }
+
+  def updateSteamy(client: ElasticClient, id: String, doc: SteamyDoc): Future[Unit] = {
+    client
+      .execute {
+        indexInto(steamyIndex).withId(id).doc(doc.asJson.toString)
       }
       .map(_ => ())
   }
@@ -381,6 +426,20 @@ object Server extends FailFastCirceSupport {
       description: Option[String],
       winningYear: Option[Int],
       nominatedYear: Option[Int]
+  )
+
+  final case class SteamyPerson(
+      personId: Set[String],
+      name: Option[String],
+      won: Boolean
+  )
+
+  final case class SteamyDoc(
+      steamyId: Option[String],
+      people: Set[SteamyPerson],
+      name: String,
+      description: Option[String],
+      year: Int
   )
 
   final case class Credentials(

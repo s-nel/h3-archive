@@ -38,9 +38,17 @@
 }
 
 body {
-  background: url(../public/background.svg) no-repeat;
+  background: url(../public/background-mobile.svg) no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    background: url(../public/background.svg) no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
 }
 
 .euiTable {

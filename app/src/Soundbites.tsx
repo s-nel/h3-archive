@@ -93,10 +93,10 @@ const Soundbites = () => {
 
   return (<div>
     <EuiPageHeader pageTitle="Soundbites" />
-    <EuiSpacer size="xl" />
+    <EuiSpacer size={isMobile ? "m" : "xl"} />
     <SoundbiteSearch query={query} setQuery={setQuery} people={people} soundbites={soundbites} />
     <EuiSpacer size="m" />
-    <EuiFlexGroup responsive={false} wrap>
+    <EuiFlexGroup responsive={false} justifyContent={isMobile ? 'spaceEvenly' : undefined} wrap>
       {filteredSoundbites && filteredSoundbites.map(soundbite => {
         const person = people && people.find(p => p.person_id === soundbite.person_id)
         return (<EuiFlexItem 
