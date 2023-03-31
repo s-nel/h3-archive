@@ -20,6 +20,7 @@ import {
   EuiText,
   EuiTextColor,
   EuiToolTip,
+  useIsWithinBreakpoints,
 } from '@elastic/eui'
 import { useDispatch, useSelector } from 'react-redux'
 import axios from 'axios'
@@ -53,6 +54,8 @@ const Person = ({
       }, e)
     })
     .filter(e => e.role))
+  const steamies = useSelector(state => state.steamies.value && state.steamies.value.filter(s => personId && s.people.find(p => p.person_id.find(p2 => p2 === personId))))
+  console.log(steamies)
   const navigate = useNavigate()
   const dispatch = useDispatch()
   const [tableProps, setTableProps] = React.useState({
@@ -61,10 +64,9 @@ const Person = ({
     sortField: 'start_date',
     sortDirection: 'asc',
   })
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
 
   const person = people && people.find(p => p.person_id === personId)
-
-  console.log(events, people, person)
 
   React.useEffect(() => {
     if (!personDoc && person) {
@@ -162,6 +164,28 @@ const Person = ({
     }
   ]
 
+  const steamiesColumns: Array<EuiBasicTableColumn<any>> = [
+    {
+      render: s => s.year,
+      width: "60"
+    },
+    {
+      render: s => s.name,
+    },
+    {
+      render: s => {
+        const myNominee = s.people.find(p => p.person_id.find(p2 => p2 === personId))
+
+        if (!myNominee.won) {
+          return <EuiText color="subdued">Nominated</EuiText>
+        }
+
+        return <EuiText><b>&#127942;&nbsp;Won</b></EuiText>
+      },
+      width: "100"
+    }
+  ]
+
 
   const {
     pageSize,
@@ -243,10 +267,41 @@ const Person = ({
     </div>)
   }
 
+  const sidePanels = ((soundbites && soundbites.length > 0) || (person.aliases && person.aliases.length > 0) || (steamies && steamies.length > 0)) && (
+    <EuiFlexItem grow={1}>
+      <EuiFlexGroup direction="column">
+        {soundbites && soundbites.length > 0 && (<EuiFlexItem grow={false}>
+          <EuiPanel grow={false}>
+            <EuiText>
+              <h4>Soundbites</h4>
+            </EuiText>
+            <EuiBasicTable responsive={false} items={soundbites} columns={soundbitesColumns} />
+          </EuiPanel>
+        </EuiFlexItem>)}
+        {person.aliases && person.aliases.length > 0 && (<EuiFlexItem grow={false}>
+          <EuiPanel grow={false}>
+            <EuiText>
+              <h4>Also Known As</h4>
+            </EuiText>
+            <EuiBasicTable responsive={false} items={person.aliases} columns={[{render: a => a}]} />
+          </EuiPanel>
+        </EuiFlexItem>)}
+        {steamies && steamies.length > 0 && (<EuiFlexItem grow={false}>
+          <EuiPanel grow={false}>
+            <EuiText>
+              <h4>Steamies</h4>
+            </EuiText>
+            <EuiBasicTable responsive={false} items={steamies.sort((a, b) => b.year - a.year)} columns={steamiesColumns} />
+          </EuiPanel>
+        </EuiFlexItem>)}
+      </EuiFlexGroup>
+    </EuiFlexItem>
+  )
+
   return (<div>
     <EuiBreadcrumbs breadcrumbs={breadcrumbs} responsive={false} />
     <EuiSpacer size="xl" />
-    <EuiFlexGroup gutterSize="xl">
+    <EuiFlexGroup gutterSize="xl" >
       <EuiFlexItem grow={3}>
         <EuiFlexGroup direction="column">
           <EuiFlexItem grow={false}>
@@ -266,31 +321,11 @@ const Person = ({
               </EuiFlexItem>
             </EuiFlexGroup>
           </EuiFlexItem>
+          {isMobile && sidePanels}
           {eventsTable}
         </EuiFlexGroup>
       </EuiFlexItem>
-      {((soundbites && soundbites.length > 0) || (person.aliases && person.aliases.length > 0)) && (
-        <EuiFlexItem grow={1}>
-          <EuiFlexGroup direction="column">
-            {soundbites && soundbites.length > 0 && (<EuiFlexItem grow={false}>
-              <EuiPanel grow={false}>
-                <EuiText>
-                  <h4>Soundbites</h4>
-                </EuiText>
-                <EuiBasicTable items={soundbites} columns={soundbitesColumns} />
-              </EuiPanel>
-            </EuiFlexItem>)}
-            {person.aliases && person.aliases.length > 0 && (<EuiFlexItem grow={false}>
-              <EuiPanel grow={false}>
-                <EuiText>
-                  <h4>Also Known As</h4>
-                </EuiText>
-                <EuiBasicTable items={person.aliases} columns={[{render: a => a}]} />
-              </EuiPanel>
-            </EuiFlexItem>)}
-          </EuiFlexGroup>
-        </EuiFlexItem>
-      )}
+      {!isMobile && sidePanels}
     </EuiFlexGroup>
     <EuiSpacer size="xl" />
     {isEditing && editingControls}
@@ -299,9 +334,6 @@ const Person = ({
 
 async function onCreatePerson(personDoc, dispatch) {
   await axios.put(`/api/people/${personDoc.person_id}`, personDoc)
-  dispatch(
-
-  )
   // dispatch(addToast({
   //   color: 'success',
   //   title: 'Added used',

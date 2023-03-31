@@ -60,7 +60,7 @@ const Soundbites = () => {
         setFilteredSoundbites(soundbites)
       }
     }
-  }, [soundbites, query && query.text, setFilteredSoundbites])
+  }, [soundbites, people, query && query.text, setFilteredSoundbites])
 
   React.useEffect(() => {
     if (soundbites) {

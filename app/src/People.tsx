@@ -34,7 +34,33 @@ const People = ({
   addToast,
 }) => {
   const [force, setForce] = React.useState(0)
-  const people = useSelector((state) => state.people.value)
+  const people = useSelector((state) => {
+    const rawPeople = state.people.value
+    const events = state.events.value
+    const withEventCounts = events && rawPeople && rawPeople.map(person => {
+      const eventCount = events && events.reduce((acc, e) => {
+        if (e.people.find(p => p.person_id === person.person_id)) {
+          return acc + 1
+        } else {
+          return acc
+        }
+      }, 0)
+      return {
+        ...person,
+        event_count: eventCount,
+      }
+    })
+    const sorted = withEventCounts && withEventCounts.sort((a, b) => {
+      const diff = b.event_count - a.event_count
+      if (diff !== 0) {
+        return diff
+      }
+      const aName = a.display_name || `${a.first_name} ${a.last_name}`
+      const bName = b.display_name || `${b.first_name} ${b.last_name}`
+      return aName.localeCompare(bName)
+    })
+    return sorted
+  })
   const [filteredPeople, setFilteredPeople] = React.useState([])
   const navigate = useNavigate()
   const isMobile = useIsWithinBreakpoints(['xs', 's'])

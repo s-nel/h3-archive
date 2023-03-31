@@ -1,4 +1,4 @@
-import { EuiBasicTable, EuiButton, EuiCard, EuiFlexGroup, EuiFlexItem, EuiHeader, EuiHorizontalRule, EuiImage, EuiPageHeader, EuiSkeletonRectangle, EuiSpacer, EuiText, EuiTextArea, EuiTitle, EuiToolTip, useIsWithinBreakpoints } from '@elastic/eui'
+import { EuiBasicTable, EuiButton, EuiCard, EuiFlexGroup, EuiFlexItem, EuiHeader, EuiHorizontalRule, EuiImage, EuiPageHeader, EuiSkeletonRectangle, EuiSkeletonText, EuiSkeletonTitle, EuiSpacer, EuiText, EuiTextArea, EuiTitle, EuiToolTip, useIsWithinBreakpoints } from '@elastic/eui'
 import React from 'react'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
@@ -31,10 +31,12 @@ const Steamies = ({isEditing}) => {
   const steamiesColumns = [
     {
       render: nominee => {
-        console.log(nominee)
         const personIcon = person => {
           try {
-            if (!person || !person.thumb) {
+            if (!person.display_name && !person.first_name) {
+              return <EuiSkeletonRectangle borderRadius="none" width={32} height={32} />
+            }
+            if (!person.thumb) {
               return (<BsPerson style={{ width: "32px", height: "32px" }} />)
             }
             return (<EuiImage alt={person.display_name || `${person.first_name} ${person.last_name}`} width={32} height={32} src={person.thumb} />)
@@ -44,9 +46,10 @@ const Steamies = ({isEditing}) => {
         }
         return nominee && nominee.people && (<EuiFlexGroup gutterSize="xs" responsive={false}>
           {nominee.people.map(person => (<EuiFlexItem grow={false} key={person.person_id} style={{width: '32px', height: '32px'}}>
-            <EuiToolTip position="bottom" content={person.display_name || `${person.first_name} ${person.last_name}`}>
+            {(person.display_name || person.first_name) && <EuiToolTip position="bottom" content={person.display_name || `${person.first_name} ${person.last_name}`}>
               <Link to={`/people/${person.person_id}`}>{personIcon(person)}</Link>
-            </EuiToolTip>
+            </EuiToolTip>}
+            {!(person.display_name || person.first_name) && personIcon(person)}
           </EuiFlexItem>))}
         </EuiFlexGroup>)
       },
@@ -59,8 +62,14 @@ const Steamies = ({isEditing}) => {
         if (nominee.name) {
           return <EuiText>{nominee.name}</EuiText>
         }
+        if (nominee.people.length === 0) {
+          return null
+        }
+        if (nominee.people.every(p => !p.display_name && !p.first_name)) {
+          return <div><EuiSkeletonTitle style={{width: "100px"}} size="xs" /></div>
+        }
         return (<div>
-          {nominee.people && nominee.people.map(person => <Link to={`/people/${person.person_id}`}>{person.display_name || `${person.first_name} ${person.last_name}`}</Link>).reduce((a, b) => (<span>{a}, {b}</span>))}
+          {nominee.people && nominee.people.length > 0 && nominee.people.map(person => <Link key={person.person_id} to={`/people/${person.person_id}`}>{person.display_name || `${person.first_name} ${person.last_name}`}</Link>).reduce((a, b) => (<span>{a}, {b}</span>))}
         </div>)
       }
     },
@@ -75,19 +84,21 @@ const Steamies = ({isEditing}) => {
 
         return <EuiText><b>&#127942;&nbsp;Won</b></EuiText>
       },
-      width: "120"
+      width: "100"
     },
   ]
+
+  const steamyWidth = '500px'
 
   return (<div>
     <EuiPageHeader pageTitle="Steamies" />
     <EuiSpacer size={isMobile ? "m" : "xl"} />
     {
-      orgByYear && Object.keys(orgByYear).map(year => {
+      orgByYear && Object.keys(orgByYear).sort((a, b) => parseInt(b) -  parseInt(a)).map(year => {
         const yearSteamies = orgByYear[year]
 
         return (<div key={year}>
-          <EuiTitle size="s"><h3>{year}</h3></EuiTitle>
+          <EuiTitle size="m"><h2>{year}</h2></EuiTitle>
           <EuiSpacer size={isMobile ? "s" : "m"} />
           <EuiFlexGroup 
             responsive 
@@ -95,41 +106,27 @@ const Steamies = ({isEditing}) => {
             alignItems="flexStart"
             wrap
           >
-            {yearSteamies.map(yearSteamy => {
+            {yearSteamies.sort((a, b) => a.name.localeCompare(b.name)).map(yearSteamy => {
               const steamyNominees = yearSteamy && yearSteamy.people.map(nominee => {
-                const ps = people && nominee.person_id.map(p => people.find(p2 => p === p2.person_id)).filter(p => !!p)
-                return people && {
-                  people: ps && ps.length > 0 ? ps : undefined,
+                const ps = nominee.person_id.map(p => people ? people.find(p2 => p === p2.person_id) : p).filter(p => !!p)
+                return {
+                  people: ps,
                   won: nominee.won,
                   name: nominee.name,
                 }
               })
 
-              // const steamyPeople = yearSteamy.people.map(p => {
-              //   const person = people && people.find(p2 => p2.person_id === p.person_id)
-              //   return person && {
-              //     ...person,
-              //     won: p.won,
-              //   }
-              // }).filter(p => !!p).sort((a, b) => {
-              //   const aName = a.display_name || `${a.first_name} ${a.last_name}`
-              //   const bName = b.display_name || `${b.first_name} ${b.last_name}`
-              //   return aName.localeCompare(bName)
-              // })
-
               return (<EuiFlexItem 
                 key={yearSteamy.steamy_id} 
                 grow={false}
-                style={{ width: '400px' }}
+                style={{ width: steamyWidth }}
               >
                 <EuiCard title={yearSteamy.name}>
-                  <EuiBasicTable 
+                  <EuiBasicTable
                     tableLayout="auto"
-                    loading={!steamyNominees || steamyNominees.length === 0 || !people}
-                    responsive={false}
+                    loading={!steamyNominees || steamyNominees.length === 0}
                     columns={steamiesColumns}
-                    items={(people && steamyNominees) || []}
-                    noItemsMessage=""
+                    items={steamyNominees}
                   />
                 </EuiCard>
               </EuiFlexItem>)
