@@ -67,7 +67,6 @@ const People = ({
 
   const { width: peopleParentWidth } = useContainerDimensions(peopleParentRef)
 
-  console.log(peopleParentWidth, "px")
   const itemWidth = i => {
     const imgWidth = {
       mobile: 125,
@@ -105,7 +104,6 @@ const People = ({
     const lRowSize = Math.floor(peopleParentWidth / (175 + gap))
     const mRowSize = Math.floor(peopleParentWidth / (140 + gap))
     const sRowSize = Math.floor(peopleParentWidth / (110 + gap))
-    console.log(xlRowSize, lRowSize, mRowSize, sRowSize)
     
     if (i >= (xlRowSize + 2 * lRowSize + 3 * mRowSize + 4 * sRowSize)) {
       return {
@@ -189,8 +187,6 @@ const People = ({
     </div>)
   }
 
-  console.log(filteredPeople)
-
   return (<div>
     <EuiPageHeader pageTitle="People" />
     <EuiSpacer size={isMobile ? "m" : "xl"} />
@@ -201,7 +197,6 @@ const People = ({
         const iwidth = itemWidth(i)
         const imgWidth = `${iwidth.img}px`
         const innerWidth = `${iwidth.inner}px`
-        //console.log(imgWidth, innerWidth)
         const missingImg = (<EuiFlexGroup 
           alignItems="center" 
           responsive={false}
@@ -212,7 +207,7 @@ const People = ({
             <EuiIcon size="xxl" type="user" />
           </EuiFlexItem>
         </EuiFlexGroup>)
-        const rowBreak = iwidth.rowBreakAfter ? <EuiFlexItem style={{height: '0px', flexBasis: '100%'}} /> : undefined
+        const rowBreak = iwidth.rowBreakAfter ? <EuiFlexItem key={`rowbreak-${i}`} style={{height: '0px', flexBasis: '100%'}} /> : undefined
         return [(<EuiFlexItem key={p.person_id} grow={false}>
           <EuiToolTip content={p.display_name || `${p.first_name} ${p.last_name}`} position="bottom">
             {(!iwidth.hideName || isMobile) ? (<EuiCard
