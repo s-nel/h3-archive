@@ -205,7 +205,7 @@ const Person = ({
   }
   let sortedEvents
   if (sortField) {
-    sortedEvents = events.slice(0).sort(Comparators.property(sortField, (a, b) => {
+    sortedEvents = events && events.slice(0).sort(Comparators.property(sortField, (a, b) => {
       if (typeof a === 'string' || a instanceof String) {
         if (sortDirection === 'asc') {
           return a.localeCompare(b)

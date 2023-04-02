@@ -322,7 +322,7 @@ object Server extends FailFastCirceSupport {
           case Success(steamy) =>
             List(steamy)
           case Failure(exception) =>
-            println("Failed to deserialize steamy doc")
+            println(s"Failed to deserialize steamy doc [${hit.id}]")
             exception.printStackTrace()
             Nil
         }
