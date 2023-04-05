@@ -55,7 +55,6 @@ const Person = ({
     })
     .filter(e => e.role))
   const steamies = useSelector(state => state.steamies.value && state.steamies.value.filter(s => personId && s.people.find(p => p.person_id.find(p2 => p2 === personId))))
-  console.log(steamies)
   const navigate = useNavigate()
   const dispatch = useDispatch()
   const [tableProps, setTableProps] = React.useState({

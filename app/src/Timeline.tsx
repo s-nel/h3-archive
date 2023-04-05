@@ -125,7 +125,6 @@ const EventList = ({
   ]
 
   const onChange = ({sort}) => {
-    console.log(sort)
     setSort(sort)
   }
 

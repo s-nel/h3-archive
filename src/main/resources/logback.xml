@@ -1,0 +1,37 @@
+<configuration>
+    <shutdownHook class="ch.qos.logback.core.hook.DelayingShutdownHook"/>
+
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date{H:mm:ss.SSS} %logger %highlight(%-5level) [%thread]: %message%n%ex</pattern>
+        </encoder>
+    </appender>
+
+    <!-- https://github.com/logfellow/logstash-logback-encoder -->
+    <appender name="POLL" class="net.logstash.logback.appender.LoggingEventAsyncDisruptorAppender">
+        <appender class="ch.qos.logback.core.FileAppender">
+            <encoder class="net.logstash.logback.encoder.LoggingEventCompositeJsonEncoder">
+                <providers>
+                    <timestamp>
+                        <timeZone>UTC</timeZone>
+                    </timestamp>
+                    <stackHash/>
+                    <!-- <mdc/> --> <!-- not showing mdc as we want to demo withContext() -->
+                    <logstashMarkers/>
+                    <arguments/>
+                </providers>
+            </encoder>
+            <file>/tmp/application.ndjson</file>
+            <append>true</append>
+        </appender>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="CONSOLE" />
+    </root>
+
+    <logger name="Poll" level="INFO">
+        <appender-ref ref="POLL" />
+    </logger>
+
+</configuration>

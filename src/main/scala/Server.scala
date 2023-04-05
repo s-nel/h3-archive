@@ -2,10 +2,10 @@ package com.snacktrace.archive
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
-import akka.http.scaladsl.model.{HttpResponse, StatusCodes}
+import akka.http.scaladsl.model.{HttpCharset, HttpCharsets, HttpEntity, HttpResponse, MediaTypes, StatusCodes}
 import akka.http.scaladsl.server.Directives._
 import com.sksamuel.elastic4s.ElasticClient
-import com.sksamuel.elastic4s.ElasticDsl.{get => _, _}
+import com.sksamuel.elastic4s.ElasticDsl.{get => getDoc, _}
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.snacktrace.archive.model.EventId
 import de.heikoseeberger.akkahttpcirce.FailFastCirceSupport
@@ -16,167 +16,207 @@ import io.circe.syntax._
 import IndexPodcast._
 
 import akka.http.scaladsl.coding.Coders
+import akka.http.scaladsl.model.HttpEntity.ChunkStreamPart
 import akka.http.scaladsl.model.headers.{HttpCookie, `Set-Cookie`}
 import akka.http.scaladsl.server.Directive1
+import akka.stream.scaladsl.Source
+import com.redfin.sitemapgenerator.{ChangeFreq, GoogleMobileSitemapUrl, WebSitemapGenerator, WebSitemapUrl}
+import com.tersesystems.echopraxia.plusscala._
 import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
 import com.snacktrace.archive.Settings.{ElasticsearchSettings, SessionSettings}
 import com.typesafe.config.ConfigFactory
 import io.circe.Json
 import pdi.jwt.{Jwt, JwtAlgorithm}
 
-import scala.concurrent.Future
-import scala.io.StdIn
-import scala.util.{Failure, Success, Try}
+import java.io.File
+import java.net.URLEncoder
+import java.nio.charset.StandardCharsets
+import java.nio.file.Files
+import java.time.{Duration => JavaDuration}
+import java.util.Date
+import scala.concurrent.duration.Duration
+import scala.concurrent.{Await, Future, Promise}
+import scala.util.{Failure, Success}
 
-object Server extends FailFastCirceSupport {
+object Server extends App with FailFastCirceSupport {
+
+  //val pollLogger = LoggerFactory.getLogger("Poll")
 
   val sessionCookieName = "session"
 
   val clients = scala.collection.mutable.Map.empty[String, ElasticClient]
 
-  def main(args: Array[String]): Unit = {
-    val settings = Settings(ConfigFactory.load())
+  //def main(args: Array[String]): Unit = {
+  val settings = Settings(ConfigFactory.load())
 
-    implicit val circeConfig: Configuration = Configuration.default.withSnakeCaseMemberNames
-    implicit val system = ActorSystem("my-system")
-    implicit val executionContext = system.dispatcher
+  implicit val circeConfig: Configuration = Configuration.default.withSnakeCaseMemberNames
+  implicit val system = ActorSystem("my-system")
+  implicit val executionContext = system.dispatcher
 
-    val readonlyClient = ElasticClient(
-      AkkaHttpClient(
-        AkkaHttpClientSettings.default.copy(
-          https = true,
-          hosts = Vector(settings.elasticsearch.host),
-          username = Some(settings.elasticsearch.readUser),
-          password = Some(settings.elasticsearch.readPassword)
-        )
+  val url = "http://h3historian.com"
+
+  @volatile
+  var sitemapDir: Option[File] = None
+
+  val readonlyClient = ElasticClient(
+    AkkaHttpClient(
+      AkkaHttpClientSettings.default.copy(
+        https = true,
+        hosts = Vector(settings.elasticsearch.host),
+        username = Some(settings.elasticsearch.readUser),
+        password = Some(settings.elasticsearch.readPassword)
       )
     )
-    val readWriteClient = ElasticClient(
-      AkkaHttpClient(
-        AkkaHttpClientSettings.default.copy(
-          https = true,
-          hosts = Vector(settings.elasticsearch.host),
-          username = Some(settings.elasticsearch.writeUser),
-          password = Some(settings.elasticsearch.writePassword)
-        )
+  )
+  val readWriteClient = ElasticClient(
+    AkkaHttpClient(
+      AkkaHttpClientSettings.default.copy(
+        https = true,
+        hosts = Vector(settings.elasticsearch.host),
+        username = Some(settings.elasticsearch.writeUser),
+        password = Some(settings.elasticsearch.writePassword)
       )
     )
+  )
 
-    val route = {
-      pathPrefix("api") {
-        pathPrefix("events") {
-          get {
-            parameters("q".optional) { maybeQuery =>
+  val route = {
+    pathPrefix("api") {
+      pathPrefix("events") {
+        get {
+          parameters("q".optional) { maybeQuery =>
+            encodeResponseWith(Coders.Gzip) {
+              complete(getEvents(readonlyClient, maybeQuery))
+            }
+          }
+        } ~
+          post {
+            entity(as[Json]) { search =>
               encodeResponseWith(Coders.Gzip) {
-                complete(getEvents(readonlyClient, maybeQuery))
+                complete(searchEvents(readonlyClient, search))
               }
             }
           } ~
-            post {
-              entity(as[Json]) { search =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(searchEvents(readonlyClient, search))
+          validateCredentials(settings.session) { client =>
+            pathPrefix("^.+$".r) { eventId =>
+              entity(as[EventDoc]) { event =>
+                put {
+                  complete(updateEvent(client, EventId(eventId), event))
                 }
               }
-            } ~
+            }
+          }
+      } ~
+        pathPrefix("people") {
+          get {
+            complete(getPeople(readonlyClient, None))
+          } ~
             validateCredentials(settings.session) { client =>
-              pathPrefix("^.+$".r) { eventId =>
-                entity(as[EventDoc]) { event =>
-                  put {
-                    complete(updateEvent(client, EventId(eventId), event))
+              entity(as[PersonDoc]) { person =>
+                post {
+                  complete(createPerson(client, person))
+                } ~
+                  pathPrefix("^.+$".r) { personId =>
+                    complete(updatePerson(client, personId, person))
+                  }
+              }
+            }
+        } ~
+        pathPrefix("soundbites") {
+          get {
+            complete(getSoundbites(readonlyClient))
+          } ~
+            validateCredentials(settings.session) { client =>
+              entity(as[SoundbiteDoc]) { soundbite =>
+                pathPrefix("^.+$".r) { soundbiteId =>
+                  complete(updateSoundbite(client, soundbiteId, soundbite))
+                }
+              }
+            }
+        } ~
+        pathPrefix("steamies") {
+          get {
+            complete(getSteamies(readonlyClient))
+          } ~
+            put {
+              validateCredentials(settings.session) { client =>
+                entity(as[SteamyDoc]) { steamy =>
+                  pathPrefix("^.+$".r) { steamyId =>
+                    complete(updateSteamy(client, steamyId, steamy))
                   }
                 }
               }
             }
         } ~
-          pathPrefix("people") {
-            get {
-              complete(getPeople(readonlyClient, None))
-            } ~
-              validateCredentials(settings.session) { client =>
-                entity(as[PersonDoc]) { person =>
-                  post {
-                    complete(createPerson(client, person))
-                  } ~
-                    pathPrefix("^.+$".r) { personId =>
-                      complete(updatePerson(client, personId, person))
-                    }
-                }
-              }
-          } ~
-          pathPrefix("soundbites") {
-            get {
-              complete(getSoundbites(readonlyClient))
-            } ~
-              validateCredentials(settings.session) { client =>
-                entity(as[SoundbiteDoc]) { soundbite =>
-                  pathPrefix("^.+$".r) { soundbiteId =>
-                    complete(updateSoundbite(client, soundbiteId, soundbite))
-                  }
-                }
-              }
-          } ~
-          pathPrefix("steamies") {
-            get {
-              complete(getSteamies(readonlyClient))
-            } ~
-              put {
-                validateCredentials(settings.session) { client =>
-                  entity(as[SteamyDoc]) { steamy =>
-                    pathPrefix("^.+$".r) { steamyId =>
-                      complete(updateSteamy(client, steamyId, steamy))
-                    }
-                  }
-                }
-              }
-          } ~
-          pathPrefix("auth") {
-            pathPrefix("_login") {
-              post {
-                entity(as[Credentials]) { credentials =>
-                  complete(authenticate(settings.elasticsearch, settings.session, credentials))
-                }
+        pathPrefix("auth") {
+          pathPrefix("_login") {
+            post {
+              entity(as[Credentials]) { credentials =>
+                complete(authenticate(settings.elasticsearch, settings.session, credentials))
               }
             }
           }
+        } ~
+        pathPrefix("polls") {
+          post {
+            entity(as[PollDoc]) { poll =>
+              complete(createPoll(readWriteClient, poll))
+            }
+          } ~
+            pathPrefix("^.+$".r) { pollId =>
+              get {
+                complete(getPoll(readonlyClient, pollId))
+              } ~
+                pathPrefix("_respond") {
+                  post {
+                    entity(as[Response]) { response =>
+                      extractClientIP { clientIp =>
+                        complete(respondToPoll(pollId, clientIp.toString(), response.answer))
+                      }
+                    }
+                  }
+                }
+            }
+        }
+    } ~
+      path("^((?:mobile_)?sitemap(?:\\d+|_index)?\\.xml)$".r) { sitemapFile =>
+        complete(buildSitemap(readonlyClient, sitemapFile))
       }
-    }
+  }
 
-    val bindingFuture = for {
-      _ <- readWriteClient.execute {
-        createIndex(peopleIndex).mapping(peopleIndexMapping)
-      }
-      _ <- readWriteClient.execute {
-        createIndex(eventsIndex).mapping(indexMapping)
-      }
-      _ <- readWriteClient.execute {
-        createIndex(soundbitesIndex).mapping(soundbitesIndexMapping)
-      }
-      _ <- readWriteClient.execute {
-        createIndex(steamyIndex).mapping(steamyIndexMapping)
-      }
-      _ <- readWriteClient.execute {
-        putMapping(peopleIndex).properties(peopleIndexMapping.properties)
-      }
-      _ <- readWriteClient.execute {
-        putMapping(eventsIndex).properties(indexMapping.properties)
-      }
-      _ <- readWriteClient.execute {
-        putMapping(soundbitesIndex).properties(soundbitesIndexMapping.properties)
-      }
-      _ <- readWriteClient.execute {
-        putMapping(steamyIndex).properties(steamyIndexMapping.properties)
-      }
-      binding <- Http().newServerAt("localhost", 8080).bind(route)
-    } yield {
-      binding
+  val bindingFuture = for {
+    _ <- readWriteClient.execute {
+      createIndex(peopleIndex).mapping(peopleIndexMapping)
     }
-
-    println(s"Server now online at http://localhost:8080/\nPress RETURN to stop...")
-    StdIn.readLine() // let it run until user presses return
-    bindingFuture
-      .flatMap(_.unbind()) // trigger unbinding from the port
-      .onComplete(_ => system.terminate()) // and shutdown when done
+    _ <- readWriteClient.execute {
+      createIndex(eventsIndex).mapping(indexMapping)
+    }
+    _ <- readWriteClient.execute {
+      createIndex(soundbitesIndex).mapping(soundbitesIndexMapping)
+    }
+    _ <- readWriteClient.execute {
+      createIndex(steamyIndex).mapping(steamyIndexMapping)
+    }
+    _ <- readWriteClient.execute {
+      createIndex(pollIndex).mapping(pollIndexMapping)
+    }
+    _ <- readWriteClient.execute {
+      putMapping(peopleIndex).properties(peopleIndexMapping.properties)
+    }
+    _ <- readWriteClient.execute {
+      putMapping(eventsIndex).properties(indexMapping.properties)
+    }
+    _ <- readWriteClient.execute {
+      putMapping(soundbitesIndex).properties(soundbitesIndexMapping.properties)
+    }
+    _ <- readWriteClient.execute {
+      putMapping(steamyIndex).properties(steamyIndexMapping.properties)
+    }
+    _ <- readWriteClient.execute {
+      putMapping(pollIndex).properties(pollIndexMapping.properties)
+    }
+    binding <- Http().newServerAt("localhost", 8080).bind(route)
+  } yield {
+    binding
   }
 
   def validateCredentials(sessionSettings: SessionSettings): Directive1[ElasticClient] = {
@@ -234,6 +274,99 @@ object Server extends FailFastCirceSupport {
             Nil
         }
       }
+    }
+  }
+
+  def buildSitemap(elasticClient: ElasticClient, sitemapFileStr: String): Future[HttpResponse] = {
+    sitemapDir match {
+      case Some(dir)
+          if JavaDuration
+            .ofMillis(System.currentTimeMillis() - dir.lastModified())
+            .compareTo(JavaDuration.ofDays(1)) > 0 =>
+        // Delete old sitemaps
+        sitemapDir = None
+        dir.delete()
+        buildSitemap(elasticClient, sitemapFileStr)
+      case Some(dir) =>
+        val sitemapFile: File = dir.toPath.resolve(sitemapFileStr).toFile
+        if (sitemapFile.exists()) {
+          Future.successful(
+            HttpResponse(entity =
+              HttpEntity.fromFile(MediaTypes.`application/xml`.toContentType(HttpCharsets.`UTF-8`), sitemapFile)
+            )
+          )
+        } else {
+          Future.successful(HttpResponse(status = StatusCodes.NotFound))
+        }
+      case _ =>
+        val tmpDir = Files.createTempDirectory("h3historian-sitemaps").toFile
+        println(s"Writing sitemaps to ${tmpDir.getAbsolutePath}")
+        sitemapDir = Some(tmpDir)
+        val wsg = WebSitemapGenerator.builder(url, tmpDir).build()
+        val mobileWsg = WebSitemapGenerator.builder(url, tmpDir).fileNamePrefix("mobile_sitemap").build()
+        List(
+          "/",
+          "/steamies",
+          "/soundbites"
+        ).foreach { path =>
+          val webSitemapUrl = new WebSitemapUrl(
+            new WebSitemapUrl.Options(s"$url$path")
+              .lastMod(new Date(System.currentTimeMillis()))
+              .changeFreq(ChangeFreq.DAILY)
+              .priority(1d)
+          )
+          wsg.addUrl(webSitemapUrl)
+          val mobileUrl = new GoogleMobileSitemapUrl(
+            new GoogleMobileSitemapUrl.Options(s"$url$path")
+              .lastMod(new Date(System.currentTimeMillis()))
+              .changeFreq(ChangeFreq.DAILY)
+              .priority(1d)
+          )
+          mobileWsg.addUrl(mobileUrl)
+        }
+        for {
+          events <- getEvents(readonlyClient, None)
+          _ = events.map { event =>
+            val webSitemapUrl = new WebSitemapUrl(
+              new WebSitemapUrl.Options(s"$url/?event_id=${URLEncoder.encode(event.eventId, StandardCharsets.UTF_8)}")
+                .lastMod(new Date(event.startDate))
+                .changeFreq(ChangeFreq.MONTHLY)
+                .priority(.5d)
+            )
+            wsg.addUrl(webSitemapUrl)
+            val mobileUrl = new GoogleMobileSitemapUrl(
+              new GoogleMobileSitemapUrl.Options(s"$url/events/${event.eventId}")
+                .lastMod(new Date(event.startDate))
+                .changeFreq(ChangeFreq.MONTHLY)
+                .priority(.5d)
+            )
+            mobileWsg.addUrl(mobileUrl)
+          }
+          people <- getPeople(readonlyClient, None)
+          _ = people.map { person =>
+            person.personId.foreach { personId =>
+              val webSitemapUrl = new WebSitemapUrl(
+                new WebSitemapUrl.Options(s"$url/people/$personId")
+                  .changeFreq(ChangeFreq.MONTHLY)
+                  .priority(.5d)
+              )
+              wsg.addUrl(webSitemapUrl)
+              val mobileUrl = new GoogleMobileSitemapUrl(
+                new GoogleMobileSitemapUrl.Options(s"$url/people/$personId")
+                  .changeFreq(ChangeFreq.MONTHLY)
+                  .priority(.5d)
+              )
+              mobileWsg.addUrl(mobileUrl)
+            }
+          }
+          _ <- Future(wsg.write())
+          _ <- Future(mobileWsg.write())
+          _ <- Future(wsg.writeSitemapsWithIndex())
+          _ <- Future(mobileWsg.writeSitemapsWithIndex(tmpDir.toPath.resolve("mobile_sitemap_index.xml").toFile))
+          response <- buildSitemap(elasticClient, sitemapFileStr)
+        } yield {
+          response
+        }
     }
   }
 
@@ -376,6 +509,32 @@ object Server extends FailFastCirceSupport {
       }
   }
 
+  def createPoll(elasticsearchClient: ElasticClient, poll: PollDoc): Future[CreatePollResponse] = {
+    elasticsearchClient
+      .execute {
+        indexInto(pollIndex).doc(poll.asJson.toString)
+      }
+      .map(r => CreatePollResponse(r.result.id))
+  }
+
+  def getPoll(elasticsearchClient: ElasticClient, pollId: String): Future[PollWithResponses] = {
+    for {
+      response <- elasticsearchClient.execute(
+        getDoc(pollIndex, pollId)
+      )
+      pollDoc <- Future.fromTry(decode[PollDoc](response.result.sourceAsString).toTry)
+    } yield {
+      PollWithResponses(pollDoc.question, pollDoc.answer.map(AnswerResponses(_, 0)))
+    }
+  }
+
+  def respondToPoll(pollId: String, ip: String, answer: Int): Unit = {
+//    pollLogger.info(
+//      "poll response",
+//      fb => fb.list(fb.string("ip" -> ip), fb.string("poll" -> pollId), fb.number("answer", answer))
+//    )
+  }
+
   final case class LinkDoc(
       `type`: String,
       url: String
@@ -446,4 +605,26 @@ object Server extends FailFastCirceSupport {
       user: String,
       password: String
   )
+
+  final case class PollDoc(
+      question: String,
+      answer: List[String],
+      ignoreOrder: Boolean
+  )
+
+  final case class CreatePollResponse(
+      id: String
+  )
+
+  final case class AnswerResponses(
+      answer: String,
+      responses: Long
+  )
+
+  final case class PollWithResponses(
+      question: String,
+      answers: List[AnswerResponses]
+  )
+
+  final case class Response(answer: Int)
 }

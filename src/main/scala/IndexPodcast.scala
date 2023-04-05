@@ -46,6 +46,7 @@ object IndexPodcast {
   val peopleIndex = "people"
   val soundbitesIndex = "soundbites"
   val steamyIndex = "steamies"
+  val pollIndex = "polls"
 
   final case class Episode(
       description: String,
@@ -171,7 +172,7 @@ object IndexPodcast {
       _ <- recurseIndexEpisodes(tokenResponse, showEpisodesRequest(tokenResponse.accessToken))
     } yield {}
 
-    Await.result(program, 1.minute)
+    Await.result(program, 5.minute)
   }
 
   def httpRequest[Response: Decoder](request: HttpRequest): Future[Response] = {
@@ -288,6 +289,13 @@ object IndexPodcast {
     TextField("name"),
     TextField("description"),
     IntegerField("year")
+  )
+
+  val pollIndexMapping = properties(
+    KeywordField("poll_id"),
+    TextField("question"),
+    TextField("answer"),
+    BooleanField("ignore_order")
   )
 
   val indexSettings: Map[String, Any] = Map(

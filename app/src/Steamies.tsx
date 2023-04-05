@@ -121,7 +121,7 @@ const Steamies = ({isEditing}) => {
                 grow={false}
                 style={{ width: steamyWidth }}
               >
-                <EuiCard title={yearSteamy.name}>
+                <EuiCard paddingSize={isMobile ? 's' : undefined} title={yearSteamy.name}>
                   <EuiBasicTable
                     tableLayout="auto"
                     loading={!steamyNominees || steamyNominees.length === 0}

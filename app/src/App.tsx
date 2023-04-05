@@ -162,7 +162,7 @@ const WithProvider = () => {
             <Link to="/">
               <EuiImage
                 height={20}
-                style={{ marginLeft: "20px" }}
+                style={{ marginLeft: isMobile ? '5px' : '20px' }}
                 alt="logo"
                 src="/logo.svg"
               />
@@ -213,12 +213,12 @@ const WithProvider = () => {
       />
     </EuiFlexItem>
     <EuiFlexItem grow={false}>
-      <EuiHeader style={{boxShadow: "0px 0 10px rgba(0, 0, 0, 0.8)"}}>
+      <EuiHeader style={{boxShadow: "0px 0 10px rgba(0, 0, 0, 0.8)", height: '25px'}}>
         <EuiHeaderSection grow side="right">
-          <EuiHeaderSectionItem style={{width: "100%", paddingRight: "20px"}}>
+          <EuiHeaderSectionItem style={{width: "100%", paddingRight: isMobile ? undefined : "20px"}}>
             <EuiFlexGroup gutterSize="s" alignItems="center" justifyContent="flexEnd" responsive={false}>
               <EuiFlexItem grow={false}>
-                <EuiText>
+                <EuiText color="subdued" size="xs">
                   Made in New Zealand
                 </EuiText>
               </EuiFlexItem>
@@ -336,24 +336,28 @@ const HeaderAppMenu = () => {
     >
       <EuiKeyPadMenu id={headerAppKeyPadMenuId} style={{ width: "288" }}>
         <EuiKeyPadMenuItem label="People" onClick={() => {
+          closeMenu()
           navigate("/people")
         }}>
           <BsPeople size="50" />
         </EuiKeyPadMenuItem>
 
         <EuiKeyPadMenuItem label="Timeline" onClick={() => {
+          closeMenu()
           navigate("/")
         }}>
           <BsCalendar3 size="50" />
         </EuiKeyPadMenuItem>
 
         <EuiKeyPadMenuItem label="Soundbites" onClick={() => {
+          closeMenu()
           navigate("/soundbites")
         }}>
           <BsSoundwave size="50" />
         </EuiKeyPadMenuItem>
 
         <EuiKeyPadMenuItem label="Steamies" onClick={() => {
+          closeMenu()
           navigate("/steamies")
         }}>
           <BsTrophy size="50" />

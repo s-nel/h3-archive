@@ -230,7 +230,6 @@ const People = ({
               footer={(<div>
                 <EuiBadge color="primary">{categoryLabel[p.category]}</EuiBadge>
                 <EuiBadge color="hollow">{p.event_count}</EuiBadge>
-                {p.is_beefing && <EuiBadge color="default">&#x1F969;</EuiBadge>}
               </div>)}
             />) : ( <EuiPanel
               style={{width: imgWidth, height: imgWidth}}

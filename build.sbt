@@ -7,8 +7,12 @@ lazy val root = (project in file("."))
     name := "archive",
     idePackagePrefix := Some("com.snacktrace.archive"),
     libraryDependencies ++= Seq(
+      "ch.qos.logback" % "logback-classic" % "1.4.6",
+      "com.github.dfabulich" % "sitemapgen4j" % "1.1.1",
       "com.github.jwt-scala" %% "jwt-core" % "9.2.0",
       "com.sksamuel.elastic4s" %% "elastic4s-client-akka" % "8.5.3",
+      "com.tersesystems.echopraxia.plusscala" %% "logger" % "1.1.2",
+      "com.tersesystems.echopraxia" % "logstash" % "1.4.1",
       "com.typesafe.akka" %% "akka-actor" % "2.7.0",
       "com.typesafe.akka" %% "akka-http" % "10.2.10",
       "com.typesafe.akka" %% "akka-http-core" % "10.2.10",
@@ -17,6 +21,7 @@ lazy val root = (project in file("."))
       "io.circe" %% "circe-core" % "0.14.3",
       "io.circe" %% "circe-generic-extras" % "0.14.3",
       "io.circe" %% "circe-parser" % "0.14.3",
+      "net.logstash.logback" % "logstash-logback-encoder" % "7.3",
       "org.typelevel" %% "cats-core" % "2.9.0"
     ),
     assembly / assemblyMergeStrategy := {

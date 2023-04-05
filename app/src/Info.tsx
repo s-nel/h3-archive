@@ -1,5 +1,5 @@
 import React from 'react'
-import { DateTime } from 'luxon'
+import { DateTime, Duration } from 'luxon'
 import { useDispatch, useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
 import {
@@ -152,7 +152,7 @@ const Info = ({ info, isEditing, setInfo }) => {
 
   const infoDom = (<EuiFlexGroup>
     <EuiFlexItem grow={3}>
-      <EuiPanel color="transparent" hasShadow={false}>
+      <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
         <EuiFlexGroup alignItems="baseline">
           {info.thumb && (<EuiFlexItem grow={false}>
             <EuiImage alt="thumbnail" src={info.thumb} />  
@@ -166,9 +166,13 @@ const Info = ({ info, isEditing, setInfo }) => {
             </EuiText>)}
           </EuiFlexItem>
           <EuiFlexItem grow={false}>
-            <EuiBadge color={categoryColor[info.category]}>
-              {categoryLabel[info.category]}
-            </EuiBadge>
+            <EuiFlexGroup responsive={false}>
+              <EuiFlexItem grow={false}>
+                <EuiBadge color={categoryColor[info.category]}>
+                  {categoryLabel[info.category]}
+                </EuiBadge>
+              </EuiFlexItem>
+            </EuiFlexGroup>
           </EuiFlexItem>
         </EuiFlexGroup>
         <EuiHorizontalRule size="half" />
