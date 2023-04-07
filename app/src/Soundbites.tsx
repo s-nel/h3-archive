@@ -24,6 +24,7 @@ const Soundbites = () => {
   const [force, setForce] = React.useState(0)
   const [hovered, setHovered] = React.useState(null)
   const [filteredSoundbites, setFilteredSoundbites] = React.useState([])
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
 
   const setQuery = (query) => {
     const existingParams = new URLSearchParams(window.location.search)
@@ -40,7 +41,6 @@ const Soundbites = () => {
   }
   const searchParams = new URLSearchParams(window.location.search)
   const query = searchParams.get('q') && Query.parse(searchParams.get('q'))
-  const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const width = isMobile ? 140 : 175
   const maxTextHeight = isMobile ? 90 : 125
 
@@ -196,6 +196,8 @@ const SoundbiteSearch = ({
   people,
   soundbites,
 }) => {
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
   const schema = {
     flags: [
       'won',
@@ -237,7 +239,7 @@ const SoundbiteSearch = ({
     filters={filters}
     box={{
       schema: schema,
-      incremental: true,
+      incremental: !isMobile,
     }}
     onChange={onSearch(setQuery)}
     query={query}

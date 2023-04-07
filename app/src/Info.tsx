@@ -13,14 +13,17 @@ import {
   EuiImage,
   EuiListGroup,
   EuiPanel,
+  EuiSpacer,
   EuiText,
   EuiTextColor,
   EuiTitle,
+  EuiToolTip,
 } from '@elastic/eui'
 import { BsSpotify, BsYoutube, BsPerson } from 'react-icons/bs'
 import axios from 'axios'
 import { set as setEvent } from './data/eventsSlice'
 import { add as addToast } from './data/toastsSlice'
+import Transcript from './Transcript'
 
 export const roleLabel = {
   creator: 'Creator',
@@ -52,6 +55,7 @@ const Info = ({ info, isEditing, setInfo }) => {
   const [modifiedDoc, setModifiedDoc] = React.useState(info && {event_id: info.event_id, jsonStr: JSON.stringify(info, null, "    ")})
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
+  console.log(info)
 
   React.useEffect(() => {
     if ((info && !modifiedDoc) || (info && info.event_id !== modifiedDoc.event_id)) {
@@ -152,34 +156,54 @@ const Info = ({ info, isEditing, setInfo }) => {
 
   const infoDom = (<EuiFlexGroup>
     <EuiFlexItem grow={3}>
-      <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
-        <EuiFlexGroup alignItems="baseline">
-          {info.thumb && (<EuiFlexItem grow={false}>
-            <EuiImage alt="thumbnail" src={info.thumb} />  
-          </EuiFlexItem>)}
-          <EuiFlexItem grow={false}>
-            <EuiTitle size="m">
-              <h2>{info.name}</h2>
-            </EuiTitle>
-            {info.start_date && (<EuiText>
-              <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
-            </EuiText>)}
-          </EuiFlexItem>
-          <EuiFlexItem grow={false}>
-            <EuiFlexGroup responsive={false}>
+      <EuiFlexGroup direction="column">
+        <EuiFlexItem grow={false}>
+          <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
+            <EuiFlexGroup alignItems="baseline">
+              {info.thumb && (<EuiFlexItem grow={false}>
+                <EuiImage alt="thumbnail" src={info.thumb} />  
+              </EuiFlexItem>)}
               <EuiFlexItem grow={false}>
-                <EuiBadge color={categoryColor[info.category]}>
-                  {categoryLabel[info.category]}
-                </EuiBadge>
+                <EuiTitle size="m">
+                  <h2>{info.name}</h2>
+                </EuiTitle>
+                {info.start_date && (<EuiText>
+                  <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
+                </EuiText>)}
+              </EuiFlexItem>
+              <EuiFlexItem grow={false}>
+                <EuiFlexGroup responsive={false}>
+                  <EuiFlexItem grow={false}>
+                    <EuiBadge color={categoryColor[info.category]}>
+                      {categoryLabel[info.category]}
+                    </EuiBadge>
+                  </EuiFlexItem>
+                </EuiFlexGroup>
               </EuiFlexItem>
             </EuiFlexGroup>
-          </EuiFlexItem>
-        </EuiFlexGroup>
-        <EuiHorizontalRule size="half" />
-        <EuiText>
-          <div dangerouslySetInnerHTML={{__html: info.description}}></div>
-        </EuiText>
-      </EuiPanel>
+            <EuiHorizontalRule size="half" />
+            <EuiText>
+              <div dangerouslySetInnerHTML={{__html: info.description}}></div>
+            </EuiText>
+          </EuiPanel>
+        </EuiFlexItem>
+        {info && info.transcription && (<EuiFlexItem grow={false}>
+          <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
+            <EuiFlexGroup gutterSize="xs" alignItems="center" responsive={false}>
+              <EuiFlexItem grow={false}>
+                <EuiTitle size="xs"><h4>Transcript</h4></EuiTitle>  
+              </EuiFlexItem>  
+              <EuiFlexItem grow={false}>
+                <EuiToolTip content="Click on a line of the transcript to open the video at that timestamp">
+                  <EuiIcon type="questionInCircle" color="subdued" />
+                </EuiToolTip>
+              </EuiFlexItem>
+            </EuiFlexGroup>
+            <EuiSpacer size="s" />
+            <Transcript eventId={info.event_id} />
+          </EuiPanel>
+        </EuiFlexItem>)}
+      </EuiFlexGroup>
     </EuiFlexItem>
     {((links && links.length > 0) || (info.tags && info.tags.length > 0) || (info.people && info.people.length > 0)) && (<EuiFlexItem grow={1}>
       <br size="xl"/>

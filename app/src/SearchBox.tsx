@@ -2,7 +2,8 @@ import React from 'react'
 import {
   EuiSearchBar,
   Query,
-  SearchFilterConfig
+  SearchFilterConfig,
+  useIsWithinBreakpoints
 } from '@elastic/eui'
 import { useDispatch, useSelector } from 'react-redux'
 import { setAll as setAllEvents } from './data/eventsSlice'
@@ -16,6 +17,7 @@ const SearchBox = ({
   const [isLoading, setLoading] = React.useState(false)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
 
   const fields = {
     person: {
@@ -88,7 +90,7 @@ const SearchBox = ({
       }}
       query={query}
       box={{
-        incremental: true,
+        incremental: !isMobile,
         schema: {
           fields: fields,
         },

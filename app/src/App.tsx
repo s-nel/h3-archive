@@ -222,6 +222,9 @@ const WithProvider = () => {
                   Made in New Zealand
                 </EuiText>
               </EuiFlexItem>
+              <EuiFlexItem grow={false}>
+                <EuiLink href="https://github.com/s-nel/h3-archive" external={false} target="_blank"><BsGithub /></EuiLink>
+              </EuiFlexItem>
             </EuiFlexGroup>
           </EuiHeaderSectionItem>
         </EuiHeaderSection>

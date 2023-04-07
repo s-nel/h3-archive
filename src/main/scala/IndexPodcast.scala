@@ -13,10 +13,13 @@ import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.sksamuel.elastic4s.fields.{
   BooleanField,
   DateField,
+  DoubleField,
+  FloatField,
   IntegerField,
   KeywordField,
   LongField,
   NestedField,
+  ObjectField,
   TextField
 }
 import com.snacktrace.archive.Server.{EventDoc, LinkDoc, PersonRef, TagDoc}
@@ -217,7 +220,8 @@ object IndexPodcast {
       links = event.links.map(l => LinkDoc(l.`type`.name, l.url.toString)),
       startDate = event.startDate.toEpochMilli,
       duration = event.duration.map(_.toMillis),
-      people = Some(Set.empty)
+      people = Some(Set.empty),
+      None
     )
   }
 
@@ -249,6 +253,27 @@ object IndexPodcast {
       properties = Seq(
         KeywordField("person_id"),
         KeywordField("role")
+      )
+    ),
+    ObjectField(
+      "transcription",
+      properties = Seq(
+        TextField("text"),
+        ObjectField(
+          "segments",
+          enabled = Some(false),
+          properties = Seq(
+            IntegerField("id"),
+            LongField("seek"),
+            FloatField("start"),
+            FloatField("end"),
+            TextField("text"),
+            DoubleField("temperature"),
+            DoubleField("avg_logprob"),
+            DoubleField("compression_ratio"),
+            DoubleField("no_speech_prob")
+          )
+        )
       )
     )
   )

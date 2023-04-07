@@ -257,6 +257,8 @@ const PeopleSearch = ({
   query,
   setQuery,
 }) => {
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
   const schema = {
     flags: [
       'is_beefing'
@@ -320,7 +322,7 @@ const PeopleSearch = ({
       query={query}
       filters={filters}
       box={{
-        incremental: true,
+        incremental: !isMobile,
         schema: schema,
       }}
     />

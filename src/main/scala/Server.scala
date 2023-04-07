@@ -83,11 +83,18 @@ object Server extends App with FailFastCirceSupport {
     pathPrefix("api") {
       pathPrefix("events") {
         get {
-          parameters("q".optional) { maybeQuery =>
-            encodeResponseWith(Coders.Gzip) {
-              complete(getEvents(readonlyClient, maybeQuery))
+          pathPrefix("^.+$".r) { eventId =>
+            parameters("with_transcript".optional) { maybeWithTranscript =>
+              get {
+                complete(getEvent(readonlyClient, eventId, maybeWithTranscript.map(_ == "true").getOrElse(false)))
+              }
             }
-          }
+          } ~
+            parameters("q".optional) { maybeQuery =>
+              encodeResponseWith(Coders.Gzip) {
+                complete(getEvents(readonlyClient, maybeQuery))
+              }
+            }
         } ~
           post {
             entity(as[Json]) { search =>
@@ -226,6 +233,20 @@ object Server extends App with FailFastCirceSupport {
     }
   }
 
+  def getEvent(elasticClient: ElasticClient, eventId: String, withTranscript: Boolean): Future[EventDoc] = {
+    for {
+      hit <- elasticClient.execute {
+        getDoc(eventsIndex, eventId)
+      }
+      decoded <- decode[EventDoc](hit.result.sourceAsString).toTry match {
+        case Failure(t) => Future.failed(t)
+        case Success(a) => Future.successful(a)
+      }
+    } yield {
+      decoded
+    }
+  }
+
   def getEvents(elasticsearchClient: ElasticClient, maybeQueryStr: Option[String]): Future[List[EventDoc]] = {
     val query = maybeQueryStr match {
       case Some(queryStr) if queryStr.trim.nonEmpty =>
@@ -241,7 +262,7 @@ object Server extends App with FailFastCirceSupport {
 
     for {
       hits <- elasticsearchClient.execute {
-        search(eventsIndex).query(query).size(1000)
+        search(eventsIndex).query(query).sourceExclude(List("transcription.*")).size(1000)
       }
     } yield {
       val results = hits.result.hits.hits.toList.flatMap { hit =>
@@ -261,7 +282,7 @@ object Server extends App with FailFastCirceSupport {
   def searchEvents(elasticClient: ElasticClient, searchBody: Json): Future[List[EventDoc]] = {
     for {
       hits <- elasticClient.execute {
-        search(eventsIndex).query(RawQuery(searchBody.noSpaces)).size(1000)
+        search(eventsIndex).query(RawQuery(searchBody.noSpaces)).sourceExclude(List("transcription.*")).size(1000)
       }
     } yield {
       hits.result.hits.hits.toList.flatMap { hit =>
@@ -560,7 +581,25 @@ object Server extends App with FailFastCirceSupport {
       links: Set[LinkDoc],
       startDate: Long,
       duration: Option[Long],
-      people: Option[Set[PersonRef]]
+      people: Option[Set[PersonRef]],
+      transcription: Option[TranscriptionDoc]
+  )
+
+  final case class TranscriptionDoc(
+      text: Option[String],
+      segments: Option[List[SegmentDoc]]
+  )
+
+  final case class SegmentDoc(
+      id: Int,
+      seek: Long,
+      start: Float,
+      end: Float,
+      text: String,
+      temperature: Double,
+      avgLogprob: Double,
+      compressionRatio: Double,
+      noSpeechProb: Double
   )
 
   final case class PersonDoc(
