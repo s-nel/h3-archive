@@ -54,3 +54,39 @@ body {
 .euiTable {
   background: none !important;
 }
+
+.youtube-video-container {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  height: 0;
+  padding-bottom: 50%;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.youtube-video-iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (min-width: 800px) {
+  .youtube-video-container {
+    width: 640px;
+    height: 360px;
+    padding-bottom: 0px;
+  }
+
+  .youtube-video-iframe {
+  }
+}
+
+.highlight em {
+  font-weight: bold;
+  background-color: yellow;
+  color: black;
+  font-style: normal;
+}

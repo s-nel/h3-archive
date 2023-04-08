@@ -18,12 +18,14 @@ import {
   EuiTextColor,
   EuiTitle,
   EuiToolTip,
+  useIsWithinBreakpoints,
 } from '@elastic/eui'
 import { BsSpotify, BsYoutube, BsPerson } from 'react-icons/bs'
 import axios from 'axios'
 import { set as setEvent } from './data/eventsSlice'
 import { add as addToast } from './data/toastsSlice'
 import Transcript from './Transcript'
+import Video from './Video'
 
 export const roleLabel = {
   creator: 'Creator',
@@ -55,7 +57,8 @@ const Info = ({ info, isEditing, setInfo }) => {
   const [modifiedDoc, setModifiedDoc] = React.useState(info && {event_id: info.event_id, jsonStr: JSON.stringify(info, null, "    ")})
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
-  console.log(info)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+  const [ytVideo, setYtVideo] = React.useState(null)
 
   React.useEffect(() => {
     if ((info && !modifiedDoc) || (info && info.event_id !== modifiedDoc.event_id)) {
@@ -154,7 +157,7 @@ const Info = ({ info, isEditing, setInfo }) => {
     <EuiButton onClick={() => onSaveDoc(dispatch, setInfo)(JSON.parse(modifiedDoc.jsonStr))}>Save</EuiButton>
   </div>)
 
-  const infoDom = (<EuiFlexGroup>
+  const infoDom = (<EuiFlexGroup gutterSize={isMobile ? "s" : undefined}>
     <EuiFlexItem grow={3}>
       <EuiFlexGroup direction="column">
         <EuiFlexItem grow={false}>
@@ -181,13 +184,20 @@ const Info = ({ info, isEditing, setInfo }) => {
                 </EuiFlexGroup>
               </EuiFlexItem>
             </EuiFlexGroup>
-            <EuiHorizontalRule size="half" />
-            <EuiText>
+            {info.description && [<EuiHorizontalRule key="1" size="half" />,
+            <EuiText key="2">
               <div dangerouslySetInnerHTML={{__html: info.description}}></div>
-            </EuiText>
+            </EuiText>]}
           </EuiPanel>
         </EuiFlexItem>
-        {info && info.transcription && (<EuiFlexItem grow={false}>
+        {!isMobile && info && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
+          <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
+            <EuiTitle size="xs"><h4>Video</h4></EuiTitle>  
+            <EuiSpacer size="s" />
+            <Video event={info} onVideoReady={e => setYtVideo(e.target)} />
+          </EuiPanel>
+        </EuiFlexItem>)}
+        {!isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiFlexGroup gutterSize="xs" alignItems="center" responsive={false}>
               <EuiFlexItem grow={false}>
@@ -200,7 +210,7 @@ const Info = ({ info, isEditing, setInfo }) => {
               </EuiFlexItem>
             </EuiFlexGroup>
             <EuiSpacer size="s" />
-            <Transcript eventId={info.event_id} />
+            <Transcript eventId={info.event_id} ytVideo={ytVideo} />
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
@@ -228,6 +238,27 @@ const Info = ({ info, isEditing, setInfo }) => {
           <EuiBasicTable responsive={false} items={info.tags} columns={columns} />
         </EuiPanel>)}
       </EuiFlexGroup>
+    </EuiFlexItem>)}
+    {isMobile && info && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
+      <EuiPanel paddingSize="none">
+        <Video event={info} onVideoReady={e => setYtVideo(e.target)} />
+      </EuiPanel>
+    </EuiFlexItem>)}
+    {isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
+      <EuiPanel>
+        <EuiFlexGroup gutterSize="xs" alignItems="center" responsive={false}>
+          <EuiFlexItem grow={false}>
+            <EuiText><h4>Transcript</h4></EuiText>  
+          </EuiFlexItem>  
+          <EuiFlexItem grow={false}>
+            <EuiToolTip content="Click on a line of the transcript to open the video at that timestamp">
+              <EuiIcon type="questionInCircle" color="subdued" />
+            </EuiToolTip>
+          </EuiFlexItem>
+        </EuiFlexGroup>
+        <EuiSpacer size="s" />
+        <Transcript eventId={info.event_id} ytVideo={ytVideo} />
+      </EuiPanel>
     </EuiFlexItem>)}
   </EuiFlexGroup>)
 

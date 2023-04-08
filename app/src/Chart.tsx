@@ -19,7 +19,8 @@ const initSim = _.debounce((data, simulation) => {
   simulation.force("collide").initialize(data)
 }, 50)
 
-const Chart = ({ setInfo, info, query }) => {
+const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
+  console.log(unfilteredEvents, query)
   const width = 2000
   const marginTop = 10
   const marginRight = 20
@@ -30,7 +31,6 @@ const Chart = ({ setInfo, info, query }) => {
   const [fixed, setFixed] = React.useState(!!info)
   const [isLoading, setLoading] = React.useState(true)
   const rootRef = React.useRef(null)
-  const unfilteredEvents = useSelector(state => state.events.value)
   const [eventsSize, setEventsSize] = React.useState(0)
   const [svg] = React.useState(d3.create("svg")
     .attr("width", "100%")

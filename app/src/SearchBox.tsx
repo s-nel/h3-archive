@@ -1,6 +1,10 @@
 import React from 'react'
 import {
+  EuiFlexGroup,
+  EuiFlexItem,
   EuiSearchBar,
+  EuiSpacer,
+  EuiSwitch,
   Query,
   SearchFilterConfig,
   useIsWithinBreakpoints
@@ -11,13 +15,26 @@ import axios from 'axios'
 
 const SearchBox = ({
   setQuery,
+  setFilteredEvents,
   query,
+  searchTranscripts,
 }) => {
+  console.log(query, searchTranscripts)
+  
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
   const [isLoading, setLoading] = React.useState(false)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  const nestedFields = [
+    "person",
+    "date"
+  ]
+
+  React.useEffect(() => {
+    onSearchChange(searchAbortController, setSearchAbortController, nestedFields, setQuery, setFilteredEvents, searchTranscripts, setLoading)(query)
+  }, [searchTranscripts, query && query.text])
 
   const fields = {
     person: {
@@ -36,13 +53,8 @@ const SearchBox = ({
     date: {
       type: "date",
       valueDescription: "the date of the event"
-    },
+    }
   }
-
-  const nestedFields = [
-    "person",
-    "date"
-  ]
 
   const filters: SearchFilterConfig[] = [
     {
@@ -81,23 +93,63 @@ const SearchBox = ({
     }
   ]
 
-  return (<div><EuiSearchBar
-      key="search"
-      onChange={q => {
-        if (q.query) {
-          setQuery(q.query)
-        }
-      }}
-      query={query}
-      box={{
-        incremental: !isMobile,
-        schema: {
-          fields: fields,
-        },
-        isLoading,
-      }}
-      filters={filters}
-  /></div>)
+  return (<div>
+    <EuiSpacer size="s" />
+    <EuiFlexGroup gutterSize="m" alignItems="center">
+      <EuiFlexItem grow>
+        <EuiSearchBar
+          key="search"
+          onChange={s => setQuery(s.query, searchTranscripts)}
+          query={query}
+          box={{
+            schema: {
+              fields: fields,
+            },
+            isLoading,
+          }}
+          filters={filters}
+        />
+      </EuiFlexItem>
+      <EuiFlexItem grow={false}>
+        <EuiSwitch 
+          style={{marginLeft: '2px'}}
+          label="Search Transcripts" 
+          checked={searchTranscripts} 
+          onChange={e => {
+            setQuery(query, e.target.checked)
+          }} 
+        />
+      </EuiFlexItem>
+    </EuiFlexGroup>
+    <EuiSpacer size="s" />
+  </div>)
+}
+
+const onSearchChange = (searchAbortController, setSearchAbortController, nestedFields, setQuery, setFilteredEvents, searchTranscript, setLoading) => async (query) => {
+  if (!query || !query.text) {
+    setFilteredEvents(null)
+    setQuery(query, searchTranscript)
+    return
+  }
+  setQuery(query, searchTranscript)
+  if (searchTranscript) {
+    setLoading(true)
+    const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), query)
+    searchAbortController.abort()
+    const newSearchAbortController = new AbortController()
+    setSearchAbortController(newSearchAbortController)
+    const esQuery = Query.toESQuery(searchWithoutNestedFields)
+    const response = await axios.post('/api/events', esQuery, {
+      signal: newSearchAbortController.signal
+    })
+    setLoading(false)
+    setFilteredEvents(response.data.map(e => ({
+      ...e.event,
+      highlight: e.highlight,
+    })))
+  } else {
+    setFilteredEvents(undefined)
+  }
 }
 
 export default SearchBox;

@@ -1,23 +1,37 @@
 import React from 'react'
 import axios from 'axios'
-import { EuiCodeBlock, EuiLink, EuiSkeletonText, EuiText } from '@elastic/eui'
+import { EuiCodeBlock, EuiLink, EuiSkeletonText, EuiText, EuiTextColor, useIsWithinBreakpoints } from '@elastic/eui'
+import { useLocation } from 'react-router-dom'
+import parse from 'html-react-parser'
 
 const Transcript = ({
-  eventId
+  eventId,
+  ytVideo,
 }) => {
   const [event, setEvent] = React.useState(null)
   const [isFetching, setFetching] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+  const [currentPlaybackTime, setCurrentPlaybackTime] = React.useState(0)
 
   React.useEffect(() => {
     if (!isFetching && (!event || event.event_id !== eventId)) {
-      fetchTranscript(eventId, setEvent)
+      fetchTranscript(eventId, setEvent, setFetching)
       setFetching(true)
     }
   }, [isFetching, setFetching, event, eventId, setEvent])
 
-  console.log(event)
+  React.useEffect(() => {
+    const interval = setInterval(() => {
+      if (ytVideo) {
+        setCurrentPlaybackTime(Math.ceil(ytVideo.getCurrentTime()))
+      }
+    }, 500);
+    return () => {
+      clearInterval(interval);
+    };
+  }, [])
 
-  if (!isFetching || !event || !event.transcription) {
+  if (isFetching || !event || !event.transcription || event.event_id !== eventId) {
     return <EuiSkeletonText />
   }
 
@@ -28,18 +42,35 @@ const Transcript = ({
   let lastSegment = null
   const ytLink = event.links.find(l => l.type === 'youtube')
 
-  return (<EuiCodeBlock overflowHeight={400}>
+  console.log("currentPlaybackTime", currentPlaybackTime)
+
+  return (<EuiCodeBlock paddingSize={isMobile ? 's' : undefined} overflowHeight={isMobile ? 300 : 400}>
     {event.transcription.segments.map((segment, i) => {
       const ytLinkWithTs = ytLink && ytLink.url && `${ytLink.url}?t=${segment.start}s`
       
-      const segmentText = i === 0 || (lastSegment && lastSegment.end != segment.start) ? segment.text.trim() : segment.text
+      const segmentText = i === 0 || (lastSegment && lastSegment.end != segment.start && segment.start - lastSegment.end > 2) ? segment.text.trim() : segment.text
 
-      const segmentDom = ytLink && ytLink.url ? (<EuiLink external={false} color="text" key={segment.id} target="_blank" href={ytLinkWithTs}>{segmentText}</EuiLink>) : (<span key={segment.id}>{segment.text}</span>)
+      const isUnplayed = ytVideo && (ytVideo.getPlayerState() === -1 || ytVideo.getPlayerState() === 5)
+      const isPlaying = !isUnplayed && currentPlaybackTime >= segment.start && currentPlaybackTime < segment.end
 
-      console.log(lastSegment && lastSegment.end, segment.start)
+      const segmentDom = ytLink && ytLink.url ? (<EuiLink 
+        key={segment.id}
+        external={false} 
+        color={isPlaying ? undefined : 'text'}
+        style={{color: isPlaying ? "#ffff00": undefined}}
+        target="_blank" 
+        href={ytLinkWithTs}
+        onClick={ytVideo ? e => {
+          e.preventDefault()
+          ytVideo.seekTo(segment.start, true)
+          ytVideo.playVideo()
+        }: undefined}
+      >
+        {segmentText}
+      </EuiLink>) : (<span key={segment.id}>{segment.text}</span>)
 
       if (lastSegment && lastSegment.end != segment.start && segment.start - lastSegment.end > 2) {
-        const breaks = segment.start - lastSegment.end > 10 ? [
+        const breaks = segment.start - lastSegment.end > 5 ? [
           <br key={`${segment.id}-br`} />,
           <br key={`${segment.id}-br2`} />
         ] : [ <br key={`${segment.id}-br`} /> ]
@@ -56,9 +87,10 @@ const Transcript = ({
   </EuiCodeBlock>)
 }
 
-const fetchTranscript = async (eventId, setEvent) => {
+const fetchTranscript = async (eventId, setEvent, setFetching) => {
   const event = await axios.get(`/api/events/${eventId}?with_transcript=true`)
   setEvent(event.data)
+  setFetching(false)
 }
 
 export default Transcript

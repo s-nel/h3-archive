@@ -26,6 +26,7 @@ const Timeline = ({
   const [force, setForce] = React.useState(0)
   const events = useSelector(state => state.events.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
+  const [filteredEvents, setFilteredEvents] = React.useState(null)
 
   const setInfo = (info) => {
     const existingParams = new URLSearchParams(window.location.search)
@@ -36,9 +37,19 @@ const Timeline = ({
       setForce(force + 1)
     }
   }
-  const setQuery = (query) => {
+  const setQuery = (query, searchTranscripts) => {
     const existingParams = new URLSearchParams(window.location.search)
-    if (existingParams.get('q') !== query.text) {
+    if (existingParams.get('search_transcripts') !== searchTranscripts) {
+      if (!searchTranscripts) {
+        existingParams.delete('search_transcripts')
+      } else {
+        existingParams.set('search_transcripts', searchTranscripts)
+      }
+      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
+      window.history.replaceState({path:newurl},'',newurl)
+      setForce(force + 1)
+    }
+    if (query && existingParams.get('q') !== query.text) {
       if (!query.text || query.text === '') {
         existingParams.delete('q')
       } else {
@@ -51,6 +62,7 @@ const Timeline = ({
   }
   const searchParams = new URLSearchParams(window.location.search)
   const query = searchParams.get('q') && Query.parse(searchParams.get('q'))
+  const searchTranscripts = searchParams.get('search_transcripts') === 'true'
 
   const info = events && searchParams.get('event_id') && events.find(e => e.event_id === searchParams.get('event_id'))
 
@@ -71,17 +83,18 @@ const Timeline = ({
   }
 
   return (<div>
-    <SearchBox setQuery={setQuery} query={query} />
-    {!isMobile && <Chart query={query} setInfo={setInfo} info={info} />}
-    {isMobile && <EventList query={query} />}
-    <Info info={info} isEditing={isEditing} setInfo={setInfo} />
+    <SearchBox setQuery={setQuery} query={query} searchTranscripts={searchTranscripts} setFilteredEvents={setFilteredEvents} />
+    {!isMobile && <Chart events={filteredEvents || events} query={filteredEvents ? undefined : query} setInfo={setInfo} info={info} />}
+    {isMobile && <EventList style={{marginTop: '-40px'}} events={filteredEvents || events} query={filteredEvents ? undefined : query} />}
+    {!isMobile && <Info info={info} isEditing={isEditing} setInfo={setInfo} />}
   </div>)
 }
 
 const EventList = ({
   query,
+  events: unfilteredEvents,
+  style,
 }) => {
-  const unfilteredEvents = useSelector(state => state.events.value)
   const [sort, setSort] = React.useState({
     field: 'date',
     direction: 'desc'
@@ -112,15 +125,46 @@ const EventList = ({
     {
       name: 'Date',
       field: 'date',
-      render: (a, e) => (<EuiText>
+      render: (a, e) => (<EuiText size="xs">
         <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
       </EuiText>),
-      width: '120px',
+      width: '100px',
       sortable: true,
+      mobileOptions: {
+        header: false,
+        width: '100%',
+        truncateText: false,
+        render: e => (<EuiText size="xs">
+          <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
+        </EuiText>),
+      },
     },
     {
       name: 'Name',
-      render: e => <Link to={`/events/${e.event_id}`}>{e.name}</Link>
+      render: e => <EuiText size="xs"><Link to={`/events/${e.event_id}`}>{e.name}</Link></EuiText>,
+      mobileOptions: {
+        header: false,
+        width: '100%',
+        truncateText: false,
+        render: e => {
+          const highlights = e.highlight && [
+            ...(e.highlight.description || []),
+            ...(e.highlight['transcription.text'] || [])
+          ]
+          return <EuiFlexGroup gutterSize="xs">
+            <EuiFlexItem>
+              <EuiText size="s">
+                {e.highlight && e.highlight.name && e.highlight.name.length > 0 ? <Link className="highlight" to={`/events/${e.event_id}?highlight=`} dangerouslySetInnerHTML={{__html: e.highlight.name[0]}} /> : <Link to={`/events/${e.event_id}`}>{e.name}</Link>}
+              </EuiText>
+            </EuiFlexItem>
+            {highlights && (<EuiFlexItem className="highlight">
+              {highlights.map(h => {
+                return <EuiText size="xs" color="subdued" dangerouslySetInnerHTML={{ __html: h }}/>
+              })}
+            </EuiFlexItem>)}
+          </EuiFlexGroup>
+        },
+      },
     }
   ]
 
@@ -129,13 +173,19 @@ const EventList = ({
   }
 
   return (<EuiBasicTable
-    responsive={false}
+    responsive
+    style={style}
     sorting={{
       sort: sort,
     }}
     columns={eventsColumns}
     items={sortedEvents}
     onChange={onChange}
+    rowProps={{
+      style: {
+        padding: '0px',
+      }
+    }}
   />)
 }
 

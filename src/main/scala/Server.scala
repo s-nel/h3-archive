@@ -21,6 +21,7 @@ import akka.http.scaladsl.model.headers.{HttpCookie, `Set-Cookie`}
 import akka.http.scaladsl.server.Directive1
 import akka.stream.scaladsl.Source
 import com.redfin.sitemapgenerator.{ChangeFreq, GoogleMobileSitemapUrl, WebSitemapGenerator, WebSitemapUrl}
+import com.sksamuel.elastic4s.requests.searches.HighlightField
 import com.tersesystems.echopraxia.plusscala._
 import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
 import com.snacktrace.archive.Settings.{ElasticsearchSettings, SessionSettings}
@@ -262,7 +263,7 @@ object Server extends App with FailFastCirceSupport {
 
     for {
       hits <- elasticsearchClient.execute {
-        search(eventsIndex).query(query).sourceExclude(List("transcription.*")).size(1000)
+        search(eventsIndex).query(query).sourceExclude(List("transcription.*")).size(2000)
       }
     } yield {
       val results = hits.result.hits.hits.toList.flatMap { hit =>
@@ -279,16 +280,23 @@ object Server extends App with FailFastCirceSupport {
     }
   }
 
-  def searchEvents(elasticClient: ElasticClient, searchBody: Json): Future[List[EventDoc]] = {
+  def searchEvents(elasticClient: ElasticClient, searchBody: Json): Future[List[EventWithHighlight]] = {
     for {
       hits <- elasticClient.execute {
-        search(eventsIndex).query(RawQuery(searchBody.noSpaces)).sourceExclude(List("transcription.*")).size(1000)
+        search(eventsIndex)
+          .query(RawQuery(searchBody.noSpaces))
+          .highlighting(
+            List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
+          )
+          .sourceExclude(List("transcription.*"))
+          .size(2000)
       }
     } yield {
+      //println(hits)
       hits.result.hits.hits.toList.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {
           case Success(event) =>
-            List(event)
+            List(EventWithHighlight(event, hit.highlight))
           case Failure(exception) =>
             println("Failed to deserialize doc")
             exception.printStackTrace()
@@ -406,7 +414,7 @@ object Server extends App with FailFastCirceSupport {
 
     for {
       hits <- elasticsearchClient.execute {
-        search(peopleIndex).query(query).size(1000)
+        search(peopleIndex).query(query).size(2000)
       }
     } yield {
       hits.result.hits.hits.toList.flatMap { hit =>
@@ -666,4 +674,6 @@ object Server extends App with FailFastCirceSupport {
   )
 
   final case class Response(answer: Int)
+
+  final case class EventWithHighlight(event: EventDoc, highlight: Map[String, Seq[String]])
 }

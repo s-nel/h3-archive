@@ -44,7 +44,7 @@ object IndexTranscriptions {
 
     val fut = for {
       hits <- elasticsearchClient.execute {
-        search(eventsIndex).size(1000)
+        search(eventsIndex).sourceExclude(List("transcription.*")).size(1000)
       }
       esEvents = hits.result.hits.hits.toList.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {
@@ -61,7 +61,7 @@ object IndexTranscriptions {
         .filter(_.links.exists(_.`type` === LinkType.YouTube.name))
         .sortBy(e => e.startDate)
       paralleEc = ExecutionContext.fromExecutorService(new java.util.concurrent.ForkJoinPool(6))
-      _ <- filteredEvents.map(ev => transcribe(elasticsearchClient, settings)(ev)(paralleEc)).sequence
+      _ <- filteredEvents.map(ev => transcribe(elasticsearchClient, settings)(ev)(paralleEc).attempt).sequence
     } yield ()
     Await.result(fut, 60.hours)
   }
