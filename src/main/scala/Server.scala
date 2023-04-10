@@ -54,7 +54,7 @@ object Server extends App with FailFastCirceSupport {
   implicit val system = ActorSystem("my-system")
   implicit val executionContext = system.dispatcher
 
-  val url = "http://h3historian.com"
+  val url = "https://h3historian.com"
 
   @volatile
   var sitemapDir: Option[File] = None
@@ -263,7 +263,10 @@ object Server extends App with FailFastCirceSupport {
 
     for {
       hits <- elasticsearchClient.execute {
-        search(eventsIndex).query(query).sourceExclude(List("transcription.*")).size(2000)
+        search(eventsIndex)
+          .query(query)
+          .sourceExclude(List("transcription", "description", "duration", "links", "tags"))
+          .size(2000)
       }
     } yield {
       val results = hits.result.hits.hits.toList.flatMap { hit =>
@@ -288,7 +291,7 @@ object Server extends App with FailFastCirceSupport {
           .highlighting(
             List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
           )
-          .sourceExclude(List("transcription.*"))
+          .sourceExclude(List("transcription", "description", "people", "tags", "links", "thumb"))
           .size(2000)
       }
     } yield {
@@ -583,10 +586,10 @@ object Server extends App with FailFastCirceSupport {
       eventId: String,
       category: String,
       name: String,
-      description: String,
+      description: Option[String],
       thumb: Option[String],
-      tags: Set[TagDoc],
-      links: Set[LinkDoc],
+      tags: Option[Set[TagDoc]],
+      links: Option[Set[LinkDoc]],
       startDate: Long,
       duration: Option[Long],
       people: Option[Set[PersonRef]],

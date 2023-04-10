@@ -139,14 +139,18 @@ object IndexYoutubeVideos2 {
     EventDoc(
       eventId = s"youtube:video:${item.id}",
       name = item.snippet.title,
-      description = item.snippet.description,
+      description = Some(item.snippet.description),
       category = "video",
       thumb = Some(item.snippet.thumbnails.default.url),
-      tags = Set(
-        TagDoc("channel", item.snippet.channelTitle)
+      tags = Some(
+        Set(
+          TagDoc("channel", item.snippet.channelTitle)
+        )
       ),
-      links = Set(
-        LinkDoc("youtube", s"https://youtu.be/${item.snippet.resourceId.videoId}")
+      links = Some(
+        Set(
+          LinkDoc("youtube", s"https://youtu.be/${item.snippet.resourceId.videoId}")
+        )
       ),
       startDate = Instant.parse(item.snippet.publishedAt).toEpochMilli,
       duration = None,

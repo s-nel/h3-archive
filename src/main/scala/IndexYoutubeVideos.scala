@@ -148,7 +148,7 @@ object IndexYoutubeVideos {
                   esEvents
                     .filter(esEvent =>
                       (esEvent.startDate > youTubeEvent.startDate.toEpochMilli - (2L * 1000L * 60L * 60L * 24L)) && !esEvent.links
-                        .exists(_.`type` === LinkType.YouTube.name)
+                        .exists(_.exists(_.`type` === LinkType.YouTube.name))
                     )
                     .sortBy(_.startDate)
                     .take(5)
@@ -174,7 +174,8 @@ object IndexYoutubeVideos {
                       val foundEvent = possibleEvents.apply(chosen - 1)
                       val updatedDoc = foundEvent.copy(
                         startDate = youTubeEvent.startDate.toEpochMilli,
-                        links = foundEvent.links ++ youTubeEventDoc.links,
+                        links =
+                          Some(foundEvent.links.getOrElse(Set.empty) ++ youTubeEventDoc.links.getOrElse(Set.empty)),
                         thumb = youTubeEventDoc.thumb
                       )
                       println(updatedDoc)
@@ -187,14 +188,14 @@ object IndexYoutubeVideos {
                     }
                 } yield {}
               case Some(foundEvent) =>
-                if (!foundEvent.links.exists(_.`type` == LinkType.YouTube.name)) {
+                if (!foundEvent.links.exists(_.exists(_.`type` == LinkType.YouTube.name))) {
                   //implicit val config: Configuration = Configuration.default.withSnakeCaseMemberNames
                   println(
                     s"Found youtube video with same name as Spotify podcast. Updating doc [${foundEvent.eventId}]"
                   )
                   val updatedDoc = foundEvent.copy(
                     startDate = youTubeEvent.startDate.toEpochMilli,
-                    links = foundEvent.links ++ youTubeEventDoc.links,
+                    links = Some(foundEvent.links.getOrElse(Set.empty) ++ youTubeEventDoc.links.getOrElse(Set.empty)),
                     thumb = youTubeEventDoc.thumb
                   )
                   println(updatedDoc)

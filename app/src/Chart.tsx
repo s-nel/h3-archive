@@ -15,18 +15,18 @@ import _ from 'lodash'
 
 export const height = 300
 
-const initSim = _.debounce((data, simulation) => {
-  simulation.force("collide").initialize(data)
-}, 50)
+// const initSim = _.debounce((data, simulation) => {
+//   simulation.force("collide").initialize(data)
+// }, 50)
 
 const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
-  console.log(unfilteredEvents, query)
+  //console.log(unfilteredEvents, query)
   const width = 2000
   const marginTop = 10
   const marginRight = 20
   const marginBottom = 30
   const marginLeft = 20
-  const hoverRadius = 16
+  const hoverRadius = 14
 
   const [fixed, setFixed] = React.useState(!!info)
   const [isLoading, setLoading] = React.useState(true)
@@ -36,7 +36,11 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
     .attr("width", "100%")
     .attr("height", height)
     .attr("viewBox", [0, 0, width, height])
-    .attr("style", "max-width: 100%; height: auto; height: intrinsic;"))
+    .attr("style", "max-width: 100%; height: auto; height: intrinsic;")
+    .on('click', () => { 
+      console.log('hit5')
+      setFixed(false) 
+    }))
 
   const ticked = () => {
     if (Date.now() % 3 === 0) {
@@ -79,10 +83,11 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
       .force("x", d3.forceX(d => xScale(d.time)).strength(1))
       .force("y", d3.forceY((marginTop + height - marginBottom) / 2).strength(d => weights[d.event.category]))
       .force("collide", d3.forceCollide(d => d.size))
-      .alphaDecay(0)
+      .alphaDecay(0.001)
       .alpha(0.3)
+      .alphaMin(0.001)
       .on("tick", ticked)
-    simulation.tick(400)
+    simulation.tick(600)
     return [simulation, data]
   }, [query && query.text])
 
@@ -93,7 +98,7 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
   svg.selectAll('*').remove()
 
   if (data) {
-    initSim(data, simulation)
+    //initSim(data, simulation)
 
     svg.append("g")
       .attr("transform", `translate(0,${height - marginBottom})`)
@@ -132,14 +137,18 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
         .attr("r", d => info && d.event.event_id === info.event_id ? hoverRadius : radiuses[d.event.category])
         .attr("cx", d => d.x)
         .attr("cy", d => d.y)
-        .on('mouseenter', (e, d, i) => {
+        .on('mouseenter', function(e, d) {
           e.preventDefault()
+          if (d.event.event_id === info.event_id) {
+            d3.select(this).raise()
+          }
           if (!fixed) {
             d3.select(this).raise()
             hover(setInfo, fixed)(d.event)
           }
         })
         .on('click', (e, d) => {
+          e.stopPropagation()
           toggleSelected(setFixed, setInfo, fixed)(d.event)
         })
     if (isLoading) {
@@ -180,17 +189,17 @@ const hover = (setInfo) => d => {
 }
 
 const weights = {
-  podcast: 0.02,
-  video: 0.02,
-  major: 0.04,
-  controversy: 0.04,
+  podcast: 0.03,
+  video: 0.03,
+  major: 0.03,
+  controversy: 0.03,
 }
 
 const radiuses = {
-  podcast: 6,
-  video: 6,
-  major: 9,
-  controversy: 9,
+  podcast: 5,
+  video: 5,
+  major: 8,
+  controversy: 8,
 }
 
 export default Chart;

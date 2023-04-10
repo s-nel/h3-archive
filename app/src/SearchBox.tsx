@@ -18,11 +18,10 @@ const SearchBox = ({
   setFilteredEvents,
   query,
   searchTranscripts,
-}) => {
-  console.log(query, searchTranscripts)
-  
+  isLoading,
+  setLoading,
+}) => {  
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
-  const [isLoading, setLoading] = React.useState(false)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])

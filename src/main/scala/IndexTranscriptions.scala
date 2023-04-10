@@ -58,7 +58,7 @@ object IndexTranscriptions {
       }
       filteredEvents = esEvents
         .filter(_.transcription.isEmpty)
-        .filter(_.links.exists(_.`type` === LinkType.YouTube.name))
+        .filter(_.links.exists(_.exists(_.`type` === LinkType.YouTube.name)))
         .sortBy(e => e.startDate)
       paralleEc = ExecutionContext.fromExecutorService(new java.util.concurrent.ForkJoinPool(6))
       _ <- filteredEvents.map(ev => transcribe(elasticsearchClient, settings)(ev)(paralleEc).attempt).sequence
@@ -78,10 +78,7 @@ object IndexTranscriptions {
         blocking {
           println(s"Outputting mp3 to ${mp3FileOutput.toFile.getAbsolutePath}")
           println(s"Outputting json to ${jsonFileOutput.toFile.getAbsolutePath}")
-          val ytLink = esEvent.links
-            .find(_.`type` === LinkType.YouTube.name)
-            .get
-            .url
+          val ytLink = esEvent.links.map(ls => ls.find(_.`type` === LinkType.YouTube.name).get.url).get
           //val ytLink = "https://youtu.be/A3C6_xE_e0I"
           val command =
             s"""${settings.transcription.get.bin.get} ${ytLink} ${mp3FileOutput.toFile.getAbsolutePath} ${jsonFileOutput.toFile.getAbsolutePath}"""

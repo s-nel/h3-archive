@@ -1,8 +1,10 @@
 import React from 'react'
+import _ from 'lodash'
 import { DateTime, Duration } from 'luxon'
 import { useDispatch, useSelector } from 'react-redux'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import {
+  EuiAccordion,
   EuiBadge,
   EuiBasicTable,
   EuiButton,
@@ -13,6 +15,7 @@ import {
   EuiImage,
   EuiListGroup,
   EuiPanel,
+  EuiSkeletonText,
   EuiSpacer,
   EuiText,
   EuiTextColor,
@@ -53,12 +56,26 @@ export const linkTypeDescription = {
   youtube: "Watch on YouTube",
 }
 
-const Info = ({ info, isEditing, setInfo }) => {    
+const Info = ({ info: basicInfo, isEditing, setInfo }) => {    
+  const [info, setinfo] = React.useState(basicInfo)
+  const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
+  const [isLoading, setLoading] = React.useState(false)
   const [modifiedDoc, setModifiedDoc] = React.useState(info && {event_id: info.event_id, jsonStr: JSON.stringify(info, null, "    ")})
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const [ytVideo, setYtVideo] = React.useState(null)
+  const [isTranscriptShowing, setTranscriptShowing] = React.useState(false)
+  const location = useLocation()
+  const highlights = location && location.state && location.state.highlights
+  const highlightTerms = highlights && highlights['transcription.text'] && highlights['transcription.text'].reduce((acc, h) => {
+    Array.from(h.matchAll(/<em>(.+)<\/em>/g), m => {
+      if (m.length >= 1) {
+        acc[m[1]] = true
+      }
+    })
+    return acc
+  }, {})
 
   React.useEffect(() => {
     if ((info && !modifiedDoc) || (info && info.event_id !== modifiedDoc.event_id)) {
@@ -68,6 +85,13 @@ const Info = ({ info, isEditing, setInfo }) => {
       })
     }
   }, [info, modifiedDoc])
+
+  React.useEffect(() => {
+    if (basicInfo && basicInfo.event_id) {
+      fetchEvent(basicInfo.event_id, setinfo, setLoading, setSearchAbortController, searchAbortController)
+      setTranscriptShowing(false)
+    }
+  }, [basicInfo && basicInfo.event_id])
 
 
   if (!info) {
@@ -188,9 +212,10 @@ const Info = ({ info, isEditing, setInfo }) => {
             <EuiText key="2">
               <div dangerouslySetInnerHTML={{__html: info.description}}></div>
             </EuiText>]}
+            {isLoading && [<EuiHorizontalRule key="1" size="half" />, <EuiSkeletonText key="2" />]}
           </EuiPanel>
         </EuiFlexItem>
-        {!isMobile && info && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
+        {!isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiTitle size="xs"><h4>Video</h4></EuiTitle>  
             <EuiSpacer size="s" />
@@ -199,18 +224,16 @@ const Info = ({ info, isEditing, setInfo }) => {
         </EuiFlexItem>)}
         {!isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
-            <EuiFlexGroup gutterSize="xs" alignItems="center" responsive={false}>
-              <EuiFlexItem grow={false}>
-                <EuiTitle size="xs"><h4>Transcript</h4></EuiTitle>  
-              </EuiFlexItem>  
-              <EuiFlexItem grow={false}>
-                <EuiToolTip content="Click on a line of the transcript to open the video at that timestamp">
-                  <EuiIcon type="questionInCircle" color="subdued" />
-                </EuiToolTip>
-              </EuiFlexItem>
-            </EuiFlexGroup>
+          <EuiAccordion 
+            forceState={isTranscriptShowing ? 'open' : 'closed'} 
+            onToggle={(isOpen) => {
+              setTranscriptShowing(isOpen)
+            }} 
+            buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
+          >
             <EuiSpacer size="s" />
-            <Transcript eventId={info.event_id} ytVideo={ytVideo} />
+            {isTranscriptShowing && <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} highlightTerms={highlightTerms} />}
+          </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
@@ -239,25 +262,16 @@ const Info = ({ info, isEditing, setInfo }) => {
         </EuiPanel>)}
       </EuiFlexGroup>
     </EuiFlexItem>)}
-    {isMobile && info && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
+    {isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
       <EuiPanel paddingSize="none">
         <Video event={info} onVideoReady={e => setYtVideo(e.target)} />
       </EuiPanel>
     </EuiFlexItem>)}
     {isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
       <EuiPanel>
-        <EuiFlexGroup gutterSize="xs" alignItems="center" responsive={false}>
-          <EuiFlexItem grow={false}>
-            <EuiText><h4>Transcript</h4></EuiText>  
-          </EuiFlexItem>  
-          <EuiFlexItem grow={false}>
-            <EuiToolTip content="Click on a line of the transcript to open the video at that timestamp">
-              <EuiIcon type="questionInCircle" color="subdued" />
-            </EuiToolTip>
-          </EuiFlexItem>
-        </EuiFlexGroup>
+        <EuiText><h4>Transcript</h4></EuiText>
         <EuiSpacer size="s" />
-        <Transcript eventId={info.event_id} ytVideo={ytVideo} />
+        <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} highlightTerms={highlightTerms} />
       </EuiPanel>
     </EuiFlexItem>)}
   </EuiFlexGroup>)
@@ -273,6 +287,20 @@ const onSaveDoc = (dispatch, setInfo) => async (event) => {
   // }))
   dispatch(setEvent(event))
   //setInfo(event)
+}
+
+const fetchEvent = async (eventId, setEvent, setFetching, setSearchAbortController, searchAbortController) => {
+  setFetching(true)
+  const newSearchAbortController = new AbortController()
+  if (searchAbortController) {
+    searchAbortController.abort()
+  }
+  setSearchAbortController(newSearchAbortController)
+  const event = await axios.get(`/api/events/${eventId}?with_transcript=true`, {
+    signal: newSearchAbortController.signal,
+  })
+  setEvent(event.data)
+  setFetching(false)
 }
 
 export const categoryColor = {

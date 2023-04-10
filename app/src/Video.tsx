@@ -12,7 +12,7 @@ const Video = ({
   const match = ytLink && ytLink.url && ytLink.url.match(regExp)
   const ytId = match && match[2].length === 11 && match[2]
 
-  console.log(ytId)
+  //console.log(ytId)
 
   if (!ytId) {
     return null

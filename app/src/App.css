@@ -86,7 +86,11 @@ body {
 
 .highlight em {
   font-weight: bold;
-  background-color: yellow;
+  background-color: #61dafb;
   color: black;
   font-style: normal;
+}
+
+.transcript mark {
+  background-color: #61dafb;
 }

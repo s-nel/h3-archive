@@ -1,7 +1,7 @@
-import { EuiBreadcrumb, EuiBreadcrumbs, EuiPageHeader, EuiSpacer } from '@elastic/eui'
+import { EuiBreadcrumb, EuiBreadcrumbs, EuiIcon, EuiPageHeader, EuiSpacer } from '@elastic/eui'
 import React from 'react'
 import { useSelector } from 'react-redux'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import Info from './Info'
 
 const Event = () => {
@@ -12,13 +12,14 @@ const Event = () => {
 
   const breadcrumbs: EuiBreadcrumb[] = [
     {
-      text: 'Timeline',
+      text: (
+        <div>
+          <EuiIcon size="s" type="arrowLeft" /> Return
+        </div>
+      ),
       onClick: () => {
-        navigate('/')
+        navigate(-1)
       }
-    },
-    {
-      text: event && event.name.substring(0, 15),
     },
   ]
 

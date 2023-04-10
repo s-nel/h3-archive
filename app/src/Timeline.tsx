@@ -2,11 +2,12 @@ import React from 'react'
 import { height as chartHeight } from './Chart'
 import { DateTime } from 'luxon'
 import Chart from './Chart'
-import Info from './Info'
+import Info, {categoryColor, categoryLabel} from './Info'
 import './App.css'
 import SearchBox from './SearchBox'
 import { useSelector } from 'react-redux'
 import {
+  EuiBadge,
   EuiBasicTable,
   EuiFlexGroup,
   EuiFlexItem,
@@ -27,6 +28,7 @@ const Timeline = ({
   const events = useSelector(state => state.events.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const [filteredEvents, setFilteredEvents] = React.useState(null)
+  const [isLoading, setLoading] = React.useState(false)
 
   const setInfo = (info) => {
     const existingParams = new URLSearchParams(window.location.search)
@@ -66,7 +68,7 @@ const Timeline = ({
 
   const info = events && searchParams.get('event_id') && events.find(e => e.event_id === searchParams.get('event_id'))
 
-  if (!events) {
+  if (!events && !isMobile) {
     return (<EuiFlexGroup
       style={{
         maxWidth: '100%',
@@ -76,16 +78,16 @@ const Timeline = ({
       justifyContent="center"
     >
       <EuiFlexItem grow={false}>
-        {!isMobile && <EuiLoadingChart size="xl" />}
-        {isMobile && <EuiSkeletonText />}
+        <EuiLoadingChart size="xl" />
       </EuiFlexItem>
     </EuiFlexGroup>)
   }
 
   return (<div>
-    <SearchBox setQuery={setQuery} query={query} searchTranscripts={searchTranscripts} setFilteredEvents={setFilteredEvents} />
+    <SearchBox isLoading={isLoading} setLoading={setLoading} setQuery={setQuery} query={query} searchTranscripts={searchTranscripts} setFilteredEvents={setFilteredEvents} />
     {!isMobile && <Chart events={filteredEvents || events} query={filteredEvents ? undefined : query} setInfo={setInfo} info={info} />}
-    {isMobile && <EventList style={{marginTop: '-40px'}} events={filteredEvents || events} query={filteredEvents ? undefined : query} />}
+    {isMobile && !isLoading && events && <EventList defaultSort={!!filteredEvents} style={{marginTop: '-36px'}} events={filteredEvents || events} query={filteredEvents ? undefined : query} />}
+    {isMobile && (isLoading || !events) && <EuiSkeletonText />}
     {!isMobile && <Info info={info} isEditing={isEditing} setInfo={setInfo} />}
   </div>)
 }
@@ -94,8 +96,9 @@ const EventList = ({
   query,
   events: unfilteredEvents,
   style,
+  defaultSort,
 }) => {
-  const [sort, setSort] = React.useState({
+  const [sort, setSort] = React.useState(defaultSort ? null : {
     field: 'date',
     direction: 'desc'
   })
@@ -110,7 +113,7 @@ const EventList = ({
   } else {
     filteredEvents = unfilteredEvents
   }
-  const sortedEvents = filteredEvents && [...filteredEvents].sort((a, b) => {
+  const sortedEvents = !sort ? filteredEvents : filteredEvents && [...filteredEvents].sort((a, b) => {
     if (sort.field === 'date') {
       if (sort.direction === 'asc') {
         return a.start_date - b.start_date
@@ -126,17 +129,24 @@ const EventList = ({
       name: 'Date',
       field: 'date',
       render: (a, e) => (<EuiText size="xs">
-        <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
-      </EuiText>),
+      <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
+    </EuiText>),
       width: '100px',
       sortable: true,
       mobileOptions: {
         header: false,
         width: '100%',
         truncateText: false,
-        render: e => (<EuiText size="xs">
-          <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
-        </EuiText>),
+        render: e => (<EuiFlexGroup responsive={false} alignItems="center">
+          <EuiFlexItem grow>
+            <EuiText size="xs">
+              <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
+            </EuiText>
+          </EuiFlexItem>
+          <EuiFlexItem grow={false}>
+            <EuiBadge color={categoryColor[e.category]}>{categoryLabel[e.category]}</EuiBadge>
+          </EuiFlexItem>
+        </EuiFlexGroup>),
       },
     },
     {
@@ -154,7 +164,7 @@ const EventList = ({
           return <EuiFlexGroup gutterSize="xs">
             <EuiFlexItem>
               <EuiText size="s">
-                {e.highlight && e.highlight.name && e.highlight.name.length > 0 ? <Link className="highlight" to={`/events/${e.event_id}?highlight=`} dangerouslySetInnerHTML={{__html: e.highlight.name[0]}} /> : <Link to={`/events/${e.event_id}`}>{e.name}</Link>}
+                {e.highlight && e.highlight.name && e.highlight.name.length > 0 ? <Link className="highlight" to={`/events/${e.event_id}`} state={{ highlights: e.highlight }} dangerouslySetInnerHTML={{__html: e.highlight.name[0]}} /> : <Link to={`/events/${e.event_id}`} state={{ highlights: e.highlight }}>{e.name}</Link>}
               </EuiText>
             </EuiFlexItem>
             {highlights && (<EuiFlexItem className="highlight">

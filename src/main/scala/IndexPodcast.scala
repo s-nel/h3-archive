@@ -155,7 +155,7 @@ object IndexPodcast {
             } else {
               Set.empty[TagDoc]
             }
-            val transformedDoc = eventDoc.copy(people = Some(people), tags = tags)
+            val transformedDoc = eventDoc.copy(people = Some(people), tags = Some(tags))
             indexInto(eventsIndex).createOnly(true).id(event.id.value).doc(transformedDoc.asJson.toString())
           }
         }.sequence
@@ -214,10 +214,10 @@ object IndexPodcast {
       eventId = event.id.value,
       category = event.category.name,
       name = event.name,
-      description = event.description,
+      description = Some(event.description),
       thumb = event.thumb.map(_.value),
-      tags = event.tags.map(t => TagDoc(t.key, t.value)),
-      links = event.links.map(l => LinkDoc(l.`type`.name, l.url.toString)),
+      tags = Some(event.tags.map(t => TagDoc(t.key, t.value))),
+      links = Some(event.links.map(l => LinkDoc(l.`type`.name, l.url.toString))),
       startDate = event.startDate.toEpochMilli,
       duration = event.duration.map(_.toMillis),
       people = Some(Set.empty),
