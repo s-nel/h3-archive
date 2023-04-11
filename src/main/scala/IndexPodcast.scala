@@ -237,14 +237,16 @@ object IndexPodcast {
       properties = Seq(
         KeywordField("key"),
         TextField("value")
-      )
+      ),
+      includeInParent = Some(true)
     ),
     NestedField(
       "links",
       properties = Seq(
         KeywordField("type"),
         KeywordField("url")
-      )
+      ),
+      includeInParent = Some(true)
     ),
     DateField("start_date"),
     LongField("duration"),
@@ -253,7 +255,8 @@ object IndexPodcast {
       properties = Seq(
         KeywordField("person_id"),
         KeywordField("role")
-      )
+      ),
+      includeInParent = Some(true)
     ),
     ObjectField(
       "transcription",
@@ -309,7 +312,8 @@ object IndexPodcast {
         KeywordField("person_id"),
         TextField("name"),
         BooleanField("won")
-      )
+      ),
+      includeInParent = Some(true)
     ),
     TextField("name"),
     TextField("description"),

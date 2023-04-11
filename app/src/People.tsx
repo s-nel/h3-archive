@@ -20,6 +20,7 @@ import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
 import { useContainerDimensions } from './useContainerDimensions'
 import { filter } from 'd3'
+import axios from 'axios'
 
 const categoryLabel = {
   creator: 'Creator',
@@ -37,19 +38,13 @@ const People = ({
 }) => {
   const [force, setForce] = React.useState(0)
   const peopleParentRef = React.useRef(null)
+  const [eventCounts, setEventCounts] = React.useState(null)
   const rawPeople = useSelector(state => state.people.value)
-  const events = useSelector(state => state.events.value)
-  const withEventCounts = events && rawPeople && rawPeople.map(person => {
-    const eventCount = events && events.reduce((acc, e) => {
-      if (e.people.find(p => p.person_id === person.person_id)) {
-        return acc + 1
-      } else {
-        return acc
-      }
-    }, 0)
+  const withEventCounts = eventCounts && rawPeople && rawPeople.map(person => {
+    const eventCount = eventCounts.pplcount.pplcount2.buckets.find(k => k.key === person.person_id)
     return {
       ...person,
-      event_count: eventCount,
+      event_count: (eventCount && eventCount.doc_count) || 0,
     }
   })
   const people = withEventCounts && withEventCounts.sort((a, b) => {
@@ -64,6 +59,12 @@ const People = ({
   const [filteredPeople, setFilteredPeople] = React.useState([])
   const navigate = useNavigate()
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  React.useEffect(() => {
+    if (!eventCounts) {
+      fetchEventCounts(setEventCounts)
+    }
+  }, [eventCounts])
 
   const { width: peopleParentWidth } = useContainerDimensions(peopleParentRef)
 
@@ -141,6 +142,10 @@ const People = ({
     }
   }
 
+  const kFormatter = num => {
+    return Math.abs(num) > 999 ? Math.sign(num)*((Math.abs(num)/1000).toFixed(1)) + 'k' : Math.sign(num)*Math.abs(num)
+  }
+
   const setQuery = (query) => {
     const existingParams = new URLSearchParams(window.location.search)
     if (existingParams.get('q') !== query.text) {
@@ -165,7 +170,7 @@ const People = ({
         setFilteredPeople(people)
       }
     }
-  }, [rawPeople, events, searchParams.get('q'), setFilteredPeople])
+  }, [rawPeople, eventCounts, searchParams.get('q'), setFilteredPeople])
 
   if (!people) {
     return (<div>
@@ -173,15 +178,15 @@ const People = ({
       <EuiSpacer size="xl" />
       <PeopleSearch query={query} setQuery={setQuery} />
       <EuiSpacer size="m" />
-      <EuiFlexGroup wrap>
+      <EuiFlexGroup justifyContent={isMobile ? 'spaceEvenly' : undefined} responsive={false} wrap>
         <EuiFlexItem grow={false}>
-          <EuiSkeletonRectangle width={200} height={292} />
+          <EuiSkeletonRectangle width={itemWidth(0).img} height={isMobile ? 200 : 292} />
         </EuiFlexItem>
         <EuiFlexItem grow={false}>
-          <EuiSkeletonRectangle width={200} height={292} />
+          <EuiSkeletonRectangle width={itemWidth(0).img} height={isMobile ? 200 : 292} />
         </EuiFlexItem>
         <EuiFlexItem grow={false}>
-          <EuiSkeletonRectangle width={200} height={292} />
+          <EuiSkeletonRectangle width={itemWidth(0).img} height={isMobile ? 200 : 292} />
         </EuiFlexItem>
       </EuiFlexGroup>
     </div>)
@@ -229,7 +234,7 @@ const People = ({
               </div>) : missingImg}
               footer={(<div>
                 <EuiBadge color="primary">{categoryLabel[p.category]}</EuiBadge>
-                <EuiBadge color="hollow">{p.event_count}</EuiBadge>
+                <EuiBadge color="hollow">{kFormatter(p.event_count)}</EuiBadge>
               </div>)}
             />) : ( <EuiPanel
               style={{width: imgWidth, height: imgWidth}}
@@ -331,6 +336,12 @@ const PeopleSearch = ({
 
 const onSearch = setQuery => query => {
   setQuery(query.query)
+}
+
+const fetchEventCounts = async setEventCounts => {
+  const response = await axios.get('/api/events/counts')
+  console.log(response)
+  setEventCounts(response.data)
 }
 
 export default People

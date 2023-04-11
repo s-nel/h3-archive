@@ -30,6 +30,7 @@ const Steamies = ({isEditing}) => {
 
   const steamiesColumns = [
     {
+      name: 'Nominee',
       render: nominee => {
         const personIcon = person => {
           try {
@@ -53,6 +54,9 @@ const Steamies = ({isEditing}) => {
           </EuiFlexItem>))}
         </EuiFlexGroup>)
       },
+      mobileOptions: {
+        width: '100%',
+      }
     },
     {
       render: nominee => {
@@ -60,7 +64,7 @@ const Steamies = ({isEditing}) => {
           return null
         }
         if (nominee.name) {
-          return <EuiText>{nominee.name}</EuiText>
+          return <div><EuiText>{nominee.name}</EuiText></div>
         }
         if (nominee.people.length === 0) {
           return null
@@ -71,6 +75,9 @@ const Steamies = ({isEditing}) => {
         return (<div>
           {nominee.people && nominee.people.length > 0 && nominee.people.map(person => <Link key={person.person_id} to={`/people/${person.person_id}`}>{person.display_name || `${person.first_name} ${person.last_name}`}</Link>).reduce((a, b) => (<span>{a}, {b}</span>))}
         </div>)
+      },
+      mobileOptions: {
+        width: '100%',
       }
     },
     {

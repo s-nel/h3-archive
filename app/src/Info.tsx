@@ -25,7 +25,6 @@ import {
 } from '@elastic/eui'
 import { BsSpotify, BsYoutube, BsPerson } from 'react-icons/bs'
 import axios from 'axios'
-import { set as setEvent } from './data/eventsSlice'
 import { add as addToast } from './data/toastsSlice'
 import Transcript from './Transcript'
 import Video from './Video'
@@ -56,15 +55,16 @@ export const linkTypeDescription = {
   youtube: "Watch on YouTube",
 }
 
-const Info = ({ info: basicInfo, isEditing, setInfo }) => {    
-  const [info, setinfo] = React.useState(basicInfo)
+const Info = ({ eventId, isEditing, setInfo }) => {    
+  const [info, setinfo] = React.useState(null)
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
   const [isLoading, setLoading] = React.useState(false)
-  const [modifiedDoc, setModifiedDoc] = React.useState(info && {event_id: info.event_id, jsonStr: JSON.stringify(info, null, "    ")})
+  const [modifiedDoc, setModifiedDoc] = React.useState(null)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const [ytVideo, setYtVideo] = React.useState(null)
+  const ytVideoRef = React.useRef(null)
   const [isTranscriptShowing, setTranscriptShowing] = React.useState(false)
   const location = useLocation()
   const highlights = location && location.state && location.state.highlights
@@ -87,11 +87,9 @@ const Info = ({ info: basicInfo, isEditing, setInfo }) => {
   }, [info, modifiedDoc])
 
   React.useEffect(() => {
-    if (basicInfo && basicInfo.event_id) {
-      fetchEvent(basicInfo.event_id, setinfo, setLoading, setSearchAbortController, searchAbortController)
-      setTranscriptShowing(false)
-    }
-  }, [basicInfo && basicInfo.event_id])
+    fetchEvent(eventId, setinfo, setLoading, setSearchAbortController, searchAbortController)
+    setTranscriptShowing(false)
+  }, [eventId])
 
 
   if (!info) {
@@ -219,7 +217,7 @@ const Info = ({ info: basicInfo, isEditing, setInfo }) => {
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiTitle size="xs"><h4>Video</h4></EuiTitle>  
             <EuiSpacer size="s" />
-            <Video event={info} onVideoReady={e => setYtVideo(e.target)} />
+            <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
           </EuiPanel>
         </EuiFlexItem>)}
         {!isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
@@ -232,12 +230,24 @@ const Info = ({ info: basicInfo, isEditing, setInfo }) => {
             buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
           >
             <EuiSpacer size="s" />
-            {isTranscriptShowing && <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} highlightTerms={highlightTerms} />}
+            {isTranscriptShowing && <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />}
           </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
     </EuiFlexItem>
+    {isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
+      <EuiPanel paddingSize="none">
+        <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
+      </EuiPanel>
+    </EuiFlexItem>)}
+    {isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
+      <EuiPanel>
+        <EuiText><h4>Transcript</h4></EuiText>
+        <EuiSpacer size="s" />
+        <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+      </EuiPanel>
+    </EuiFlexItem>)}
     {((links && links.length > 0) || (info.tags && info.tags.length > 0) || (info.people && info.people.length > 0)) && (<EuiFlexItem grow={1}>
       <br size="xl"/>
       <EuiFlexGroup direction="column">
@@ -261,18 +271,6 @@ const Info = ({ info: basicInfo, isEditing, setInfo }) => {
           <EuiBasicTable responsive={false} items={info.tags} columns={columns} />
         </EuiPanel>)}
       </EuiFlexGroup>
-    </EuiFlexItem>)}
-    {isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
-      <EuiPanel paddingSize="none">
-        <Video event={info} onVideoReady={e => setYtVideo(e.target)} />
-      </EuiPanel>
-    </EuiFlexItem>)}
-    {isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
-      <EuiPanel>
-        <EuiText><h4>Transcript</h4></EuiText>
-        <EuiSpacer size="s" />
-        <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} highlightTerms={highlightTerms} />
-      </EuiPanel>
     </EuiFlexItem>)}
   </EuiFlexGroup>)
 

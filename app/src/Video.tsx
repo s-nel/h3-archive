@@ -4,6 +4,7 @@ import YouTube from 'react-youtube'
 const Video = ({
   event,
   onVideoReady,
+  ytVideoRef,
 }) => {
   const ytLink = event.links.find(l => l.type === 'youtube')
   const [ytPlayer, setYtPlayer] = React.useState(null)
@@ -18,8 +19,7 @@ const Video = ({
     return null
   }
 
-  return (<YouTube
-    key={ytId}
+  return (<div key={ytId} ref={ytVideoRef}><YouTube
     id={ytId}
     videoId={ytId}
     className="youtube-video-container"
@@ -28,7 +28,7 @@ const Video = ({
     opts={{
       origin: window.location.origin,
     }}
-  />)
+  /></div>)
 }
 
 export default Video

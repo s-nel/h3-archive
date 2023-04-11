@@ -31,9 +31,9 @@ const SearchBox = ({
     "date"
   ]
 
-  React.useEffect(() => {
-    onSearchChange(searchAbortController, setSearchAbortController, nestedFields, setQuery, setFilteredEvents, searchTranscripts, setLoading)(query)
-  }, [searchTranscripts, query && query.text])
+  // React.useEffect(() => {
+  //   onSearchChange(searchAbortController, setSearchAbortController, nestedFields, setQuery, setFilteredEvents, searchTranscripts, setLoading)(query)
+  // }, [searchTranscripts, query && query.text])
 
   const fields = {
     person: {
@@ -58,7 +58,7 @@ const SearchBox = ({
   const filters: SearchFilterConfig[] = [
     {
       type: 'field_value_selection',
-      field: 'person',
+      field: 'people.person_id',
       name: 'Person',
       multiSelect: 'or',
       options: (people && people.map(p => ({
@@ -98,7 +98,7 @@ const SearchBox = ({
       <EuiFlexItem grow>
         <EuiSearchBar
           key="search"
-          onChange={s => setQuery(s.query, searchTranscripts)}
+          onChange={s => setQuery(s.query)}
           query={query}
           box={{
             schema: {
@@ -109,46 +109,9 @@ const SearchBox = ({
           filters={filters}
         />
       </EuiFlexItem>
-      <EuiFlexItem grow={false}>
-        <EuiSwitch 
-          style={{marginLeft: '2px'}}
-          label="Search Transcripts" 
-          checked={searchTranscripts} 
-          onChange={e => {
-            setQuery(query, e.target.checked)
-          }} 
-        />
-      </EuiFlexItem>
     </EuiFlexGroup>
     <EuiSpacer size="s" />
   </div>)
-}
-
-const onSearchChange = (searchAbortController, setSearchAbortController, nestedFields, setQuery, setFilteredEvents, searchTranscript, setLoading) => async (query) => {
-  if (!query || !query.text) {
-    setFilteredEvents(null)
-    setQuery(query, searchTranscript)
-    return
-  }
-  setQuery(query, searchTranscript)
-  if (searchTranscript) {
-    setLoading(true)
-    const searchWithoutNestedFields = nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), query)
-    searchAbortController.abort()
-    const newSearchAbortController = new AbortController()
-    setSearchAbortController(newSearchAbortController)
-    const esQuery = Query.toESQuery(searchWithoutNestedFields)
-    const response = await axios.post('/api/events', esQuery, {
-      signal: newSearchAbortController.signal
-    })
-    setLoading(false)
-    setFilteredEvents(response.data.map(e => ({
-      ...e.event,
-      highlight: e.highlight,
-    })))
-  } else {
-    setFilteredEvents(undefined)
-  }
 }
 
 export default SearchBox;

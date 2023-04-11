@@ -6,6 +6,7 @@ const Transcript = ({
   eventId,
   event,
   ytVideo,
+  ytVideoRef,
   isFetching,
   highlightTerms,
 }) => {
@@ -25,10 +26,11 @@ const Transcript = ({
   // }, [])
 
   React.useEffect(() => {
-    if (firstMatchRef.current) {
+    if (firstMatchRef.current && ytVideoRef && ytVideoRef.current) {
       firstMatchRef.current.scrollIntoView()
+      ytVideoRef.current.scrollIntoView()
     }
-  }, firstMatchRef && firstMatchRef.current)
+  }, [firstMatchRef && firstMatchRef.current, ytVideoRef && ytVideoRef.current])
 
   if (!event.transcription.segments) {
     return <EuiText color="subdued">Transcript not found</EuiText>

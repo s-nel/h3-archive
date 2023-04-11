@@ -1,4 +1,5 @@
 import { EuiBreadcrumb, EuiBreadcrumbs, EuiIcon, EuiPageHeader, EuiSpacer } from '@elastic/eui'
+import axios from 'axios'
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
@@ -6,8 +7,6 @@ import Info from './Info'
 
 const Event = () => {
   const eventId = useParams().eventId
-  const events = useSelector(state => state.events.value)
-  const event = events && eventId && events.find(e => e.event_id === eventId)
   const navigate = useNavigate()
 
   const breadcrumbs: EuiBreadcrumb[] = [
@@ -23,13 +22,9 @@ const Event = () => {
     },
   ]
 
-  if (!event) {
-    return null
-  }
-
   return (<div>
     <EuiBreadcrumbs breadcrumbs={breadcrumbs} responsive={false} />
-    <Info info={event} isEditing={false} />
+    <Info eventId={eventId} isEditing={false} />
   </div>)
 }
 

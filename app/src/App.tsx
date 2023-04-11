@@ -50,7 +50,6 @@ import Person from './Person'
 import Soundbites from './Soundbites'
 import Steamies from './Steamies'
 import Event from './Event'
-import { setAll as setAllEvents } from './data/eventsSlice'
 import { setAll as setAllPeople } from './data/peopleSlice'
 import { setAll as setAllSoundbites } from './data/soundbitesSlice'
 import { setAll as setAllSteamies } from './data/steamiesSlice'
@@ -66,7 +65,6 @@ const Root = () => {
   React.useEffect(() => {
     if (!hasFetchedData) {
       setFetchedData(true)
-      getEvents(dispatch)
       getPeople(dispatch)
       getSoundbites(dispatch)
       getSteamies(dispatch)
@@ -202,7 +200,7 @@ const WithProvider = () => {
             size: "original"
           }}
         />*/}
-        <EuiPageTemplate.Section paddingSize={isMobile ? "s" : undefined} grow={true} style={{ background: "none" }}>
+        <EuiPageTemplate.Section paddingSize={isMobile ? "s" : undefined} grow={true} style={{ background: "none" }} contentProps={isMobile && loc.pathname === '/' ? {style: { display: 'flex', flexGrow: '1', padding: '0px'}} : undefined}>
           <Outlet />
         </EuiPageTemplate.Section>
       </EuiPageTemplate>
@@ -212,7 +210,7 @@ const WithProvider = () => {
         toastLifeTimeMs={6000}
       />
     </EuiFlexItem>
-    <EuiFlexItem grow={false}>
+    {(!isMobile || loc.pathname != '/') && <EuiFlexItem grow={false}>
       <EuiHeader style={{boxShadow: "0px 0 10px rgba(0, 0, 0, 0.8)", height: '25px'}}>
         <EuiHeaderSection grow side="right">
           <EuiHeaderSectionItem style={{width: "100%", paddingRight: isMobile ? undefined : "20px"}}>
@@ -229,7 +227,7 @@ const WithProvider = () => {
           </EuiHeaderSectionItem>
         </EuiHeaderSection>
       </EuiHeader>
-    </EuiFlexItem>
+    </EuiFlexItem>}
   </EuiFlexGroup>)
 }
 

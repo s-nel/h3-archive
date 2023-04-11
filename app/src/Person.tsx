@@ -38,22 +38,25 @@ const Person = ({
 }) => {
   const [personDoc, setPersonDoc] = React.useState('')
   const personId = useParams().person
+  const [totalEvents, setTotalEvents] = React.useState(0)
   const people = useSelector(state => state.people.value)
   const soundbites = useSelector(state => state.soundbites.value && state.soundbites.value.filter(s => s.person_id === personId))
-  const events = useSelector(state => state.events.value && state.events.value
-    .map(e => {
-      const person = e.people.find(p => p.person_id === personId)
-      if (!person) {
-        return e
-      }
-      return Object.assign({
-        role: person.role,
-        roleLabel: roleLabels[person.role],
-        categoryLabel: categoryLabels[e.category],
-        categoryColor: categoryColors[e.category],
-      }, e)
-    })
-    .filter(e => e.role))
+  const [isLoading, setLoading] = React.useState(false)
+  // const events = useSelector(state => state.events.value && state.events.value
+  //   .map(e => {
+  //     const person = e.people.find(p => p.person_id === personId)
+  //     if (!person) {
+  //       return e
+  //     }
+  //     return Object.assign({
+  //       role: person.role,
+  //       roleLabel: roleLabels[person.role],
+  //       categoryLabel: categoryLabels[e.category],
+  //       categoryColor: categoryColors[e.category],
+  //     }, e)
+  //   })
+  //   .filter(e => e.role))
+  const [events, setEvents] = React.useState(null)
   const steamies = useSelector(state => state.steamies.value && state.steamies.value.filter(s => personId && s.people.find(p => p.person_id.find(p2 => p2 === personId))))
   const navigate = useNavigate()
   const dispatch = useDispatch()
@@ -74,6 +77,16 @@ const Person = ({
       setPersonDoc(JSON.stringify(personMinusOtherFields, null, '    '))
     }
   }, [personDoc, setPersonDoc, person])
+
+  React.useEffect(() => {
+    if (!events) {
+      fetchEvents(personId, tableProps, setEvents, setTotalEvents, setLoading)
+    }
+  }, [events])
+
+  React.useEffect(() => {
+    fetchEvents(personId, tableProps, setEvents, setTotalEvents, setLoading)
+  }, [tableProps])
 
   if (!person) {
     return null
@@ -128,29 +141,34 @@ const Person = ({
       field: 'name',
       sortable: true,
       name: 'Name',
-      render: (a, b) => <Link to={`/?event_id=${b.event_id}`}>{a}</Link>
-    },
-    {
-      field: 'roleLabel',
-      name: 'Role',
-      sortable: true,
-      render: a => a
+      render: (a, b) => <Link to={isMobile ? `/events/${b.event_id}` : `/?event_id=${b.event_id}`}>{a}</Link>,
+      mobileOptions: {
+        width: '100%',
+        header: false,
+      }
     },
     {
       field: 'start_date',
       name: 'Date',
       sortable: true,
-      render: a => DateTime.fromMillis(a).toLocaleString(DateTime.DATE_HUGE)
+      render: a => DateTime.fromMillis(a).toLocaleString(DateTime.DATE_HUGE),
+      mobileOptions: {
+        header: false,
+        render: a => <EuiText size="s" color="subdued">{DateTime.fromMillis(a.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiText>,
+      }
     },
     {
-      field: 'categoryLabel',
+      field: 'category',
       name: 'Category',
       sortable: true,
       render: (a, b) => <EuiBadge color={b.categoryColor}>{b.categoryLabel}</EuiBadge>,
+      mobileOptions: {
+        header: false,
+      },
     },
     {
       name: 'Links',
-      actions: Object.keys(linkTypeIcons).map(linkType => ({
+      actions: isMobile ? [] : Object.keys(linkTypeIcons).map(linkType => ({
         render: a => {
           return (<EuiToolTip content={linkTypeDescription[linkType]}>
             <EuiLink href={a.links.find(l => l.type === linkType).url} target="_blank" external={false}>
@@ -159,7 +177,7 @@ const Person = ({
           </EuiToolTip>)
         },
         available: a => a.links.find(l => l.type === linkType)
-      }))
+      })),
     }
   ]
 
@@ -185,7 +203,6 @@ const Person = ({
     }
   ]
 
-
   const {
     pageSize,
     pageIndex,
@@ -202,35 +219,35 @@ const Person = ({
     }
     setTableProps(newTableProps)
   }
-  let sortedEvents
-  if (sortField) {
-    sortedEvents = events && events.slice(0).sort(Comparators.property(sortField, (a, b) => {
-      if (typeof a === 'string' || a instanceof String) {
-        if (sortDirection === 'asc') {
-          return a.localeCompare(b)
-        } else {
-          return b.localeCompare(a)
-        }
-      } else {
-        if (sortDirection === 'asc') {
-          return a - b
-        } else {
-          return b - a
-        }
-      }
-    }))
-  } else {
-    sortedEvents = events
-  }
-  const pageOfEvents = () => {
-    if (!pageIndex && !pageSize) {
-      return sortedEvents
-    }
-    const startIndex = pageIndex * pageSize
-    return sortedEvents.slice(startIndex, Math.min(startIndex + pageSize, sortedEvents.length))
-  }
+  // let sortedEvents
+  // if (sortField) {
+  //   sortedEvents = events && events.slice(0).sort(Comparators.property(sortField, (a, b) => {
+  //     if (typeof a === 'string' || a instanceof String) {
+  //       if (sortDirection === 'asc') {
+  //         return a.localeCompare(b)
+  //       } else {
+  //         return b.localeCompare(a)
+  //       }
+  //     } else {
+  //       if (sortDirection === 'asc') {
+  //         return a - b
+  //       } else {
+  //         return b - a
+  //       }
+  //     }
+  //   }))
+  // } else {
+  //   sortedEvents = events
+  // }
+  // const pageOfEvents = () => {
+  //   if (!pageIndex && !pageSize) {
+  //     return sortedEvents
+  //   }
+  //   const startIndex = pageIndex * pageSize
+  //   return sortedEvents.slice(startIndex, Math.min(startIndex + pageSize, sortedEvents.length))
+  // }
   let eventsTable
-  if (!sortedEvents || sortedEvents.length === 0) {
+  if (!events || events.length === 0) {
     eventsTable = null
   } else {
     eventsTable = (<div>
@@ -241,11 +258,12 @@ const Person = ({
       <EuiSpacer />
       <EuiBasicTable
         columns={eventsColumns}
-        items={pageOfEvents()}
+        items={events}
+        loading={isLoading}
         pagination={events.length < 10 ? undefined : {
           pageIndex,
           pageSize,
-          totalItemCount: events.length,
+          totalItemCount: totalEvents,
           pageSizeOptions: [10, 25, 50],
         }}
         onChange={onChange}
@@ -337,6 +355,29 @@ async function onCreatePerson(personDoc, dispatch) {
   //   color: 'success',
   //   title: 'Added used',
   // }))
+}
+
+const fetchEvents = async (personId, { pageIndex, pageSize, sortField, sortDirection }, setEvents, setTotalEvents, setLoading) => {
+  setLoading(true)
+  const response = await axios.post(`/api/events?person=${personId}`, {
+    size: pageSize,
+    sort: { [sortField] : sortDirection },
+    from: pageIndex * pageSize,
+  })
+  setEvents(response.data.results.map(e => e.event).map(e => {
+    const person = e.people.find(p => p.person_id === personId)
+    if (!person) {
+      return e
+    }
+    return Object.assign({
+      role: person.role,
+      roleLabel: roleLabels[person.role],
+      categoryLabel: categoryLabels[e.category],
+      categoryColor: categoryColors[e.category],
+    }, e)
+  }))
+  setTotalEvents(response.data.total)
+  setLoading(false)
 }
 
 export default Person

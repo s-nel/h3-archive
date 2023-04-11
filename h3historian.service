@@ -8,7 +8,7 @@ Type=simple
 Restart=always
 RestartSec=1
 User=ec2-user
-ExecStart=/bin/bash -l -c 'exec "$@"' _ java -cp /etc/systemd/system/home/ec2-user/h3-historian.jar -Duser.config=application.conf com.snacktrace.archive.Server
+ExecStart=/bin/bash -l -c 'exec "$@"' _ java -cp /home/ec2-user/h3-historian.jar -Duser.config=application.conf com.snacktrace.archive.Server
 
 [Install]
 WantedBy=multi-user.target

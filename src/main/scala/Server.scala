@@ -22,8 +22,11 @@ import akka.http.scaladsl.server.Directive1
 import akka.stream.scaladsl.Source
 import com.redfin.sitemapgenerator.{ChangeFreq, GoogleMobileSitemapUrl, WebSitemapGenerator, WebSitemapUrl}
 import com.sksamuel.elastic4s.requests.searches.HighlightField
+import com.sksamuel.elastic4s.requests.searches.aggs.responses.Aggregations
 import com.tersesystems.echopraxia.plusscala._
 import com.sksamuel.elastic4s.requests.searches.queries.RawQuery
+import com.sksamuel.elastic4s.requests.searches.sort.{FieldSort, SortOrder}
+import com.sksamuel.elastic4s.requests.searches.suggestion.SortBy
 import com.snacktrace.archive.Settings.{ElasticsearchSettings, SessionSettings}
 import com.typesafe.config.ConfigFactory
 import io.circe.Json
@@ -83,26 +86,54 @@ object Server extends App with FailFastCirceSupport {
   val route = {
     pathPrefix("api") {
       pathPrefix("events") {
-        get {
-          pathPrefix("^.+$".r) { eventId =>
-            parameters("with_transcript".optional) { maybeWithTranscript =>
-              get {
-                complete(getEvent(readonlyClient, eventId, maybeWithTranscript.map(_ == "true").getOrElse(false)))
-              }
-            }
-          } ~
-            parameters("q".optional) { maybeQuery =>
-              encodeResponseWith(Coders.Gzip) {
-                complete(getEvents(readonlyClient, maybeQuery))
-              }
-            }
+        pathPrefix("counts") {
+          get {
+            complete(getEventCounts(readonlyClient))
+          }
         } ~
-          post {
-            entity(as[Json]) { search =>
-              encodeResponseWith(Coders.Gzip) {
-                complete(searchEvents(readonlyClient, search))
+          get {
+            pathPrefix("^.+$".r) { eventId =>
+              parameters("with_transcript".optional) { maybeWithTranscript =>
+                get {
+                  complete(getEvent(readonlyClient, eventId, maybeWithTranscript.map(_ == "true").getOrElse(false)))
+                }
               }
-            }
+            } ~
+              parameters("q".optional) { maybeQuery =>
+                encodeResponseWith(Coders.Gzip) {
+                  complete(getEvents(readonlyClient, maybeQuery))
+                }
+              }
+          } ~
+          post {
+            parameters("person") { personId =>
+              entity(as[Json]) { search =>
+                encodeResponseWith(Coders.Gzip) {
+                  complete(
+                    getPersonEvents(
+                      readonlyClient,
+                      personId,
+                      search.hcursor.downField("from").as[Option[Int]].toOption.flatten,
+                      search.hcursor.downField("size").as[Option[Int]].toOption.flatten,
+                      search.hcursor.downField("sort").as[Option[Map[String, String]]].toOption.flatten
+                    )
+                  )
+                }
+              }
+            } ~
+              entity(as[Json]) { search =>
+                encodeResponseWith(Coders.Gzip) {
+                  complete(
+                    searchEvents(
+                      readonlyClient,
+                      search.hcursor.downField("query").as[Json].toOption.get,
+                      search.hcursor.downField("from").as[Option[Int]].toOption.flatten,
+                      search.hcursor.downField("size").as[Option[Int]].toOption.flatten,
+                      search.hcursor.downField("sort").as[Option[Map[String, String]]].toOption.flatten
+                    )
+                  )
+                }
+              }
           } ~
           validateCredentials(settings.session) { client =>
             pathPrefix("^.+$".r) { eventId =>
@@ -283,20 +314,78 @@ object Server extends App with FailFastCirceSupport {
     }
   }
 
-  def searchEvents(elasticClient: ElasticClient, searchBody: Json): Future[List[EventWithHighlight]] = {
+  def getEventCounts(elasticClient: ElasticClient): Future[Json] = {
+    for {
+      response <- elasticClient.execute {
+        search(eventsIndex)
+          .aggs(
+            nestedAggregation("pplcount", "people").subAggregations(termsAgg("pplcount2", "people.person_id").size(300))
+          )
+          .size(0)
+      }
+    } yield {
+      decode[Json](response.result.aggregationsAsString).toOption.get
+    }
+  }
+
+  def getPersonEvents(
+      elasticClient: ElasticClient,
+      personId: String,
+      from: Option[Int],
+      size: Option[Int],
+      sort: Option[Map[String, String]]
+  ): Future[EventsResults] = {
+    searchEvents(
+      elasticClient,
+      decode[Json](s"""
+        |{
+        |  "term": {
+        |    "people.person_id": "$personId"
+        |  }
+        |}
+        |""".stripMargin).toOption.get,
+      from,
+      size,
+      sort,
+      sourceFiltering = Nil
+    )
+  }
+
+  def searchEvents(
+      elasticClient: ElasticClient,
+      searchBody: Json,
+      from: Option[Int],
+      size: Option[Int],
+      sort: Option[Map[String, String]],
+      sourceFiltering: List[String] = List("transcription", "description", "people", "tags", "links", "thumb")
+  ): Future[EventsResults] = {
     for {
       hits <- elasticClient.execute {
-        search(eventsIndex)
+        val baseSearch = search(eventsIndex)
           .query(RawQuery(searchBody.noSpaces))
           .highlighting(
             List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
           )
-          .sourceExclude(List("transcription", "description", "people", "tags", "links", "thumb"))
-          .size(2000)
+          .sourceExclude(sourceFiltering)
+          .size(size.getOrElse(2000))
+        val withFrom = from.map(f => baseSearch.from(f)).getOrElse(baseSearch)
+        val withSort = sort
+          .map(s =>
+            withFrom.sortBy(s.map { case (k, v) =>
+              val order = if (v.toLowerCase == "asc") {
+                SortOrder.ASC
+              } else {
+                SortOrder.DESC
+              }
+              FieldSort(field = k, order = order)
+            })
+          )
+          .getOrElse(withFrom)
+        withSort
       }
     } yield {
       //println(hits)
-      hits.result.hits.hits.toList.flatMap { hit =>
+      val events = hits.result.hits.hits.toList.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {
           case Success(event) =>
             List(EventWithHighlight(event, hit.highlight))
@@ -306,6 +395,7 @@ object Server extends App with FailFastCirceSupport {
             Nil
         }
       }
+      EventsResults(results = events, total = hits.result.totalHits)
     }
   }
 
@@ -679,4 +769,9 @@ object Server extends App with FailFastCirceSupport {
   final case class Response(answer: Int)
 
   final case class EventWithHighlight(event: EventDoc, highlight: Map[String, Seq[String]])
+
+  final case class EventsResults(
+      results: List[EventWithHighlight],
+      total: Long
+  )
 }
