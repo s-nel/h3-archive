@@ -12,6 +12,7 @@ import {
   categoryColor
 } from './Info'
 import _ from 'lodash'
+import axios from 'axios'
 
 export const height = 300
 
@@ -19,7 +20,7 @@ export const height = 300
 //   simulation.force("collide").initialize(data)
 // }, 50)
 
-const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
+const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLoading }) => {
   //console.log(unfilteredEvents, query)
   const width = 2000
   const marginTop = 10
@@ -28,8 +29,8 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
   const marginLeft = 20
   const hoverRadius = 14
 
-  const [fixed, setFixed] = React.useState(!!info)
-  const [isLoading, setLoading] = React.useState(true)
+  const [isEmpty, setEmpty] = React.useState(false)
+  const [fixed, setFixed] = React.useState(!!eventId)
   const rootRef = React.useRef(null)
   const [eventsSize, setEventsSize] = React.useState(0)
   const [svg] = React.useState(d3.create("svg")
@@ -37,10 +38,13 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
     .attr("height", height)
     .attr("viewBox", [0, 0, width, height])
     .attr("style", "max-width: 100%; height: auto; height: intrinsic;")
-    .on('click', () => { 
-      console.log('hit5')
+    .on('click', () => {
       setFixed(false) 
     }))
+
+  React.useEffect(() => {
+    fetchPage(query, events, setEvents, setLoading, setEmpty, setEventsSize)
+  }, [query && query.text])
 
   const ticked = () => {
     if (Date.now() % 3 === 0) {
@@ -49,17 +53,6 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
         .attr("cy", d => d.y)
         //.attr("r", d => d.size)
     }
-  }
-
-  let events
-  if (query) {
-    events = Query.execute(query, unfilteredEvents.map(e => ({
-      ...e,
-      person: e.people.map(p => p.person_id),
-      date: e.start_date,
-    })))
-  } else {
-    events = unfilteredEvents
   }
 
   const domainMin = events && events.length > 0 ? events.reduce((acc, e) => e.start_date < acc ? e.start_date : acc, DateTime.now().toMillis()) : 1362096000000
@@ -89,7 +82,7 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
       .on("tick", ticked)
     simulation.tick(600)
     return [simulation, data]
-  }, [query && query.text])
+  }, [eventsSize, events])
 
   const xScale = d3.scaleLinear(xDomain, xRange);
   const xAxis = d3.axisBottom(xScale).tickFormat(d => xTickFormat(d)).tickSizeOuter(0)
@@ -119,7 +112,7 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
       .style("stroke", "#555")
 
     data.forEach(d => {
-      if (info && d.event.event_id === info.event_id) {
+      if (d.event.event_id === eventId) {
         d.size = hoverRadius + 3
       } else {
         d.size = radiuses[d.event.category] + 1
@@ -132,34 +125,31 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
       .append("circle") 
         .attr("class", "circ")
         .attr("stroke", "white")
-        .attr("stroke-width", d => info && d.event.event_id === info.event_id ? 3 : 1)
+        .attr("stroke-width", d => d.event.event_id === eventId ? 3 : 1)
         .attr("fill", d => d.color)
-        .attr("r", d => info && d.event.event_id === info.event_id ? hoverRadius : radiuses[d.event.category])
+        .attr("r", d => d.event.event_id === eventId ? hoverRadius : radiuses[d.event.category])
         .attr("cx", d => d.x)
         .attr("cy", d => d.y)
         .on('mouseenter', function(e, d) {
           e.preventDefault()
-          if (d.event.event_id === info.event_id) {
+          if (d.event.event_id === eventId) {
             d3.select(this).raise()
           }
           if (!fixed) {
             d3.select(this).raise()
-            hover(setInfo, fixed)(d.event)
+            hover(setEventId, fixed)(d.event)
           }
         })
         .on('click', (e, d) => {
           e.stopPropagation()
-          toggleSelected(setFixed, setInfo, fixed)(d.event)
+          toggleSelected(setFixed, setEventId, fixed)(d.event)
         })
-    if (isLoading) {
-      setLoading(false)
-    }
   }
 
   React.useEffect(() => {
       const rootEl = d3.select(rootRef.current)
       rootEl.append(() => svg.node())
-  }, [setEventsSize, eventsSize, events, setInfo, fixed, setFixed, info])
+  }, [eventsSize, events, fixed, eventId])
 
   if (isLoading) {
     return (<EuiFlexGroup
@@ -179,13 +169,13 @@ const Chart = ({ setInfo, info, query, events: unfilteredEvents, }) => {
   return (<div ref={rootRef}></div>);
 }
 
-const toggleSelected = (setFixed, setInfo, fixed) => (e) => {
-  setInfo(e)
+const toggleSelected = (setFixed, setEventId, fixed) => (e) => {
+  setEventId(e.event_id)
   setFixed(!fixed)
 }
 
-const hover = (setInfo) => d => {
-  setInfo(d)
+const hover = (setEventId) => d => {
+  setEventId(d.event_id)
 }
 
 const weights = {
@@ -200,6 +190,29 @@ const radiuses = {
   video: 5,
   major: 8,
   controversy: 8,
+}
+
+const fetchPage = (query, events, setEvents, setLoading, setEmpty, setEventsSize) => {
+  setLoading(true)
+  return axios.post(`/api/events`, {
+    query: query ? Query.toESQuery(query) : {
+      match_all: {}
+    },
+    size: 3000,
+  }).then(response => {
+    const allEvents = response.data.results.map(e => ({
+      ...e.event,
+      highlight: e.highlight,
+    }))
+    if (allEvents.length === 0) {
+      setEmpty(true)
+    } else {
+      setEmpty(false)
+    }
+    setEvents(allEvents)
+    setEventsSize(allEvents.length)
+    setLoading(false)
+  })
 }
 
 export default Chart;

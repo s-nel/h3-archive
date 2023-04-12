@@ -38,10 +38,10 @@ const Timeline = ({
   const [filteredEvents, setFilteredEvents] = React.useState(null)
   const [isLoading, setLoading] = React.useState(false)
 
-  const setInfo = (info) => {
+  const setEventId = (eventId) => {
     const existingParams = new URLSearchParams(window.location.search)
-    if (existingParams.get('event_id') !== info.event_id) {
-      existingParams.set('event_id', info.event_id)
+    if (existingParams.get('event_id') !== eventId) {
+      existingParams.set('event_id', eventId)
       const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
       window.history.replaceState({path:newurl},'',newurl)
       setForce(force + 1)
@@ -77,7 +77,7 @@ const Timeline = ({
   }
   const [events, setEvents] = React.useState([])
 
-  const info = events && searchParams.get('event_id') && events.find(e => e.event_id === searchParams.get('event_id'))
+  const eventId = searchParams.get('event_id')
 
   if (!events && !isMobile) {
     return (<EuiFlexGroup
@@ -115,9 +115,9 @@ const Timeline = ({
           isSortAscending: sort && sort.direction === 'asc'
         }
       ]} /></EuiFlexItem>)}
-      {!isMobile && <EuiFlexItem grow={false}><Chart events={filteredEvents || events} query={filteredEvents ? undefined : query} setInfo={setInfo} info={info} /></EuiFlexItem>}
+      {!isMobile && <EuiFlexItem grow={false}><Chart events={events} query={query} setEvents={setEvents} setEventId={setEventId} isLoading={isLoading} setLoading={setLoading} eventId={eventId} /></EuiFlexItem>}
+      {!isMobile && <EuiFlexItem grow><Info eventId={eventId} isEditing={isEditing} /></EuiFlexItem>}
       {isMobile && <EuiFlexItem><EventList sort={sort} events={events} setEvents={setEvents} isLoading={isLoading} setLoading={setLoading} query={query} /></EuiFlexItem>}
-      {!isMobile && <EuiFlexItem grow><Info info={info} isEditing={isEditing} setInfo={setInfo} /></EuiFlexItem>}
     </EuiFlexGroup>
   </EuiFlexItem>)
 }
@@ -250,13 +250,6 @@ const EventList = ({
 const GUTTER_SIZE = 5
 
 const fetchPage = (query, events, setEvents, setTotalEvents, setLoading, setEmpty, index, batchSize, sort) => {
-
-  const nestedFields = [
-    "person",
-    "date"
-  ]
-
-  const searchWithoutNestedFields = query && nestedFields.reduce((acc, nestedField) => acc.removeSimpleFieldClauses(nestedField).removeOrFieldClauses(nestedField), query)
   setLoading(true)
   return axios.post(`/api/events`, {
     query: query ? Query.toESQuery(query) : {

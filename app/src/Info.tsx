@@ -55,7 +55,7 @@ export const linkTypeDescription = {
   youtube: "Watch on YouTube",
 }
 
-const Info = ({ eventId, isEditing, setInfo }) => {    
+const Info = ({ eventId, isEditing }) => {    
   const [info, setinfo] = React.useState(null)
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
   const [isLoading, setLoading] = React.useState(false)
@@ -69,7 +69,7 @@ const Info = ({ eventId, isEditing, setInfo }) => {
   const location = useLocation()
   const highlights = location && location.state && location.state.highlights
   const highlightTerms = highlights && highlights['transcription.text'] && highlights['transcription.text'].reduce((acc, h) => {
-    Array.from(h.matchAll(/<em>(.+)<\/em>/g), m => {
+    Array.from(h.matchAll(/<em>([^<]+)<\/em>/g), m => {
       if (m.length >= 1) {
         acc[m[1]] = true
       }
@@ -86,11 +86,18 @@ const Info = ({ eventId, isEditing, setInfo }) => {
     }
   }, [info, modifiedDoc])
 
+  console.log('event_id', eventId, info)
+
   React.useEffect(() => {
-    fetchEvent(eventId, setinfo, setLoading, setSearchAbortController, searchAbortController)
-    setTranscriptShowing(false)
+    if (eventId) {
+      fetchEvent(eventId, setinfo, setLoading, setSearchAbortController, searchAbortController)
+      setTranscriptShowing(false)
+    }
   }, [eventId])
 
+  if (isLoading) {
+    return <div><EuiSpacer size="xl" /><EuiSkeletonText /></div>
+  }
 
   if (!info) {
     return null
@@ -230,7 +237,7 @@ const Info = ({ eventId, isEditing, setInfo }) => {
             buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
           >
             <EuiSpacer size="s" />
-            {isTranscriptShowing && <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />}
+            <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
           </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
@@ -245,7 +252,7 @@ const Info = ({ eventId, isEditing, setInfo }) => {
       <EuiPanel>
         <EuiText><h4>Transcript</h4></EuiText>
         <EuiSpacer size="s" />
-        <Transcript eventId={info.event_id} event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+        <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
       </EuiPanel>
     </EuiFlexItem>)}
     {((links && links.length > 0) || (info.tags && info.tags.length > 0) || (info.people && info.people.length > 0)) && (<EuiFlexItem grow={1}>

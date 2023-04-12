@@ -19,7 +19,7 @@ const Video = ({
     return null
   }
 
-  return (<div key={ytId} ref={ytVideoRef}><YouTube
+  return (<div key={ytId} ref={ytVideoRef} style={{scrollMarginTop: '48px'}}><YouTube
     id={ytId}
     videoId={ytId}
     className="youtube-video-container"

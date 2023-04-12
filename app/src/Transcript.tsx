@@ -3,27 +3,13 @@ import axios from 'axios'
 import { EuiCodeBlock, EuiLink, EuiSkeletonText, EuiText, EuiTextColor, useIsWithinBreakpoints } from '@elastic/eui'
 
 const Transcript = ({
-  eventId,
   event,
   ytVideo,
   ytVideoRef,
-  isFetching,
   highlightTerms,
 }) => {
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const firstMatchRef = React.useRef(null)
-  //const [currentPlaybackTime, setCurrentPlaybackTime] = React.useState(0)
-
-  // React.useEffect(() => {
-  //   const interval = setInterval(() => {
-  //     if (ytVideo) {
-  //       setCurrentPlaybackTime(Math.ceil(ytVideo.getCurrentTime()))
-  //     }
-  //   }, 500);
-  //   return () => {
-  //     clearInterval(interval);
-  //   };
-  // }, [])
 
   React.useEffect(() => {
     if (firstMatchRef.current && ytVideoRef && ytVideoRef.current) {
@@ -36,11 +22,13 @@ const Transcript = ({
     return <EuiText color="subdued">Transcript not found</EuiText>
   }
 
+  console.log('hit8', event, ytVideo, ytVideoRef, highlightTerms)
+
   let lastSegment = null
   let firstMatch = null
   const ytLink = event.links.find(l => l.type === 'youtube')
 
-  return (<EuiCodeBlock className="transcript" paddingSize={isMobile ? 's' : undefined} overflowHeight={isMobile ? 300 : 400}>
+  return (<EuiCodeBlock className="transcript" paddingSize={isMobile ? 's' : 'undefined'} overflowHeight={isMobile ? 300 : 400}>
     {event.transcription.segments.map((segment, i) => {
       const ytLinkWithTs = ytLink && ytLink.url && `${ytLink.url}?t=${segment.start}s`
       
@@ -48,13 +36,13 @@ const Transcript = ({
 
       const isPlaying = false
 
-      const highlightedSegmentText = highlightTerms && Object.keys(highlightTerms).reduce((acc, ht) => {
+      const highlightedSegmentText = highlightTerms ? Object.keys(highlightTerms).reduce((acc, ht) => {
         if (!firstMatch && acc.includes(ht)) {
           firstMatch = segment.id
         }
         const re = new RegExp(ht, 'gi')
         return acc.replace(re, `<mark>${ht}</mark>`)
-      }, segmentText)
+      }, segmentText) : segmentText
 
       const segmentDom = ytLink && ytLink.url ? (<EuiLink 
         key={segment.id}
