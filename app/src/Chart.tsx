@@ -198,6 +198,9 @@ const fetchPage = (query, events, setEvents, setLoading, setEmpty, setEventsSize
     query: query ? Query.toESQuery(query) : {
       match_all: {}
     },
+    sort: {
+      start_date: 'desc',
+    },
     size: 3000,
   }).then(response => {
     const allEvents = response.data.results.map(e => ({

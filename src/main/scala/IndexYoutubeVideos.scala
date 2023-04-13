@@ -223,7 +223,7 @@ object IndexYoutubeVideos {
       }
       _ = println(youtubeIgnoreList)
       hits <- elasticsearchClient.execute {
-        search(eventsIndex).size(1000)
+        search(eventsIndex).size(3000).sourceExclude(List("transcription.*"))
       }
       esEvents = hits.result.hits.hits.toList.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {

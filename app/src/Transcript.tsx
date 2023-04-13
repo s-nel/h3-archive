@@ -22,13 +22,13 @@ const Transcript = ({
     return <EuiText color="subdued">Transcript not found</EuiText>
   }
 
-  console.log('hit8', event, ytVideo, ytVideoRef, highlightTerms)
+  //console.log('hit8', event, ytVideo, ytVideoRef, highlightTerms)
 
   let lastSegment = null
   let firstMatch = null
   const ytLink = event.links.find(l => l.type === 'youtube')
 
-  return (<EuiCodeBlock className="transcript" paddingSize={isMobile ? 's' : 'undefined'} overflowHeight={isMobile ? 300 : 400}>
+  return (<EuiCodeBlock className="transcript" paddingSize={isMobile ? 's' : undefined} overflowHeight={isMobile ? 300 : 400}>
     {event.transcription.segments.map((segment, i) => {
       const ytLinkWithTs = ytLink && ytLink.url && `${ytLink.url}?t=${segment.start}s`
       

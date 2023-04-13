@@ -27,6 +27,7 @@ import { VariableSizeList as List } from 'react-window'
 import AutoSizer from 'react-virtualized-auto-sizer'
 import InfiniteLoader from 'react-window-infinite-loader'
 import axios from 'axios'
+import DesktopEventList from './DesktopEventList'
 
 const BATCH_SIZE = 50
 
@@ -37,13 +38,15 @@ const Timeline = ({
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const [filteredEvents, setFilteredEvents] = React.useState(null)
   const [isLoading, setLoading] = React.useState(false)
+  const [highlights, setHighlights] = React.useState(null)
 
-  const setEventId = (eventId) => {
+  const setEventId = (eventId, highlights) => {
     const existingParams = new URLSearchParams(window.location.search)
     if (existingParams.get('event_id') !== eventId) {
       existingParams.set('event_id', eventId)
       const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
       window.history.replaceState({path:newurl},'',newurl)
+      setHighlights(highlights || null)
       setForce(force + 1)
     }
   }
@@ -61,7 +64,6 @@ const Timeline = ({
     }
   }
   const setSort = (field, direction) => {
-    console.log('set-sort', sort)
     const existingParams = new URLSearchParams(window.location.search)
     existingParams.set('sort', `${field}:${direction}`)
     const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
@@ -99,25 +101,36 @@ const Timeline = ({
       <EuiFlexItem grow={false}>
         <SearchBox isLoading={isLoading} setLoading={setLoading} setQuery={setQuery} query={query} setFilteredEvents={setFilteredEvents} />
       </EuiFlexItem>
-      {isMobile && (<EuiFlexItem grow={false}><EuiTableSortMobile items={[
-        {
-          name: 'Date',
-          key: 'start_date',
-          onSort: () => setSort('start_date', sort && sort.field === 'start_date' && sort.direction === 'asc' ? 'desc' : 'asc'),
-          isSorted: sort && sort.field === 'start_date',
-          isSortAscending: sort && sort.direction === 'asc'
-        },
-        {
-          name: 'Score',
-          key: '_score',
-          onSort: () => setSort('_score', sort && sort.field === '_score' && sort.direction === 'desc' ? 'asc' : 'desc'),
-          isSorted: sort && sort.field === '_score',
-          isSortAscending: sort && sort.direction === 'asc'
-        }
-      ]} /></EuiFlexItem>)}
-      {!isMobile && <EuiFlexItem grow={false}><Chart events={events} query={query} setEvents={setEvents} setEventId={setEventId} isLoading={isLoading} setLoading={setLoading} eventId={eventId} /></EuiFlexItem>}
-      {!isMobile && <EuiFlexItem grow><Info eventId={eventId} isEditing={isEditing} /></EuiFlexItem>}
-      {isMobile && <EuiFlexItem><EventList sort={sort} events={events} setEvents={setEvents} isLoading={isLoading} setLoading={setLoading} query={query} /></EuiFlexItem>}
+      <EuiFlexItem grow>
+        <EuiFlexGroup direction="row">
+          {!isMobile && <EuiFlexItem grow={false} style={{width: '300px'}}>
+            <DesktopEventList sort={sort} events={events} setEventId={setEventId} eventId={eventId} isLoading={isLoading} />
+          </EuiFlexItem>}
+          <EuiFlexItem grow>
+            <EuiFlexGroup direction="column">
+              {isMobile && (<EuiFlexItem grow={false}><EuiTableSortMobile items={[
+                {
+                  name: 'Date',
+                  key: 'start_date',
+                  onSort: () => setSort('start_date', sort && sort.field === 'start_date' && sort.direction === 'asc' ? 'desc' : 'asc'),
+                  isSorted: sort && sort.field === 'start_date',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Score',
+                  key: '_score',
+                  onSort: () => setSort('_score', sort && sort.field === '_score' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === '_score',
+                  isSortAscending: sort && sort.direction === 'asc'
+                }
+              ]} /></EuiFlexItem>)}
+              {!isMobile && <EuiFlexItem grow={false}><Chart events={events} query={query} setEvents={setEvents} setEventId={setEventId} isLoading={isLoading} setLoading={setLoading} eventId={eventId} /></EuiFlexItem>}
+              {!isMobile && <EuiFlexItem grow><Info highlights={highlights} eventId={eventId} isEditing={isEditing} /></EuiFlexItem>}
+              {isMobile && <EuiFlexItem><EventList sort={sort} events={events} setEvents={setEvents} isLoading={isLoading} setLoading={setLoading} query={query} /></EuiFlexItem>}
+            </EuiFlexGroup>
+          </EuiFlexItem>
+        </EuiFlexGroup>
+      </EuiFlexItem>
     </EuiFlexGroup>
   </EuiFlexItem>)
 }

@@ -8,6 +8,7 @@ import {
   EuiBadge,
   EuiBasicTable,
   EuiButton,
+  EuiButtonIcon,
   EuiFlexGroup,
   EuiFlexItem,
   EuiHorizontalRule,
@@ -55,7 +56,7 @@ export const linkTypeDescription = {
   youtube: "Watch on YouTube",
 }
 
-const Info = ({ eventId, isEditing }) => {    
+const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {    
   const [info, setinfo] = React.useState(null)
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
   const [isLoading, setLoading] = React.useState(false)
@@ -65,9 +66,9 @@ const Info = ({ eventId, isEditing }) => {
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const [ytVideo, setYtVideo] = React.useState(null)
   const ytVideoRef = React.useRef(null)
-  const [isTranscriptShowing, setTranscriptShowing] = React.useState(false)
   const location = useLocation()
-  const highlights = location && location.state && location.state.highlights
+  const highlights = overrideHighlights || (location && location.state && location.state.highlights)
+  const [isTranscriptShowing, setTranscriptShowing] = React.useState(!!highlights)
   const highlightTerms = highlights && highlights['transcription.text'] && highlights['transcription.text'].reduce((acc, h) => {
     Array.from(h.matchAll(/<em>([^<]+)<\/em>/g), m => {
       if (m.length >= 1) {
@@ -86,12 +87,12 @@ const Info = ({ eventId, isEditing }) => {
     }
   }, [info, modifiedDoc])
 
-  console.log('event_id', eventId, info)
+  //console.log('event_id', eventId, info)
 
   React.useEffect(() => {
     if (eventId) {
       fetchEvent(eventId, setinfo, setLoading, setSearchAbortController, searchAbortController)
-      setTranscriptShowing(false)
+      setTranscriptShowing(!!highlights)
     }
   }, [eventId])
 
