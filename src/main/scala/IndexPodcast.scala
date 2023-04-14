@@ -14,6 +14,7 @@ import com.sksamuel.elastic4s.fields.{
   BooleanField,
   DateField,
   DoubleField,
+  ElasticField,
   FloatField,
   IntegerField,
   KeywordField,
@@ -22,16 +23,13 @@ import com.sksamuel.elastic4s.fields.{
   ObjectField,
   TextField
 }
-import com.snacktrace.archive.Server.{EventDoc, LinkDoc, PersonRef, TagDoc}
-import com.snacktrace.archive.model._
+import com.snacktrace.archive.model.{Category, EventDoc, LinkDoc, LinkType, PersonRef, TagDoc}
 import com.typesafe.config.ConfigFactory
-import io.circe.Decoder
+import io.circe.{Decoder, Encoder}
+import io.circe.derivation._
 import io.circe.syntax._
-import io.circe.generic.extras.Configuration
-import io.circe.generic.extras.auto._
 import io.circe.parser.decode
 
-import java.net.URI
 import java.time.{LocalDate, ZoneId}
 import scala.concurrent.duration._
 import scala.concurrent.{Await, ExecutionContext, Future}
@@ -40,7 +38,6 @@ object IndexPodcast {
   implicit val system: ActorSystem = ActorSystem()
   implicit val dispatcher: ExecutionContext = system.dispatcher
   implicit val materializer: Materializer = Materializer.createMaterializer(system)
-  implicit val circeConfig: Configuration = Configuration.default.withSnakeCaseMemberNames
 
   val spotifyAccountsUrl = Uri("https://accounts.spotify.com")
   val spotifyWebApiUrl = Uri("https://api.spotify.com")
@@ -63,9 +60,17 @@ object IndexPodcast {
       externalUrls: ExternalUrls
   )
 
-  final case class ExternalUrls(
-      spotify: String
-  )
+  object Episode {
+    implicit val episodeDecoderInstance: Decoder[Episode] = deriveDecoder(renaming.snakeCase)
+    implicit val episodeEncoderInstance: Encoder[Episode] = deriveEncoder(renaming.snakeCase)
+  }
+
+  final case class ExternalUrls(spotify: String)
+
+  object ExternalUrls {
+    implicit val externalUrlsDecoderInstance: Decoder[ExternalUrls] = deriveDecoder(renaming.snakeCase)
+    implicit val externalUrlsEncoderInstance: Encoder[ExternalUrls] = deriveEncoder(renaming.snakeCase)
+  }
 
   final case class Episodes(
       limit: Int,
@@ -76,12 +81,20 @@ object IndexPodcast {
       items: List[Episode]
   )
 
-  final case class TokenResponse(
-      accessToken: String
-  )
+  object Episodes {
+    implicit val episodesDecoderInstance: Decoder[Episodes] = deriveDecoder(renaming.snakeCase)
+    implicit val episodesEncoderInstance: Encoder[Episodes] = deriveEncoder(renaming.snakeCase)
+  }
+
+  final case class TokenResponse(accessToken: String)
+
+  object TokenResponse {
+    implicit val tokenResponseDecoderInstance: Decoder[TokenResponse] = deriveDecoder(renaming.snakeCase)
+    implicit val tokenResponseEncoderInstance: Encoder[TokenResponse] = deriveEncoder(renaming.snakeCase)
+  }
 
   def main(args: Array[String]): Unit = {
-    val settings = Settings(ConfigFactory.load())
+    val settings = Settings.fromConfig(ConfigFactory.load())
 
     val elasticsearchClient = ElasticClient(
       AkkaHttpClient(
@@ -98,33 +111,28 @@ object IndexPodcast {
       method = HttpMethods.POST,
       uri = spotifyAccountsUrl.withPath(Path.Empty / "api" / "token"),
       headers = Seq(Authorization(BasicHttpCredentials(settings.spotify.clientId, settings.spotify.clientSecret))),
-      entity = FormData(
-        "grant_type" -> "client_credentials"
-      ).toEntity
+      entity = FormData("grant_type" -> "client_credentials").toEntity
     )
 
-    def showEpisodesRequest(token: String) = HttpRequest(
-      method = HttpMethods.GET,
-      uri = spotifyWebApiUrl
-        .withPath(Path.Empty / "v1" / "shows" / h3id / "episodes")
-        .withQuery(Query("market" -> "us")),
-      headers = Seq(Authorization(OAuth2BearerToken(token)))
-    )
+    def showEpisodesRequest(token: String) =
+      HttpRequest(
+        method = HttpMethods.GET,
+        uri = spotifyWebApiUrl
+          .withPath(Path.Empty / "v1" / "shows" / h3id / "episodes")
+          .withQuery(Query("market" -> "us")),
+        headers = Seq(Authorization(OAuth2BearerToken(token)))
+      )
 
-    def showEpisodesRequestByUrl(token: String, url: String) = HttpRequest(
-      method = HttpMethods.GET,
-      uri = Uri(url),
-      headers = Seq(Authorization(OAuth2BearerToken(token)))
-    )
+    def showEpisodesRequestByUrl(token: String, url: String) =
+      HttpRequest(method = HttpMethods.GET, uri = Uri(url), headers = Seq(Authorization(OAuth2BearerToken(token))))
 
     def recurseIndexEpisodes(token: TokenResponse, request: HttpRequest): Future[Unit] = {
       println(s"Fetching episodes [${request.uri.toString()}]")
       for {
         episodes <- httpRequest[Episodes](request)
-        events = episodes.items.map(toDomain)
-        _ <- events.map { event =>
+        events = episodes.items.map(toDoc)
+        _ <- events.map { eventDoc =>
           elasticsearchClient.execute {
-            val eventDoc = toDoc(event)
             val allEventPeople = Set(
               PersonRef("eklein", "host"),
               PersonRef("aayad", "crew"),
@@ -156,7 +164,7 @@ object IndexPodcast {
               Set.empty[TagDoc]
             }
             val transformedDoc = eventDoc.copy(people = Some(people), tags = Some(tags))
-            indexInto(eventsIndex).createOnly(true).id(event.id.value).doc(transformedDoc.asJson.toString())
+            indexInto(eventsIndex).createOnly(true).id(eventDoc.eventId).doc(transformedDoc.asJson.toString())
           }
         }.sequence
         _ <- episodes.next.toList
@@ -168,7 +176,7 @@ object IndexPodcast {
     val program = for {
       tokenResponse <- httpRequest[TokenResponse](accessTokenRequest)
       episodes <- httpRequest[Episodes](showEpisodesRequest(tokenResponse.accessToken))
-      _ = println(s"Found [${episodes.total}] episodes")
+      _ = println(s"Found [${Integer.toString(episodes.total)}] episodes")
       _ <- elasticsearchClient.execute {
         createIndex(eventsIndex).settings(indexSettings).mapping(indexMapping)
       }
@@ -189,39 +197,25 @@ object IndexPodcast {
     }
   }
 
-  def toDomain(episode: Episode): Event = {
-    Event(
-      id = EventId(episode.uri),
-      name = episode.name,
-      description = episode.htmlDescription.replace(
-        "<p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\" rel=\"nofollow\">megaphone.fm/adchoices</a></p>",
-        ""
-      ),
-      category = Category.Content.Podcast,
-      thumb = None,
-      children = Set.empty,
-      tags = Set.empty,
-      links = Set(
-        Link(LinkType.Spotify, URI.create(episode.externalUrls.spotify))
-      ),
-      startDate = LocalDate.parse(episode.release_date).atStartOfDay(ZoneId.of("America/Los_Angeles")).toInstant,
-      duration = Some(java.time.Duration.ofMillis(episode.durationMs))
-    )
-  }
-
-  def toDoc(event: Event): EventDoc = {
+  def toDoc(episode: Episode): EventDoc = {
     EventDoc(
-      eventId = event.id.value,
-      category = event.category.name,
-      name = event.name,
-      description = Some(event.description),
-      thumb = event.thumb.map(_.value),
-      tags = Some(event.tags.map(t => TagDoc(t.key, t.value))),
-      links = Some(event.links.map(l => LinkDoc(l.`type`.name, l.url.toString))),
-      startDate = event.startDate.toEpochMilli,
-      duration = event.duration.map(_.toMillis),
-      people = Some(Set.empty),
-      None
+      eventId = episode.uri,
+      name = episode.name,
+      description = Some(
+        episode.htmlDescription.replace(
+          "<p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\" rel=\"nofollow\">megaphone.fm/adchoices</a></p>",
+          ""
+        )
+      ),
+      category = Category.Content.Podcast.name,
+      thumb = None,
+      tags = None,
+      links = Some(Set(LinkDoc(LinkType.Spotify.name, episode.externalUrls.spotify))),
+      startDate =
+        LocalDate.parse(episode.release_date).atStartOfDay(ZoneId.of("America/Los_Angeles")).toInstant.toEpochMilli,
+      duration = Some(episode.durationMs),
+      people = None,
+      transcription = None
     )
   }
 
@@ -234,38 +228,29 @@ object IndexPodcast {
     KeywordField("children_ids"),
     NestedField(
       "tags",
-      properties = Seq(
-        KeywordField("key"),
-        TextField("value")
-      ),
+      properties = Seq[ElasticField](KeywordField("key"), TextField("value")),
       includeInParent = Some(true)
     ),
     NestedField(
       "links",
-      properties = Seq(
-        KeywordField("type"),
-        KeywordField("url")
-      ),
+      properties = Seq[ElasticField](KeywordField("type"), KeywordField("url")),
       includeInParent = Some(true)
     ),
     DateField("start_date"),
     LongField("duration"),
     NestedField(
       "people",
-      properties = Seq(
-        KeywordField("person_id"),
-        KeywordField("role")
-      ),
+      properties = Seq[ElasticField](KeywordField("person_id"), KeywordField("role")),
       includeInParent = Some(true)
     ),
     ObjectField(
       "transcription",
-      properties = Seq(
+      properties = Seq[ElasticField](
         TextField("text"),
         ObjectField(
           "segments",
           enabled = Some(false),
-          properties = Seq(
+          properties = Seq[ElasticField](
             IntegerField("id"),
             LongField("seek"),
             FloatField("start"),
@@ -308,11 +293,7 @@ object IndexPodcast {
     KeywordField("steamy_id"),
     NestedField(
       "people",
-      properties = Seq(
-        KeywordField("person_id"),
-        TextField("name"),
-        BooleanField("won")
-      ),
+      properties = Seq[ElasticField](KeywordField("person_id"), TextField("name"), BooleanField("won")),
       includeInParent = Some(true)
     ),
     TextField("name"),
@@ -320,17 +301,13 @@ object IndexPodcast {
     IntegerField("year")
   )
 
-  val pollIndexMapping = properties(
-    KeywordField("poll_id"),
-    TextField("question"),
-    TextField("answer"),
-    BooleanField("ignore_order")
-  )
+  val pollIndexMapping =
+    properties(KeywordField("poll_id"), TextField("question"), TextField("answer"), BooleanField("ignore_order"))
 
   val indexSettings: Map[String, Any] = Map(
-    "analysis" -> Map(
-      "analyzer" -> Map(
-        "htmlStripAnalyzer" -> Map(
+    "analysis" -> Map[String, Any](
+      "analyzer" -> Map[String, Any](
+        "htmlStripAnalyzer" -> Map[String, Any](
           "type" -> "custom",
           "tokenizer" -> "standard",
           "filter" -> List("lowercase"),

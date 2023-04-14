@@ -20,7 +20,6 @@ final case class Settings(
 )
 
 object Settings {
-
   final case class ElasticsearchSettings(
       host: String,
       readUser: String,
@@ -30,7 +29,7 @@ object Settings {
   )
 
   object ElasticsearchSettings {
-    def apply(config: Config): ElasticsearchSettings = {
+    def fromConfig(config: Config): ElasticsearchSettings = {
       ElasticsearchSettings(
         config.getString("host"),
         config.getString("readUser"),
@@ -41,12 +40,10 @@ object Settings {
     }
   }
 
-  final case class SessionSettings(
-      secret: String
-  )
+  final case class SessionSettings(secret: String)
 
   object SessionSettings {
-    def apply(config: Config): SessionSettings = {
+    def fromConfig(config: Config): SessionSettings = {
       SessionSettings(config.getString("secret"))
     }
   }
@@ -54,7 +51,7 @@ object Settings {
   final case class YouTubeSettings(apiKey: String)
 
   object YouTubeSettings {
-    def apply(config: Config): YouTubeSettings = {
+    def fromConfig(config: Config): YouTubeSettings = {
       YouTubeSettings(config.getString("apiKey"))
     }
   }
@@ -62,7 +59,7 @@ object Settings {
   final case class SpotifySettings(clientId: String, clientSecret: String)
 
   object SpotifySettings {
-    def apply(config: Config): SpotifySettings = {
+    def fromConfig(config: Config): SpotifySettings = {
       SpotifySettings(config.getString("clientId"), config.getString("clientSecret"))
     }
   }
@@ -70,18 +67,18 @@ object Settings {
   final case class TranscriptionSettings(bin: Option[String], workingDir: Option[String])
 
   object TranscriptionSettings {
-    def apply(config: Config): TranscriptionSettings = {
+    def fromConfig(config: Config): TranscriptionSettings = {
       TranscriptionSettings(Try(config.getString("bin")).toOption, Try(config.getString("working-dir")).toOption)
     }
   }
 
-  def apply(config: Config): Settings = {
+  def fromConfig(config: Config): Settings = {
     val root = config.getConfig("h3archive")
-    val es = ElasticsearchSettings(root.getConfig("elasticsearch"))
-    val sessions = SessionSettings(root.getConfig("sessions"))
-    val youtube = YouTubeSettings(root.getConfig("youtube"))
-    val spotify = SpotifySettings(root.getConfig("spotify"))
-    val transcription = Try(TranscriptionSettings(root.getConfig("transcription"))).toOption
+    val es = ElasticsearchSettings.fromConfig(root.getConfig("elasticsearch"))
+    val sessions = SessionSettings.fromConfig(root.getConfig("sessions"))
+    val youtube = YouTubeSettings.fromConfig(root.getConfig("youtube"))
+    val spotify = SpotifySettings.fromConfig(root.getConfig("spotify"))
+    val transcription = Try(TranscriptionSettings.fromConfig(root.getConfig("transcription"))).toOption
     Settings(es, sessions, youtube, spotify, transcription)
   }
 }

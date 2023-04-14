@@ -10,14 +10,12 @@ import cats.implicits._
 import com.sksamuel.elastic4s.ElasticClient
 import com.sksamuel.elastic4s.ElasticDsl._
 import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
-import com.snacktrace.archive.Server.{EventDoc, LinkDoc, PersonRef, TagDoc}
-import com.snacktrace.archive.model.{Category, Event, EventId, Link, LinkType, Tag, Thumb}
+import com.snacktrace.archive.model.{EventDoc, LinkDoc, PersonRef, TagDoc}
 import com.typesafe.config.ConfigFactory
-import io.circe.generic.extras.auto._
-import io.circe.generic.extras.Configuration
+import io.circe.{Decoder, Encoder}
+import io.circe.derivation._
 import io.circe.syntax._
 
-import java.net.URI
 import java.time.Instant
 import scala.concurrent.{Await, ExecutionContext, Future}
 import scala.concurrent.duration._
@@ -34,7 +32,7 @@ object IndexYoutubeVideos2 {
   val ethanAndHilaPlaylistId = "UU7pp40MU_6rLK5pvJYG3d0Q"
 
   def main(args: Array[String]): Unit = {
-    val settings = Settings(ConfigFactory.load())
+    val settings = Settings.fromConfig(ConfigFactory.load())
 
     val elasticsearchClient = ElasticClient(
       AkkaHttpClient(
@@ -61,26 +59,26 @@ object IndexYoutubeVideos2 {
         )
     )
 
-    def listVideosRequestByPage(pageToken: String) = HttpRequest(
-      method = HttpMethods.GET,
-      uri = youtubeDataApiUrl
-        .withPath(Path.Empty / "youtube" / "v3" / "playlistItems")
-        .withQuery(
-          Query(
-            "playlistId" -> ethanAndHilaPlaylistId,
-            "key" -> settings.youTube.apiKey,
-            "part" -> "snippet",
-            "pageToken" -> pageToken,
-            "maxResults" -> "50"
+    def listVideosRequestByPage(pageToken: String) =
+      HttpRequest(
+        method = HttpMethods.GET,
+        uri = youtubeDataApiUrl
+          .withPath(Path.Empty / "youtube" / "v3" / "playlistItems")
+          .withQuery(
+            Query(
+              "playlistId" -> ethanAndHilaPlaylistId,
+              "key" -> settings.youTube.apiKey,
+              "part" -> "snippet",
+              "pageToken" -> pageToken,
+              "maxResults" -> "50"
+            )
           )
-        )
-    )
+      )
 
     def recurseIndexVideos(request: HttpRequest): Future[Unit] = {
       println(s"Fetching videos [${request.uri.toString()}]")
       for {
         videos <- {
-          implicit val circeConfig: Configuration = Configuration.default
           httpRequest[PlaylistItemsResponse](request)
         }
         events = videos.items.map(toEventDoc)
@@ -98,11 +96,12 @@ object IndexYoutubeVideos2 {
     Await.result(recurseIndexVideos(listVideosRequest), 1.minute)
   }
 
-  final case class Thumbnail(
-      url: String,
-      width: Int,
-      height: Int
-  )
+  final case class Thumbnail(url: String, width: Int, height: Int)
+
+  object Thumbnail {
+    implicit val thumbnailDecoderInstance: Decoder[Thumbnail] = deriveDecoder
+    implicit val thumbnailEncoderInstance: Encoder[Thumbnail] = deriveEncoder
+  }
 
   final case class Thumbnails(
       default: Thumbnail,
@@ -112,9 +111,17 @@ object IndexYoutubeVideos2 {
       maxres: Option[Thumbnail]
   )
 
-  final case class ResourceId(
-      videoId: String
-  )
+  object Thumbnails {
+    implicit val thumbnailsDecoderInstance: Decoder[Thumbnails] = deriveDecoder
+    implicit val thumbnailsEncoderInstance: Encoder[Thumbnails] = deriveEncoder
+  }
+
+  final case class ResourceId(videoId: String)
+
+  object ResourceId {
+    implicit val resourceIdDecoderInstance: Decoder[ResourceId] = deriveDecoder
+    implicit val resourceIdEncoderInstance: Encoder[ResourceId] = deriveEncoder
+  }
 
   final case class PlaylistItemSnippet(
       publishedAt: String,
@@ -125,15 +132,23 @@ object IndexYoutubeVideos2 {
       resourceId: ResourceId
   )
 
-  final case class PlaylistItem(
-      id: String,
-      snippet: PlaylistItemSnippet
-  )
+  object PlaylistItemSnippet {
+    implicit val playlistItemSnippetDecoderInstance: Decoder[PlaylistItemSnippet] = deriveDecoder
+    implicit val playlistItemSnippetEncoderInstance: Encoder[PlaylistItemSnippet] = deriveEncoder
+  }
 
-  final case class PlaylistItemsResponse(
-      nextPageToken: Option[String],
-      items: List[PlaylistItem]
-  )
+  final case class PlaylistItem(id: String, snippet: PlaylistItemSnippet)
+
+  object PlaylistItem {
+    implicit val playlistItemDecoderInstance: Decoder[PlaylistItem] = deriveDecoder
+    implicit val playlistItemEncoderInstance: Encoder[PlaylistItem] = deriveEncoder
+  }
+
+  final case class PlaylistItemsResponse(nextPageToken: Option[String], items: List[PlaylistItem])
+  object PlaylistItemsResponse {
+    implicit val playlistItemsResponseDecoderInstance: Decoder[PlaylistItemsResponse] = deriveDecoder
+    implicit val playlistItemsResponseEncoderInstance: Encoder[PlaylistItemsResponse] = deriveEncoder
+  }
 
   def toEventDoc(item: PlaylistItem): EventDoc = {
     EventDoc(
@@ -142,16 +157,8 @@ object IndexYoutubeVideos2 {
       description = Some(item.snippet.description),
       category = "video",
       thumb = Some(item.snippet.thumbnails.default.url),
-      tags = Some(
-        Set(
-          TagDoc("channel", item.snippet.channelTitle)
-        )
-      ),
-      links = Some(
-        Set(
-          LinkDoc("youtube", s"https://youtu.be/${item.snippet.resourceId.videoId}")
-        )
-      ),
+      tags = Some(Set(TagDoc("channel", item.snippet.channelTitle))),
+      links = Some(Set(LinkDoc("youtube", s"https://youtu.be/${item.snippet.resourceId.videoId}"))),
       startDate = Instant.parse(item.snippet.publishedAt).toEpochMilli,
       duration = None,
       people = Some(Set(PersonRef("eklein", "host"), PersonRef("hklein", "host"))),
