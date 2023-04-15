@@ -315,7 +315,7 @@ const Person = ({
             <EditPersonButton personId={person.person_id} />
             <EuiFlexGroup alignItems="baseline" gutterSize="xl">
               {person.thumb && (<EuiFlexItem grow={false}>
-                <EditPersonImgButton personId={person.person_id} />
+                {!isMobile && <EditPersonImgButton personId={person.person_id} />}
                 <EuiImage style={{width: imgWidth, height: imgWidth}} alt="thumbnail" src={person.thumb} />  
               </EuiFlexItem>)}
               <EuiFlexItem grow={false}>
