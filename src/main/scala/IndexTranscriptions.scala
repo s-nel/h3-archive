@@ -62,8 +62,8 @@ object IndexTranscriptions {
         scala.io.Source.fromFile(jsonFileOutput.toFile).getLines().mkString("\n")
       }
       transcriptionDoc <- Future.fromTry(decode[TranscriptionDoc](contents).toTry)
-      updatedDoc = esEvent.copy(transcription = Some(transcriptionDoc))
-      _ = println(updatedDoc)
+      updatedDoc = esEvent.copy(transcription = Some(transcriptionDoc.copy(text = None)))
+      _ = println(s"Added transcription to [${updatedDoc.eventId}]")
       _ <- IndexYoutubeVideos.persistToContent(updatedDoc)
     } yield ()
   }

@@ -1,0 +1,68 @@
+{
+  "event_id" : "spotify:episode:0HkmhDgmTl1DR58L07JyVX",
+  "category" : "podcast",
+  "name" : "BBTV Is Paying Us Back - Off The Rails #67",
+  "description" : "<p>IN ONE OF THE GREATEST TWISTS OF ALL TIME BBTV IS PAYING US BACK!!! BIG NEWS!!! OHHHH BOY!!!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/hLMJZkI9Afc/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/0HkmhDgmTl1DR58L07JyVX"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/hLMJZkI9Afc"
+    }
+  ],
+  "start_date" : 1681343783000,
+  "duration" : 12100075,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}
