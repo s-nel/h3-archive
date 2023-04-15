@@ -1,0 +1,14 @@
+{
+  "person_id" : "kwest",
+  "category" : "lore",
+  "first_name" : "Kanye",
+  "last_name" : "West",
+  "display_name" : null,
+  "thumb" : "/people/kwest.jpg",
+  "description" : null,
+  "aliases" : [
+    "Ye"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

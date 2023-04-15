@@ -1,0 +1,13 @@
+{
+  "person_id" : "mshkreli",
+  "category" : "guest",
+  "first_name" : "Martin",
+  "last_name" : "Shkreli",
+  "display_name" : null,
+  "thumb" : "/people/mshkreli.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

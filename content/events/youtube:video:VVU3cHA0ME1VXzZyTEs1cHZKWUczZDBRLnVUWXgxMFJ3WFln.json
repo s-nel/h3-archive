@@ -1,0 +1,531 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLnVUWXgxMFJ3WFln",
+  "category" : "video",
+  "name" : "Ethan Klein of h3h3Productions caught on film abusing his wife Hila Klein",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/uTYx10RwXYg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/uTYx10RwXYg"
+    }
+  ],
+  "start_date" : 1412370566000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.96,
+        "text" : " I'm pissed off dude. Obviously. Can't you tell? Does it look like I'm playing around?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22475389873280244,
+        "compression_ratio" : 1.5649350649350648,
+        "no_speech_prob" : 0.17271213233470917
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 8.96,
+        "end" : 17.84,
+        "text" : " Does it look like I'm angry? Do I need to tip my hat a little bit more? What",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22475389873280244,
+        "compression_ratio" : 1.5649350649350648,
+        "no_speech_prob" : 0.17271213233470917
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 17.84,
+        "end" : 21.48,
+        "text" : " degree do you need my hat tipping to be convinced that I'm a little pissed off",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22475389873280244,
+        "compression_ratio" : 1.5649350649350648,
+        "no_speech_prob" : 0.17271213233470917
+      },
+      {
+        "id" : 3,
+        "seek" : 2148,
+        "start" : 21.48,
+        "end" : 41.68,
+        "text" : " dude? Why? What do you want in it? I mean how much shit do I do? I work for years.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2873700879654794,
+        "compression_ratio" : 1.3524590163934427,
+        "no_speech_prob" : 0.03360440582036972
+      },
+      {
+        "id" : 4,
+        "seek" : 2148,
+        "start" : 41.68,
+        "end" : 48.48,
+        "text" : " I cook. I take out the garbage. I make the videos. What the fuck? That's what this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2873700879654794,
+        "compression_ratio" : 1.3524590163934427,
+        "no_speech_prob" : 0.03360440582036972
+      },
+      {
+        "id" : 5,
+        "seek" : 4848,
+        "start" : 48.48,
+        "end" : 61.94,
+        "text" : " is what happens and you've got the nerve to ask me why. Unbelievable. I don't believe it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2616790008544922,
+        "compression_ratio" : 1.3014705882352942,
+        "no_speech_prob" : 0.055650580674409866
+      },
+      {
+        "id" : 6,
+        "seek" : 4848,
+        "start" : 61.94,
+        "end" : 72.04,
+        "text" : " Listen to me. You ever try to pull that shit on me again dude? I know we're married and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2616790008544922,
+        "compression_ratio" : 1.3014705882352942,
+        "no_speech_prob" : 0.055650580674409866
+      },
+      {
+        "id" : 7,
+        "seek" : 7204,
+        "start" : 72.04,
+        "end" : 80.56,
+        "text" : " then you're my wife. Would you pull that shit on me again? You think that you're",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31229044043499493,
+        "compression_ratio" : 1.3583333333333334,
+        "no_speech_prob" : 0.14617614448070526
+      },
+      {
+        "id" : 8,
+        "seek" : 7204,
+        "start" : 80.56,
+        "end" : 89.0,
+        "text" : " exempt because you're my wife? You can just get away with murder. Let me tell you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31229044043499493,
+        "compression_ratio" : 1.3583333333333334,
+        "no_speech_prob" : 0.14617614448070526
+      },
+      {
+        "id" : 9,
+        "seek" : 8900,
+        "start" : 89.0,
+        "end" : 97.12,
+        "text" : " You pull that shit on me again. You know what I'm gonna do? I'm gonna cut you off. I'm gonna",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26740656672297297,
+        "compression_ratio" : 1.56875,
+        "no_speech_prob" : 0.19540227949619293
+      },
+      {
+        "id" : 10,
+        "seek" : 8900,
+        "start" : 97.12,
+        "end" : 104.44,
+        "text" : " cut you right off. Okay? You're not getting any of it, you know? I'm giving it all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26740656672297297,
+        "compression_ratio" : 1.56875,
+        "no_speech_prob" : 0.19540227949619293
+      },
+      {
+        "id" : 11,
+        "seek" : 8900,
+        "start" : 104.44,
+        "end" : 110.76,
+        "text" : " away to charity to the doctors for Ebola. I'm giving them all our money and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26740656672297297,
+        "compression_ratio" : 1.56875,
+        "no_speech_prob" : 0.19540227949619293
+      },
+      {
+        "id" : 12,
+        "seek" : 11076,
+        "start" : 110.76,
+        "end" : 122.84,
+        "text" : " guess what? Is it you can't do anything? So you think I'm not angry? Why? Just think about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2972168581826346,
+        "compression_ratio" : 1.0843373493975903,
+        "no_speech_prob" : 0.015868810936808586
+      },
+      {
+        "id" : 13,
+        "seek" : 12284,
+        "start" : 122.84,
+        "end" : 131.08,
+        "text" : " Ebola in Africa and that's why our money is going because you are not responsible.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3445033073425293,
+        "compression_ratio" : 1.0512820512820513,
+        "no_speech_prob" : 0.3380255699157715
+      },
+      {
+        "id" : 14,
+        "seek" : 15284,
+        "start" : 152.84,
+        "end" : 173.52,
+        "text" : " Got anything to say? Got anything to say for yourself? Because I'll cut you off. Oh look,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3553908054645245,
+        "compression_ratio" : 1.3037037037037038,
+        "no_speech_prob" : 0.06744905561208725
+      },
+      {
+        "id" : 15,
+        "seek" : 15284,
+        "start" : 173.52,
+        "end" : 181.4,
+        "text" : " what's this? A receipt for lunch. Ela Klein says it right there. 65 shekels. You think",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3553908054645245,
+        "compression_ratio" : 1.3037037037037038,
+        "no_speech_prob" : 0.06744905561208725
+      },
+      {
+        "id" : 16,
+        "seek" : 18140,
+        "start" : 181.4,
+        "end" : 186.6,
+        "text" : " we're made of money? You're going up to eat lunch with our arm. We're gonna have to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.382364711245975,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.041739486157894135
+      },
+      {
+        "id" : 17,
+        "seek" : 18140,
+        "start" : 186.6,
+        "end" : 199.68,
+        "text" : " afford that. You know what? You don't you think that I wouldn't like to eat lunch? Come on.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.382364711245975,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.041739486157894135
+      },
+      {
+        "id" : 18,
+        "seek" : 18140,
+        "start" : 199.68,
+        "end" : 207.4,
+        "text" : " Stop it so fucking fool yourself. You idiot. You greedy dummy. You think I wouldn't like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.382364711245975,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.041739486157894135
+      },
+      {
+        "id" : 19,
+        "seek" : 20740,
+        "start" : 207.4,
+        "end" : 213.92,
+        "text" : " to eat lunch? I'm gonna take a look at what I've become. Ela, take a look at what I've",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930414217327713,
+        "compression_ratio" : 1.7326732673267327,
+        "no_speech_prob" : 0.14910247921943665
+      },
+      {
+        "id" : 20,
+        "seek" : 20740,
+        "start" : 213.92,
+        "end" : 220.44,
+        "text" : " become. I used to be glorious. I used to have a lot more mass than this. Ela, I can't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930414217327713,
+        "compression_ratio" : 1.7326732673267327,
+        "no_speech_prob" : 0.14910247921943665
+      },
+      {
+        "id" : 21,
+        "seek" : 20740,
+        "start" : 220.44,
+        "end" : 226.24,
+        "text" : " eat lunch and you're going out with your girlfriends. Ooh, oh, let's get a salad. Oh, this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930414217327713,
+        "compression_ratio" : 1.7326732673267327,
+        "no_speech_prob" : 0.14910247921943665
+      },
+      {
+        "id" : 22,
+        "seek" : 20740,
+        "start" : 226.24,
+        "end" : 233.84,
+        "text" : " salad. Listen to salad. Is it asparagus? Who cares? Oh, I'm gonna get a diet coke with",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930414217327713,
+        "compression_ratio" : 1.7326732673267327,
+        "no_speech_prob" : 0.14910247921943665
+      },
+      {
+        "id" : 23,
+        "seek" : 23384,
+        "start" : 233.84,
+        "end" : 243.32,
+        "text" : " my meal. How many go crazy? Wow. 65 shekels, really? Really? What happened to you? How many",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23837862788019953,
+        "compression_ratio" : 1.5944700460829493,
+        "no_speech_prob" : 0.023522721603512764
+      },
+      {
+        "id" : 24,
+        "seek" : 23384,
+        "start" : 243.32,
+        "end" : 248.76,
+        "text" : " cases of Ebola we could fix for that? 65 shekels, Ela. I'm not a chef. What do you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23837862788019953,
+        "compression_ratio" : 1.5944700460829493,
+        "no_speech_prob" : 0.023522721603512764
+      },
+      {
+        "id" : 25,
+        "seek" : 23384,
+        "start" : 248.76,
+        "end" : 255.08,
+        "text" : " a shekel monster? What do you just love spending shekels? Oh, that's right. You're a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23837862788019953,
+        "compression_ratio" : 1.5944700460829493,
+        "no_speech_prob" : 0.023522721603512764
+      },
+      {
+        "id" : 26,
+        "seek" : 23384,
+        "start" : 255.08,
+        "end" : 263.32,
+        "text" : " shekel monster. You're rich. Here, have some shekels. Get real. This is not why we got",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23837862788019953,
+        "compression_ratio" : 1.5944700460829493,
+        "no_speech_prob" : 0.023522721603512764
+      },
+      {
+        "id" : 27,
+        "seek" : 26332,
+        "start" : 263.32,
+        "end" : 272.92,
+        "text" : " married. Trust me. Trust me when I say those papers are just waiting to get signed. And",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3498926293360044,
+        "compression_ratio" : 1.4426229508196722,
+        "no_speech_prob" : 0.005996113643050194
+      },
+      {
+        "id" : 28,
+        "seek" : 26332,
+        "start" : 272.92,
+        "end" : 280.48,
+        "text" : " if you just want to keep throwing away shekels, Wally Nellie, you better remember who shekels",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3498926293360044,
+        "compression_ratio" : 1.4426229508196722,
+        "no_speech_prob" : 0.005996113643050194
+      },
+      {
+        "id" : 29,
+        "seek" : 26332,
+        "start" : 280.48,
+        "end" : 287.12,
+        "text" : " you're spending there. Little sister. Do you think I wouldn't like to eat lunch? I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3498926293360044,
+        "compression_ratio" : 1.4426229508196722,
+        "no_speech_prob" : 0.005996113643050194
+      },
+      {
+        "id" : 30,
+        "seek" : 28712,
+        "start" : 287.12,
+        "end" : 296.2,
+        "text" : " get a diet coke with my salad with my appetizer. Come on, dude. I eat falafel every day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2686359114566092,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.06062545254826546
+      },
+      {
+        "id" : 31,
+        "seek" : 28712,
+        "start" : 296.2,
+        "end" : 305.38,
+        "text" : " 10 shekels on the spot every meal. 65 shekels, I mean, what the fuck? I'm gonna spend the night",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2686359114566092,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.06062545254826546
+      },
+      {
+        "id" : 32,
+        "seek" : 33538,
+        "start" : 336.38,
+        "end" : 342.38,
+        "text" : " with my salad. What come, start? I'm sorry, Ela, you're about to, I mean, we don't have a lot of money.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609256326717182,
+        "compression_ratio" : 1.6888888888888889,
+        "no_speech_prob" : 0.0997772067785263
+      },
+      {
+        "id" : 33,
+        "seek" : 33538,
+        "start" : 342.38,
+        "end" : 347.46,
+        "text" : " I'm not working right now. Sorry, you know, actually I should have yelled at you like that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609256326717182,
+        "compression_ratio" : 1.6888888888888889,
+        "no_speech_prob" : 0.0997772067785263
+      },
+      {
+        "id" : 34,
+        "seek" : 33538,
+        "start" : 347.46,
+        "end" : 353.14,
+        "text" : " But I mean, when you go around spending our money, you know, you kind of bring it on yourself.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609256326717182,
+        "compression_ratio" : 1.6888888888888889,
+        "no_speech_prob" : 0.0997772067785263
+      },
+      {
+        "id" : 35,
+        "seek" : 33538,
+        "start" : 353.14,
+        "end" : 358.38,
+        "text" : " So next time you want to go out to eat with your friends, you know, let me know. Okay,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609256326717182,
+        "compression_ratio" : 1.6888888888888889,
+        "no_speech_prob" : 0.0997772067785263
+      },
+      {
+        "id" : 36,
+        "seek" : 33538,
+        "start" : 358.38,
+        "end" : 364.38,
+        "text" : " don't get a diet coke. Don't get a salad. You know, oh a starter. That's not a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609256326717182,
+        "compression_ratio" : 1.6888888888888889,
+        "no_speech_prob" : 0.0997772067785263
+      },
+      {
+        "id" : 37,
+        "seek" : 36438,
+        "start" : 364.38,
+        "end" : 369.38,
+        "text" : " appropriate meal. You don't need a starter and you don't need a beverage. Water is free for a reason.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2484540419145064,
+        "compression_ratio" : 1.8114035087719298,
+        "no_speech_prob" : 0.006611629389226437
+      },
+      {
+        "id" : 38,
+        "seek" : 36438,
+        "start" : 369.38,
+        "end" : 378.38,
+        "text" : " Okay, this isn't the, you know, this isn't like the, the, and the trio. Okay. This isn't some poor African",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2484540419145064,
+        "compression_ratio" : 1.8114035087719298,
+        "no_speech_prob" : 0.006611629389226437
+      },
+      {
+        "id" : 39,
+        "seek" : 36438,
+        "start" : 378.38,
+        "end" : 383.38,
+        "text" : " country where people have to, you know, kill each other for water. Water is free here for a reason.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2484540419145064,
+        "compression_ratio" : 1.8114035087719298,
+        "no_speech_prob" : 0.006611629389226437
+      },
+      {
+        "id" : 40,
+        "seek" : 36438,
+        "start" : 383.38,
+        "end" : 389.38,
+        "text" : " So you don't have to waste our fucking money on diet coke. What are you doing drinking diet coke anyway?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2484540419145064,
+        "compression_ratio" : 1.8114035087719298,
+        "no_speech_prob" : 0.006611629389226437
+      },
+      {
+        "id" : 41,
+        "seek" : 38938,
+        "start" : 389.38,
+        "end" : 394.38,
+        "text" : " Fucking, this is a Pepsi max house of hold.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3944736402861926,
+        "compression_ratio" : 1.2377049180327868,
+        "no_speech_prob" : 0.056961942464113235
+      },
+      {
+        "id" : 42,
+        "seek" : 38938,
+        "start" : 398.38,
+        "end" : 409.38,
+        "text" : " Listen, I need to go, I'm going to go wash some Jeff done. You just, just think about what I've said.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3944736402861926,
+        "compression_ratio" : 1.2377049180327868,
+        "no_speech_prob" : 0.056961942464113235
+      },
+      {
+        "id" : 43,
+        "seek" : 38938,
+        "start" : 409.38,
+        "end" : 412.38,
+        "text" : " Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3944736402861926,
+        "compression_ratio" : 1.2377049180327868,
+        "no_speech_prob" : 0.056961942464113235
+      },
+      {
+        "id" : 44,
+        "seek" : 41238,
+        "start" : 412.38,
+        "end" : 426.38,
+        "text" : " 65, shackles, dude, come on. That's a lot of money. That's too much. That's too much money, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33646355253277405,
+        "compression_ratio" : 1.2933333333333332,
+        "no_speech_prob" : 0.07677455991506577
+      }
+    ]
+  }
+}

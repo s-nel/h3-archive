@@ -1,0 +1,146 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLi0wamVvbGlmUVBr",
+  "category" : "video",
+  "name" : "curling exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/-0jeolifQPk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/-0jeolifQPk"
+    }
+  ],
+  "start_date" : 1394050180000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.0,
+        "text" : " Today, one coveted Canadian championship on the line.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 8.0,
+        "text" : " The most beautiful national obsession, the spotlight falls on the line.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 12.0,
+        "text" : " The most difficult and exciting of the time is the rocket's power.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 12.0,
+        "end" : 15.0,
+        "text" : " The rocket's so fun to get the ball.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 17.0,
+        "text" : " And if you don't win, then you'll be the last one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 17.0,
+        "end" : 18.0,
+        "text" : " They're worth it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 19.0,
+        "text" : " Who's in the lead?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 20.0,
+        "text" : " They're the close-up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 22.0,
+        "text" : " They're the rock-steeper-loaties.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9759356180826823,
+        "compression_ratio" : 1.6577777777777778,
+        "no_speech_prob" : 0.4153452515602112
+      },
+      {
+        "id" : 9,
+        "seek" : 2200,
+        "start" : 22.0,
+        "end" : 27.0,
+        "text" : " going into the lead.",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.641735315322876,
+        "compression_ratio" : 0.7142857142857143,
+        "no_speech_prob" : 0.541000247001648
+      }
+    ]
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLnIydVhxZDFvcW1v",
+  "category" : "video",
+  "name" : "Ethan Becomes a Raver",
+  "description" : "Use code H3H3 and get $20 back on your first order! Sign-up Here: https://seatgeek.com/promos\n\nWatch the Ethan and Hila Playlist --►https://goo.gl/rn5oht\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://goo.gl/901PGW\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://goo.gl/QKEsKJ\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.",
+  "thumb" : "https://i.ytimg.com/vi/r2uXqd1oqmo/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/r2uXqd1oqmo"
+    }
+  ],
+  "start_date" : 1463438849000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.0,
+        "text" : " So we're headed to EDC to get fucking weird and wild, get electronic.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44485122680664063,
+        "compression_ratio" : 1.2125984251968505,
+        "no_speech_prob" : 0.022353652864694595
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 8.0,
+        "text" : " You know how we do.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44485122680664063,
+        "compression_ratio" : 1.2125984251968505,
+        "no_speech_prob" : 0.022353652864694595
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 11.0,
+        "text" : " I'm filming this time at Eel's The Star.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44485122680664063,
+        "compression_ratio" : 1.2125984251968505,
+        "no_speech_prob" : 0.022353652864694595
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 15.0,
+        "text" : " Now we're gonna switch.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44485122680664063,
+        "compression_ratio" : 1.2125984251968505,
+        "no_speech_prob" : 0.022353652864694595
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 40.0,
+        "text" : " It sounds great man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2943076065608433,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0294168870896101
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 40.0,
+        "end" : 42.0,
+        "text" : " You hear that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2943076065608433,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0294168870896101
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 42.0,
+        "end" : 46.0,
+        "text" : " It sounds great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2943076065608433,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0294168870896101
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 46.0,
+        "end" : 48.0,
+        "text" : " Let's get in there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2943076065608433,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0294168870896101
+      },
+      {
+        "id" : 8,
+        "seek" : 6000,
+        "start" : 60.0,
+        "end" : 70.0,
+        "text" : " You can bring this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43661199297223774,
+        "compression_ratio" : 1.8412698412698412,
+        "no_speech_prob" : 0.41707247495651245
+      },
+      {
+        "id" : 9,
+        "seek" : 6000,
+        "start" : 70.0,
+        "end" : 72.0,
+        "text" : " You can't bring this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43661199297223774,
+        "compression_ratio" : 1.8412698412698412,
+        "no_speech_prob" : 0.41707247495651245
+      },
+      {
+        "id" : 10,
+        "seek" : 6000,
+        "start" : 72.0,
+        "end" : 74.0,
+        "text" : " You gotta pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43661199297223774,
+        "compression_ratio" : 1.8412698412698412,
+        "no_speech_prob" : 0.41707247495651245
+      },
+      {
+        "id" : 11,
+        "seek" : 6000,
+        "start" : 74.0,
+        "end" : 76.0,
+        "text" : " You gotta pull it out now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43661199297223774,
+        "compression_ratio" : 1.8412698412698412,
+        "no_speech_prob" : 0.41707247495651245
+      },
+      {
+        "id" : 12,
+        "seek" : 6000,
+        "start" : 76.0,
+        "end" : 78.0,
+        "text" : " You gotta pull it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43661199297223774,
+        "compression_ratio" : 1.8412698412698412,
+        "no_speech_prob" : 0.41707247495651245
+      },
+      {
+        "id" : 13,
+        "seek" : 7800,
+        "start" : 78.0,
+        "end" : 88.0,
+        "text" : " You're like, you're my horse.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34902246915377105,
+        "compression_ratio" : 1.4782608695652173,
+        "no_speech_prob" : 0.20332477986812592
+      },
+      {
+        "id" : 14,
+        "seek" : 7800,
+        "start" : 88.0,
+        "end" : 94.0,
+        "text" : " You're like, there's too much bass dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34902246915377105,
+        "compression_ratio" : 1.4782608695652173,
+        "no_speech_prob" : 0.20332477986812592
+      },
+      {
+        "id" : 15,
+        "seek" : 7800,
+        "start" : 94.0,
+        "end" : 97.0,
+        "text" : " The bass drop went too hard for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34902246915377105,
+        "compression_ratio" : 1.4782608695652173,
+        "no_speech_prob" : 0.20332477986812592
+      },
+      {
+        "id" : 16,
+        "seek" : 7800,
+        "start" : 97.0,
+        "end" : 102.0,
+        "text" : " I think I'm getting too old for this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34902246915377105,
+        "compression_ratio" : 1.4782608695652173,
+        "no_speech_prob" : 0.20332477986812592
+      },
+      {
+        "id" : 17,
+        "seek" : 7800,
+        "start" : 102.0,
+        "end" : 107.0,
+        "text" : " Am I having a hard attack or did the bass drop really hard?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34902246915377105,
+        "compression_ratio" : 1.4782608695652173,
+        "no_speech_prob" : 0.20332477986812592
+      },
+      {
+        "id" : 18,
+        "seek" : 10700,
+        "start" : 107.0,
+        "end" : 109.0,
+        "text" : " You gotta pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6568476359049479,
+        "compression_ratio" : 0.75,
+        "no_speech_prob" : 0.8223798871040344
+      },
+      {
+        "id" : 19,
+        "seek" : 13700,
+        "start" : 138.0,
+        "end" : 147.0,
+        "text" : " So it's a little quieter here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2330327033996582,
+        "compression_ratio" : 1.2479338842975207,
+        "no_speech_prob" : 0.010792232118546963
+      },
+      {
+        "id" : 20,
+        "seek" : 13700,
+        "start" : 147.0,
+        "end" : 152.0,
+        "text" : " Hard attack level is about 25%.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2330327033996582,
+        "compression_ratio" : 1.2479338842975207,
+        "no_speech_prob" : 0.010792232118546963
+      },
+      {
+        "id" : 21,
+        "seek" : 13700,
+        "start" : 152.0,
+        "end" : 154.0,
+        "text" : " Not in danger for my health here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2330327033996582,
+        "compression_ratio" : 1.2479338842975207,
+        "no_speech_prob" : 0.010792232118546963
+      },
+      {
+        "id" : 22,
+        "seek" : 13700,
+        "start" : 154.0,
+        "end" : 157.0,
+        "text" : " The bass line's clearly not dropped hard and not here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2330327033996582,
+        "compression_ratio" : 1.2479338842975207,
+        "no_speech_prob" : 0.010792232118546963
+      },
+      {
+        "id" : 23,
+        "seek" : 16700,
+        "start" : 167.0,
+        "end" : 177.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.8526585578918457,
+        "compression_ratio" : 1.3611111111111112,
+        "no_speech_prob" : 0.4293164908885956
+      },
+      {
+        "id" : 24,
+        "seek" : 16700,
+        "start" : 177.0,
+        "end" : 187.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.8526585578918457,
+        "compression_ratio" : 1.3611111111111112,
+        "no_speech_prob" : 0.4293164908885956
+      },
+      {
+        "id" : 25,
+        "seek" : 18700,
+        "start" : 187.0,
+        "end" : 197.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4165257453918457,
+        "compression_ratio" : 1.3611111111111112,
+        "no_speech_prob" : 0.6574087738990784
+      },
+      {
+        "id" : 26,
+        "seek" : 18700,
+        "start" : 197.0,
+        "end" : 207.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4165257453918457,
+        "compression_ratio" : 1.3611111111111112,
+        "no_speech_prob" : 0.6574087738990784
+      },
+      {
+        "id" : 27,
+        "seek" : 20700,
+        "start" : 207.0,
+        "end" : 217.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2895077575336803,
+        "compression_ratio" : 0.75,
+        "no_speech_prob" : 0.8743676543235779
+      },
+      {
+        "id" : 28,
+        "seek" : 21700,
+        "start" : 217.0,
+        "end" : 227.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2154991865158081,
+        "compression_ratio" : 1.3611111111111112,
+        "no_speech_prob" : 0.8293805718421936
+      },
+      {
+        "id" : 29,
+        "seek" : 21700,
+        "start" : 227.0,
+        "end" : 237.0,
+        "text" : " I'm gonna pull this out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2154991865158081,
+        "compression_ratio" : 1.3611111111111112,
+        "no_speech_prob" : 0.8293805718421936
+      },
+      {
+        "id" : 30,
+        "seek" : 23700,
+        "start" : 237.0,
+        "end" : 265.0,
+        "text" : " Oh my god.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5328775644302368,
+        "compression_ratio" : 0.5555555555555556,
+        "no_speech_prob" : 0.2120750993490219
+      },
+      {
+        "id" : 31,
+        "seek" : 26500,
+        "start" : 265.0,
+        "end" : 275.0,
+        "text" : " These fuckers.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3665898186819894,
+        "compression_ratio" : 0.6363636363636364,
+        "no_speech_prob" : 0.5290959477424622
+      },
+      {
+        "id" : 32,
+        "seek" : 29500,
+        "start" : 295.0,
+        "end" : 309.0,
+        "text" : " This dude just gave me a fucking bracelet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6025693291111996,
+        "compression_ratio" : 0.9206349206349206,
+        "no_speech_prob" : 0.18065084517002106
+      },
+      {
+        "id" : 33,
+        "seek" : 29500,
+        "start" : 309.0,
+        "end" : 313.0,
+        "text" : " That's his leg.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6025693291111996,
+        "compression_ratio" : 0.9206349206349206,
+        "no_speech_prob" : 0.18065084517002106
+      },
+      {
+        "id" : 34,
+        "seek" : 32500,
+        "start" : 326.0,
+        "end" : 352.0,
+        "text" : " Over crazy people.",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.2918089628219604,
+        "compression_ratio" : 0.6923076923076923,
+        "no_speech_prob" : 0.41546201705932617
+      },
+      {
+        "id" : 35,
+        "seek" : 38200,
+        "start" : 382.0,
+        "end" : 384.0,
+        "text" : " We met some new friends.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 36,
+        "seek" : 38200,
+        "start" : 384.0,
+        "end" : 385.0,
+        "text" : " I got you know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 37,
+        "seek" : 38200,
+        "start" : 387.0,
+        "end" : 388.0,
+        "text" : " You know, I learned a lot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 38,
+        "seek" : 38200,
+        "start" : 388.0,
+        "end" : 390.0,
+        "text" : " We came out here and we did our thing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 39,
+        "seek" : 38200,
+        "start" : 391.0,
+        "end" : 393.0,
+        "text" : " It's really loud though.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 40,
+        "seek" : 38200,
+        "start" : 393.0,
+        "end" : 395.0,
+        "text" : " I'm getting too old for this shit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 41,
+        "seek" : 38200,
+        "start" : 395.0,
+        "end" : 396.0,
+        "text" : " For real.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 42,
+        "seek" : 38200,
+        "start" : 397.0,
+        "end" : 399.0,
+        "text" : " Alright. Peace out guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 43,
+        "seek" : 38200,
+        "start" : 399.0,
+        "end" : 400.0,
+        "text" : " Thanks for joining.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 44,
+        "seek" : 38200,
+        "start" : 400.0,
+        "end" : 401.0,
+        "text" : " Come in with us.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 45,
+        "seek" : 38200,
+        "start" : 401.0,
+        "end" : 402.0,
+        "text" : " And cruising with the Vave Nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 46,
+        "seek" : 38200,
+        "start" : 402.0,
+        "end" : 403.0,
+        "text" : " Appreciate you all so much.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 47,
+        "seek" : 38200,
+        "start" : 403.0,
+        "end" : 405.0,
+        "text" : " And we love you guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 48,
+        "seek" : 38200,
+        "start" : 405.0,
+        "end" : 406.0,
+        "text" : " See you next time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 49,
+        "seek" : 38200,
+        "start" : 406.0,
+        "end" : 407.0,
+        "text" : " Bye-bye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3061982139212186,
+        "compression_ratio" : 1.5129310344827587,
+        "no_speech_prob" : 0.3192618787288666
+      },
+      {
+        "id" : 50,
+        "seek" : 41200,
+        "start" : 413.0,
+        "end" : 420.0,
+        "text" : " Well, we just got home from EDC.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 51,
+        "seek" : 41200,
+        "start" : 420.0,
+        "end" : 422.0,
+        "text" : " Had a blast in a goof on a riot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 52,
+        "seek" : 41200,
+        "start" : 422.0,
+        "end" : 423.0,
+        "text" : " A bit of a ball.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 53,
+        "seek" : 41200,
+        "start" : 423.0,
+        "end" : 424.0,
+        "text" : " It was real loud.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 54,
+        "seek" : 41200,
+        "start" : 424.0,
+        "end" : 425.0,
+        "text" : " I'm still coping.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 55,
+        "seek" : 41200,
+        "start" : 425.0,
+        "end" : 427.0,
+        "text" : " My ears are straight blasted out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 56,
+        "seek" : 41200,
+        "start" : 427.0,
+        "end" : 430.0,
+        "text" : " But I did want to give a thanks to SeatGeek",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 57,
+        "seek" : 41200,
+        "start" : 430.0,
+        "end" : 434.0,
+        "text" : " for fetching us those tickets and having a fun time at EDC.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 58,
+        "seek" : 41200,
+        "start" : 434.0,
+        "end" : 438.0,
+        "text" : " SeatGeek is an app that aggregates tickets from around the world.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 59,
+        "seek" : 41200,
+        "start" : 438.0,
+        "end" : 440.0,
+        "text" : " So you can find a great deal.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12151760974172819,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.18624190986156464
+      },
+      {
+        "id" : 60,
+        "seek" : 44000,
+        "start" : 440.0,
+        "end" : 443.0,
+        "text" : " And they give a rate, a score.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 61,
+        "seek" : 44000,
+        "start" : 443.0,
+        "end" : 446.0,
+        "text" : " So you can tell if a seat is good or not.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 62,
+        "seek" : 44000,
+        "start" : 446.0,
+        "end" : 449.0,
+        "text" : " And you can see the view from the seats that you buy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 63,
+        "seek" : 44000,
+        "start" : 449.0,
+        "end" : 451.0,
+        "text" : " And if you use the link in the description to download",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 64,
+        "seek" : 44000,
+        "start" : 451.0,
+        "end" : 454.0,
+        "text" : " and use my code H3H330, you get 20 bucks off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 65,
+        "seek" : 44000,
+        "start" : 461.0,
+        "end" : 464.0,
+        "text" : " You get 20 bucks off your first purchase.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 66,
+        "seek" : 44000,
+        "start" : 464.0,
+        "end" : 468.0,
+        "text" : " Thanks for joining us and hit us up next time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1269901990890503,
+        "compression_ratio" : 1.5517241379310345,
+        "no_speech_prob" : 0.11686033755540848
+      },
+      {
+        "id" : 67,
+        "seek" : 46800,
+        "start" : 468.0,
+        "end" : 471.0,
+        "text" : " when Ethan jumps off a bridge.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36637923058043137,
+        "compression_ratio" : 1.3177570093457944,
+        "no_speech_prob" : 0.11638209223747253
+      },
+      {
+        "id" : 68,
+        "seek" : 46800,
+        "start" : 471.0,
+        "end" : 475.0,
+        "text" : " Join me next time when Ethan jumps off the Golden Gate Bridge.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36637923058043137,
+        "compression_ratio" : 1.3177570093457944,
+        "no_speech_prob" : 0.11638209223747253
+      },
+      {
+        "id" : 69,
+        "seek" : 46800,
+        "start" : 475.0,
+        "end" : 478.0,
+        "text" : " Wow, Ethan, great move.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36637923058043137,
+        "compression_ratio" : 1.3177570093457944,
+        "no_speech_prob" : 0.11638209223747253
+      },
+      {
+        "id" : 70,
+        "seek" : 46800,
+        "start" : 478.0,
+        "end" : 479.0,
+        "text" : " Heat it up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36637923058043137,
+        "compression_ratio" : 1.3177570093457944,
+        "no_speech_prob" : 0.11638209223747253
+      },
+      {
+        "id" : 71,
+        "seek" : 46800,
+        "start" : 479.0,
+        "end" : 480.0,
+        "text" : " Part of it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36637923058043137,
+        "compression_ratio" : 1.3177570093457944,
+        "no_speech_prob" : 0.11638209223747253
+      },
+      {
+        "id" : 72,
+        "seek" : 49800,
+        "start" : 498.0,
+        "end" : 501.0,
+        "text" : " Thanks for watching.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7190737043108258,
+        "compression_ratio" : 0.7142857142857143,
+        "no_speech_prob" : 0.9829345345497131
+      }
+    ]
+  }
+}

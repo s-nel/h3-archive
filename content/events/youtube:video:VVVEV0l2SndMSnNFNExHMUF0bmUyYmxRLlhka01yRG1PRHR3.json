@@ -1,0 +1,630 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlhka01yRG1PRHR3",
+  "category" : "video",
+  "name" : "If YouTube Does This It's Doomed",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/XdkMrDmODtw/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/XdkMrDmODtw"
+    }
+  ],
+  "start_date" : 1527147007000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.4,
+        "text" : " So this evening I'm browsing Twitter and I see somebody complaining to team YouTube a pretty typical complaint",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22057885270777758,
+        "compression_ratio" : 1.7850467289719627,
+        "no_speech_prob" : 0.07061080634593964
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.4,
+        "end" : 9.84,
+        "text" : " Why aren't the videos in my subscription feed chronological order anymore?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22057885270777758,
+        "compression_ratio" : 1.7850467289719627,
+        "no_speech_prob" : 0.07061080634593964
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.84,
+        "end" : 12.26,
+        "text" : " This is the kind of thing you see all the time people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22057885270777758,
+        "compression_ratio" : 1.7850467289719627,
+        "no_speech_prob" : 0.07061080634593964
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 12.92,
+        "end" : 20.2,
+        "text" : " Complaining of that the sub feed is broken but this time team YouTube actually answered and here's what they said just to clarify",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22057885270777758,
+        "compression_ratio" : 1.7850467289719627,
+        "no_speech_prob" : 0.07061080634593964
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.2,
+        "end" : 23.84,
+        "text" : " We are currently experimenting with how to show content in the sub feeds",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22057885270777758,
+        "compression_ratio" : 1.7850467289719627,
+        "no_speech_prob" : 0.07061080634593964
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 23.84,
+        "end" : 29.72,
+        "text" : " We find that some viewers are able to more easily find the videos they want to watch when we order the sub feeds in a personalized",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22057885270777758,
+        "compression_ratio" : 1.7850467289719627,
+        "no_speech_prob" : 0.07061080634593964
+      },
+      {
+        "id" : 6,
+        "seek" : 2972,
+        "start" : 29.72,
+        "end" : 34.76,
+        "text" : " Order versus always showing most recent videos first. They're finally doing it you guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2790881954893774,
+        "compression_ratio" : 1.7876447876447876,
+        "no_speech_prob" : 0.00415796646848321
+      },
+      {
+        "id" : 7,
+        "seek" : 2972,
+        "start" : 34.84,
+        "end" : 42.08,
+        "text" : " They're finally taking the sub feed. It was the last thing we had the last sacred piece of YouTube left that wasn't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2790881954893774,
+        "compression_ratio" : 1.7876447876447876,
+        "no_speech_prob" : 0.00415796646848321
+      },
+      {
+        "id" : 8,
+        "seek" : 2972,
+        "start" : 42.72,
+        "end" : 48.88,
+        "text" : " Optimized they've changed notifications. There's now three tiers of notifications now the notification bell has",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2790881954893774,
+        "compression_ratio" : 1.7876447876447876,
+        "no_speech_prob" : 0.00415796646848321
+      },
+      {
+        "id" : 9,
+        "seek" : 2972,
+        "start" : 49.52,
+        "end" : 53.72,
+        "text" : " Notify me sometimes whatever happened to ringing that bell dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2790881954893774,
+        "compression_ratio" : 1.7876447876447876,
+        "no_speech_prob" : 0.00415796646848321
+      },
+      {
+        "id" : 10,
+        "seek" : 2972,
+        "start" : 54.4,
+        "end" : 59.24,
+        "text" : " Notification sometimes isn't that what subscribing is if somebody smashes that bell",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2790881954893774,
+        "compression_ratio" : 1.7876447876447876,
+        "no_speech_prob" : 0.00415796646848321
+      },
+      {
+        "id" : 11,
+        "seek" : 5924,
+        "start" : 59.24,
+        "end" : 65.36,
+        "text" : " You better damn well show them my video, but no not anymore a bell smash isn't enough a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30746337513864774,
+        "compression_ratio" : 1.7230046948356808,
+        "no_speech_prob" : 0.0014770725974813104
+      },
+      {
+        "id" : 12,
+        "seek" : 5924,
+        "start" : 66.4,
+        "end" : 69.2,
+        "text" : " subscription isn't enough anymore",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30746337513864774,
+        "compression_ratio" : 1.7230046948356808,
+        "no_speech_prob" : 0.0014770725974813104
+      },
+      {
+        "id" : 13,
+        "seek" : 5924,
+        "start" : 69.28,
+        "end" : 76.8,
+        "text" : " Why is YouTube obsessed with making it harder and harder for subscribers to get your content and now being",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30746337513864774,
+        "compression_ratio" : 1.7230046948356808,
+        "no_speech_prob" : 0.0014770725974813104
+      },
+      {
+        "id" : 14,
+        "seek" : 5924,
+        "start" : 77.08,
+        "end" : 84.92,
+        "text" : " Subscribed on the sub feed which was the one sacred place you could find the content your subscribe to in chronological order is now being",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30746337513864774,
+        "compression_ratio" : 1.7230046948356808,
+        "no_speech_prob" : 0.0014770725974813104
+      },
+      {
+        "id" : 15,
+        "seek" : 8492,
+        "start" : 85.28,
+        "end" : 93.96,
+        "text" : " Optimized I'll tell you what optimized means it means YouTube finally now has full control over what content you see",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21598332268851145,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.022721363231539726
+      },
+      {
+        "id" : 16,
+        "seek" : 8492,
+        "start" : 93.96,
+        "end" : 101.6,
+        "text" : " It means that people who are subscribed to you notified to you can actually not have access to your content if YouTube decides that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21598332268851145,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.022721363231539726
+      },
+      {
+        "id" : 17,
+        "seek" : 8492,
+        "start" : 101.6,
+        "end" : 107.8,
+        "text" : " It's not what they want you to see now YouTube can make your channel completely invisible even to your own subscribers",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21598332268851145,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.022721363231539726
+      },
+      {
+        "id" : 18,
+        "seek" : 8492,
+        "start" : 108.76,
+        "end" : 110.52,
+        "text" : " It's a brave new world",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21598332268851145,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.022721363231539726
+      },
+      {
+        "id" : 19,
+        "seek" : 11052,
+        "start" : 110.56,
+        "end" : 117.28,
+        "text" : " Think about it the sub feed was the last place where users have control of what content they want to see the home page",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22965997060139973,
+        "compression_ratio" : 1.8732394366197183,
+        "no_speech_prob" : 0.0055282823741436005
+      },
+      {
+        "id" : 20,
+        "seek" : 11052,
+        "start" : 118.12,
+        "end" : 121.72,
+        "text" : " Completely up to YouTube nobody knows how it works the sidebar and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22965997060139973,
+        "compression_ratio" : 1.8732394366197183,
+        "no_speech_prob" : 0.0055282823741436005
+      },
+      {
+        "id" : 21,
+        "seek" : 11052,
+        "start" : 122.16,
+        "end" : 128.56,
+        "text" : " Recommended completely up to YouTube nobody knows how it works the sub feed was the one place users knew what to expect",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22965997060139973,
+        "compression_ratio" : 1.8732394366197183,
+        "no_speech_prob" : 0.0055282823741436005
+      },
+      {
+        "id" : 22,
+        "seek" : 11052,
+        "start" : 128.64,
+        "end" : 131.76,
+        "text" : " But now YouTube is taking control of that as well",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22965997060139973,
+        "compression_ratio" : 1.8732394366197183,
+        "no_speech_prob" : 0.0055282823741436005
+      },
+      {
+        "id" : 23,
+        "seek" : 11052,
+        "start" : 131.76,
+        "end" : 134.16,
+        "text" : " I say YouTube stop wasting everybody's time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22965997060139973,
+        "compression_ratio" : 1.8732394366197183,
+        "no_speech_prob" : 0.0055282823741436005
+      },
+      {
+        "id" : 24,
+        "seek" : 13416,
+        "start" : 134.4,
+        "end" : 138.56,
+        "text" : " Remove the subscription button altogether and just show us the content you want us to watch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390813071772736,
+        "compression_ratio" : 1.8134328358208955,
+        "no_speech_prob" : 0.01704108901321888
+      },
+      {
+        "id" : 25,
+        "seek" : 13416,
+        "start" : 138.56,
+        "end" : 145.24,
+        "text" : " I had pretty much stop making videos complaining about YouTube and I had to come at a retirement because I feel that this is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390813071772736,
+        "compression_ratio" : 1.8134328358208955,
+        "no_speech_prob" : 0.01704108901321888
+      },
+      {
+        "id" : 26,
+        "seek" : 13416,
+        "start" : 145.24,
+        "end" : 150.96,
+        "text" : " So important that if they actually go through with this this is the death of YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390813071772736,
+        "compression_ratio" : 1.8134328358208955,
+        "no_speech_prob" : 0.01704108901321888
+      },
+      {
+        "id" : 27,
+        "seek" : 13416,
+        "start" : 150.96,
+        "end" : 155.56,
+        "text" : " This is them going the way of Facebook YouTube is so obsessed with watch time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390813071772736,
+        "compression_ratio" : 1.8134328358208955,
+        "no_speech_prob" : 0.01704108901321888
+      },
+      {
+        "id" : 28,
+        "seek" : 13416,
+        "start" : 155.56,
+        "end" : 161.16,
+        "text" : " They actually don't care what the content is or who's watching it the content is on the way to becoming so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390813071772736,
+        "compression_ratio" : 1.8134328358208955,
+        "no_speech_prob" : 0.01704108901321888
+      },
+      {
+        "id" : 29,
+        "seek" : 16116,
+        "start" : 161.16,
+        "end" : 166.28,
+        "text" : " Homogenous so regulated so predictable that the watch time yes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18418154893098054,
+        "compression_ratio" : 1.6099290780141844,
+        "no_speech_prob" : 0.01294070016592741
+      },
+      {
+        "id" : 30,
+        "seek" : 16116,
+        "start" : 166.28,
+        "end" : 174.48,
+        "text" : " It might go up on the short term, but I guarantee now that people can't even get content that they're subscribed to after a year",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18418154893098054,
+        "compression_ratio" : 1.6099290780141844,
+        "no_speech_prob" : 0.01294070016592741
+      },
+      {
+        "id" : 31,
+        "seek" : 16116,
+        "start" : 174.48,
+        "end" : 177.64,
+        "text" : " Maybe a couple months people are gonna start thinking hey, you know what?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18418154893098054,
+        "compression_ratio" : 1.6099290780141844,
+        "no_speech_prob" : 0.01294070016592741
+      },
+      {
+        "id" : 32,
+        "seek" : 16116,
+        "start" : 177.64,
+        "end" : 183.16,
+        "text" : " I don't like being here. This is depressing. I'm getting buzz feed and all this shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18418154893098054,
+        "compression_ratio" : 1.6099290780141844,
+        "no_speech_prob" : 0.01294070016592741
+      },
+      {
+        "id" : 33,
+        "seek" : 16116,
+        "start" : 183.16,
+        "end" : 188.04,
+        "text" : " I don't care about that just appeals to the broadest audience and you feel like when you're on Facebook",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18418154893098054,
+        "compression_ratio" : 1.6099290780141844,
+        "no_speech_prob" : 0.01294070016592741
+      },
+      {
+        "id" : 34,
+        "seek" : 18804,
+        "start" : 188.04,
+        "end" : 191.16,
+        "text" : " You feel that there's a cold algorithm just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20529415296471637,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.005794742610305548
+      },
+      {
+        "id" : 35,
+        "seek" : 18804,
+        "start" : 191.76,
+        "end" : 196.28,
+        "text" : " Clocking numbers and trying to figure out how to keep you on that page as long as you can that there's no soul",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20529415296471637,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.005794742610305548
+      },
+      {
+        "id" : 36,
+        "seek" : 18804,
+        "start" : 196.28,
+        "end" : 199.92,
+        "text" : " So in the long run YouTube. Yes, your watch time might go up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20529415296471637,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.005794742610305548
+      },
+      {
+        "id" : 37,
+        "seek" : 18804,
+        "start" : 199.92,
+        "end" : 204.0,
+        "text" : " But your soul is gone and people are gonna feel it YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20529415296471637,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.005794742610305548
+      },
+      {
+        "id" : 38,
+        "seek" : 18804,
+        "start" : 204.0,
+        "end" : 209.0,
+        "text" : " I cannot watch any more one dollar verse one hundred dollar videos. I can't do it. There's a limit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20529415296471637,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.005794742610305548
+      },
+      {
+        "id" : 39,
+        "seek" : 18804,
+        "start" : 209.16,
+        "end" : 214.44,
+        "text" : " This is huge. This is very important turning point because if they take this sub feed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20529415296471637,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.005794742610305548
+      },
+      {
+        "id" : 40,
+        "seek" : 21444,
+        "start" : 214.6,
+        "end" : 220.28,
+        "text" : " Then there's truly nothing sacred left and at that point just get rid of the sub button altogether",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104108174641927,
+        "compression_ratio" : 1.6336996336996337,
+        "no_speech_prob" : 0.0189720019698143
+      },
+      {
+        "id" : 41,
+        "seek" : 21444,
+        "start" : 220.28,
+        "end" : 224.32,
+        "text" : " Let's just be honest with each other. So YouTube. I'm looking forward to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104108174641927,
+        "compression_ratio" : 1.6336996336996337,
+        "no_speech_prob" : 0.0189720019698143
+      },
+      {
+        "id" : 42,
+        "seek" : 21444,
+        "start" : 224.88,
+        "end" : 230.88,
+        "text" : " See you in a bunch of buzz feed videos seen a bunch of dude perfect maybe a couple of uh bin bin bin with Babish",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104108174641927,
+        "compression_ratio" : 1.6336996336996337,
+        "no_speech_prob" : 0.0189720019698143
+      },
+      {
+        "id" : 43,
+        "seek" : 21444,
+        "start" : 231.12,
+        "end" : 236.72,
+        "text" : " Those are clean, you know little cooking just don't swear make sure it's good money for the advertisers",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104108174641927,
+        "compression_ratio" : 1.6336996336996337,
+        "no_speech_prob" : 0.0189720019698143
+      },
+      {
+        "id" : 44,
+        "seek" : 21444,
+        "start" : 236.72,
+        "end" : 239.88,
+        "text" : " No swearing do you drop a f bomb get rid of a sub button?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104108174641927,
+        "compression_ratio" : 1.6336996336996337,
+        "no_speech_prob" : 0.0189720019698143
+      },
+      {
+        "id" : 45,
+        "seek" : 23988,
+        "start" : 240.76,
+        "end" : 245.24,
+        "text" : " Oh, I'm sorry was that a f bomb get rid of a sub button send him over to bibbing with Babish",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27466261620615046,
+        "compression_ratio" : 1.748917748917749,
+        "no_speech_prob" : 0.012143188156187534
+      },
+      {
+        "id" : 46,
+        "seek" : 23988,
+        "start" : 245.24,
+        "end" : 247.64,
+        "text" : " He'll take area no offense to bibbing, but",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27466261620615046,
+        "compression_ratio" : 1.748917748917749,
+        "no_speech_prob" : 0.012143188156187534
+      },
+      {
+        "id" : 47,
+        "seek" : 23988,
+        "start" : 248.24,
+        "end" : 253.08,
+        "text" : " Don't touch the sub feed we have let you get away with all this shit YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27466261620615046,
+        "compression_ratio" : 1.748917748917749,
+        "no_speech_prob" : 0.012143188156187534
+      },
+      {
+        "id" : 48,
+        "seek" : 23988,
+        "start" : 253.08,
+        "end" : 258.56,
+        "text" : " You've stolen the subscription button. You've stolen the notification button the bell that people smash",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27466261620615046,
+        "compression_ratio" : 1.748917748917749,
+        "no_speech_prob" : 0.012143188156187534
+      },
+      {
+        "id" : 49,
+        "seek" : 23988,
+        "start" : 258.84,
+        "end" : 265.0,
+        "text" : " Not what they've smashed for nothing. I ask you they've smashed for nothing don't touch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27466261620615046,
+        "compression_ratio" : 1.748917748917749,
+        "no_speech_prob" : 0.012143188156187534
+      },
+      {
+        "id" : 50,
+        "seek" : 26500,
+        "start" : 265.48,
+        "end" : 270.92,
+        "text" : " The sub feed YouTube or this is the end not a threat just being dramatic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758739153544108,
+        "compression_ratio" : 1.4968152866242037,
+        "no_speech_prob" : 0.020164337009191513
+      },
+      {
+        "id" : 51,
+        "seek" : 26500,
+        "start" : 272.08,
+        "end" : 278.84,
+        "text" : " But the threat to you is yourself YouTube dude. I want I'm not gonna be able to sub for sub anymore",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758739153544108,
+        "compression_ratio" : 1.4968152866242037,
+        "no_speech_prob" : 0.020164337009191513
+      },
+      {
+        "id" : 52,
+        "seek" : 26500,
+        "start" : 279.08,
+        "end" : 283.0,
+        "text" : " Pray for the sub feed. I know I will be thank you for watching",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758739153544108,
+        "compression_ratio" : 1.4968152866242037,
+        "no_speech_prob" : 0.020164337009191513
+      },
+      {
+        "id" : 53,
+        "seek" : 29500,
+        "start" : 295.0,
+        "end" : 297.0,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8843992948532104,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.5248790383338928
+      }
+    ]
+  }
+}

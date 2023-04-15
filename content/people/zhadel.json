@@ -1,0 +1,14 @@
+{
+  "person_id" : "zhadel",
+  "category" : "guest",
+  "first_name" : "Zach",
+  "last_name" : "Hadel",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+    "Psychicpebbles"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

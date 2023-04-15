@@ -1,0 +1,50 @@
+{
+  "steamy_id" : "dramatic-creator-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "nperry"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ghanna"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "nnguyen"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Most Dramatic Creator",
+  "description" : null,
+  "year" : 2021
+}

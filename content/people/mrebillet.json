@@ -1,0 +1,13 @@
+{
+  "person_id" : "mrebillet",
+  "category" : "guest",
+  "first_name" : "Marc",
+  "last_name" : "Rebillet",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

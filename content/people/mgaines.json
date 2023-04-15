@@ -1,0 +1,14 @@
+{
+  "person_id" : "mgaines",
+  "category" : "lore",
+  "first_name" : "Myron",
+  "last_name" : "Gaines",
+  "display_name" : null,
+  "thumb" : "/people/mgaines.jpg",
+  "description" : null,
+  "aliases" : [
+    "Fit"
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

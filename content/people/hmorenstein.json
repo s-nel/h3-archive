@@ -1,0 +1,13 @@
+{
+  "person_id" : "hmorenstein",
+  "category" : "guest",
+  "first_name" : "Harley",
+  "last_name" : "Morenstein",
+  "display_name" : null,
+  "thumb" : "/people/hmorenstein.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

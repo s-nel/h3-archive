@@ -1,0 +1,355 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLi03QWtjQld1VEo4",
+  "category" : "video",
+  "name" : "I'm the Best. PERIOD.",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/-7AkcBWuTJ8/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    },
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/-7AkcBWuTJ8"
+    }
+  ],
+  "start_date" : 1373752390000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.08,
+        "text" : " You see this body it's the best body. You know why it's the best body because it belongs to me and I'm the best",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3055285713889382,
+        "compression_ratio" : 1.8904109589041096,
+        "no_speech_prob" : 0.13485096395015717
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.14,
+        "end" : 12.86,
+        "text" : " Might not have the best the best tone, but it's the best body. You don't understand that now. You never will",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3055285713889382,
+        "compression_ratio" : 1.8904109589041096,
+        "no_speech_prob" : 0.13485096395015717
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 14.28,
+        "end" : 16.6,
+        "text" : " Certainly won't be the best not what I'm dead",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3055285713889382,
+        "compression_ratio" : 1.8904109589041096,
+        "no_speech_prob" : 0.13485096395015717
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 17.04,
+        "end" : 21.86,
+        "text" : " When I die there'll be one position of them for the best who will be well for you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3055285713889382,
+        "compression_ratio" : 1.8904109589041096,
+        "no_speech_prob" : 0.13485096395015717
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 22.04,
+        "end" : 24.8,
+        "text" : " Probably not you probably don't have what it takes to be the best",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3055285713889382,
+        "compression_ratio" : 1.8904109589041096,
+        "no_speech_prob" : 0.13485096395015717
+      },
+      {
+        "id" : 5,
+        "seek" : 2480,
+        "start" : 25.32,
+        "end" : 31.5,
+        "text" : " Not not like me, but when I die there's gonna be a lot of people battling for that title. You ain't gonna get it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2993408203125,
+        "compression_ratio" : 2.033613445378151,
+        "no_speech_prob" : 0.02815522626042366
+      },
+      {
+        "id" : 6,
+        "seek" : 2480,
+        "start" : 32.28,
+        "end" : 38.08,
+        "text" : " Not you don't got what it takes to be the best not like me takes one annoying fellow like me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2993408203125,
+        "compression_ratio" : 2.033613445378151,
+        "no_speech_prob" : 0.02815522626042366
+      },
+      {
+        "id" : 7,
+        "seek" : 2480,
+        "start" : 38.72,
+        "end" : 40.72,
+        "text" : " You want to know what it takes to be the best?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2993408203125,
+        "compression_ratio" : 2.033613445378151,
+        "no_speech_prob" : 0.02815522626042366
+      },
+      {
+        "id" : 8,
+        "seek" : 2480,
+        "start" : 41.28,
+        "end" : 43.28,
+        "text" : " Now you're not even ready to listen",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2993408203125,
+        "compression_ratio" : 2.033613445378151,
+        "no_speech_prob" : 0.02815522626042366
+      },
+      {
+        "id" : 9,
+        "seek" : 2480,
+        "start" : 43.72,
+        "end" : 49.66,
+        "text" : " Not tonight when I told you would you be ready? You don't know what it takes to be the best you got to have confidence like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2993408203125,
+        "compression_ratio" : 2.033613445378151,
+        "no_speech_prob" : 0.02815522626042366
+      },
+      {
+        "id" : 10,
+        "seek" : 2480,
+        "start" : 49.76,
+        "end" : 52.6,
+        "text" : " You got to have confidence go to a job interview looking like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2993408203125,
+        "compression_ratio" : 2.033613445378151,
+        "no_speech_prob" : 0.02815522626042366
+      },
+      {
+        "id" : 11,
+        "seek" : 5260,
+        "start" : 52.6,
+        "end" : 57.78,
+        "text" : " That's what the best does number one in the world. You have what it takes doubt it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2958421499832817,
+        "compression_ratio" : 1.7889447236180904,
+        "no_speech_prob" : 0.002239367226138711
+      },
+      {
+        "id" : 12,
+        "seek" : 5260,
+        "start" : 62.0,
+        "end" : 64.0,
+        "text" : " You know who's not you only number two's there are",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2958421499832817,
+        "compression_ratio" : 1.7889447236180904,
+        "no_speech_prob" : 0.002239367226138711
+      },
+      {
+        "id" : 13,
+        "seek" : 5260,
+        "start" : 64.72,
+        "end" : 69.84,
+        "text" : " Five billion everybody's number two behind me is only one number one. That's all it matters",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2958421499832817,
+        "compression_ratio" : 1.7889447236180904,
+        "no_speech_prob" : 0.002239367226138711
+      },
+      {
+        "id" : 14,
+        "seek" : 5260,
+        "start" : 69.84,
+        "end" : 76.12,
+        "text" : " You're the number one or your number two and everyone's number two. See the best or you the worst feel me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2958421499832817,
+        "compression_ratio" : 1.7889447236180904,
+        "no_speech_prob" : 0.002239367226138711
+      },
+      {
+        "id" : 15,
+        "seek" : 5260,
+        "start" : 77.16,
+        "end" : 79.16,
+        "text" : " Now who's gonna make it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2958421499832817,
+        "compression_ratio" : 1.7889447236180904,
+        "no_speech_prob" : 0.002239367226138711
+      },
+      {
+        "id" : 16,
+        "seek" : 8260,
+        "start" : 83.6,
+        "end" : 85.6,
+        "text" : " Drink it up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 17,
+        "seek" : 8260,
+        "start" : 85.96,
+        "end" : 87.96,
+        "text" : " Take a look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 18,
+        "seek" : 8260,
+        "start" : 87.96,
+        "end" : 93.44,
+        "text" : " Pause it right now and have a look now before the video ends because you don't get a look at the best that often",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 19,
+        "seek" : 8260,
+        "start" : 93.44,
+        "end" : 95.94,
+        "text" : " I'm number one. What number are you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 20,
+        "seek" : 8260,
+        "start" : 96.0,
+        "end" : 98.0,
+        "text" : " Check yourself look in the mirror",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 21,
+        "seek" : 8260,
+        "start" : 98.84,
+        "end" : 101.64,
+        "text" : " Learn about yourself so you can be the best when I'm gone",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 22,
+        "seek" : 8260,
+        "start" : 101.64,
+        "end" : 106.72,
+        "text" : " You probably don't have what it takes better pass this knowledge on to your children if you ever get any",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 23,
+        "seek" : 8260,
+        "start" : 107.6,
+        "end" : 109.6,
+        "text" : " Not that it matters",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24368834028057024,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.004383260849863291
+      },
+      {
+        "id" : 24,
+        "seek" : 11260,
+        "start" : 112.6,
+        "end" : 114.6,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6611886620521545,
+        "compression_ratio" : 0.6,
+        "no_speech_prob" : 0.08478710800409317
+      },
+      {
+        "id" : 25,
+        "seek" : 11260,
+        "start" : 120.08,
+        "end" : 122.08,
+        "text" : " The best",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6611886620521545,
+        "compression_ratio" : 0.6,
+        "no_speech_prob" : 0.08478710800409317
+      },
+      {
+        "id" : 26,
+        "seek" : 14260,
+        "start" : 142.6,
+        "end" : 144.6,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.694288969039917,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.7449847459793091
+      },
+      {
+        "id" : 27,
+        "seek" : 17260,
+        "start" : 172.88,
+        "end" : 174.88,
+        "text" : " You",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.1875742503574915,
+        "compression_ratio" : 0.5,
+        "no_speech_prob" : 0.04222023859620094
+      },
+      {
+        "id" : 28,
+        "seek" : 17260,
+        "start" : 181.08,
+        "end" : 183.08,
+        "text" : " Best",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.1875742503574915,
+        "compression_ratio" : 0.5,
+        "no_speech_prob" : 0.04222023859620094
+      }
+    ]
+  }
+}

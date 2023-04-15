@@ -1,0 +1,13 @@
+{
+  "person_id" : "wsmith",
+  "category" : "lore",
+  "first_name" : "Willard",
+  "last_name" : "Smith",
+  "display_name" : "Will Smith",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

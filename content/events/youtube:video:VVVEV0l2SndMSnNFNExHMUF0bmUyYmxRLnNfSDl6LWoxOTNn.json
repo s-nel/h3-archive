@@ -1,0 +1,509 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnNfSDl6LWoxOTNn",
+  "category" : "video",
+  "name" : "Hugh Mungus Fundraiser SHUT DOWN",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/s_H9z-j193g/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/s_H9z-j193g"
+    }
+  ],
+  "start_date" : 1478650993000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 7.0,
+        "text" : " Today is election day, guys, which means that 50% of all American citizens are going to be pissed off and ready to ride.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18444610525060584,
+        "compression_ratio" : 1.645985401459854,
+        "no_speech_prob" : 0.006763032637536526
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.0,
+        "end" : 12.5,
+        "text" : " And the other 50% is going to be mildly relieved because they also hated the person they voted for.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18444610525060584,
+        "compression_ratio" : 1.645985401459854,
+        "no_speech_prob" : 0.006763032637536526
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.5,
+        "end" : 22.8,
+        "text" : " But today I give you the opportunity, my friends, as Americans, as world citizens to come together behind one person, one man that we can all stand behind.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18444610525060584,
+        "compression_ratio" : 1.645985401459854,
+        "no_speech_prob" : 0.006763032637536526
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 22.8,
+        "end" : 28.5,
+        "text" : " Republicans, Democrats, all people of the world. That person is humongous.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18444610525060584,
+        "compression_ratio" : 1.645985401459854,
+        "no_speech_prob" : 0.006763032637536526
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 31.0,
+        "end" : 36.0,
+        "text" : " Hey, God, I'm happy. I'm proud of my country.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2367003638789339,
+        "compression_ratio" : 1.5317460317460319,
+        "no_speech_prob" : 0.2430974245071411
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 36.0,
+        "end" : 44.0,
+        "text" : " Yesterday, you guys probably saw this video entitled Humongous Needs Our Help, in which we explained that our boy here has fallen on hard times.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2367003638789339,
+        "compression_ratio" : 1.5317460317460319,
+        "no_speech_prob" : 0.2430974245071411
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 44.0,
+        "end" : 49.0,
+        "text" : " I explained it all in the previous video. And what we did is we set up a U-caring for the guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2367003638789339,
+        "compression_ratio" : 1.5317460317460319,
+        "no_speech_prob" : 0.2430974245071411
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 49.0,
+        "end" : 56.0,
+        "text" : " We had a lot of momentum. A lot of people hyped up to support this beautiful man, this selfless man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2367003638789339,
+        "compression_ratio" : 1.5317460317460319,
+        "no_speech_prob" : 0.2430974245071411
+      },
+      {
+        "id" : 8,
+        "seek" : 5600,
+        "start" : 56.0,
+        "end" : 63.0,
+        "text" : " And what the fuck happened? Well, first of all, U-caring shitty website just completely crashed.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16465192601300668,
+        "compression_ratio" : 1.6888111888111887,
+        "no_speech_prob" : 0.2264327108860016
+      },
+      {
+        "id" : 9,
+        "seek" : 5600,
+        "start" : 63.0,
+        "end" : 68.0,
+        "text" : " Apparently, U-caring's hosting is just about enough to host a small Keen Sengira.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16465192601300668,
+        "compression_ratio" : 1.6888111888111887,
+        "no_speech_prob" : 0.2264327108860016
+      },
+      {
+        "id" : 10,
+        "seek" : 5600,
+        "start" : 68.0,
+        "end" : 74.0,
+        "text" : " And we're like, hey, you caring? Help, help! You're stealing all the steam from this guy we're trying to help out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16465192601300668,
+        "compression_ratio" : 1.6888111888111887,
+        "no_speech_prob" : 0.2264327108860016
+      },
+      {
+        "id" : 11,
+        "seek" : 5600,
+        "start" : 74.0,
+        "end" : 77.0,
+        "text" : " And they're like, yo, we're working on it. We're working on it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16465192601300668,
+        "compression_ratio" : 1.6888111888111887,
+        "no_speech_prob" : 0.2264327108860016
+      },
+      {
+        "id" : 12,
+        "seek" : 5600,
+        "start" : 77.0,
+        "end" : 81.0,
+        "text" : " And then two hours later, the site's finally back up, but our boy's page isn't up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16465192601300668,
+        "compression_ratio" : 1.6888111888111887,
+        "no_speech_prob" : 0.2264327108860016
+      },
+      {
+        "id" : 13,
+        "seek" : 5600,
+        "start" : 81.0,
+        "end" : 83.0,
+        "text" : " So they send me this fucking lovely email.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16465192601300668,
+        "compression_ratio" : 1.6888111888111887,
+        "no_speech_prob" : 0.2264327108860016
+      },
+      {
+        "id" : 14,
+        "seek" : 8300,
+        "start" : 83.0,
+        "end" : 90.0,
+        "text" : " We are reaching out today to inform you that your fundraiser, Papa Bless Humongous aka Rudy Pintoya, has been removed from U-caring.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10693582714113414,
+        "compression_ratio" : 1.6303630363036303,
+        "no_speech_prob" : 0.1752125769853592
+      },
+      {
+        "id" : 15,
+        "seek" : 8300,
+        "start" : 90.0,
+        "end" : 94.0,
+        "text" : " This decision was reached because the subject matter incites controversy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10693582714113414,
+        "compression_ratio" : 1.6303630363036303,
+        "no_speech_prob" : 0.1752125769853592
+      },
+      {
+        "id" : 16,
+        "seek" : 8300,
+        "start" : 94.0,
+        "end" : 99.0,
+        "text" : " Does not have a clear cause and does not fit within our listed categories.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10693582714113414,
+        "compression_ratio" : 1.6303630363036303,
+        "no_speech_prob" : 0.1752125769853592
+      },
+      {
+        "id" : 17,
+        "seek" : 8300,
+        "start" : 99.0,
+        "end" : 106.0,
+        "text" : " They says that raising funds for a man who's fallen on hard times and needs money for medical treatment,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10693582714113414,
+        "compression_ratio" : 1.6303630363036303,
+        "no_speech_prob" : 0.1752125769853592
+      },
+      {
+        "id" : 18,
+        "seek" : 8300,
+        "start" : 106.0,
+        "end" : 112.0,
+        "text" : " for having tumors and cysts throughout his body, trying to help a guy pay for that. It incites controversy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10693582714113414,
+        "compression_ratio" : 1.6303630363036303,
+        "no_speech_prob" : 0.1752125769853592
+      },
+      {
+        "id" : 19,
+        "seek" : 11200,
+        "start" : 112.0,
+        "end" : 116.0,
+        "text" : " What exactly is controversial about paying for a man's cancer screening?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15712322037795495,
+        "compression_ratio" : 1.6308243727598566,
+        "no_speech_prob" : 0.15366271138191223
+      },
+      {
+        "id" : 20,
+        "seek" : 11200,
+        "start" : 116.0,
+        "end" : 118.0,
+        "text" : " So he doesn't have a premature fucking debt.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15712322037795495,
+        "compression_ratio" : 1.6308243727598566,
+        "no_speech_prob" : 0.15366271138191223
+      },
+      {
+        "id" : 21,
+        "seek" : 11200,
+        "start" : 118.0,
+        "end" : 125.0,
+        "text" : " I mean, when they removed it, our video was on the front page of Reddit, like, 1 and 6 from our subreddit and our videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15712322037795495,
+        "compression_ratio" : 1.6308243727598566,
+        "no_speech_prob" : 0.15366271138191223
+      },
+      {
+        "id" : 22,
+        "seek" : 11200,
+        "start" : 125.0,
+        "end" : 136.0,
+        "text" : " It had so much traction. They're like, they're like, you know what, Doug? I appreciate that this guy is having huge life problems and needs cancer screening and probably has cancer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15712322037795495,
+        "compression_ratio" : 1.6308243727598566,
+        "no_speech_prob" : 0.15366271138191223
+      },
+      {
+        "id" : 23,
+        "seek" : 11200,
+        "start" : 136.0,
+        "end" : 138.0,
+        "text" : " And he's all the help he can get.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15712322037795495,
+        "compression_ratio" : 1.6308243727598566,
+        "no_speech_prob" : 0.15366271138191223
+      },
+      {
+        "id" : 24,
+        "seek" : 13800,
+        "start" : 138.0,
+        "end" : 142.0,
+        "text" : " But I don't really agree with him or what's going on here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16981234077278895,
+        "compression_ratio" : 1.7222222222222223,
+        "no_speech_prob" : 0.24458491802215576
+      },
+      {
+        "id" : 25,
+        "seek" : 13800,
+        "start" : 142.0,
+        "end" : 149.0,
+        "text" : " So I'm going to shut it down and potentially ruin this guy's life because after all, our website is called U-caring.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16981234077278895,
+        "compression_ratio" : 1.7222222222222223,
+        "no_speech_prob" : 0.24458491802215576
+      },
+      {
+        "id" : 26,
+        "seek" : 13800,
+        "start" : 149.0,
+        "end" : 153.0,
+        "text" : " Time to change your name to We Don't Care. U-caring, more like...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16981234077278895,
+        "compression_ratio" : 1.7222222222222223,
+        "no_speech_prob" : 0.24458491802215576
+      },
+      {
+        "id" : 27,
+        "seek" : 13800,
+        "start" : 153.0,
+        "end" : 160.0,
+        "text" : " Well, in U-caring's defense, they did never claim to care. I mean, the website is called U-caring, not We-caring.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16981234077278895,
+        "compression_ratio" : 1.7222222222222223,
+        "no_speech_prob" : 0.24458491802215576
+      },
+      {
+        "id" : 28,
+        "seek" : 13800,
+        "start" : 160.0,
+        "end" : 164.0,
+        "text" : " I mean, they minus well change their slogan to U-caring. We don't give a fuck.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16981234077278895,
+        "compression_ratio" : 1.7222222222222223,
+        "no_speech_prob" : 0.24458491802215576
+      },
+      {
+        "id" : 29,
+        "seek" : 16400,
+        "start" : 164.0,
+        "end" : 172.0,
+        "text" : " On this election day, this divisive day, when our country is divided, let's do one good thing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09952579736709595,
+        "compression_ratio" : 1.5806451612903225,
+        "no_speech_prob" : 0.31659290194511414
+      },
+      {
+        "id" : 30,
+        "seek" : 16400,
+        "start" : 172.0,
+        "end" : 179.0,
+        "text" : " One great thing. To make us all unite and feel good that there's hope and goodness in the world.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09952579736709595,
+        "compression_ratio" : 1.5806451612903225,
+        "no_speech_prob" : 0.31659290194511414
+      },
+      {
+        "id" : 31,
+        "seek" : 16400,
+        "start" : 179.0,
+        "end" : 187.0,
+        "text" : " Humongous is a man who has been defamed. He has been victimized, assaulted, and now he needs our help.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09952579736709595,
+        "compression_ratio" : 1.5806451612903225,
+        "no_speech_prob" : 0.31659290194511414
+      },
+      {
+        "id" : 32,
+        "seek" : 18700,
+        "start" : 187.0,
+        "end" : 191.0,
+        "text" : " Let's give him back the steam that U-caring stole from him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13147416246046714,
+        "compression_ratio" : 1.4887218045112782,
+        "no_speech_prob" : 0.5716013312339783
+      },
+      {
+        "id" : 33,
+        "seek" : 18700,
+        "start" : 191.0,
+        "end" : 198.0,
+        "text" : " Okay, and on this fucking election day, the most controversial divisive election I can ever remember my lifetime,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13147416246046714,
+        "compression_ratio" : 1.4887218045112782,
+        "no_speech_prob" : 0.5716013312339783
+      },
+      {
+        "id" : 34,
+        "seek" : 18700,
+        "start" : 198.0,
+        "end" : 205.0,
+        "text" : " let's come together and do a great thing for humongous guys. The link is in the description. The new GoFundMe.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13147416246046714,
+        "compression_ratio" : 1.4887218045112782,
+        "no_speech_prob" : 0.5716013312339783
+      },
+      {
+        "id" : 35,
+        "seek" : 18700,
+        "start" : 205.0,
+        "end" : 212.0,
+        "text" : " I'm going to start off by donating $1,000 myself. I haven't even announced it yet. And it's already at $30,000.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13147416246046714,
+        "compression_ratio" : 1.4887218045112782,
+        "no_speech_prob" : 0.5716013312339783
+      },
+      {
+        "id" : 36,
+        "seek" : 21200,
+        "start" : 212.0,
+        "end" : 216.0,
+        "text" : " Let's come together guys. Let's make a fucking magic happen for this guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13216918811463474,
+        "compression_ratio" : 1.70703125,
+        "no_speech_prob" : 0.7723301649093628
+      },
+      {
+        "id" : 37,
+        "seek" : 21200,
+        "start" : 216.0,
+        "end" : 221.0,
+        "text" : " And to date together here, we are all Americans. Except for people who aren't American.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13216918811463474,
+        "compression_ratio" : 1.70703125,
+        "no_speech_prob" : 0.7723301649093628
+      },
+      {
+        "id" : 38,
+        "seek" : 21200,
+        "start" : 221.0,
+        "end" : 229.0,
+        "text" : " You're obviously not American. But if you donate, you can be an honorary American for one day, but you're not American at all.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13216918811463474,
+        "compression_ratio" : 1.70703125,
+        "no_speech_prob" : 0.7723301649093628
+      },
+      {
+        "id" : 39,
+        "seek" : 21200,
+        "start" : 229.0,
+        "end" : 233.0,
+        "text" : " I mean, good luck in your election. But today here, vote for humongous.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13216918811463474,
+        "compression_ratio" : 1.70703125,
+        "no_speech_prob" : 0.7723301649093628
+      },
+      {
+        "id" : 40,
+        "seek" : 21200,
+        "start" : 233.0,
+        "end" : 238.0,
+        "text" : " Thank you guys. God bless humongous. God bless the United States of America.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13216918811463474,
+        "compression_ratio" : 1.70703125,
+        "no_speech_prob" : 0.7723301649093628
+      },
+      {
+        "id" : 41,
+        "seek" : 23800,
+        "start" : 238.0,
+        "end" : 242.0,
+        "text" : " And, top of blessed this fucking community. I love you guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2744194303240095,
+        "compression_ratio" : 1.1320754716981132,
+        "no_speech_prob" : 0.45593148469924927
+      },
+      {
+        "id" : 42,
+        "seek" : 23800,
+        "start" : 242.0,
+        "end" : 245.0,
+        "text" : " Let's go show humongous what we're made of. Appreciate you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2744194303240095,
+        "compression_ratio" : 1.1320754716981132,
+        "no_speech_prob" : 0.45593148469924927
+      }
+    ]
+  }
+}

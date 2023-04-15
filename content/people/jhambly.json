@@ -1,0 +1,12 @@
+{
+  "person_id" : "jhambly",
+  "category" : "lore",
+  "first_name" : "Jeremy",
+  "last_name" : "Hambly",
+  "display_name" : "The Quartering",
+  "thumb" : "/people/jhambly.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "adept",
+  "category" : "lore",
+  "first_name" : "Sam",
+  "last_name" : "",
+  "display_name" : "AdeptTheBest",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

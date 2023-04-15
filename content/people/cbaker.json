@@ -1,0 +1,14 @@
+{
+  "person_id" : "cbaker",
+  "category" : "lore",
+  "first_name" : "Colson",
+  "last_name" : "Baker",
+  "display_name" : "Machine Gun Kelly",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+    "MGK"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

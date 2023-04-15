@@ -1,0 +1,70 @@
+{
+  "steamy_id" : "cringe-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "aross",
+        "etate"
+      ],
+      "name" : "Adin Ross shaves head and sniffs Andrew Tate's chair",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "flengyel",
+        "adept"
+      ],
+      "name" : "xQc and Adept fighting on stream",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dream"
+      ],
+      "name" : "Dream face reveal",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "alevine"
+      ],
+      "name" : "Adam Levine hitting up women while married",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "aeasterling",
+        "mlopez",
+        "mhauri"
+      ],
+      "name" : "Addison Rae's dad beef with Yung Gravy",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "gvaynerchuk"
+      ],
+      "name" : "VeeCon",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "adlamini",
+        "nschnap"
+      ],
+      "name" : "Doja Cat beef with Noah Chnapp",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dkeem",
+        "yerakat"
+      ],
+      "name" : "Keemstar feeding beef jerky to Fousey",
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Cringe Moment",
+  "description" : null,
+  "year" : 2022
+}

@@ -1,0 +1,16 @@
+{
+  "person_id" : "sjessop",
+  "category" : "guest",
+  "first_name" : "Scott",
+  "last_name" : "Jessop",
+  "display_name" : "Skippy the Virgin",
+  "thumb" : "/people/sjessop.jpg",
+  "description" : null,
+  "aliases" : [
+    "Skippy",
+    "Skippy the Virgin",
+    "IamSkippy"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

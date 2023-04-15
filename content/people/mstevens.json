@@ -1,0 +1,14 @@
+{
+  "person_id" : "mstevens",
+  "category" : "guest",
+  "first_name" : "Michael",
+  "last_name" : "Stevens",
+  "display_name" : "Vsauce",
+  "thumb" : "/people/mstevens.jpg",
+  "description" : null,
+  "aliases" : [
+    "Vsauce"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

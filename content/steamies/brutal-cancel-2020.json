@@ -1,0 +1,58 @@
+{
+  "steamy_id" : "brutal-cancel-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "cd'elia"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "nmurphy"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "tlopez2"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jmourey"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "sdawson"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "twestbrook"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom",
+        "cpaiz"
+      ],
+      "name" : "Ace Family",
+      "won" : false
+    }
+  ],
+  "name" : "Most Brutal Cancellation",
+  "description" : null,
+  "year" : 2020
+}

@@ -1,0 +1,46 @@
+{
+  "steamy_id" : "apology-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "acallaghan"
+      ],
+      "name" : "Andrew Callaghan apologizes after sex pest allegations",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "bjohnson"
+      ],
+      "name" : "Liver King apologizes after steroid use exposed",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "nfulmer",
+        "eyang",
+        "khabersberger",
+        "zkornfeld"
+      ],
+      "name" : "Try Guys apologize after Ned's affair",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mrinaudo"
+      ],
+      "name" : "Mizkif apologizes after alleged SA coverup",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : "Logan Paul apologizes after Coffeezilla CryptoZoo exposé",
+      "won" : true
+    }
+  ],
+  "name" : "Worst Apology",
+  "description" : null,
+  "year" : 2022
+}

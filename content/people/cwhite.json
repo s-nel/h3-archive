@@ -1,0 +1,16 @@
+{
+  "person_id" : "cwhite",
+  "category" : "lore",
+  "first_name" : "Charles",
+  "last_name" : "White",
+  "display_name" : "MoistCr1TiKaL",
+  "thumb" : "/people/cwhite.jpg",
+  "description" : null,
+  "aliases" : [
+    "Penguinz0",
+    "Cr1TiKaL",
+    "Charlie"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

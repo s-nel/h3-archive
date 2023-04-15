@@ -1,0 +1,377 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLnlDaFVZeGN5R3Nn",
+  "category" : "video",
+  "name" : "it's so great",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/yChUYxcyGsg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/yChUYxcyGsg"
+    }
+  ],
+  "start_date" : 1407416695000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.0,
+        "text" : " Our internet doesn't work, it's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 8.0,
+        "text" : " Our internet doesn't work, it's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 12.0,
+        "text" : " It shows all the boss, but no internet comes out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 12.0,
+        "end" : 16.0,
+        "text" : " It's so great, I just want to sing about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 18.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 20.0,
+        "text" : " Yeah, it's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 23.0,
+        "text" : " Elon looking at you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 25.0,
+        "text" : " What is it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 25.0,
+        "end" : 27.0,
+        "text" : " What is it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19951011823571246,
+        "compression_ratio" : 1.85,
+        "no_speech_prob" : 0.45318329334259033
+      },
+      {
+        "id" : 9,
+        "seek" : 2700,
+        "start" : 27.0,
+        "end" : 29.0,
+        "text" : " What is it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 10,
+        "seek" : 2700,
+        "start" : 29.0,
+        "end" : 30.0,
+        "text" : " What is it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 11,
+        "seek" : 2700,
+        "start" : 30.0,
+        "end" : 32.0,
+        "text" : " What is it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 12,
+        "seek" : 2700,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " Elon looking at you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 13,
+        "seek" : 2700,
+        "start" : 34.0,
+        "end" : 36.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 14,
+        "seek" : 2700,
+        "start" : 36.0,
+        "end" : 38.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 15,
+        "seek" : 2700,
+        "start" : 38.0,
+        "end" : 40.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 16,
+        "seek" : 2700,
+        "start" : 40.0,
+        "end" : 42.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 17,
+        "seek" : 2700,
+        "start" : 42.0,
+        "end" : 44.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 18,
+        "seek" : 2700,
+        "start" : 44.0,
+        "end" : 46.0,
+        "text" : " And it doesn't work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 19,
+        "seek" : 2700,
+        "start" : 46.0,
+        "end" : 48.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 20,
+        "seek" : 2700,
+        "start" : 48.0,
+        "end" : 49.0,
+        "text" : " What do I do?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 21,
+        "seek" : 2700,
+        "start" : 49.0,
+        "end" : 52.0,
+        "text" : " I just sit here and I think about you've done them.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 22,
+        "seek" : 2700,
+        "start" : 52.0,
+        "end" : 56.0,
+        "text" : " He's got such a nice puppet and such nice hands.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13041067545392873,
+        "compression_ratio" : 1.9448275862068964,
+        "no_speech_prob" : 0.0058057876303792
+      },
+      {
+        "id" : 23,
+        "seek" : 5600,
+        "start" : 56.0,
+        "end" : 59.0,
+        "text" : " He's probably really good with his hands in bed.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 24,
+        "seek" : 5600,
+        "start" : 59.0,
+        "end" : 65.0,
+        "text" : " He could probably make me come and massage my prostate in 10 seconds.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 25,
+        "seek" : 5600,
+        "start" : 65.0,
+        "end" : 72.0,
+        "text" : " In 10 seconds, he could easily massage my prostate and make me come in 10 seconds.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 26,
+        "seek" : 5600,
+        "start" : 72.0,
+        "end" : 75.0,
+        "text" : " Yeah, it shows the boss, but it doesn't work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 27,
+        "seek" : 5600,
+        "start" : 75.0,
+        "end" : 77.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 28,
+        "seek" : 5600,
+        "start" : 77.0,
+        "end" : 78.0,
+        "text" : " It's so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 29,
+        "seek" : 5600,
+        "start" : 78.0,
+        "end" : 79.0,
+        "text" : " Oh, it works.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      },
+      {
+        "id" : 30,
+        "seek" : 5600,
+        "start" : 79.0,
+        "end" : 79.0,
+        "text" : "",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09798137876722547,
+        "compression_ratio" : 1.7619047619047619,
+        "no_speech_prob" : 0.016738316044211388
+      }
+    ]
+  }
+}

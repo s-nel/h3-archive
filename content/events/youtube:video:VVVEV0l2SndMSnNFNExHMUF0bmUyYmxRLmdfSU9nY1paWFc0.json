@@ -1,0 +1,278 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmdfSU9nY1paWFc0",
+  "category" : "video",
+  "name" : "20k exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/g_IOgcZZXW4/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/g_IOgcZZXW4"
+    }
+  ],
+  "start_date" : 1403547638000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " Ethan, where are you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 4.0,
+        "text" : " 20,000",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 6.0,
+        "text" : " Chris",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 10.0,
+        "text" : " Backer little",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 13.0,
+        "text" : " Before you cry, what do you love?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 13.0,
+        "end" : 15.0,
+        "text" : " Take a look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 19.0,
+        "text" : " Pause it right now and have a look now for the video and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 21.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 21.0,
+        "end" : 23.0,
+        "text" : " No, no",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 9,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 25.0,
+        "text" : " Eh?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 10,
+        "seek" : 0,
+        "start" : 25.0,
+        "end" : 29.0,
+        "text" : " A little bit of sex and violence",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7211267069766396,
+        "compression_ratio" : 1.348993288590604,
+        "no_speech_prob" : 0.14149028062820435
+      },
+      {
+        "id" : 11,
+        "seek" : 2900,
+        "start" : 29.0,
+        "end" : 32.0,
+        "text" : " NOOOO!",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.100345024695763,
+        "compression_ratio" : 0.9152542372881356,
+        "no_speech_prob" : 0.24778439104557037
+      },
+      {
+        "id" : 12,
+        "seek" : 2900,
+        "start" : 38.0,
+        "end" : 41.0,
+        "text" : " You said you already found one?",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.100345024695763,
+        "compression_ratio" : 0.9152542372881356,
+        "no_speech_prob" : 0.24778439104557037
+      },
+      {
+        "id" : 13,
+        "seek" : 2900,
+        "start" : 45.0,
+        "end" : 49.0,
+        "text" : " Oh heyyy…",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.100345024695763,
+        "compression_ratio" : 0.9152542372881356,
+        "no_speech_prob" : 0.24778439104557037
+      },
+      {
+        "id" : 14,
+        "seek" : 2900,
+        "start" : 52.0,
+        "end" : 54.0,
+        "text" : " Ok.",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.100345024695763,
+        "compression_ratio" : 0.9152542372881356,
+        "no_speech_prob" : 0.24778439104557037
+      },
+      {
+        "id" : 15,
+        "seek" : 5400,
+        "start" : 55.0,
+        "end" : 58.0,
+        "text" : " You should have responsibly.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6321454149611453,
+        "compression_ratio" : 1.2252252252252251,
+        "no_speech_prob" : 0.0623730830848217
+      },
+      {
+        "id" : 16,
+        "seek" : 5400,
+        "start" : 67.0,
+        "end" : 70.0,
+        "text" : " I show my profile.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6321454149611453,
+        "compression_ratio" : 1.2252252252252251,
+        "no_speech_prob" : 0.0623730830848217
+      },
+      {
+        "id" : 17,
+        "seek" : 5400,
+        "start" : 70.0,
+        "end" : 72.0,
+        "text" : " Look down at this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6321454149611453,
+        "compression_ratio" : 1.2252252252252251,
+        "no_speech_prob" : 0.0623730830848217
+      },
+      {
+        "id" : 18,
+        "seek" : 5400,
+        "start" : 72.0,
+        "end" : 75.0,
+        "text" : " You're always doing this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6321454149611453,
+        "compression_ratio" : 1.2252252252252251,
+        "no_speech_prob" : 0.0623730830848217
+      },
+      {
+        "id" : 19,
+        "seek" : 5400,
+        "start" : 78.0,
+        "end" : 81.0,
+        "text" : " How many times have you done?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6321454149611453,
+        "compression_ratio" : 1.2252252252252251,
+        "no_speech_prob" : 0.0623730830848217
+      },
+      {
+        "id" : 20,
+        "seek" : 5400,
+        "start" : 81.0,
+        "end" : 83.0,
+        "text" : " How many did?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6321454149611453,
+        "compression_ratio" : 1.2252252252252251,
+        "no_speech_prob" : 0.0623730830848217
+      },
+      {
+        "id" : 21,
+        "seek" : 8300,
+        "start" : 83.0,
+        "end" : 86.0,
+        "text" : " Get my animal fucking dude!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4376562966240777,
+        "compression_ratio" : 0.7714285714285715,
+        "no_speech_prob" : 0.023434510454535484
+      }
+    ]
+  }
+}

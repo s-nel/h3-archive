@@ -1,0 +1,36 @@
+{
+  "steamy_id" : "clickbait-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "jhambly"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "pdefranco"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "fpanayiotou"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Most Shameless Clickbait",
+  "description" : null,
+  "year" : 2022
+}

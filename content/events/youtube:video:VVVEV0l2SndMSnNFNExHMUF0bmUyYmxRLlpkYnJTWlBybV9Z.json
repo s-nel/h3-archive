@@ -1,0 +1,102 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlpkYnJTWlBybV9Z",
+  "category" : "video",
+  "name" : "patrice wilson exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/ZdbrSZPrm_Y/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/ZdbrSZPrm_Y"
+    }
+  ],
+  "start_date" : 1420912151000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 18.62,
+        "text" : " We need to see alright take any further.",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.694742965698242,
+        "compression_ratio" : 0.9104477611940298,
+        "no_speech_prob" : 0.31648123264312744
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 22.5,
+        "end" : 25.78,
+        "text" : " Over mile",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.694742965698242,
+        "compression_ratio" : 0.9104477611940298,
+        "no_speech_prob" : 0.31648123264312744
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 27.32,
+        "end" : 29.24,
+        "text" : " Form Party",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.694742965698242,
+        "compression_ratio" : 0.9104477611940298,
+        "no_speech_prob" : 0.31648123264312744
+      },
+      {
+        "id" : 3,
+        "seek" : 3000,
+        "start" : 30.62,
+        "end" : 33.86,
+        "text" : " It's 196th",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.492473949085582,
+        "compression_ratio" : 0.6521739130434783,
+        "no_speech_prob" : 0.5408211946487427
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 50.58,
+        "end" : 53.28,
+        "text" : "igger",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.492473949085582,
+        "compression_ratio" : 0.6521739130434783,
+        "no_speech_prob" : 0.5408211946487427
+      },
+      {
+        "id" : 5,
+        "seek" : 6000,
+        "start" : 60.0,
+        "end" : 65.82,
+        "text" : " come here",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.420916748046875,
+        "compression_ratio" : 0.5294117647058824,
+        "no_speech_prob" : 0.12648221850395203
+      }
+    ]
+  }
+}

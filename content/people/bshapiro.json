@@ -1,0 +1,12 @@
+{
+  "person_id" : "bshapiro",
+  "category" : "enemy",
+  "first_name" : "Ben",
+  "last_name" : "Shapiro",
+  "display_name" : "Ben Shapiro",
+  "thumb" : "/people/bshapiro.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

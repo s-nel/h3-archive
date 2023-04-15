@@ -1,0 +1,234 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkRocDZoWU94MHA4",
+  "category" : "video",
+  "name" : "why nan tumbles",
+  "description" : "http://www.twitch.tv/h3h3productions\n\nSound credit: http://CreatedByBrett.com/music.php",
+  "thumb" : "https://i.ytimg.com/vi/Dhp6hYOx0p8/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Dhp6hYOx0p8"
+    }
+  ],
+  "start_date" : 1410198616000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.58,
+        "text" : " Man take a tumble for all of us take a tumble for all of us now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30509397718641496,
+        "compression_ratio" : 2.0604651162790697,
+        "no_speech_prob" : 0.22088101506233215
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.74,
+        "end" : 7.2,
+        "text" : " You tumble for the world you know what man?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30509397718641496,
+        "compression_ratio" : 2.0604651162790697,
+        "no_speech_prob" : 0.22088101506233215
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 7.2,
+        "end" : 11.4,
+        "text" : " You had the world on your shoulders and you took a tumble for all of us, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30509397718641496,
+        "compression_ratio" : 2.0604651162790697,
+        "no_speech_prob" : 0.22088101506233215
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 11.4,
+        "end" : 18.04,
+        "text" : " And I hope you keep tumbling until time ends and you and you just keep tumbling and tumbling and tumbling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30509397718641496,
+        "compression_ratio" : 2.0604651162790697,
+        "no_speech_prob" : 0.22088101506233215
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 18.24,
+        "end" : 22.68,
+        "text" : " Until time ends until we've all you know faded away into dust and dirt",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30509397718641496,
+        "compression_ratio" : 2.0604651162790697,
+        "no_speech_prob" : 0.22088101506233215
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 23.2,
+        "end" : 27.56,
+        "text" : " And the world collapses in on itself and oceans boil over in the mountains sink",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30509397718641496,
+        "compression_ratio" : 2.0604651162790697,
+        "no_speech_prob" : 0.22088101506233215
+      },
+      {
+        "id" : 6,
+        "seek" : 2756,
+        "start" : 28.28,
+        "end" : 32.52,
+        "text" : " You know what I mean when dust comes to dust and earth to earth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3744915308577291,
+        "compression_ratio" : 1.7960199004975124,
+        "no_speech_prob" : 0.005971717648208141
+      },
+      {
+        "id" : 7,
+        "seek" : 2756,
+        "start" : 33.0,
+        "end" : 39.38,
+        "text" : " The nann just keeps tumbling down those stairs and all the memories are gone all the poems and all the songs",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3744915308577291,
+        "compression_ratio" : 1.7960199004975124,
+        "no_speech_prob" : 0.005971717648208141
+      },
+      {
+        "id" : 8,
+        "seek" : 2756,
+        "start" : 40.48,
+        "end" : 48.16,
+        "text" : " Are unwritten from memory from the history of the earth the nann keeps on tumbling for us, you know what I mean down the stairs of eternity",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3744915308577291,
+        "compression_ratio" : 1.7960199004975124,
+        "no_speech_prob" : 0.005971717648208141
+      },
+      {
+        "id" : 9,
+        "seek" : 2756,
+        "start" : 49.2,
+        "end" : 51.2,
+        "text" : " And maybe we never forget",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3744915308577291,
+        "compression_ratio" : 1.7960199004975124,
+        "no_speech_prob" : 0.005971717648208141
+      },
+      {
+        "id" : 10,
+        "seek" : 2756,
+        "start" : 52.16,
+        "end" : 54.16,
+        "text" : " Because when we forget",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3744915308577291,
+        "compression_ratio" : 1.7960199004975124,
+        "no_speech_prob" : 0.005971717648208141
+      },
+      {
+        "id" : 11,
+        "seek" : 5416,
+        "start" : 54.32,
+        "end" : 56.32,
+        "text" : " We don't tumble and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5373349538663539,
+        "compression_ratio" : 1.25,
+        "no_speech_prob" : 0.0010260454146191478
+      },
+      {
+        "id" : 12,
+        "seek" : 5416,
+        "start" : 56.56,
+        "end" : 58.56,
+        "text" : " Grammar tumble is not just for us",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5373349538663539,
+        "compression_ratio" : 1.25,
+        "no_speech_prob" : 0.0010260454146191478
+      },
+      {
+        "id" : 13,
+        "seek" : 5416,
+        "start" : 59.08,
+        "end" : 61.68,
+        "text" : " for the world the universe and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5373349538663539,
+        "compression_ratio" : 1.25,
+        "no_speech_prob" : 0.0010260454146191478
+      },
+      {
+        "id" : 14,
+        "seek" : 5416,
+        "start" : 62.84,
+        "end" : 64.84,
+        "text" : " Everything",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5373349538663539,
+        "compression_ratio" : 1.25,
+        "no_speech_prob" : 0.0010260454146191478
+      },
+      {
+        "id" : 15,
+        "seek" : 5416,
+        "start" : 65.24,
+        "end" : 67.24,
+        "text" : " Thank you nann",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5373349538663539,
+        "compression_ratio" : 1.25,
+        "no_speech_prob" : 0.0010260454146191478
+      },
+      {
+        "id" : 16,
+        "seek" : 5416,
+        "start" : 67.24,
+        "end" : 69.24,
+        "text" : " Thank you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5373349538663539,
+        "compression_ratio" : 1.25,
+        "no_speech_prob" : 0.0010260454146191478
+      },
+      {
+        "id" : 17,
+        "seek" : 8416,
+        "start" : 84.16,
+        "end" : 86.16,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8743990659713745,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.8626694679260254
+      }
+    ]
+  }
+}

@@ -1,0 +1,872 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkRLMEVqOVQzdmZZ",
+  "category" : "video",
+  "name" : "Apologies if you were offended",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/DK0Ej9T3vfY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/DK0Ej9T3vfY"
+    }
+  ],
+  "start_date" : 1523391403000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.18,
+        "text" : " Let me start this video by telling you guys a story, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30830708116588024,
+        "compression_ratio" : 1.5316455696202531,
+        "no_speech_prob" : 0.06085170432925224
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 3.18,
+        "end" : 7.84,
+        "text" : " There was once a guy he was OCD and he anytime",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30830708116588024,
+        "compression_ratio" : 1.5316455696202531,
+        "no_speech_prob" : 0.06085170432925224
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 7.92,
+        "end" : 13.08,
+        "text" : " Anything got a little icky he lost his mind. He washed his hands 20 times a day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30830708116588024,
+        "compression_ratio" : 1.5316455696202531,
+        "no_speech_prob" : 0.06085170432925224
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.08,
+        "end" : 20.6,
+        "text" : " He was OCD as you can imagine while one day in a public bathroom that his dick happened to touch the inside",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30830708116588024,
+        "compression_ratio" : 1.5316455696202531,
+        "no_speech_prob" : 0.06085170432925224
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.92,
+        "end" : 24.4,
+        "text" : " Of the toilet bowl. That's just life, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30830708116588024,
+        "compression_ratio" : 1.5316455696202531,
+        "no_speech_prob" : 0.06085170432925224
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 24.4,
+        "end" : 26.4,
+        "text" : " But for this guy with OCD",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30830708116588024,
+        "compression_ratio" : 1.5316455696202531,
+        "no_speech_prob" : 0.06085170432925224
+      },
+      {
+        "id" : 6,
+        "seek" : 2640,
+        "start" : 27.0,
+        "end" : 32.06,
+        "text" : " He couldn't handle it. He had to cut it off and restart his life as a woman now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23962665487218787,
+        "compression_ratio" : 1.5510204081632653,
+        "no_speech_prob" : 0.08765003085136414
+      },
+      {
+        "id" : 7,
+        "seek" : 2640,
+        "start" : 32.06,
+        "end" : 35.78,
+        "text" : " Obviously that's a bit of a overreaction. That's what makes it comical, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23962665487218787,
+        "compression_ratio" : 1.5510204081632653,
+        "no_speech_prob" : 0.08765003085136414
+      },
+      {
+        "id" : 8,
+        "seek" : 2640,
+        "start" : 35.8,
+        "end" : 40.12,
+        "text" : " Now that's the joke that I told on Twitter that had a lot of people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23962665487218787,
+        "compression_ratio" : 1.5510204081632653,
+        "no_speech_prob" : 0.08765003085136414
+      },
+      {
+        "id" : 9,
+        "seek" : 2640,
+        "start" : 40.56,
+        "end" : 47.08,
+        "text" : " Accusing me of being transphobic so this person wrote h3h3 is transphobic eight times in response to my tweet",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23962665487218787,
+        "compression_ratio" : 1.5510204081632653,
+        "no_speech_prob" : 0.08765003085136414
+      },
+      {
+        "id" : 10,
+        "seek" : 2640,
+        "start" : 47.08,
+        "end" : 49.56,
+        "text" : " And it has 300 retweets and a thousand likes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23962665487218787,
+        "compression_ratio" : 1.5510204081632653,
+        "no_speech_prob" : 0.08765003085136414
+      },
+      {
+        "id" : 11,
+        "seek" : 4956,
+        "start" : 49.56,
+        "end" : 53.66,
+        "text" : " The joke place put your hands in the air and loud out of Twitter",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 12,
+        "seek" : 4956,
+        "start" : 54.66,
+        "end" : 61.28,
+        "text" : " Now this is the first time I've ever been accused of being like racist or transphobic or anything like that one of these things",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 13,
+        "seek" : 4956,
+        "start" : 61.28,
+        "end" : 66.86,
+        "text" : " Where people get on the soapbox and they have to apologize and your sponsors find out and you two",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 14,
+        "seek" : 4956,
+        "start" : 66.86,
+        "end" : 68.16,
+        "text" : " It's like one of these things, right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 15,
+        "seek" : 4956,
+        "start" : 68.16,
+        "end" : 70.0,
+        "text" : " It didn't really escalate that far",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 16,
+        "seek" : 4956,
+        "start" : 70.0,
+        "end" : 74.04,
+        "text" : " But I felt like I was under the microscope of like hey",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 17,
+        "seek" : 4956,
+        "start" : 74.64,
+        "end" : 78.48,
+        "text" : " This guy's a big it or item. I don't know what people say",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3186535408826378,
+        "compression_ratio" : 1.6701754385964913,
+        "no_speech_prob" : 0.04256734251976013
+      },
+      {
+        "id" : 18,
+        "seek" : 7848,
+        "start" : 78.92,
+        "end" : 82.16,
+        "text" : " So I felt like I was thinking about it a lot because there's a really interesting",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19914281593178804,
+        "compression_ratio" : 1.7093023255813953,
+        "no_speech_prob" : 0.01173296757042408
+      },
+      {
+        "id" : 19,
+        "seek" : 7848,
+        "start" : 82.68,
+        "end" : 86.72,
+        "text" : " Experience for me and I felt like I wanted to talk about it a little bit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19914281593178804,
+        "compression_ratio" : 1.7093023255813953,
+        "no_speech_prob" : 0.01173296757042408
+      },
+      {
+        "id" : 20,
+        "seek" : 7848,
+        "start" : 86.72,
+        "end" : 92.32,
+        "text" : " So what I wrote was my dick just touched the inside of the toilet bowl. There's no other solution",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19914281593178804,
+        "compression_ratio" : 1.7093023255813953,
+        "no_speech_prob" : 0.01173296757042408
+      },
+      {
+        "id" : 21,
+        "seek" : 7848,
+        "start" : 92.32,
+        "end" : 98.12,
+        "text" : " I'm cutting my dick off. Apparently the part that was really offensive that I didn't realize was that underneath",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19914281593178804,
+        "compression_ratio" : 1.7093023255813953,
+        "no_speech_prob" : 0.01173296757042408
+      },
+      {
+        "id" : 22,
+        "seek" : 7848,
+        "start" : 98.12,
+        "end" : 103.68,
+        "text" : " I said my name is Alan. I'm changing my name from Ethan to Alan and thereby",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19914281593178804,
+        "compression_ratio" : 1.7093023255813953,
+        "no_speech_prob" : 0.01173296757042408
+      },
+      {
+        "id" : 23,
+        "seek" : 10368,
+        "start" : 103.68,
+        "end" : 108.32,
+        "text" : " Becoming starting my life as a female because my dick touched inside of the toilet bowl",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 24,
+        "seek" : 10368,
+        "start" : 108.32,
+        "end" : 111.72,
+        "text" : " Now I'm just gonna say this for the first time and I'll keep repeating it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 25,
+        "seek" : 10368,
+        "start" : 111.72,
+        "end" : 114.42,
+        "text" : " But just because you're offended by a joke",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 26,
+        "seek" : 10368,
+        "start" : 114.96,
+        "end" : 117.72,
+        "text" : " Doesn't mean that the joke was inherently offensive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 27,
+        "seek" : 10368,
+        "start" : 118.16,
+        "end" : 120.56,
+        "text" : " Let me turn on the side for the joke police",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 28,
+        "seek" : 10368,
+        "start" : 121.92,
+        "end" : 124.52,
+        "text" : " Just because you're offended by a joke",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 29,
+        "seek" : 10368,
+        "start" : 125.04,
+        "end" : 128.04,
+        "text" : " Doesn't mean that the joke was inherently offensive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 30,
+        "seek" : 10368,
+        "start" : 128.04,
+        "end" : 132.4,
+        "text" : " Maybe I'm being obtuse maybe I'm being transphobic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35525162436745383,
+        "compression_ratio" : 1.9820627802690582,
+        "no_speech_prob" : 0.13968759775161743
+      },
+      {
+        "id" : 31,
+        "seek" : 13240,
+        "start" : 132.4,
+        "end" : 135.84,
+        "text" : " I don't know but I don't feel like I am and that's what's so frustrating",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 32,
+        "seek" : 13240,
+        "start" : 136.24,
+        "end" : 141.04,
+        "text" : " Can somebody tell me what was so offensive about what I said that set off people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 33,
+        "seek" : 13240,
+        "start" : 141.32,
+        "end" : 145.84,
+        "text" : " To be so angry at me to feel like we were having such a misunderstanding",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 34,
+        "seek" : 13240,
+        "start" : 145.84,
+        "end" : 149.92,
+        "text" : " I want to read some other responses on Twitter and offer a response to them now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 35,
+        "seek" : 13240,
+        "start" : 149.92,
+        "end" : 155.16,
+        "text" : " So walk with me. Let's take a look when I found out that I was being accused of being transphobic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 36,
+        "seek" : 13240,
+        "start" : 155.16,
+        "end" : 157.76,
+        "text" : " I made a little bit of a goof and response to it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 37,
+        "seek" : 13240,
+        "start" : 157.76,
+        "end" : 162.24,
+        "text" : " Is it too late to take the joke back up? I've already chopped my weener off one person said the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2028408185810062,
+        "compression_ratio" : 1.7318611987381702,
+        "no_speech_prob" : 0.004941151477396488
+      },
+      {
+        "id" : 38,
+        "seek" : 16224,
+        "start" : 162.24,
+        "end" : 168.68,
+        "text" : " joke is transphobic the fact that he wouldn't make such a joke and not back down what told his transphobic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3271244168281555,
+        "compression_ratio" : 1.6540084388185654,
+        "no_speech_prob" : 0.0017170211067423224
+      },
+      {
+        "id" : 39,
+        "seek" : 16224,
+        "start" : 169.16,
+        "end" : 171.16,
+        "text" : " Proves that he has himself",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3271244168281555,
+        "compression_ratio" : 1.6540084388185654,
+        "no_speech_prob" : 0.0017170211067423224
+      },
+      {
+        "id" : 40,
+        "seek" : 16224,
+        "start" : 171.16,
+        "end" : 174.68,
+        "text" : " Transphobic boom dude got me every bit of the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3271244168281555,
+        "compression_ratio" : 1.6540084388185654,
+        "no_speech_prob" : 0.0017170211067423224
+      },
+      {
+        "id" : 41,
+        "seek" : 16224,
+        "start" : 176.36,
+        "end" : 181.84,
+        "text" : " Locked me up you guys I have committed a joke crime most people have said problematic shit before you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3271244168281555,
+        "compression_ratio" : 1.6540084388185654,
+        "no_speech_prob" : 0.0017170211067423224
+      },
+      {
+        "id" : 42,
+        "seek" : 16224,
+        "start" : 182.16,
+        "end" : 188.0,
+        "text" : " Policize you strive to do better people are mostly quick to forgive and honest mistakes and transgressions",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3271244168281555,
+        "compression_ratio" : 1.6540084388185654,
+        "no_speech_prob" : 0.0017170211067423224
+      },
+      {
+        "id" : 43,
+        "seek" : 18800,
+        "start" : 188.0,
+        "end" : 191.04,
+        "text" : " But nah Ethan had to be childish about this I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 44,
+        "seek" : 18800,
+        "start" : 191.68,
+        "end" : 194.68,
+        "text" : " Disagree I just fundamentally disagree",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 45,
+        "seek" : 18800,
+        "start" : 194.68,
+        "end" : 198.04,
+        "text" : " I feel that people are apologizing for too much shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 46,
+        "seek" : 18800,
+        "start" : 198.04,
+        "end" : 204.08,
+        "text" : " I personally feel and you'll know that if you've been watching our channel that people are too sensitive and demanding of apologies",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 47,
+        "seek" : 18800,
+        "start" : 204.56,
+        "end" : 206.32,
+        "text" : " over shit, so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 48,
+        "seek" : 18800,
+        "start" : 206.32,
+        "end" : 210.92,
+        "text" : " Maybe I am being childish about it. I mean the joke itself was childish to begin with",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 49,
+        "seek" : 18800,
+        "start" : 210.92,
+        "end" : 215.6,
+        "text" : " But to say that I owe you or anybody in apologies and is just it's not true",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25272851520114475,
+        "compression_ratio" : 1.7115384615384615,
+        "no_speech_prob" : 0.010709193535149097
+      },
+      {
+        "id" : 50,
+        "seek" : 21560,
+        "start" : 215.6,
+        "end" : 221.84,
+        "text" : " I don't and by the way, I noticed that you said transgressions that could be problematic if you think about it long enough",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23365762498643664,
+        "compression_ratio" : 1.6245353159851301,
+        "no_speech_prob" : 0.014879579655826092
+      },
+      {
+        "id" : 51,
+        "seek" : 21560,
+        "start" : 222.44,
+        "end" : 229.64,
+        "text" : " Seriously that that could be extremely problematic these jokes harm our community murder and suicide or ramp it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23365762498643664,
+        "compression_ratio" : 1.6245353159851301,
+        "no_speech_prob" : 0.014879579655826092
+      },
+      {
+        "id" : 52,
+        "seek" : 21560,
+        "start" : 229.88,
+        "end" : 234.92,
+        "text" : " I'm not offended. It's that it's important for me to fight to the end these tragedies",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23365762498643664,
+        "compression_ratio" : 1.6245353159851301,
+        "no_speech_prob" : 0.014879579655826092
+      },
+      {
+        "id" : 53,
+        "seek" : 21560,
+        "start" : 234.92,
+        "end" : 240.68,
+        "text" : " Okay, Martin Luther King just made a little joke about chopping my dick off not time to watch March on Washington DC",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23365762498643664,
+        "compression_ratio" : 1.6245353159851301,
+        "no_speech_prob" : 0.014879579655826092
+      },
+      {
+        "id" : 54,
+        "seek" : 24068,
+        "start" : 240.68,
+        "end" : 245.92,
+        "text" : " How's it in tragedy? It isn't tragedy for me have some sympathy might think touch the toilet bowl",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2397066530974015,
+        "compression_ratio" : 1.713768115942029,
+        "no_speech_prob" : 0.0330544151365757
+      },
+      {
+        "id" : 55,
+        "seek" : 24068,
+        "start" : 245.92,
+        "end" : 247.56,
+        "text" : " That's a tragedy now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2397066530974015,
+        "compression_ratio" : 1.713768115942029,
+        "no_speech_prob" : 0.0330544151365757
+      },
+      {
+        "id" : 56,
+        "seek" : 24068,
+        "start" : 247.56,
+        "end" : 252.56,
+        "text" : " Let me be clear that whatever I'm trying to say isn't meant to be a generalization about trans people that's ridiculous",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2397066530974015,
+        "compression_ratio" : 1.713768115942029,
+        "no_speech_prob" : 0.0330544151365757
+      },
+      {
+        "id" : 57,
+        "seek" : 24068,
+        "start" : 252.56,
+        "end" : 259.8,
+        "text" : " I'm talking about people who are easily offended by stuff and make and start slamming pots and pans trying to change the world",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2397066530974015,
+        "compression_ratio" : 1.713768115942029,
+        "no_speech_prob" : 0.0330544151365757
+      },
+      {
+        "id" : 58,
+        "seek" : 24068,
+        "start" : 259.8,
+        "end" : 261.4,
+        "text" : " So that it doesn't offend them",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2397066530974015,
+        "compression_ratio" : 1.713768115942029,
+        "no_speech_prob" : 0.0330544151365757
+      },
+      {
+        "id" : 59,
+        "seek" : 24068,
+        "start" : 261.4,
+        "end" : 265.88,
+        "text" : " But what what is this person's point that we can't make fun of trans people?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2397066530974015,
+        "compression_ratio" : 1.713768115942029,
+        "no_speech_prob" : 0.0330544151365757
+      },
+      {
+        "id" : 60,
+        "seek" : 26588,
+        "start" : 266.36,
+        "end" : 274.44,
+        "text" : " Everybody gets made fun of that's kind of like in a way in acceptance where people can joke about you and acknowledge you in that way kind of it puts you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2883986357216523,
+        "compression_ratio" : 1.6628352490421456,
+        "no_speech_prob" : 0.027184821665287018
+      },
+      {
+        "id" : 61,
+        "seek" : 26588,
+        "start" : 274.44,
+        "end" : 275.96,
+        "text" : " Makes you more human",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2883986357216523,
+        "compression_ratio" : 1.6628352490421456,
+        "no_speech_prob" : 0.027184821665287018
+      },
+      {
+        "id" : 62,
+        "seek" : 26588,
+        "start" : 275.96,
+        "end" : 281.08,
+        "text" : " By you pushing back and saying no, no, you can't joke about us if it it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2883986357216523,
+        "compression_ratio" : 1.6628352490421456,
+        "no_speech_prob" : 0.027184821665287018
+      },
+      {
+        "id" : 63,
+        "seek" : 26588,
+        "start" : 281.56,
+        "end" : 286.8,
+        "text" : " It almost does is counter productive for you because we all get made fun of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2883986357216523,
+        "compression_ratio" : 1.6628352490421456,
+        "no_speech_prob" : 0.027184821665287018
+      },
+      {
+        "id" : 64,
+        "seek" : 26588,
+        "start" : 287.32,
+        "end" : 293.08,
+        "text" : " Imagine if I got offended by every little judo that I saw on the internet, which is by the way every single day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2883986357216523,
+        "compression_ratio" : 1.6628352490421456,
+        "no_speech_prob" : 0.027184821665287018
+      },
+      {
+        "id" : 65,
+        "seek" : 29308,
+        "start" : 293.96,
+        "end" : 296.76,
+        "text" : " I wouldn't be able to will get out of my bed in the morning",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1660326746583895,
+        "compression_ratio" : 1.65625,
+        "no_speech_prob" : 0.01411438174545765
+      },
+      {
+        "id" : 66,
+        "seek" : 29308,
+        "start" : 296.76,
+        "end" : 302.6,
+        "text" : " I feel like I can't express myself genuinely and we're living in a society where there's eggshells everywhere",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1660326746583895,
+        "compression_ratio" : 1.65625,
+        "no_speech_prob" : 0.01411438174545765
+      },
+      {
+        "id" : 67,
+        "seek" : 29308,
+        "start" : 302.6,
+        "end" : 308.12,
+        "text" : " We're all tip tolling around and it's fucking stupid my intention wasn't to be offensive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1660326746583895,
+        "compression_ratio" : 1.65625,
+        "no_speech_prob" : 0.01411438174545765
+      },
+      {
+        "id" : 68,
+        "seek" : 29308,
+        "start" : 308.12,
+        "end" : 311.92,
+        "text" : " So can you just accept it on that face value if you're looking for an apology?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1660326746583895,
+        "compression_ratio" : 1.65625,
+        "no_speech_prob" : 0.01411438174545765
+      },
+      {
+        "id" : 69,
+        "seek" : 29308,
+        "start" : 311.92,
+        "end" : 317.32,
+        "text" : " You're not gonna get it, but hopefully at least maybe you can understand where I'm coming from a little bit guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1660326746583895,
+        "compression_ratio" : 1.65625,
+        "no_speech_prob" : 0.01411438174545765
+      },
+      {
+        "id" : 70,
+        "seek" : 29308,
+        "start" : 317.32,
+        "end" : 321.12,
+        "text" : " Do not go out of your way to find who made these comments and to go harass them",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1660326746583895,
+        "compression_ratio" : 1.65625,
+        "no_speech_prob" : 0.01411438174545765
+      },
+      {
+        "id" : 71,
+        "seek" : 32112,
+        "start" : 321.12,
+        "end" : 325.92,
+        "text" : " These are genuine people expressing genuine feelings that I do respect",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16367641760378468,
+        "compression_ratio" : 1.7095435684647302,
+        "no_speech_prob" : 0.0037919681053608656
+      },
+      {
+        "id" : 72,
+        "seek" : 32112,
+        "start" : 326.48,
+        "end" : 331.92,
+        "text" : " I just think that I should be able to respond and defend myself. That's all do not harass these people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16367641760378468,
+        "compression_ratio" : 1.7095435684647302,
+        "no_speech_prob" : 0.0037919681053608656
+      },
+      {
+        "id" : 73,
+        "seek" : 32112,
+        "start" : 331.92,
+        "end" : 335.76,
+        "text" : " These are good genuine people who are just doing what they think is the best, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16367641760378468,
+        "compression_ratio" : 1.7095435684647302,
+        "no_speech_prob" : 0.0037919681053608656
+      },
+      {
+        "id" : 74,
+        "seek" : 32112,
+        "start" : 336.32,
+        "end" : 342.32,
+        "text" : " And guys, I love you, you know genitalia dangling or not whatever's going on between your legs none of my business",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16367641760378468,
+        "compression_ratio" : 1.7095435684647302,
+        "no_speech_prob" : 0.0037919681053608656
+      },
+      {
+        "id" : 75,
+        "seek" : 32112,
+        "start" : 343.28,
+        "end" : 345.28,
+        "text" : " I support you and I love you either way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16367641760378468,
+        "compression_ratio" : 1.7095435684647302,
+        "no_speech_prob" : 0.0037919681053608656
+      }
+    ]
+  }
+}

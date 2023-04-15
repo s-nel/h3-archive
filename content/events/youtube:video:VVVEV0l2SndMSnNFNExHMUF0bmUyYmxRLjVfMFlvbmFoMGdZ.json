@@ -1,0 +1,839 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjVfMFlvbmFoMGdZ",
+  "category" : "video",
+  "name" : "cooking tutorial - eggie sammie - how to cook an egg sandwich h3h3 style - #EmerilLagasse",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/5_0Yonah0gY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/5_0Yonah0gY"
+    }
+  ],
+  "start_date" : 1371913964000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.0,
+        "text" : " We're gonna cook a little something that's gonna be fast. It's gonna be easy. It's gonna be delicious.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 7.0,
+        "text" : " So I hear it's like you need some bread. Okay? You need a knife.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.0,
+        "end" : 11.0,
+        "text" : " You need a knife to cut the bread.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 15.0,
+        "text" : " I freeze my bread because I like it to stay fresh.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 18.0,
+        "text" : " If you're not in it, you also freeze your bread.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 21.0,
+        "text" : " You don't freeze your bread, you're fucking asshole trying to screw you off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 26.0,
+        "text" : " Sorry about that. I didn't mean that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2842538515726725,
+        "compression_ratio" : 1.845132743362832,
+        "no_speech_prob" : 0.08677104860544205
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 26.0,
+        "end" : 28.0,
+        "text" : " Of course it is. Okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 29.0,
+        "end" : 31.0,
+        "text" : " Here comes the magic.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 9,
+        "seek" : 2600,
+        "start" : 31.0,
+        "end" : 34.0,
+        "text" : " You guys are not gonna ever believe what's about to happen next.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 10,
+        "seek" : 2600,
+        "start" : 34.0,
+        "end" : 38.0,
+        "text" : " We're cooking egg sandwich for the crack of the egg shell. Guess what?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 11,
+        "seek" : 2600,
+        "start" : 39.0,
+        "end" : 43.0,
+        "text" : " Oh fuck. That wasn't supposed to happen.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 12,
+        "seek" : 2600,
+        "start" : 43.0,
+        "end" : 49.0,
+        "text" : " Okay guys, this is when your improvise. This is called creative problem solving. Come over here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 13,
+        "seek" : 2600,
+        "start" : 49.0,
+        "end" : 54.0,
+        "text" : " Now you gotta make sure that the egg stays on the bread. So obviously we've made a mistake.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18977785977450284,
+        "compression_ratio" : 1.5355805243445693,
+        "no_speech_prob" : 0.03678331896662712
+      },
+      {
+        "id" : 14,
+        "seek" : 5400,
+        "start" : 55.0,
+        "end" : 60.0,
+        "text" : " So use a flat surface. But basically here we go. This looks good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20331983650680138,
+        "compression_ratio" : 1.5766129032258065,
+        "no_speech_prob" : 0.0072807068936526775
+      },
+      {
+        "id" : 15,
+        "seek" : 5400,
+        "start" : 60.0,
+        "end" : 64.0,
+        "text" : " Okay, we're gonna keep it on there. We're gonna make sure that egg stays on the bread.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20331983650680138,
+        "compression_ratio" : 1.5766129032258065,
+        "no_speech_prob" : 0.0072807068936526775
+      },
+      {
+        "id" : 16,
+        "seek" : 5400,
+        "start" : 64.0,
+        "end" : 67.0,
+        "text" : " Great. That worked out pretty good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20331983650680138,
+        "compression_ratio" : 1.5766129032258065,
+        "no_speech_prob" : 0.0072807068936526775
+      },
+      {
+        "id" : 17,
+        "seek" : 5400,
+        "start" : 67.0,
+        "end" : 73.0,
+        "text" : " We lost a little bit of the egg, but we have the yolk, stone, and well we lost about half the egg.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20331983650680138,
+        "compression_ratio" : 1.5766129032258065,
+        "no_speech_prob" : 0.0072807068936526775
+      },
+      {
+        "id" : 18,
+        "seek" : 5400,
+        "start" : 73.0,
+        "end" : 78.0,
+        "text" : " But that's collateral damage. Here it is. So bone apatite.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20331983650680138,
+        "compression_ratio" : 1.5766129032258065,
+        "no_speech_prob" : 0.0072807068936526775
+      },
+      {
+        "id" : 19,
+        "seek" : 5400,
+        "start" : 79.0,
+        "end" : 81.0,
+        "text" : " Now I'm just kidding. Just kidding you guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20331983650680138,
+        "compression_ratio" : 1.5766129032258065,
+        "no_speech_prob" : 0.0072807068936526775
+      },
+      {
+        "id" : 20,
+        "seek" : 8100,
+        "start" : 81.0,
+        "end" : 85.0,
+        "text" : " Okay? The one. Oh, oh. Who thought of this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 21,
+        "seek" : 8100,
+        "start" : 85.0,
+        "end" : 89.0,
+        "text" : " What's happening? What's he gonna do next? What's he gonna do next?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 22,
+        "seek" : 8100,
+        "start" : 89.0,
+        "end" : 92.0,
+        "text" : " How's he gonna cook that? We're gonna put it in the microwave.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 23,
+        "seek" : 8100,
+        "start" : 92.0,
+        "end" : 95.0,
+        "text" : " I don't know how long.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 24,
+        "seek" : 8100,
+        "start" : 95.0,
+        "end" : 99.0,
+        "text" : " So you're waiting to see how long it's cooking.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 25,
+        "seek" : 8100,
+        "start" : 99.0,
+        "end" : 104.0,
+        "text" : " Usually you've got this kind of iron plate to make sure you don't get cancer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 26,
+        "seek" : 8100,
+        "start" : 104.0,
+        "end" : 108.0,
+        "text" : " So what you wanna do is you do like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19770959445408412,
+        "compression_ratio" : 1.721698113207547,
+        "no_speech_prob" : 0.0163587536662817
+      },
+      {
+        "id" : 27,
+        "seek" : 10800,
+        "start" : 108.0,
+        "end" : 114.0,
+        "text" : " Then you can see what's going on. So you gotta stand there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2438719007703993,
+        "compression_ratio" : 1.541899441340782,
+        "no_speech_prob" : 0.0035822009667754173
+      },
+      {
+        "id" : 28,
+        "seek" : 10800,
+        "start" : 114.0,
+        "end" : 117.0,
+        "text" : " Just make sure it doesn't overcook. So keep rocking.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2438719007703993,
+        "compression_ratio" : 1.541899441340782,
+        "no_speech_prob" : 0.0035822009667754173
+      },
+      {
+        "id" : 29,
+        "seek" : 10800,
+        "start" : 117.0,
+        "end" : 123.0,
+        "text" : " Just gotta keep moving. If you get the right frequency, you can really see like it's not even there. It's amazing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2438719007703993,
+        "compression_ratio" : 1.541899441340782,
+        "no_speech_prob" : 0.0035822009667754173
+      },
+      {
+        "id" : 30,
+        "seek" : 10800,
+        "start" : 130.0,
+        "end" : 132.0,
+        "text" : " Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2438719007703993,
+        "compression_ratio" : 1.541899441340782,
+        "no_speech_prob" : 0.0035822009667754173
+      },
+      {
+        "id" : 31,
+        "seek" : 10800,
+        "start" : 133.0,
+        "end" : 135.0,
+        "text" : " Here, give me a look at how it looks here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2438719007703993,
+        "compression_ratio" : 1.541899441340782,
+        "no_speech_prob" : 0.0035822009667754173
+      },
+      {
+        "id" : 32,
+        "seek" : 13500,
+        "start" : 135.0,
+        "end" : 139.0,
+        "text" : " So as you can see, it doesn't look appetizing yet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2531474398583481,
+        "compression_ratio" : 1.6195652173913044,
+        "no_speech_prob" : 0.011663718149065971
+      },
+      {
+        "id" : 33,
+        "seek" : 13500,
+        "start" : 139.0,
+        "end" : 145.0,
+        "text" : " I wouldn't eat that. But, well, here's a nice little secret here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2531474398583481,
+        "compression_ratio" : 1.6195652173913044,
+        "no_speech_prob" : 0.011663718149065971
+      },
+      {
+        "id" : 34,
+        "seek" : 13500,
+        "start" : 145.0,
+        "end" : 149.0,
+        "text" : " What's that? Oh. Well, cheese. Where does this come from?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2531474398583481,
+        "compression_ratio" : 1.6195652173913044,
+        "no_speech_prob" : 0.011663718149065971
+      },
+      {
+        "id" : 35,
+        "seek" : 13500,
+        "start" : 149.0,
+        "end" : 154.0,
+        "text" : " Who put this out? Cheese. Well, I like cheese.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2531474398583481,
+        "compression_ratio" : 1.6195652173913044,
+        "no_speech_prob" : 0.011663718149065971
+      },
+      {
+        "id" : 36,
+        "seek" : 13500,
+        "start" : 154.0,
+        "end" : 160.0,
+        "text" : " I'm gonna use a lot. I'm gonna put all of it. I'm gonna put a lot of cheese.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2531474398583481,
+        "compression_ratio" : 1.6195652173913044,
+        "no_speech_prob" : 0.011663718149065971
+      },
+      {
+        "id" : 37,
+        "seek" : 16000,
+        "start" : 161.0,
+        "end" : 164.0,
+        "text" : " I don't really like eggs. So I like to put a lot of cheese.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1135114860534668,
+        "compression_ratio" : 1.7318435754189945,
+        "no_speech_prob" : 0.028161756694316864
+      },
+      {
+        "id" : 38,
+        "seek" : 16000,
+        "start" : 164.0,
+        "end" : 166.0,
+        "text" : " So I can't taste the egg.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1135114860534668,
+        "compression_ratio" : 1.7318435754189945,
+        "no_speech_prob" : 0.028161756694316864
+      },
+      {
+        "id" : 39,
+        "seek" : 16000,
+        "start" : 166.0,
+        "end" : 170.0,
+        "text" : " It's a little weird multiple thing. That's weird. But that's why I like to eat my eggs.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1135114860534668,
+        "compression_ratio" : 1.7318435754189945,
+        "no_speech_prob" : 0.028161756694316864
+      },
+      {
+        "id" : 40,
+        "seek" : 16000,
+        "start" : 170.0,
+        "end" : 174.0,
+        "text" : " I cover it. It's so much cheese that I can't taste the egg anymore.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1135114860534668,
+        "compression_ratio" : 1.7318435754189945,
+        "no_speech_prob" : 0.028161756694316864
+      },
+      {
+        "id" : 41,
+        "seek" : 16000,
+        "start" : 174.0,
+        "end" : 178.0,
+        "text" : " Well, strange. So people say that's strange.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1135114860534668,
+        "compression_ratio" : 1.7318435754189945,
+        "no_speech_prob" : 0.028161756694316864
+      },
+      {
+        "id" : 42,
+        "seek" : 16000,
+        "start" : 178.0,
+        "end" : 181.0,
+        "text" : " I don't know. Let's go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1135114860534668,
+        "compression_ratio" : 1.7318435754189945,
+        "no_speech_prob" : 0.028161756694316864
+      },
+      {
+        "id" : 43,
+        "seek" : 18100,
+        "start" : 182.0,
+        "end" : 183.0,
+        "text" : " Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 44,
+        "seek" : 18100,
+        "start" : 187.0,
+        "end" : 189.0,
+        "text" : " Okay. Little salt.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 45,
+        "seek" : 18100,
+        "start" : 189.0,
+        "end" : 191.0,
+        "text" : " Little devil Luria.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 46,
+        "seek" : 18100,
+        "start" : 191.0,
+        "end" : 193.0,
+        "text" : " Little devil salt.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 47,
+        "seek" : 18100,
+        "start" : 195.0,
+        "end" : 198.0,
+        "text" : " A lot of stages in this. Thought it was easier.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 48,
+        "seek" : 18100,
+        "start" : 198.0,
+        "end" : 200.0,
+        "text" : " Here we go. Ready?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 49,
+        "seek" : 18100,
+        "start" : 200.0,
+        "end" : 202.0,
+        "text" : " It's very, it's really hot, guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 50,
+        "seek" : 18100,
+        "start" : 202.0,
+        "end" : 204.0,
+        "text" : " Woo!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 51,
+        "seek" : 18100,
+        "start" : 204.0,
+        "end" : 207.0,
+        "text" : " If you want to put it on its side, because the bottom is real steamy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 52,
+        "seek" : 18100,
+        "start" : 207.0,
+        "end" : 210.0,
+        "text" : " It's gonna get soggy if you don't flip it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3312982177734375,
+        "compression_ratio" : 1.46875,
+        "no_speech_prob" : 0.01827714964747429
+      },
+      {
+        "id" : 53,
+        "seek" : 21000,
+        "start" : 210.0,
+        "end" : 217.0,
+        "text" : " You want to melt the ingredients. Now clean up like a good boy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 54,
+        "seek" : 21000,
+        "start" : 217.0,
+        "end" : 220.0,
+        "text" : " You don't want to leave a mess for money.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 55,
+        "seek" : 21000,
+        "start" : 220.0,
+        "end" : 223.0,
+        "text" : " Don't make sure the kitchen's nice and mommy gets home.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 56,
+        "seek" : 21000,
+        "start" : 223.0,
+        "end" : 225.0,
+        "text" : " Flip it over. Keep it dry.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 57,
+        "seek" : 21000,
+        "start" : 227.0,
+        "end" : 231.0,
+        "text" : " Dare me to cut it into it. You think it's gonna look good?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 58,
+        "seek" : 21000,
+        "start" : 231.0,
+        "end" : 233.0,
+        "text" : " Mm-hmm.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 59,
+        "seek" : 21000,
+        "start" : 233.0,
+        "end" : 236.0,
+        "text" : " Let's cut it to this dirty dude. This dirty deed.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2378906011581421,
+        "compression_ratio" : 1.50990099009901,
+        "no_speech_prob" : 0.0034229953307658434
+      },
+      {
+        "id" : 60,
+        "seek" : 23600,
+        "start" : 237.0,
+        "end" : 240.0,
+        "text" : " It's a little chewy here, but take a look here, guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 61,
+        "seek" : 23600,
+        "start" : 240.0,
+        "end" : 243.0,
+        "text" : " Oh! Wow, we...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 62,
+        "seek" : 23600,
+        "start" : 243.0,
+        "end" : 246.0,
+        "text" : " Guys, hold on one sec here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 63,
+        "seek" : 23600,
+        "start" : 246.0,
+        "end" : 249.0,
+        "text" : " Hashtag Emrol Agassi Bam!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 64,
+        "seek" : 23600,
+        "start" : 249.0,
+        "end" : 253.0,
+        "text" : " Right? Look at that. That's a nice looking sandwich, huh?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 65,
+        "seek" : 23600,
+        "start" : 253.0,
+        "end" : 256.0,
+        "text" : " Oh boy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 66,
+        "seek" : 23600,
+        "start" : 259.0,
+        "end" : 261.0,
+        "text" : " Let's go ahead and...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 67,
+        "seek" : 23600,
+        "start" : 261.0,
+        "end" : 263.0,
+        "text" : " Hey, thanks for watching our home, everybody.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3409847217601734,
+        "compression_ratio" : 1.3403141361256545,
+        "no_speech_prob" : 0.030886439606547356
+      },
+      {
+        "id" : 68,
+        "seek" : 26300,
+        "start" : 263.0,
+        "end" : 266.0,
+        "text" : " Let's go ahead and have a bite and see how it turned out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746397336324056,
+        "compression_ratio" : 1.2233009708737863,
+        "no_speech_prob" : 0.014648672193288803
+      },
+      {
+        "id" : 69,
+        "seek" : 26300,
+        "start" : 266.0,
+        "end" : 269.0,
+        "text" : " Looks good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746397336324056,
+        "compression_ratio" : 1.2233009708737863,
+        "no_speech_prob" : 0.014648672193288803
+      },
+      {
+        "id" : 70,
+        "seek" : 26300,
+        "start" : 271.0,
+        "end" : 273.0,
+        "text" : " Alright, see you guys later.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746397336324056,
+        "compression_ratio" : 1.2233009708737863,
+        "no_speech_prob" : 0.014648672193288803
+      },
+      {
+        "id" : 71,
+        "seek" : 26300,
+        "start" : 273.0,
+        "end" : 276.0,
+        "text" : " Bye-bye now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746397336324056,
+        "compression_ratio" : 1.2233009708737863,
+        "no_speech_prob" : 0.014648672193288803
+      },
+      {
+        "id" : 72,
+        "seek" : 26300,
+        "start" : 278.0,
+        "end" : 280.0,
+        "text" : " See you later.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746397336324056,
+        "compression_ratio" : 1.2233009708737863,
+        "no_speech_prob" : 0.014648672193288803
+      }
+    ]
+  }
+}

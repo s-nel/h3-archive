@@ -1,0 +1,13 @@
+{
+  "person_id" : "jwellens",
+  "category" : "guest",
+  "first_name" : "Jesse",
+  "last_name" : "Wellens",
+  "display_name" : null,
+  "thumb" : "/people/jwellens.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

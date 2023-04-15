@@ -1,0 +1,36 @@
+{
+  "steamy_id" : "biggest-covidiot-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "chanks"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jrogan"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "jpeterson"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "omarajpetty"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Covidiot",
+  "description" : null,
+  "year" : 2021
+}

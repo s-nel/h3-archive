@@ -1,0 +1,12 @@
+{
+  "person_id" : null,
+  "category" : "crew",
+  "first_name" : "Cameron",
+  "last_name" : "Grant",
+  "display_name" : "Cam",
+  "thumb" : "/people/cgrant.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "smay",
+  "category" : "lore",
+  "first_name" : "Sienna",
+  "last_name" : "May",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

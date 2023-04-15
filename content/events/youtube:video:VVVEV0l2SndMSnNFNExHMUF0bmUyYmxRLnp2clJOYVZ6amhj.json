@@ -1,0 +1,65 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnp2clJOYVZ6amhj",
+  "category" : "video",
+  "name" : "done with that exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/zvrRNaVzjhc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/zvrRNaVzjhc"
+    }
+  ],
+  "start_date" : 1385815563000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.2,
+        "text" : " So this is a one of a kind piece. There's no other one like this particular one in the world and you can see the tracks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2783389342458625,
+        "compression_ratio" : 1.3130434782608695,
+        "no_speech_prob" : 0.2108200341463089
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 13.8,
+        "end" : 15.8,
+        "text" : " It records much more accurately",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2783389342458625,
+        "compression_ratio" : 1.3130434782608695,
+        "no_speech_prob" : 0.2108200341463089
+      },
+      {
+        "id" : 2,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 33.0,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9545956254005432,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.8535500764846802
+      }
+    ]
+  }
+}

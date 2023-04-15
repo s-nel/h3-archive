@@ -1,0 +1,300 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjUzR1VsQWNQXzNj",
+  "category" : "video",
+  "name" : "How To Chub & Tuck",
+  "description" : "Thanks so much to Broodism for making this!\n\nhttp://broodismdraws.tumblr.com/\n\nWatch the Ethan and Hila Playlist --►https://goo.gl/rn5oht\n\nMusic credits:\n\nBanjo Kazooie cover\nhttps://www.youtube.com/watch?v=b4gWCHfVIhM\n\nh3h3 Orchestral Cover:\nhttps://www.youtube.com/watch?v=uiyIZNeeHa4\n\nh3h3 remix by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nFacebook..................►https://facebook.com/H3h3productions\nHila's Twitter..............►https://twitter.com/hilakleinh3\nEthan's Twitter..........►https://twitter.com/h3h3productions\nInstagram.................►http://instagram.com/h3h3productions\nHila's Instragram....►https://www.instagram.com/kleinhila\nSpreadshirt...............►http://h3h3productions.spreadshirt.com\nHila's Art....................►http://hilaklein.com\nSubreddit..................►http://reddit.com/r/h3h3productions",
+  "thumb" : "https://i.ytimg.com/vi/53GUlAcP_3c/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/53GUlAcP_3c"
+    }
+  ],
+  "start_date" : 1470416073000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 24.92,
+        "text" : " Guys, the chub and tuck is a simple maneuver.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43399501668995827,
+        "compression_ratio" : 1.058139534883721,
+        "no_speech_prob" : 0.024522840976715088
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 24.92,
+        "end" : 25.92,
+        "text" : " Okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43399501668995827,
+        "compression_ratio" : 1.058139534883721,
+        "no_speech_prob" : 0.024522840976715088
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 25.92,
+        "end" : 28.64,
+        "text" : " It only requires two basic ingredients.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43399501668995827,
+        "compression_ratio" : 1.058139534883721,
+        "no_speech_prob" : 0.024522840976715088
+      },
+      {
+        "id" : 3,
+        "seek" : 2864,
+        "start" : 28.64,
+        "end" : 31.8,
+        "text" : " You've got your chub.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 4,
+        "seek" : 2864,
+        "start" : 31.8,
+        "end" : 33.4,
+        "text" : " You've got your tuck.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 5,
+        "seek" : 2864,
+        "start" : 33.4,
+        "end" : 36.24,
+        "text" : " Guys, it's elementary.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 6,
+        "seek" : 2864,
+        "start" : 36.24,
+        "end" : 37.24,
+        "text" : " Okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 7,
+        "seek" : 2864,
+        "start" : 37.24,
+        "end" : 38.24,
+        "text" : " This is one on one here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 8,
+        "seek" : 2864,
+        "start" : 38.24,
+        "end" : 41.24,
+        "text" : " Now, the perfect chub and tuck is mid-waste.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 9,
+        "seek" : 2864,
+        "start" : 41.24,
+        "end" : 43.24,
+        "text" : " The waste needs to be...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 10,
+        "seek" : 2864,
+        "start" : 43.24,
+        "end" : 44.24,
+        "text" : " Hi.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 11,
+        "seek" : 2864,
+        "start" : 44.24,
+        "end" : 52.48,
+        "text" : " Now, unfortunately...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 12,
+        "seek" : 2864,
+        "start" : 52.48,
+        "end" : 56.88,
+        "text" : " Not everyone is born with a beautiful chub and tuck body and sorry to break it reality",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 13,
+        "seek" : 2864,
+        "start" : 56.88,
+        "end" : 57.88,
+        "text" : " to you guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35470672607421877,
+        "compression_ratio" : 1.5585106382978724,
+        "no_speech_prob" : 0.015989843755960464
+      },
+      {
+        "id" : 14,
+        "seek" : 5788,
+        "start" : 57.88,
+        "end" : 58.88,
+        "text" : " Okay, life's not fair.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 15,
+        "seek" : 5788,
+        "start" : 58.88,
+        "end" : 61.72,
+        "text" : " Okay, Eelie, you don't get you fuck that up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 16,
+        "seek" : 5788,
+        "start" : 61.72,
+        "end" : 63.04,
+        "text" : " You've got to work on your mimics.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 17,
+        "seek" : 5788,
+        "start" : 63.04,
+        "end" : 64.04,
+        "text" : " I know, I try.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 18,
+        "seek" : 5788,
+        "start" : 64.04,
+        "end" : 65.04,
+        "text" : " It's embarrassing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 19,
+        "seek" : 5788,
+        "start" : 65.04,
+        "end" : 74.32,
+        "text" : " We're trying to sell this chub.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 20,
+        "seek" : 5788,
+        "start" : 74.32,
+        "end" : 75.64,
+        "text" : " I mean, just keep working at it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 21,
+        "seek" : 5788,
+        "start" : 75.64,
+        "end" : 78.52,
+        "text" : " A perfect body takes a lot of work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 22,
+        "seek" : 5788,
+        "start" : 78.52,
+        "end" : 83.16,
+        "text" : " Takes a lot of work and a lot of commitment.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.45606067657470706,
+        "compression_ratio" : 1.4842105263157894,
+        "no_speech_prob" : 0.1098063737154007
+      },
+      {
+        "id" : 23,
+        "seek" : 8316,
+        "start" : 83.16,
+        "end" : 90.16,
+        "text" : " You've taken a two-finesis fucking stupid.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8892847696940104,
+        "compression_ratio" : 0.84,
+        "no_speech_prob" : 0.4088357388973236
+      }
+    ]
+  }
+}

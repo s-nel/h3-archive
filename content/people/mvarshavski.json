@@ -1,0 +1,13 @@
+{
+  "person_id" : "mvarshavski",
+  "category" : "lore",
+  "first_name" : "Mikhail",
+  "last_name" : "Varshavski",
+  "display_name" : "Doctor Mike",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

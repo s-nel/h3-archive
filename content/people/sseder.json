@@ -1,0 +1,13 @@
+{
+  "person_id" : "sseder",
+  "category" : "guest",
+  "first_name" : "Samuel",
+  "last_name" : "Seder",
+  "display_name" : "Sam Seder",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "sdavis",
+  "category" : "guest",
+  "first_name" : "Sebastian",
+  "last_name" : "Davis",
+  "display_name" : "Sebastian Davis",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

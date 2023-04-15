@@ -1,0 +1,20 @@
+{
+  "event_id" : "crew:start:layad",
+  "category" : "major",
+  "name" : "Lena joins the crew",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1657843200000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "layad",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "gtrainor",
+  "category" : "lore",
+  "first_name" : "Gerald",
+  "last_name" : "Trainor",
+  "display_name" : "Jerry Trainor",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

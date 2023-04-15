@@ -1,0 +1,652 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkN2Q2tBNFRKbE84",
+  "category" : "video",
+  "name" : "Don't mess with Tommy",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/CvCkA4TJlO8/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/CvCkA4TJlO8"
+    }
+  ],
+  "start_date" : 1408017999000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 10.0,
+        "text" : " What do you see? What do you see? What do you see?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39181020182947957,
+        "compression_ratio" : 1.5593220338983051,
+        "no_speech_prob" : 0.37754541635513306
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 18.0,
+        "text" : " That's a man on fire. That's why they call me Tony.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39181020182947957,
+        "compression_ratio" : 1.5593220338983051,
+        "no_speech_prob" : 0.37754541635513306
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 25.0,
+        "text" : " Hey, when it calls me Tony, get your bopped because that's not my name. I'm Tony.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39181020182947957,
+        "compression_ratio" : 1.5593220338983051,
+        "no_speech_prob" : 0.37754541635513306
+      },
+      {
+        "id" : 3,
+        "seek" : 2500,
+        "start" : 25.0,
+        "end" : 31.0,
+        "text" : " And I don't do a small change. Here's a little tip from Tony Tube Tone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1593344445322074,
+        "compression_ratio" : 1.5765765765765767,
+        "no_speech_prob" : 0.04106980562210083
+      },
+      {
+        "id" : 4,
+        "seek" : 2500,
+        "start" : 31.0,
+        "end" : 37.0,
+        "text" : " You don't need to slay down to do crunches. You can do crunches when you're standing up guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1593344445322074,
+        "compression_ratio" : 1.5765765765765767,
+        "no_speech_prob" : 0.04106980562210083
+      },
+      {
+        "id" : 5,
+        "seek" : 2500,
+        "start" : 37.0,
+        "end" : 45.0,
+        "text" : " When you're in the bank, you know, wait for the teller. If you decide not to blast through the line,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1593344445322074,
+        "compression_ratio" : 1.5765765765765767,
+        "no_speech_prob" : 0.04106980562210083
+      },
+      {
+        "id" : 6,
+        "seek" : 2500,
+        "start" : 45.0,
+        "end" : 49.0,
+        "text" : " that's what I usually do. But if you've got time and you feel a little bit foolish,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1593344445322074,
+        "compression_ratio" : 1.5765765765765767,
+        "no_speech_prob" : 0.04106980562210083
+      },
+      {
+        "id" : 7,
+        "seek" : 4900,
+        "start" : 49.0,
+        "end" : 59.0,
+        "text" : " waiting behind those plebian, no muscle jumps.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17844574487031395,
+        "compression_ratio" : 1.4409937888198758,
+        "no_speech_prob" : 0.023768244311213493
+      },
+      {
+        "id" : 8,
+        "seek" : 4900,
+        "start" : 59.0,
+        "end" : 64.0,
+        "text" : " You do squats. You just do squats while you're in line like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17844574487031395,
+        "compression_ratio" : 1.4409937888198758,
+        "no_speech_prob" : 0.023768244311213493
+      },
+      {
+        "id" : 9,
+        "seek" : 4900,
+        "start" : 64.0,
+        "end" : 67.0,
+        "text" : " And that's how you get the tone that you see here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17844574487031395,
+        "compression_ratio" : 1.4409937888198758,
+        "no_speech_prob" : 0.023768244311213493
+      },
+      {
+        "id" : 10,
+        "seek" : 4900,
+        "start" : 67.0,
+        "end" : 73.0,
+        "text" : " Hold on here guys. I need to drink a little bit of my protein urine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17844574487031395,
+        "compression_ratio" : 1.4409937888198758,
+        "no_speech_prob" : 0.023768244311213493
+      },
+      {
+        "id" : 11,
+        "seek" : 7300,
+        "start" : 73.0,
+        "end" : 82.0,
+        "text" : " That's what keeps Tommy. That's what keeps Tommy fresh.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22828174772716703,
+        "compression_ratio" : 1.826086956521739,
+        "no_speech_prob" : 0.013189389370381832
+      },
+      {
+        "id" : 12,
+        "seek" : 7300,
+        "start" : 82.0,
+        "end" : 87.0,
+        "text" : " That's what keeps Tommy strong. That's what keeps Tommy strong.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22828174772716703,
+        "compression_ratio" : 1.826086956521739,
+        "no_speech_prob" : 0.013189389370381832
+      },
+      {
+        "id" : 13,
+        "seek" : 7300,
+        "start" : 87.0,
+        "end" : 92.0,
+        "text" : " And rebellious. You want to be a fire like Tommy, too, Tony?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22828174772716703,
+        "compression_ratio" : 1.826086956521739,
+        "no_speech_prob" : 0.013189389370381832
+      },
+      {
+        "id" : 14,
+        "seek" : 7300,
+        "start" : 92.0,
+        "end" : 102.0,
+        "text" : " You got to learn to be repel.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22828174772716703,
+        "compression_ratio" : 1.826086956521739,
+        "no_speech_prob" : 0.013189389370381832
+      },
+      {
+        "id" : 15,
+        "seek" : 10200,
+        "start" : 102.0,
+        "end" : 107.0,
+        "text" : " This is where a lot of my power comes from. Take a look at the leg, guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15481491281528664,
+        "compression_ratio" : 1.6292682926829267,
+        "no_speech_prob" : 0.015233558602631092
+      },
+      {
+        "id" : 16,
+        "seek" : 10200,
+        "start" : 107.0,
+        "end" : 112.0,
+        "text" : " Take a look at the leg you'll be fighting if you take me 1v1 in the car park behind McDonald's.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15481491281528664,
+        "compression_ratio" : 1.6292682926829267,
+        "no_speech_prob" : 0.015233558602631092
+      },
+      {
+        "id" : 17,
+        "seek" : 10200,
+        "start" : 112.0,
+        "end" : 117.0,
+        "text" : " You think you can step to me behind McDonald's? 1v1?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15481491281528664,
+        "compression_ratio" : 1.6292682926829267,
+        "no_speech_prob" : 0.015233558602631092
+      },
+      {
+        "id" : 18,
+        "seek" : 10200,
+        "start" : 117.0,
+        "end" : 122.0,
+        "text" : " Really? What are you thinking right now?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15481491281528664,
+        "compression_ratio" : 1.6292682926829267,
+        "no_speech_prob" : 0.015233558602631092
+      },
+      {
+        "id" : 19,
+        "seek" : 10200,
+        "start" : 122.0,
+        "end" : 128.0,
+        "text" : " Really? What about both from side by side? Is that timidated you fell?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15481491281528664,
+        "compression_ratio" : 1.6292682926829267,
+        "no_speech_prob" : 0.015233558602631092
+      },
+      {
+        "id" : 20,
+        "seek" : 12800,
+        "start" : 128.0,
+        "end" : 133.0,
+        "text" : " You still watching this? Or did you turn off the video yet? Because you're so intimidated.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2078444902286973,
+        "compression_ratio" : 1.6333333333333333,
+        "no_speech_prob" : 0.05575079470872879
+      },
+      {
+        "id" : 21,
+        "seek" : 12800,
+        "start" : 133.0,
+        "end" : 139.0,
+        "text" : " I feel like I just smoked you so hard. Your crime will probably just have a stroke.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2078444902286973,
+        "compression_ratio" : 1.6333333333333333,
+        "no_speech_prob" : 0.05575079470872879
+      },
+      {
+        "id" : 22,
+        "seek" : 12800,
+        "start" : 139.0,
+        "end" : 143.0,
+        "text" : " Let me tell you something about Tommy. About Tommy, too, Tony.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2078444902286973,
+        "compression_ratio" : 1.6333333333333333,
+        "no_speech_prob" : 0.05575079470872879
+      },
+      {
+        "id" : 23,
+        "seek" : 12800,
+        "start" : 143.0,
+        "end" : 146.0,
+        "text" : " I don't take shit. I don't take shit from nobody.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2078444902286973,
+        "compression_ratio" : 1.6333333333333333,
+        "no_speech_prob" : 0.05575079470872879
+      },
+      {
+        "id" : 24,
+        "seek" : 12800,
+        "start" : 146.0,
+        "end" : 150.0,
+        "text" : " You want to step to me? You want to threaten my family? I got 1v1. I got 2v1.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2078444902286973,
+        "compression_ratio" : 1.6333333333333333,
+        "no_speech_prob" : 0.05575079470872879
+      },
+      {
+        "id" : 25,
+        "seek" : 12800,
+        "start" : 150.0,
+        "end" : 155.0,
+        "text" : " I got a quad. Like you've never seen. I've been working my quads for years.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2078444902286973,
+        "compression_ratio" : 1.6333333333333333,
+        "no_speech_prob" : 0.05575079470872879
+      },
+      {
+        "id" : 26,
+        "seek" : 15500,
+        "start" : 155.0,
+        "end" : 158.0,
+        "text" : " You want to step to me? How much you behind McDonald's?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 27,
+        "seek" : 15500,
+        "start" : 158.0,
+        "end" : 160.0,
+        "text" : " In the car park there. That's where shit comes down.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 28,
+        "seek" : 15500,
+        "start" : 160.0,
+        "end" : 167.0,
+        "text" : " That's where the Tommy tumble tumble rumble move goes down.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 29,
+        "seek" : 15500,
+        "start" : 167.0,
+        "end" : 171.0,
+        "text" : " Anyone in here want a challenge, Tommy?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 30,
+        "seek" : 15500,
+        "start" : 171.0,
+        "end" : 175.0,
+        "text" : " I didn't think so.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 31,
+        "seek" : 15500,
+        "start" : 175.0,
+        "end" : 179.0,
+        "text" : " Anyone out there want a challenge, Tommy?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 32,
+        "seek" : 15500,
+        "start" : 179.0,
+        "end" : 181.0,
+        "text" : " Yeah, right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2677153653876726,
+        "compression_ratio" : 1.630057803468208,
+        "no_speech_prob" : 0.014155776239931583
+      },
+      {
+        "id" : 33,
+        "seek" : 18100,
+        "start" : 181.0,
+        "end" : 185.0,
+        "text" : " Not a challenge in the world.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21961411975678943,
+        "compression_ratio" : 0.9538461538461539,
+        "no_speech_prob" : 0.00418317224830389
+      },
+      {
+        "id" : 34,
+        "seek" : 18100,
+        "start" : 185.0,
+        "end" : 188.0,
+        "text" : " Let me show you some steps here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21961411975678943,
+        "compression_ratio" : 0.9538461538461539,
+        "no_speech_prob" : 0.00418317224830389
+      },
+      {
+        "id" : 35,
+        "seek" : 18800,
+        "start" : 188.0,
+        "end" : 193.0,
+        "text" : " Yeah, hello? Yeah, this is Tommy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 36,
+        "seek" : 18800,
+        "start" : 193.0,
+        "end" : 197.0,
+        "text" : " You want to fight me? Maybe back behind my house 2 o'clock. You coward.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 37,
+        "seek" : 18800,
+        "start" : 197.0,
+        "end" : 200.0,
+        "text" : " The other thing that's coming over, I think we should stop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 38,
+        "seek" : 18800,
+        "start" : 200.0,
+        "end" : 203.0,
+        "text" : " I actually call my neighbor. He actually seemed really mad.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 39,
+        "seek" : 18800,
+        "start" : 203.0,
+        "end" : 206.0,
+        "text" : " I'm not going to fight him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 40,
+        "seek" : 18800,
+        "start" : 206.0,
+        "end" : 209.0,
+        "text" : " Yeah, hello? Yeah, this is Tommy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 41,
+        "seek" : 18800,
+        "start" : 209.0,
+        "end" : 212.0,
+        "text" : " You want to fight me? Maybe back behind my house 2 o'clock.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 42,
+        "seek" : 18800,
+        "start" : 212.0,
+        "end" : 215.0,
+        "text" : " You coward. The other thing that's coming over, I think we should stop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34240534997755484,
+        "compression_ratio" : 2.252688172043011,
+        "no_speech_prob" : 0.10185916721820831
+      },
+      {
+        "id" : 43,
+        "seek" : 21500,
+        "start" : 215.0,
+        "end" : 219.0,
+        "text" : " I actually call my neighbor. He actually seemed really mad.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 44,
+        "seek" : 21500,
+        "start" : 219.0,
+        "end" : 221.0,
+        "text" : " Let's lock the doors.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 45,
+        "seek" : 21500,
+        "start" : 221.0,
+        "end" : 223.0,
+        "text" : " You have the key?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 46,
+        "seek" : 21500,
+        "start" : 223.0,
+        "end" : 226.0,
+        "text" : " You have the risk of key.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 47,
+        "seek" : 21500,
+        "start" : 226.0,
+        "end" : 229.0,
+        "text" : " Sean, you have the key for the front door, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 48,
+        "seek" : 21500,
+        "start" : 229.0,
+        "end" : 231.0,
+        "text" : " I think I just did something stupid.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 49,
+        "seek" : 21500,
+        "start" : 231.0,
+        "end" : 233.0,
+        "text" : " You got the key, right? Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 50,
+        "seek" : 21500,
+        "start" : 233.0,
+        "end" : 236.0,
+        "text" : " Fuck. That's part of the infarction.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 51,
+        "seek" : 21500,
+        "start" : 236.0,
+        "end" : 240.0,
+        "text" : " Sean's fucking okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3020298679669698,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.05938292667269707
+      },
+      {
+        "id" : 52,
+        "seek" : 24000,
+        "start" : 241.0,
+        "end" : 245.0,
+        "text" : " This door's so thin.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.688582512640184,
+        "compression_ratio" : 1.025974025974026,
+        "no_speech_prob" : 0.04775681346654892
+      },
+      {
+        "id" : 53,
+        "seek" : 24000,
+        "start" : 248.0,
+        "end" : 251.0,
+        "text" : " God, this is from the lights.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.688582512640184,
+        "compression_ratio" : 1.025974025974026,
+        "no_speech_prob" : 0.04775681346654892
+      },
+      {
+        "id" : 54,
+        "seek" : 24000,
+        "start" : 251.0,
+        "end" : 254.0,
+        "text" : " Come on.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.688582512640184,
+        "compression_ratio" : 1.025974025974026,
+        "no_speech_prob" : 0.04775681346654892
+      },
+      {
+        "id" : 55,
+        "seek" : 24000,
+        "start" : 254.0,
+        "end" : 257.0,
+        "text" : " You take this here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.688582512640184,
+        "compression_ratio" : 1.025974025974026,
+        "no_speech_prob" : 0.04775681346654892
+      }
+    ]
+  }
+}

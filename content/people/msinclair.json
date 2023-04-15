@@ -1,0 +1,12 @@
+{
+  "person_id" : "msinclair",
+  "category" : "lore",
+  "first_name" : "Mark",
+  "last_name" : "Sinclair",
+  "display_name" : "Vin Diesel",
+  "thumb" : "/people/msinclair.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

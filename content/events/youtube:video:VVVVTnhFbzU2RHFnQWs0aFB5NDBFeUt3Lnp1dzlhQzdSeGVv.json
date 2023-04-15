@@ -1,0 +1,516 @@
+{
+  "event_id" : "youtube:video:VVVVTnhFbzU2RHFnQWs0aFB5NDBFeUt3Lnp1dzlhQzdSeGVv",
+  "category" : "video",
+  "name" : "ive done something unforgivable",
+  "description" : "im sorry",
+  "thumb" : "https://i.ytimg.com/vi/zuw9aC7Rxeo/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan Klein"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/zuw9aC7Rxeo"
+    }
+  ],
+  "start_date" : 1644325100000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 29.92,
+        "text" : " Welcome back guys. Today I'm going to be doing a little bit of a story time telling the story of how I accidentally erased one of my all time favorite H3 H3 production reaction videos from about I made it about five years ago and it was one that was beloved by all this is such a tragic embarrassing story that I obviously see the humor in it and you know I had a laugh about it but it was just so embarrassing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18604423187591218,
+        "compression_ratio" : 1.6775510204081632,
+        "no_speech_prob" : 0.15106642246246338
+      },
+      {
+        "id" : 1,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 42.92,
+        "text" : " That what I did I had to erase my video and utter shame. So here it is. I don't even know how I'm going to do it. There's no pretty way to say this so I'm just going to say it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20335940925442442,
+        "compression_ratio" : 1.6177777777777778,
+        "no_speech_prob" : 0.2691391110420227
+      },
+      {
+        "id" : 2,
+        "seek" : 3000,
+        "start" : 43.92,
+        "end" : 59.92,
+        "text" : " Made a video about Joey Salads about five years ago it's one of our classics and Joey Salads is no stranger to he's a political provocateur. The guy has done fake pranks where he you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20335940925442442,
+        "compression_ratio" : 1.6177777777777778,
+        "no_speech_prob" : 0.2691391110420227
+      },
+      {
+        "id" : 3,
+        "seek" : 5992,
+        "start" : 59.92,
+        "end" : 72.84,
+        "text" : " his most famous one was he put in a car in the hood and put like maga signs and Trump signs all over it and then he cut to a bunch of black guys coming and destroying the car like 10 minutes later.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19601268579464148,
+        "compression_ratio" : 1.6907630522088353,
+        "no_speech_prob" : 0.05972377210855484
+      },
+      {
+        "id" : 4,
+        "seek" : 5992,
+        "start" : 72.84,
+        "end" : 88.24,
+        "text" : " I called it out. I was like man this video is so fake this is so lame and at the time I always talk about how I wanted to get away from doing kind of more social justice where reactionary content that catered to these guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19601268579464148,
+        "compression_ratio" : 1.6907630522088353,
+        "no_speech_prob" : 0.05972377210855484
+      },
+      {
+        "id" : 5,
+        "seek" : 8824,
+        "start" : 88.52,
+        "end" : 103.76,
+        "text" : " And one of the big wake up calls I had was in one of these cases of a Joe making a reaction video Joey Salads and calling them out because in the comments there was lots of comments of people being like you know this prank is real.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25129927529229057,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.40063732862472534
+      },
+      {
+        "id" : 6,
+        "seek" : 10376,
+        "start" : 103.76,
+        "end" : 130.44,
+        "text" : " Lots of extremely racist comments about black people just horrible horrible nasty stuff and I would recomens like that and I'll be like man you know I got it I got to stop making content for the these crowds like because this is just not the kind of comments I want to have on my videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350050747394562,
+        "compression_ratio" : 1.5513513513513513,
+        "no_speech_prob" : 0.39231783151626587
+      },
+      {
+        "id" : 7,
+        "seek" : 13044,
+        "start" : 130.84,
+        "end" : 146.4,
+        "text" : " Okay so I made the reaction video and in the reaction video I was reading some of these inflammatory comments and one of the comments had the N word in it and back then.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1739475923426011,
+        "compression_ratio" : 1.8274111675126903,
+        "no_speech_prob" : 0.06966579705476761
+      },
+      {
+        "id" : 8,
+        "seek" : 13044,
+        "start" : 147.36,
+        "end" : 158.76,
+        "text" : " This is something that I've kind of come to terms with that I no longer do that I apologize for back then you know I would read the comment with the N word didn't and I would say the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1739475923426011,
+        "compression_ratio" : 1.8274111675126903,
+        "no_speech_prob" : 0.06966579705476761
+      },
+      {
+        "id" : 9,
+        "seek" : 15876,
+        "start" : 158.8,
+        "end" : 177.68,
+        "text" : " And I think at the time my logic was like not to whitewash the racism but to read it and to show it for what it it for what it was and obviously again I don't do that and I don't do that now I would just say you know the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1322223462556538,
+        "compression_ratio" : 1.6926406926406927,
+        "no_speech_prob" : 0.008190245367586613
+      },
+      {
+        "id" : 10,
+        "seek" : 15876,
+        "start" : 177.92,
+        "end" : 187.56,
+        "text" : " Looking back at the comments in that video it's it's amazing these openly racist comments that were left back in 2016 just shocking stuff it shocked me even then.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1322223462556538,
+        "compression_ratio" : 1.6926406926406927,
+        "no_speech_prob" : 0.008190245367586613
+      },
+      {
+        "id" : 11,
+        "seek" : 18756,
+        "start" : 188.04,
+        "end" : 196.76,
+        "text" : " So I make the video I read the comments using really explicit racial language including the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14246433500259642,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.009154009632766247
+      },
+      {
+        "id" : 12,
+        "seek" : 18756,
+        "start" : 198.04,
+        "end" : 209.04,
+        "text" : " And nowadays I don't like that kind of content I know it's not okay and I've gone back and I cut out little pieces of you know where I'm saying the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14246433500259642,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.009154009632766247
+      },
+      {
+        "id" : 13,
+        "seek" : 20904,
+        "start" : 209.6,
+        "end" : 223.0,
+        "text" : " In context of lack like you know I'm reading a comment stuff like that and I said you know I just I don't I'm just going to cut out this part here where I'm saying the N word because I don't I just don't like that I don't think that's appropriate anymore and so.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17659873105167004,
+        "compression_ratio" : 1.6161137440758293,
+        "no_speech_prob" : 0.120778389275074
+      },
+      {
+        "id" : 14,
+        "seek" : 20904,
+        "start" : 224.0,
+        "end" : 225.04,
+        "text" : " The YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17659873105167004,
+        "compression_ratio" : 1.6161137440758293,
+        "no_speech_prob" : 0.120778389275074
+      },
+      {
+        "id" : 15,
+        "seek" : 20904,
+        "start" : 226.08,
+        "end" : 231.4,
+        "text" : " Editing system is very confusing in fact let me show you just to.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17659873105167004,
+        "compression_ratio" : 1.6161137440758293,
+        "no_speech_prob" : 0.120778389275074
+      },
+      {
+        "id" : 16,
+        "seek" : 23140,
+        "start" : 232.36,
+        "end" : 244.72,
+        "text" : " Examplify what I'm talking about okay so here I am this is the newest video I made and I'm just here to show you guys how the editing system works because it's important to tell the story so you click the editor button here right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1371519772902779,
+        "compression_ratio" : 1.6340425531914893,
+        "no_speech_prob" : 0.047998350113630295
+      },
+      {
+        "id" : 17,
+        "seek" : 23140,
+        "start" : 245.36,
+        "end" : 259.32,
+        "text" : " And then you can cut out little bits of the video it's really not intuitive though so I go trim right and then I do trim again or you do split down here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1371519772902779,
+        "compression_ratio" : 1.6340425531914893,
+        "no_speech_prob" : 0.047998350113630295
+      },
+      {
+        "id" : 18,
+        "seek" : 25932,
+        "start" : 260.12,
+        "end" : 277.04,
+        "text" : " And then you know another split and so I thought well I just didn't understand it you slide it this way you slide it that way I didn't get it I ended up doing like that I was like it's all black so I do another split.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14794540405273438,
+        "compression_ratio" : 1.7989690721649485,
+        "no_speech_prob" : 0.023075228556990623
+      },
+      {
+        "id" : 19,
+        "seek" : 25932,
+        "start" : 277.88,
+        "end" : 286.96,
+        "text" : " I somehow figured out where I get the bar here you know I had another split and then so I get something that looks like this right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14794540405273438,
+        "compression_ratio" : 1.7989690721649485,
+        "no_speech_prob" : 0.023075228556990623
+      },
+      {
+        "id" : 20,
+        "seek" : 28696,
+        "start" : 287.52,
+        "end" : 307.2,
+        "text" : " So it's all great out here it's all great out here I say great I isolated the part where I say the N word you know I'm reading the comment saying the N word so here I am I says here's the spot here I zoom in all the way I get it perfect I say line it up you know you you can play it so you can see exactly what it is you go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18108435238108916,
+        "compression_ratio" : 2.059090909090909,
+        "no_speech_prob" : 0.01776096783578396
+      },
+      {
+        "id" : 21,
+        "seek" : 28696,
+        "start" : 308.16,
+        "end" : 316.16,
+        "text" : " Okay so I go okay perfect I line it up here's where I read the comment of the guy saying the N word and I say perfect so then I.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18108435238108916,
+        "compression_ratio" : 2.059090909090909,
+        "no_speech_prob" : 0.01776096783578396
+      },
+      {
+        "id" : 22,
+        "seek" : 31616,
+        "start" : 316.72,
+        "end" : 318.72,
+        "text" : " You know save the edit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23934706722397403,
+        "compression_ratio" : 1.5817307692307692,
+        "no_speech_prob" : 0.030927574262022972
+      },
+      {
+        "id" : 23,
+        "seek" : 31616,
+        "start" : 321.36,
+        "end" : 346.0,
+        "text" : " This is like a 10 minute video of me slam dunking on racist comments and racist Joey Salads I save it it takes about a day to process so I come back the next day and I'm like and you know what's left of this video how long is this clip it's six it's the video which was like one of my favorite 10 minutes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23934706722397403,
+        "compression_ratio" : 1.5817307692307692,
+        "no_speech_prob" : 0.030927574262022972
+      },
+      {
+        "id" : 24,
+        "seek" : 34616,
+        "start" : 346.4,
+        "end" : 369.76,
+        "text" : " Okay it's now just a six seconds it's six seconds of me just saying the N word no context no comment no nothing it just says H3S your reaction videos whatever it was and then you click it it's just six seconds of me saying the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23981403482371363,
+        "compression_ratio" : 1.6595744680851063,
+        "no_speech_prob" : 0.0026308700907975435
+      },
+      {
+        "id" : 25,
+        "seek" : 36976,
+        "start" : 369.76,
+        "end" : 373.6,
+        "text" : " That was the whole video.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2877700492127301,
+        "compression_ratio" : 1.6790123456790123,
+        "no_speech_prob" : 0.04238462075591087
+      },
+      {
+        "id" : 26,
+        "seek" : 36976,
+        "start" : 373.6,
+        "end" : 392.96,
+        "text" : " How do you how do you fix that how do you explain that one guys is it's a video with like 10 million views of me just saying N word that's it guys that's the whole video with 10 million views.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2877700492127301,
+        "compression_ratio" : 1.6790123456790123,
+        "no_speech_prob" : 0.04238462075591087
+      },
+      {
+        "id" : 27,
+        "seek" : 36976,
+        "start" : 392.96,
+        "end" : 397.92,
+        "text" : " I showed it to the crew I says guys what have I done.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2877700492127301,
+        "compression_ratio" : 1.6790123456790123,
+        "no_speech_prob" : 0.04238462075591087
+      },
+      {
+        "id" : 28,
+        "seek" : 39792,
+        "start" : 397.92,
+        "end" : 404.08,
+        "text" : " It's just a video of me saying the N word there's no context there's no nothing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25732008233127823,
+        "compression_ratio" : 1.6281407035175879,
+        "no_speech_prob" : 0.023853883147239685
+      },
+      {
+        "id" : 29,
+        "seek" : 39792,
+        "start" : 404.08,
+        "end" : 408.72,
+        "text" : " What is what do I do.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25732008233127823,
+        "compression_ratio" : 1.6281407035175879,
+        "no_speech_prob" : 0.023853883147239685
+      },
+      {
+        "id" : 30,
+        "seek" : 39792,
+        "start" : 408.72,
+        "end" : 419.52,
+        "text" : " And the guys all start cracking up it is objectively funny equal measures funny and horrifying I says oh my god whatever what people saw this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25732008233127823,
+        "compression_ratio" : 1.6281407035175879,
+        "no_speech_prob" : 0.023853883147239685
+      },
+      {
+        "id" : 31,
+        "seek" : 39792,
+        "start" : 419.52,
+        "end" : 423.52,
+        "text" : " It's just a video on my channel with 10 million views of me saying the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25732008233127823,
+        "compression_ratio" : 1.6281407035175879,
+        "no_speech_prob" : 0.023853883147239685
+      },
+      {
+        "id" : 32,
+        "seek" : 42352,
+        "start" : 423.52,
+        "end" : 427.68,
+        "text" : " How do you how do you explain this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3184473855154855,
+        "compression_ratio" : 1.6724137931034482,
+        "no_speech_prob" : 0.09450575709342957
+      },
+      {
+        "id" : 33,
+        "seek" : 42352,
+        "start" : 427.68,
+        "end" : 440.64,
+        "text" : " The dancers maybe you should you know email YouTube and have them restore it I said I'm not going to email YouTube and say here's a pick here's a video of me six seconds let me just saying the N word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3184473855154855,
+        "compression_ratio" : 1.6724137931034482,
+        "no_speech_prob" : 0.09450575709342957
+      },
+      {
+        "id" : 34,
+        "seek" : 42352,
+        "start" : 440.64,
+        "end" : 443.52,
+        "text" : " What are they going to think.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3184473855154855,
+        "compression_ratio" : 1.6724137931034482,
+        "no_speech_prob" : 0.09450575709342957
+      },
+      {
+        "id" : 35,
+        "seek" : 42352,
+        "start" : 443.52,
+        "end" : 445.28,
+        "text" : " How do you explain that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3184473855154855,
+        "compression_ratio" : 1.6724137931034482,
+        "no_speech_prob" : 0.09450575709342957
+      },
+      {
+        "id" : 36,
+        "seek" : 44528,
+        "start" : 445.28,
+        "end" : 458.88,
+        "text" : " And so you know this this beautiful video this magnus opus I in total shame I didn't even try to fix it I didn't try to solve it I just straight erased it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22960805892944336,
+        "compression_ratio" : 1.6945812807881773,
+        "no_speech_prob" : 0.06913631409406662
+      },
+      {
+        "id" : 37,
+        "seek" : 44528,
+        "start" : 458.88,
+        "end" : 463.28,
+        "text" : " And I said that video is dead forever I can never fix that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22960805892944336,
+        "compression_ratio" : 1.6945812807881773,
+        "no_speech_prob" : 0.06913631409406662
+      },
+      {
+        "id" : 38,
+        "seek" : 44528,
+        "start" : 463.28,
+        "end" : 473.12,
+        "text" : " It's one of my greatest shames it's one of my greatest mess ups of all time me and the crew talk about it all the time you know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22960805892944336,
+        "compression_ratio" : 1.6945812807881773,
+        "no_speech_prob" : 0.06913631409406662
+      },
+      {
+        "id" : 39,
+        "seek" : 47312,
+        "start" : 473.12,
+        "end" : 479.52,
+        "text" : " I was wondering when I'd be able to share this story it still hurts it's still just too raw.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19291220770941842,
+        "compression_ratio" : 1.558139534883721,
+        "no_speech_prob" : 0.029316682368516922
+      },
+      {
+        "id" : 40,
+        "seek" : 47312,
+        "start" : 479.52,
+        "end" : 497.52,
+        "text" : " It's too painful and well here it is for you guys all to enjoy so at one point my friends for a short period of time there was a video on my channel with 10 million views of six seconds of me just saying the N word with absolutely no context.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19291220770941842,
+        "compression_ratio" : 1.558139534883721,
+        "no_speech_prob" : 0.029316682368516922
+      },
+      {
+        "id" : 41,
+        "seek" : 49752,
+        "start" : 497.52,
+        "end" : 519.12,
+        "text" : " Yeah well hope none of you all saw that I don't think anyone did some out because I never heard anyone ever talk about why why eat then why is there a video of you just saying the N word it's not funny it's a horrible word that's what's going back to erase it is a horrible word.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23272277327144847,
+        "compression_ratio" : 1.622093023255814,
+        "no_speech_prob" : 0.07662733644247055
+      },
+      {
+        "id" : 42,
+        "seek" : 51912,
+        "start" : 519.92,
+        "end" : 523.92,
+        "text" : " Not trying to highlight it trying to erase it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4043331940968831,
+        "compression_ratio" : 1.1358024691358024,
+        "no_speech_prob" : 0.08401791006326675
+      },
+      {
+        "id" : 43,
+        "seek" : 51912,
+        "start" : 528.72,
+        "end" : 536.32,
+        "text" : " Unbelievable that's my story guys forgive me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4043331940968831,
+        "compression_ratio" : 1.1358024691358024,
+        "no_speech_prob" : 0.08401791006326675
+      }
+    ]
+  }
+}

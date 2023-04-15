@@ -1,0 +1,68 @@
+{
+  "event_id" : "spotify:episode:3F3bwDS1tQFHat6L8Adgyn",
+  "category" : "podcast",
+  "name" : "Welcome Back Olivia, Ricky Gervais, Drake Loses $20M, Flaming Hot Mountain Dew - After Dark #74",
+  "description" : "<p>On this episode of the H3 Podcast Ethan, Hila &amp; the crew welcome back OLIVIA (formally). We also talk about Drake slinging crypto gambling to kids on twitch, try Flaming Hot Cheeto Mountain Dew, the ACE Family suing a YouTuber for calling out their scams, and a whole lot more!</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "After Dark"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/3F3bwDS1tQFHat6L8Adgyn"
+    }
+  ],
+  "start_date" : 1653609600000,
+  "duration" : 10828512,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "rgervais",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "agraham",
+      "role" : "topic"
+    }
+  ],
+  "transcription" : null
+}

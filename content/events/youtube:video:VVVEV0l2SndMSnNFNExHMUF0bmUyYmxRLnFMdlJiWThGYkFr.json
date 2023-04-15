@@ -1,0 +1,190 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnFMdlJiWThGYkFr",
+  "category" : "video",
+  "name" : "michael rosen exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/qLvRbY8FbAk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/qLvRbY8FbAk"
+    }
+  ],
+  "start_date" : 1402012476000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.5,
+        "text" : " Don't throw frueter to computer!",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.3677279154459634,
+        "compression_ratio" : 1.4382022471910112,
+        "no_speech_prob" : 0.34343916177749634
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.74,
+        "end" : 11.96,
+        "text" : " ARGH!",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.3677279154459634,
+        "compression_ratio" : 1.4382022471910112,
+        "no_speech_prob" : 0.34343916177749634
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 13.2,
+        "end" : 15.72,
+        "text" : " Don't throw frueter to computer!",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.3677279154459634,
+        "compression_ratio" : 1.4382022471910112,
+        "no_speech_prob" : 0.34343916177749634
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.92,
+        "end" : 19.72,
+        "text" : " ITSㅠ",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.3677279154459634,
+        "compression_ratio" : 1.4382022471910112,
+        "no_speech_prob" : 0.34343916177749634
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 21.12,
+        "end" : 22.86,
+        "text" : " DON'T THROW Ftooter to computer!",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.3677279154459634,
+        "compression_ratio" : 1.4382022471910112,
+        "no_speech_prob" : 0.34343916177749634
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 26.54,
+        "end" : 28.52,
+        "text" : " It's not mine...",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.3677279154459634,
+        "compression_ratio" : 1.4382022471910112,
+        "no_speech_prob" : 0.34343916177749634
+      },
+      {
+        "id" : 6,
+        "seek" : 2852,
+        "start" : 29.06,
+        "end" : 30.12,
+        "text" : " I'll take the room...",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.7817842755998883,
+        "compression_ratio" : 0.9620253164556962,
+        "no_speech_prob" : 0.036967430263757706
+      },
+      {
+        "id" : 7,
+        "seek" : 2852,
+        "start" : 31.2,
+        "end" : 32.2,
+        "text" : " No, no!",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.7817842755998883,
+        "compression_ratio" : 0.9620253164556962,
+        "no_speech_prob" : 0.036967430263757706
+      },
+      {
+        "id" : 8,
+        "seek" : 2852,
+        "start" : 37.3,
+        "end" : 39.3,
+        "text" : " Don't throw frueter to computer.",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.7817842755998883,
+        "compression_ratio" : 0.9620253164556962,
+        "no_speech_prob" : 0.036967430263757706
+      },
+      {
+        "id" : 9,
+        "seek" : 2852,
+        "start" : 44.62,
+        "end" : 45.2,
+        "text" : " Mh- fahrenhPC",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.7817842755998883,
+        "compression_ratio" : 0.9620253164556962,
+        "no_speech_prob" : 0.036967430263757706
+      },
+      {
+        "id" : 10,
+        "seek" : 4520,
+        "start" : 46.12,
+        "end" : 48.52,
+        "text" : "rites",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.893487657819476,
+        "compression_ratio" : 0.7419354838709677,
+        "no_speech_prob" : 0.06673847138881683
+      },
+      {
+        "id" : 11,
+        "seek" : 4520,
+        "start" : 55.96,
+        "end" : 58.04,
+        "text" : " Doff days",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.893487657819476,
+        "compression_ratio" : 0.7419354838709677,
+        "no_speech_prob" : 0.06673847138881683
+      },
+      {
+        "id" : 12,
+        "seek" : 4520,
+        "start" : 67.24,
+        "end" : 67.92,
+        "text" : " Wah hah",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.893487657819476,
+        "compression_ratio" : 0.7419354838709677,
+        "no_speech_prob" : 0.06673847138881683
+      },
+      {
+        "id" : 13,
+        "seek" : 6792,
+        "start" : 67.92,
+        "end" : 70.94,
+        "text" : " Prerieb",
+        "temperature" : 1.0,
+        "avg_logprob" : -6.133558654785157,
+        "compression_ratio" : 0.4666666666666667,
+        "no_speech_prob" : 0.020908279344439507
+      }
+    ]
+  }
+}

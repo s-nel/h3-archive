@@ -1,0 +1,740 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlBydjVxODQtRWJn",
+  "category" : "video",
+  "name" : "will.i.am -- h3h3 reaction video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Prv5q84-Ebg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Prv5q84-Ebg"
+    }
+  ],
+  "start_date" : 1415984558000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 28.0,
+        "text" : " Wow, keep it up, keep it up, proud of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8713548448350694,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.30633679032325745
+      },
+      {
+        "id" : 1,
+        "seek" : 2800,
+        "start" : 28.0,
+        "end" : 37.0,
+        "text" : " What's that a watch? One. It's a device on your wrist called the course.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23806434493881087,
+        "compression_ratio" : 1.5884615384615384,
+        "no_speech_prob" : 0.33312124013900757
+      },
+      {
+        "id" : 2,
+        "seek" : 2800,
+        "start" : 37.0,
+        "end" : 43.0,
+        "text" : " You might be wondering why I'm dressed up like a trendy asshole. Well, the answer is pretty simple. I'm doing a video about will I am.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23806434493881087,
+        "compression_ratio" : 1.5884615384615384,
+        "no_speech_prob" : 0.33312124013900757
+      },
+      {
+        "id" : 3,
+        "seek" : 2800,
+        "start" : 43.0,
+        "end" : 53.0,
+        "text" : " This guy's going on the news to sell his stupid fucking smart watch and he's dressed like a fucking clown from outer space. Like a little black leprechaun.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23806434493881087,
+        "compression_ratio" : 1.5884615384615384,
+        "no_speech_prob" : 0.33312124013900757
+      },
+      {
+        "id" : 4,
+        "seek" : 2800,
+        "start" : 53.0,
+        "end" : 57.0,
+        "text" : " I just goofed you. I just goofed you hard, buddy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23806434493881087,
+        "compression_ratio" : 1.5884615384615384,
+        "no_speech_prob" : 0.33312124013900757
+      },
+      {
+        "id" : 5,
+        "seek" : 5700,
+        "start" : 57.0,
+        "end" : 65.0,
+        "text" : " What's up guys? Brian Togh here with Cnet and I am here with will I am to showcase off his pulse. You don't call it smartwatch a connected device. What do you like to call it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2444613749586691,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.004616923630237579
+      },
+      {
+        "id" : 6,
+        "seek" : 5700,
+        "start" : 65.0,
+        "end" : 76.0,
+        "text" : " Well, it's not a watch. One. It may have the same features, the same model, the same design philosophy, the same function, the same aesthetic look as a smartwatch, but it's a pulse.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2444613749586691,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.004616923630237579
+      },
+      {
+        "id" : 7,
+        "seek" : 5700,
+        "start" : 76.0,
+        "end" : 82.0,
+        "text" : " And don't fucking call it a watch in front of will I am. It's not a watch because watches don't have SIM cards.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2444613749586691,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.004616923630237579
+      },
+      {
+        "id" : 8,
+        "seek" : 8200,
+        "start" : 82.0,
+        "end" : 89.0,
+        "text" : " This is a pulse. This is not a watch. It has a SIM card you fool. One. That's one. Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17622447835988012,
+        "compression_ratio" : 1.695852534562212,
+        "no_speech_prob" : 0.05564681440591812
+      },
+      {
+        "id" : 9,
+        "seek" : 8200,
+        "start" : 89.0,
+        "end" : 95.0,
+        "text" : " And it's not a smartwatch. It's a whole new thing. It's a new paradigm. It's a new paradigm.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17622447835988012,
+        "compression_ratio" : 1.695852534562212,
+        "no_speech_prob" : 0.05564681440591812
+      },
+      {
+        "id" : 10,
+        "seek" : 8200,
+        "start" : 95.0,
+        "end" : 99.0,
+        "text" : " Holy shit. That's sounds big. It's a paradigm.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17622447835988012,
+        "compression_ratio" : 1.695852534562212,
+        "no_speech_prob" : 0.05564681440591812
+      },
+      {
+        "id" : 11,
+        "seek" : 8200,
+        "start" : 99.0,
+        "end" : 100.0,
+        "text" : " Wow!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17622447835988012,
+        "compression_ratio" : 1.695852534562212,
+        "no_speech_prob" : 0.05564681440591812
+      },
+      {
+        "id" : 12,
+        "seek" : 8200,
+        "start" : 100.0,
+        "end" : 105.0,
+        "text" : " It's a new paradigm. Well, then how do you explain this pussy magnet from over a year ago?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17622447835988012,
+        "compression_ratio" : 1.695852534562212,
+        "no_speech_prob" : 0.05564681440591812
+      },
+      {
+        "id" : 13,
+        "seek" : 8200,
+        "start" : 105.0,
+        "end" : 108.0,
+        "text" : " You want to see something cool? Yeah, sure.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17622447835988012,
+        "compression_ratio" : 1.695852534562212,
+        "no_speech_prob" : 0.05564681440591812
+      },
+      {
+        "id" : 14,
+        "seek" : 10800,
+        "start" : 109.0,
+        "end" : 113.0,
+        "text" : " Here, give me your number. Say hello.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 15,
+        "seek" : 10800,
+        "start" : 113.0,
+        "end" : 115.0,
+        "text" : " Hey, pretty lady.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 16,
+        "seek" : 10800,
+        "start" : 115.0,
+        "end" : 117.0,
+        "text" : " Hey.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 17,
+        "seek" : 10800,
+        "start" : 117.0,
+        "end" : 119.0,
+        "text" : " Hey, pretty lady.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 18,
+        "seek" : 10800,
+        "start" : 119.0,
+        "end" : 124.0,
+        "text" : " Man, that guy's such a pimp dude with this smartwatch. Holy shit. Show me your dick dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 19,
+        "seek" : 10800,
+        "start" : 124.0,
+        "end" : 126.0,
+        "text" : " Hurry, I want to suck it right now before we go up the sealah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 20,
+        "seek" : 10800,
+        "start" : 126.0,
+        "end" : 131.0,
+        "text" : " The vibe is an app that's baked into the OS.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 21,
+        "seek" : 10800,
+        "start" : 131.0,
+        "end" : 135.0,
+        "text" : " It's baked in there, huh? Guys, you can get the best flavor out of your vibes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720671612283458,
+        "compression_ratio" : 1.5638766519823788,
+        "no_speech_prob" : 0.2702619731426239
+      },
+      {
+        "id" : 22,
+        "seek" : 13500,
+        "start" : 135.0,
+        "end" : 142.0,
+        "text" : " We're baking in apps. It hears kind of the tone it analyzes your voice, your mood, kind of kind of connect with that voice.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22812393506368,
+        "compression_ratio" : 1.6356589147286822,
+        "no_speech_prob" : 0.08450813591480255
+      },
+      {
+        "id" : 23,
+        "seek" : 13500,
+        "start" : 142.0,
+        "end" : 150.0,
+        "text" : " And then my mom could follow my vibe and check up on me. Like, are you stressed? What's wrong with you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22812393506368,
+        "compression_ratio" : 1.6356589147286822,
+        "no_speech_prob" : 0.08450813591480255
+      },
+      {
+        "id" : 24,
+        "seek" : 13500,
+        "start" : 150.0,
+        "end" : 151.0,
+        "text" : " Right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22812393506368,
+        "compression_ratio" : 1.6356589147286822,
+        "no_speech_prob" : 0.08450813591480255
+      },
+      {
+        "id" : 25,
+        "seek" : 13500,
+        "start" : 153.0,
+        "end" : 156.0,
+        "text" : " Your mom can call, follow your moods and call you anytime.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22812393506368,
+        "compression_ratio" : 1.6356589147286822,
+        "no_speech_prob" : 0.08450813591480255
+      },
+      {
+        "id" : 26,
+        "seek" : 13500,
+        "start" : 156.0,
+        "end" : 163.0,
+        "text" : " Boy, that sounds like a great idea. I want my mom calling me up at any time. Say, hey Ethan, you're in a red vibe. Are you okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22812393506368,
+        "compression_ratio" : 1.6356589147286822,
+        "no_speech_prob" : 0.08450813591480255
+      },
+      {
+        "id" : 27,
+        "seek" : 16300,
+        "start" : 163.0,
+        "end" : 168.0,
+        "text" : " Oh, dude, that sounds great. I think everybody can relate to that. What is he marketing it to? Mothers?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13029626403192077,
+        "compression_ratio" : 1.5546558704453441,
+        "no_speech_prob" : 0.018070809543132782
+      },
+      {
+        "id" : 28,
+        "seek" : 16300,
+        "start" : 168.0,
+        "end" : 174.0,
+        "text" : " Come on. You have a feather in your hat. Fuck off, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13029626403192077,
+        "compression_ratio" : 1.5546558704453441,
+        "no_speech_prob" : 0.018070809543132782
+      },
+      {
+        "id" : 29,
+        "seek" : 16300,
+        "start" : 174.0,
+        "end" : 180.0,
+        "text" : " More importantly, say for example you're working and someone calls you with a bad vibe. Why do you want to enter a bad vibe call?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13029626403192077,
+        "compression_ratio" : 1.5546558704453441,
+        "no_speech_prob" : 0.018070809543132782
+      },
+      {
+        "id" : 30,
+        "seek" : 16300,
+        "start" : 180.0,
+        "end" : 186.0,
+        "text" : " Like how he just assumes that this app vibe is speaking with complete command over your mood.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13029626403192077,
+        "compression_ratio" : 1.5546558704453441,
+        "no_speech_prob" : 0.018070809543132782
+      },
+      {
+        "id" : 31,
+        "seek" : 18600,
+        "start" : 186.0,
+        "end" : 191.0,
+        "text" : " Mom, I can see your vibe is, it's reporting you're in a great mood. How you doing?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14758367230815272,
+        "compression_ratio" : 1.7075471698113207,
+        "no_speech_prob" : 0.6629576683044434
+      },
+      {
+        "id" : 32,
+        "seek" : 18600,
+        "start" : 191.0,
+        "end" : 193.0,
+        "text" : " Your father just had a stroke.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14758367230815272,
+        "compression_ratio" : 1.7075471698113207,
+        "no_speech_prob" : 0.6629576683044434
+      },
+      {
+        "id" : 33,
+        "seek" : 18600,
+        "start" : 193.0,
+        "end" : 199.0,
+        "text" : " I'm so sorry. Five has made this so awkward. I thought you were, I thought you were a green vibe but you're actually a red vibe.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14758367230815272,
+        "compression_ratio" : 1.7075471698113207,
+        "no_speech_prob" : 0.6629576683044434
+      },
+      {
+        "id" : 34,
+        "seek" : 18600,
+        "start" : 199.0,
+        "end" : 204.0,
+        "text" : " Sorry mom. All right, well hit me back. I'll probably get it. I'm having a really stressful day so keep an eye on my vibe.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14758367230815272,
+        "compression_ratio" : 1.7075471698113207,
+        "no_speech_prob" : 0.6629576683044434
+      },
+      {
+        "id" : 35,
+        "seek" : 18600,
+        "start" : 204.0,
+        "end" : 207.0,
+        "text" : " Make sure I don't go red vibe and if I do call me right away, okay mom?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14758367230815272,
+        "compression_ratio" : 1.7075471698113207,
+        "no_speech_prob" : 0.6629576683044434
+      },
+      {
+        "id" : 36,
+        "seek" : 18600,
+        "start" : 207.0,
+        "end" : 211.0,
+        "text" : " So you're just going to like deny it right away? Is that what you would do? You don't like the bad vibes?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14758367230815272,
+        "compression_ratio" : 1.7075471698113207,
+        "no_speech_prob" : 0.6629576683044434
+      },
+      {
+        "id" : 37,
+        "seek" : 21100,
+        "start" : 211.0,
+        "end" : 216.0,
+        "text" : " I mean not with finding a good vibe but I'm working trying to focus and somebody's calling me on a red alert.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 38,
+        "seek" : 21100,
+        "start" : 216.0,
+        "end" : 218.0,
+        "text" : " Now I don't want to red gym.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 39,
+        "seek" : 21100,
+        "start" : 218.0,
+        "end" : 223.0,
+        "text" : " Shut up, come on dude. Answer the phone. I need you right now dude. I need you more than ever.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 40,
+        "seek" : 21100,
+        "start" : 223.0,
+        "end" : 229.0,
+        "text" : " Shut up, come on dude. My car's not starting. Fuckin need you to come get me dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 41,
+        "seek" : 21100,
+        "start" : 229.0,
+        "end" : 232.0,
+        "text" : " Oh Ethan's red jamming. I don't need any of that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 42,
+        "seek" : 21100,
+        "start" : 232.0,
+        "end" : 235.0,
+        "text" : " Need you to pick up? Need you to pick up?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 43,
+        "seek" : 21100,
+        "start" : 235.0,
+        "end" : 238.0,
+        "text" : " Need you to pick up, Chuck? Chuck?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21196345576533565,
+        "compression_ratio" : 1.8155737704918034,
+        "no_speech_prob" : 0.024200724437832832
+      },
+      {
+        "id" : 44,
+        "seek" : 23800,
+        "start" : 238.0,
+        "end" : 240.0,
+        "text" : " You're gonna fuck up my vibe.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 45,
+        "seek" : 23800,
+        "start" : 240.0,
+        "end" : 244.0,
+        "text" : " Dude you suck dude. If I was red vibe and I would be pissed if you didn't answer my call dog.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 46,
+        "seek" : 23800,
+        "start" : 244.0,
+        "end" : 245.0,
+        "text" : " That means I need your help.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 47,
+        "seek" : 23800,
+        "start" : 245.0,
+        "end" : 249.0,
+        "text" : " I want to be in a green vibe right now and your video's solely red vibe me dog.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 48,
+        "seek" : 23800,
+        "start" : 249.0,
+        "end" : 252.0,
+        "text" : " We gotta show you guys this. The backpack that you're rocking.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 49,
+        "seek" : 23800,
+        "start" : 252.0,
+        "end" : 256.0,
+        "text" : " I mean this is not like their speakers pumped in there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 50,
+        "seek" : 23800,
+        "start" : 256.0,
+        "end" : 259.0,
+        "text" : " Now this guy's trying to sell fucking backpacks which I had speakers on it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 51,
+        "seek" : 23800,
+        "start" : 259.0,
+        "end" : 263.0,
+        "text" : " So these fucking MSL's can blast their super fucking music in public places.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 52,
+        "seek" : 23800,
+        "start" : 263.0,
+        "end" : 267.0,
+        "text" : " It's subjective but listen these super fucking music all the time dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21798147563061682,
+        "compression_ratio" : 1.750759878419453,
+        "no_speech_prob" : 0.06225983798503876
+      },
+      {
+        "id" : 53,
+        "seek" : 26700,
+        "start" : 267.0,
+        "end" : 269.0,
+        "text" : " That's a great product. You gotta wait to see.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 54,
+        "seek" : 26700,
+        "start" : 269.0,
+        "end" : 271.0,
+        "text" : " I really hope that catches on dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 55,
+        "seek" : 26700,
+        "start" : 271.0,
+        "end" : 274.0,
+        "text" : " Have you ever had a dream that...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 56,
+        "seek" : 26700,
+        "start" : 274.0,
+        "end" : 276.0,
+        "text" : " The government's great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 57,
+        "seek" : 26700,
+        "start" : 276.0,
+        "end" : 278.0,
+        "text" : " But it's slow.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 58,
+        "seek" : 26700,
+        "start" : 278.0,
+        "end" : 280.0,
+        "text" : " You could... you do... you win.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 59,
+        "seek" : 26700,
+        "start" : 280.0,
+        "end" : 284.0,
+        "text" : " Billions of dollars gets cleared and we send airplanes and stuff real fast.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 60,
+        "seek" : 26700,
+        "start" : 284.0,
+        "end" : 288.0,
+        "text" : " Apple has more money than American government has liquid.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 61,
+        "seek" : 26700,
+        "start" : 288.0,
+        "end" : 292.0,
+        "text" : " And you tell me kids ain't learning iOS and freaking third period.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 62,
+        "seek" : 26700,
+        "start" : 292.0,
+        "end" : 294.0,
+        "text" : " That will make it easy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3397412551076789,
+        "compression_ratio" : 1.5907335907335907,
+        "no_speech_prob" : 0.05540161952376366
+      },
+      {
+        "id" : 63,
+        "seek" : 29400,
+        "start" : 294.0,
+        "end" : 296.0,
+        "text" : " How much you could do anything?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2746250152587891,
+        "compression_ratio" : 0.7948717948717948,
+        "no_speech_prob" : 0.40620288252830505
+      }
+    ]
+  }
+}

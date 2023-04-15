@@ -1,0 +1,102 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjVYLW5oeWluS0lF",
+  "category" : "video",
+  "name" : "What is h3h3productions?",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/5X-nhyinKIE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/5X-nhyinKIE"
+    }
+  ],
+  "start_date" : 1408835977000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " Oi, you there!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5939200633280987,
+        "compression_ratio" : 1.0112359550561798,
+        "no_speech_prob" : 0.14372949302196503
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 6.0,
+        "text" : " Are you subscribed to H3H3 Productions?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5939200633280987,
+        "compression_ratio" : 1.0112359550561798,
+        "no_speech_prob" : 0.14372949302196503
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 8.0,
+        "text" : " Wild stuff.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5939200633280987,
+        "compression_ratio" : 1.0112359550561798,
+        "no_speech_prob" : 0.14372949302196503
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 16.0,
+        "text" : " Why not mate?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5939200633280987,
+        "compression_ratio" : 1.0112359550561798,
+        "no_speech_prob" : 0.14372949302196503
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 22.0,
+        "end" : 24.0,
+        "text" : " Get down!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5939200633280987,
+        "compression_ratio" : 1.0112359550561798,
+        "no_speech_prob" : 0.14372949302196503
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 33.0,
+        "text" : " Why not?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15346315503120422,
+        "compression_ratio" : 0.5,
+        "no_speech_prob" : 0.08693815767765045
+      }
+    ]
+  }
+}

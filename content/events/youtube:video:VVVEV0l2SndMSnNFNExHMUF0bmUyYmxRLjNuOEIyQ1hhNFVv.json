@@ -1,0 +1,586 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjNuOEIyQ1hhNFVv",
+  "category" : "video",
+  "name" : "I'm Sorry PewDiePie (YouTube Sub Glitch)",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/3n8B2CXa4Uo/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/3n8B2CXa4Uo"
+    }
+  ],
+  "start_date" : 1486597131000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.44,
+        "text" : " So last week I asked PewDiePie if you want to make a collaboration with me where he's like a dick to me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2023614139880164,
+        "compression_ratio" : 1.7424242424242424,
+        "no_speech_prob" : 0.12118818610906601
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.44,
+        "end" : 9.44,
+        "text" : " And he demands money from me to do a collaboration",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2023614139880164,
+        "compression_ratio" : 1.7424242424242424,
+        "no_speech_prob" : 0.12118818610906601
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.44,
+        "end" : 14.24,
+        "text" : " And he's like yeah, that sounds really fun. I was like no make a collab with my good friend Felix here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2023614139880164,
+        "compression_ratio" : 1.7424242424242424,
+        "no_speech_prob" : 0.12118818610906601
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.24,
+        "end" : 18.2,
+        "text" : " And I noticed in the comments that a lot of people were like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2023614139880164,
+        "compression_ratio" : 1.7424242424242424,
+        "no_speech_prob" : 0.12118818610906601
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 18.72,
+        "end" : 28.2,
+        "text" : " Thinking that it was real that Felix was actually asked maybe pay him $50,000 to collaborate with him or this isn't the PewDiePie that I know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2023614139880164,
+        "compression_ratio" : 1.7424242424242424,
+        "no_speech_prob" : 0.12118818610906601
+      },
+      {
+        "id" : 5,
+        "seek" : 2820,
+        "start" : 28.2,
+        "end" : 31.88,
+        "text" : " How could he do that? And I'm like holy shit do people thought this was real?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2659071513584682,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.060024961829185486
+      },
+      {
+        "id" : 6,
+        "seek" : 2820,
+        "start" : 31.88,
+        "end" : 33.8,
+        "text" : " I started kind of get a little worried, you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2659071513584682,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.060024961829185486
+      },
+      {
+        "id" : 7,
+        "seek" : 2820,
+        "start" : 33.8,
+        "end" : 37.64,
+        "text" : " So I hop on over to his life count and I'm over here like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2659071513584682,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.060024961829185486
+      },
+      {
+        "id" : 8,
+        "seek" : 2820,
+        "start" : 38.24,
+        "end" : 48.92,
+        "text" : " What the fuck dude? He's losing 8,000 subscribers every minute and then I go over to my own social blade and it's fucking dropping like a fucking bag of dirt",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2659071513584682,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.060024961829185486
+      },
+      {
+        "id" : 9,
+        "seek" : 2820,
+        "start" : 49.32,
+        "end" : 53.52,
+        "text" : " I'm like holy shit. This is a disaster. This is the worst video I've ever made",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2659071513584682,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.060024961829185486
+      },
+      {
+        "id" : 10,
+        "seek" : 5352,
+        "start" : 53.52,
+        "end" : 57.96,
+        "text" : " I managed to kill the most popular youtubers channel with one shitty video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26505788167317706,
+        "compression_ratio" : 1.8259493670886076,
+        "no_speech_prob" : 0.05531991273164749
+      },
+      {
+        "id" : 11,
+        "seek" : 5352,
+        "start" : 58.68,
+        "end" : 63.8,
+        "text" : " It's fucking flabbergasted. I'm walking around the house. I'm fucking panicking. I'm like moping around",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26505788167317706,
+        "compression_ratio" : 1.8259493670886076,
+        "no_speech_prob" : 0.05531991273164749
+      },
+      {
+        "id" : 12,
+        "seek" : 5352,
+        "start" : 64.4,
+        "end" : 70.28,
+        "text" : " I'm like laying in bed like Ela. How do I fucking? How do I live this down? Dude? I killed PewDiePie's channel fucking killed his channel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26505788167317706,
+        "compression_ratio" : 1.8259493670886076,
+        "no_speech_prob" : 0.05531991273164749
+      },
+      {
+        "id" : 13,
+        "seek" : 5352,
+        "start" : 70.68,
+        "end" : 76.0,
+        "text" : " So people are saying there's an unsubglation. I'm like yeah, right? I fucking been hearing that for the past couple months",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26505788167317706,
+        "compression_ratio" : 1.8259493670886076,
+        "no_speech_prob" : 0.05531991273164749
+      },
+      {
+        "id" : 14,
+        "seek" : 5352,
+        "start" : 76.12,
+        "end" : 83.34,
+        "text" : " But then Ela I'm upstairs cooking breakfast fucking making oatmeal and stirring it with my tears and putting water and I'm crying over it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26505788167317706,
+        "compression_ratio" : 1.8259493670886076,
+        "no_speech_prob" : 0.05531991273164749
+      },
+      {
+        "id" : 15,
+        "seek" : 8334,
+        "start" : 83.34,
+        "end" : 90.06,
+        "text" : " And Ela comes running up she says eating there is a YouTube glitch stop crying over the oatmeal. I wipe my eyes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.298757973363844,
+        "compression_ratio" : 1.7366548042704626,
+        "no_speech_prob" : 0.0057808575220406055
+      },
+      {
+        "id" : 16,
+        "seek" : 8334,
+        "start" : 91.14,
+        "end" : 98.6,
+        "text" : " She starts to explain it says stop Ela. I have an evening breakfast a little salt little sugar salt is the secret to making a good oatmeal",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.298757973363844,
+        "compression_ratio" : 1.7366548042704626,
+        "no_speech_prob" : 0.0057808575220406055
+      },
+      {
+        "id" : 17,
+        "seek" : 8334,
+        "start" : 99.1,
+        "end" : 104.46,
+        "text" : " Finish to wash my dish. She's just can I tell you the story now? I says hold on you. I need to have my orange juice and my vitamins",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.298757973363844,
+        "compression_ratio" : 1.7366548042704626,
+        "no_speech_prob" : 0.0057808575220406055
+      },
+      {
+        "id" : 18,
+        "seek" : 8334,
+        "start" : 104.98,
+        "end" : 110.7,
+        "text" : " Have that and then she says to me there is a YouTube glitch and she shows me this channel black screen TV",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.298757973363844,
+        "compression_ratio" : 1.7366548042704626,
+        "no_speech_prob" : 0.0057808575220406055
+      },
+      {
+        "id" : 19,
+        "seek" : 11070,
+        "start" : 110.82,
+        "end" : 116.14,
+        "text" : " This guy apparently broke the case. He's got open PewDiePie's leafy's drama alert",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 20,
+        "seek" : 11070,
+        "start" : 116.78,
+        "end" : 119.26,
+        "text" : " Idubs and everybody's tanking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 21,
+        "seek" : 11070,
+        "start" : 119.58,
+        "end" : 126.26,
+        "text" : " Like thousands hundreds every second it's fucking madness to fucking Holocaust as a youtuber Holocaust, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 22,
+        "seek" : 11070,
+        "start" : 126.26,
+        "end" : 129.38,
+        "text" : " I can't bear another Holocaust my people been to too much",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 23,
+        "seek" : 11070,
+        "start" : 130.66,
+        "end" : 132.46,
+        "text" : " I'm like what's going on here?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 24,
+        "seek" : 11070,
+        "start" : 132.46,
+        "end" : 135.06,
+        "text" : " So watching the sky's channel apparently if you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 25,
+        "seek" : 11070,
+        "start" : 135.46,
+        "end" : 138.1,
+        "text" : " Subscribe and then unsubscribe. It's minus two",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4324128234270707,
+        "compression_ratio" : 1.6031746031746033,
+        "no_speech_prob" : 0.03499181941151619
+      },
+      {
+        "id" : 26,
+        "seek" : 13810,
+        "start" : 138.22,
+        "end" : 145.58,
+        "text" : " So if you just go to a person's channel and fucking you and your buddies, you know fucking smash that like button a couple too many times",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2904486030039161,
+        "compression_ratio" : 1.613899613899614,
+        "no_speech_prob" : 0.015075115486979485
+      },
+      {
+        "id" : 27,
+        "seek" : 13810,
+        "start" : 145.58,
+        "end" : 150.3,
+        "text" : " You can unsubscribe. I've been going thousands of people to any channel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2904486030039161,
+        "compression_ratio" : 1.613899613899614,
+        "no_speech_prob" : 0.015075115486979485
+      },
+      {
+        "id" : 28,
+        "seek" : 13810,
+        "start" : 150.3,
+        "end" : 154.38,
+        "text" : " I mean look at this this whole time I've been talking it was over 53 million",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2904486030039161,
+        "compression_ratio" : 1.613899613899614,
+        "no_speech_prob" : 0.015075115486979485
+      },
+      {
+        "id" : 29,
+        "seek" : 13810,
+        "start" : 154.62,
+        "end" : 158.86,
+        "text" : " He's lost like 200,000 subscribers since they started this video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2904486030039161,
+        "compression_ratio" : 1.613899613899614,
+        "no_speech_prob" : 0.015075115486979485
+      },
+      {
+        "id" : 30,
+        "seek" : 13810,
+        "start" : 159.38,
+        "end" : 162.98,
+        "text" : " God bless him now these guys black screen TV God bless their souls",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2904486030039161,
+        "compression_ratio" : 1.613899613899614,
+        "no_speech_prob" : 0.015075115486979485
+      },
+      {
+        "id" : 31,
+        "seek" : 16298,
+        "start" : 163.14,
+        "end" : 168.5,
+        "text" : " He managed to get his channel to minus like 1500 subscribers. It's something I've never seen before",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2848329544067383,
+        "compression_ratio" : 1.5942028985507246,
+        "no_speech_prob" : 0.09033042937517166
+      },
+      {
+        "id" : 32,
+        "seek" : 16298,
+        "start" : 168.74,
+        "end" : 171.18,
+        "text" : " So bless you for that social experiment. I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2848329544067383,
+        "compression_ratio" : 1.5942028985507246,
+        "no_speech_prob" : 0.09033042937517166
+      },
+      {
+        "id" : 33,
+        "seek" : 16298,
+        "start" : 171.5,
+        "end" : 176.42,
+        "text" : " My own regret is that it wasn't Joey Salas to do the social experiment because we all know he has much more impact",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2848329544067383,
+        "compression_ratio" : 1.5942028985507246,
+        "no_speech_prob" : 0.09033042937517166
+      },
+      {
+        "id" : 34,
+        "seek" : 16298,
+        "start" : 176.42,
+        "end" : 182.98,
+        "text" : " But any rate God bless you all those all the same. This is like the the fucking greatest YouTube bug ever",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2848329544067383,
+        "compression_ratio" : 1.5942028985507246,
+        "no_speech_prob" : 0.09033042937517166
+      },
+      {
+        "id" : 35,
+        "seek" : 16298,
+        "start" : 183.82,
+        "end" : 188.5,
+        "text" : " Everybody's channel is just fucking collapsing dude. It's a it's a wonderful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2848329544067383,
+        "compression_ratio" : 1.5942028985507246,
+        "no_speech_prob" : 0.09033042937517166
+      },
+      {
+        "id" : 36,
+        "seek" : 18850,
+        "start" : 188.5,
+        "end" : 193.62,
+        "text" : " It's almost like it's like the Joker became the CEO of YouTube. It's like fucking pure chaos",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25575486008001835,
+        "compression_ratio" : 1.679245283018868,
+        "no_speech_prob" : 0.007574615068733692
+      },
+      {
+        "id" : 37,
+        "seek" : 18850,
+        "start" : 193.62,
+        "end" : 199.78,
+        "text" : " What is the best thing we can do to promote YouTube and get people watching so we can keep our doors open and make as much money as possible",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25575486008001835,
+        "compression_ratio" : 1.679245283018868,
+        "no_speech_prob" : 0.007574615068733692
+      },
+      {
+        "id" : 38,
+        "seek" : 18850,
+        "start" : 199.78,
+        "end" : 205.5,
+        "text" : " I've got it Joker walks in punches are in the fucking face nobody notices he takes the mic says unsubscribe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25575486008001835,
+        "compression_ratio" : 1.679245283018868,
+        "no_speech_prob" : 0.007574615068733692
+      },
+      {
+        "id" : 39,
+        "seek" : 18850,
+        "start" : 205.74,
+        "end" : 211.22,
+        "text" : " Everybody every time somebody clicks subscribe button unsubscribe them and another person in words like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25575486008001835,
+        "compression_ratio" : 1.679245283018868,
+        "no_speech_prob" : 0.007574615068733692
+      },
+      {
+        "id" : 40,
+        "seek" : 21122,
+        "start" : 212.02,
+        "end" : 215.26,
+        "text" : " Till we've been trying to ruin YouTube for years as fucking brilliant",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23815170923868814,
+        "compression_ratio" : 1.5818815331010454,
+        "no_speech_prob" : 0.15605448186397552
+      },
+      {
+        "id" : 41,
+        "seek" : 21122,
+        "start" : 215.26,
+        "end" : 219.14,
+        "text" : " So again as I'm talking just fucking feast your eyes on this masterpiece",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23815170923868814,
+        "compression_ratio" : 1.5818815331010454,
+        "no_speech_prob" : 0.15605448186397552
+      },
+      {
+        "id" : 42,
+        "seek" : 21122,
+        "start" : 219.54,
+        "end" : 225.54,
+        "text" : " So I'm sorry Felix. I'm sorry Felix didn't actually charge me 50,000 for a collaboration",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23815170923868814,
+        "compression_ratio" : 1.5818815331010454,
+        "no_speech_prob" : 0.15605448186397552
+      },
+      {
+        "id" : 43,
+        "seek" : 21122,
+        "start" : 226.22,
+        "end" : 230.62,
+        "text" : " It was more like 5,000 after some heavy negotiations because we are very good friends",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23815170923868814,
+        "compression_ratio" : 1.5818815331010454,
+        "no_speech_prob" : 0.15605448186397552
+      },
+      {
+        "id" : 44,
+        "seek" : 21122,
+        "start" : 232.02,
+        "end" : 240.34,
+        "text" : " No, no kidding. There was no exchange of money only sexual favors and he's lost about you know 50,000 since I've been telling that story",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23815170923868814,
+        "compression_ratio" : 1.5818815331010454,
+        "no_speech_prob" : 0.15605448186397552
+      },
+      {
+        "id" : 45,
+        "seek" : 24034,
+        "start" : 240.42,
+        "end" : 245.06,
+        "text" : " So I'm sorry. So I just want to go on the record saying I did I did not pay him",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32450195069008686,
+        "compression_ratio" : 1.6401673640167365,
+        "no_speech_prob" : 0.007638234179466963
+      },
+      {
+        "id" : 46,
+        "seek" : 24034,
+        "start" : 246.1,
+        "end" : 250.5,
+        "text" : " Just wanted to watch some gay porn with my good friend Felix anyways guys. Thanks for watching",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32450195069008686,
+        "compression_ratio" : 1.6401673640167365,
+        "no_speech_prob" : 0.007638234179466963
+      },
+      {
+        "id" : 47,
+        "seek" : 24034,
+        "start" : 250.5,
+        "end" : 254.18,
+        "text" : " It was just eyes honestly just so relieved that it wasn't me that killed the party channel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32450195069008686,
+        "compression_ratio" : 1.6401673640167365,
+        "no_speech_prob" : 0.007638234179466963
+      },
+      {
+        "id" : 48,
+        "seek" : 24034,
+        "start" : 254.18,
+        "end" : 259.82,
+        "text" : " I feel like I had to talk about it remember guys smash that like button if you want to destroy our channel and don't forget to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32450195069008686,
+        "compression_ratio" : 1.6401673640167365,
+        "no_speech_prob" : 0.007638234179466963
+      },
+      {
+        "id" : 49,
+        "seek" : 27034,
+        "start" : 270.34,
+        "end" : 272.34,
+        "text" : " Wow",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.673839271068573,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.551347553730011
+      }
+    ]
+  }
+}

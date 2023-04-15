@@ -1,0 +1,13 @@
+{
+  "person_id" : "jroper",
+  "category" : "guest",
+  "first_name" : "Jake",
+  "last_name" : "Roper",
+  "display_name" : "Vsauce3",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

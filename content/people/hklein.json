@@ -1,0 +1,14 @@
+{
+  "person_id" : null,
+  "category" : "creator",
+  "first_name" : "Hila",
+  "last_name" : "Klein",
+  "display_name" : "Hila",
+  "thumb" : "/people/hklein.jpg",
+  "description" : null,
+  "aliases" : [
+    "Hildy"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

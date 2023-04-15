@@ -1,0 +1,740 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkgzX0xIcV9ram53",
+  "category" : "video",
+  "name" : "HYPOCRISY ON YOUTUBE",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/H3_LHq_kjnw/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/H3_LHq_kjnw"
+    }
+  ],
+  "start_date" : 1442883064000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 11.8,
+        "text" : " Hey, I want set guys. I'm just doing my this is what I do before every video to get the fucking insane manic monster out of my system",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.31765058305528426,
+        "compression_ratio" : 1.7083333333333333,
+        "no_speech_prob" : 0.46492800116539
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 11.8,
+        "end" : 21.36,
+        "text" : " I go like this. I'm not kidding either you let do I do this? Mm-hmm. That's what I do. I have to rent so I have to like try to get it out of my system before we shoot",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.31765058305528426,
+        "compression_ratio" : 1.7083333333333333,
+        "no_speech_prob" : 0.46492800116539
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 24.44,
+        "end" : 29.76,
+        "text" : " Hey you guys remember that really cool little video we made a couple years ago was like one of our one of our",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.31765058305528426,
+        "compression_ratio" : 1.7083333333333333,
+        "no_speech_prob" : 0.46492800116539
+      },
+      {
+        "id" : 3,
+        "seek" : 3000,
+        "start" : 30.36,
+        "end" : 35.88,
+        "text" : " Most popular videos the one where Eddie while he goes wow and like a little a no girls vagina",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 35.88,
+        "end" : 39.56,
+        "text" : " Get shown up and there's a little song and some stuff happened. It's pretty fun",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 42.8,
+        "end" : 44.8,
+        "text" : " Well that video got fucking taken down",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 45.68,
+        "end" : 46.48,
+        "text" : " for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 46.48,
+        "end" : 48.48,
+        "text" : " Apparently infringing on the community",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 49.4,
+        "end" : 53.04,
+        "text" : " Guidelines and we received a strike for that it showed a fucking camel toe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 53.04,
+        "end" : 58.72,
+        "text" : " It showed a girl's camel toe and they didn't even go ajar stick because apparently fucking eight year olds can't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3970208797814711,
+        "compression_ratio" : 1.6973180076628354,
+        "no_speech_prob" : 0.033671312034130096
+      },
+      {
+        "id" : 10,
+        "seek" : 5872,
+        "start" : 59.04,
+        "end" : 62.88,
+        "text" : " Mess with the idea of seeing a fucking vagina under fucking pants",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3037654992305871,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.010603955015540123
+      },
+      {
+        "id" : 11,
+        "seek" : 5872,
+        "start" : 63.4,
+        "end" : 68.72,
+        "text" : " Chris from prank evasion is meanwhile fisting women I saw his new video not only was he kissing him",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3037654992305871,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.010603955015540123
+      },
+      {
+        "id" : 12,
+        "seek" : 5872,
+        "start" : 68.72,
+        "end" : 74.28,
+        "text" : " He literally took his fist and put like mayonnaise on it and he fucking was ramming him dude. It was crazy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3037654992305871,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.010603955015540123
+      },
+      {
+        "id" : 13,
+        "seek" : 5872,
+        "start" : 74.88,
+        "end" : 81.4,
+        "text" : " Not even age restricted so God bless how many people do you honestly think masturbated to the vagina lips?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3037654992305871,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.010603955015540123
+      },
+      {
+        "id" : 14,
+        "seek" : 5872,
+        "start" : 81.4,
+        "end" : 84.4,
+        "text" : " Wow video you look it's not even jerkable",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3037654992305871,
+        "compression_ratio" : 1.6192307692307693,
+        "no_speech_prob" : 0.010603955015540123
+      },
+      {
+        "id" : 15,
+        "seek" : 8440,
+        "start" : 84.68,
+        "end" : 88.68,
+        "text" : " Not even the most desperate kid on the planet could fucking jerk off to this video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35215524832407635,
+        "compression_ratio" : 1.6088709677419355,
+        "no_speech_prob" : 0.005555563140660524
+      },
+      {
+        "id" : 16,
+        "seek" : 8440,
+        "start" : 88.84,
+        "end" : 96.24,
+        "text" : " Meanwhile how many people you think I'm jerked off the Chris's fucking prank invasion fuck my ass and shit in my mouth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35215524832407635,
+        "compression_ratio" : 1.6088709677419355,
+        "no_speech_prob" : 0.005555563140660524
+      },
+      {
+        "id" : 17,
+        "seek" : 8440,
+        "start" : 96.36,
+        "end" : 104.84,
+        "text" : " Use mayonnaise to fucking love my asshole fuck you YouTube. Let's just run that and see oh there is actually something came up here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35215524832407635,
+        "compression_ratio" : 1.6088709677419355,
+        "no_speech_prob" : 0.005555563140660524
+      },
+      {
+        "id" : 18,
+        "seek" : 8440,
+        "start" : 105.6,
+        "end" : 107.6,
+        "text" : " Tube ex-land",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35215524832407635,
+        "compression_ratio" : 1.6088709677419355,
+        "no_speech_prob" : 0.005555563140660524
+      },
+      {
+        "id" : 19,
+        "seek" : 8440,
+        "start" : 107.6,
+        "end" : 110.44,
+        "text" : " I'm gonna put this we're gonna have to blow this out",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35215524832407635,
+        "compression_ratio" : 1.6088709677419355,
+        "no_speech_prob" : 0.005555563140660524
+      },
+      {
+        "id" : 20,
+        "seek" : 11044,
+        "start" : 110.44,
+        "end" : 118.24,
+        "text" : " But apparently what if you guys are curious what this is it appears to be a sex party with male strippers and what it appears to be a man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27022053262461787,
+        "compression_ratio" : 1.7562724014336917,
+        "no_speech_prob" : 0.017483437433838844
+      },
+      {
+        "id" : 21,
+        "seek" : 11044,
+        "start" : 119.36,
+        "end" : 125.88,
+        "text" : " Having and getting well, let's not get too much into this because apparently even just fucking talking about it can get our video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27022053262461787,
+        "compression_ratio" : 1.7562724014336917,
+        "no_speech_prob" : 0.017483437433838844
+      },
+      {
+        "id" : 22,
+        "seek" : 11044,
+        "start" : 126.24,
+        "end" : 133.48,
+        "text" : " Pulled isn't that right YouTube see what I like about it is they didn't even like age restricted a three-year-old video with like a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27022053262461787,
+        "compression_ratio" : 1.7562724014336917,
+        "no_speech_prob" : 0.017483437433838844
+      },
+      {
+        "id" : 23,
+        "seek" : 11044,
+        "start" : 133.72,
+        "end" : 139.92,
+        "text" : " Reputation and a little fucking cult thing a little Eddie Wally Wow, right wow, right like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27022053262461787,
+        "compression_ratio" : 1.7562724014336917,
+        "no_speech_prob" : 0.017483437433838844
+      },
+      {
+        "id" : 24,
+        "seek" : 14044,
+        "start" : 140.44,
+        "end" : 144.84,
+        "text" : " They just straight up removed it first because I showed because I showed this I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34867730471167235,
+        "compression_ratio" : 1.7355371900826446,
+        "no_speech_prob" : 0.012275916524231434
+      },
+      {
+        "id" : 25,
+        "seek" : 14044,
+        "start" : 145.44,
+        "end" : 148.12,
+        "text" : " Should this I showed this is that too graphical",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34867730471167235,
+        "compression_ratio" : 1.7355371900826446,
+        "no_speech_prob" : 0.012275916524231434
+      },
+      {
+        "id" : 26,
+        "seek" : 14044,
+        "start" : 148.72,
+        "end" : 157.96,
+        "text" : " Doesn't look that bad, right I showed this guys I showed this I'm so sorry for corrupting the fabric of society YouTube for showing this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34867730471167235,
+        "compression_ratio" : 1.7355371900826446,
+        "no_speech_prob" : 0.012275916524231434
+      },
+      {
+        "id" : 27,
+        "seek" : 14044,
+        "start" : 158.48,
+        "end" : 168.04,
+        "text" : " God, please fucking forgive me YouTube God. I'm so sorry. Please forgive me, dude. Oh, anyway. I wonder what's new from crank invasion here. Let's just see",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34867730471167235,
+        "compression_ratio" : 1.7355371900826446,
+        "no_speech_prob" : 0.012275916524231434
+      },
+      {
+        "id" : 28,
+        "seek" : 16804,
+        "start" : 169.04,
+        "end" : 175.22,
+        "text" : " Let me just get out my fucking dick now and let's see at your snow at your restriction here guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41422145467408944,
+        "compression_ratio" : 1.8819444444444444,
+        "no_speech_prob" : 0.05951587110757828
+      },
+      {
+        "id" : 29,
+        "seek" : 16804,
+        "start" : 175.22,
+        "end" : 179.3,
+        "text" : " Let me just get out my fucking dick now and let's see what's going on. Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41422145467408944,
+        "compression_ratio" : 1.8819444444444444,
+        "no_speech_prob" : 0.05951587110757828
+      },
+      {
+        "id" : 30,
+        "seek" : 16804,
+        "start" : 181.48,
+        "end" : 186.72,
+        "text" : " Fuck yeah, let me get out my fucking dick and jerk off right fucking now get a load of this you love",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41422145467408944,
+        "compression_ratio" : 1.8819444444444444,
+        "no_speech_prob" : 0.05951587110757828
+      },
+      {
+        "id" : 31,
+        "seek" : 18672,
+        "start" : 186.72,
+        "end" : 188.72,
+        "text" : " Yeah, that's the good shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 32,
+        "seek" : 18672,
+        "start" : 189.8,
+        "end" : 198.08,
+        "text" : " Yeah, grab that ass Chris you used to be not be able to do that apparently you can just do anything now because it makes him a lot of money for consistency",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 33,
+        "seek" : 18672,
+        "start" : 198.08,
+        "end" : 200.58,
+        "text" : " Say let's just type camel toe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 34,
+        "seek" : 18672,
+        "start" : 201.56,
+        "end" : 203.56,
+        "text" : " compilation",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 35,
+        "seek" : 18672,
+        "start" : 203.56,
+        "end" : 207.14,
+        "text" : " I want to jerk off. Please end on only eight",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 36,
+        "seek" : 18672,
+        "start" : 207.56,
+        "end" : 209.32,
+        "text" : " Okay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 37,
+        "seek" : 18672,
+        "start" : 209.32,
+        "end" : 212.84,
+        "text" : " Okay, maybe I was a little bit too specific. Let's just go with the camel toe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37006586978310035,
+        "compression_ratio" : 1.543859649122807,
+        "no_speech_prob" : 0.03177595138549805
+      },
+      {
+        "id" : 38,
+        "seek" : 21284,
+        "start" : 213.2,
+        "end" : 215.48,
+        "text" : " compilation and see what we find here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3316423868395619,
+        "compression_ratio" : 1.7232142857142858,
+        "no_speech_prob" : 0.009668285958468914
+      },
+      {
+        "id" : 39,
+        "seek" : 21284,
+        "start" : 216.02,
+        "end" : 218.02,
+        "text" : " Wow 100,000 views",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3316423868395619,
+        "compression_ratio" : 1.7232142857142858,
+        "no_speech_prob" : 0.009668285958468914
+      },
+      {
+        "id" : 40,
+        "seek" : 21284,
+        "start" : 219.0,
+        "end" : 225.56,
+        "text" : " Fucking 10 minutes of camel toe really you guys really you guys went all out for this not even an age restriction guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3316423868395619,
+        "compression_ratio" : 1.7232142857142858,
+        "no_speech_prob" : 0.009668285958468914
+      },
+      {
+        "id" : 41,
+        "seek" : 21284,
+        "start" : 225.88,
+        "end" : 231.44,
+        "text" : " Camel toes are everywhere. There's a 10 minute compilation of camel toes. Let's see if this one's age restricted",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3316423868395619,
+        "compression_ratio" : 1.7232142857142858,
+        "no_speech_prob" : 0.009668285958468914
+      },
+      {
+        "id" : 42,
+        "seek" : 21284,
+        "start" : 231.44,
+        "end" : 234.72,
+        "text" : " No, it's not apparently this is all fucking good. Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3316423868395619,
+        "compression_ratio" : 1.7232142857142858,
+        "no_speech_prob" : 0.009668285958468914
+      },
+      {
+        "id" : 43,
+        "seek" : 21284,
+        "start" : 235.12,
+        "end" : 237.72,
+        "text" : " Look at that fucking juicy camel toe girl. Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3316423868395619,
+        "compression_ratio" : 1.7232142857142858,
+        "no_speech_prob" : 0.009668285958468914
+      },
+      {
+        "id" : 44,
+        "seek" : 23772,
+        "start" : 237.72,
+        "end" : 242.82,
+        "text" : " Whoa, let me just get out my fucking dick because ours wasn't even sexual",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2419943851707256,
+        "compression_ratio" : 1.627906976744186,
+        "no_speech_prob" : 0.003701614448800683
+      },
+      {
+        "id" : 45,
+        "seek" : 23772,
+        "start" : 242.82,
+        "end" : 247.72,
+        "text" : " It was just a woman talking in a public place and was obviously edit for a comedic effect but here look at this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2419943851707256,
+        "compression_ratio" : 1.627906976744186,
+        "no_speech_prob" : 0.003701614448800683
+      },
+      {
+        "id" : 46,
+        "seek" : 23772,
+        "start" : 248.08,
+        "end" : 254.72,
+        "text" : " This is some voyeuristic shit right here boy someone intentionally followed this girl around it took some pictures of her fucking vagina",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2419943851707256,
+        "compression_ratio" : 1.627906976744186,
+        "no_speech_prob" : 0.003701614448800683
+      },
+      {
+        "id" : 47,
+        "seek" : 23772,
+        "start" : 255.0,
+        "end" : 262.32,
+        "text" : " At least the girl that I fucking filmed did it willingly. Oh great. That's YouTube here to tell us that our videos being taken down again",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2419943851707256,
+        "compression_ratio" : 1.627906976744186,
+        "no_speech_prob" : 0.003701614448800683
+      },
+      {
+        "id" : 48,
+        "seek" : 23772,
+        "start" : 262.56,
+        "end" : 264.56,
+        "text" : " All right, let's just come on",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2419943851707256,
+        "compression_ratio" : 1.627906976744186,
+        "no_speech_prob" : 0.003701614448800683
+      },
+      {
+        "id" : 49,
+        "seek" : 26456,
+        "start" : 265.52,
+        "end" : 269.6,
+        "text" : " Yeah, did it come on fuck me in the ass dude. Just don't forget to bring glue of this time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2902377816133721,
+        "compression_ratio" : 1.7320754716981133,
+        "no_speech_prob" : 0.011549663729965687
+      },
+      {
+        "id" : 50,
+        "seek" : 26456,
+        "start" : 271.4,
+        "end" : 275.2,
+        "text" : " All right, there we go. We're good. So guys, I think we better wrap it up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2902377816133721,
+        "compression_ratio" : 1.7320754716981133,
+        "no_speech_prob" : 0.011549663729965687
+      },
+      {
+        "id" : 51,
+        "seek" : 26456,
+        "start" : 275.2,
+        "end" : 279.2,
+        "text" : " Because I'm about to get fucking pounded in the ass and that might be a little bit too graphic for this video, right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2902377816133721,
+        "compression_ratio" : 1.7320754716981133,
+        "no_speech_prob" : 0.011549663729965687
+      },
+      {
+        "id" : 52,
+        "seek" : 26456,
+        "start" : 279.56,
+        "end" : 282.54,
+        "text" : " Right, I don't want to get I don't want to get into too much trouble here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2902377816133721,
+        "compression_ratio" : 1.7320754716981133,
+        "no_speech_prob" : 0.011549663729965687
+      },
+      {
+        "id" : 53,
+        "seek" : 26456,
+        "start" : 282.54,
+        "end" : 289.4,
+        "text" : " I don't want to destroy the fabric of society. Oh god great great great. I said come up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2902377816133721,
+        "compression_ratio" : 1.7320754716981133,
+        "no_speech_prob" : 0.011549663729965687
+      },
+      {
+        "id" : 54,
+        "seek" : 26456,
+        "start" : 289.4,
+        "end" : 290.92,
+        "text" : " I said come up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2902377816133721,
+        "compression_ratio" : 1.7320754716981133,
+        "no_speech_prob" : 0.011549663729965687
+      },
+      {
+        "id" : 55,
+        "seek" : 29092,
+        "start" : 290.92,
+        "end" : 296.02,
+        "text" : " It brings the fucking little boy nothing in this time. I told you I'm not going wrong in man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.606733631443333,
+        "compression_ratio" : 1.6730769230769231,
+        "no_speech_prob" : 0.02980836294591427
+      },
+      {
+        "id" : 56,
+        "seek" : 29092,
+        "start" : 298.12,
+        "end" : 300.12,
+        "text" : " I'm not going wrong and do",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.606733631443333,
+        "compression_ratio" : 1.6730769230769231,
+        "no_speech_prob" : 0.02980836294591427
+      },
+      {
+        "id" : 57,
+        "seek" : 29092,
+        "start" : 306.92,
+        "end" : 308.92,
+        "text" : " We tested it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.606733631443333,
+        "compression_ratio" : 1.6730769230769231,
+        "no_speech_prob" : 0.02980836294591427
+      },
+      {
+        "id" : 58,
+        "seek" : 29092,
+        "start" : 309.16,
+        "end" : 312.52,
+        "text" : " We tested I thought the top button didn't work I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.606733631443333,
+        "compression_ratio" : 1.6730769230769231,
+        "no_speech_prob" : 0.02980836294591427
+      },
+      {
+        "id" : 59,
+        "seek" : 29092,
+        "start" : 313.72,
+        "end" : 317.64,
+        "text" : " Thought we tested it. I just told the mailman to come up and fuck me in the ass",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.606733631443333,
+        "compression_ratio" : 1.6730769230769231,
+        "no_speech_prob" : 0.02980836294591427
+      },
+      {
+        "id" : 60,
+        "seek" : 31764,
+        "start" : 317.64,
+        "end" : 323.96,
+        "text" : " Maybe he's coming maybe he's good looking maybe maybe it's not such a bad thing after all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.412322998046875,
+        "compression_ratio" : 1.4188034188034189,
+        "no_speech_prob" : 0.043688058853149414
+      },
+      {
+        "id" : 61,
+        "seek" : 31764,
+        "start" : 343.32,
+        "end" : 346.36,
+        "text" : " Thank you so much for watching guys if you want to see more videos like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.412322998046875,
+        "compression_ratio" : 1.4188034188034189,
+        "no_speech_prob" : 0.043688058853149414
+      },
+      {
+        "id" : 62,
+        "seek" : 34636,
+        "start" : 346.36,
+        "end" : 351.24,
+        "text" : " Subscribe to our second channel by clicking the box in the middle and the next video is gonna be a reaction video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.241860294342041,
+        "compression_ratio" : 1.4545454545454546,
+        "no_speech_prob" : 0.02417639084160328
+      },
+      {
+        "id" : 63,
+        "seek" : 34636,
+        "start" : 351.24,
+        "end" : 356.44,
+        "text" : " So stay tuned for that. Thank you so much guys. Hope you don't appreciate it. We love you so much. Bye. Bye. See you next time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.241860294342041,
+        "compression_ratio" : 1.4545454545454546,
+        "no_speech_prob" : 0.02417639084160328
+      }
+    ]
+  }
+}

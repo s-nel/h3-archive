@@ -1,0 +1,13 @@
+{
+  "person_id" : "rbarr",
+  "category" : "lore",
+  "first_name" : "Roseanne",
+  "last_name" : "Barr",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

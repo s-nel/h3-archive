@@ -1,0 +1,13 @@
+{
+  "person_id" : "rwatts",
+  "category" : "guest",
+  "first_name" : "Reginald",
+  "last_name" : "Watts",
+  "display_name" : "Reggie Watts",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

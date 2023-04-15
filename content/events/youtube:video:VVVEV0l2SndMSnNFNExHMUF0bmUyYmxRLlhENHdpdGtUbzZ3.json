@@ -1,0 +1,509 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlhENHdpdGtUbzZ3",
+  "category" : "video",
+  "name" : "Hot Kitchen",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/XD4witkTo6w/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/XD4witkTo6w"
+    }
+  ],
+  "start_date" : 1409355733000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.5,
+        "text" : " What are you? Is it water over your head?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5538028370250355,
+        "compression_ratio" : 1.3933333333333333,
+        "no_speech_prob" : 0.3088601231575012
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 3.5,
+        "end" : 6.0,
+        "text" : " I'm better off on a decision.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5538028370250355,
+        "compression_ratio" : 1.3933333333333333,
+        "no_speech_prob" : 0.3088601231575012
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 9.0,
+        "text" : " The person that you call kitchen is?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5538028370250355,
+        "compression_ratio" : 1.3933333333333333,
+        "no_speech_prob" : 0.3088601231575012
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 23.0,
+        "text" : " Next time on the hot kitchen, won't you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5538028370250355,
+        "compression_ratio" : 1.3933333333333333,
+        "no_speech_prob" : 0.3088601231575012
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 27.0,
+        "text" : " I'm just my friend and I just want to know if I'm pregnant.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5538028370250355,
+        "compression_ratio" : 1.3933333333333333,
+        "no_speech_prob" : 0.3088601231575012
+      },
+      {
+        "id" : 5,
+        "seek" : 2700,
+        "start" : 27.0,
+        "end" : 30.0,
+        "text" : " Might be cooking and Purdue.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 6,
+        "seek" : 2700,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " Oh, this looks.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 7,
+        "seek" : 2700,
+        "start" : 34.0,
+        "end" : 36.0,
+        "text" : " Well the news is kicking her hormones.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 8,
+        "seek" : 2700,
+        "start" : 36.0,
+        "end" : 38.0,
+        "text" : " You guys just gonna shut up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 9,
+        "seek" : 2700,
+        "start" : 38.0,
+        "end" : 40.0,
+        "text" : " Or get her a kid down.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 10,
+        "seek" : 2700,
+        "start" : 40.0,
+        "end" : 44.0,
+        "text" : " I can't go home now. I'm gonna so happen.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 11,
+        "seek" : 2700,
+        "start" : 44.0,
+        "end" : 46.0,
+        "text" : " Hot kitchen.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 12,
+        "seek" : 2700,
+        "start" : 46.0,
+        "end" : 49.0,
+        "text" : " I want a battle of rubs in the door.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 13,
+        "seek" : 2700,
+        "start" : 49.0,
+        "end" : 50.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 14,
+        "seek" : 2700,
+        "start" : 50.0,
+        "end" : 51.0,
+        "text" : " We'll ruin it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 15,
+        "seek" : 2700,
+        "start" : 51.0,
+        "end" : 52.0,
+        "text" : " Bit bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 16,
+        "seek" : 2700,
+        "start" : 52.0,
+        "end" : 53.0,
+        "text" : " Oh god.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 17,
+        "seek" : 2700,
+        "start" : 53.0,
+        "end" : 55.0,
+        "text" : " Bit bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 18,
+        "seek" : 2700,
+        "start" : 55.0,
+        "end" : 56.0,
+        "text" : " Bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5378298372835726,
+        "compression_ratio" : 1.4923076923076923,
+        "no_speech_prob" : 0.03463265299797058
+      },
+      {
+        "id" : 19,
+        "seek" : 5600,
+        "start" : 56.0,
+        "end" : 58.0,
+        "text" : " Bit bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 20,
+        "seek" : 5600,
+        "start" : 58.0,
+        "end" : 60.0,
+        "text" : " Bit bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 21,
+        "seek" : 5600,
+        "start" : 60.0,
+        "end" : 61.0,
+        "text" : " Bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 22,
+        "seek" : 5600,
+        "start" : 61.0,
+        "end" : 62.0,
+        "text" : " Bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 23,
+        "seek" : 5600,
+        "start" : 62.0,
+        "end" : 63.0,
+        "text" : " Bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 24,
+        "seek" : 5600,
+        "start" : 63.0,
+        "end" : 65.0,
+        "text" : " You're gonna die backstab.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 25,
+        "seek" : 5600,
+        "start" : 65.0,
+        "end" : 67.0,
+        "text" : " Get the fuck out of my face.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 26,
+        "seek" : 5600,
+        "start" : 67.0,
+        "end" : 69.0,
+        "text" : " When the gloves come off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 27,
+        "seek" : 5600,
+        "start" : 69.0,
+        "end" : 70.0,
+        "text" : " I'm just gonna be the fuck you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 28,
+        "seek" : 5600,
+        "start" : 70.0,
+        "end" : 71.0,
+        "text" : " I'm a bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 29,
+        "seek" : 5600,
+        "start" : 71.0,
+        "end" : 72.0,
+        "text" : " You're gonna die backstab.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 30,
+        "seek" : 5600,
+        "start" : 72.0,
+        "end" : 73.0,
+        "text" : " Bit bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 31,
+        "seek" : 5600,
+        "start" : 73.0,
+        "end" : 74.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 32,
+        "seek" : 5600,
+        "start" : 74.0,
+        "end" : 76.0,
+        "text" : " Go ahead.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 33,
+        "seek" : 5600,
+        "start" : 76.0,
+        "end" : 77.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 34,
+        "seek" : 5600,
+        "start" : 77.0,
+        "end" : 78.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 35,
+        "seek" : 5600,
+        "start" : 78.0,
+        "end" : 79.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 36,
+        "seek" : 5600,
+        "start" : 79.0,
+        "end" : 81.0,
+        "text" : " Go ahead.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 37,
+        "seek" : 5600,
+        "start" : 81.0,
+        "end" : 82.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4557478904724121,
+        "compression_ratio" : 1.9851851851851852,
+        "no_speech_prob" : 0.008087149821221828
+      },
+      {
+        "id" : 38,
+        "seek" : 8200,
+        "start" : 83.0,
+        "end" : 84.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48838600745567906,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0247418861836195
+      },
+      {
+        "id" : 39,
+        "seek" : 8200,
+        "start" : 85.0,
+        "end" : 86.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48838600745567906,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0247418861836195
+      },
+      {
+        "id" : 40,
+        "seek" : 8200,
+        "start" : 86.0,
+        "end" : 87.0,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48838600745567906,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0247418861836195
+      },
+      {
+        "id" : 41,
+        "seek" : 8200,
+        "start" : 88.0,
+        "end" : 89.0,
+        "text" : " Go ahead.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48838600745567906,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0247418861836195
+      },
+      {
+        "id" : 42,
+        "seek" : 8200,
+        "start" : 90.0,
+        "end" : 92.0,
+        "text" : " You're good, sir.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48838600745567906,
+        "compression_ratio" : 1.0909090909090908,
+        "no_speech_prob" : 0.0247418861836195
+      }
+    ]
+  }
+}

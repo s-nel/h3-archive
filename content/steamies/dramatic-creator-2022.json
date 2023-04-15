@@ -1,0 +1,43 @@
+{
+  "steamy_id" : "dramatic-creator-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "eklein"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "aross"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "hpiker"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "flengyel"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Most Dramatic Creator",
+  "description" : null,
+  "year" : 2022
+}

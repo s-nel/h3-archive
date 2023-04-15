@@ -1,0 +1,13 @@
+{
+  "person_id" : "rkelly",
+  "category" : "lore",
+  "first_name" : "Robert",
+  "last_name" : "Kelly",
+  "display_name" : "R. Kelly",
+  "thumb" : "/people/rkelly.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

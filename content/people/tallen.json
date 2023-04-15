@@ -1,0 +1,13 @@
+{
+  "person_id" : "tallen",
+  "category" : "guest",
+  "first_name" : "Tom",
+  "last_name" : "Allen",
+  "display_name" : "Chad Kroeger",
+  "thumb" : "/people/tallen.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

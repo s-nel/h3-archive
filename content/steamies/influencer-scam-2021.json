@@ -1,0 +1,50 @@
+{
+  "steamy_id" : "influencer-scam-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "fkhattri",
+        "ble"
+      ],
+      "name" : "Save the Kids token",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : "Dink Doink",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom"
+      ],
+      "name" : "TikToker boxing event",
+      "won" : true
+    },
+    {
+      "person_id" : [
+      ],
+      "name" : "Nelk fake Ferrari giveaway",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "tniknam"
+      ],
+      "name" : "Shady Twitch gambling sponsorships",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "rhoffstedder"
+      ],
+      "name" : "Blue light skin care",
+      "won" : false
+    }
+  ],
+  "name" : "Worst Influencer Scam",
+  "description" : null,
+  "year" : 2021
+}

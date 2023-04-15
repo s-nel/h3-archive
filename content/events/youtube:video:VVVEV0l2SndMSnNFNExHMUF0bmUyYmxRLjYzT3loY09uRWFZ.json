@@ -1,0 +1,333 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjYzT3loY09uRWFZ",
+  "category" : "video",
+  "name" : "4 Looks You Need This Summer",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/63OyhcOnEaY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/63OyhcOnEaY"
+    }
+  ],
+  "start_date" : 1501189443000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.42,
+        "text" : " Oh hello there, I didn't realize you were watching.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.42,
+        "end" : 8.0,
+        "text" : " You know one of the most common questions I get while making these videos for you guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 9.68,
+        "text" : " is Ethan, what are you wearing?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 9.68,
+        "end" : 13.96,
+        "text" : " People want to cop, my fresh looks, what's the hat, what are the pants?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 13.96,
+        "end" : 17.72,
+        "text" : " And I thought I put together a little look book for you guys for this summer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 17.72,
+        "end" : 22.24,
+        "text" : " I seen some of the look book fashion girls out there getting some hot threads and I figured",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 22.24,
+        "end" : 23.92,
+        "text" : " it'd be fun to do the same.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 23.92,
+        "end" : 26.2,
+        "text" : " So we put together a little bit of a goof for you guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 26.2,
+        "end" : 28.12,
+        "text" : " I hope you guys enjoy it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19382699778382206,
+        "compression_ratio" : 1.7635135135135136,
+        "no_speech_prob" : 0.4432254135608673
+      },
+      {
+        "id" : 9,
+        "seek" : 2812,
+        "start" : 28.12,
+        "end" : 30.6,
+        "text" : " And don't ever talk to me or my hair again.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4656928539276123,
+        "compression_ratio" : 0.8688524590163934,
+        "no_speech_prob" : 0.11779353022575378
+      },
+      {
+        "id" : 10,
+        "seek" : 2812,
+        "start" : 30.6,
+        "end" : 31.04,
+        "text" : " Enjoy it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4656928539276123,
+        "compression_ratio" : 0.8688524590163934,
+        "no_speech_prob" : 0.11779353022575378
+      },
+      {
+        "id" : 11,
+        "seek" : 20812,
+        "start" : 208.12,
+        "end" : 209.12,
+        "text" : " We love you, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7743192488147367,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.9641786813735962
+      },
+      {
+        "id" : 12,
+        "seek" : 20812,
+        "start" : 209.12,
+        "end" : 210.12,
+        "text" : " I love you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7743192488147367,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.9641786813735962
+      },
+      {
+        "id" : 13,
+        "seek" : 20812,
+        "start" : 210.12,
+        "end" : 211.12,
+        "text" : " We love you, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7743192488147367,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.9641786813735962
+      },
+      {
+        "id" : 14,
+        "seek" : 20812,
+        "start" : 211.12,
+        "end" : 212.12,
+        "text" : " We love you, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7743192488147367,
+        "compression_ratio" : 1.8055555555555556,
+        "no_speech_prob" : 0.9641786813735962
+      },
+      {
+        "id" : 15,
+        "seek" : 23812,
+        "start" : 238.12,
+        "end" : 258.96,
+        "text" : " You guys need help with anything?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5791519255865187,
+        "compression_ratio" : 1.2,
+        "no_speech_prob" : 0.3419976234436035
+      },
+      {
+        "id" : 16,
+        "seek" : 23812,
+        "start" : 258.96,
+        "end" : 260.96,
+        "text" : " You got it under control?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5791519255865187,
+        "compression_ratio" : 1.2,
+        "no_speech_prob" : 0.3419976234436035
+      },
+      {
+        "id" : 17,
+        "seek" : 23812,
+        "start" : 260.96,
+        "end" : 263.76,
+        "text" : " You know where to reach me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5791519255865187,
+        "compression_ratio" : 1.2,
+        "no_speech_prob" : 0.3419976234436035
+      },
+      {
+        "id" : 18,
+        "seek" : 23812,
+        "start" : 263.76,
+        "end" : 265.36,
+        "text" : " Take care guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5791519255865187,
+        "compression_ratio" : 1.2,
+        "no_speech_prob" : 0.3419976234436035
+      },
+      {
+        "id" : 19,
+        "seek" : 23812,
+        "start" : 265.36,
+        "end" : 267.36,
+        "text" : " Keep up the good work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5791519255865187,
+        "compression_ratio" : 1.2,
+        "no_speech_prob" : 0.3419976234436035
+      },
+      {
+        "id" : 20,
+        "seek" : 26736,
+        "start" : 267.36,
+        "end" : 274.36,
+        "text" : " They call me every once in a while if they need help.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5024529695510864,
+        "compression_ratio" : 0.9298245614035088,
+        "no_speech_prob" : 0.15181821584701538
+      },
+      {
+        "id" : 21,
+        "seek" : 29736,
+        "start" : 297.36,
+        "end" : 314.36,
+        "text" : " Excuse me, do you need help with anything?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47826823782413563,
+        "compression_ratio" : 1.1397849462365592,
+        "no_speech_prob" : 0.33158445358276367
+      },
+      {
+        "id" : 22,
+        "seek" : 29736,
+        "start" : 314.36,
+        "end" : 315.36,
+        "text" : " No, thanks, Catman.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47826823782413563,
+        "compression_ratio" : 1.1397849462365592,
+        "no_speech_prob" : 0.33158445358276367
+      },
+      {
+        "id" : 23,
+        "seek" : 29736,
+        "start" : 315.36,
+        "end" : 316.36,
+        "text" : " If I do.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47826823782413563,
+        "compression_ratio" : 1.1397849462365592,
+        "no_speech_prob" : 0.33158445358276367
+      },
+      {
+        "id" : 24,
+        "seek" : 29736,
+        "start" : 316.36,
+        "end" : 317.36,
+        "text" : " Catman?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47826823782413563,
+        "compression_ratio" : 1.1397849462365592,
+        "no_speech_prob" : 0.33158445358276367
+      },
+      {
+        "id" : 25,
+        "seek" : 29736,
+        "start" : 317.36,
+        "end" : 318.36,
+        "text" : " Oh, you're Batman?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47826823782413563,
+        "compression_ratio" : 1.1397849462365592,
+        "no_speech_prob" : 0.33158445358276367
+      },
+      {
+        "id" : 26,
+        "seek" : 29736,
+        "start" : 318.36,
+        "end" : 319.36,
+        "text" : " Catman.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47826823782413563,
+        "compression_ratio" : 1.1397849462365592,
+        "no_speech_prob" : 0.33158445358276367
+      }
+    ]
+  }
+}

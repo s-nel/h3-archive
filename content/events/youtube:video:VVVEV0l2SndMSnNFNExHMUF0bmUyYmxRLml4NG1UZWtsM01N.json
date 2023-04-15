@@ -1,0 +1,432 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLml4NG1UZWtsM01N",
+  "category" : "video",
+  "name" : "A New Chapter for Fair Use on YouTube",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/ix4mTekl3MM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/ix4mTekl3MM"
+    }
+  ],
+  "start_date" : 1464318188000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 11.0,
+        "text" : " Since we posted our video two days ago a lot has happened. It's been crazy and most of all we've received such an overwhelming amount of support that it's completely blown us away.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1823281210822028,
+        "compression_ratio" : 1.547085201793722,
+        "no_speech_prob" : 0.14913728833198547
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 21.0,
+        "text" : " When we made that video we didn't expect anyone to really care about it except our own community and just seeing everyone come together has been absolutely amazing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1823281210822028,
+        "compression_ratio" : 1.547085201793722,
+        "no_speech_prob" : 0.14913728833198547
+      },
+      {
+        "id" : 2,
+        "seek" : 2100,
+        "start" : 21.0,
+        "end" : 37.0,
+        "text" : " Many of you guys probably heard by now that Philly D upon seeing our video started a GoFundMe campaign that as of now has raised over $115,000 in 24 hours.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19096089733971489,
+        "compression_ratio" : 1.36,
+        "no_speech_prob" : 0.7581093907356262
+      },
+      {
+        "id" : 3,
+        "seek" : 2100,
+        "start" : 37.0,
+        "end" : 45.0,
+        "text" : " It's unreal. I feel like it just turned completely for the shittiest situation we've been in to one of the greatest.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19096089733971489,
+        "compression_ratio" : 1.36,
+        "no_speech_prob" : 0.7581093907356262
+      },
+      {
+        "id" : 4,
+        "seek" : 4500,
+        "start" : 45.0,
+        "end" : 74.0,
+        "text" : " It's ridiculous. And now no matter what happens with the case we've already won. Philly D started by putting in $5,000 notch cave in with $8,000 Gary Newman, Markiplier, Michael Green, Drama Alert, PewDiePie, Jacksepticeye, Quetzalcop, Ray Narvez, Anna Nutshell, Critical, Did You Know Gaming, Jake Roper, I hate everything. Luna, Mathias, Scaris, Boogie, Jenna Marbles, even Leafy is here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3098062975653287,
+        "compression_ratio" : 1.4028776978417266,
+        "no_speech_prob" : 0.9182813167572021
+      },
+      {
+        "id" : 5,
+        "seek" : 7400,
+        "start" : 74.0,
+        "end" : 82.0,
+        "text" : " And the fine bros, people who we've roasted in the past set aside their differences to help protect fair use for which I have so much respect.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12694615258110895,
+        "compression_ratio" : 1.5130434782608695,
+        "no_speech_prob" : 0.4359668493270874
+      },
+      {
+        "id" : 6,
+        "seek" : 7400,
+        "start" : 82.0,
+        "end" : 85.0,
+        "text" : " I mean the fine bros gave $10,000.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12694615258110895,
+        "compression_ratio" : 1.5130434782608695,
+        "no_speech_prob" : 0.4359668493270874
+      },
+      {
+        "id" : 7,
+        "seek" : 7400,
+        "start" : 85.0,
+        "end" : 88.0,
+        "text" : " Yeah that was just so shocking.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12694615258110895,
+        "compression_ratio" : 1.5130434782608695,
+        "no_speech_prob" : 0.4359668493270874
+      },
+      {
+        "id" : 8,
+        "seek" : 7400,
+        "start" : 88.0,
+        "end" : 98.0,
+        "text" : " Honestly a huge big big thank you to everybody who helped support it. All those guys and 4,000 plus more people who gave us so generously.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12694615258110895,
+        "compression_ratio" : 1.5130434782608695,
+        "no_speech_prob" : 0.4359668493270874
+      },
+      {
+        "id" : 9,
+        "seek" : 9800,
+        "start" : 98.0,
+        "end" : 105.0,
+        "text" : " Now we fully realize that people aren't supporting age 3, age 3. Most of them are just supporting fair use.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12663763486422025,
+        "compression_ratio" : 1.6824324324324325,
+        "no_speech_prob" : 0.48043093085289
+      },
+      {
+        "id" : 10,
+        "seek" : 9800,
+        "start" : 105.0,
+        "end" : 113.0,
+        "text" : " Yeah. And that's why this movement was so powerful. And in consideration of that we received so much money. We're not going to use all that money.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12663763486422025,
+        "compression_ratio" : 1.6824324324324325,
+        "no_speech_prob" : 0.48043093085289
+      },
+      {
+        "id" : 11,
+        "seek" : 9800,
+        "start" : 113.0,
+        "end" : 117.0,
+        "text" : " You guys gave us so much money. Right now it's like $120,000.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12663763486422025,
+        "compression_ratio" : 1.6824324324324325,
+        "no_speech_prob" : 0.48043093085289
+      },
+      {
+        "id" : 12,
+        "seek" : 9800,
+        "start" : 117.0,
+        "end" : 118.0,
+        "text" : " No yeah it's ridiculous.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12663763486422025,
+        "compression_ratio" : 1.6824324324324325,
+        "no_speech_prob" : 0.48043093085289
+      },
+      {
+        "id" : 13,
+        "seek" : 9800,
+        "start" : 118.0,
+        "end" : 126.0,
+        "text" : " I mean we say we need $100,000 at most and there's a large chance that we're not going to use anywhere near that amount depending on how long the case goes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12663763486422025,
+        "compression_ratio" : 1.6824324324324325,
+        "no_speech_prob" : 0.48043093085289
+      },
+      {
+        "id" : 14,
+        "seek" : 12600,
+        "start" : 126.0,
+        "end" : 138.0,
+        "text" : " So in consideration of that we've decided to take every single penny and put it into an escrow account in the care of Morrison Lee, Ryan Morrison and his partner Michael Lee, video game attorney.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09289511140570583,
+        "compression_ratio" : 1.6916299559471366,
+        "no_speech_prob" : 0.013103664852678776
+      },
+      {
+        "id" : 15,
+        "seek" : 12600,
+        "start" : 138.0,
+        "end" : 151.0,
+        "text" : " So it goes into an escrow account in their care that will be used only for the purpose of protecting fair use and representing people big or small who are in legitimate need of protection.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09289511140570583,
+        "compression_ratio" : 1.6916299559471366,
+        "no_speech_prob" : 0.013103664852678776
+      },
+      {
+        "id" : 16,
+        "seek" : 15100,
+        "start" : 151.0,
+        "end" : 165.0,
+        "text" : " So far these guys Morrison Lee have been known for giving free legal advice. Well now they can do way more than that. They can actually represent these people and use their time to help support fair use.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08728499988933186,
+        "compression_ratio" : 1.6144578313253013,
+        "no_speech_prob" : 0.14124269783496857
+      },
+      {
+        "id" : 17,
+        "seek" : 15100,
+        "start" : 165.0,
+        "end" : 177.0,
+        "text" : " That money will not be used for any other purpose. We will never see a penny of it. It is going straight from Philly Dees campaign into an escrow account for the sole purpose of protecting fair use.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08728499988933186,
+        "compression_ratio" : 1.6144578313253013,
+        "no_speech_prob" : 0.14124269783496857
+      },
+      {
+        "id" : 18,
+        "seek" : 17700,
+        "start" : 177.0,
+        "end" : 186.0,
+        "text" : " And we will be its first client. And that's why we decided to donate $5,000 of our own money into the GoFundMe.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09107638398806255,
+        "compression_ratio" : 1.5859030837004404,
+        "no_speech_prob" : 0.16983775794506073
+      },
+      {
+        "id" : 19,
+        "seek" : 17700,
+        "start" : 186.0,
+        "end" : 192.0,
+        "text" : " Because even though you guys gave us the money to defend ourselves we're also a member of this community and this is something that we care about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09107638398806255,
+        "compression_ratio" : 1.5859030837004404,
+        "no_speech_prob" : 0.16983775794506073
+      },
+      {
+        "id" : 20,
+        "seek" : 17700,
+        "start" : 192.0,
+        "end" : 199.0,
+        "text" : " So I mean it's also our burden to the bear. So we're giving $5,000 of our own money into the account.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09107638398806255,
+        "compression_ratio" : 1.5859030837004404,
+        "no_speech_prob" : 0.16983775794506073
+      },
+      {
+        "id" : 21,
+        "seek" : 19900,
+        "start" : 199.0,
+        "end" : 208.0,
+        "text" : " So we will be the first client of this account that will be known as the Fair Use Protection account also known as Fupa.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20263210932413736,
+        "compression_ratio" : 1.6856060606060606,
+        "no_speech_prob" : 0.46625590324401855
+      },
+      {
+        "id" : 22,
+        "seek" : 19900,
+        "start" : 208.0,
+        "end" : 219.0,
+        "text" : " And even now guys the Fupa continues to grow. The Fupa shall protect all of us. Thank you guys for helping us to meet the Fupa and making it the luxurious and big and powerful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20263210932413736,
+        "compression_ratio" : 1.6856060606060606,
+        "no_speech_prob" : 0.46625590324401855
+      },
+      {
+        "id" : 23,
+        "seek" : 19900,
+        "start" : 219.0,
+        "end" : 228.0,
+        "text" : " Like we always knew that it was. If anyone out there thinks that they have a legitimate fair use claim or being boy email Fupa at Morrison Lee.com.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20263210932413736,
+        "compression_ratio" : 1.6856060606060606,
+        "no_speech_prob" : 0.46625590324401855
+      },
+      {
+        "id" : 24,
+        "seek" : 22800,
+        "start" : 228.0,
+        "end" : 236.0,
+        "text" : " And they're the lawyers and ourselves are going to look over everything. And we will definitely get back to you if you have a legitimate cause.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10512162899148875,
+        "compression_ratio" : 1.7050847457627119,
+        "no_speech_prob" : 0.22281643748283386
+      },
+      {
+        "id" : 25,
+        "seek" : 22800,
+        "start" : 236.0,
+        "end" : 246.0,
+        "text" : " On Twitter you can follow us at Fupa for freedom. And here we'll be putting updates on how we're spending the money who we're helping if you have concerns tweet us there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10512162899148875,
+        "compression_ratio" : 1.7050847457627119,
+        "no_speech_prob" : 0.22281643748283386
+      },
+      {
+        "id" : 26,
+        "seek" : 22800,
+        "start" : 246.0,
+        "end" : 256.0,
+        "text" : " So this money should hypothetically last us a long time. And the amount of money that's there should act alone as a deterrent to other people who want to try to bully and fuck with people.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10512162899148875,
+        "compression_ratio" : 1.7050847457627119,
+        "no_speech_prob" : 0.22281643748283386
+      },
+      {
+        "id" : 27,
+        "seek" : 25600,
+        "start" : 256.0,
+        "end" : 264.0,
+        "text" : " Now that the money's there that means is there we've got a lawyer a community that's there to stand up and help protect fair use.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1437170438677351,
+        "compression_ratio" : 1.80859375,
+        "no_speech_prob" : 0.375373512506485
+      },
+      {
+        "id" : 28,
+        "seek" : 25600,
+        "start" : 264.0,
+        "end" : 275.0,
+        "text" : " Thanks to your guys as contributions. Thank you to everyone so much. This is like a dream like to actually have a organization where we as a community came together and fundraised to help protect everybody.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1437170438677351,
+        "compression_ratio" : 1.80859375,
+        "no_speech_prob" : 0.375373512506485
+      },
+      {
+        "id" : 29,
+        "seek" : 25600,
+        "start" : 275.0,
+        "end" : 282.0,
+        "text" : " Yeah, you actually have lawyers who knows what they're doing. Go ask them whatever you need. They can help. It's like a dream.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1437170438677351,
+        "compression_ratio" : 1.80859375,
+        "no_speech_prob" : 0.375373512506485
+      },
+      {
+        "id" : 30,
+        "seek" : 28200,
+        "start" : 282.0,
+        "end" : 293.0,
+        "text" : " It's like a YouTuber's union. I mean, I've always dreamed of this. We have a YouTuber's union. We have money. We have an organization. We have lawyers. Guys, this is like a new chapter for fair use on YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18804231056800255,
+        "compression_ratio" : 1.6708333333333334,
+        "no_speech_prob" : 0.534306526184082
+      },
+      {
+        "id" : 31,
+        "seek" : 28200,
+        "start" : 293.0,
+        "end" : 305.0,
+        "text" : " We finally stood together and the Fupa shall prevent. And honestly, I think that above Philly D, above notch who gave 8,000, above the fine bros who gave 10,000 everyone who gave so generous.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18804231056800255,
+        "compression_ratio" : 1.6708333333333334,
+        "no_speech_prob" : 0.534306526184082
+      },
+      {
+        "id" : 32,
+        "seek" : 30500,
+        "start" : 305.0,
+        "end" : 313.0,
+        "text" : " There's one person that needs to be thanked more than anyone. The VIP, the MVP, Matt Hoss.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1300074087606894,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.5912152528762817
+      },
+      {
+        "id" : 33,
+        "seek" : 30500,
+        "start" : 313.0,
+        "end" : 320.0,
+        "text" : " Remember, without Matt Hoss, none of this would have happened. Let me put it this way. The guy doesn't have Fupa.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1300074087606894,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.5912152528762817
+      },
+      {
+        "id" : 34,
+        "seek" : 30500,
+        "start" : 320.0,
+        "end" : 327.0,
+        "text" : " No, that's his problem. Matt Hoss doesn't have Fupa. We do. All of us do. Thanks to Matt Hoss. Thanks everybody.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1300074087606894,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.5912152528762817
+      },
+      {
+        "id" : 35,
+        "seek" : 30500,
+        "start" : 327.0,
+        "end" : 332.0,
+        "text" : " YouTube is great again. YouTube is great again. You guys made YouTube great again.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1300074087606894,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.5912152528762817
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "jjafari",
+  "category" : "guest",
+  "first_name" : "Jonathan",
+  "last_name" : "Jafari",
+  "display_name" : "JonTron",
+  "thumb" : "/people/jjafari.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

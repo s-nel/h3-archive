@@ -1,0 +1,14 @@
+{
+  "person_id" : "dkeem",
+  "category" : "enemy",
+  "first_name" : "Daniel",
+  "last_name" : "Keem",
+  "display_name" : "Keemstar",
+  "thumb" : "/people/dkeem.jpg",
+  "description" : null,
+  "aliases" : [
+    "Keemstar"
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

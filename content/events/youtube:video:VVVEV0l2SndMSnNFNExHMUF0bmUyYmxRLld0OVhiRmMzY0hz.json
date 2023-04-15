@@ -1,0 +1,300 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLld0OVhiRmMzY0hz",
+  "category" : "video",
+  "name" : "Save Marina Joyce Parody",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Wt9XbFc3cHs/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Wt9XbFc3cHs"
+    }
+  ],
+  "start_date" : 1469921914000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.0,
+        "text" : " Hey guys, this is just me here advertising for clothes for CSGO Lotto.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34628460325043775,
+        "compression_ratio" : 1.3309859154929577,
+        "no_speech_prob" : 0.02087012119591236
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 12.0,
+        "text" : " If you want to buy my hazmat suit then please take a look and enjoy my hazmat suit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34628460325043775,
+        "compression_ratio" : 1.3309859154929577,
+        "no_speech_prob" : 0.02087012119591236
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 22.0,
+        "text" : " But very useful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34628460325043775,
+        "compression_ratio" : 1.3309859154929577,
+        "no_speech_prob" : 0.02087012119591236
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 22.0,
+        "end" : 24.0,
+        "text" : " Stop, stop, stop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34628460325043775,
+        "compression_ratio" : 1.3309859154929577,
+        "no_speech_prob" : 0.02087012119591236
+      },
+      {
+        "id" : 4,
+        "seek" : 2400,
+        "start" : 24.0,
+        "end" : 28.0,
+        "text" : " Anyway, everything's fine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.310326167515346,
+        "compression_ratio" : 1.3112582781456954,
+        "no_speech_prob" : 0.12515345215797424
+      },
+      {
+        "id" : 5,
+        "seek" : 2400,
+        "start" : 28.0,
+        "end" : 30.0,
+        "text" : " I'm deaf.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.310326167515346,
+        "compression_ratio" : 1.3112582781456954,
+        "no_speech_prob" : 0.12515345215797424
+      },
+      {
+        "id" : 6,
+        "seek" : 2400,
+        "start" : 34.0,
+        "end" : 36.0,
+        "text" : " Don't I look cute guys?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.310326167515346,
+        "compression_ratio" : 1.3112582781456954,
+        "no_speech_prob" : 0.12515345215797424
+      },
+      {
+        "id" : 7,
+        "seek" : 2400,
+        "start" : 44.0,
+        "end" : 48.0,
+        "text" : " I wiggle my eyebrows to indicate that I need help guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.310326167515346,
+        "compression_ratio" : 1.3112582781456954,
+        "no_speech_prob" : 0.12515345215797424
+      },
+      {
+        "id" : 8,
+        "seek" : 2400,
+        "start" : 48.0,
+        "end" : 50.0,
+        "text" : " This isn't a joke, please help me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.310326167515346,
+        "compression_ratio" : 1.3112582781456954,
+        "no_speech_prob" : 0.12515345215797424
+      },
+      {
+        "id" : 9,
+        "seek" : 2400,
+        "start" : 50.0,
+        "end" : 52.0,
+        "text" : " I just advertising the new look like you told.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.310326167515346,
+        "compression_ratio" : 1.3112582781456954,
+        "no_speech_prob" : 0.12515345215797424
+      },
+      {
+        "id" : 10,
+        "seek" : 5200,
+        "start" : 52.0,
+        "end" : 56.0,
+        "text" : " Guys, this is a good, the new summer look.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 11,
+        "seek" : 5200,
+        "start" : 56.0,
+        "end" : 58.0,
+        "text" : " Please pick up this hazmat suit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 12,
+        "seek" : 5200,
+        "start" : 58.0,
+        "end" : 62.0,
+        "text" : " It's a really handy addition to any Hawaii outfit here guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 13,
+        "seek" : 5200,
+        "start" : 62.0,
+        "end" : 64.0,
+        "text" : " So this is the dress that I'm wearing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 14,
+        "seek" : 5200,
+        "start" : 70.0,
+        "end" : 74.0,
+        "text" : " This hazmat suit is good for date nights and weddings.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 15,
+        "seek" : 5200,
+        "start" : 74.0,
+        "end" : 76.0,
+        "text" : " And especially funerals.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 16,
+        "seek" : 5200,
+        "start" : 76.0,
+        "end" : 80.0,
+        "text" : " I've worn this one to a funeral and everybody said that it was really appropriate and very respectful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12648970810408444,
+        "compression_ratio" : 1.584070796460177,
+        "no_speech_prob" : 0.011024994775652885
+      },
+      {
+        "id" : 17,
+        "seek" : 8000,
+        "start" : 80.0,
+        "end" : 82.0,
+        "text" : " Just me advertising my new look.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13838379471390336,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.0053903767839074135
+      },
+      {
+        "id" : 18,
+        "seek" : 8000,
+        "start" : 104.0,
+        "end" : 108.0,
+        "text" : " This pizza slice is also brought to you by CSGO Lotto.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13838379471390336,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.0053903767839074135
+      },
+      {
+        "id" : 19,
+        "seek" : 10800,
+        "start" : 108.0,
+        "end" : 110.0,
+        "text" : " And this is CSGO Lotto.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2731736946105957,
+        "compression_ratio" : 0.9104477611940298,
+        "no_speech_prob" : 0.06172119081020355
+      },
+      {
+        "id" : 20,
+        "seek" : 10800,
+        "start" : 110.0,
+        "end" : 112.0,
+        "text" : " Stop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2731736946105957,
+        "compression_ratio" : 0.9104477611940298,
+        "no_speech_prob" : 0.06172119081020355
+      },
+      {
+        "id" : 21,
+        "seek" : 10800,
+        "start" : 134.0,
+        "end" : 136.0,
+        "text" : " Thank you so much for watching.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2731736946105957,
+        "compression_ratio" : 0.9104477611940298,
+        "no_speech_prob" : 0.06172119081020355
+      },
+      {
+        "id" : 22,
+        "seek" : 13600,
+        "start" : 136.0,
+        "end" : 140.0,
+        "text" : " If you want to buy one, please go to CSGO Lotto.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5406273808972589,
+        "compression_ratio" : 1.024390243902439,
+        "no_speech_prob" : 0.5473503470420837
+      },
+      {
+        "id" : 23,
+        "seek" : 13600,
+        "start" : 140.0,
+        "end" : 142.0,
+        "text" : " Big help, big help, hostage battle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5406273808972589,
+        "compression_ratio" : 1.024390243902439,
+        "no_speech_prob" : 0.5473503470420837
+      }
+    ]
+  }
+}

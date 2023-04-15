@@ -1,0 +1,13 @@
+{
+  "person_id" : "dmac",
+  "category" : "guest",
+  "first_name" : "Daniel",
+  "last_name" : "Mac",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

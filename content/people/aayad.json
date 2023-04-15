@@ -1,0 +1,15 @@
+{
+  "person_id" : null,
+  "category" : "crew",
+  "first_name" : "Abdullah",
+  "last_name" : "Ayad",
+  "display_name" : "AB",
+  "thumb" : "/people/ab.jpg",
+  "description" : null,
+  "aliases" : [
+    "AB",
+    "Starkilla"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

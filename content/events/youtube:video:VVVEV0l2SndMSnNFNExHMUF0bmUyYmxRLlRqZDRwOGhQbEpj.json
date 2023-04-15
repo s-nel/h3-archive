@@ -1,0 +1,124 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlRqZDRwOGhQbEpj",
+  "category" : "video",
+  "name" : ".exe teaser trailer #2 [Monetized]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Tjd4p8hPlJc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Tjd4p8hPlJc"
+    }
+  ],
+  "start_date" : 1392670841000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 10.0,
+        "text" : " Hey there guys, but working on my new dot exe video and just want to give you guys a little teaser.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3174736094924639,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.3094022572040558
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 16.0,
+        "text" : " Look, I need some new AdSense payment here so please spread the word about my channel.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3174736094924639,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.3094022572040558
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 18.0,
+        "text" : " I've got some repairs around the house.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3174736094924639,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.3094022572040558
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 21.0,
+        "text" : " There really need to get work done so.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3174736094924639,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.3094022572040558
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 21.0,
+        "end" : 23.0,
+        "text" : " Spread the word guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3174736094924639,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.3094022572040558
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 29.0,
+        "text" : " I need another payment here and I need to make sure I have a couple repairs so let's just get this done here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3174736094924639,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.3094022572040558
+      },
+      {
+        "id" : 6,
+        "seek" : 2900,
+        "start" : 29.0,
+        "end" : 31.0,
+        "text" : " Okay guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3544009879783348,
+        "compression_ratio" : 1.1363636363636365,
+        "no_speech_prob" : 0.036041244864463806
+      },
+      {
+        "id" : 7,
+        "seek" : 2900,
+        "start" : 35.0,
+        "end" : 41.0,
+        "text" : " So thanks and keep tuning in because we're going to be getting some real wild stuff here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3544009879783348,
+        "compression_ratio" : 1.1363636363636365,
+        "no_speech_prob" : 0.036041244864463806
+      }
+    ]
+  }
+}

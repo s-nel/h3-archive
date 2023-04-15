@@ -1,0 +1,311 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnRMX2pCZmRuOG80",
+  "category" : "video",
+  "name" : "Eviction I (Part 1 of 3)",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/tL_jBfdn8o4/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/tL_jBfdn8o4"
+    }
+  ],
+  "start_date" : 1398031244000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 16.0,
+        "text" : " Hey guys, can you see the max?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3275496026744013,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.2250322699546814
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 21.0,
+        "text" : " Guys, look around, you can see the boxes here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3275496026744013,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.2250322699546814
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 21.0,
+        "end" : 25.0,
+        "text" : " We're being invicted, we're moving, we're being forced to move out",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3275496026744013,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.2250322699546814
+      },
+      {
+        "id" : 3,
+        "seek" : 2500,
+        "start" : 25.0,
+        "end" : 30.0,
+        "text" : " in about 10 days. I'm sure you'll notice where you can't afford to rent.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25680266107831684,
+        "compression_ratio" : 1.715481171548117,
+        "no_speech_prob" : 0.21849510073661804
+      },
+      {
+        "id" : 4,
+        "seek" : 2500,
+        "start" : 30.0,
+        "end" : 34.0,
+        "text" : " We've got no money left and we're moving to a small apartment",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25680266107831684,
+        "compression_ratio" : 1.715481171548117,
+        "no_speech_prob" : 0.21849510073661804
+      },
+      {
+        "id" : 5,
+        "seek" : 2500,
+        "start" : 34.0,
+        "end" : 39.0,
+        "text" : " and my parents lost house. We're moving in with my parents'",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25680266107831684,
+        "compression_ratio" : 1.715481171548117,
+        "no_speech_prob" : 0.21849510073661804
+      },
+      {
+        "id" : 6,
+        "seek" : 2500,
+        "start" : 39.0,
+        "end" : 43.0,
+        "text" : " and my house, that's our new apartment. We're moving into our new apartment there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25680266107831684,
+        "compression_ratio" : 1.715481171548117,
+        "no_speech_prob" : 0.21849510073661804
+      },
+      {
+        "id" : 7,
+        "seek" : 2500,
+        "start" : 43.0,
+        "end" : 47.0,
+        "text" : " Now guys, down the side, just one let you know what's going on in my life.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25680266107831684,
+        "compression_ratio" : 1.715481171548117,
+        "no_speech_prob" : 0.21849510073661804
+      },
+      {
+        "id" : 8,
+        "seek" : 2500,
+        "start" : 47.0,
+        "end" : 51.0,
+        "text" : " Aside from that, making a lot of requests and complaints,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25680266107831684,
+        "compression_ratio" : 1.715481171548117,
+        "no_speech_prob" : 0.21849510073661804
+      },
+      {
+        "id" : 9,
+        "seek" : 5100,
+        "start" : 51.0,
+        "end" : 54.0,
+        "text" : " people saying that my videos are really boring.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19106092124149718,
+        "compression_ratio" : 1.9913793103448276,
+        "no_speech_prob" : 0.7796876430511475
+      },
+      {
+        "id" : 10,
+        "seek" : 5100,
+        "start" : 54.0,
+        "end" : 56.0,
+        "text" : " People saying that I should put a little more effort into my videos,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19106092124149718,
+        "compression_ratio" : 1.9913793103448276,
+        "no_speech_prob" : 0.7796876430511475
+      },
+      {
+        "id" : 11,
+        "seek" : 5100,
+        "start" : 56.0,
+        "end" : 61.0,
+        "text" : " not be so lazy, that I should write stuff, that should I travel a little harder in my videos,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19106092124149718,
+        "compression_ratio" : 1.9913793103448276,
+        "no_speech_prob" : 0.7796876430511475
+      },
+      {
+        "id" : 12,
+        "seek" : 5100,
+        "start" : 61.0,
+        "end" : 64.0,
+        "text" : " that I should put a little more effort, maybe a little more people would tune in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19106092124149718,
+        "compression_ratio" : 1.9913793103448276,
+        "no_speech_prob" : 0.7796876430511475
+      },
+      {
+        "id" : 13,
+        "seek" : 5100,
+        "start" : 64.0,
+        "end" : 67.0,
+        "text" : " that maybe it gets more subscribers and it would be more interesting.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19106092124149718,
+        "compression_ratio" : 1.9913793103448276,
+        "no_speech_prob" : 0.7796876430511475
+      },
+      {
+        "id" : 14,
+        "seek" : 5100,
+        "start" : 67.0,
+        "end" : 76.0,
+        "text" : " Well, you know, I got a lot of my mind now and it's kind of hard to find time to write these videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19106092124149718,
+        "compression_ratio" : 1.9913793103448276,
+        "no_speech_prob" : 0.7796876430511475
+      },
+      {
+        "id" : 15,
+        "seek" : 7600,
+        "start" : 77.0,
+        "end" : 82.0,
+        "text" : " I really wish that I could make my little time to write these videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4232931137084961,
+        "compression_ratio" : 1.6312849162011174,
+        "no_speech_prob" : 0.6675819754600525
+      },
+      {
+        "id" : 16,
+        "seek" : 7600,
+        "start" : 82.0,
+        "end" : 84.0,
+        "text" : " Come make up funny videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4232931137084961,
+        "compression_ratio" : 1.6312849162011174,
+        "no_speech_prob" : 0.6675819754600525
+      },
+      {
+        "id" : 17,
+        "seek" : 7600,
+        "start" : 84.0,
+        "end" : 90.0,
+        "text" : " Well, I don't have time because I don't have that much time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4232931137084961,
+        "compression_ratio" : 1.6312849162011174,
+        "no_speech_prob" : 0.6675819754600525
+      },
+      {
+        "id" : 18,
+        "seek" : 7600,
+        "start" : 90.0,
+        "end" : 99.0,
+        "text" : " I got a little bit of my mother ma that bitch doesn't even know that I don't like eat cheese",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4232931137084961,
+        "compression_ratio" : 1.6312849162011174,
+        "no_speech_prob" : 0.6675819754600525
+      },
+      {
+        "id" : 19,
+        "seek" : 7600,
+        "start" : 99.0,
+        "end" : 102.0,
+        "text" : " and that I don't like fucking vegetables.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4232931137084961,
+        "compression_ratio" : 1.6312849162011174,
+        "no_speech_prob" : 0.6675819754600525
+      },
+      {
+        "id" : 20,
+        "seek" : 10200,
+        "start" : 102.0,
+        "end" : 105.0,
+        "text" : " So yeah, I don't got that much time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31002495780823724,
+        "compression_ratio" : 1.4573643410852712,
+        "no_speech_prob" : 0.10301051288843155
+      },
+      {
+        "id" : 21,
+        "seek" : 10200,
+        "start" : 105.0,
+        "end" : 108.0,
+        "text" : " I don't got that much time here guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31002495780823724,
+        "compression_ratio" : 1.4573643410852712,
+        "no_speech_prob" : 0.10301051288843155
+      },
+      {
+        "id" : 22,
+        "seek" : 10200,
+        "start" : 108.0,
+        "end" : 113.0,
+        "text" : " Yeah, so anyway, you know, this is my guitar here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31002495780823724,
+        "compression_ratio" : 1.4573643410852712,
+        "no_speech_prob" : 0.10301051288843155
+      },
+      {
+        "id" : 23,
+        "seek" : 10200,
+        "start" : 113.0,
+        "end" : 116.0,
+        "text" : " And the, hmm, boy, looks good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31002495780823724,
+        "compression_ratio" : 1.4573643410852712,
+        "no_speech_prob" : 0.10301051288843155
+      },
+      {
+        "id" : 24,
+        "seek" : 10200,
+        "start" : 116.0,
+        "end" : 118.0,
+        "text" : " I really like playing a guitar.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31002495780823724,
+        "compression_ratio" : 1.4573643410852712,
+        "no_speech_prob" : 0.10301051288843155
+      }
+    ]
+  }
+}

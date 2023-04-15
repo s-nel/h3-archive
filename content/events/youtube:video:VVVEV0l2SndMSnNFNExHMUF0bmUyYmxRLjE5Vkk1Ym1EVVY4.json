@@ -1,0 +1,542 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjE5Vkk1Ym1EVVY4",
+  "category" : "video",
+  "name" : "Wake Up Sheeple - An internet poetry parody [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/19VI5bmDUV8/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/19VI5bmDUV8"
+    }
+  ],
+  "start_date" : 1429214879000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 10.0,
+        "text" : " We're always on the move, going places, but do we ever stop to wonder, where are we going actually?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21173070606432462,
+        "compression_ratio" : 1.4808743169398908,
+        "no_speech_prob" : 0.27489927411079407
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 15.0,
+        "text" : " Not like physically, but like metaphorically?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21173070606432462,
+        "compression_ratio" : 1.4808743169398908,
+        "no_speech_prob" : 0.27489927411079407
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 18.0,
+        "text" : " That's pretty deep, huh?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21173070606432462,
+        "compression_ratio" : 1.4808743169398908,
+        "no_speech_prob" : 0.27489927411079407
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 20.0,
+        "text" : " I just thought about that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21173070606432462,
+        "compression_ratio" : 1.4808743169398908,
+        "no_speech_prob" : 0.27489927411079407
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 23.0,
+        "text" : " I just think about deep stuff like that sometimes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21173070606432462,
+        "compression_ratio" : 1.4808743169398908,
+        "no_speech_prob" : 0.27489927411079407
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 26.0,
+        "text" : " What's on our screens?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21173070606432462,
+        "compression_ratio" : 1.4808743169398908,
+        "no_speech_prob" : 0.27489927411079407
+      },
+      {
+        "id" : 6,
+        "seek" : 2600,
+        "start" : 26.0,
+        "end" : 30.0,
+        "text" : " That's all I know it seems to care about anymore.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1850643754005432,
+        "compression_ratio" : 1.6227272727272728,
+        "no_speech_prob" : 0.13809804618358612
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 30.0,
+        "end" : 36.0,
+        "text" : " And we no longer care about what other stuff that's out there that's pretty cool, like sand and ocean.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1850643754005432,
+        "compression_ratio" : 1.6227272727272728,
+        "no_speech_prob" : 0.13809804618358612
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 36.0,
+        "end" : 41.0,
+        "text" : " Stuff like that. That's also pretty cool, other than screens.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1850643754005432,
+        "compression_ratio" : 1.6227272727272728,
+        "no_speech_prob" : 0.13809804618358612
+      },
+      {
+        "id" : 9,
+        "seek" : 2600,
+        "start" : 41.0,
+        "end" : 45.0,
+        "text" : " I've just finished my first semester at college.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1850643754005432,
+        "compression_ratio" : 1.6227272727272728,
+        "no_speech_prob" : 0.13809804618358612
+      },
+      {
+        "id" : 10,
+        "seek" : 2600,
+        "start" : 45.0,
+        "end" : 49.0,
+        "text" : " I took intro to philosophy and human psychology.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1850643754005432,
+        "compression_ratio" : 1.6227272727272728,
+        "no_speech_prob" : 0.13809804618358612
+      },
+      {
+        "id" : 11,
+        "seek" : 2600,
+        "start" : 49.0,
+        "end" : 52.0,
+        "text" : " So like, I feel like I know a lot, you know?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1850643754005432,
+        "compression_ratio" : 1.6227272727272728,
+        "no_speech_prob" : 0.13809804618358612
+      },
+      {
+        "id" : 12,
+        "seek" : 5200,
+        "start" : 52.0,
+        "end" : 55.0,
+        "text" : " When do we become so disconnected from the earth?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 13,
+        "seek" : 5200,
+        "start" : 55.0,
+        "end" : 60.0,
+        "text" : " Sometimes I sneak outside to take a dump in the garden.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 14,
+        "seek" : 5200,
+        "start" : 60.0,
+        "end" : 63.0,
+        "text" : " My mom thinks it's the dog, but really?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 15,
+        "seek" : 5200,
+        "start" : 63.0,
+        "end" : 66.0,
+        "text" : " It's just me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 16,
+        "seek" : 5200,
+        "start" : 66.0,
+        "end" : 71.0,
+        "text" : " Being a human being, it used to be that we had to grow our food and our own gardens.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 17,
+        "seek" : 5200,
+        "start" : 71.0,
+        "end" : 74.0,
+        "text" : " The soil was our food and substance.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 18,
+        "seek" : 5200,
+        "start" : 74.0,
+        "end" : 79.0,
+        "text" : " But now you just go to Taco Bell and you can get something like a taco for like 99 cents.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09677576101743258,
+        "compression_ratio" : 1.5654008438818565,
+        "no_speech_prob" : 0.11087147891521454
+      },
+      {
+        "id" : 19,
+        "seek" : 7900,
+        "start" : 79.0,
+        "end" : 84.0,
+        "text" : " It tastes pretty dank, but it also would be pretty cool if I had a garden.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 20,
+        "seek" : 7900,
+        "start" : 84.0,
+        "end" : 88.0,
+        "text" : " We use social media, but we're less social than ever.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 21,
+        "seek" : 7900,
+        "start" : 88.0,
+        "end" : 89.0,
+        "text" : " Isn't that ironic?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 22,
+        "seek" : 7900,
+        "start" : 89.0,
+        "end" : 93.0,
+        "text" : " Since it's called social media, but it actually makes us less social.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 23,
+        "seek" : 7900,
+        "start" : 93.0,
+        "end" : 97.0,
+        "text" : " Isn't it even more ironic that you're watching this on your phone or computer?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 24,
+        "seek" : 7900,
+        "start" : 97.0,
+        "end" : 100.0,
+        "text" : " How edgy and self-aware is it that I pointed that out?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 25,
+        "seek" : 7900,
+        "start" : 100.0,
+        "end" : 105.0,
+        "text" : " That I'm trying to promote my own video, but also that it's ironic because you're also watching it on a screen.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 26,
+        "seek" : 7900,
+        "start" : 105.0,
+        "end" : 108.0,
+        "text" : " Damn, that is so edgy right now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10155010223388672,
+        "compression_ratio" : 1.7526501766784452,
+        "no_speech_prob" : 0.44038674235343933
+      },
+      {
+        "id" : 27,
+        "seek" : 10900,
+        "start" : 109.0,
+        "end" : 113.0,
+        "text" : " And who is it that's making the technology?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 28,
+        "seek" : 10900,
+        "start" : 113.0,
+        "end" : 119.0,
+        "text" : " Corporations who control us and our greedy and stuff and they make a bunch of money.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 29,
+        "seek" : 10900,
+        "start" : 119.0,
+        "end" : 124.0,
+        "text" : " Wake up, Shippo. It's time to understand that we're all being controlled.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 30,
+        "seek" : 10900,
+        "start" : 124.0,
+        "end" : 126.0,
+        "text" : " What are we going to do about it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 31,
+        "seek" : 10900,
+        "start" : 126.0,
+        "end" : 128.0,
+        "text" : " Smash our stuff.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 32,
+        "seek" : 10900,
+        "start" : 128.0,
+        "end" : 131.0,
+        "text" : " I actually really needed that laptop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 33,
+        "seek" : 10900,
+        "start" : 131.0,
+        "end" : 134.0,
+        "text" : " It's okay, my parents will buy me a new one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 34,
+        "seek" : 10900,
+        "start" : 134.0,
+        "end" : 136.0,
+        "text" : " They're fairly well off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1298832343174861,
+        "compression_ratio" : 1.5695652173913044,
+        "no_speech_prob" : 0.33824124932289124
+      },
+      {
+        "id" : 35,
+        "seek" : 13600,
+        "start" : 136.0,
+        "end" : 141.0,
+        "text" : " I mean, I could buy it with my own money, but I'd rather spend that on weed and stuff like that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10915448665618896,
+        "compression_ratio" : 1.5858585858585859,
+        "no_speech_prob" : 0.5355799198150635
+      },
+      {
+        "id" : 36,
+        "seek" : 13600,
+        "start" : 141.0,
+        "end" : 148.0,
+        "text" : " Meanwhile, people are starving in Africa and you're telling me we can't buy enough 99 cent tacos to feed everybody there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10915448665618896,
+        "compression_ratio" : 1.5858585858585859,
+        "no_speech_prob" : 0.5355799198150635
+      },
+      {
+        "id" : 37,
+        "seek" : 13600,
+        "start" : 148.0,
+        "end" : 154.0,
+        "text" : " The media is full of dirty lives, all this time to turn off the television and turn on our brains.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10915448665618896,
+        "compression_ratio" : 1.5858585858585859,
+        "no_speech_prob" : 0.5355799198150635
+      },
+      {
+        "id" : 38,
+        "seek" : 13600,
+        "start" : 154.0,
+        "end" : 157.0,
+        "text" : " And people keep throwing shit in the ocean.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10915448665618896,
+        "compression_ratio" : 1.5858585858585859,
+        "no_speech_prob" : 0.5355799198150635
+      },
+      {
+        "id" : 39,
+        "seek" : 13600,
+        "start" : 157.0,
+        "end" : 162.0,
+        "text" : " We need to find the courage to stand up and to say we are human beings.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10915448665618896,
+        "compression_ratio" : 1.5858585858585859,
+        "no_speech_prob" : 0.5355799198150635
+      },
+      {
+        "id" : 40,
+        "seek" : 13600,
+        "start" : 162.0,
+        "end" : 165.0,
+        "text" : " Happy in the world should be perfect.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10915448665618896,
+        "compression_ratio" : 1.5858585858585859,
+        "no_speech_prob" : 0.5355799198150635
+      },
+      {
+        "id" : 41,
+        "seek" : 16500,
+        "start" : 165.0,
+        "end" : 169.0,
+        "text" : " People should just need to destroy their technology.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16946583363547255,
+        "compression_ratio" : 1.6290322580645162,
+        "no_speech_prob" : 0.0024436241947114468
+      },
+      {
+        "id" : 42,
+        "seek" : 16500,
+        "start" : 169.0,
+        "end" : 176.0,
+        "text" : " Because unless you're people need to destroy technology, people need to remember that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16946583363547255,
+        "compression_ratio" : 1.6290322580645162,
+        "no_speech_prob" : 0.0024436241947114468
+      },
+      {
+        "id" : 43,
+        "seek" : 16500,
+        "start" : 176.0,
+        "end" : 181.0,
+        "text" : " You can enjoy the beach without bringing your telephone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16946583363547255,
+        "compression_ratio" : 1.6290322580645162,
+        "no_speech_prob" : 0.0024436241947114468
+      },
+      {
+        "id" : 44,
+        "seek" : 16500,
+        "start" : 181.0,
+        "end" : 188.0,
+        "text" : " Most importantly, about those 99 cent tacos, we really need to get those out to the people who are hungry.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16946583363547255,
+        "compression_ratio" : 1.6290322580645162,
+        "no_speech_prob" : 0.0024436241947114468
+      },
+      {
+        "id" : 45,
+        "seek" : 19500,
+        "start" : 195.0,
+        "end" : 205.0,
+        "text" : " Thank you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9724342028299967,
+        "compression_ratio" : 0.5555555555555556,
+        "no_speech_prob" : 0.9710322618484497
+      }
+    ]
+  }
+}

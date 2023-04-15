@@ -1,0 +1,13 @@
+{
+  "person_id" : "bkreischer",
+  "category" : "guest",
+  "first_name" : "Bert",
+  "last_name" : "Kreischer",
+  "display_name" : null,
+  "thumb" : "/people/bkreischer.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,48 @@
+{
+  "event_id" : "spotify:episode:3o2CteF6fO6enCMuv1bc0h",
+  "category" : "podcast",
+  "name" : "#219 - Andrew Santino",
+  "description" : "<p>On this episode of the H3 Podcast we are joined by comedian, actor, and ginger Andrew Santino! Together he and Ethan discuss Korean baby foreskins, giant men having sex with tiny women, Bobby Lee&#39;s feet, pranks, and a whole lot more!</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/3o2CteF6fO6enCMuv1bc0h"
+    }
+  ],
+  "start_date" : 1601251200000,
+  "duration" : 5139591,
+  "people" : [
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "asantino",
+      "role" : "guest"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

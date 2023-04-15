@@ -1,0 +1,47 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkZ4YnpxTTItMm1V",
+  "category" : "video",
+  "name" : "Howdy",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/FxbzqM2-2mU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/FxbzqM2-2mU"
+    }
+  ],
+  "start_date" : 1407265122000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 11.18,
+        "text" : " Wouldn't my mom cook serv primero?",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.960958307439631,
+        "compression_ratio" : 0.8095238095238095,
+        "no_speech_prob" : 0.5764690041542053
+      }
+    ]
+  }
+}

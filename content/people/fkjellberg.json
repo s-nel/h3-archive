@@ -1,0 +1,14 @@
+{
+  "person_id" : "fkjellberg",
+  "category" : "guest",
+  "first_name" : "Felix",
+  "last_name" : "Kjellberg",
+  "display_name" : "Felix Kjellberg",
+  "thumb" : "/people/fkjellberg.jpg",
+  "description" : null,
+  "aliases" : [
+    "Pewdiepie"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

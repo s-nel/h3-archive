@@ -1,0 +1,388 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjFnVXZPZExvaGhr",
+  "category" : "video",
+  "name" : "The Jokes - Everybody Knows",
+  "description" : "Dedicated to Yochanan Hakmon (1950-2018) and Deborah Zimmett Becker (1955-2018).\n\nLyrics:\n\nEveryone can say hello\nEveryone knows how to say hello\nTo leave you is to say goodbye\nI'll see you other side\nEverybody knows\n\nThe place were all bound to go\nNobody knows nobody knows\nHow to say goodbye\nI'll see you on other side\nEverybody knows\n\nEveryone knows today is just a day\nBuried in the blanket of time\nYou taught me how to say hello\nDidn't teach me how to say goodbye\nGoodbye is just a pile of stones\n\nI walk along a row of stones\nEveryone knows a row of stones\nTo see you and to say goodbye\nLaid across the moonlit sky\nEverybody knows\n\nI see you when I close my eyes\nNobody knows nobody knows\nWhen the dream will fade away\nI’ll walk along the roads you've paved\nEverybody knows\n\nEveryone knows today is just a day\nBuried in the blanket of time\nYou taught me how to say hello\nDidn't teach me how to say goodbye\nGoodbye is just a pile of stones\nGoodbye is just a pile of stones",
+  "thumb" : "https://i.ytimg.com/vi/1gUvOdLohhk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/1gUvOdLohhk"
+    }
+  ],
+  "start_date" : 1532129031000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 10.0,
+        "text" : " Everyone can say hello.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4791123185838972,
+        "compression_ratio" : 1.1643835616438356,
+        "no_speech_prob" : 0.3736744821071625
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 18.0,
+        "text" : " Everyone knows I'd say hello.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4791123185838972,
+        "compression_ratio" : 1.1643835616438356,
+        "no_speech_prob" : 0.3736744821071625
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 24.0,
+        "text" : " To leave you is to say goodbye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4791123185838972,
+        "compression_ratio" : 1.1643835616438356,
+        "no_speech_prob" : 0.3736744821071625
+      },
+      {
+        "id" : 3,
+        "seek" : 2400,
+        "start" : 24.0,
+        "end" : 30.0,
+        "text" : " I'll see you on the other side.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16992391122354045,
+        "compression_ratio" : 1.1978021978021978,
+        "no_speech_prob" : 0.11539716273546219
+      },
+      {
+        "id" : 4,
+        "seek" : 2400,
+        "start" : 30.0,
+        "end" : 37.0,
+        "text" : " Everybody knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16992391122354045,
+        "compression_ratio" : 1.1978021978021978,
+        "no_speech_prob" : 0.11539716273546219
+      },
+      {
+        "id" : 5,
+        "seek" : 2400,
+        "start" : 37.0,
+        "end" : 41.0,
+        "text" : " The place we're all bound to go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16992391122354045,
+        "compression_ratio" : 1.1978021978021978,
+        "no_speech_prob" : 0.11539716273546219
+      },
+      {
+        "id" : 6,
+        "seek" : 2400,
+        "start" : 41.0,
+        "end" : 49.0,
+        "text" : " Nobody knows, nobody knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16992391122354045,
+        "compression_ratio" : 1.1978021978021978,
+        "no_speech_prob" : 0.11539716273546219
+      },
+      {
+        "id" : 7,
+        "seek" : 4900,
+        "start" : 49.0,
+        "end" : 55.0,
+        "text" : " How to say goodbye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11663124901907784,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.03617221489548683
+      },
+      {
+        "id" : 8,
+        "seek" : 4900,
+        "start" : 55.0,
+        "end" : 61.0,
+        "text" : " I'll see you on the other side.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11663124901907784,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.03617221489548683
+      },
+      {
+        "id" : 9,
+        "seek" : 4900,
+        "start" : 61.0,
+        "end" : 67.0,
+        "text" : " Everybody knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11663124901907784,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.03617221489548683
+      },
+      {
+        "id" : 10,
+        "seek" : 4900,
+        "start" : 67.0,
+        "end" : 74.0,
+        "text" : " Everyone knows today is just a day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11663124901907784,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.03617221489548683
+      },
+      {
+        "id" : 11,
+        "seek" : 7400,
+        "start" : 74.0,
+        "end" : 79.0,
+        "text" : " There it in the blanket of time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09411849532016488,
+        "compression_ratio" : 1.2547169811320755,
+        "no_speech_prob" : 0.022978972643613815
+      },
+      {
+        "id" : 12,
+        "seek" : 7400,
+        "start" : 79.0,
+        "end" : 84.0,
+        "text" : " You taught me how to say hello.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09411849532016488,
+        "compression_ratio" : 1.2547169811320755,
+        "no_speech_prob" : 0.022978972643613815
+      },
+      {
+        "id" : 13,
+        "seek" : 7400,
+        "start" : 84.0,
+        "end" : 93.0,
+        "text" : " Didn't teach me how to say goodbye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09411849532016488,
+        "compression_ratio" : 1.2547169811320755,
+        "no_speech_prob" : 0.022978972643613815
+      },
+      {
+        "id" : 14,
+        "seek" : 7400,
+        "start" : 93.0,
+        "end" : 101.0,
+        "text" : " Goodbye is just a pile of stone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09411849532016488,
+        "compression_ratio" : 1.2547169811320755,
+        "no_speech_prob" : 0.022978972643613815
+      },
+      {
+        "id" : 15,
+        "seek" : 10100,
+        "start" : 101.0,
+        "end" : 106.0,
+        "text" : " I walk along a rose stone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31697681338288064,
+        "compression_ratio" : 1.188118811881188,
+        "no_speech_prob" : 0.00799383781850338
+      },
+      {
+        "id" : 16,
+        "seek" : 10100,
+        "start" : 106.0,
+        "end" : 108.0,
+        "text" : " Everyone knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31697681338288064,
+        "compression_ratio" : 1.188118811881188,
+        "no_speech_prob" : 0.00799383781850338
+      },
+      {
+        "id" : 17,
+        "seek" : 10100,
+        "start" : 108.0,
+        "end" : 113.0,
+        "text" : " A rose stone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31697681338288064,
+        "compression_ratio" : 1.188118811881188,
+        "no_speech_prob" : 0.00799383781850338
+      },
+      {
+        "id" : 18,
+        "seek" : 10100,
+        "start" : 113.0,
+        "end" : 119.0,
+        "text" : " To see you and to say goodbye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31697681338288064,
+        "compression_ratio" : 1.188118811881188,
+        "no_speech_prob" : 0.00799383781850338
+      },
+      {
+        "id" : 19,
+        "seek" : 10100,
+        "start" : 119.0,
+        "end" : 125.0,
+        "text" : " Later across the moon, let's go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31697681338288064,
+        "compression_ratio" : 1.188118811881188,
+        "no_speech_prob" : 0.00799383781850338
+      },
+      {
+        "id" : 20,
+        "seek" : 12500,
+        "start" : 125.0,
+        "end" : 132.0,
+        "text" : " Everybody knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09601517404828752,
+        "compression_ratio" : 1.2298850574712643,
+        "no_speech_prob" : 0.013877850025892258
+      },
+      {
+        "id" : 21,
+        "seek" : 12500,
+        "start" : 132.0,
+        "end" : 136.0,
+        "text" : " I see you when I close my eyes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09601517404828752,
+        "compression_ratio" : 1.2298850574712643,
+        "no_speech_prob" : 0.013877850025892258
+      },
+      {
+        "id" : 22,
+        "seek" : 12500,
+        "start" : 136.0,
+        "end" : 144.0,
+        "text" : " Nobody knows, nobody knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09601517404828752,
+        "compression_ratio" : 1.2298850574712643,
+        "no_speech_prob" : 0.013877850025892258
+      },
+      {
+        "id" : 23,
+        "seek" : 12500,
+        "start" : 144.0,
+        "end" : 149.0,
+        "text" : " When the dream will fade away.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09601517404828752,
+        "compression_ratio" : 1.2298850574712643,
+        "no_speech_prob" : 0.013877850025892258
+      },
+      {
+        "id" : 24,
+        "seek" : 14900,
+        "start" : 149.0,
+        "end" : 155.0,
+        "text" : " I'll walk along the roads you've paved.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10830587270308514,
+        "compression_ratio" : 1.2868852459016393,
+        "no_speech_prob" : 0.010099413804709911
+      },
+      {
+        "id" : 25,
+        "seek" : 14900,
+        "start" : 155.0,
+        "end" : 161.0,
+        "text" : " Everybody knows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10830587270308514,
+        "compression_ratio" : 1.2868852459016393,
+        "no_speech_prob" : 0.010099413804709911
+      },
+      {
+        "id" : 26,
+        "seek" : 14900,
+        "start" : 161.0,
+        "end" : 167.0,
+        "text" : " Everyone knows today is just a day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10830587270308514,
+        "compression_ratio" : 1.2868852459016393,
+        "no_speech_prob" : 0.010099413804709911
+      },
+      {
+        "id" : 27,
+        "seek" : 14900,
+        "start" : 167.0,
+        "end" : 173.0,
+        "text" : " There it in the blanket of time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10830587270308514,
+        "compression_ratio" : 1.2868852459016393,
+        "no_speech_prob" : 0.010099413804709911
+      },
+      {
+        "id" : 28,
+        "seek" : 14900,
+        "start" : 173.0,
+        "end" : 178.0,
+        "text" : " You taught me how to say hello.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10830587270308514,
+        "compression_ratio" : 1.2868852459016393,
+        "no_speech_prob" : 0.010099413804709911
+      },
+      {
+        "id" : 29,
+        "seek" : 17800,
+        "start" : 178.0,
+        "end" : 187.0,
+        "text" : " Didn't teach me how to say goodbye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10264227539300919,
+        "compression_ratio" : 1.4027777777777777,
+        "no_speech_prob" : 0.006975142285227776
+      },
+      {
+        "id" : 30,
+        "seek" : 17800,
+        "start" : 187.0,
+        "end" : 192.0,
+        "text" : " Goodbye is just a pile of stone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10264227539300919,
+        "compression_ratio" : 1.4027777777777777,
+        "no_speech_prob" : 0.006975142285227776
+      },
+      {
+        "id" : 31,
+        "seek" : 17800,
+        "start" : 192.0,
+        "end" : 199.0,
+        "text" : " Goodbye is just a pile of stone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10264227539300919,
+        "compression_ratio" : 1.4027777777777777,
+        "no_speech_prob" : 0.006975142285227776
+      }
+    ]
+  }
+}

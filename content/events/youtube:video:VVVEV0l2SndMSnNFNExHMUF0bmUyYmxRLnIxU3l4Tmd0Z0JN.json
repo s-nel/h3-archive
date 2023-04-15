@@ -1,0 +1,663 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnIxU3l4Tmd0Z0JN",
+  "category" : "video",
+  "name" : "Fat Idiot Gains 100 Pounds At Costco",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/r1SyxNgtgBM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/r1SyxNgtgBM"
+    }
+  ],
+  "start_date" : 1474666276000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.84,
+        "text" : " So we just moved out to LA from New York as many of you know and it's time to do some light grocery",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16309613447922927,
+        "compression_ratio" : 1.51953125,
+        "no_speech_prob" : 0.02227078191936016
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.84,
+        "end" : 10.8,
+        "text" : " shopping. We've been hearing about Costco quite a bit. Just need a little bit of a milk, a couple",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16309613447922927,
+        "compression_ratio" : 1.51953125,
+        "no_speech_prob" : 0.02227078191936016
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.8,
+        "end" : 16.4,
+        "text" : " eggs and stuff so we thought we'd give Costco a try and just see what's that did. I mean I know we",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16309613447922927,
+        "compression_ratio" : 1.51953125,
+        "no_speech_prob" : 0.02227078191936016
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 16.4,
+        "end" : 21.76,
+        "text" : " just came here for some eggs and milk but this is a pretty good deal on the 61 XL Black Nore",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16309613447922927,
+        "compression_ratio" : 1.51953125,
+        "no_speech_prob" : 0.02227078191936016
+      },
+      {
+        "id" : 4,
+        "seek" : 2176,
+        "start" : 21.76,
+        "end" : 24.08,
+        "text" : " cartages for our printer. I think we should buy this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30841532418894213,
+        "compression_ratio" : 1.5369458128078817,
+        "no_speech_prob" : 0.01043936051428318
+      },
+      {
+        "id" : 5,
+        "seek" : 2176,
+        "start" : 31.04,
+        "end" : 35.36,
+        "text" : " It's fucking John's scares. These shops at Costco too. Hey what's up guys?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30841532418894213,
+        "compression_ratio" : 1.5369458128078817,
+        "no_speech_prob" : 0.01043936051428318
+      },
+      {
+        "id" : 6,
+        "seek" : 2176,
+        "start" : 35.36,
+        "end" : 39.6,
+        "text" : " Hey what up today guys? Scares here. Come out with a new crazy video today. You won't believe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30841532418894213,
+        "compression_ratio" : 1.5369458128078817,
+        "no_speech_prob" : 0.01043936051428318
+      },
+      {
+        "id" : 7,
+        "seek" : 2176,
+        "start" : 39.6,
+        "end" : 44.96,
+        "text" : " what happened. It's fucking crazy. We had a bunch of news that went down this morning. We",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30841532418894213,
+        "compression_ratio" : 1.5369458128078817,
+        "no_speech_prob" : 0.01043936051428318
+      },
+      {
+        "id" : 8,
+        "seek" : 4496,
+        "start" : 44.96,
+        "end" : 49.76,
+        "text" : " probably will have a double oval today. 55 pounds of dog food. We don't have a dog.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18681444201553077,
+        "compression_ratio" : 1.6194690265486726,
+        "no_speech_prob" : 0.011476151645183563
+      },
+      {
+        "id" : 9,
+        "seek" : 4496,
+        "start" : 52.0,
+        "end" : 57.76,
+        "text" : " What? We don't have a dog. Yeah but it's such a good deal dude. It's almost worth buying it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18681444201553077,
+        "compression_ratio" : 1.6194690265486726,
+        "no_speech_prob" : 0.011476151645183563
+      },
+      {
+        "id" : 10,
+        "seek" : 4496,
+        "start" : 57.76,
+        "end" : 61.76,
+        "text" : " What's a five dollar rebate at the checkout? Can I get the seal off? Can I buy this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18681444201553077,
+        "compression_ratio" : 1.6194690265486726,
+        "no_speech_prob" : 0.011476151645183563
+      },
+      {
+        "id" : 11,
+        "seek" : 4496,
+        "start" : 62.56,
+        "end" : 65.52,
+        "text" : " I don't think so. This is only 85 bucks. Good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18681444201553077,
+        "compression_ratio" : 1.6194690265486726,
+        "no_speech_prob" : 0.011476151645183563
+      },
+      {
+        "id" : 12,
+        "seek" : 4496,
+        "start" : 67.6,
+        "end" : 70.48,
+        "text" : " Do I need to... I don't take this one? Where do I get it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18681444201553077,
+        "compression_ratio" : 1.6194690265486726,
+        "no_speech_prob" : 0.011476151645183563
+      },
+      {
+        "id" : 13,
+        "seek" : 7048,
+        "start" : 70.72,
+        "end" : 76.24,
+        "text" : " I'm not sure. I'll come back with scissors again.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.584602086684283,
+        "compression_ratio" : 1.4516129032258065,
+        "no_speech_prob" : 0.006541169248521328
+      },
+      {
+        "id" : 14,
+        "seek" : 7048,
+        "start" : 81.28,
+        "end" : 88.8,
+        "text" : " What do you get all this food? Look right. I actually want to lay it in up a little bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.584602086684283,
+        "compression_ratio" : 1.4516129032258065,
+        "no_speech_prob" : 0.006541169248521328
+      },
+      {
+        "id" : 15,
+        "seek" : 7048,
+        "start" : 89.68,
+        "end" : 94.24,
+        "text" : " Good food solid. Hi you get six in the bag and you get 42 bags.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.584602086684283,
+        "compression_ratio" : 1.4516129032258065,
+        "no_speech_prob" : 0.006541169248521328
+      },
+      {
+        "id" : 16,
+        "seek" : 7048,
+        "start" : 94.24,
+        "end" : 99.12,
+        "text" : " 42 bags. 1289. You got an IDDoc. 31 cents a bag. Thank you so much.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.584602086684283,
+        "compression_ratio" : 1.4516129032258065,
+        "no_speech_prob" : 0.006541169248521328
+      },
+      {
+        "id" : 17,
+        "seek" : 10048,
+        "start" : 101.36,
+        "end" : 107.92,
+        "text" : " Is this too much butter? Where's that like the right side? Five pounds. Five pounds of butter.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19196325189927044,
+        "compression_ratio" : 1.6347826086956523,
+        "no_speech_prob" : 0.0061931549571454525
+      },
+      {
+        "id" : 18,
+        "seek" : 10048,
+        "start" : 108.88,
+        "end" : 113.2,
+        "text" : " I think we're good on the cheese. G-shirt because there's more. I can grab some more.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19196325189927044,
+        "compression_ratio" : 1.6347826086956523,
+        "no_speech_prob" : 0.0061931549571454525
+      },
+      {
+        "id" : 19,
+        "seek" : 10048,
+        "start" : 113.2,
+        "end" : 118.08,
+        "text" : " I think that's about how much cheese I ate in my whole life. There's only 360 here. I think we need a couple more.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19196325189927044,
+        "compression_ratio" : 1.6347826086956523,
+        "no_speech_prob" : 0.0061931549571454525
+      },
+      {
+        "id" : 20,
+        "seek" : 10048,
+        "start" : 122.56,
+        "end" : 126.64,
+        "text" : " This is only like five bucks so it doesn't really matter if we throw it all out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19196325189927044,
+        "compression_ratio" : 1.6347826086956523,
+        "no_speech_prob" : 0.0061931549571454525
+      },
+      {
+        "id" : 21,
+        "seek" : 13048,
+        "start" : 130.96,
+        "end" : 133.44,
+        "text" : " Nothing gives me a rush. I get the good value on cheese.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34009681953178655,
+        "compression_ratio" : 1.5794871794871794,
+        "no_speech_prob" : 0.01754913292825222
+      },
+      {
+        "id" : 22,
+        "seek" : 13048,
+        "start" : 134.8,
+        "end" : 143.6,
+        "text" : " Philadelphia? A what? A tub. No. Says here. Three pound tub. It's no longer a little bit of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34009681953178655,
+        "compression_ratio" : 1.5794871794871794,
+        "no_speech_prob" : 0.01754913292825222
+      },
+      {
+        "id" : 23,
+        "seek" : 13048,
+        "start" : 143.6,
+        "end" : 149.28,
+        "text" : " Philadelphia. It's a tub. You can bathe in this shit. You can bathe your newborn baby in this tub.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34009681953178655,
+        "compression_ratio" : 1.5794871794871794,
+        "no_speech_prob" : 0.01754913292825222
+      },
+      {
+        "id" : 24,
+        "seek" : 13048,
+        "start" : 149.28,
+        "end" : 153.36,
+        "text" : " I filled out the one you got. Why did you get all this food?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34009681953178655,
+        "compression_ratio" : 1.5794871794871794,
+        "no_speech_prob" : 0.01754913292825222
+      },
+      {
+        "id" : 25,
+        "seek" : 15336,
+        "start" : 154.32,
+        "end" : 159.44,
+        "text" : " What didn't talk? Why you giving me shit? There's a normal thing. Come look after you eat food.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4456148980890663,
+        "compression_ratio" : 1.5330578512396693,
+        "no_speech_prob" : 0.015701185911893845
+      },
+      {
+        "id" : 26,
+        "seek" : 15336,
+        "start" : 159.44,
+        "end" : 164.0,
+        "text" : " You're gonna gain like 100 pounds here. Do them only at like 10,000 calories to have.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4456148980890663,
+        "compression_ratio" : 1.5330578512396693,
+        "no_speech_prob" : 0.015701185911893845
+      },
+      {
+        "id" : 27,
+        "seek" : 15336,
+        "start" : 167.68,
+        "end" : 169.92,
+        "text" : " We had a bunch of news that went down this morning. We...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4456148980890663,
+        "compression_ratio" : 1.5330578512396693,
+        "no_speech_prob" : 0.015701185911893845
+      },
+      {
+        "id" : 28,
+        "seek" : 15336,
+        "start" : 169.92,
+        "end" : 171.2,
+        "text" : " I just don't know if I'm gonna feel great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4456148980890663,
+        "compression_ratio" : 1.5330578512396693,
+        "no_speech_prob" : 0.015701185911893845
+      },
+      {
+        "id" : 29,
+        "seek" : 15336,
+        "start" : 173.44,
+        "end" : 180.48,
+        "text" : " Which probably... I had a fruit this morning for breakfast that had like a bruise on it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4456148980890663,
+        "compression_ratio" : 1.5330578512396693,
+        "no_speech_prob" : 0.015701185911893845
+      },
+      {
+        "id" : 30,
+        "seek" : 18048,
+        "start" : 180.48,
+        "end" : 187.04,
+        "text" : " I think that's why my stomach hurt. Yeah it's not. It's not this shit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2860687543761055,
+        "compression_ratio" : 1.5727272727272728,
+        "no_speech_prob" : 0.004491913598030806
+      },
+      {
+        "id" : 31,
+        "seek" : 18048,
+        "start" : 187.92,
+        "end" : 194.64,
+        "text" : " No, no. No, we had like a peach that had like a soft spot on the side. I know I shouldn't eat that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2860687543761055,
+        "compression_ratio" : 1.5727272727272728,
+        "no_speech_prob" : 0.004491913598030806
+      },
+      {
+        "id" : 32,
+        "seek" : 18048,
+        "start" : 195.6,
+        "end" : 198.48,
+        "text" : " I'm just having a really good day here. You know, do you want to get dinner after this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2860687543761055,
+        "compression_ratio" : 1.5727272727272728,
+        "no_speech_prob" : 0.004491913598030806
+      },
+      {
+        "id" : 33,
+        "seek" : 18048,
+        "start" : 202.72,
+        "end" : 208.64,
+        "text" : " So we got eggs. I don't know. We wanted milk, right? So hold on, let me grab some milk.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2860687543761055,
+        "compression_ratio" : 1.5727272727272728,
+        "no_speech_prob" : 0.004491913598030806
+      },
+      {
+        "id" : 34,
+        "seek" : 21048,
+        "start" : 211.36,
+        "end" : 219.2,
+        "text" : " I can go back and get more. It's just too heavy for me. I think that's probably enough.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2859778730836633,
+        "compression_ratio" : 1.5159574468085106,
+        "no_speech_prob" : 0.0020087785087525845
+      },
+      {
+        "id" : 35,
+        "seek" : 21048,
+        "start" : 226.4,
+        "end" : 230.56,
+        "text" : " I've spent like a thousand fucking dollars. I thought Costco was supposed to be cheap and have good",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2859778730836633,
+        "compression_ratio" : 1.5159574468085106,
+        "no_speech_prob" : 0.0020087785087525845
+      },
+      {
+        "id" : 36,
+        "seek" : 21048,
+        "start" : 230.56,
+        "end" : 235.92,
+        "text" : " deals. You spend a thousand bucks. All I wanted was some eggs and fucking milk dude. Did you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2859778730836633,
+        "compression_ratio" : 1.5159574468085106,
+        "no_speech_prob" : 0.0020087785087525845
+      },
+      {
+        "id" : 37,
+        "seek" : 23592,
+        "start" : 235.92,
+        "end" : 243.84,
+        "text" : " they have a gas station here at Costco? That's pretty cool. Is this the entrance to Disneyland? No.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1467432099945691,
+        "compression_ratio" : 1.5884773662551441,
+        "no_speech_prob" : 0.0021554543636739254
+      },
+      {
+        "id" : 38,
+        "seek" : 23592,
+        "start" : 245.12,
+        "end" : 251.36,
+        "text" : " It's the gas station at Costco. Like gas prices are always something that I found funny.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1467432099945691,
+        "compression_ratio" : 1.5884773662551441,
+        "no_speech_prob" : 0.0021554543636739254
+      },
+      {
+        "id" : 39,
+        "seek" : 23592,
+        "start" : 251.36,
+        "end" : 256.8,
+        "text" : " Because if there's a place that's three cents cheaper, they'll be aligned like this. If you put 20",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1467432099945691,
+        "compression_ratio" : 1.5884773662551441,
+        "no_speech_prob" : 0.0021554543636739254
+      },
+      {
+        "id" : 40,
+        "seek" : 23592,
+        "start" : 257.36,
+        "end" : 263.6,
+        "text" : " gallons in your car, that's a huge take at three cents less per gallon. You're looking at 60 cents",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1467432099945691,
+        "compression_ratio" : 1.5884773662551441,
+        "no_speech_prob" : 0.0021554543636739254
+      },
+      {
+        "id" : 41,
+        "seek" : 26360,
+        "start" : 263.6,
+        "end" : 268.32,
+        "text" : " and savings. Did I do the math right, you know? Three cents per gallon times three times 20, 60.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017680946437792,
+        "compression_ratio" : 1.4952830188679245,
+        "no_speech_prob" : 0.0014845735859125853
+      },
+      {
+        "id" : 42,
+        "seek" : 26360,
+        "start" : 268.32,
+        "end" : 275.52,
+        "text" : " 60 cents and saving. People will sit here for like 30 minutes for their 50 cents savings and gas.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017680946437792,
+        "compression_ratio" : 1.4952830188679245,
+        "no_speech_prob" : 0.0014845735859125853
+      },
+      {
+        "id" : 43,
+        "seek" : 26360,
+        "start" : 275.52,
+        "end" : 277.2,
+        "text" : " Well, I'm not better than any of them.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017680946437792,
+        "compression_ratio" : 1.4952830188679245,
+        "no_speech_prob" : 0.0014845735859125853
+      },
+      {
+        "id" : 44,
+        "seek" : 26360,
+        "start" : 285.44,
+        "end" : 289.76,
+        "text" : " If all of these guys are pumping it on the wrong side, look at the other guy. Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017680946437792,
+        "compression_ratio" : 1.4952830188679245,
+        "no_speech_prob" : 0.0014845735859125853
+      },
+      {
+        "id" : 45,
+        "seek" : 28976,
+        "start" : 290.56,
+        "end" : 299.68,
+        "text" : " One, two. I guess when you wait in line for 30 minutes to save 30 cents, it doesn't attract to the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758654304172682,
+        "compression_ratio" : 1.5605381165919283,
+        "no_speech_prob" : 0.011163913644850254
+      },
+      {
+        "id" : 46,
+        "seek" : 28976,
+        "start" : 299.68,
+        "end" : 304.16,
+        "text" : " brightest people in the world maybe. Can someone explain what the fuck is going on at Costco?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758654304172682,
+        "compression_ratio" : 1.5605381165919283,
+        "no_speech_prob" : 0.011163913644850254
+      },
+      {
+        "id" : 47,
+        "seek" : 28976,
+        "start" : 304.8,
+        "end" : 311.28,
+        "text" : " Everybody's pumping gas on the wrong side. I've never seen this before. Here, this guy too.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758654304172682,
+        "compression_ratio" : 1.5605381165919283,
+        "no_speech_prob" : 0.011163913644850254
+      },
+      {
+        "id" : 48,
+        "seek" : 28976,
+        "start" : 311.28,
+        "end" : 314.32,
+        "text" : " Down there. I've seen it. Everyone's pumping on the wrong side.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2758654304172682,
+        "compression_ratio" : 1.5605381165919283,
+        "no_speech_prob" : 0.011163913644850254
+      },
+      {
+        "id" : 49,
+        "seek" : 31432,
+        "start" : 315.2,
+        "end" : 322.88,
+        "text" : " People are so dumb. Like I said, it really appeals to dumb people. Costco, doesn't it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.239839506149292,
+        "compression_ratio" : 1.7045454545454546,
+        "no_speech_prob" : 0.0569944903254509
+      },
+      {
+        "id" : 50,
+        "seek" : 31432,
+        "start" : 324.72,
+        "end" : 331.2,
+        "text" : " This is really really stupid people out here, huh?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.239839506149292,
+        "compression_ratio" : 1.7045454545454546,
+        "no_speech_prob" : 0.0569944903254509
+      },
+      {
+        "id" : 51,
+        "seek" : 31432,
+        "start" : 332.24,
+        "end" : 336.56,
+        "text" : " Whoa. Wow, these people are really dumb out here in Costco. Boy,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.239839506149292,
+        "compression_ratio" : 1.7045454545454546,
+        "no_speech_prob" : 0.0569944903254509
+      },
+      {
+        "id" : 52,
+        "seek" : 31432,
+        "start" : 337.84,
+        "end" : 343.6,
+        "text" : " these people out here at Costco are really dumb. I can't believe these fuck. What happened to me?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.239839506149292,
+        "compression_ratio" : 1.7045454545454546,
+        "no_speech_prob" : 0.0569944903254509
+      },
+      {
+        "id" : 53,
+        "seek" : 34432,
+        "start" : 344.32,
+        "end" : 349.68,
+        "text" : " I got a gas leak along with me. Fuck you. These people are so stupid out here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33074165793026195,
+        "compression_ratio" : 1.3359375,
+        "no_speech_prob" : 9.860930731520057E-4
+      },
+      {
+        "id" : 54,
+        "seek" : 34432,
+        "start" : 352.4,
+        "end" : 354.08,
+        "text" : " This has been a rough day. I'm not gonna lie.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33074165793026195,
+        "compression_ratio" : 1.3359375,
+        "no_speech_prob" : 9.860930731520057E-4
+      },
+      {
+        "id" : 55,
+        "seek" : 34432,
+        "start" : 356.4,
+        "end" : 364.88,
+        "text" : " It's been a really hard day for me personally.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33074165793026195,
+        "compression_ratio" : 1.3359375,
+        "no_speech_prob" : 9.860930731520057E-4
+      },
+      {
+        "id" : 56,
+        "seek" : 37432,
+        "start" : 374.32,
+        "end" : 375.28,
+        "text" : " Take it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9999970708574567,
+        "compression_ratio" : 0.6,
+        "no_speech_prob" : 0.7132622003555298
+      }
+    ]
+  }
+}

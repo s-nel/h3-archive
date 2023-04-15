@@ -1,0 +1,14 @@
+{
+  "person_id" : "jlee",
+  "category" : "friend",
+  "first_name" : "James",
+  "last_name" : "Weiner",
+  "display_name" : "Jimmie Lee",
+  "thumb" : "/people/jlee.jpg",
+  "description" : null,
+  "aliases" : [
+    "The Jersey Outlaw"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

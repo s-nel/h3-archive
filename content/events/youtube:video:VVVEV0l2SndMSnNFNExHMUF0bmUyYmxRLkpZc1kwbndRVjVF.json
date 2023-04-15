@@ -1,0 +1,135 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkpZc1kwbndRVjVF",
+  "category" : "video",
+  "name" : "You are NOT the father! Ft. Maury Povich [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/JYsY0nwQV5E/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    },
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/JYsY0nwQV5E"
+    }
+  ],
+  "start_date" : 1370546928000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.0,
+        "text" : " All February on March, witness the full impact of the truth.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3980632424354553,
+        "compression_ratio" : 1.4790419161676647,
+        "no_speech_prob" : 0.39696720242500305
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 9.0,
+        "text" : " Guess what? We are travel drinks right here. We get new drinks.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3980632424354553,
+        "compression_ratio" : 1.4790419161676647,
+        "no_speech_prob" : 0.39696720242500305
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 15.0,
+        "text" : " Paul is here to prove that he's not the father of six different children by three different women.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3980632424354553,
+        "compression_ratio" : 1.4790419161676647,
+        "no_speech_prob" : 0.39696720242500305
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 19.0,
+        "text" : " Who are not the father?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3980632424354553,
+        "compression_ratio" : 1.4790419161676647,
+        "no_speech_prob" : 0.39696720242500305
+      },
+      {
+        "id" : 4,
+        "seek" : 1900,
+        "start" : 20.0,
+        "end" : 23.0,
+        "text" : " To be continued...",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.9035640716552734,
+        "compression_ratio" : 1.128440366972477,
+        "no_speech_prob" : 0.5433035492897034
+      },
+      {
+        "id" : 5,
+        "seek" : 1900,
+        "start" : 29.0,
+        "end" : 33.0,
+        "text" : " Jasmine and Reggie became friends. They got a little bit of sex involved.",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.9035640716552734,
+        "compression_ratio" : 1.128440366972477,
+        "no_speech_prob" : 0.5433035492897034
+      },
+      {
+        "id" : 6,
+        "seek" : 1900,
+        "start" : 35.0,
+        "end" : 37.0,
+        "text" : " Oh, right!",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.9035640716552734,
+        "compression_ratio" : 1.128440366972477,
+        "no_speech_prob" : 0.5433035492897034
+      },
+      {
+        "id" : 7,
+        "seek" : 1900,
+        "start" : 39.0,
+        "end" : 41.0,
+        "text" : " He's dead of power!",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.9035640716552734,
+        "compression_ratio" : 1.128440366972477,
+        "no_speech_prob" : 0.5433035492897034
+      },
+      {
+        "id" : 8,
+        "seek" : 4100,
+        "start" : 41.0,
+        "end" : 43.0,
+        "text" : " Oh, no!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.898885795048305,
+        "compression_ratio" : 0.4666666666666667,
+        "no_speech_prob" : 0.4264031946659088
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmRRWmZGeXNScDU0",
+  "category" : "video",
+  "name" : "Eviction I (Part 2 of 3)",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/dQZfFysRp54/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/dQZfFysRp54"
+    }
+  ],
+  "start_date" : 1398199935000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.28,
+        "text" : " That's A GOOD VIDEOB Foundation",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.76,
+        "end" : 4.92,
+        "text" : " That's A GOOD VIDEOW separated from God",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 5.2,
+        "end" : 7.38,
+        "text" : " That's A GOOD VIDEO而且",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 7.38,
+        "end" : 9.7,
+        "text" : " That's A GOOD VIDEOB Foundation",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 9.74,
+        "end" : 12.06,
+        "text" : " That's A GOOD VIDEO babe",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 12.06,
+        "end" : 14.36,
+        "text" : " That's A GOOD VIDEO whoot",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 20.76,
+        "end" : 24.04,
+        "text" : " That's A GOOD VIDEOBлем",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 24.44,
+        "end" : 28.04,
+        "text" : " That's A GOOD VIDEO",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.046705627441406,
+        "compression_ratio" : 2.292929292929293,
+        "no_speech_prob" : 0.34882357716560364
+      },
+      {
+        "id" : 8,
+        "seek" : 2804,
+        "start" : 28.92,
+        "end" : 31.32,
+        "text" : " That's A GOOD VIDEOBCC",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.5943148612976075,
+        "compression_ratio" : 1.2647058823529411,
+        "no_speech_prob" : 0.04829111695289612
+      },
+      {
+        "id" : 9,
+        "seek" : 2804,
+        "start" : 31.32,
+        "end" : 52.68,
+        "text" : " That's A GOOD VIDEOB",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.5943148612976075,
+        "compression_ratio" : 1.2647058823529411,
+        "no_speech_prob" : 0.04829111695289612
+      },
+      {
+        "id" : 10,
+        "seek" : 5804,
+        "start" : 58.04,
+        "end" : 70.2,
+        "text" : " That's A GOOD VIDEOBLOG",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5147747993469238,
+        "compression_ratio" : 1.3428571428571427,
+        "no_speech_prob" : 0.3801133632659912
+      },
+      {
+        "id" : 11,
+        "seek" : 5804,
+        "start" : 70.2,
+        "end" : 76.2,
+        "text" : " That's A GOOD VIDEOBLOG",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5147747993469238,
+        "compression_ratio" : 1.3428571428571427,
+        "no_speech_prob" : 0.3801133632659912
+      },
+      {
+        "id" : 12,
+        "seek" : 7620,
+        "start" : 76.2,
+        "end" : 86.36,
+        "text" : " That's A GOOD VIDEOBLOG",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5622210222132066,
+        "compression_ratio" : 0.8181818181818182,
+        "no_speech_prob" : 0.31590911746025085
+      },
+      {
+        "id" : 13,
+        "seek" : 7620,
+        "start" : 86.36,
+        "end" : 88.36,
+        "text" : " Wait one sec",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5622210222132066,
+        "compression_ratio" : 0.8181818181818182,
+        "no_speech_prob" : 0.31590911746025085
+      },
+      {
+        "id" : 14,
+        "seek" : 10620,
+        "start" : 106.2,
+        "end" : 116.36,
+        "text" : " That's A GOOD VIDEOBLOG",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5235046545664469,
+        "compression_ratio" : 0.7419354838709677,
+        "no_speech_prob" : 0.5847867727279663
+      }
+    ]
+  }
+}

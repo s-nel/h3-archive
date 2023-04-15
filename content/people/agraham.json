@@ -1,0 +1,12 @@
+{
+  "person_id" : "agraham",
+  "category" : "lore",
+  "first_name" : "Aubrey",
+  "last_name" : "Graham",
+  "display_name" : "Drake",
+  "thumb" : "/people/agraham.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

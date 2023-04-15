@@ -1,0 +1,37 @@
+{
+  "steamy_id" : "fat-bad-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "sdeleonardis"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "nbalinthazy"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "etate"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "wweekes",
+        "mgaines"
+      ],
+      "name" : "Fresh&Fit",
+      "won" : false
+    }
+  ],
+  "name" : "Dumbest \"Fat Man Bad\"/\"Hila is Ugly\" Moment",
+  "description" : null,
+  "year" : 2022
+}

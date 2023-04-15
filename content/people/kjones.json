@@ -1,0 +1,13 @@
+{
+  "person_id" : "kjones",
+  "category" : "guest",
+  "first_name" : "Kyle",
+  "last_name" : "Jones",
+  "display_name" : "Kyle the Cougar Champ",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

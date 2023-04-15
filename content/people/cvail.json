@@ -1,0 +1,13 @@
+{
+  "person_id" : "cvail",
+  "category" : "enemy",
+  "first_name" : "Calvin",
+  "last_name" : "Vail",
+  "display_name" : "Leafy",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

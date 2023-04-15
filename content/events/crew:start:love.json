@@ -1,0 +1,20 @@
+{
+  "event_id" : "crew:start:love",
+  "category" : "major",
+  "name" : "Love joins the crew",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1608249600000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "love",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

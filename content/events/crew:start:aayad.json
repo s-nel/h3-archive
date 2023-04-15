@@ -1,0 +1,24 @@
+{
+  "event_id" : "crew:start:aayad",
+  "category" : "major",
+  "name" : "AB joins the crew",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+  ],
+  "start_date" : 1598745600000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "aayad",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

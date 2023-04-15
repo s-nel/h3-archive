@@ -1,0 +1,13 @@
+{
+  "person_id" : "jpeterson",
+  "category" : "enemy",
+  "first_name" : "Jordan",
+  "last_name" : "Peterson",
+  "display_name" : null,
+  "thumb" : "/people/jpeterson.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

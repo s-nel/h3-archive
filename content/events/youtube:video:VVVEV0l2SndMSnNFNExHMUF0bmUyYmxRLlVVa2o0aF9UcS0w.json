@@ -1,0 +1,718 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlVVa2o0aF9UcS0w",
+  "category" : "video",
+  "name" : "Why Doesn't YouTube Explain Anything?!",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/UUkj4h_Tq-0/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/UUkj4h_Tq-0"
+    }
+  ],
+  "start_date" : 1472754164000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.76,
+        "text" : " Hi guys, welcome back to another H3 video. I just made a video two days ago thinking YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.303401027406965,
+        "compression_ratio" : 1.6729323308270676,
+        "no_speech_prob" : 0.14667163789272308
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.76,
+        "end" : 8.78,
+        "text" : " And I just like to know why do they love making a fool of me?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.303401027406965,
+        "compression_ratio" : 1.6729323308270676,
+        "no_speech_prob" : 0.14667163789272308
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.92,
+        "end" : 13.76,
+        "text" : " Okay, just two days ago and now I'm here getting back criticizing YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.303401027406965,
+        "compression_ratio" : 1.6729323308270676,
+        "no_speech_prob" : 0.14667163789272308
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.76,
+        "end" : 17.46,
+        "text" : " Like can you guys just fucking give me a break? Why you always trying to make a fool of me?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.303401027406965,
+        "compression_ratio" : 1.6729323308270676,
+        "no_speech_prob" : 0.14667163789272308
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 17.82,
+        "end" : 24.04,
+        "text" : " So many you guys probably have heard but if you have it what's happening lately is that YouTube has gone on a demonetization",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.303401027406965,
+        "compression_ratio" : 1.6729323308270676,
+        "no_speech_prob" : 0.14667163789272308
+      },
+      {
+        "id" : 5,
+        "seek" : 2404,
+        "start" : 24.04,
+        "end" : 31.52,
+        "text" : " Strieg on many of your favorite youtubers saying that their videos weren't advertiser friendly and therefore they're being demonetized",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3287311090487186,
+        "compression_ratio" : 1.799283154121864,
+        "no_speech_prob" : 0.13272179663181305
+      },
+      {
+        "id" : 6,
+        "seek" : 2404,
+        "start" : 31.52,
+        "end" : 38.36,
+        "text" : " And there's a lot of confusion around it because YouTube as always done explain a single fucking thing that they're doing and just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3287311090487186,
+        "compression_ratio" : 1.799283154121864,
+        "no_speech_prob" : 0.13272179663181305
+      },
+      {
+        "id" : 7,
+        "seek" : 2404,
+        "start" : 38.36,
+        "end" : 45.2,
+        "text" : " They love creating a shitstorm by the by the sound of it. Some of my YouTube just fucking jerk and awful overall this confusion",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3287311090487186,
+        "compression_ratio" : 1.799283154121864,
+        "no_speech_prob" : 0.13272179663181305
+      },
+      {
+        "id" : 8,
+        "seek" : 2404,
+        "start" : 45.2,
+        "end" : 50.32,
+        "text" : " Mania they just get off on it because they never explain anything and this happens every single fucking time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3287311090487186,
+        "compression_ratio" : 1.799283154121864,
+        "no_speech_prob" : 0.13272179663181305
+      },
+      {
+        "id" : 9,
+        "seek" : 5032,
+        "start" : 50.64,
+        "end" : 57.24,
+        "text" : " So what I want to do in this video is try to illuminate my understanding of what's happening and kind of explain",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2187589075147491,
+        "compression_ratio" : 1.6473029045643153,
+        "no_speech_prob" : 0.025549497455358505
+      },
+      {
+        "id" : 10,
+        "seek" : 5032,
+        "start" : 57.64,
+        "end" : 58.92,
+        "text" : " What's going on?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2187589075147491,
+        "compression_ratio" : 1.6473029045643153,
+        "no_speech_prob" : 0.025549497455358505
+      },
+      {
+        "id" : 11,
+        "seek" : 5032,
+        "start" : 58.92,
+        "end" : 64.48,
+        "text" : " So of our channel you would expect us to get fucked the hardest because we talk about raunchy shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2187589075147491,
+        "compression_ratio" : 1.6473029045643153,
+        "no_speech_prob" : 0.025549497455358505
+      },
+      {
+        "id" : 12,
+        "seek" : 5032,
+        "start" : 64.48,
+        "end" : 68.56,
+        "text" : " I use foul language and I and I talk about terrible things regularly",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2187589075147491,
+        "compression_ratio" : 1.6473029045643153,
+        "no_speech_prob" : 0.025549497455358505
+      },
+      {
+        "id" : 13,
+        "seek" : 5032,
+        "start" : 68.56,
+        "end" : 75.2,
+        "text" : " But not one of our videos got demonetized and here I want to start by giving you this this anecdote",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2187589075147491,
+        "compression_ratio" : 1.6473029045643153,
+        "no_speech_prob" : 0.025549497455358505
+      },
+      {
+        "id" : 14,
+        "seek" : 7520,
+        "start" : 75.6,
+        "end" : 80.4,
+        "text" : " Two years ago we made a reaction video to prank invasion and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2649946725496682,
+        "compression_ratio" : 1.7292576419213974,
+        "no_speech_prob" : 0.17275471985340118
+      },
+      {
+        "id" : 15,
+        "seek" : 7520,
+        "start" : 82.08,
+        "end" : 85.4,
+        "text" : " It was one of these like surprise blowjob prank invasion videos",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2649946725496682,
+        "compression_ratio" : 1.7292576419213974,
+        "no_speech_prob" : 0.17275471985340118
+      },
+      {
+        "id" : 16,
+        "seek" : 7520,
+        "start" : 85.4,
+        "end" : 91.16,
+        "text" : " So we tagged it with like blowjob and sexy and kissing prank and all this stupid shit thinking that it's like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2649946725496682,
+        "compression_ratio" : 1.7292576419213974,
+        "no_speech_prob" : 0.17275471985340118
+      },
+      {
+        "id" : 17,
+        "seek" : 7520,
+        "start" : 91.16,
+        "end" : 93.76,
+        "text" : " Oh, these horny kids are gonna get shown our video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2649946725496682,
+        "compression_ratio" : 1.7292576419213974,
+        "no_speech_prob" : 0.17275471985340118
+      },
+      {
+        "id" : 18,
+        "seek" : 7520,
+        "start" : 93.76,
+        "end" : 100.56,
+        "text" : " But what actually happened is that the video made like one tenth of what it would usually make so we made like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2649946725496682,
+        "compression_ratio" : 1.7292576419213974,
+        "no_speech_prob" : 0.17275471985340118
+      },
+      {
+        "id" : 19,
+        "seek" : 10056,
+        "start" : 101.2,
+        "end" : 105.76,
+        "text" : " No money on a million views or something and we're like, yeah, what the fuck's going on here?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24285821256966428,
+        "compression_ratio" : 1.7118055555555556,
+        "no_speech_prob" : 0.05323032662272453
+      },
+      {
+        "id" : 20,
+        "seek" : 10056,
+        "start" : 105.76,
+        "end" : 109.12,
+        "text" : " It wasn't age restricted. We didn't get notified about anything",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24285821256966428,
+        "compression_ratio" : 1.7118055555555556,
+        "no_speech_prob" : 0.05323032662272453
+      },
+      {
+        "id" : 21,
+        "seek" : 10056,
+        "start" : 109.12,
+        "end" : 113.16,
+        "text" : " We're just it was just making like no money and we're like what the folks happening. So we emailed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24285821256966428,
+        "compression_ratio" : 1.7118055555555556,
+        "no_speech_prob" : 0.05323032662272453
+      },
+      {
+        "id" : 22,
+        "seek" : 10056,
+        "start" : 113.72,
+        "end" : 119.82,
+        "text" : " YouTube we talked to our network we followed up on it for like months and months and months until we got an answer from somebody on YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24285821256966428,
+        "compression_ratio" : 1.7118055555555556,
+        "no_speech_prob" : 0.05323032662272453
+      },
+      {
+        "id" : 23,
+        "seek" : 10056,
+        "start" : 119.82,
+        "end" : 125.88,
+        "text" : " And this was like two years ago when our channel was relatively a lot smaller and they said that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24285821256966428,
+        "compression_ratio" : 1.7118055555555556,
+        "no_speech_prob" : 0.05323032662272453
+      },
+      {
+        "id" : 24,
+        "seek" : 12588,
+        "start" : 126.24,
+        "end" : 132.1,
+        "text" : " Basically the tags had fucked it up because when you tag stuff like blowjob or sex or",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2528942710474918,
+        "compression_ratio" : 1.6553191489361703,
+        "no_speech_prob" : 0.00751484464854002
+      },
+      {
+        "id" : 25,
+        "seek" : 12588,
+        "start" : 132.44,
+        "end" : 138.48,
+        "text" : " Drugs or suicide or murder anything like that. It's just a little dark or a little edgy. They will",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2528942710474918,
+        "compression_ratio" : 1.6553191489361703,
+        "no_speech_prob" : 0.00751484464854002
+      },
+      {
+        "id" : 26,
+        "seek" : 12588,
+        "start" : 139.16,
+        "end" : 143.68,
+        "text" : " You as an advertiser you have to opt in to this kind of blacklisted thing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2528942710474918,
+        "compression_ratio" : 1.6553191489361703,
+        "no_speech_prob" : 0.00751484464854002
+      },
+      {
+        "id" : 27,
+        "seek" : 12588,
+        "start" : 143.92,
+        "end" : 151.92,
+        "text" : " So what happened was that our video got moved to this kind of black market for advertisers where they would have to opt in and say",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2528942710474918,
+        "compression_ratio" : 1.6553191489361703,
+        "no_speech_prob" : 0.00751484464854002
+      },
+      {
+        "id" : 28,
+        "seek" : 15192,
+        "start" : 151.92,
+        "end" : 156.72,
+        "text" : " I'm okay advertising on videos about rape and obviously nobody clicks that right",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 29,
+        "seek" : 15192,
+        "start" : 156.84,
+        "end" : 163.72,
+        "text" : " So we ended up getting almost no no revenue in that video and we learned a lesson back then that never to tag anything",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 30,
+        "seek" : 15192,
+        "start" : 163.72,
+        "end" : 165.72,
+        "text" : " You know remotely",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 31,
+        "seek" : 15192,
+        "start" : 166.32,
+        "end" : 168.32,
+        "text" : " controversial",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 32,
+        "seek" : 15192,
+        "start" : 168.68,
+        "end" : 170.68,
+        "text" : " Because you you won't have money on it, right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 33,
+        "seek" : 15192,
+        "start" : 171.32,
+        "end" : 172.64,
+        "text" : " so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 34,
+        "seek" : 15192,
+        "start" : 172.64,
+        "end" : 181.1,
+        "text" : " That contributes to why I think we don't even have one single video demonetized and if you look at for example the people who have been hit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3104959053568321,
+        "compression_ratio" : 1.6254826254826256,
+        "no_speech_prob" : 0.010141638107597828
+      },
+      {
+        "id" : 35,
+        "seek" : 18110,
+        "start" : 181.1,
+        "end" : 187.02,
+        "text" : " High this who in my opinion don't deserve it or wonderful people that I love and shame on you YouTube for not explaining this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3126637818383389,
+        "compression_ratio" : 1.694078947368421,
+        "no_speech_prob" : 0.004222947172820568
+      },
+      {
+        "id" : 36,
+        "seek" : 18110,
+        "start" : 187.1,
+        "end" : 194.12,
+        "text" : " But if you look at boogie he got dinged for this video called please hold on where he makes a really endearing video about supporting people with suicide",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3126637818383389,
+        "compression_ratio" : 1.694078947368421,
+        "no_speech_prob" : 0.004222947172820568
+      },
+      {
+        "id" : 37,
+        "seek" : 18110,
+        "start" : 194.3,
+        "end" : 202.7,
+        "text" : " Which is great, but here if you look at the tags it's suicide suicidal thoughts how to die death dying killing yourself kill yourself",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3126637818383389,
+        "compression_ratio" : 1.694078947368421,
+        "no_speech_prob" : 0.004222947172820568
+      },
+      {
+        "id" : 38,
+        "seek" : 18110,
+        "start" : 202.82,
+        "end" : 207.78,
+        "text" : " It's up like that. Jew. I don't know why Jews in their boogie. That's kind of strange. It's Jew. Okay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3126637818383389,
+        "compression_ratio" : 1.694078947368421,
+        "no_speech_prob" : 0.004222947172820568
+      },
+      {
+        "id" : 39,
+        "seek" : 20778,
+        "start" : 207.78,
+        "end" : 217.26,
+        "text" : " Anyway, you can see why they would read these tags and be like this isn't advertiser friendly if it was me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30213808806046194,
+        "compression_ratio" : 1.619047619047619,
+        "no_speech_prob" : 0.018498774617910385
+      },
+      {
+        "id" : 40,
+        "seek" : 20778,
+        "start" : 217.26,
+        "end" : 223.38,
+        "text" : " You just you can't put that shit. You just can't tag that then another one here with Philip DeFranco",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30213808806046194,
+        "compression_ratio" : 1.619047619047619,
+        "no_speech_prob" : 0.018498774617910385
+      },
+      {
+        "id" : 41,
+        "seek" : 20778,
+        "start" : 223.58,
+        "end" : 227.7,
+        "text" : " The one that he made a video about where he said why did my video get demonetized?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30213808806046194,
+        "compression_ratio" : 1.619047619047619,
+        "no_speech_prob" : 0.018498774617910385
+      },
+      {
+        "id" : 42,
+        "seek" : 20778,
+        "start" : 227.82,
+        "end" : 229.78,
+        "text" : " God bless you. It shouldn't have been monetized",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30213808806046194,
+        "compression_ratio" : 1.619047619047619,
+        "no_speech_prob" : 0.018498774617910385
+      },
+      {
+        "id" : 43,
+        "seek" : 20778,
+        "start" : 229.78,
+        "end" : 236.26,
+        "text" : " I love what you do for Franko, but you tagged a rape on it block Turner rape rape culture Stanford rape",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30213808806046194,
+        "compression_ratio" : 1.619047619047619,
+        "no_speech_prob" : 0.018498774617910385
+      },
+      {
+        "id" : 44,
+        "seek" : 23626,
+        "start" : 236.26,
+        "end" : 241.72,
+        "text" : " So that's why I got demonetized you put rape and I you can test this if you just upload a video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26159253801618304,
+        "compression_ratio" : 1.6865671641791045,
+        "no_speech_prob" : 0.00673886202275753
+      },
+      {
+        "id" : 45,
+        "seek" : 23626,
+        "start" : 241.72,
+        "end" : 247.66,
+        "text" : " It says hey, I hate rape rape kill sex guns. It's gonna get deemed what I think's happening",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26159253801618304,
+        "compression_ratio" : 1.6865671641791045,
+        "no_speech_prob" : 0.00673886202275753
+      },
+      {
+        "id" : 46,
+        "seek" : 23626,
+        "start" : 247.66,
+        "end" : 253.18,
+        "text" : " They have a pot the automatically deems videos with metadata that includes tags titles description",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26159253801618304,
+        "compression_ratio" : 1.6865671641791045,
+        "no_speech_prob" : 0.00673886202275753
+      },
+      {
+        "id" : 47,
+        "seek" : 23626,
+        "start" : 253.18,
+        "end" : 258.18,
+        "text" : " They automatically just ding yet. They have this shoot first asked questions second",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26159253801618304,
+        "compression_ratio" : 1.6865671641791045,
+        "no_speech_prob" : 0.00673886202275753
+      },
+      {
+        "id" : 48,
+        "seek" : 23626,
+        "start" : 258.18,
+        "end" : 263.42,
+        "text" : " But the crazy thing is guys is that I actually don't think anything's changed now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26159253801618304,
+        "compression_ratio" : 1.6865671641791045,
+        "no_speech_prob" : 0.00673886202275753
+      },
+      {
+        "id" : 49,
+        "seek" : 26342,
+        "start" : 263.42,
+        "end" : 267.32,
+        "text" : " They're just telling you that they fucked you up before they just wouldn't pay you at all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2740338333253938,
+        "compression_ratio" : 1.726027397260274,
+        "no_speech_prob" : 0.02401057817041874
+      },
+      {
+        "id" : 50,
+        "seek" : 26342,
+        "start" : 267.32,
+        "end" : 273.26,
+        "text" : " And you wouldn't understand why all of a sudden you're making 10% of what you supposed to be and then there's another one here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2740338333253938,
+        "compression_ratio" : 1.726027397260274,
+        "no_speech_prob" : 0.02401057817041874
+      },
+      {
+        "id" : 51,
+        "seek" : 26342,
+        "start" : 273.26,
+        "end" : 278.3,
+        "text" : " Lure reviews he made a video how he got fucked up and the title was never before seen drug",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2740338333253938,
+        "compression_ratio" : 1.726027397260274,
+        "no_speech_prob" : 0.02401057817041874
+      },
+      {
+        "id" : 52,
+        "seek" : 26342,
+        "start" : 279.26,
+        "end" : 281.66,
+        "text" : " Drug in the title you're gonna get deemed to guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2740338333253938,
+        "compression_ratio" : 1.726027397260274,
+        "no_speech_prob" : 0.02401057817041874
+      },
+      {
+        "id" : 53,
+        "seek" : 26342,
+        "start" : 282.14,
+        "end" : 286.02,
+        "text" : " So just know I'm not yet I'm sure that this is what happening",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2740338333253938,
+        "compression_ratio" : 1.726027397260274,
+        "no_speech_prob" : 0.02401057817041874
+      },
+      {
+        "id" : 54,
+        "seek" : 26342,
+        "start" : 286.02,
+        "end" : 290.34,
+        "text" : " So this is like a public service announcement to my peers and friends on YouTube and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2740338333253938,
+        "compression_ratio" : 1.726027397260274,
+        "no_speech_prob" : 0.02401057817041874
+      },
+      {
+        "id" : 55,
+        "seek" : 29034,
+        "start" : 290.34,
+        "end" : 298.02,
+        "text" : " Explosions to those in the community that just don't use controversial tags titles or anything in the description because they'll get you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3393107115767384,
+        "compression_ratio" : 1.7049180327868851,
+        "no_speech_prob" : 0.0024948688223958015
+      },
+      {
+        "id" : 56,
+        "seek" : 29034,
+        "start" : 298.02,
+        "end" : 302.3,
+        "text" : " And I support what you guys are doing. I love what you're doing and and YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3393107115767384,
+        "compression_ratio" : 1.7049180327868851,
+        "no_speech_prob" : 0.0024948688223958015
+      },
+      {
+        "id" : 57,
+        "seek" : 29034,
+        "start" : 302.3,
+        "end" : 305.7,
+        "text" : " I just made a video saying thank you when you got to make a fool of me, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3393107115767384,
+        "compression_ratio" : 1.7049180327868851,
+        "no_speech_prob" : 0.0024948688223958015
+      },
+      {
+        "id" : 58,
+        "seek" : 29034,
+        "start" : 305.7,
+        "end" : 310.6,
+        "text" : " I just went out all live saying hey, we always talking shit on YouTube and now, you know, let's say thanks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3393107115767384,
+        "compression_ratio" : 1.7049180327868851,
+        "no_speech_prob" : 0.0024948688223958015
+      },
+      {
+        "id" : 59,
+        "seek" : 29034,
+        "start" : 311.46,
+        "end" : 317.66,
+        "text" : " Come on to these maybe you can do this shit, dude. Give a guy a fucking break. Do I try to make me look like an idiot?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3393107115767384,
+        "compression_ratio" : 1.7049180327868851,
+        "no_speech_prob" : 0.0024948688223958015
+      },
+      {
+        "id" : 60,
+        "seek" : 31766,
+        "start" : 318.46,
+        "end" : 325.42,
+        "text" : " Anyway, guys, we appreciate you love you and most definitely will be tagging all kinds of rapiest shit and our titles come up in the future",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24964935779571534,
+        "compression_ratio" : 1.282258064516129,
+        "no_speech_prob" : 0.006892868783324957
+      },
+      {
+        "id" : 61,
+        "seek" : 31766,
+        "start" : 325.42,
+        "end" : 327.42,
+        "text" : " It's gonna be crazy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24964935779571534,
+        "compression_ratio" : 1.282258064516129,
+        "no_speech_prob" : 0.006892868783324957
+      }
+    ]
+  }
+}

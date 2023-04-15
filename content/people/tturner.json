@@ -1,0 +1,13 @@
+{
+  "person_id" : "tturner",
+  "category" : "lore",
+  "first_name" : "Toby",
+  "last_name" : "Turner",
+  "display_name" : "Tobuscus",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

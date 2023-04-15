@@ -1,0 +1,113 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlduMTFZWGlieTJF",
+  "category" : "video",
+  "name" : ".exe teaser trailer [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Wn11YXiby2E/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Wn11YXiby2E"
+    }
+  ],
+  "start_date" : 1389560699000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.38,
+        "text" : " Hey guys, I just want to show you a little bit about my workspace and show you guys how I'm doing work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29724546920421513,
+        "compression_ratio" : 1.7013888888888888,
+        "no_speech_prob" : 0.2043195217847824
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.38,
+        "end" : 10.0,
+        "text" : " Working on my new video here at EXE and it's pretty simple really you just put it in the timeline.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29724546920421513,
+        "compression_ratio" : 1.7013888888888888,
+        "no_speech_prob" : 0.2043195217847824
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 14.44,
+        "text" : " You can see I've got a lot of video footage and a lot of audio clips as well.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29724546920421513,
+        "compression_ratio" : 1.7013888888888888,
+        "no_speech_prob" : 0.2043195217847824
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.44,
+        "end" : 20.88,
+        "text" : " And this is my setup here. This is my chair where I do my work and it's pretty simple stuff here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29724546920421513,
+        "compression_ratio" : 1.7013888888888888,
+        "no_speech_prob" : 0.2043195217847824
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.88,
+        "end" : 28.7,
+        "text" : " Just kick back, relax, play around with the mouse and make these videos that you guys all like at home so much.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29724546920421513,
+        "compression_ratio" : 1.7013888888888888,
+        "no_speech_prob" : 0.2043195217847824
+      },
+      {
+        "id" : 5,
+        "seek" : 2870,
+        "start" : 28.7,
+        "end" : 40.7,
+        "text" : " So anyway, I just want to click show you guys what's going on here and before I release the next video so you guys can see just what kind of magic takes place here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2926918152839907,
+        "compression_ratio" : 1.4885057471264367,
+        "no_speech_prob" : 0.029295874759554863
+      },
+      {
+        "id" : 6,
+        "seek" : 2870,
+        "start" : 40.7,
+        "end" : 47.7,
+        "text" : " So thanks for tuning in on everybody and my new video is coming up soon so stay tuned alright.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2926918152839907,
+        "compression_ratio" : 1.4885057471264367,
+        "no_speech_prob" : 0.029295874759554863
+      }
+    ]
+  }
+}

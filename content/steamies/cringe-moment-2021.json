@@ -1,0 +1,47 @@
+{
+  "steamy_id" : "cringe-moment-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "dkeem",
+        "aross"
+      ],
+      "name" : "Keemstar on Adin Ross' stream",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "rkavanaugh",
+        "eklein"
+      ],
+      "name" : "Ryan's DM to Ethan",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "scrowder",
+        "sseder"
+      ],
+      "name" : "Sam Seder surprises Steven Crowder",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dream"
+      ],
+      "name" : "Minecraft cheating scandal",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mfox",
+        "cbaker"
+      ],
+      "name" : "Machine Gun Kelly and Megan Fox",
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Cringe Moment",
+  "description" : null,
+  "year" : 2021
+}

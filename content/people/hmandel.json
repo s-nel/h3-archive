@@ -1,0 +1,12 @@
+{
+  "person_id" : "hmandel",
+  "category" : "guest",
+  "first_name" : "Howard",
+  "last_name" : "Mandel",
+  "display_name" : "Howie Mandel",
+  "thumb" : "/people/hmandel.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

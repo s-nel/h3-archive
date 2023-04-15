@@ -1,0 +1,498 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkpON3FhZWlScThV",
+  "category" : "video",
+  "name" : "H3H3 BALL RIDER",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/JN7qaeiRq8U/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/JN7qaeiRq8U"
+    }
+  ],
+  "start_date" : 1536258826000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.34,
+        "text" : " Have you ever wanted to ride a huge inflatable ball on the beach?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.34,
+        "end" : 7.96,
+        "text" : " What about a huge inflatable sweaty dude named Ethan?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 7.96,
+        "end" : 10.0,
+        "text" : " Would you ride his Fupa?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 12.68,
+        "text" : " We need a hero to ride that Fupa.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 12.68,
+        "end" : 13.92,
+        "text" : " Eeh.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 13.92,
+        "end" : 18.88,
+        "text" : " Itch reducing H3H3 production's first mobile game.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 18.88,
+        "end" : 21.28,
+        "text" : " H3 ball rider.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 21.28,
+        "end" : 25.12,
+        "text" : " Play as the heroic healer client as she mounts Ethan's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39994012548568403,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.24455711245536804
+      },
+      {
+        "id" : 8,
+        "seek" : 2512,
+        "start" : 25.12,
+        "end" : 29.6,
+        "text" : " The Lup Jewish Fupa and controls his sweat to victory.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4260597229003906,
+        "compression_ratio" : 1.4322916666666667,
+        "no_speech_prob" : 0.00975295715034008
+      },
+      {
+        "id" : 9,
+        "seek" : 2512,
+        "start" : 29.6,
+        "end" : 35.12,
+        "text" : " The premise doesn't make any sense but it's really fun.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4260597229003906,
+        "compression_ratio" : 1.4322916666666667,
+        "no_speech_prob" : 0.00975295715034008
+      },
+      {
+        "id" : 10,
+        "seek" : 2512,
+        "start" : 35.12,
+        "end" : 39.36,
+        "text" : " We wanted to call it Fupa Rider but thought it was to have seen for the mobile store so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4260597229003906,
+        "compression_ratio" : 1.4322916666666667,
+        "no_speech_prob" : 0.00975295715034008
+      },
+      {
+        "id" : 11,
+        "seek" : 2512,
+        "start" : 39.36,
+        "end" : 42.36,
+        "text" : " it's called H3 Ball Rider.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4260597229003906,
+        "compression_ratio" : 1.4322916666666667,
+        "no_speech_prob" : 0.00975295715034008
+      },
+      {
+        "id" : 12,
+        "seek" : 2512,
+        "start" : 42.36,
+        "end" : 48.52,
+        "text" : " Free to play and available on your app store now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4260597229003906,
+        "compression_ratio" : 1.4322916666666667,
+        "no_speech_prob" : 0.00975295715034008
+      },
+      {
+        "id" : 13,
+        "seek" : 4852,
+        "start" : 48.52,
+        "end" : 51.36,
+        "text" : " Light your wave through eight different levels.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 14,
+        "seek" : 4852,
+        "start" : 51.36,
+        "end" : 55.04,
+        "text" : " Beat your high score and collect skins and equipment.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 15,
+        "seek" : 4852,
+        "start" : 55.04,
+        "end" : 57.16,
+        "text" : " Play as Classik Ethan.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 16,
+        "seek" : 4852,
+        "start" : 57.16,
+        "end" : 58.64,
+        "text" : " Vape Nage.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 17,
+        "seek" : 4852,
+        "start" : 58.64,
+        "end" : 59.8,
+        "text" : " Heela.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 18,
+        "seek" : 4852,
+        "start" : 59.8,
+        "end" : 61.32,
+        "text" : " And many more.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 19,
+        "seek" : 4852,
+        "start" : 61.32,
+        "end" : 65.88,
+        "text" : " Challenge your friends and foes to a race and win prizes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 20,
+        "seek" : 4852,
+        "start" : 65.88,
+        "end" : 67.44,
+        "text" : " Power ups.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 21,
+        "seek" : 4852,
+        "start" : 67.44,
+        "end" : 73.44,
+        "text" : " Race in daily and weekly global events to the competition.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 22,
+        "seek" : 4852,
+        "start" : 73.44,
+        "end" : 76.04,
+        "text" : " Original music by Echo Robot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 23,
+        "seek" : 4852,
+        "start" : 76.04,
+        "end" : 77.76,
+        "text" : " Guys you gotta hear it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5408830739030934,
+        "compression_ratio" : 1.480349344978166,
+        "no_speech_prob" : 0.8461336493492126
+      },
+      {
+        "id" : 24,
+        "seek" : 7776,
+        "start" : 77.76,
+        "end" : 85.8,
+        "text" : " The music is amazing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2995151373056265,
+        "compression_ratio" : 1.4124293785310735,
+        "no_speech_prob" : 0.050968751311302185
+      },
+      {
+        "id" : 25,
+        "seek" : 7776,
+        "start" : 85.8,
+        "end" : 93.32,
+        "text" : " This exciting Fupa Licious Racing game is free to play and available now on the app store.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2995151373056265,
+        "compression_ratio" : 1.4124293785310735,
+        "no_speech_prob" : 0.050968751311302185
+      },
+      {
+        "id" : 26,
+        "seek" : 7776,
+        "start" : 93.32,
+        "end" : 104.04,
+        "text" : " Brought to you by Outermines, the makers of Tuber Simulator and Legend of the Bro Fist.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2995151373056265,
+        "compression_ratio" : 1.4124293785310735,
+        "no_speech_prob" : 0.050968751311302185
+      },
+      {
+        "id" : 27,
+        "seek" : 7776,
+        "start" : 104.04,
+        "end" : 105.28,
+        "text" : " Give it a whistle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2995151373056265,
+        "compression_ratio" : 1.4124293785310735,
+        "no_speech_prob" : 0.050968751311302185
+      },
+      {
+        "id" : 28,
+        "seek" : 7776,
+        "start" : 105.28,
+        "end" : 106.28,
+        "text" : " Give it a ride.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2995151373056265,
+        "compression_ratio" : 1.4124293785310735,
+        "no_speech_prob" : 0.050968751311302185
+      },
+      {
+        "id" : 29,
+        "seek" : 7776,
+        "start" : 106.28,
+        "end" : 107.28,
+        "text" : " Feel the Fupa.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2995151373056265,
+        "compression_ratio" : 1.4124293785310735,
+        "no_speech_prob" : 0.050968751311302185
+      },
+      {
+        "id" : 30,
+        "seek" : 10728,
+        "start" : 107.28,
+        "end" : 108.28,
+        "text" : " Feel the sweat.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 31,
+        "seek" : 10728,
+        "start" : 108.28,
+        "end" : 113.36,
+        "text" : " Have you not ever wanted to role play as Ila riding my fat sweaty body?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 32,
+        "seek" : 10728,
+        "start" : 113.36,
+        "end" : 117.72,
+        "text" : " I mean if that's not the fantasy that you all had then I really don't understand you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 33,
+        "seek" : 10728,
+        "start" : 117.72,
+        "end" : 118.72,
+        "text" : " guys at all.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 34,
+        "seek" : 10728,
+        "start" : 118.72,
+        "end" : 123.2,
+        "text" : " Thanks guys everyone for watching this version of H3 H3 Ball Rider.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 35,
+        "seek" : 10728,
+        "start" : 123.2,
+        "end" : 124.52,
+        "text" : " Out on mobile everywhere.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 36,
+        "seek" : 10728,
+        "start" : 124.52,
+        "end" : 126.76,
+        "text" : " Get it, pick it up, download it for free guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 37,
+        "seek" : 10728,
+        "start" : 126.76,
+        "end" : 129.36,
+        "text" : " I'll see you all next time or will I?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 38,
+        "seek" : 10728,
+        "start" : 129.36,
+        "end" : 133.4,
+        "text" : " I'm on the version of a heat stroke, feeling a little tired, a little dehydrated.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 39,
+        "seek" : 10728,
+        "start" : 133.4,
+        "end" : 135.36,
+        "text" : " I think I'm going to take a nap.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 40,
+        "seek" : 10728,
+        "start" : 135.36,
+        "end" : 136.88,
+        "text" : " Everyone have fun and enjoy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2930559725374789,
+        "compression_ratio" : 1.6387096774193548,
+        "no_speech_prob" : 0.1447771191596985
+      },
+      {
+        "id" : 41,
+        "seek" : 13688,
+        "start" : 136.88,
+        "end" : 138.08,
+        "text" : " I'll see you on the other side of life.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38645454815455843,
+        "compression_ratio" : 0.8863636363636364,
+        "no_speech_prob" : 0.15188954770565033
+      }
+    ]
+  }
+}

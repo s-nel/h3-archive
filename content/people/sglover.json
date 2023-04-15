@@ -1,0 +1,14 @@
+{
+  "person_id" : "sglover",
+  "category" : "guest",
+  "first_name" : "Stephen",
+  "last_name" : "Glover",
+  "display_name" : "Steve-O",
+  "thumb" : "/people/sglover.jpg",
+  "description" : null,
+  "aliases" : [
+    "Steve-O"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

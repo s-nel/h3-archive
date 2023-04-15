@@ -1,0 +1,300 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlFRV3d1c085Sm1r",
+  "category" : "video",
+  "name" : "forever rekt",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/QQWwusO9Jmk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/QQWwusO9Jmk"
+    }
+  ],
+  "start_date" : 1413476137000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 24.0,
+        "text" : " I've seen seasons come and go from winter sun to summer snow",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44874900930068073,
+        "compression_ratio" : 0.967741935483871,
+        "no_speech_prob" : 0.5768665671348572
+      },
+      {
+        "id" : 1,
+        "seek" : 2400,
+        "start" : 24.0,
+        "end" : 32.0,
+        "text" : " The same my first time at the rodeo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.342741246126136,
+        "compression_ratio" : 1.31496062992126,
+        "no_speech_prob" : 0.3277096152305603
+      },
+      {
+        "id" : 2,
+        "seek" : 2400,
+        "start" : 32.0,
+        "end" : 35.0,
+        "text" : " Make sure you know fruit machine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.342741246126136,
+        "compression_ratio" : 1.31496062992126,
+        "no_speech_prob" : 0.3277096152305603
+      },
+      {
+        "id" : 3,
+        "seek" : 2400,
+        "start" : 35.0,
+        "end" : 40.0,
+        "text" : " She's gotta keep her credit screen",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.342741246126136,
+        "compression_ratio" : 1.31496062992126,
+        "no_speech_prob" : 0.3277096152305603
+      },
+      {
+        "id" : 4,
+        "seek" : 2400,
+        "start" : 40.0,
+        "end" : 43.0,
+        "text" : " But things come to those who wait",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.342741246126136,
+        "compression_ratio" : 1.31496062992126,
+        "no_speech_prob" : 0.3277096152305603
+      },
+      {
+        "id" : 5,
+        "seek" : 2400,
+        "start" : 43.0,
+        "end" : 48.0,
+        "text" : " But I ain't in a patient face",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.342741246126136,
+        "compression_ratio" : 1.31496062992126,
+        "no_speech_prob" : 0.3277096152305603
+      },
+      {
+        "id" : 6,
+        "seek" : 4800,
+        "start" : 48.5,
+        "end" : 52.0,
+        "text" : " It's gonna come on a hand on a fire",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 7,
+        "seek" : 4800,
+        "start" : 52.0,
+        "end" : 56.0,
+        "text" : " They're gonna make me really scream for a while",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 8,
+        "seek" : 4800,
+        "start" : 56.0,
+        "end" : 59.0,
+        "text" : " Hand in a line, I'll go through all the trees",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 9,
+        "seek" : 4800,
+        "start" : 59.0,
+        "end" : 63.0,
+        "text" : " We'll keep it, I won't come for you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 10,
+        "seek" : 4800,
+        "start" : 63.0,
+        "end" : 68.0,
+        "text" : " I'll fill you up, I'll give you some good luck",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 11,
+        "seek" : 4800,
+        "start" : 68.0,
+        "end" : 72.0,
+        "text" : " Good luck, good luck to you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 12,
+        "seek" : 4800,
+        "start" : 72.0,
+        "end" : 76.0,
+        "text" : " Hand in a good fruit, you better join me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.532911064919461,
+        "compression_ratio" : 1.6432748538011697,
+        "no_speech_prob" : 0.3185783624649048
+      },
+      {
+        "id" : 13,
+        "seek" : 7600,
+        "start" : 76.0,
+        "end" : 82.0,
+        "text" : " Juice, juice, juice, let's fill up what she can do",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4352484364663401,
+        "compression_ratio" : 1.4057971014492754,
+        "no_speech_prob" : 0.09835876524448395
+      },
+      {
+        "id" : 14,
+        "seek" : 7600,
+        "start" : 82.0,
+        "end" : 86.0,
+        "text" : " Life could have never seen her",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4352484364663401,
+        "compression_ratio" : 1.4057971014492754,
+        "no_speech_prob" : 0.09835876524448395
+      },
+      {
+        "id" : 15,
+        "seek" : 7600,
+        "start" : 86.0,
+        "end" : 90.0,
+        "text" : " Don't you give me your reason",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4352484364663401,
+        "compression_ratio" : 1.4057971014492754,
+        "no_speech_prob" : 0.09835876524448395
+      },
+      {
+        "id" : 16,
+        "seek" : 7600,
+        "start" : 90.0,
+        "end" : 94.0,
+        "text" : " That it's not the right season",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4352484364663401,
+        "compression_ratio" : 1.4057971014492754,
+        "no_speech_prob" : 0.09835876524448395
+      },
+      {
+        "id" : 17,
+        "seek" : 7600,
+        "start" : 94.0,
+        "end" : 98.0,
+        "text" : " We're gonna love you now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4352484364663401,
+        "compression_ratio" : 1.4057971014492754,
+        "no_speech_prob" : 0.09835876524448395
+      },
+      {
+        "id" : 18,
+        "seek" : 7600,
+        "start" : 98.0,
+        "end" : 102.0,
+        "text" : " I'll give you all I've got",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4352484364663401,
+        "compression_ratio" : 1.4057971014492754,
+        "no_speech_prob" : 0.09835876524448395
+      },
+      {
+        "id" : 19,
+        "seek" : 10200,
+        "start" : 102.0,
+        "end" : 106.0,
+        "text" : " I can't give you no right to you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30491915115943324,
+        "compression_ratio" : 1.8936170212765957,
+        "no_speech_prob" : 0.11094366014003754
+      },
+      {
+        "id" : 20,
+        "seek" : 10200,
+        "start" : 106.0,
+        "end" : 110.0,
+        "text" : " I've been saved by all my summers for you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30491915115943324,
+        "compression_ratio" : 1.8936170212765957,
+        "no_speech_prob" : 0.11094366014003754
+      },
+      {
+        "id" : 21,
+        "seek" : 10200,
+        "start" : 110.0,
+        "end" : 114.0,
+        "text" : " I've been saved by all my summers for you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30491915115943324,
+        "compression_ratio" : 1.8936170212765957,
+        "no_speech_prob" : 0.11094366014003754
+      },
+      {
+        "id" : 22,
+        "seek" : 10200,
+        "start" : 114.0,
+        "end" : 118.0,
+        "text" : " Life could have never seen her",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30491915115943324,
+        "compression_ratio" : 1.8936170212765957,
+        "no_speech_prob" : 0.11094366014003754
+      },
+      {
+        "id" : 23,
+        "seek" : 10200,
+        "start" : 118.0,
+        "end" : 121.0,
+        "text" : " Life could have never seen her",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30491915115943324,
+        "compression_ratio" : 1.8936170212765957,
+        "no_speech_prob" : 0.11094366014003754
+      }
+    ]
+  }
+}

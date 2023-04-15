@@ -1,0 +1,333 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjJzNHhBZjBoU0NR",
+  "category" : "video",
+  "name" : "I Won't Lie This is Definitely Me (h3h3 2016 Song) by Schmoyoho",
+  "description" : "Full song of Schmoyoho's hit single for our h3h3 2016 best of video entitled \"thank you\"\n\nSubscribe to Schmoyoho �м https://goo.gl/IgtV4a",
+  "thumb" : "https://i.ytimg.com/vi/2s4xAf0hSCQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/2s4xAf0hSCQ"
+    }
+  ],
+  "start_date" : 1483395612000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 10.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 13.0,
+        "text" : " I don't like this is definitely me",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.0,
+        "end" : 14.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 17.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 17.0,
+        "end" : 19.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 21.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 21.0,
+        "end" : 22.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 22.0,
+        "end" : 25.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 9,
+        "seek" : 0,
+        "start" : 25.0,
+        "end" : 27.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7381404974521735,
+        "compression_ratio" : 1.6603773584905661,
+        "no_speech_prob" : 0.44119885563850403
+      },
+      {
+        "id" : 10,
+        "seek" : 2700,
+        "start" : 27.0,
+        "end" : 30.0,
+        "text" : " I'm always triggered. I'm triggered right now.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 11,
+        "seek" : 2700,
+        "start" : 30.0,
+        "end" : 32.0,
+        "text" : " Matoho, Matoh, Matoh, Matoh.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 12,
+        "seek" : 2700,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 13,
+        "seek" : 2700,
+        "start" : 34.0,
+        "end" : 37.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 14,
+        "seek" : 2700,
+        "start" : 37.0,
+        "end" : 40.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 15,
+        "seek" : 2700,
+        "start" : 40.0,
+        "end" : 42.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 16,
+        "seek" : 2700,
+        "start" : 42.0,
+        "end" : 45.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 17,
+        "seek" : 2700,
+        "start" : 45.0,
+        "end" : 47.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 18,
+        "seek" : 2700,
+        "start" : 47.0,
+        "end" : 49.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 19,
+        "seek" : 2700,
+        "start" : 49.0,
+        "end" : 51.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 20,
+        "seek" : 2700,
+        "start" : 51.0,
+        "end" : 54.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 21,
+        "seek" : 2700,
+        "start" : 54.0,
+        "end" : 56.0,
+        "text" : " Music",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.40236721038818357,
+        "compression_ratio" : 2.142857142857143,
+        "no_speech_prob" : 0.07101625949144363
+      },
+      {
+        "id" : 22,
+        "seek" : 5600,
+        "start" : 56.0,
+        "end" : 66.0,
+        "text" : " Music",
+        "temperature" : 0.8,
+        "avg_logprob" : -0.7779421125139508,
+        "compression_ratio" : 1.4375,
+        "no_speech_prob" : 0.15802261233329773
+      },
+      {
+        "id" : 23,
+        "seek" : 5600,
+        "start" : 66.0,
+        "end" : 74.0,
+        "text" : " Music",
+        "temperature" : 0.8,
+        "avg_logprob" : -0.7779421125139508,
+        "compression_ratio" : 1.4375,
+        "no_speech_prob" : 0.15802261233329773
+      },
+      {
+        "id" : 24,
+        "seek" : 5600,
+        "start" : 74.0,
+        "end" : 83.0,
+        "text" : " Music",
+        "temperature" : 0.8,
+        "avg_logprob" : -0.7779421125139508,
+        "compression_ratio" : 1.4375,
+        "no_speech_prob" : 0.15802261233329773
+      },
+      {
+        "id" : 25,
+        "seek" : 5600,
+        "start" : 83.0,
+        "end" : 85.0,
+        "text" : " Music",
+        "temperature" : 0.8,
+        "avg_logprob" : -0.7779421125139508,
+        "compression_ratio" : 1.4375,
+        "no_speech_prob" : 0.15802261233329773
+      },
+      {
+        "id" : 26,
+        "seek" : 8500,
+        "start" : 85.0,
+        "end" : 110.0,
+        "text" : " Music",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48041510581970215,
+        "compression_ratio" : 0.38461538461538464,
+        "no_speech_prob" : 0.06321893632411957
+      }
+    ]
+  }
+}

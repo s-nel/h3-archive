@@ -1,0 +1,13 @@
+{
+  "person_id" : "jscherer",
+  "category" : "guest",
+  "first_name" : "Josh",
+  "last_name" : "Scherer",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

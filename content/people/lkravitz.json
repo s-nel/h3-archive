@@ -1,0 +1,13 @@
+{
+  "person_id" : "lkravitz",
+  "category" : "lore",
+  "first_name" : "Leonard",
+  "last_name" : "Kravitz",
+  "display_name" : "Lenny Kravitz",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

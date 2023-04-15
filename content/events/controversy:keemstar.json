@@ -1,0 +1,24 @@
+{
+  "event_id" : "controversy:keemstar",
+  "category" : "controversy",
+  "name" : "Ethan banned for criticizing Keemstar",
+  "description" : "H3 Podcast banned from YouTube for a week for criticizing Keemstar's relationship with a much younger woman.",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1628208000000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "subject"
+    },
+    {
+      "person_id" : "dkeem",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

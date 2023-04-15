@@ -1,0 +1,531 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLk1PTWhJNER1b2x3",
+  "category" : "video",
+  "name" : "america exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/MOMhI4Duolw/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/MOMhI4Duolw"
+    }
+  ],
+  "start_date" : 1407349942000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 24.72,
+        "text" : " MUSIC",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.264447953965929,
+        "compression_ratio" : 0.6923076923076923,
+        "no_speech_prob" : 0.5065444707870483
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 24.72,
+        "end" : 27.76,
+        "text" : " יה demands",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.264447953965929,
+        "compression_ratio" : 0.6923076923076923,
+        "no_speech_prob" : 0.5065444707870483
+      },
+      {
+        "id" : 2,
+        "seek" : 2776,
+        "start" : 28.18,
+        "end" : 30.78,
+        "text" : " America to be",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 3,
+        "seek" : 2776,
+        "start" : 37.26,
+        "end" : 39.24,
+        "text" : " All我在 WWIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIT",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 4,
+        "seek" : 2776,
+        "start" : 39.56,
+        "end" : 39.72,
+        "text" : "singing",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 5,
+        "seek" : 2776,
+        "start" : 40.74,
+        "end" : 41.24,
+        "text" : " 얼�as",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 6,
+        "seek" : 2776,
+        "start" : 42.18,
+        "end" : 44.62,
+        "text" : " Sh Woo",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 7,
+        "seek" : 2776,
+        "start" : 48.98,
+        "end" : 49.68,
+        "text" : " х th flavour",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 8,
+        "seek" : 2776,
+        "start" : 52.86,
+        "end" : 54.92,
+        "text" : " alders",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 9,
+        "seek" : 2776,
+        "start" : 55.2,
+        "end" : 55.98,
+        "text" : " speculate",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 10,
+        "seek" : 2776,
+        "start" : 55.98,
+        "end" : 56.92,
+        "text" : " harrell",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.233266370049838,
+        "compression_ratio" : 1.27,
+        "no_speech_prob" : 0.03975297883152962
+      },
+      {
+        "id" : 11,
+        "seek" : 5776,
+        "start" : 58.12,
+        "end" : 61.76,
+        "text" : " That's America to be",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 12,
+        "seek" : 5776,
+        "start" : 65.76,
+        "end" : 67.76,
+        "text" : " America to be",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 13,
+        "seek" : 5776,
+        "start" : 67.76,
+        "end" : 69.76,
+        "text" : " America to be",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 14,
+        "seek" : 5776,
+        "start" : 69.76,
+        "end" : 70.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 15,
+        "seek" : 5776,
+        "start" : 70.76,
+        "end" : 71.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 16,
+        "seek" : 5776,
+        "start" : 71.76,
+        "end" : 72.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 17,
+        "seek" : 5776,
+        "start" : 72.76,
+        "end" : 73.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 18,
+        "seek" : 5776,
+        "start" : 73.76,
+        "end" : 74.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 19,
+        "seek" : 5776,
+        "start" : 74.76,
+        "end" : 75.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 20,
+        "seek" : 5776,
+        "start" : 75.76,
+        "end" : 76.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 21,
+        "seek" : 5776,
+        "start" : 76.76,
+        "end" : 77.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 22,
+        "seek" : 5776,
+        "start" : 77.76,
+        "end" : 78.76,
+        "text" : " Shoo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 23,
+        "seek" : 5776,
+        "start" : 81.76,
+        "end" : 83.76,
+        "text" : " It's from the God made of free",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7848137488731971,
+        "compression_ratio" : 1.9682539682539681,
+        "no_speech_prob" : 0.09487183392047882
+      },
+      {
+        "id" : 24,
+        "seek" : 8376,
+        "start" : 84.76,
+        "end" : 85.88,
+        "text" : " shorthand",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 25,
+        "seek" : 8376,
+        "start" : 85.88,
+        "end" : 88.9,
+        "text" : " the world are history",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 26,
+        "seek" : 8376,
+        "start" : 91.76,
+        "end" : 92.76,
+        "text" : " arrow",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 27,
+        "seek" : 8376,
+        "start" : 92.76,
+        "end" : 93.92,
+        "text" : " and",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 28,
+        "seek" : 8376,
+        "start" : 93.92,
+        "end" : 95.76,
+        "text" : " orange",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 29,
+        "seek" : 8376,
+        "start" : 95.76,
+        "end" : 98.76,
+        "text" : " UGH",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 30,
+        "seek" : 8376,
+        "start" : 101.28,
+        "end" : 102.48,
+        "text" : " rail",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 31,
+        "seek" : 8376,
+        "start" : 103.48,
+        "end" : 104.12,
+        "text" : "ày",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 32,
+        "seek" : 8376,
+        "start" : 104.12,
+        "end" : 105.62,
+        "text" : " America",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 33,
+        "seek" : 8376,
+        "start" : 106.22,
+        "end" : 106.3,
+        "text" : " and",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 34,
+        "seek" : 8376,
+        "start" : 106.3,
+        "end" : 107.6,
+        "text" : " America",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 35,
+        "seek" : 8376,
+        "start" : 107.6,
+        "end" : 108.3,
+        "text" : " and",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7062145579944956,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06617750972509384
+      },
+      {
+        "id" : 36,
+        "seek" : 10830,
+        "start" : 108.3,
+        "end" : 109.3,
+        "text" : " UGH",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 37,
+        "seek" : 10830,
+        "start" : 109.3,
+        "end" : 110.3,
+        "text" : " UGH",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 38,
+        "seek" : 10830,
+        "start" : 110.3,
+        "end" : 111.3,
+        "text" : " UGH",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 39,
+        "seek" : 10830,
+        "start" : 111.3,
+        "end" : 113.3,
+        "text" : " That's America",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 40,
+        "seek" : 10830,
+        "start" : 113.3,
+        "end" : 116.3,
+        "text" : " That's America",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 41,
+        "seek" : 10830,
+        "start" : 116.3,
+        "end" : 118.3,
+        "text" : " That's America",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 42,
+        "seek" : 10830,
+        "start" : 118.3,
+        "end" : 120.3,
+        "text" : " That's America",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 43,
+        "seek" : 10830,
+        "start" : 120.3,
+        "end" : 124.3,
+        "text" : " To me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      },
+      {
+        "id" : 44,
+        "seek" : 10830,
+        "start" : 124.3,
+        "end" : 126.3,
+        "text" : " UGH",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5439873206906203,
+        "compression_ratio" : 2.25,
+        "no_speech_prob" : 0.013682604767382145
+      }
+    ]
+  }
+}

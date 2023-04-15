@@ -1,0 +1,14 @@
+{
+  "person_id" : "jbiden",
+  "category" : "lore",
+  "first_name" : "Joe",
+  "last_name" : "Biden",
+  "display_name" : null,
+  "thumb" : "/people/jbiden.jpg",
+  "description" : null,
+  "aliases" : [
+    "Dark Brandon"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

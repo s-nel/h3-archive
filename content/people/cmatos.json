@@ -1,0 +1,12 @@
+{
+  "person_id" : "cmatos",
+  "category" : "guest",
+  "first_name" : "Carlos",
+  "last_name" : "Matos",
+  "display_name" : null,
+  "thumb" : "/people/cmatos.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

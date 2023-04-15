@@ -1,0 +1,72 @@
+{
+  "event_id" : "spotify:episode:09ilXqvL3jaKhPCC4fa6tU",
+  "category" : "podcast",
+  "name" : "JUICER POLITICS EP! TRUMPY DUMPY 🍑 ARRESTED👮😩 CIVIL WAR ON THE HORIZON? 😳 - Leftovers #44",
+  "description" : "<p>Today is Trump arrest day, folks. We break down the whole situation, unpack an insane Matt Walsh take, Mike Lindell living in his car, Ethan being a short king, and much more!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/lgwVwZm-bwE/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "Leftovers"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/09ilXqvL3jaKhPCC4fa6tU"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/lgwVwZm-bwE"
+    }
+  ],
+  "start_date" : 1680818045000,
+  "duration" : 7997596,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hpiker",
+      "role" : "host"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "lpaul",
+  "category" : "lore",
+  "first_name" : "Logan",
+  "last_name" : "Paul",
+  "display_name" : null,
+  "thumb" : "/people/lpaul.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

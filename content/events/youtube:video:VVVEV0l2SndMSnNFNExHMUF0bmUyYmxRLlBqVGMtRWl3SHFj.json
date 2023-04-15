@@ -1,0 +1,817 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlBqVGMtRWl3SHFj",
+  "category" : "video",
+  "name" : "Who I'm Voting for President re: Casey Neistat",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/PjTc-EiwHqc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/PjTc-EiwHqc"
+    }
+  ],
+  "start_date" : 1476662443000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.44,
+        "text" : " I realize I'm a little bit late on this one. Me and Ela just returned from a little vacation for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20328242107502464,
+        "compression_ratio" : 1.5408560311284047,
+        "no_speech_prob" : 0.031138582155108452
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.08,
+        "end" : 11.28,
+        "text" : " your anniversary. Pound it. We had a great time. Thank you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20328242107502464,
+        "compression_ratio" : 1.5408560311284047,
+        "no_speech_prob" : 0.031138582155108452
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 11.28,
+        "end" : 16.4,
+        "text" : " Let me explain. Casey Neistat is a very popular YouTuber who made a video a couple days ago.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20328242107502464,
+        "compression_ratio" : 1.5408560311284047,
+        "no_speech_prob" : 0.031138582155108452
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 16.4,
+        "end" : 20.08,
+        "text" : " Hillary Clinton. I will be voting for Hillary Clinton.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20328242107502464,
+        "compression_ratio" : 1.5408560311284047,
+        "no_speech_prob" : 0.031138582155108452
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.08,
+        "end" : 25.2,
+        "text" : " Casey endorsed Hillary with such a gusto. He basically fucked her in the ass and gave her a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20328242107502464,
+        "compression_ratio" : 1.5408560311284047,
+        "no_speech_prob" : 0.031138582155108452
+      },
+      {
+        "id" : 5,
+        "seek" : 2520,
+        "start" : 25.2,
+        "end" : 32.0,
+        "text" : " reach round. I mean, he went full service for her, which is fine. And frankly, I even respected",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12671074424822307,
+        "compression_ratio" : 1.56198347107438,
+        "no_speech_prob" : 0.05348369851708412
+      },
+      {
+        "id" : 6,
+        "seek" : 2520,
+        "start" : 32.0,
+        "end" : 36.64,
+        "text" : " a little bit because I know it can be so divisive and difficult to talk about politics.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12671074424822307,
+        "compression_ratio" : 1.56198347107438,
+        "no_speech_prob" : 0.05348369851708412
+      },
+      {
+        "id" : 7,
+        "seek" : 2520,
+        "start" : 36.64,
+        "end" : 41.68,
+        "text" : " So it's cool that he did that and I respect that. But towards the end of the video, he gets into",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12671074424822307,
+        "compression_ratio" : 1.56198347107438,
+        "no_speech_prob" : 0.05348369851708412
+      },
+      {
+        "id" : 8,
+        "seek" : 2520,
+        "start" : 41.68,
+        "end" : 49.68,
+        "text" : " this whole thing about how we're all more morally obligated to vote for Hillary. And he even goes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12671074424822307,
+        "compression_ratio" : 1.56198347107438,
+        "no_speech_prob" : 0.05348369851708412
+      },
+      {
+        "id" : 9,
+        "seek" : 4968,
+        "start" : 49.68,
+        "end" : 57.36,
+        "text" : " as far as to telling people to ask their favorite creators on YouTube to get a spine and backbone",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12260021047389254,
+        "compression_ratio" : 1.691304347826087,
+        "no_speech_prob" : 0.0041130343452095985
+      },
+      {
+        "id" : 10,
+        "seek" : 4968,
+        "start" : 57.36,
+        "end" : 63.68,
+        "text" : " and make sure that we all vote for Hillary. I want to end this by calling out all the big YouTubers.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12260021047389254,
+        "compression_ratio" : 1.691304347826087,
+        "no_speech_prob" : 0.0041130343452095985
+      },
+      {
+        "id" : 11,
+        "seek" : 4968,
+        "start" : 63.68,
+        "end" : 68.88,
+        "text" : " Some I know and some you viewers might know. Making videos like this, they're not popular,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12260021047389254,
+        "compression_ratio" : 1.691304347826087,
+        "no_speech_prob" : 0.0041130343452095985
+      },
+      {
+        "id" : 12,
+        "seek" : 4968,
+        "start" : 68.88,
+        "end" : 73.28,
+        "text" : " they're not going to get you subscribers, they're not going to boost your view counts. But there is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12260021047389254,
+        "compression_ratio" : 1.691304347826087,
+        "no_speech_prob" : 0.0041130343452095985
+      },
+      {
+        "id" : 13,
+        "seek" : 7328,
+        "start" : 73.28,
+        "end" : 79.04,
+        "text" : " something much more valuable than subscribers or dollars. And that's backbone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0892119787435616,
+        "compression_ratio" : 1.6289752650176679,
+        "no_speech_prob" : 0.027478260919451714
+      },
+      {
+        "id" : 14,
+        "seek" : 7328,
+        "start" : 79.04,
+        "end" : 82.32,
+        "text" : " That kind of rubbed me the wrong way. Before I do get into this, I just want to say that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0892119787435616,
+        "compression_ratio" : 1.6289752650176679,
+        "no_speech_prob" : 0.027478260919451714
+      },
+      {
+        "id" : 15,
+        "seek" : 7328,
+        "start" : 82.32,
+        "end" : 87.76,
+        "text" : " Casey is a wonderful guy. He makes great videos. He's one of the truly creative people on YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0892119787435616,
+        "compression_ratio" : 1.6289752650176679,
+        "no_speech_prob" : 0.027478260919451714
+      },
+      {
+        "id" : 16,
+        "seek" : 7328,
+        "start" : 87.76,
+        "end" : 94.4,
+        "text" : " And I have nothing but admiration for him. I can disagree with Casey without hating him. And that's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0892119787435616,
+        "compression_ratio" : 1.6289752650176679,
+        "no_speech_prob" : 0.027478260919451714
+      },
+      {
+        "id" : 17,
+        "seek" : 7328,
+        "start" : 94.4,
+        "end" : 101.36,
+        "text" : " kind of the center of what I'm talking about here is that we need to be able to discuss things",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0892119787435616,
+        "compression_ratio" : 1.6289752650176679,
+        "no_speech_prob" : 0.027478260919451714
+      },
+      {
+        "id" : 18,
+        "seek" : 10136,
+        "start" : 101.36,
+        "end" : 106.56,
+        "text" : " without everybody losing their fucking mind and hating each other. Now the way Casey talks about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09621105719050137,
+        "compression_ratio" : 1.6200716845878136,
+        "no_speech_prob" : 0.0016259746626019478
+      },
+      {
+        "id" : 19,
+        "seek" : 10136,
+        "start" : 106.56,
+        "end" : 111.6,
+        "text" : " Donald Trump is that he all almost implies that he's some kind of Adolf Hitler.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09621105719050137,
+        "compression_ratio" : 1.6200716845878136,
+        "no_speech_prob" : 0.0016259746626019478
+      },
+      {
+        "id" : 20,
+        "seek" : 10136,
+        "start" : 111.6,
+        "end" : 118.0,
+        "text" : " This is about a megalomaniac who's driven by nothing but ego. A man who cares exactly zero",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09621105719050137,
+        "compression_ratio" : 1.6200716845878136,
+        "no_speech_prob" : 0.0016259746626019478
+      },
+      {
+        "id" : 21,
+        "seek" : 10136,
+        "start" : 118.0,
+        "end" : 122.8,
+        "text" : " about the people of this country. And if this guy gets elected and you stood back with your",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09621105719050137,
+        "compression_ratio" : 1.6200716845878136,
+        "no_speech_prob" : 0.0016259746626019478
+      },
+      {
+        "id" : 22,
+        "seek" : 10136,
+        "start" : 122.8,
+        "end" : 127.92,
+        "text" : " arms folded and didn't speak out against him, it makes you complicit. It makes you partially",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09621105719050137,
+        "compression_ratio" : 1.6200716845878136,
+        "no_speech_prob" : 0.0016259746626019478
+      },
+      {
+        "id" : 23,
+        "seek" : 12792,
+        "start" : 128.0,
+        "end" : 133.2,
+        "text" : " responsible for handing him the reins of power. And in pleasant, if you don't vote for Hillary,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18525817546438664,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.010591528378427029
+      },
+      {
+        "id" : 24,
+        "seek" : 12792,
+        "start" : 133.2,
+        "end" : 139.28,
+        "text" : " you're going to be liable for whatever Holocaust he has up his sleeve. And the way he talks about him,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18525817546438664,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.010591528378427029
+      },
+      {
+        "id" : 25,
+        "seek" : 12792,
+        "start" : 139.28,
+        "end" : 145.68,
+        "text" : " he almost paints him as an inhuman deb. Okay. Which is just so unproductive.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18525817546438664,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.010591528378427029
+      },
+      {
+        "id" : 26,
+        "seek" : 12792,
+        "start" : 145.68,
+        "end" : 152.64,
+        "text" : " Okay, Hillary supporters think Donald is the devil. You can put half of Trump supporters into what",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18525817546438664,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.010591528378427029
+      },
+      {
+        "id" : 27,
+        "seek" : 15264,
+        "start" : 152.64,
+        "end" : 159.2,
+        "text" : " I call the basket of deplorables. The racist, sexist, homophobic, xenophobic,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17217696981227143,
+        "compression_ratio" : 1.6067961165048543,
+        "no_speech_prob" : 0.005192744545638561
+      },
+      {
+        "id" : 28,
+        "seek" : 15264,
+        "start" : 159.92,
+        "end" : 165.84,
+        "text" : " Islamophobic, you name it. And Donald thinks that Hillary's the devil.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17217696981227143,
+        "compression_ratio" : 1.6067961165048543,
+        "no_speech_prob" : 0.005192744545638561
+      },
+      {
+        "id" : 29,
+        "seek" : 15264,
+        "start" : 165.84,
+        "end" : 171.68,
+        "text" : " But he made it deal with the devil. She's the devil. To see him sign on with the devil.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17217696981227143,
+        "compression_ratio" : 1.6067961165048543,
+        "no_speech_prob" : 0.005192744545638561
+      },
+      {
+        "id" : 30,
+        "seek" : 15264,
+        "start" : 171.68,
+        "end" : 177.44,
+        "text" : " They all perpetuate this notion. And now it's so confusing, I don't understand what to believe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17217696981227143,
+        "compression_ratio" : 1.6067961165048543,
+        "no_speech_prob" : 0.005192744545638561
+      },
+      {
+        "id" : 31,
+        "seek" : 17744,
+        "start" : 177.52,
+        "end" : 184.08,
+        "text" : " anymore. If you put on CNN, Donald Trump is now a rapist, apparently, with like a small gymnasium",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1615951125686233,
+        "compression_ratio" : 1.5770750988142292,
+        "no_speech_prob" : 0.006195656023919582
+      },
+      {
+        "id" : 32,
+        "seek" : 17744,
+        "start" : 184.08,
+        "end" : 189.68,
+        "text" : " of women who's fucking pissies. He's grabbed. Grab him by the pussy. Hillary Clinton is married to a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1615951125686233,
+        "compression_ratio" : 1.5770750988142292,
+        "no_speech_prob" : 0.006195656023919582
+      },
+      {
+        "id" : 33,
+        "seek" : 17744,
+        "start" : 189.68,
+        "end" : 196.48,
+        "text" : " serial rapist, you know, they're so it's like, why are we talking about people are rapists? I mean,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1615951125686233,
+        "compression_ratio" : 1.5770750988142292,
+        "no_speech_prob" : 0.006195656023919582
+      },
+      {
+        "id" : 34,
+        "seek" : 17744,
+        "start" : 196.48,
+        "end" : 200.8,
+        "text" : " these are just allegations. I don't know if these people are rapists or not. But it's like, nobody's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1615951125686233,
+        "compression_ratio" : 1.5770750988142292,
+        "no_speech_prob" : 0.006195656023919582
+      },
+      {
+        "id" : 35,
+        "seek" : 20080,
+        "start" : 200.8,
+        "end" : 207.68,
+        "text" : " even talking about any real issues. Everybody just accusing each other of actually being a rapist.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1547328285548998,
+        "compression_ratio" : 1.708185053380783,
+        "no_speech_prob" : 0.00466956989839673
+      },
+      {
+        "id" : 36,
+        "seek" : 20080,
+        "start" : 207.68,
+        "end" : 213.68,
+        "text" : " Like, has this gone too far? Like Trump shows up to debate the debates with like a small gymnasium",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1547328285548998,
+        "compression_ratio" : 1.708185053380783,
+        "no_speech_prob" : 0.00466956989839673
+      },
+      {
+        "id" : 37,
+        "seek" : 20080,
+        "start" : 213.68,
+        "end" : 218.32,
+        "text" : " of people who built Clinton's apparently raped. Maybe next year during the debates, half of the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1547328285548998,
+        "compression_ratio" : 1.708185053380783,
+        "no_speech_prob" : 0.00466956989839673
+      },
+      {
+        "id" : 38,
+        "seek" : 20080,
+        "start" : 218.32,
+        "end" : 223.2,
+        "text" : " people can be a Bill Clinton rape victims and the other half Trump rape victims. I just want",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1547328285548998,
+        "compression_ratio" : 1.708185053380783,
+        "no_speech_prob" : 0.00466956989839673
+      },
+      {
+        "id" : 39,
+        "seek" : 20080,
+        "start" : 223.2,
+        "end" : 229.84,
+        "text" : " all rape victims at next next year's debates, please. No normal people at all. So if you're a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1547328285548998,
+        "compression_ratio" : 1.708185053380783,
+        "no_speech_prob" : 0.00466956989839673
+      },
+      {
+        "id" : 40,
+        "seek" : 22984,
+        "start" : 229.84,
+        "end" : 235.12,
+        "text" : " favorite YouTuber, says things like, I don't like to talk politics on my channel or I'm not going",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10105573849415216,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.01748833619058132
+      },
+      {
+        "id" : 41,
+        "seek" : 22984,
+        "start" : 235.12,
+        "end" : 240.48,
+        "text" : " to reveal who I'm voting for, call them out. I think kind of the opposite of what he's saying,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10105573849415216,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.01748833619058132
+      },
+      {
+        "id" : 42,
+        "seek" : 22984,
+        "start" : 240.48,
+        "end" : 245.2,
+        "text" : " don't fucking listen to me. Don't listen to Casey. We're just, I'm just a YouTuber. How does that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10105573849415216,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.01748833619058132
+      },
+      {
+        "id" : 43,
+        "seek" : 22984,
+        "start" : 245.2,
+        "end" : 250.64,
+        "text" : " qualify me to tell you who to vote for? Who to fucking elect as president? I literally go to the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10105573849415216,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.01748833619058132
+      },
+      {
+        "id" : 44,
+        "seek" : 22984,
+        "start" : 250.64,
+        "end" : 256.72,
+        "text" : " grocery stores with 200 shirts hot and you're looking to me for advice on who to vote for president.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10105573849415216,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.01748833619058132
+      },
+      {
+        "id" : 45,
+        "seek" : 25672,
+        "start" : 256.8,
+        "end" : 261.44,
+        "text" : " There are got to be better people out here to advise you on that. And here's the worst part.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11056675761938095,
+        "compression_ratio" : 1.9637096774193548,
+        "no_speech_prob" : 0.011407990008592606
+      },
+      {
+        "id" : 46,
+        "seek" : 25672,
+        "start" : 261.44,
+        "end" : 265.44,
+        "text" : " If you're someone who generally is like, yeah, I don't like either of them. Neither of them really",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11056675761938095,
+        "compression_ratio" : 1.9637096774193548,
+        "no_speech_prob" : 0.011407990008592606
+      },
+      {
+        "id" : 47,
+        "seek" : 25672,
+        "start" : 265.44,
+        "end" : 270.48,
+        "text" : " represent who I am as a person and I don't like either of them. If you're like, I'm not going to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11056675761938095,
+        "compression_ratio" : 1.9637096774193548,
+        "no_speech_prob" : 0.011407990008592606
+      },
+      {
+        "id" : 48,
+        "seek" : 25672,
+        "start" : 270.48,
+        "end" : 277.52,
+        "text" : " vote for them. Each side says to you, oh, you're you not voting is basically voting for my for the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11056675761938095,
+        "compression_ratio" : 1.9637096774193548,
+        "no_speech_prob" : 0.011407990008592606
+      },
+      {
+        "id" : 49,
+        "seek" : 25672,
+        "start" : 277.52,
+        "end" : 282.96,
+        "text" : " other guy or you not voting is basically voting for the other guy. And here's Casey himself saying,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11056675761938095,
+        "compression_ratio" : 1.9637096774193548,
+        "no_speech_prob" : 0.011407990008592606
+      },
+      {
+        "id" : 50,
+        "seek" : 28296,
+        "start" : 283.52,
+        "end" : 289.76,
+        "text" : " if you don't vote for Hillary, you're responsible for the Holocaust part too. It's like tone it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1237529086083481,
+        "compression_ratio" : 1.6092436974789917,
+        "no_speech_prob" : 0.006124862935394049
+      },
+      {
+        "id" : 51,
+        "seek" : 28296,
+        "start" : 289.76,
+        "end" : 294.72,
+        "text" : " down dog. Get off your fucking white horse. You just make fucking vlogs. You just flown,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1237529086083481,
+        "compression_ratio" : 1.6092436974789917,
+        "no_speech_prob" : 0.006124862935394049
+      },
+      {
+        "id" : 52,
+        "seek" : 28296,
+        "start" : 294.72,
+        "end" : 302.24,
+        "text" : " you just fly drones around New York cities. Let's all tone it fucking down. The climate is so toxic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1237529086083481,
+        "compression_ratio" : 1.6092436974789917,
+        "no_speech_prob" : 0.006124862935394049
+      },
+      {
+        "id" : 53,
+        "seek" : 28296,
+        "start" : 302.24,
+        "end" : 308.56,
+        "text" : " right now on both sides that you can't even be in the middle because they'll call, they'll yell at",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1237529086083481,
+        "compression_ratio" : 1.6092436974789917,
+        "no_speech_prob" : 0.006124862935394049
+      },
+      {
+        "id" : 54,
+        "seek" : 30856,
+        "start" : 308.56,
+        "end" : 314.32,
+        "text" : " you and tell you are the devil for not choosing one of them. And God forbid you try to choose a third",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12849431719098772,
+        "compression_ratio" : 1.7647058823529411,
+        "no_speech_prob" : 0.0033126617781817913
+      },
+      {
+        "id" : 55,
+        "seek" : 30856,
+        "start" : 314.32,
+        "end" : 319.44,
+        "text" : " party guy, a vote for the third party guy, which is basically a vote against this system.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12849431719098772,
+        "compression_ratio" : 1.7647058823529411,
+        "no_speech_prob" : 0.0033126617781817913
+      },
+      {
+        "id" : 56,
+        "seek" : 30856,
+        "start" : 320.56,
+        "end" : 326.24,
+        "text" : " US one of them. That's a vote for Hillary. That's a vote for Trump. In short, guys, don't let people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12849431719098772,
+        "compression_ratio" : 1.7647058823529411,
+        "no_speech_prob" : 0.0033126617781817913
+      },
+      {
+        "id" : 57,
+        "seek" : 30856,
+        "start" : 326.24,
+        "end" : 332.56,
+        "text" : " bully you. It's a voting one way or the other with their extreme hateful shit. It's not fair that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12849431719098772,
+        "compression_ratio" : 1.7647058823529411,
+        "no_speech_prob" : 0.0033126617781817913
+      },
+      {
+        "id" : 58,
+        "seek" : 33256,
+        "start" : 332.56,
+        "end" : 337.84,
+        "text" : " you get guilted and shame and the voting one way or another. And it's really fucked up that you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13204903489961398,
+        "compression_ratio" : 1.7992424242424243,
+        "no_speech_prob" : 0.003210067981854081
+      },
+      {
+        "id" : 59,
+        "seek" : 33256,
+        "start" : 338.48,
+        "end" : 343.84,
+        "text" : " get ostracized for being in the middle, for trying to be an insane rational person who's like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13204903489961398,
+        "compression_ratio" : 1.7992424242424243,
+        "no_speech_prob" : 0.003210067981854081
+      },
+      {
+        "id" : 60,
+        "seek" : 33256,
+        "start" : 343.84,
+        "end" : 348.8,
+        "text" : " well, I haven't made up my mind. They're both kind of insane. I don't like, you're the devil now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13204903489961398,
+        "compression_ratio" : 1.7992424242424243,
+        "no_speech_prob" : 0.003210067981854081
+      },
+      {
+        "id" : 61,
+        "seek" : 33256,
+        "start" : 349.36,
+        "end" : 352.96,
+        "text" : " Don't let people bully you and make you feel like shit because you want to be in the middle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13204903489961398,
+        "compression_ratio" : 1.7992424242424243,
+        "no_speech_prob" : 0.003210067981854081
+      },
+      {
+        "id" : 62,
+        "seek" : 33256,
+        "start" : 354.0,
+        "end" : 359.28,
+        "text" : " More people should be in the middle. Most people should be in the middle. But it's like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13204903489961398,
+        "compression_ratio" : 1.7992424242424243,
+        "no_speech_prob" : 0.003210067981854081
+      },
+      {
+        "id" : 63,
+        "seek" : 35928,
+        "start" : 359.6,
+        "end" : 366.72,
+        "text" : " There's not two teams. We're all American. And don't let people tell you that voting for a third party",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1959864616394043,
+        "compression_ratio" : 1.5850622406639003,
+        "no_speech_prob" : 0.014691483229398727
+      },
+      {
+        "id" : 64,
+        "seek" : 35928,
+        "start" : 366.72,
+        "end" : 373.44,
+        "text" : " is a wasted vote because voting for a third party is a vote against this system itself. We need more",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1959864616394043,
+        "compression_ratio" : 1.5850622406639003,
+        "no_speech_prob" : 0.014691483229398727
+      },
+      {
+        "id" : 65,
+        "seek" : 35928,
+        "start" : 373.44,
+        "end" : 380.64,
+        "text" : " options. Okay, it's just not enough. Everyone just needs to fucking chill out and have a Saudi pop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1959864616394043,
+        "compression_ratio" : 1.5850622406639003,
+        "no_speech_prob" : 0.014691483229398727
+      },
+      {
+        "id" : 66,
+        "seek" : 35928,
+        "start" : 380.64,
+        "end" : 388.24,
+        "text" : " So in short, who am I voting for? Only one option. Hugh Mungus for Presidents.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1959864616394043,
+        "compression_ratio" : 1.5850622406639003,
+        "no_speech_prob" : 0.014691483229398727
+      },
+      {
+        "id" : 67,
+        "seek" : 38824,
+        "start" : 388.24,
+        "end" : 394.4,
+        "text" : " Hugh Mungus for Hugh Mungus. So I urge everybody now following me, who believes in me,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24402355012439547,
+        "compression_ratio" : 1.49746192893401,
+        "no_speech_prob" : 0.004231428727507591
+      },
+      {
+        "id" : 68,
+        "seek" : 38824,
+        "start" : 394.4,
+        "end" : 399.52,
+        "text" : " right in Hugh Mungus for President of the United States 2016.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24402355012439547,
+        "compression_ratio" : 1.49746192893401,
+        "no_speech_prob" : 0.004231428727507591
+      },
+      {
+        "id" : 69,
+        "seek" : 38824,
+        "start" : 399.52,
+        "end" : 405.36,
+        "text" : " Is that sexual harassment? No, it's your mother. Make Hugh Mungus great again. God bless America.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24402355012439547,
+        "compression_ratio" : 1.49746192893401,
+        "no_speech_prob" : 0.004231428727507591
+      },
+      {
+        "id" : 70,
+        "seek" : 38824,
+        "start" : 408.56,
+        "end" : 413.12,
+        "text" : " We're all so fucked, dude. We are all so fucked.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24402355012439547,
+        "compression_ratio" : 1.49746192893401,
+        "no_speech_prob" : 0.004231428727507591
+      }
+    ]
+  }
+}

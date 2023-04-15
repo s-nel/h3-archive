@@ -1,0 +1,13 @@
+{
+  "person_id" : "jzimmerman",
+  "category" : "guest",
+  "first_name" : "Joel",
+  "last_name" : "Zimmerman",
+  "display_name" : "Deadmau5",
+  "thumb" : "/people/jzimmerman.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

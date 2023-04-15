@@ -1,0 +1,80 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLm12a1ZseXdJaklF",
+  "category" : "video",
+  "name" : "h3h3productions full theme song -- Prod. MajorLeagueWobs",
+  "description" : "Music by MajorLeagueWobs: \nhttps://soundcloud.com/majorleaguewobs/h3h3productions-theme-song\nhttps://www.youtube.com/user/strangeholder",
+  "thumb" : "https://i.ytimg.com/vi/mvkVlywIjIE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/mvkVlywIjIE"
+    }
+  ],
+  "start_date" : 1409268662000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.28,
+        "text" : " O Randy",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.6030834197998045,
+        "compression_ratio" : 0.4666666666666667,
+        "no_speech_prob" : 0.4334571957588196
+      },
+      {
+        "id" : 1,
+        "seek" : 6000,
+        "start" : 60.0,
+        "end" : 62.0,
+        "text" : " one",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.9795429706573486,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.5728659629821777
+      },
+      {
+        "id" : 2,
+        "seek" : 9000,
+        "start" : 90.0,
+        "end" : 92.7,
+        "text" : " a",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.9431216716766357,
+        "compression_ratio" : 0.1111111111111111,
+        "no_speech_prob" : 0.5313625335693359
+      },
+      {
+        "id" : 3,
+        "seek" : 12000,
+        "start" : 120.0,
+        "end" : 127.0,
+        "text" : " you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.946830153465271,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.4473045766353607
+      }
+    ]
+  }
+}

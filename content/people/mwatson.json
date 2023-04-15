@@ -1,0 +1,13 @@
+{
+  "person_id" : "mwatson",
+  "category" : "guest",
+  "first_name" : "Matthew",
+  "last_name" : "Watson",
+  "display_name" : null,
+  "thumb" : "/people/mwatson.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

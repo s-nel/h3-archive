@@ -1,0 +1,14 @@
+{
+  "person_id" : "rbanks",
+  "category" : "lore",
+  "first_name" : "Ricky",
+  "last_name" : "Banks",
+  "display_name" : "FaZe Banks",
+  "thumb" : "/people/rbanks.jpg",
+  "description" : null,
+  "aliases" : [
+    "Faze Blanks"
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

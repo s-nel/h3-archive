@@ -1,0 +1,311 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnJiVWRrZWhxSWpB",
+  "category" : "video",
+  "name" : "The Bleeding Edge of Cheese Elevator Technology | h3h3 productions presents",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/rbUdkehqIjA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    },
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/rbUdkehqIjA"
+    }
+  ],
+  "start_date" : 1387239572000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.0,
+        "text" : " Guys my cheese stays dry and I can spread it around. I have a lot of freedom with my cheese spreading capabilities because it's so dry",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17282418104318473,
+        "compression_ratio" : 1.7254098360655739,
+        "no_speech_prob" : 0.057002391666173935
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 14.0,
+        "text" : " then I'm able to just put it on pretty much any surface and it just compliments almost anything.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17282418104318473,
+        "compression_ratio" : 1.7254098360655739,
+        "no_speech_prob" : 0.057002391666173935
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 19.0,
+        "text" : " I have a very secret cheese drying technique that I really want to show you guys about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17282418104318473,
+        "compression_ratio" : 1.7254098360655739,
+        "no_speech_prob" : 0.057002391666173935
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 25.0,
+        "text" : " And it's a little top, it's a little high-tech, it's a little secretive and it's pretty cutting edge.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17282418104318473,
+        "compression_ratio" : 1.7254098360655739,
+        "no_speech_prob" : 0.057002391666173935
+      },
+      {
+        "id" : 4,
+        "seek" : 2500,
+        "start" : 25.0,
+        "end" : 32.0,
+        "text" : " So I'm going to say it's bleeding edge and I just want to show you guys give you a little introduction to what the bleeding edge of cheese,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22305608931041898,
+        "compression_ratio" : 1.6237623762376239,
+        "no_speech_prob" : 0.026747241616249084
+      },
+      {
+        "id" : 5,
+        "seek" : 2500,
+        "start" : 32.0,
+        "end" : 38.0,
+        "text" : " liquefying and serving where we're at today. So bring on down here you know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22305608931041898,
+        "compression_ratio" : 1.6237623762376239,
+        "no_speech_prob" : 0.026747241616249084
+      },
+      {
+        "id" : 6,
+        "seek" : 2500,
+        "start" : 38.0,
+        "end" : 44.0,
+        "text" : " And I just want to give you guys a tutorial of basically the level of cheese technology. Now here we go, ready?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22305608931041898,
+        "compression_ratio" : 1.6237623762376239,
+        "no_speech_prob" : 0.026747241616249084
+      },
+      {
+        "id" : 7,
+        "seek" : 4400,
+        "start" : 45.0,
+        "end" : 54.0,
+        "text" : " Woooow!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2697619915008545,
+        "compression_ratio" : 1.6529411764705881,
+        "no_speech_prob" : 0.06436797231435776
+      },
+      {
+        "id" : 8,
+        "seek" : 4400,
+        "start" : 54.0,
+        "end" : 56.0,
+        "text" : " Look at that!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2697619915008545,
+        "compression_ratio" : 1.6529411764705881,
+        "no_speech_prob" : 0.06436797231435776
+      },
+      {
+        "id" : 9,
+        "seek" : 4400,
+        "start" : 56.0,
+        "end" : 60.0,
+        "text" : " You're going to say you keep your cheese more dry guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2697619915008545,
+        "compression_ratio" : 1.6529411764705881,
+        "no_speech_prob" : 0.06436797231435776
+      },
+      {
+        "id" : 10,
+        "seek" : 4400,
+        "start" : 60.0,
+        "end" : 65.0,
+        "text" : " You got to keep that cheese dry. If you don't keep the cheese dry you get everything wet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2697619915008545,
+        "compression_ratio" : 1.6529411764705881,
+        "no_speech_prob" : 0.06436797231435776
+      },
+      {
+        "id" : 11,
+        "seek" : 4400,
+        "start" : 65.0,
+        "end" : 72.0,
+        "text" : " The tortilla gets soggy, the cheese gets soggy, it gets drippy, the melting whole process is destroyed by liquid.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2697619915008545,
+        "compression_ratio" : 1.6529411764705881,
+        "no_speech_prob" : 0.06436797231435776
+      },
+      {
+        "id" : 12,
+        "seek" : 7200,
+        "start" : 72.0,
+        "end" : 80.0,
+        "text" : " So remember you got to keep the cheese, you got to get the cheese elevator to keep it dry.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20464769194397744,
+        "compression_ratio" : 1.6162790697674418,
+        "no_speech_prob" : 0.006094594951719046
+      },
+      {
+        "id" : 13,
+        "seek" : 7200,
+        "start" : 80.0,
+        "end" : 85.0,
+        "text" : " It's simple guys, it's elementary, it's basic mathematics, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20464769194397744,
+        "compression_ratio" : 1.6162790697674418,
+        "no_speech_prob" : 0.006094594951719046
+      },
+      {
+        "id" : 14,
+        "seek" : 7200,
+        "start" : 85.0,
+        "end" : 90.0,
+        "text" : " Now just remember there's one basic fact to cheese up. Oh sorry guys, I got to get this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20464769194397744,
+        "compression_ratio" : 1.6162790697674418,
+        "no_speech_prob" : 0.006094594951719046
+      },
+      {
+        "id" : 15,
+        "seek" : 7200,
+        "start" : 90.0,
+        "end" : 93.0,
+        "text" : " I'll see you guys later. Bye bye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20464769194397744,
+        "compression_ratio" : 1.6162790697674418,
+        "no_speech_prob" : 0.006094594951719046
+      },
+      {
+        "id" : 16,
+        "seek" : 9300,
+        "start" : 93.0,
+        "end" : 99.0,
+        "text" : " Woooow!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3204844944060795,
+        "compression_ratio" : 1.3458646616541354,
+        "no_speech_prob" : 0.1171114593744278
+      },
+      {
+        "id" : 17,
+        "seek" : 9300,
+        "start" : 99.0,
+        "end" : 101.0,
+        "text" : " Mmm.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3204844944060795,
+        "compression_ratio" : 1.3458646616541354,
+        "no_speech_prob" : 0.1171114593744278
+      },
+      {
+        "id" : 18,
+        "seek" : 9300,
+        "start" : 101.0,
+        "end" : 104.0,
+        "text" : " Smells good. Someone else had to keep this cheese dry.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3204844944060795,
+        "compression_ratio" : 1.3458646616541354,
+        "no_speech_prob" : 0.1171114593744278
+      },
+      {
+        "id" : 19,
+        "seek" : 9300,
+        "start" : 104.0,
+        "end" : 107.0,
+        "text" : " Woooow!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3204844944060795,
+        "compression_ratio" : 1.3458646616541354,
+        "no_speech_prob" : 0.1171114593744278
+      },
+      {
+        "id" : 20,
+        "seek" : 9300,
+        "start" : 107.0,
+        "end" : 111.0,
+        "text" : " Baby! There's one rule.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3204844944060795,
+        "compression_ratio" : 1.3458646616541354,
+        "no_speech_prob" : 0.1171114593744278
+      },
+      {
+        "id" : 21,
+        "seek" : 9300,
+        "start" : 111.0,
+        "end" : 117.0,
+        "text" : " You got to follow. If you're going to keep your cheese, you better keep it dry.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3204844944060795,
+        "compression_ratio" : 1.3458646616541354,
+        "no_speech_prob" : 0.1171114593744278
+      },
+      {
+        "id" : 22,
+        "seek" : 11700,
+        "start" : 117.0,
+        "end" : 123.0,
+        "text" : " Yeah, don't cry when your cheese gets wet. Just dry it with the cheese elevator.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1886564081365412,
+        "compression_ratio" : 1.9811320754716981,
+        "no_speech_prob" : 0.49608078598976135
+      },
+      {
+        "id" : 23,
+        "seek" : 11700,
+        "start" : 123.0,
+        "end" : 129.0,
+        "text" : " Cheese elevator. Cheese elevator, don't cry because your cheese gets wet, don't cry.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1886564081365412,
+        "compression_ratio" : 1.9811320754716981,
+        "no_speech_prob" : 0.49608078598976135
+      },
+      {
+        "id" : 24,
+        "seek" : 11700,
+        "start" : 129.0,
+        "end" : 133.0,
+        "text" : " Just give it a dry with the cheese elevator.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1886564081365412,
+        "compression_ratio" : 1.9811320754716981,
+        "no_speech_prob" : 0.49608078598976135
+      }
+    ]
+  }
+}

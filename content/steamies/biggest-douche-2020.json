@@ -1,0 +1,43 @@
+{
+  "steamy_id" : "biggest-douche-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "mmajlak"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jstar"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dkeem"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "jdouglass"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Douche",
+  "description" : null,
+  "year" : 2020
+}

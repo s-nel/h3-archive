@@ -1,0 +1,12 @@
+{
+  "person_id" : "hkeller",
+  "category" : "enemy",
+  "first_name" : "Helen",
+  "last_name" : "Keller",
+  "display_name" : null,
+  "thumb" : "/people/hkeller.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

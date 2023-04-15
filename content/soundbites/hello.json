@@ -1,0 +1,10 @@
+{
+  "soundbite_id" : "hello",
+  "person_id" : "tblevins",
+  "quote" : "Hello!",
+  "alt" : null,
+  "sound_file" : "/soundbites/hello.mp3",
+  "description" : null,
+  "winning_year" : null,
+  "nominated_year" : null
+}

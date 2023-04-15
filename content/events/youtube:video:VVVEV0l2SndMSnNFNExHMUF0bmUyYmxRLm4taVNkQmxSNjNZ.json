@@ -1,0 +1,311 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLm4taVNkQmxSNjNZ",
+  "category" : "video",
+  "name" : "doritos and pepsi max [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/n-iSdBlR63Y/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/n-iSdBlR63Y"
+    }
+  ],
+  "start_date" : 1401578504000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 7.0,
+        "text" : " I want to talk about my favorite food, Doritos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49822698320661274,
+        "compression_ratio" : 1.1938775510204083,
+        "no_speech_prob" : 0.16537640988826752
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.0,
+        "end" : 21.0,
+        "text" : " Now Doritos is one of the most delicious foods, easily, and bar fire.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49822698320661274,
+        "compression_ratio" : 1.1938775510204083,
+        "no_speech_prob" : 0.16537640988826752
+      },
+      {
+        "id" : 2,
+        "seek" : 2100,
+        "start" : 22.0,
+        "end" : 33.0,
+        "text" : " I've got a great flavor. My favorite flavor is the nacho cheese, the extra spice, not the cheese.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.309035417984943,
+        "compression_ratio" : 1.4426229508196722,
+        "no_speech_prob" : 0.7394493222236633
+      },
+      {
+        "id" : 3,
+        "seek" : 2100,
+        "start" : 33.0,
+        "end" : 42.0,
+        "text" : " If you don't like nacho cheese flavor, you also have the cool ranch, original,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.309035417984943,
+        "compression_ratio" : 1.4426229508196722,
+        "no_speech_prob" : 0.7394493222236633
+      },
+      {
+        "id" : 4,
+        "seek" : 4200,
+        "start" : 42.0,
+        "end" : 56.0,
+        "text" : " they have pinto, bubba gumpa, people think it's not healthy, but I don't know, they've got me back.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6549908320109049,
+        "compression_ratio" : 1.3507462686567164,
+        "no_speech_prob" : 0.33683332800865173
+      },
+      {
+        "id" : 5,
+        "seek" : 4200,
+        "start" : 56.0,
+        "end" : 67.0,
+        "text" : " Well, it helps them by many, by many, see, I feel like that's what I usually eat.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6549908320109049,
+        "compression_ratio" : 1.3507462686567164,
+        "no_speech_prob" : 0.33683332800865173
+      },
+      {
+        "id" : 6,
+        "seek" : 6700,
+        "start" : 68.0,
+        "end" : 77.0,
+        "text" : " I eat that for 2 mils a day, and for the third I eat the ranch.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28082788907564604,
+        "compression_ratio" : 1.5095541401273886,
+        "no_speech_prob" : 0.23144903779029846
+      },
+      {
+        "id" : 7,
+        "seek" : 6700,
+        "start" : 77.0,
+        "end" : 90.0,
+        "text" : " I have the ranch flavor. It has a different vitamin profile, and it's nice to just mix the flavor up a little bit, because you don't want to get too committed to one flavor.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28082788907564604,
+        "compression_ratio" : 1.5095541401273886,
+        "no_speech_prob" : 0.23144903779029846
+      },
+      {
+        "id" : 8,
+        "seek" : 9000,
+        "start" : 91.0,
+        "end" : 104.0,
+        "text" : " Actually, I buy the Doritos a lot, which is the 5 gallon, the last bag, for my favorite, not your cheese, the first one is flavor.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6333417390522204,
+        "compression_ratio" : 1.2149532710280373,
+        "no_speech_prob" : 0.1878962367773056
+      },
+      {
+        "id" : 9,
+        "seek" : 10400,
+        "start" : 105.0,
+        "end" : 115.0,
+        "text" : " I usually buy the 30 pack, which is the little one serving pack of the cool ranch.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27128939879568,
+        "compression_ratio" : 1.440217391304348,
+        "no_speech_prob" : 0.3320765197277069
+      },
+      {
+        "id" : 10,
+        "seek" : 10400,
+        "start" : 115.0,
+        "end" : 120.0,
+        "text" : " Since I ate one of those a day, it saves better.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27128939879568,
+        "compression_ratio" : 1.440217391304348,
+        "no_speech_prob" : 0.3320765197277069
+      },
+      {
+        "id" : 11,
+        "seek" : 10400,
+        "start" : 120.0,
+        "end" : 126.0,
+        "text" : " That's what I recommend. That's one aspect of my food culture.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27128939879568,
+        "compression_ratio" : 1.440217391304348,
+        "no_speech_prob" : 0.3320765197277069
+      },
+      {
+        "id" : 12,
+        "seek" : 10400,
+        "start" : 126.0,
+        "end" : 132.0,
+        "text" : " The second is what do I drink? I'll show you here. I've got something.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27128939879568,
+        "compression_ratio" : 1.440217391304348,
+        "no_speech_prob" : 0.3320765197277069
+      },
+      {
+        "id" : 13,
+        "seek" : 13200,
+        "start" : 132.0,
+        "end" : 139.0,
+        "text" : " Again, I go to Costco, and what I do is I buy the Pepsi Max Max.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2610326608022054,
+        "compression_ratio" : 1.509090909090909,
+        "no_speech_prob" : 0.10746196657419205
+      },
+      {
+        "id" : 14,
+        "seek" : 13200,
+        "start" : 139.0,
+        "end" : 152.0,
+        "text" : " It's the Pepsi Max Max pack, and basically what it is is just a bunch of Pepsi Max leaders, but you get 24 of them in a case of the Pepsi Max Max double max.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2610326608022054,
+        "compression_ratio" : 1.509090909090909,
+        "no_speech_prob" : 0.10746196657419205
+      },
+      {
+        "id" : 15,
+        "seek" : 13200,
+        "start" : 152.0,
+        "end" : 159.0,
+        "text" : " This is my favorite drink.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2610326608022054,
+        "compression_ratio" : 1.509090909090909,
+        "no_speech_prob" : 0.10746196657419205
+      },
+      {
+        "id" : 16,
+        "seek" : 15900,
+        "start" : 159.0,
+        "end" : 166.0,
+        "text" : " Pepsi Max is a great, is my favorite. Pepsi Max.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23699425006734914,
+        "compression_ratio" : 1.3986013986013985,
+        "no_speech_prob" : 0.06246301531791687
+      },
+      {
+        "id" : 17,
+        "seek" : 15900,
+        "start" : 166.0,
+        "end" : 172.0,
+        "text" : " Again, I get the Max square, the double max, Pepsi double max.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23699425006734914,
+        "compression_ratio" : 1.3986013986013985,
+        "no_speech_prob" : 0.06246301531791687
+      },
+      {
+        "id" : 18,
+        "seek" : 15900,
+        "start" : 172.0,
+        "end" : 183.0,
+        "text" : " I really enjoy it. I drink this exclusively, not like the Doritos Fiesta double dip bag.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23699425006734914,
+        "compression_ratio" : 1.3986013986013985,
+        "no_speech_prob" : 0.06246301531791687
+      },
+      {
+        "id" : 19,
+        "seek" : 18300,
+        "start" : 183.0,
+        "end" : 190.0,
+        "text" : " I don't need to vary it up with the Pepsi Max. This is my drink.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746961408191257,
+        "compression_ratio" : 1.5569620253164558,
+        "no_speech_prob" : 0.6459381580352783
+      },
+      {
+        "id" : 20,
+        "seek" : 18300,
+        "start" : 190.0,
+        "end" : 195.0,
+        "text" : " This is my drink, so this is what I drink. Pepsi Max. Max won't taste no sugar.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746961408191257,
+        "compression_ratio" : 1.5569620253164558,
+        "no_speech_prob" : 0.6459381580352783
+      },
+      {
+        "id" : 21,
+        "seek" : 18300,
+        "start" : 195.0,
+        "end" : 203.0,
+        "text" : " Together with the Pepsi Max and the not your cheese Doritos double dip Fiesta bag, that's how I live.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1746961408191257,
+        "compression_ratio" : 1.5569620253164558,
+        "no_speech_prob" : 0.6459381580352783
+      },
+      {
+        "id" : 22,
+        "seek" : 20300,
+        "start" : 203.0,
+        "end" : 210.0,
+        "text" : " I hope I give you guys insight into my life. Let me know what you guys are eating.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206586446517553,
+        "compression_ratio" : 1.247787610619469,
+        "no_speech_prob" : 0.6724199056625366
+      },
+      {
+        "id" : 23,
+        "seek" : 20300,
+        "start" : 210.0,
+        "end" : 222.0,
+        "text" : " That's it. Thanks for watching everybody. It's been swell.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206586446517553,
+        "compression_ratio" : 1.247787610619469,
+        "no_speech_prob" : 0.6724199056625366
+      },
+      {
+        "id" : 24,
+        "seek" : 23300,
+        "start" : 233.0,
+        "end" : 240.0,
+        "text" : " Thank you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9598811467488607,
+        "compression_ratio" : 0.5555555555555556,
+        "no_speech_prob" : 0.9950469732284546
+      }
+    ]
+  }
+}

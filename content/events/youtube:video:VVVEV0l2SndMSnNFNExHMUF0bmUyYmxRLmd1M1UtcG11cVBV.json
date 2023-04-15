@@ -1,0 +1,674 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmd1M1UtcG11cVBV",
+  "category" : "video",
+  "name" : "Newt Gingrich is really puzzled -- h3h3 reaction video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/gu3U-pmuqPU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/gu3U-pmuqPU"
+    }
+  ],
+  "start_date" : 1418836508000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.0,
+        "text" : " We're really puzzled. Here at Gingrich Productions, we've spent weeks trying to figure out what do you call this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33657027829077935,
+        "compression_ratio" : 1.0865384615384615,
+        "no_speech_prob" : 0.06795068085193634
+      },
+      {
+        "id" : 1,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 34.0,
+        "text" : " Wow, he's been great move. Keep it up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26756347493922455,
+        "compression_ratio" : 1.4859437751004017,
+        "no_speech_prob" : 0.21955400705337524
+      },
+      {
+        "id" : 2,
+        "seek" : 3000,
+        "start" : 34.0,
+        "end" : 48.0,
+        "text" : " We're really puzzled. The star of our video this week is Newt Gingrich and he is a prominent American politician and a really, really great guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26756347493922455,
+        "compression_ratio" : 1.4859437751004017,
+        "no_speech_prob" : 0.21955400705337524
+      },
+      {
+        "id" : 3,
+        "seek" : 3000,
+        "start" : 48.0,
+        "end" : 52.0,
+        "text" : " Here I'm going to roll a couple clips here just so you guys can see what he's all about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26756347493922455,
+        "compression_ratio" : 1.4859437751004017,
+        "no_speech_prob" : 0.21955400705337524
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 52.0,
+        "end" : 56.0,
+        "text" : " Will you disagree with the Bush Policy Administration comparing them to those who enabled Hitler?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26756347493922455,
+        "compression_ratio" : 1.4859437751004017,
+        "no_speech_prob" : 0.21955400705337524
+      },
+      {
+        "id" : 5,
+        "seek" : 5600,
+        "start" : 57.0,
+        "end" : 61.0,
+        "text" : " Yes. People like Mayor would stand between us and Auschwitz.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24416849530976395,
+        "compression_ratio" : 1.6536796536796536,
+        "no_speech_prob" : 0.39815396070480347
+      },
+      {
+        "id" : 6,
+        "seek" : 5600,
+        "start" : 61.0,
+        "end" : 65.0,
+        "text" : " There is a gay and secular fascism in this country.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24416849530976395,
+        "compression_ratio" : 1.6536796536796536,
+        "no_speech_prob" : 0.39815396070480347
+      },
+      {
+        "id" : 7,
+        "seek" : 5600,
+        "start" : 65.0,
+        "end" : 71.0,
+        "text" : " I have always said that gay fascism is the best fascism. Haven't I always said that, you know?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24416849530976395,
+        "compression_ratio" : 1.6536796536796536,
+        "no_speech_prob" : 0.39815396070480347
+      },
+      {
+        "id" : 8,
+        "seek" : 5600,
+        "start" : 71.0,
+        "end" : 78.0,
+        "text" : " I've always said that. Let's just go ahead and jump right in and see what Newt Bays, Newt Bays, Newt Blabie, Newt Y,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24416849530976395,
+        "compression_ratio" : 1.6536796536796536,
+        "no_speech_prob" : 0.39815396070480347
+      },
+      {
+        "id" : 9,
+        "seek" : 5600,
+        "start" : 78.0,
+        "end" : 83.0,
+        "text" : " Get all Newt Blabie from Georgia is all puzzled up about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24416849530976395,
+        "compression_ratio" : 1.6536796536796536,
+        "no_speech_prob" : 0.39815396070480347
+      },
+      {
+        "id" : 10,
+        "seek" : 8300,
+        "start" : 84.0,
+        "end" : 90.0,
+        "text" : " We're really puzzled. Here at Gingrich Productions, we spent weeks trying to figure out what do you call this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14576463515941912,
+        "compression_ratio" : 1.7156862745098038,
+        "no_speech_prob" : 0.38935768604278564
+      },
+      {
+        "id" : 11,
+        "seek" : 8300,
+        "start" : 90.0,
+        "end" : 95.0,
+        "text" : " Guys, we have been puzzled for weeks trying to figure out what do you call this thing?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14576463515941912,
+        "compression_ratio" : 1.7156862745098038,
+        "no_speech_prob" : 0.38935768604278564
+      },
+      {
+        "id" : 12,
+        "seek" : 8300,
+        "start" : 95.0,
+        "end" : 98.0,
+        "text" : " I mean, what is it, man? What the heck?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14576463515941912,
+        "compression_ratio" : 1.7156862745098038,
+        "no_speech_prob" : 0.38935768604278564
+      },
+      {
+        "id" : 13,
+        "seek" : 8300,
+        "start" : 98.0,
+        "end" : 101.0,
+        "text" : " Smartphone. What? It's a smartphone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14576463515941912,
+        "compression_ratio" : 1.7156862745098038,
+        "no_speech_prob" : 0.38935768604278564
+      },
+      {
+        "id" : 14,
+        "seek" : 8300,
+        "start" : 101.0,
+        "end" : 104.0,
+        "text" : " This is called a smartphone? Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14576463515941912,
+        "compression_ratio" : 1.7156862745098038,
+        "no_speech_prob" : 0.38935768604278564
+      },
+      {
+        "id" : 15,
+        "seek" : 8300,
+        "start" : 104.0,
+        "end" : 108.0,
+        "text" : " So we don't need to make this video? No.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14576463515941912,
+        "compression_ratio" : 1.7156862745098038,
+        "no_speech_prob" : 0.38935768604278564
+      },
+      {
+        "id" : 16,
+        "seek" : 10800,
+        "start" : 109.0,
+        "end" : 114.0,
+        "text" : " Alright, great. Hey, wrap it up. Good work, everybody. It's a smartphone. Thank you, Ella.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11287373059416471,
+        "compression_ratio" : 1.6746268656716419,
+        "no_speech_prob" : 0.14223799109458923
+      },
+      {
+        "id" : 17,
+        "seek" : 10800,
+        "start" : 114.0,
+        "end" : 117.0,
+        "text" : " Now, I know you probably think it's a cellphone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11287373059416471,
+        "compression_ratio" : 1.6746268656716419,
+        "no_speech_prob" : 0.14223799109458923
+      },
+      {
+        "id" : 18,
+        "seek" : 10800,
+        "start" : 117.0,
+        "end" : 124.0,
+        "text" : " And if I say to audiences how many of you have a cellphone that takes a picture, 97% of the hands go up. But think about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11287373059416471,
+        "compression_ratio" : 1.6746268656716419,
+        "no_speech_prob" : 0.14223799109458923
+      },
+      {
+        "id" : 19,
+        "seek" : 10800,
+        "start" : 124.0,
+        "end" : 129.0,
+        "text" : " You probably thought this was a cellphone. Well, luckily for you, I'm not an idiot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11287373059416471,
+        "compression_ratio" : 1.6746268656716419,
+        "no_speech_prob" : 0.14223799109458923
+      },
+      {
+        "id" : 20,
+        "seek" : 10800,
+        "start" : 129.0,
+        "end" : 137.0,
+        "text" : " I've thought about it. Have you? We wouldn't maybe be in this puzzle if somebody would have thought about a little harder and made a name for it before I had to sit around with my whole production team for weeks.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11287373059416471,
+        "compression_ratio" : 1.6746268656716419,
+        "no_speech_prob" : 0.14223799109458923
+      },
+      {
+        "id" : 21,
+        "seek" : 13700,
+        "start" : 137.0,
+        "end" : 147.0,
+        "text" : " If it has a McDonald's app to tell you where McDonald's is from based on your GPS location, that's not a cellphone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1180284905621386,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.11605627089738846
+      },
+      {
+        "id" : 22,
+        "seek" : 13700,
+        "start" : 147.0,
+        "end" : 150.0,
+        "text" : " This is not a cellphone. This is a little McDonald's machine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1180284905621386,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.11605627089738846
+      },
+      {
+        "id" : 23,
+        "seek" : 13700,
+        "start" : 150.0,
+        "end" : 157.0,
+        "text" : " Judging by the grease stains there on your touchscreen, Newtie Boy, it looks like you had the sepiphany on your way back from McDonald's, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1180284905621386,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.11605627089738846
+      },
+      {
+        "id" : 24,
+        "seek" : 13700,
+        "start" : 157.0,
+        "end" : 161.0,
+        "text" : " Hi, McDonald's. Hey, can you tell me what is a cellphone? I'm really puzzled.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1180284905621386,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.11605627089738846
+      },
+      {
+        "id" : 25,
+        "seek" : 13700,
+        "start" : 161.0,
+        "end" : 165.0,
+        "text" : " If you can get Wikipedia or go to Google, that's not a cellphone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1180284905621386,
+        "compression_ratio" : 1.7777777777777777,
+        "no_speech_prob" : 0.11605627089738846
+      },
+      {
+        "id" : 26,
+        "seek" : 16500,
+        "start" : 165.0,
+        "end" : 171.0,
+        "text" : " Yeah, dog. We heard about the internet. It's cool, man. You didn't really have to make a video about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16557249589399858,
+        "compression_ratio" : 1.8048780487804879,
+        "no_speech_prob" : 0.25100451707839966
+      },
+      {
+        "id" : 27,
+        "seek" : 16500,
+        "start" : 171.0,
+        "end" : 177.0,
+        "text" : " If you didn't watch YouTube, that's not a cellphone or Netflix. Think about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16557249589399858,
+        "compression_ratio" : 1.8048780487804879,
+        "no_speech_prob" : 0.25100451707839966
+      },
+      {
+        "id" : 28,
+        "seek" : 16500,
+        "start" : 177.0,
+        "end" : 181.0,
+        "text" : " It's a be-o detection device. It's not a cellphone.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16557249589399858,
+        "compression_ratio" : 1.8048780487804879,
+        "no_speech_prob" : 0.25100451707839966
+      },
+      {
+        "id" : 29,
+        "seek" : 16500,
+        "start" : 181.0,
+        "end" : 185.0,
+        "text" : " Hmm. Need to loop up a little more. Think about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16557249589399858,
+        "compression_ratio" : 1.8048780487804879,
+        "no_speech_prob" : 0.25100451707839966
+      },
+      {
+        "id" : 30,
+        "seek" : 16500,
+        "start" : 185.0,
+        "end" : 189.0,
+        "text" : " You see, that's not a cellphone. That's a loop dispensing device.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16557249589399858,
+        "compression_ratio" : 1.8048780487804879,
+        "no_speech_prob" : 0.25100451707839966
+      },
+      {
+        "id" : 31,
+        "seek" : 16500,
+        "start" : 189.0,
+        "end" : 191.0,
+        "text" : " Think about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16557249589399858,
+        "compression_ratio" : 1.8048780487804879,
+        "no_speech_prob" : 0.25100451707839966
+      },
+      {
+        "id" : 32,
+        "seek" : 19500,
+        "start" : 195.0,
+        "end" : 201.0,
+        "text" : " This device is something new and different. I've been calling it a handheld computer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11250917373165008,
+        "compression_ratio" : 1.5940170940170941,
+        "no_speech_prob" : 0.1465153694152832
+      },
+      {
+        "id" : 33,
+        "seek" : 19500,
+        "start" : 201.0,
+        "end" : 205.0,
+        "text" : " Have you really been walking around calling it a handheld computer?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11250917373165008,
+        "compression_ratio" : 1.5940170940170941,
+        "no_speech_prob" : 0.1465153694152832
+      },
+      {
+        "id" : 34,
+        "seek" : 19500,
+        "start" : 205.0,
+        "end" : 211.0,
+        "text" : " I mean, it's not wrong, dude. It's just stupid.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11250917373165008,
+        "compression_ratio" : 1.5940170940170941,
+        "no_speech_prob" : 0.1465153694152832
+      },
+      {
+        "id" : 35,
+        "seek" : 19500,
+        "start" : 211.0,
+        "end" : 218.0,
+        "text" : " It can be a very productive device for getting work done wherever you happen to be, eliminating the concept of in the office.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11250917373165008,
+        "compression_ratio" : 1.5940170940170941,
+        "no_speech_prob" : 0.1465153694152832
+      },
+      {
+        "id" : 36,
+        "seek" : 19500,
+        "start" : 218.0,
+        "end" : 221.0,
+        "text" : " Does that place happen to me, McDonald's? No.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11250917373165008,
+        "compression_ratio" : 1.5940170940170941,
+        "no_speech_prob" : 0.1465153694152832
+      },
+      {
+        "id" : 37,
+        "seek" : 22100,
+        "start" : 221.0,
+        "end" : 225.0,
+        "text" : " If you want to hold public office, that's fine, man. You are elected.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15082865175993546,
+        "compression_ratio" : 1.678125,
+        "no_speech_prob" : 0.16138921678066254
+      },
+      {
+        "id" : 38,
+        "seek" : 22100,
+        "start" : 225.0,
+        "end" : 231.0,
+        "text" : " So I can't complain about the democratic process. But if you want to serve, dude, you've got to be more places than McDonald's.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15082865175993546,
+        "compression_ratio" : 1.678125,
+        "no_speech_prob" : 0.16138921678066254
+      },
+      {
+        "id" : 39,
+        "seek" : 22100,
+        "start" : 231.0,
+        "end" : 239.0,
+        "text" : " Tell me, is this the bathroom in McDonald's dog? Did you fucking set up a really fancy McDonald's bathroom so you can sit there and make your Ginkers production videos?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15082865175993546,
+        "compression_ratio" : 1.678125,
+        "no_speech_prob" : 0.16138921678066254
+      },
+      {
+        "id" : 40,
+        "seek" : 22100,
+        "start" : 239.0,
+        "end" : 243.0,
+        "text" : " Tell the truth to the American people, Ginkrich. We deserve to know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15082865175993546,
+        "compression_ratio" : 1.678125,
+        "no_speech_prob" : 0.16138921678066254
+      },
+      {
+        "id" : 41,
+        "seek" : 22100,
+        "start" : 243.0,
+        "end" : 249.0,
+        "text" : " So, we'd love to have your ideas and your thoughts. Please leave a comment. What would you call this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15082865175993546,
+        "compression_ratio" : 1.678125,
+        "no_speech_prob" : 0.16138921678066254
+      },
+      {
+        "id" : 42,
+        "seek" : 24900,
+        "start" : 249.0,
+        "end" : 251.0,
+        "text" : " We look forward to hearing from you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1275756279627482,
+        "compression_ratio" : 1.575,
+        "no_speech_prob" : 0.08518937230110168
+      },
+      {
+        "id" : 43,
+        "seek" : 24900,
+        "start" : 251.0,
+        "end" : 255.0,
+        "text" : " Okay. All right, dude. I'm looking forward to talking to you. Let's see.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1275756279627482,
+        "compression_ratio" : 1.575,
+        "no_speech_prob" : 0.08518937230110168
+      },
+      {
+        "id" : 44,
+        "seek" : 24900,
+        "start" : 255.0,
+        "end" : 260.0,
+        "text" : " Hi, Newty Boy. Wow, great video and very thought-provoking.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1275756279627482,
+        "compression_ratio" : 1.575,
+        "no_speech_prob" : 0.08518937230110168
+      },
+      {
+        "id" : 45,
+        "seek" : 24900,
+        "start" : 260.0,
+        "end" : 266.0,
+        "text" : " Indeed, what is this crazy device that's completely changing the world? My goodness. Your face is really white, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1275756279627482,
+        "compression_ratio" : 1.575,
+        "no_speech_prob" : 0.08518937230110168
+      },
+      {
+        "id" : 46,
+        "seek" : 24900,
+        "start" : 266.0,
+        "end" : 270.0,
+        "text" : " Ah, sorry. Just kidding about that one. You're really quite handsome.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1275756279627482,
+        "compression_ratio" : 1.575,
+        "no_speech_prob" : 0.08518937230110168
+      },
+      {
+        "id" : 47,
+        "seek" : 24900,
+        "start" : 270.0,
+        "end" : 275.0,
+        "text" : " I love the way the sun reflects off your white skin and catches a glint in my eyes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1275756279627482,
+        "compression_ratio" : 1.575,
+        "no_speech_prob" : 0.08518937230110168
+      },
+      {
+        "id" : 48,
+        "seek" : 27500,
+        "start" : 275.0,
+        "end" : 283.0,
+        "text" : " To the point, I think it probably should be called a handheld, technological, interconnected, super gadget for connecting people's Syria, whereas McDonald's.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15988725181517563,
+        "compression_ratio" : 1.5854430379746836,
+        "no_speech_prob" : 0.02789207361638546
+      },
+      {
+        "id" : 49,
+        "seek" : 27500,
+        "start" : 283.0,
+        "end" : 289.0,
+        "text" : " Anyway, thank you so much, Newty Baby. You're looking fit as hell, and I wouldn't mind taking a bite out of that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15988725181517563,
+        "compression_ratio" : 1.5854430379746836,
+        "no_speech_prob" : 0.02789207361638546
+      },
+      {
+        "id" : 50,
+        "seek" : 27500,
+        "start" : 289.0,
+        "end" : 293.0,
+        "text" : " And, just post that. There you go. Great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15988725181517563,
+        "compression_ratio" : 1.5854430379746836,
+        "no_speech_prob" : 0.02789207361638546
+      },
+      {
+        "id" : 51,
+        "seek" : 27500,
+        "start" : 293.0,
+        "end" : 298.0,
+        "text" : " This is Ethan Klein from H3H Productions reporting from the McDonald's bathroom.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15988725181517563,
+        "compression_ratio" : 1.5854430379746836,
+        "no_speech_prob" : 0.02789207361638546
+      },
+      {
+        "id" : 52,
+        "seek" : 27500,
+        "start" : 298.0,
+        "end" : 303.0,
+        "text" : " Everybody, thanks so much for your help, and looking forward to a newer, brighter, better future together.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15988725181517563,
+        "compression_ratio" : 1.5854430379746836,
+        "no_speech_prob" : 0.02789207361638546
+      },
+      {
+        "id" : 53,
+        "seek" : 30300,
+        "start" : 303.0,
+        "end" : 305.0,
+        "text" : " Thanks, guys. Ta-ta.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4693240617450915,
+        "compression_ratio" : 0.9523809523809523,
+        "no_speech_prob" : 0.14862124621868134
+      },
+      {
+        "id" : 54,
+        "seek" : 30300,
+        "start" : 310.0,
+        "end" : 312.0,
+        "text" : " We're really puzzled.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4693240617450915,
+        "compression_ratio" : 0.9523809523809523,
+        "no_speech_prob" : 0.14862124621868134
+      },
+      {
+        "id" : 55,
+        "seek" : 30300,
+        "start" : 312.0,
+        "end" : 314.0,
+        "text" : " And unoriginal.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4693240617450915,
+        "compression_ratio" : 0.9523809523809523,
+        "no_speech_prob" : 0.14862124621868134
+      },
+      {
+        "id" : 56,
+        "seek" : 30300,
+        "start" : 314.0,
+        "end" : 316.0,
+        "text" : " Fee-hee!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4693240617450915,
+        "compression_ratio" : 0.9523809523809523,
+        "no_speech_prob" : 0.14862124621868134
+      },
+      {
+        "id" : 57,
+        "seek" : 30300,
+        "start" : 316.0,
+        "end" : 317.0,
+        "text" : " Relax, Shay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4693240617450915,
+        "compression_ratio" : 0.9523809523809523,
+        "no_speech_prob" : 0.14862124621868134
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "etate",
+  "category" : "lore",
+  "first_name" : "Emory",
+  "last_name" : "Tate",
+  "display_name" : "Andrew Tate",
+  "thumb" : "/people/etate.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "ckolodziejzyk",
+  "category" : "guest",
+  "first_name" : "Cody",
+  "last_name" : "Kolodziejzyk",
+  "display_name" : "Cody Ko",
+  "thumb" : "/people/ckolodziejzyk.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "jfrancois",
+  "category" : "guest",
+  "first_name" : "Joseth",
+  "last_name" : "Francois",
+  "display_name" : "DurteSeth",
+  "thumb" : "/people/jfrancois.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

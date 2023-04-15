@@ -1,0 +1,575 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjF1Znc5dERhSi13",
+  "category" : "video",
+  "name" : "Life begins NOW",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/1ufw9tDaJ-w/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/1ufw9tDaJ-w"
+    }
+  ],
+  "start_date" : 1370973988000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " But you thought it was a game.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 4.0,
+        "text" : " It's not.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 6.0,
+        "text" : " This is real life.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 16.0,
+        "text" : " Did you know that there are 100 billion, billion stars in the universe?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 19.0,
+        "text" : " Did you think it was a game now?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 22.0,
+        "text" : " But you thought it was a game.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 22.0,
+        "end" : 26.0,
+        "text" : " There are multiverse full of billions of galaxies.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2665496826171875,
+        "compression_ratio" : 1.6291390728476822,
+        "no_speech_prob" : 0.2348637580871582
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 26.0,
+        "end" : 28.0,
+        "text" : " I went to black holes collapse.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 28.0,
+        "end" : 34.0,
+        "text" : " It creates new universes, multiverse as it's called.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 9,
+        "seek" : 2600,
+        "start" : 34.0,
+        "end" : 36.0,
+        "text" : " What's life now?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 10,
+        "seek" : 2600,
+        "start" : 36.0,
+        "end" : 38.0,
+        "text" : " Where are you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 11,
+        "seek" : 2600,
+        "start" : 38.0,
+        "end" : 40.0,
+        "text" : " Have you ever been to outer space?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 12,
+        "seek" : 2600,
+        "start" : 40.0,
+        "end" : 42.0,
+        "text" : " Then how do you know it's there?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 13,
+        "seek" : 2600,
+        "start" : 42.0,
+        "end" : 44.0,
+        "text" : " Better turn this off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 14,
+        "seek" : 2600,
+        "start" : 44.0,
+        "end" : 46.0,
+        "text" : " Might be getting a little bit too heavy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 15,
+        "seek" : 2600,
+        "start" : 46.0,
+        "end" : 50.0,
+        "text" : " What if God was just an idea?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 16,
+        "seek" : 2600,
+        "start" : 50.0,
+        "end" : 54.0,
+        "text" : " Let me tell you something about the Bible.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14559144389872647,
+        "compression_ratio" : 1.4883720930232558,
+        "no_speech_prob" : 0.05292133614420891
+      },
+      {
+        "id" : 17,
+        "seek" : 5400,
+        "start" : 54.0,
+        "end" : 58.0,
+        "text" : " It was written by man.",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 18,
+        "seek" : 5400,
+        "start" : 58.0,
+        "end" : 60.0,
+        "text" : " Whaaaat?",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 19,
+        "seek" : 5400,
+        "start" : 60.0,
+        "end" : 62.0,
+        "text" : " Do you believe in Zeus?",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 20,
+        "seek" : 5400,
+        "start" : 62.0,
+        "end" : 64.0,
+        "text" : " Then you're an atheist.",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 21,
+        "seek" : 5400,
+        "start" : 64.0,
+        "end" : 70.0,
+        "text" : " Oh, oh you don't believe in the Sun God of ancient Roman Greek?",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 22,
+        "seek" : 5400,
+        "start" : 70.0,
+        "end" : 72.0,
+        "text" : " Well guess what?",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 23,
+        "seek" : 5400,
+        "start" : 72.0,
+        "end" : 74.0,
+        "text" : " You're an atheist.",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 24,
+        "seek" : 5400,
+        "start" : 74.0,
+        "end" : 76.0,
+        "text" : " Whaaaat?",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 25,
+        "seek" : 5400,
+        "start" : 76.0,
+        "end" : 78.0,
+        "text" : " But you thought this was a game.",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 26,
+        "seek" : 5400,
+        "start" : 78.0,
+        "end" : 82.0,
+        "text" : " What if I told you it was?",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.26127260186699,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.017625456675887108
+      },
+      {
+        "id" : 27,
+        "seek" : 8200,
+        "start" : 82.0,
+        "end" : 86.0,
+        "text" : " Have you ever been on a plane?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 28,
+        "seek" : 8200,
+        "start" : 86.0,
+        "end" : 90.0,
+        "text" : " Explain how that works.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 29,
+        "seek" : 8200,
+        "start" : 90.0,
+        "end" : 92.0,
+        "text" : " Most people go to the market to get their food.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 30,
+        "seek" : 8200,
+        "start" : 92.0,
+        "end" : 94.0,
+        "text" : " You just have to look outside.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 31,
+        "seek" : 8200,
+        "start" : 94.0,
+        "end" : 96.0,
+        "text" : " Oh, you pay your rent.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 32,
+        "seek" : 8200,
+        "start" : 96.0,
+        "end" : 98.0,
+        "text" : " That's nice.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 33,
+        "seek" : 8200,
+        "start" : 98.0,
+        "end" : 100.0,
+        "text" : " Well, I don't.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 34,
+        "seek" : 8200,
+        "start" : 100.0,
+        "end" : 102.0,
+        "text" : " What are they going to do?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 35,
+        "seek" : 8200,
+        "start" : 102.0,
+        "end" : 104.0,
+        "text" : " Kick me out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 36,
+        "seek" : 8200,
+        "start" : 104.0,
+        "end" : 106.0,
+        "text" : " You want to know how deep the rabbit hole goes?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 37,
+        "seek" : 8200,
+        "start" : 106.0,
+        "end" : 110.0,
+        "text" : " Let's find out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09703259516243982,
+        "compression_ratio" : 1.4187192118226601,
+        "no_speech_prob" : 0.05026291310787201
+      },
+      {
+        "id" : 38,
+        "seek" : 11000,
+        "start" : 110.0,
+        "end" : 112.0,
+        "text" : " Pretty deep.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 39,
+        "seek" : 11000,
+        "start" : 112.0,
+        "end" : 114.0,
+        "text" : " What is the function of my nipple?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 40,
+        "seek" : 11000,
+        "start" : 114.0,
+        "end" : 118.0,
+        "text" : " I've always been told I can't breastfeed, but...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 41,
+        "seek" : 11000,
+        "start" : 118.0,
+        "end" : 120.0,
+        "text" : " Have you ever tried?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 42,
+        "seek" : 11000,
+        "start" : 120.0,
+        "end" : 122.0,
+        "text" : " I haven't.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 43,
+        "seek" : 11000,
+        "start" : 122.0,
+        "end" : 124.0,
+        "text" : " What's the truth?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 44,
+        "seek" : 11000,
+        "start" : 124.0,
+        "end" : 126.0,
+        "text" : " Where do you go from here?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 45,
+        "seek" : 11000,
+        "start" : 126.0,
+        "end" : 128.0,
+        "text" : " That's a good question.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 46,
+        "seek" : 11000,
+        "start" : 128.0,
+        "end" : 130.0,
+        "text" : " Only you can answer that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 47,
+        "seek" : 11000,
+        "start" : 130.0,
+        "end" : 134.0,
+        "text" : " But all I know is that life begins now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07533233085375153,
+        "compression_ratio" : 1.4216216216216215,
+        "no_speech_prob" : 0.02699301391839981
+      },
+      {
+        "id" : 48,
+        "seek" : 14000,
+        "start" : 140.0,
+        "end" : 142.0,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8984310030937195,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.9512766003608704
+      }
+    ]
+  }
+}

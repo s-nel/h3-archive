@@ -1,0 +1,13 @@
+{
+  "person_id" : "bgreene",
+  "category" : "guest",
+  "first_name" : "Brendan",
+  "last_name" : "Greene",
+  "display_name" : null,
+  "thumb" : "/people/bgreene.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

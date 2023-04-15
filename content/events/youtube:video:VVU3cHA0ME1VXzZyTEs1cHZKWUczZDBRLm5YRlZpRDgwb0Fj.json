@@ -1,0 +1,498 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLm5YRlZpRDgwb0Fj",
+  "category" : "video",
+  "name" : "Boxed Water is Better",
+  "description" : "If you liked the music at the end check out this cool dude Otis Mcdonald:\nhttps://www.youtube.com/watch?v=8yOskhDn468",
+  "thumb" : "https://i.ytimg.com/vi/nXFViD80oAc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/nXFViD80oAc"
+    }
+  ],
+  "start_date" : 1437539392000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.72,
+        "text" : " Guys, I got this product here called Box Water is better. Apparently that's the whole name.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2347737758531483,
+        "compression_ratio" : 1.8280542986425339,
+        "no_speech_prob" : 0.057789936661720276
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.72,
+        "end" : 9.52,
+        "text" : " It's not just Box Water, it's Box Water is better. So if you want to say the full name of the product,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2347737758531483,
+        "compression_ratio" : 1.8280542986425339,
+        "no_speech_prob" : 0.057789936661720276
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.52,
+        "end" : 15.6,
+        "text" : " you have to be a pretentious asshole. Hey, have you had Box Water's better before? Have you ever had Box Water",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2347737758531483,
+        "compression_ratio" : 1.8280542986425339,
+        "no_speech_prob" : 0.057789936661720276
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 15.6,
+        "end" : 23.2,
+        "text" : " is better before? Say what? Box Water is better. So let's give it a sample here and see how it is.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2347737758531483,
+        "compression_ratio" : 1.8280542986425339,
+        "no_speech_prob" : 0.057789936661720276
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 35.28,
+        "text" : " Not that good, dude. It just tastes like water. It costs $3 for this fucking little thing of water, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35187471591360203,
+        "compression_ratio" : 1.703862660944206,
+        "no_speech_prob" : 0.26110953092575073
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 35.28,
+        "end" : 40.24,
+        "text" : " Can you imagine someone actually living on this shit? You can go online. We looked.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35187471591360203,
+        "compression_ratio" : 1.703862660944206,
+        "no_speech_prob" : 0.26110953092575073
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 40.24,
+        "end" : 42.08,
+        "text" : " It was really 3.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35187471591360203,
+        "compression_ratio" : 1.703862660944206,
+        "no_speech_prob" : 0.26110953092575073
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 42.08,
+        "end" : 46.48,
+        "text" : " It was? No. It was like 3 bucks. No way, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35187471591360203,
+        "compression_ratio" : 1.703862660944206,
+        "no_speech_prob" : 0.26110953092575073
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 46.48,
+        "end" : 47.92,
+        "text" : " Yeah. I was going to say.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35187471591360203,
+        "compression_ratio" : 1.703862660944206,
+        "no_speech_prob" : 0.26110953092575073
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 47.92,
+        "end" : 56.32,
+        "text" : " Yilo, you can't. Yilo, you're ruining the video, dude. It's 3 bucks, okay? That's the reality we're going with, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35187471591360203,
+        "compression_ratio" : 1.703862660944206,
+        "no_speech_prob" : 0.26110953092575073
+      },
+      {
+        "id" : 10,
+        "seek" : 5632,
+        "start" : 56.48,
+        "end" : 60.56,
+        "text" : " Don't don't let the truth get in the way of a good story. And by the way, you're wrong.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2722584954623518,
+        "compression_ratio" : 1.4689265536723164,
+        "no_speech_prob" : 0.008157520554959774
+      },
+      {
+        "id" : 11,
+        "seek" : 5632,
+        "start" : 61.36,
+        "end" : 64.48,
+        "text" : " For the record, this was a $3 box of water.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2722584954623518,
+        "compression_ratio" : 1.4689265536723164,
+        "no_speech_prob" : 0.008157520554959774
+      },
+      {
+        "id" : 12,
+        "seek" : 5632,
+        "start" : 64.48,
+        "end" : 65.04,
+        "text" : " Mm-hmm.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2722584954623518,
+        "compression_ratio" : 1.4689265536723164,
+        "no_speech_prob" : 0.008157520554959774
+      },
+      {
+        "id" : 13,
+        "seek" : 5632,
+        "start" : 66.0,
+        "end" : 67.68,
+        "text" : " Fuck you, by the way, if you're trying to undermine me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2722584954623518,
+        "compression_ratio" : 1.4689265536723164,
+        "no_speech_prob" : 0.008157520554959774
+      },
+      {
+        "id" : 14,
+        "seek" : 5632,
+        "start" : 71.2,
+        "end" : 74.96,
+        "text" : " Anyway, holy shit, dude. We are pissing off a lot of dogs today.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2722584954623518,
+        "compression_ratio" : 1.4689265536723164,
+        "no_speech_prob" : 0.008157520554959774
+      },
+      {
+        "id" : 15,
+        "seek" : 7496,
+        "start" : 74.96,
+        "end" : 79.28,
+        "text" : " Yilo, Yilo, Yilo.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.37763058697735824,
+        "compression_ratio" : 1.554585152838428,
+        "no_speech_prob" : 0.04036238417029381
+      },
+      {
+        "id" : 16,
+        "seek" : 7496,
+        "start" : 81.52,
+        "end" : 86.96,
+        "text" : " Anyway, you can go online and get like a whole crate, like 24 of these for like 50 bucks.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.37763058697735824,
+        "compression_ratio" : 1.554585152838428,
+        "no_speech_prob" : 0.04036238417029381
+      },
+      {
+        "id" : 17,
+        "seek" : 7496,
+        "start" : 86.96,
+        "end" : 90.48,
+        "text" : " It's just like, are people that insane?",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.37763058697735824,
+        "compression_ratio" : 1.554585152838428,
+        "no_speech_prob" : 0.04036238417029381
+      },
+      {
+        "id" : 18,
+        "seek" : 7496,
+        "start" : 90.48,
+        "end" : 93.28,
+        "text" : " That they're buying whole crates of box water?",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.37763058697735824,
+        "compression_ratio" : 1.554585152838428,
+        "no_speech_prob" : 0.04036238417029381
+      },
+      {
+        "id" : 19,
+        "seek" : 7496,
+        "start" : 94.32,
+        "end" : 97.52,
+        "text" : " So they could walk around with this box water is better. Hello.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.37763058697735824,
+        "compression_ratio" : 1.554585152838428,
+        "no_speech_prob" : 0.04036238417029381
+      },
+      {
+        "id" : 20,
+        "seek" : 7496,
+        "start" : 99.28,
+        "end" : 103.36,
+        "text" : " I don't get it. What do you think, buddy? Yilo. Besides the price, I don't want to hear about the",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.37763058697735824,
+        "compression_ratio" : 1.554585152838428,
+        "no_speech_prob" : 0.04036238417029381
+      },
+      {
+        "id" : 21,
+        "seek" : 10336,
+        "start" : 103.36,
+        "end" : 107.2,
+        "text" : " fucking price. I remember it was $3 and that shocked me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 22,
+        "seek" : 10336,
+        "start" : 107.2,
+        "end" : 109.68,
+        "text" : " 160, when it shocked me, that's like a normal price of water.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 23,
+        "seek" : 10336,
+        "start" : 110.4,
+        "end" : 111.52,
+        "text" : " No, it's not that small.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 24,
+        "seek" : 10336,
+        "start" : 111.52,
+        "end" : 113.12,
+        "text" : " 160? Wow.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 25,
+        "seek" : 10336,
+        "start" : 113.12,
+        "end" : 114.4,
+        "text" : " It's really small.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 26,
+        "seek" : 10336,
+        "start" : 114.4,
+        "end" : 118.32,
+        "text" : " That's a box. I think it looks like a milk box.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 27,
+        "seek" : 10336,
+        "start" : 118.32,
+        "end" : 119.28,
+        "text" : " It's confusing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 28,
+        "seek" : 10336,
+        "start" : 120.72,
+        "end" : 124.48,
+        "text" : " So what you're saying is that it looks like there should be something better than water.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 29,
+        "seek" : 10336,
+        "start" : 124.48,
+        "end" : 128.64,
+        "text" : " It's like, if you took a milk crate, which is like a nice looking package,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 30,
+        "seek" : 10336,
+        "start" : 128.64,
+        "end" : 131.84,
+        "text" : " and then you dumped out all the milk and filled it with water, would you buy that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27913060221638714,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.0032494489569216967
+      },
+      {
+        "id" : 31,
+        "seek" : 13184,
+        "start" : 132.56,
+        "end" : 136.96,
+        "text" : " No, I wouldn't buy that. Would you buy a 20 pack of that and just walk around?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31778215382197134,
+        "compression_ratio" : 1.4161490683229814,
+        "no_speech_prob" : 0.009263460524380207
+      },
+      {
+        "id" : 32,
+        "seek" : 13184,
+        "start" : 138.48,
+        "end" : 147.76,
+        "text" : " You know what I mean? I feel like this is what you have to do on this product.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31778215382197134,
+        "compression_ratio" : 1.4161490683229814,
+        "no_speech_prob" : 0.009263460524380207
+      },
+      {
+        "id" : 33,
+        "seek" : 13184,
+        "start" : 152.08,
+        "end" : 153.44,
+        "text" : " I don't know if that's what I'm doing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31778215382197134,
+        "compression_ratio" : 1.4161490683229814,
+        "no_speech_prob" : 0.009263460524380207
+      },
+      {
+        "id" : 34,
+        "seek" : 13184,
+        "start" : 153.44,
+        "end" : 155.04,
+        "text" : " Oh my god, the dog's hating me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31778215382197134,
+        "compression_ratio" : 1.4161490683229814,
+        "no_speech_prob" : 0.009263460524380207
+      },
+      {
+        "id" : 35,
+        "seek" : 15504,
+        "start" : 155.52,
+        "end" : 156.32,
+        "text" : " Oh my god.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4835622193383389,
+        "compression_ratio" : 1.3233082706766917,
+        "no_speech_prob" : 0.03663037344813347
+      },
+      {
+        "id" : 36,
+        "seek" : 15504,
+        "start" : 158.56,
+        "end" : 159.12,
+        "text" : " Get out of here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4835622193383389,
+        "compression_ratio" : 1.3233082706766917,
+        "no_speech_prob" : 0.03663037344813347
+      },
+      {
+        "id" : 37,
+        "seek" : 15504,
+        "start" : 160.8,
+        "end" : 162.32,
+        "text" : " Did you tell that I'm wet? By the way,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4835622193383389,
+        "compression_ratio" : 1.3233082706766917,
+        "no_speech_prob" : 0.03663037344813347
+      },
+      {
+        "id" : 38,
+        "seek" : 15504,
+        "start" : 164.96,
+        "end" : 167.36,
+        "text" : " this is how you walk with this product, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4835622193383389,
+        "compression_ratio" : 1.3233082706766917,
+        "no_speech_prob" : 0.03663037344813347
+      },
+      {
+        "id" : 39,
+        "seek" : 15504,
+        "start" : 170.8,
+        "end" : 172.24,
+        "text" : " If you can drink, feel like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4835622193383389,
+        "compression_ratio" : 1.3233082706766917,
+        "no_speech_prob" : 0.03663037344813347
+      },
+      {
+        "id" : 40,
+        "seek" : 15504,
+        "start" : 179.76,
+        "end" : 180.88,
+        "text" : " Did they expect that to work?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4835622193383389,
+        "compression_ratio" : 1.3233082706766917,
+        "no_speech_prob" : 0.03663037344813347
+      },
+      {
+        "id" : 41,
+        "seek" : 18504,
+        "start" : 185.04,
+        "end" : 189.12,
+        "text" : " So",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.373504400253296,
+        "compression_ratio" : 0.2,
+        "no_speech_prob" : 0.45638787746429443
+      }
+    ]
+  }
+}

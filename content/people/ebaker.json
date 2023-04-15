@@ -1,0 +1,13 @@
+{
+  "person_id" : "ebaker",
+  "category" : "lore",
+  "first_name" : "Emily",
+  "last_name" : "Baker",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,14 @@
+{
+  "person_id" : "jgastrow",
+  "category" : "guest",
+  "first_name" : "Jason",
+  "last_name" : "Gastrow",
+  "display_name" : "Videogamedunkey",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+    "Dunkey"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

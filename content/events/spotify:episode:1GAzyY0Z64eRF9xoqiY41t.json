@@ -1,0 +1,76 @@
+{
+  "event_id" : "spotify:episode:1GAzyY0Z64eRF9xoqiY41t",
+  "category" : "podcast",
+  "name" : "Amouranth, Kanye West, Markiplier, BTS - H3TV #54",
+  "description" : "<p>Today we compete with Markiplier for top podcast spot using some...unorthodox...methods. We also discuss the horrifying situation with Amouranth, BTS joining the military, &amp; much more.</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "H3TV"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/1GAzyY0Z64eRF9xoqiY41t"
+    }
+  ],
+  "start_date" : 1666051200000,
+  "duration" : 11408640,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "mfischbach",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "ksiragusa",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "kwest",
+      "role" : "topic"
+    }
+  ],
+  "transcription" : null
+}

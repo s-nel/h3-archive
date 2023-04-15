@@ -1,0 +1,13 @@
+{
+  "person_id" : "ghanna",
+  "category" : "lore",
+  "first_name" : "Gabrielle",
+  "last_name" : "Hanna",
+  "display_name" : "Gabbie Hanna",
+  "thumb" : "/people/ghanna.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

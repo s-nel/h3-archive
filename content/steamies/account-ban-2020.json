@@ -1,0 +1,43 @@
+{
+  "steamy_id" : "account-ban-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "nperry"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mkirschner"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "hbeahm"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "cvail"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "tpaytas"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Account Ban of the Year",
+  "description" : null,
+  "year" : 2020
+}

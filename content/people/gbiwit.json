@@ -1,0 +1,13 @@
+{
+  "person_id" : "gbiwit",
+  "category" : "guest",
+  "first_name" : "Gabe",
+  "last_name" : "Biwit",
+  "display_name" : "White Claw Gabe",
+  "thumb" : "/people/gbiwit.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

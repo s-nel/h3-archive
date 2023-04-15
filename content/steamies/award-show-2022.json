@@ -1,0 +1,14 @@
+{
+  "steamy_id" : "award-show-2022",
+  "people" : [
+    {
+      "person_id" : [
+      ],
+      "name" : "The Streamies",
+      "won" : true
+    }
+  ],
+  "name" : "Worst Award Show",
+  "description" : null,
+  "year" : 2022
+}

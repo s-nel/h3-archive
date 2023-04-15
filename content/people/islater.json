@@ -1,0 +1,15 @@
+{
+  "person_id" : null,
+  "category" : "crew",
+  "first_name" : "Ian",
+  "last_name" : "Slater",
+  "display_name" : "Ian",
+  "thumb" : "/people/islater.jpg",
+  "description" : null,
+  "aliases" : [
+    "The Intern",
+    "The Salaried Employee"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

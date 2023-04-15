@@ -1,0 +1,13 @@
+{
+  "person_id" : "jpalmer",
+  "category" : "guest",
+  "first_name" : "Jackson",
+  "last_name" : "Palmer",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

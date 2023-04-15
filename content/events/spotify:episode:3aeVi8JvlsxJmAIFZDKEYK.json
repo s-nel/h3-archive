@@ -1,0 +1,64 @@
+{
+  "event_id" : "spotify:episode:3aeVi8JvlsxJmAIFZDKEYK",
+  "category" : "podcast",
+  "name" : "Terri Joe - H3 Podcast #268",
+  "description" : "<p>Today we have the incredibly talented TikTok superstar, Terri Joe! She joins us to discuss the holiness vs blasphemy of various things, and after she leaves we are joined by the mind behind the character, Kelon! He tells us all about his upbringing, conducting interviews with celebs, transitioning from a 9-5 to a full-time TikTok creator, and much more!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/iq9a-cP0T2g/default.jpg",
+  "tags" : [
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/3aeVi8JvlsxJmAIFZDKEYK"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/iq9a-cP0T2g"
+    }
+  ],
+  "start_date" : 1680908575000,
+  "duration" : 9073580,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

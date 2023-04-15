@@ -1,0 +1,47 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLnV2akxBbjZWbFVn",
+  "category" : "video",
+  "name" : "xtra rekt",
+  "description" : "Music by the king Holder: https://www.youtube.com/user/strangeholder",
+  "thumb" : "https://i.ytimg.com/vi/uvjLAn6VlUg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/uvjLAn6VlUg"
+    }
+  ],
+  "start_date" : 1408302986000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 30.0,
+        "text" : "",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.337393283843994,
+        "compression_ratio" : 0.0,
+        "no_speech_prob" : 0.4179137051105499
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "rgervais",
+  "category" : "lore",
+  "first_name" : "Ricky",
+  "last_name" : "Gervais",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

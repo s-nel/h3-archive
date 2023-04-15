@@ -1,0 +1,54 @@
+{
+  "steamy_id" : "brainrot-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "etate"
+      ],
+      "name" : "Andrew Tate innocent",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "hstyles",
+        "cpine"
+      ],
+      "name" : "Harry Styles spits on Chris Pine",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "crock",
+        "wsmith"
+      ],
+      "name" : "Will Smith Chris Rock slap",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mpete",
+        "dpeterson"
+      ],
+      "name" : "Megan Thee Stalion blamed for being shot by Tory Lanez",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdepp",
+        "aheard"
+      ],
+      "name" : "Johnny Depp v Amber Heard",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "emusk"
+      ],
+      "name" : "Elon Musk buys Twitter",
+      "won" : false
+    }
+  ],
+  "name" : "Worst Brainrot Discourse",
+  "description" : null,
+  "year" : 2022
+}

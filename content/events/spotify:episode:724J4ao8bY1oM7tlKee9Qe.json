@@ -1,0 +1,56 @@
+{
+  "event_id" : "spotify:episode:724J4ao8bY1oM7tlKee9Qe",
+  "category" : "podcast",
+  "name" : "Ethan Is Cancelled For Ben Shapiro Joke & Midterm Special Coverage - Leftovers #29",
+  "description" : "<p>Today, we debrief Ethan&#39;s latest cancellation by Ben Shapiro himself. It&#39;s also midterm time! We dig into the various elections around the country, &amp; much more!</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/724J4ao8bY1oM7tlKee9Qe"
+    }
+  ],
+  "start_date" : 1666224000000,
+  "duration" : 7211154,
+  "people" : [
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hpiker",
+      "role" : "host"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "bshapiro",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

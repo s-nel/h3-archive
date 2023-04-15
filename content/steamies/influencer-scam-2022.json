@@ -1,0 +1,42 @@
+{
+  "steamy_id" : "influencer-scam-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "tlopez"
+      ],
+      "name" : "Tai Lopez NFT hang out",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amaple"
+      ],
+      "name" : "Lana Rhoades NFT collection",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "pdenino"
+      ],
+      "name" : "CXCOIN",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : "CryptoZoo",
+      "won" : true
+    },
+    {
+      "person_id" : [
+      ],
+      "name" : "SafeMoon",
+      "won" : false
+    }
+  ],
+  "name" : "Worst Influencer Scam",
+  "description" : null,
+  "year" : 2022
+}

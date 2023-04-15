@@ -1,0 +1,388 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkx1RmhIOThET3dj",
+  "category" : "video",
+  "name" : "Ravioli Hungry Gold Digger Prank!! Ft. FilthyFrank",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/LuFhH98DOwc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/LuFhH98DOwc"
+    }
+  ],
+  "start_date" : 1453506738000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.04,
+        "text" : " Hey cutie how you doing? You look pretty good what's your name? I'm Ethan. Nice",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32112672275170345,
+        "compression_ratio" : 1.7003610108303249,
+        "no_speech_prob" : 0.5181165933609009
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.04,
+        "end" : 9.68,
+        "text" : " to see you. You look great. You look great. I wouldn't mind taking you out and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32112672275170345,
+        "compression_ratio" : 1.7003610108303249,
+        "no_speech_prob" : 0.5181165933609009
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.68,
+        "end" : 12.8,
+        "text" : " show you a good night on the town. You know what I'm saying? Okay really good night.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32112672275170345,
+        "compression_ratio" : 1.7003610108303249,
+        "no_speech_prob" : 0.5181165933609009
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 12.8,
+        "end" : 17.88,
+        "text" : " I'm gonna fucking tear that ass out. Sorry I have a boyfriend already. Oh yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32112672275170345,
+        "compression_ratio" : 1.7003610108303249,
+        "no_speech_prob" : 0.5181165933609009
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 17.88,
+        "end" : 21.66,
+        "text" : " you've got a boyfriend. Yeah yeah and I'm the Pope. Bitch you broke his",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32112672275170345,
+        "compression_ratio" : 1.7003610108303249,
+        "no_speech_prob" : 0.5181165933609009
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 21.66,
+        "end" : 26.44,
+        "text" : " hell one night. Oh man you. Alright I see how it is. I guess you're just not",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32112672275170345,
+        "compression_ratio" : 1.7003610108303249,
+        "no_speech_prob" : 0.5181165933609009
+      },
+      {
+        "id" : 6,
+        "seek" : 2644,
+        "start" : 26.44,
+        "end" : 31.86,
+        "text" : " interested in any of my Ravioli's then huh? Wait a minute. I didn't know about the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3549769062641238,
+        "compression_ratio" : 1.6422413793103448,
+        "no_speech_prob" : 0.072820283472538
+      },
+      {
+        "id" : 7,
+        "seek" : 2644,
+        "start" : 31.86,
+        "end" : 35.84,
+        "text" : " Ravioli. Oh you like that? Chef Boyardee huh? You like that? Yeah I like Chef.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3549769062641238,
+        "compression_ratio" : 1.6422413793103448,
+        "no_speech_prob" : 0.072820283472538
+      },
+      {
+        "id" : 8,
+        "seek" : 2644,
+        "start" : 35.84,
+        "end" : 39.96,
+        "text" : " Beef Ravioli tomato and meat sauce. You like that. Who? That gets you so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3549769062641238,
+        "compression_ratio" : 1.6422413793103448,
+        "no_speech_prob" : 0.072820283472538
+      },
+      {
+        "id" : 9,
+        "seek" : 2644,
+        "start" : 39.96,
+        "end" : 46.84,
+        "text" : " salivating done it. Not none for you. You Ravioli digging horn.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3549769062641238,
+        "compression_ratio" : 1.6422413793103448,
+        "no_speech_prob" : 0.072820283472538
+      },
+      {
+        "id" : 10,
+        "seek" : 2644,
+        "start" : 48.84,
+        "end" : 53.08,
+        "text" : " It's all mine. Come on man. This half of this could have been yours. I didn't know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3549769062641238,
+        "compression_ratio" : 1.6422413793103448,
+        "no_speech_prob" : 0.072820283472538
+      },
+      {
+        "id" : 11,
+        "seek" : 5308,
+        "start" : 53.08,
+        "end" : 58.44,
+        "text" : " about the Ravioli. That was now things different. Yeah. You're just like every",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132271426064627,
+        "compression_ratio" : 1.6569037656903767,
+        "no_speech_prob" : 0.019006604328751564
+      },
+      {
+        "id" : 12,
+        "seek" : 5308,
+        "start" : 58.44,
+        "end" : 62.84,
+        "text" : " other woman. I know exactly all the women just want my Ravioli's. They don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132271426064627,
+        "compression_ratio" : 1.6569037656903767,
+        "no_speech_prob" : 0.019006604328751564
+      },
+      {
+        "id" : 13,
+        "seek" : 5308,
+        "start" : 62.84,
+        "end" : 66.38,
+        "text" : " actually care about being with a cool good guy like me who respects women. You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132271426064627,
+        "compression_ratio" : 1.6569037656903767,
+        "no_speech_prob" : 0.019006604328751564
+      },
+      {
+        "id" : 14,
+        "seek" : 5308,
+        "start" : 66.38,
+        "end" : 71.08,
+        "text" : " fucking whore. Oh come on. The fruit was nice. The fruit was nice.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132271426064627,
+        "compression_ratio" : 1.6569037656903767,
+        "no_speech_prob" : 0.019006604328751564
+      },
+      {
+        "id" : 15,
+        "seek" : 5308,
+        "start" : 71.08,
+        "end" : 77.56,
+        "text" : " This shit's right. Bye. There goes another one. Can I get some of that? You want some of this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132271426064627,
+        "compression_ratio" : 1.6569037656903767,
+        "no_speech_prob" : 0.019006604328751564
+      },
+      {
+        "id" : 16,
+        "seek" : 7756,
+        "start" : 77.56,
+        "end" : 83.24,
+        "text" : " Yeah. Fuck no. You're a Ravioli digging horn. Here you want your Ravioli's?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2824632099696568,
+        "compression_ratio" : 1.5290697674418605,
+        "no_speech_prob" : 0.016027342528104782
+      },
+      {
+        "id" : 17,
+        "seek" : 7756,
+        "start" : 83.24,
+        "end" : 85.48,
+        "text" : " Yeah. Fuck you dude. Well.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2824632099696568,
+        "compression_ratio" : 1.5290697674418605,
+        "no_speech_prob" : 0.016027342528104782
+      },
+      {
+        "id" : 18,
+        "seek" : 7756,
+        "start" : 94.2,
+        "end" : 99.72,
+        "text" : " Only the good only the good ones get it by to my Ravioli's. So tell me about yourself.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2824632099696568,
+        "compression_ratio" : 1.5290697674418605,
+        "no_speech_prob" : 0.016027342528104782
+      },
+      {
+        "id" : 19,
+        "seek" : 7756,
+        "start" : 100.92,
+        "end" : 104.2,
+        "text" : " Well you like what do you like to do? I went to Arizona State University.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2824632099696568,
+        "compression_ratio" : 1.5290697674418605,
+        "no_speech_prob" : 0.016027342528104782
+      },
+      {
+        "id" : 20,
+        "seek" : 10420,
+        "start" : 104.92,
+        "end" : 111.0,
+        "text" : " That's a bit of school. Two white parents. That's a good school. I'm in a sorority.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3294631914160718,
+        "compression_ratio" : 1.4432432432432432,
+        "no_speech_prob" : 0.05277695134282112
+      },
+      {
+        "id" : 21,
+        "seek" : 10420,
+        "start" : 112.76,
+        "end" : 119.16,
+        "text" : " A really loud one. Nice. We don't understand volume. We do a lot of clapping.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3294631914160718,
+        "compression_ratio" : 1.4432432432432432,
+        "no_speech_prob" : 0.05277695134282112
+      },
+      {
+        "id" : 22,
+        "seek" : 10420,
+        "start" : 120.2,
+        "end" : 122.2,
+        "text" : " What's your, will you major in?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3294631914160718,
+        "compression_ratio" : 1.4432432432432432,
+        "no_speech_prob" : 0.05277695134282112
+      },
+      {
+        "id" : 23,
+        "seek" : 10420,
+        "start" : 125.8,
+        "end" : 132.84,
+        "text" : " Ravioli. That's a good major there, huh? At Arizona. Culinary Arts. Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3294631914160718,
+        "compression_ratio" : 1.4432432432432432,
+        "no_speech_prob" : 0.05277695134282112
+      },
+      {
+        "id" : 24,
+        "seek" : 13284,
+        "start" : 133.48,
+        "end" : 138.28,
+        "text" : " Chef Boyardy. Major in Chef Boyardy. Yeah. There you go. Oh thanks.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 25,
+        "seek" : 13284,
+        "start" : 138.28,
+        "end" : 141.4,
+        "text" : " Hey thanks for being a good sport. We're just doing a little prank here about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 26,
+        "seek" : 13284,
+        "start" : 141.4,
+        "end" : 144.68,
+        "text" : " Ravioli digging horse. I didn't mean to make you here. Here you go. Thanks.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 27,
+        "seek" : 13284,
+        "start" : 144.68,
+        "end" : 148.44,
+        "text" : " That's for your troubles. You got him. They got him good. Thanks for being a good sport.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 28,
+        "seek" : 13284,
+        "start" : 149.32,
+        "end" : 152.84,
+        "text" : " You'll find someone. You're a sweet girl. You'll find someone. You'll find someone to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 29,
+        "seek" : 13284,
+        "start" : 152.84,
+        "end" : 156.92,
+        "text" : " as long as you got someone out of Ravioli. You'll find anybody. I'm sick.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 30,
+        "seek" : 13284,
+        "start" : 158.12,
+        "end" : 162.36,
+        "text" : " Have a great day. You're beautiful. Don't let everyone tell you're not beautiful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20749568339413818,
+        "compression_ratio" : 1.943661971830986,
+        "no_speech_prob" : 0.01307639665901661
+      },
+      {
+        "id" : 31,
+        "seek" : 16284,
+        "start" : 162.84,
+        "end" : 167.48,
+        "text" : " You're a lovely girl. People like you a lot. Thanks, Saudi.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3538310653284976,
+        "compression_ratio" : 0.921875,
+        "no_speech_prob" : 0.0015164193464443088
+      }
+    ]
+  }
+}

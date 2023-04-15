@@ -1,0 +1,51 @@
+{
+  "steamy_id" : "redemption-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "tmongeau"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mmajlak"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jwittek"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "sdeleonardis"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "bmartyn"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom",
+        "cpaiz"
+      ],
+      "name" : "Ace Family after Ace Fest",
+      "won" : false
+    }
+  ],
+  "name" : "Greatest Redemption Arc",
+  "description" : null,
+  "year" : 2022
+}

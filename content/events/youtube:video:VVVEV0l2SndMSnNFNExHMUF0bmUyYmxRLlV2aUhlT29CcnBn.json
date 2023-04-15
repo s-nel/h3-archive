@@ -1,0 +1,157 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlV2aUhlT29CcnBn",
+  "category" : "video",
+  "name" : "jerk that meat boy - ft. ainsley harriott [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/UviHeOoBrpg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/UviHeOoBrpg"
+    }
+  ],
+  "start_date" : 1401301759000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.36,
+        "text" : " Wait, let me tell you about this chicken here already in here and I'm like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5005901240501083,
+        "compression_ratio" : 1.7566539923954372,
+        "no_speech_prob" : 0.344096302986145
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.08,
+        "end" : 9.98,
+        "text" : " We gotta got that jerk chicken. I look a real spiced spice life. I can make your kids come out not fine now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5005901240501083,
+        "compression_ratio" : 1.7566539923954372,
+        "no_speech_prob" : 0.344096302986145
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.98,
+        "end" : 14.96,
+        "text" : " Oh, you like that? You like to feel that smell good look good come down a little sour, but you know what's good for you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5005901240501083,
+        "compression_ratio" : 1.7566539923954372,
+        "no_speech_prob" : 0.344096302986145
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.96,
+        "end" : 24.8,
+        "text" : " You were gonna jerk that chicken to get one we're gonna just two old blocks round that the Bobby. Hi, we're gonna jerk that chicken",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5005901240501083,
+        "compression_ratio" : 1.7566539923954372,
+        "no_speech_prob" : 0.344096302986145
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 24.8,
+        "end" : 26.8,
+        "text" : " Give you me a good old whip",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5005901240501083,
+        "compression_ratio" : 1.7566539923954372,
+        "no_speech_prob" : 0.344096302986145
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 30.56,
+        "end" : 32.56,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5053430776127049,
+        "compression_ratio" : 1.871244635193133,
+        "no_speech_prob" : 0.004177389666438103
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 32.56,
+        "end" : 36.08,
+        "text" : " Made that edit about we gotta trick trick trick trick how much you give it to jerk?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5053430776127049,
+        "compression_ratio" : 1.871244635193133,
+        "no_speech_prob" : 0.004177389666438103
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 36.08,
+        "end" : 38.88,
+        "text" : " You're gonna give it a jerk, but you know what I mean? We're too broke to get a chicken",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5053430776127049,
+        "compression_ratio" : 1.871244635193133,
+        "no_speech_prob" : 0.004177389666438103
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 38.88,
+        "end" : 43.8,
+        "text" : " I oh, oh, what's that jerk? What's that chicken? I said jerked all by we're gonna bring that inside",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5053430776127049,
+        "compression_ratio" : 1.871244635193133,
+        "no_speech_prob" : 0.004177389666438103
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 43.8,
+        "end" : 48.48,
+        "text" : " We're gonna chuck it together. This is all spiced the spice right? I'm gonna jerk jerk jerk. We need to take it inside",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5053430776127049,
+        "compression_ratio" : 1.871244635193133,
+        "no_speech_prob" : 0.004177389666438103
+      },
+      {
+        "id" : 10,
+        "seek" : 3000,
+        "start" : 48.48,
+        "end" : 50.48,
+        "text" : " We're gonna chuck it to get it high. Yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5053430776127049,
+        "compression_ratio" : 1.871244635193133,
+        "no_speech_prob" : 0.004177389666438103
+      }
+    ]
+  }
+}

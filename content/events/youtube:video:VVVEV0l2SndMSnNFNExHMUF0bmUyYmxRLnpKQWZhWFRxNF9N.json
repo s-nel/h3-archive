@@ -1,0 +1,36 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnpKQWZhWFRxNF9N",
+  "category" : "video",
+  "name" : "The H3 Report Live -- Bill Nye, Techrax, Ethan Bradberry",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/zJAfaXTq4_M/default_live.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    },
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/zJAfaXTq4_M"
+    }
+  ],
+  "start_date" : 1496211287000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "rstarkey",
+  "category" : "lore",
+  "first_name" : "Richard",
+  "last_name" : "Starkey",
+  "display_name" : "Ringo Starr",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

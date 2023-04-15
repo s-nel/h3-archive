@@ -1,0 +1,14 @@
+{
+  "person_id" : null,
+  "category" : "crew",
+  "first_name" : "Love",
+  "last_name" : "",
+  "display_name" : "Love",
+  "thumb" : "/people/love.jpg",
+  "description" : null,
+  "aliases" : [
+    "YungFika"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

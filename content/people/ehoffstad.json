@@ -1,0 +1,14 @@
+{
+  "person_id" : "ehoffstad",
+  "category" : "guest",
+  "first_name" : "Erik",
+  "last_name" : "Hoffstad",
+  "display_name" : "Internet Comment Etiquette",
+  "thumb" : "/people/ehoffstad.jpg",
+  "description" : null,
+  "aliases" : [
+    "BigMoney Salvia"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

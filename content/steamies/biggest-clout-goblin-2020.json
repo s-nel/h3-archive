@@ -1,0 +1,50 @@
+{
+  "steamy_id" : "biggest-clout-goblin-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "ddamelio"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "athorne"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ebrown"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jpaul"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Clout Goblin",
+  "description" : null,
+  "year" : 2020
+}

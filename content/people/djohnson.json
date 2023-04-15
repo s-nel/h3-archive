@@ -1,0 +1,12 @@
+{
+  "person_id" : "djohnson",
+  "category" : "lore",
+  "first_name" : "Dwayne",
+  "last_name" : "Johnson",
+  "display_name" : null,
+  "thumb" : "/people/djohnson.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

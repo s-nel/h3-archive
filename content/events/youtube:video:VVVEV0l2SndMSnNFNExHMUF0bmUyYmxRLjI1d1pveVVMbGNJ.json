@@ -1,0 +1,652 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjI1d1pveVVMbGNJ",
+  "category" : "video",
+  "name" : "YouTube's New Program is Horrible",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/25wZoyULlcI/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/25wZoyULlcI"
+    }
+  ],
+  "start_date" : 1474584074000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.0,
+        "text" : " Welcome back guys to another episode of YouTube just fucked us in the ass and we all just need to love it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2661073496053507,
+        "compression_ratio" : 1.5761316872427984,
+        "no_speech_prob" : 0.07018821686506271
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 12.6,
+        "end" : 19.1,
+        "text" : " Hey what's up guys it's Scarie here and so you guys may have heard about this new program that YouTube unveiled yesterday called YouTube Heroes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2661073496053507,
+        "compression_ratio" : 1.5761316872427984,
+        "no_speech_prob" : 0.07018821686506271
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 19.1,
+        "end" : 26.1,
+        "text" : " I don't know why they made it sound like a shitty like a dance dance revolution game, but I assure you it's far less fun than that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2661073496053507,
+        "compression_ratio" : 1.5761316872427984,
+        "no_speech_prob" : 0.07018821686506271
+      },
+      {
+        "id" : 3,
+        "seek" : 2610,
+        "start" : 26.1,
+        "end" : 35.1,
+        "text" : " For those of you who have no idea at all what I'm talking about, there's an option on YouTube for users to flag a video for being inappropriate.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14531669397463745,
+        "compression_ratio" : 1.6075949367088607,
+        "no_speech_prob" : 0.13794107735157013
+      },
+      {
+        "id" : 4,
+        "seek" : 2610,
+        "start" : 35.1,
+        "end" : 49.1,
+        "text" : " And as a result of that you can get your video demonetized by having get age restricted so you can't make money on it or just remove completely and getting a community strike on your channel, three of which and your channel gets erased.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14531669397463745,
+        "compression_ratio" : 1.6075949367088607,
+        "no_speech_prob" : 0.13794107735157013
+      },
+      {
+        "id" : 5,
+        "seek" : 4910,
+        "start" : 49.1,
+        "end" : 76.6,
+        "text" : " So basically that has been a long standing problem in the YouTube community of people abusing those flags and there's been even groups of people like hundreds of people who will come together and be like hey I don't like this guy let's fuck them up and I'll collectively flag his videos and then YouTube as kind of a response to a red alert will just remove or age restrict their video without really looking into it and a lot of times incorrectly.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14065568165112569,
+        "compression_ratio" : 1.7099236641221374,
+        "no_speech_prob" : 0.17071734368801117
+      },
+      {
+        "id" : 6,
+        "seek" : 7660,
+        "start" : 76.6,
+        "end" : 87.1,
+        "text" : " And the way that they present it in the video is it seems like something out of a brave new world. It's like something out of communist Russia like hey spy on your neighbor guys let's watch this video.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20096088977570228,
+        "compression_ratio" : 1.4565217391304348,
+        "no_speech_prob" : 0.11270952969789505
+      },
+      {
+        "id" : 7,
+        "seek" : 8710,
+        "start" : 87.1,
+        "end" : 116.6,
+        "text" : " Becoming a hero level one. You guys you became a hero. Who are they? Who are they even appealing to fucking eight year olds? You guys can come become a hero by reporting videos that you disagree with on YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3144361924151985,
+        "compression_ratio" : 1.4755244755244756,
+        "no_speech_prob" : 0.5451321601867676
+      },
+      {
+        "id" : 8,
+        "seek" : 11710,
+        "start" : 117.1,
+        "end" : 138.6,
+        "text" : " Okay, so we've got level one becoming a hero. Join YouTube. God bless your hero now buddy. Step two learn more. Okay, watch a couple videos and then step three unlock super tools.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28867027976296167,
+        "compression_ratio" : 1.3161764705882353,
+        "no_speech_prob" : 0.027505232021212578
+      },
+      {
+        "id" : 9,
+        "seek" : 14710,
+        "start" : 147.1,
+        "end" : 161.1,
+        "text" : " Mass flag videos just like this guy's doing here check it out guys. Wow. Did you see he just one guy alone shut down this guy's YouTube channel. Fuck yeah dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21555036968655056,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.6293994188308716
+      },
+      {
+        "id" : 10,
+        "seek" : 14710,
+        "start" : 161.1,
+        "end" : 171.1,
+        "text" : " This is definitely what YouTube needs to bring the community together and not completely ruin it. This is probably the most haunting feature of this whole program.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21555036968655056,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.6293994188308716
+      },
+      {
+        "id" : 11,
+        "seek" : 17110,
+        "start" : 171.1,
+        "end" : 181.1,
+        "text" : " Why would anybody need that I mean mass flagging they're just begging people to abuse this shit they are massacres.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15663763192983773,
+        "compression_ratio" : 1.6629213483146068,
+        "no_speech_prob" : 0.3174884021282196
+      },
+      {
+        "id" : 12,
+        "seek" : 17110,
+        "start" : 181.1,
+        "end" : 200.1,
+        "text" : " Well anyway, this is why I'm making this video essentially because every time YouTube comes out with such a stupid idea I feel like we're obligated to just say hey YouTube. I love you buddy. He's like this friend who's like constantly drunk and you love him because you grew up with him and you're like I know you're a good guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15663763192983773,
+        "compression_ratio" : 1.6629213483146068,
+        "no_speech_prob" : 0.3174884021282196
+      },
+      {
+        "id" : 13,
+        "seek" : 20010,
+        "start" : 200.1,
+        "end" : 213.1,
+        "text" : " Somewhere deep down inside because I remember when we were friends we still have a great time and I'm not going to give up on you but you're always drunk. You're always starting shit. You're a man is to be around I can't stand you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16891417720101096,
+        "compression_ratio" : 1.6525821596244132,
+        "no_speech_prob" : 0.03370782732963562
+      },
+      {
+        "id" : 14,
+        "seek" : 20010,
+        "start" : 213.1,
+        "end" : 221.1,
+        "text" : " But I remember the good times it's what I'm always going to be here to try to help you guide you to to being well again.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16891417720101096,
+        "compression_ratio" : 1.6525821596244132,
+        "no_speech_prob" : 0.03370782732963562
+      },
+      {
+        "id" : 15,
+        "seek" : 22110,
+        "start" : 221.1,
+        "end" : 231.1,
+        "text" : " So I feel like YouTube is my best friend that I can't stand but I still love and it's just our obligation here to kind of take to not let our friends drive drunk.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12738879373140424,
+        "compression_ratio" : 1.7890625,
+        "no_speech_prob" : 0.6333398222923279
+      },
+      {
+        "id" : 16,
+        "seek" : 22110,
+        "start" : 231.1,
+        "end" : 238.1,
+        "text" : " So that's kind of the purpose of this video here today. Listen you've got to pay people that way they're impartial there's competent.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12738879373140424,
+        "compression_ratio" : 1.7890625,
+        "no_speech_prob" : 0.6333398222923279
+      },
+      {
+        "id" : 17,
+        "seek" : 22110,
+        "start" : 238.1,
+        "end" : 248.1,
+        "text" : " You can't recruit social justice whereas children's control to moderate YouTube for you need to pay people that way they're impartial and actually do a good job.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12738879373140424,
+        "compression_ratio" : 1.7890625,
+        "no_speech_prob" : 0.6333398222923279
+      },
+      {
+        "id" : 18,
+        "seek" : 24810,
+        "start" : 248.1,
+        "end" : 256.1,
+        "text" : " Thank you YouTube have a seat just have some water do have some water puke it out. Okay you'll be we'll get some pancakes in the morning it's going to be fine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2586653309483682,
+        "compression_ratio" : 1.5246913580246915,
+        "no_speech_prob" : 0.24931155145168304
+      },
+      {
+        "id" : 19,
+        "seek" : 24810,
+        "start" : 256.1,
+        "end" : 260.1,
+        "text" : " We'll just move on to your neck to the next weekend when this inevitably happens again.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2586653309483682,
+        "compression_ratio" : 1.5246913580246915,
+        "no_speech_prob" : 0.24931155145168304
+      },
+      {
+        "id" : 20,
+        "seek" : 26010,
+        "start" : 260.1,
+        "end" : 283.1,
+        "text" : " So this is what I love about different steps here where they reward them for essentially working them for them for free for longer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15158728895516232,
+        "compression_ratio" : 1.31,
+        "no_speech_prob" : 0.06410010159015656
+      },
+      {
+        "id" : 21,
+        "seek" : 28310,
+        "start" : 283.1,
+        "end" : 294.1,
+        "text" : " So you've got step three you can mass report step four you get to try new products step five you actually get to be a full time unpaid employee of Google.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10614534703696646,
+        "compression_ratio" : 1.5560747663551402,
+        "no_speech_prob" : 0.8063182234764099
+      },
+      {
+        "id" : 22,
+        "seek" : 28310,
+        "start" : 294.1,
+        "end" : 302.1,
+        "text" : " Step six you get to sit in the CEO's chair and basically oversee all the operations of the whole company 40 weeks per year.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10614534703696646,
+        "compression_ratio" : 1.5560747663551402,
+        "no_speech_prob" : 0.8063182234764099
+      },
+      {
+        "id" : 23,
+        "seek" : 28310,
+        "start" : 302.1,
+        "end" : 305.1,
+        "text" : " It's a really cool opportunity it's unpaid by the way.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10614534703696646,
+        "compression_ratio" : 1.5560747663551402,
+        "no_speech_prob" : 0.8063182234764099
+      },
+      {
+        "id" : 24,
+        "seek" : 30510,
+        "start" : 305.1,
+        "end" : 313.1,
+        "text" : " So I then step seven your consciousness is uploaded into the cloud where you will live eternally as the YouTube God.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1483040088560523,
+        "compression_ratio" : 1.5981735159817352,
+        "no_speech_prob" : 0.4125833511352539
+      },
+      {
+        "id" : 25,
+        "seek" : 30510,
+        "start" : 313.1,
+        "end" : 318.1,
+        "text" : " So there's some interesting incentives once you get a little higher up in the program.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1483040088560523,
+        "compression_ratio" : 1.5981735159817352,
+        "no_speech_prob" : 0.4125833511352539
+      },
+      {
+        "id" : 26,
+        "seek" : 30510,
+        "start" : 318.1,
+        "end" : 330.1,
+        "text" : " I mean you to me getting a lot of shit lately a lot of complaining a lot of hesitation and I know they're doing their best to try to make it work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1483040088560523,
+        "compression_ratio" : 1.5981735159817352,
+        "no_speech_prob" : 0.4125833511352539
+      },
+      {
+        "id" : 27,
+        "seek" : 33010,
+        "start" : 330.1,
+        "end" : 334.1,
+        "text" : " But this does not make sense.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11649033080699832,
+        "compression_ratio" : 1.674641148325359,
+        "no_speech_prob" : 0.4061008095741272
+      },
+      {
+        "id" : 28,
+        "seek" : 33010,
+        "start" : 334.1,
+        "end" : 346.1,
+        "text" : " I don't understand where you guys are coming from with this one here but if you are paying employees to come up with these ideas then I mean I don't know maybe unpaid employees is the way to I don't know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11649033080699832,
+        "compression_ratio" : 1.674641148325359,
+        "no_speech_prob" : 0.4061008095741272
+      },
+      {
+        "id" : 29,
+        "seek" : 33010,
+        "start" : 346.1,
+        "end" : 353.1,
+        "text" : " Somebody got paid to think of this idea and that to me is possibly more troubling and it got in this guy green lip.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11649033080699832,
+        "compression_ratio" : 1.674641148325359,
+        "no_speech_prob" : 0.4061008095741272
+      },
+      {
+        "id" : 30,
+        "seek" : 35310,
+        "start" : 353.1,
+        "end" : 357.1,
+        "text" : " Can we get the green light on the YouTube Heroes program?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 31,
+        "seek" : 35310,
+        "start" : 357.1,
+        "end" : 360.1,
+        "text" : " Yeah we're going to ruin everything for everybody.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 32,
+        "seek" : 35310,
+        "start" : 360.1,
+        "end" : 363.1,
+        "text" : " So let's set that up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 33,
+        "seek" : 35310,
+        "start" : 363.1,
+        "end" : 369.1,
+        "text" : " Everybody's going to love this program cut to the thumbs up like this ratio.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 34,
+        "seek" : 35310,
+        "start" : 369.1,
+        "end" : 371.1,
+        "text" : " That's a creator's dream right there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 35,
+        "seek" : 35310,
+        "start" : 371.1,
+        "end" : 375.1,
+        "text" : " That is every creator's dream to get it like ratio like that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 36,
+        "seek" : 35310,
+        "start" : 375.1,
+        "end" : 377.1,
+        "text" : " Well as a real dream.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15016955269707574,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.14877992868423462
+      },
+      {
+        "id" : 37,
+        "seek" : 37710,
+        "start" : 377.1,
+        "end" : 385.1,
+        "text" : " Also worth pointing out as one final point of irony is that YouTube disabled the comments on this video which kind of proves my point.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07357304671715045,
+        "compression_ratio" : 1.8584905660377358,
+        "no_speech_prob" : 0.6598654985427856
+      },
+      {
+        "id" : 38,
+        "seek" : 37710,
+        "start" : 385.1,
+        "end" : 396.1,
+        "text" : " These people commenting on your video that are so annoying you had to fucking censor them and disable the comments are the same people you're recruiting to flag my videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07357304671715045,
+        "compression_ratio" : 1.8584905660377358,
+        "no_speech_prob" : 0.6598654985427856
+      },
+      {
+        "id" : 39,
+        "seek" : 37710,
+        "start" : 396.1,
+        "end" : 400.1,
+        "text" : " Like do not see the fucking irony you disabled the comments.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07357304671715045,
+        "compression_ratio" : 1.8584905660377358,
+        "no_speech_prob" : 0.6598654985427856
+      },
+      {
+        "id" : 40,
+        "seek" : 37710,
+        "start" : 400.1,
+        "end" : 402.1,
+        "text" : " These are the same people.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07357304671715045,
+        "compression_ratio" : 1.8584905660377358,
+        "no_speech_prob" : 0.6598654985427856
+      },
+      {
+        "id" : 41,
+        "seek" : 40210,
+        "start" : 402.1,
+        "end" : 404.1,
+        "text" : " You know we don't want these people.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09258119352571256,
+        "compression_ratio" : 1.7657657657657657,
+        "no_speech_prob" : 0.09707757830619812
+      },
+      {
+        "id" : 42,
+        "seek" : 40210,
+        "start" : 404.1,
+        "end" : 413.1,
+        "text" : " That being said the program also rewards people who do close captioning and subtitles and I will say these people are actually heroes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09258119352571256,
+        "compression_ratio" : 1.7657657657657657,
+        "no_speech_prob" : 0.09707757830619812
+      },
+      {
+        "id" : 43,
+        "seek" : 40210,
+        "start" : 413.1,
+        "end" : 421.1,
+        "text" : " And I love the idea of rewarding these people who take actual time out of their day to make the community better.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09258119352571256,
+        "compression_ratio" : 1.7657657657657657,
+        "no_speech_prob" : 0.09707757830619812
+      },
+      {
+        "id" : 44,
+        "seek" : 40210,
+        "start" : 421.1,
+        "end" : 428.1,
+        "text" : " That is just a selfless act of kindness and I love and appreciate the people who take the time to do that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09258119352571256,
+        "compression_ratio" : 1.7657657657657657,
+        "no_speech_prob" : 0.09707757830619812
+      },
+      {
+        "id" : 45,
+        "seek" : 42810,
+        "start" : 428.1,
+        "end" : 437.1,
+        "text" : " But to put these actual heroes who do subtitles and close captioning on the same pedestal as someone who just fucking clicks a report button because they're angry is insane.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 46,
+        "seek" : 42810,
+        "start" : 437.1,
+        "end" : 441.1,
+        "text" : " So YouTube I guess in closing I'll see you next weekend.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 47,
+        "seek" : 42810,
+        "start" : 441.1,
+        "end" : 444.1,
+        "text" : " Same time same place you're gonna be fucking trash.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 48,
+        "seek" : 42810,
+        "start" : 444.1,
+        "end" : 446.1,
+        "text" : " It's a great happy hour around the corner.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 49,
+        "seek" : 42810,
+        "start" : 446.1,
+        "end" : 449.1,
+        "text" : " So we'll shop for one dollar you're gonna get way too drunk.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 50,
+        "seek" : 42810,
+        "start" : 449.1,
+        "end" : 450.1,
+        "text" : " I'm gonna take care of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 51,
+        "seek" : 42810,
+        "start" : 450.1,
+        "end" : 451.1,
+        "text" : " You're gonna tell me you hate me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 52,
+        "seek" : 42810,
+        "start" : 451.1,
+        "end" : 454.1,
+        "text" : " Okay. You can tell me all these terrible things but I love you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17459513728779957,
+        "compression_ratio" : 1.7123745819397993,
+        "no_speech_prob" : 0.06677665561437607
+      },
+      {
+        "id" : 53,
+        "seek" : 45410,
+        "start" : 454.1,
+        "end" : 461.1,
+        "text" : " Because you are my friend and I remember the good days and I know there's a good person in there and I will always love you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09937706659006518,
+        "compression_ratio" : 1.360655737704918,
+        "no_speech_prob" : 0.20133155584335327
+      },
+      {
+        "id" : 54,
+        "seek" : 45410,
+        "start" : 461.1,
+        "end" : 462.1,
+        "text" : " Thanks for watching guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09937706659006518,
+        "compression_ratio" : 1.360655737704918,
+        "no_speech_prob" : 0.20133155584335327
+      },
+      {
+        "id" : 55,
+        "seek" : 45410,
+        "start" : 462.1,
+        "end" : 463.1,
+        "text" : " Appreciate you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09937706659006518,
+        "compression_ratio" : 1.360655737704918,
+        "no_speech_prob" : 0.20133155584335327
+      }
+    ]
+  }
+}

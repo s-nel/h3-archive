@@ -1,0 +1,784 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkx4d2dOY0Rqc0NR",
+  "category" : "video",
+  "name" : "h3h3 prank call: Oops, tumbled ya! [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/LxwgNcDjsCQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/LxwgNcDjsCQ"
+    }
+  ],
+  "start_date" : 1400015828000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " In fact, my name is Liz. How can I help?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41604524188571507,
+        "compression_ratio" : 1.4758620689655173,
+        "no_speech_prob" : 0.42831698060035706
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 3.84,
+        "end" : 6.56,
+        "text" : " Hi, I appear my car is actually uh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41604524188571507,
+        "compression_ratio" : 1.4758620689655173,
+        "no_speech_prob" : 0.42831698060035706
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.88,
+        "end" : 11.52,
+        "text" : " My car. Yeah, I took a little tumble in my car",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41604524188571507,
+        "compression_ratio" : 1.4758620689655173,
+        "no_speech_prob" : 0.42831698060035706
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.84,
+        "end" : 16.88,
+        "text" : " Okay, can I have the your true name sir?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41604524188571507,
+        "compression_ratio" : 1.4758620689655173,
+        "no_speech_prob" : 0.42831698060035706
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 18.72,
+        "end" : 21.92,
+        "text" : " I'm sorry can I have your true name please sir",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41604524188571507,
+        "compression_ratio" : 1.4758620689655173,
+        "no_speech_prob" : 0.42831698060035706
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 24.64,
+        "end" : 26.64,
+        "text" : " Yes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41604524188571507,
+        "compression_ratio" : 1.4758620689655173,
+        "no_speech_prob" : 0.42831698060035706
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 32.0,
+        "text" : " I think I'll get a seat for that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 34.88,
+        "end" : 36.88,
+        "text" : " Sorry sir",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 37.2,
+        "end" : 42.88,
+        "text" : " I took a bit of a tumble. Yes, well can I have your true name so do you have a breakdown with your car?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 43.6,
+        "end" : 45.6,
+        "text" : " I'm trying I'm trying",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 10,
+        "seek" : 3000,
+        "start" : 46.32,
+        "end" : 48.32,
+        "text" : " It's Ben",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 11,
+        "seek" : 3000,
+        "start" : 48.8,
+        "end" : 50.8,
+        "text" : " Yeah, and your second name sir",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 12,
+        "seek" : 3000,
+        "start" : 51.2,
+        "end" : 53.2,
+        "text" : " Ben",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4524478382534451,
+        "compression_ratio" : 1.4324324324324325,
+        "no_speech_prob" : 0.003077128902077675
+      },
+      {
+        "id" : 13,
+        "seek" : 5320,
+        "start" : 53.44,
+        "end" : 55.44,
+        "text" : " Hmm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27825425260810444,
+        "compression_ratio" : 1.7150537634408602,
+        "no_speech_prob" : 0.002073615090921521
+      },
+      {
+        "id" : 14,
+        "seek" : 5320,
+        "start" : 59.44,
+        "end" : 61.44,
+        "text" : " Jefferies okay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27825425260810444,
+        "compression_ratio" : 1.7150537634408602,
+        "no_speech_prob" : 0.002073615090921521
+      },
+      {
+        "id" : 15,
+        "seek" : 5320,
+        "start" : 62.0,
+        "end" : 65.04,
+        "text" : " Okay, Mr. Jeffery can I have the registration of the vehicle please",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27825425260810444,
+        "compression_ratio" : 1.7150537634408602,
+        "no_speech_prob" : 0.002073615090921521
+      },
+      {
+        "id" : 16,
+        "seek" : 5320,
+        "start" : 66.16,
+        "end" : 72.32,
+        "text" : " Well, I can't see I'm a took a little tumble here and I can't get I can't get into the glove",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27825425260810444,
+        "compression_ratio" : 1.7150537634408602,
+        "no_speech_prob" : 0.002073615090921521
+      },
+      {
+        "id" : 17,
+        "seek" : 5320,
+        "start" : 73.2,
+        "end" : 75.2,
+        "text" : " Box because it'll the tumble",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27825425260810444,
+        "compression_ratio" : 1.7150537634408602,
+        "no_speech_prob" : 0.002073615090921521
+      },
+      {
+        "id" : 18,
+        "seek" : 5320,
+        "start" : 76.0,
+        "end" : 82.08,
+        "text" : " It's uh you won't need you won't need to get into the grab box to give me the registration of your vehicle sir",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27825425260810444,
+        "compression_ratio" : 1.7150537634408602,
+        "no_speech_prob" : 0.002073615090921521
+      },
+      {
+        "id" : 19,
+        "seek" : 8208,
+        "start" : 82.4,
+        "end" : 87.84,
+        "text" : " It's on the outside of the car. Oh, I see well that's also a bit of a problem because I'm actually",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 20,
+        "seek" : 8208,
+        "start" : 88.56,
+        "end" : 90.56,
+        "text" : " I'm a little bit above the ground",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 21,
+        "seek" : 8208,
+        "start" : 90.8,
+        "end" : 93.04,
+        "text" : " I don't believe that my that I can",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 22,
+        "seek" : 8208,
+        "start" : 93.84,
+        "end" : 96.64,
+        "text" : " If I get out the car, I'll probably won't be able to call you back ever",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 23,
+        "seek" : 8208,
+        "start" : 97.28,
+        "end" : 101.84,
+        "text" : " Let's put it that way and how would that be sir? Well, I'm in a tree",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 24,
+        "seek" : 8208,
+        "start" : 104.16,
+        "end" : 106.72,
+        "text" : " You're in a tree sir and where is your car?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 25,
+        "seek" : 8208,
+        "start" : 107.84,
+        "end" : 110.08,
+        "text" : " Well, it's in the tree. I'm took the tumble",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17338391273252426,
+        "compression_ratio" : 1.6779661016949152,
+        "no_speech_prob" : 0.004297446459531784
+      },
+      {
+        "id" : 26,
+        "seek" : 11008,
+        "start" : 110.16,
+        "end" : 114.16,
+        "text" : " In the tree okay, it's a bit of a tumble. Let me see if I can crawl back",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39389786720275877,
+        "compression_ratio" : 1.623456790123457,
+        "no_speech_prob" : 0.004034129902720451
+      },
+      {
+        "id" : 27,
+        "seek" : 11008,
+        "start" : 114.48,
+        "end" : 119.76,
+        "text" : " Let me try to call I'm gonna crawl back and see if I can take a look at the registration hang on one sec",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39389786720275877,
+        "compression_ratio" : 1.623456790123457,
+        "no_speech_prob" : 0.004034129902720451
+      },
+      {
+        "id" : 28,
+        "seek" : 11008,
+        "start" : 129.76,
+        "end" : 133.28,
+        "text" : " Okay, do you tell me what's my registration?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39389786720275877,
+        "compression_ratio" : 1.623456790123457,
+        "no_speech_prob" : 0.004034129902720451
+      },
+      {
+        "id" : 29,
+        "seek" : 11008,
+        "start" : 133.28,
+        "end" : 135.92,
+        "text" : " I'm back I can't see the back of the car",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39389786720275877,
+        "compression_ratio" : 1.623456790123457,
+        "no_speech_prob" : 0.004034129902720451
+      },
+      {
+        "id" : 30,
+        "seek" : 13592,
+        "start" : 136.32,
+        "end" : 138.32,
+        "text" : " sir",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 31,
+        "seek" : 13592,
+        "start" : 138.32,
+        "end" : 140.32,
+        "text" : " Oh the registration number",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 32,
+        "seek" : 13592,
+        "start" : 141.52,
+        "end" : 143.52,
+        "text" : " Are you okay sir?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 33,
+        "seek" : 13592,
+        "start" : 144.4,
+        "end" : 147.68,
+        "text" : " Sir yeah, I took a bit of a tumble",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 34,
+        "seek" : 13592,
+        "start" : 148.48,
+        "end" : 150.24,
+        "text" : " Do you want me to call an ambulance sir?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 35,
+        "seek" : 13592,
+        "start" : 150.96,
+        "end" : 156.64,
+        "text" : " Well, I've got the green piece on the phone. They're gonna help me. I think I'm okay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 36,
+        "seek" : 13592,
+        "start" : 156.8,
+        "end" : 159.84,
+        "text" : " If you could just read the registration number on the back to me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 37,
+        "seek" : 13592,
+        "start" : 160.8,
+        "end" : 162.8,
+        "text" : " What the fuck something there",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32357716030544703,
+        "compression_ratio" : 1.5353535353535352,
+        "no_speech_prob" : 0.03146747127175331
+      },
+      {
+        "id" : 38,
+        "seek" : 16280,
+        "start" : 163.76,
+        "end" : 166.24,
+        "text" : " I took a bit of a tumble",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3426358757949457,
+        "compression_ratio" : 1.5178571428571428,
+        "no_speech_prob" : 0.005405212752521038
+      },
+      {
+        "id" : 39,
+        "seek" : 16280,
+        "start" : 170.48,
+        "end" : 172.48,
+        "text" : " I tumbled it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3426358757949457,
+        "compression_ratio" : 1.5178571428571428,
+        "no_speech_prob" : 0.005405212752521038
+      },
+      {
+        "id" : 40,
+        "seek" : 16280,
+        "start" : 172.72,
+        "end" : 175.52,
+        "text" : " Damn son could you read the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3426358757949457,
+        "compression_ratio" : 1.5178571428571428,
+        "no_speech_prob" : 0.005405212752521038
+      },
+      {
+        "id" : 41,
+        "seek" : 16280,
+        "start" : 177.36,
+        "end" : 179.36,
+        "text" : " Set",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3426358757949457,
+        "compression_ratio" : 1.5178571428571428,
+        "no_speech_prob" : 0.005405212752521038
+      },
+      {
+        "id" : 42,
+        "seek" : 16280,
+        "start" : 180.0,
+        "end" : 184.0,
+        "text" : " Hey still there hold on what's that yes, I'm still here sir. I think he's gonna read me the number",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3426358757949457,
+        "compression_ratio" : 1.5178571428571428,
+        "no_speech_prob" : 0.005405212752521038
+      },
+      {
+        "id" : 43,
+        "seek" : 16280,
+        "start" : 184.56,
+        "end" : 189.2,
+        "text" : " Okay, I just bumped my head a little bit. So I'm a little okay, I hope you're okay sir",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3426358757949457,
+        "compression_ratio" : 1.5178571428571428,
+        "no_speech_prob" : 0.005405212752521038
+      },
+      {
+        "id" : 44,
+        "seek" : 18920,
+        "start" : 189.52,
+        "end" : 191.68,
+        "text" : " I think I'm okay. I just took a little bump",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 45,
+        "seek" : 18920,
+        "start" : 191.68,
+        "end" : 194.0,
+        "text" : " Oh, I'm glad you hear that when I tumbled",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 46,
+        "seek" : 18920,
+        "start" : 194.64,
+        "end" : 196.64,
+        "text" : " Okay, Harry I think he's helping me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 47,
+        "seek" : 18920,
+        "start" : 197.52,
+        "end" : 199.52,
+        "text" : " Yeah, read me the numbers, okay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 48,
+        "seek" : 18920,
+        "start" : 200.0,
+        "end" : 202.0,
+        "text" : " I think it's smashed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 49,
+        "seek" : 18920,
+        "start" : 203.12,
+        "end" : 205.12,
+        "text" : " Can you make any of it out?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 50,
+        "seek" : 18920,
+        "start" : 206.4,
+        "end" : 208.4,
+        "text" : " Uh, not really",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 51,
+        "seek" : 18920,
+        "start" : 209.68,
+        "end" : 211.68,
+        "text" : " So it's H2",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 52,
+        "seek" : 18920,
+        "start" : 212.72,
+        "end" : 213.92,
+        "text" : " H2",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 53,
+        "seek" : 18920,
+        "start" : 214.16,
+        "end" : 215.12,
+        "text" : " 3",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 54,
+        "seek" : 18920,
+        "start" : 215.12,
+        "end" : 215.92,
+        "text" : " 3",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42978492149939906,
+        "compression_ratio" : 1.3742690058479532,
+        "no_speech_prob" : 0.0055502625182271
+      },
+      {
+        "id" : 55,
+        "seek" : 21592,
+        "start" : 215.92,
+        "end" : 217.76,
+        "text" : " Okay, can you see the fourth one down there?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 56,
+        "seek" : 21592,
+        "start" : 219.28,
+        "end" : 221.28,
+        "text" : " The top book",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 57,
+        "seek" : 21592,
+        "start" : 223.28,
+        "end" : 225.28,
+        "text" : " Seven",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 58,
+        "seek" : 21592,
+        "start" : 225.28,
+        "end" : 226.48,
+        "text" : " Two C seven",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 59,
+        "seek" : 21592,
+        "start" : 226.48,
+        "end" : 227.44,
+        "text" : " Sixty-nine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 60,
+        "seek" : 21592,
+        "start" : 227.44,
+        "end" : 228.48,
+        "text" : " Lazy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 61,
+        "seek" : 21592,
+        "start" : 228.48,
+        "end" : 229.28,
+        "text" : " You just got",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 62,
+        "seek" : 21592,
+        "start" : 229.28,
+        "end" : 230.48,
+        "text" : " BOOOOOO",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 63,
+        "seek" : 21592,
+        "start" : 230.48,
+        "end" : 232.48,
+        "text" : " BOOOOOO",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 64,
+        "seek" : 21592,
+        "start" : 232.48,
+        "end" : 234.48,
+        "text" : " BOOOOOO",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 65,
+        "seek" : 21592,
+        "start" : 234.48,
+        "end" : 236.48,
+        "text" : " BOOOOOO",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 66,
+        "seek" : 21592,
+        "start" : 236.48,
+        "end" : 238.48,
+        "text" : " BOOOOOO",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      },
+      {
+        "id" : 67,
+        "seek" : 21592,
+        "start" : 238.48,
+        "end" : 240.48,
+        "text" : " BOOOOOO",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7394411828782823,
+        "compression_ratio" : 1.4074074074074074,
+        "no_speech_prob" : 0.001683677895925939
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "steamy_id" : "reverse-card-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "dpinsky"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "twestbrook"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mstauffer"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Uno Reverse Card",
+  "description" : null,
+  "year" : 2020
+}

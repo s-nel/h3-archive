@@ -1,0 +1,13 @@
+{
+  "person_id" : "manas",
+  "category" : "lore",
+  "first_name" : "Mutahar",
+  "last_name" : "Anas",
+  "display_name" : "SomeOrdinaryGamers",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,575 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkt6aDFZWk9EcFpZ",
+  "category" : "video",
+  "name" : "thank you youtube",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Kzh1YZODpZY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Kzh1YZODpZY"
+    }
+  ],
+  "start_date" : 1472515439000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.88,
+        "text" : " You know, we YouTubers give YouTube a lot of shit all the time because their copyright system is broken,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.88,
+        "end" : 10.0,
+        "text" : " their community, guidelines is inconsistent.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 14.36,
+        "text" : " It seems like all the time we're just giving YouTube so much shit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.36,
+        "end" : 21.0,
+        "text" : " But sometimes YouTube does something that is so cool, so unexpected, I'm just blown away.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 21.0,
+        "end" : 23.4,
+        "text" : " And that happened to me this week.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 23.4,
+        "end" : 25.0,
+        "text" : " I thought it was so cool.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 25.0,
+        "end" : 27.6,
+        "text" : " I just really wanted to make a video to talk about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2973692552098688,
+        "compression_ratio" : 1.688,
+        "no_speech_prob" : 0.21800510585308075
+      },
+      {
+        "id" : 7,
+        "seek" : 2760,
+        "start" : 27.6,
+        "end" : 30.6,
+        "text" : " So for a change, I can actually say, hey, you know what YouTube?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 8,
+        "seek" : 2760,
+        "start" : 30.6,
+        "end" : 32.4,
+        "text" : " You did something really dope.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 9,
+        "seek" : 2760,
+        "start" : 32.4,
+        "end" : 34.4,
+        "text" : " They didn't even advertise it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 10,
+        "seek" : 2760,
+        "start" : 34.4,
+        "end" : 35.8,
+        "text" : " It was very subtle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 11,
+        "seek" : 2760,
+        "start" : 35.8,
+        "end" : 37.6,
+        "text" : " It was just between me and them.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 12,
+        "seek" : 2760,
+        "start" : 37.6,
+        "end" : 43.6,
+        "text" : " And I feel like I have an obligation to give them the credit they deserve for doing something so great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 13,
+        "seek" : 2760,
+        "start" : 43.6,
+        "end" : 50.6,
+        "text" : " Now, what happened this week is that somebody filed a copyright take down on one of our videos.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 14,
+        "seek" : 2760,
+        "start" : 50.6,
+        "end" : 56.6,
+        "text" : " And I don't want to say who it was because I don't want to start a witch hunt or start hate on this person.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15389566643293515,
+        "compression_ratio" : 1.6564625850340136,
+        "no_speech_prob" : 0.035263095051050186
+      },
+      {
+        "id" : 15,
+        "seek" : 5660,
+        "start" : 56.6,
+        "end" : 58.6,
+        "text" : " I will say it wasn't one of the usual suspects.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 16,
+        "seek" : 5660,
+        "start" : 58.6,
+        "end" : 61.6,
+        "text" : " It wasn't so flow or anyone like that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 17,
+        "seek" : 5660,
+        "start" : 61.6,
+        "end" : 65.6,
+        "text" : " Sofo is actually a sweetheart about our newest video we posted yesterday.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 18,
+        "seek" : 5660,
+        "start" : 65.6,
+        "end" : 68.6,
+        "text" : " He sent me a nice tweet and I thought it was pretty dope.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 19,
+        "seek" : 5660,
+        "start" : 68.6,
+        "end" : 73.6,
+        "text" : " It was a classic reaction video that was requested to be removed about the person we made it about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 20,
+        "seek" : 5660,
+        "start" : 73.6,
+        "end" : 77.6,
+        "text" : " And YouTube sent me this email that blew me away.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 21,
+        "seek" : 5660,
+        "start" : 77.6,
+        "end" : 79.6,
+        "text" : " CopyrightatYouTube.com.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 22,
+        "seek" : 5660,
+        "start" : 79.6,
+        "end" : 82.6,
+        "text" : " I saw this in my email and I'm like, oh fuck, here we go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 23,
+        "seek" : 5660,
+        "start" : 82.6,
+        "end" : 84.6,
+        "text" : " Here we go again, right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 24,
+        "seek" : 5660,
+        "start" : 84.6,
+        "end" : 85.6,
+        "text" : " So here I'm going to read it to you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1306964329310826,
+        "compression_ratio" : 1.6897689768976898,
+        "no_speech_prob" : 0.03791987895965576
+      },
+      {
+        "id" : 25,
+        "seek" : 8560,
+        "start" : 85.6,
+        "end" : 89.6,
+        "text" : " We received the copyright infringement notification below regarding your video.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.06715480212507577,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.08249816298484802
+      },
+      {
+        "id" : 26,
+        "seek" : 8560,
+        "start" : 89.6,
+        "end" : 96.6,
+        "text" : " We believe your content is protected by fair use, fair dealing or similar exceptions to copyright protection.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.06715480212507577,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.08249816298484802
+      },
+      {
+        "id" : 27,
+        "seek" : 8560,
+        "start" : 96.6,
+        "end" : 100.6,
+        "text" : " We are writing to let you know we did not plan to remove your videos at this time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.06715480212507577,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.08249816298484802
+      },
+      {
+        "id" : 28,
+        "seek" : 8560,
+        "start" : 100.6,
+        "end" : 107.6,
+        "text" : " You have control over the ability of your videos on your channel, including the ability to delete them if you choose.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.06715480212507577,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.08249816298484802
+      },
+      {
+        "id" : 29,
+        "seek" : 8560,
+        "start" : 107.6,
+        "end" : 109.6,
+        "text" : " Crazy!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.06715480212507577,
+        "compression_ratio" : 1.6965811965811965,
+        "no_speech_prob" : 0.08249816298484802
+      },
+      {
+        "id" : 30,
+        "seek" : 10960,
+        "start" : 110.6,
+        "end" : 125.6,
+        "text" : " This was sent from copyrightatYouTube.com from their legal team, which means that they received a take down on a reaction video we made and made the decision to keep it up because they thought it was fair use.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15278965167784958,
+        "compression_ratio" : 1.5728155339805825,
+        "no_speech_prob" : 0.5081514716148376
+      },
+      {
+        "id" : 31,
+        "seek" : 10960,
+        "start" : 125.6,
+        "end" : 127.6,
+        "text" : " I have never seen that before.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15278965167784958,
+        "compression_ratio" : 1.5728155339805825,
+        "no_speech_prob" : 0.5081514716148376
+      },
+      {
+        "id" : 32,
+        "seek" : 10960,
+        "start" : 127.6,
+        "end" : 129.6,
+        "text" : " I was moved.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15278965167784958,
+        "compression_ratio" : 1.5728155339805825,
+        "no_speech_prob" : 0.5081514716148376
+      },
+      {
+        "id" : 33,
+        "seek" : 10960,
+        "start" : 129.6,
+        "end" : 130.6,
+        "text" : " I was moved, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15278965167784958,
+        "compression_ratio" : 1.5728155339805825,
+        "no_speech_prob" : 0.5081514716148376
+      },
+      {
+        "id" : 34,
+        "seek" : 10960,
+        "start" : 130.6,
+        "end" : 134.6,
+        "text" : " It's a simple little play, but it meant a lot to me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15278965167784958,
+        "compression_ratio" : 1.5728155339805825,
+        "no_speech_prob" : 0.5081514716148376
+      },
+      {
+        "id" : 35,
+        "seek" : 13460,
+        "start" : 134.6,
+        "end" : 141.6,
+        "text" : " It was a really beautiful thing for me to see YouTube coming out and protecting its users.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2155763970481025,
+        "compression_ratio" : 1.6823529411764706,
+        "no_speech_prob" : 0.7796854972839355
+      },
+      {
+        "id" : 36,
+        "seek" : 13460,
+        "start" : 141.6,
+        "end" : 146.6,
+        "text" : " It seemed like a small thing, but to me it seemed really cool.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2155763970481025,
+        "compression_ratio" : 1.6823529411764706,
+        "no_speech_prob" : 0.7796854972839355
+      },
+      {
+        "id" : 37,
+        "seek" : 13460,
+        "start" : 146.6,
+        "end" : 154.6,
+        "text" : " I felt obliged to tell you guys about this really cool thing YouTube did.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2155763970481025,
+        "compression_ratio" : 1.6823529411764706,
+        "no_speech_prob" : 0.7796854972839355
+      },
+      {
+        "id" : 38,
+        "seek" : 13460,
+        "start" : 154.6,
+        "end" : 156.6,
+        "text" : " Thank you YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2155763970481025,
+        "compression_ratio" : 1.6823529411764706,
+        "no_speech_prob" : 0.7796854972839355
+      },
+      {
+        "id" : 39,
+        "seek" : 13460,
+        "start" : 156.6,
+        "end" : 158.6,
+        "text" : " Thank you for doing this awesome thing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2155763970481025,
+        "compression_ratio" : 1.6823529411764706,
+        "no_speech_prob" : 0.7796854972839355
+      },
+      {
+        "id" : 40,
+        "seek" : 15860,
+        "start" : 158.6,
+        "end" : 162.6,
+        "text" : " I hope you keep it up and let me be the first one to say here on YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 41,
+        "seek" : 15860,
+        "start" : 162.6,
+        "end" : 164.6,
+        "text" : " Maybe the first person who has ever said this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 42,
+        "seek" : 15860,
+        "start" : 164.6,
+        "end" : 165.6,
+        "text" : " I'm proud of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 43,
+        "seek" : 15860,
+        "start" : 165.6,
+        "end" : 166.6,
+        "text" : " Keep it up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 44,
+        "seek" : 15860,
+        "start" : 166.6,
+        "end" : 167.6,
+        "text" : " Thank you YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 45,
+        "seek" : 15860,
+        "start" : 167.6,
+        "end" : 168.6,
+        "text" : " We appreciate you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 46,
+        "seek" : 15860,
+        "start" : 168.6,
+        "end" : 169.6,
+        "text" : " Guys, thanks for watching.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 47,
+        "seek" : 15860,
+        "start" : 169.6,
+        "end" : 176.6,
+        "text" : " Let's give thanks to this wonderful platform that we all love to shit on, but it's actually pretty dope.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      },
+      {
+        "id" : 48,
+        "seek" : 15860,
+        "start" : 176.6,
+        "end" : 177.6,
+        "text" : " Thank you YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13630871820931484,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.7677567601203918
+      }
+    ]
+  }
+}

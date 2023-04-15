@@ -1,0 +1,76 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmtHYVdIM1BrbjRZ",
+  "category" : "video",
+  "name" : "years ago exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/kGaWH3Pkn4Y/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/kGaWH3Pkn4Y"
+    }
+  ],
+  "start_date" : 1381003460000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.72,
+        "text" : " Just gonna think it out as a freestyle. Well, let me sit back. Go ahead Marshall. Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076570422150368,
+        "compression_ratio" : 1.3513513513513513,
+        "no_speech_prob" : 0.018414415419101715
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.08,
+        "end" : 19.84,
+        "text" : " Years ago they tried it. Years ago they tried to put me in the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076570422150368,
+        "compression_ratio" : 1.3513513513513513,
+        "no_speech_prob" : 0.018414415419101715
+      },
+      {
+        "id" : 2,
+        "seek" : 1984,
+        "start" : 19.84,
+        "end" : 26.8,
+        "text" : " ... This is a lie.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8784013366699219,
+        "compression_ratio" : 0.9875,
+        "no_speech_prob" : 0.0034664259292185307
+      },
+      {
+        "id" : 3,
+        "seek" : 1984,
+        "start" : 36.4,
+        "end" : 43.48,
+        "text" : " Did you want to try to reach something from your book? Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8784013366699219,
+        "compression_ratio" : 0.9875,
+        "no_speech_prob" : 0.0034664259292185307
+      }
+    ]
+  }
+}

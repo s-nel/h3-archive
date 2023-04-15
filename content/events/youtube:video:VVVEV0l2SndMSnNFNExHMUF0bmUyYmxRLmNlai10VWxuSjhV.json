@@ -1,0 +1,32 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmNlai10VWxuSjhV",
+  "category" : "video",
+  "name" : "Jeff Dunham: American Hero",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/cej-tUlnJ8U/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/cej-tUlnJ8U"
+    }
+  ],
+  "start_date" : 1383264710000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

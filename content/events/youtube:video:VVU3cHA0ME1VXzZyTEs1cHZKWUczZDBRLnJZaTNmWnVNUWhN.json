@@ -1,0 +1,432 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLnJZaTNmWnVNUWhN",
+  "category" : "video",
+  "name" : "The Jokes - The Worst Of Me",
+  "description" : "Lyrics:\n\nI get the best of you\nYou get the worst of me\nBaby I don't know how you're good all the time\nI give you misery\n\nI got a baby she's an angel on this Earth\nI got a baby full of loving and care\nI got a baby sees a man I never knew \nA man full of love and charm\nHe's a man of dedication and heart\nHe's a man I never knew but in the eyes of you, girl\n\nI get the best of you\nYou get the worst of me\nBaby I don't know how you're good all the time \nI give you misery\n\nI got a baby she's worth better than she's got\nI got a baby says I'm all that she wants\nI ask you baby do you really know your man?\nA man who's unworthy of you\nHe's a man I’ve always known and fought\nA man renewed in the eyes of you, girl\nBaby gonna break your heart\nBaby gonna break your\nheart, heart, heart, heart\n\nI get the best of you\nYou get the worst of me\nBaby I don't know how your'e good all the time\nI give you misery\n\nSo baby tell me are you happy with your choice\nYou say you love me I can hear it in your voice\nYou know I love you but i'm just so black and blue\nA women who's as true as you\nSent by the grace of God\nYou think I'm the man I'm not\nBaby gonna break your heart\nBaby gonna break your\nheart, heart, heart, heart\n\nI get the best of you\nYou get the worst of me",
+  "thumb" : "https://i.ytimg.com/vi/rYi3fZuMQhM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/rYi3fZuMQhM"
+    }
+  ],
+  "start_date" : 1601261470000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.0,
+        "text" : " I get the best of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.164433347767797,
+        "compression_ratio" : 1.325,
+        "no_speech_prob" : 0.19786658883094788
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 10.0,
+        "text" : " You get the worst of me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.164433347767797,
+        "compression_ratio" : 1.325,
+        "no_speech_prob" : 0.19786658883094788
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 15.0,
+        "text" : " Baby, I don't know how you're good all the time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.164433347767797,
+        "compression_ratio" : 1.325,
+        "no_speech_prob" : 0.19786658883094788
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 20.0,
+        "text" : " I give you misery.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.164433347767797,
+        "compression_ratio" : 1.325,
+        "no_speech_prob" : 0.19786658883094788
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 25.0,
+        "text" : " I got a baby, she's an angel on this earth.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.164433347767797,
+        "compression_ratio" : 1.325,
+        "no_speech_prob" : 0.19786658883094788
+      },
+      {
+        "id" : 5,
+        "seek" : 2500,
+        "start" : 26.0,
+        "end" : 31.0,
+        "text" : " I got a baby full of love in and care.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13065019775839412,
+        "compression_ratio" : 1.598360655737705,
+        "no_speech_prob" : 0.012241714634001255
+      },
+      {
+        "id" : 6,
+        "seek" : 2500,
+        "start" : 31.0,
+        "end" : 35.0,
+        "text" : " I got a baby, she's a man I never knew.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13065019775839412,
+        "compression_ratio" : 1.598360655737705,
+        "no_speech_prob" : 0.012241714634001255
+      },
+      {
+        "id" : 7,
+        "seek" : 2500,
+        "start" : 35.0,
+        "end" : 40.0,
+        "text" : " A man full of love in charm.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13065019775839412,
+        "compression_ratio" : 1.598360655737705,
+        "no_speech_prob" : 0.012241714634001255
+      },
+      {
+        "id" : 8,
+        "seek" : 2500,
+        "start" : 40.0,
+        "end" : 45.0,
+        "text" : " He's a man of dedication in heart.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13065019775839412,
+        "compression_ratio" : 1.598360655737705,
+        "no_speech_prob" : 0.012241714634001255
+      },
+      {
+        "id" : 9,
+        "seek" : 2500,
+        "start" : 45.0,
+        "end" : 51.0,
+        "text" : " He's a man I never knew but in the eyes of you girl.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13065019775839412,
+        "compression_ratio" : 1.598360655737705,
+        "no_speech_prob" : 0.012241714634001255
+      },
+      {
+        "id" : 10,
+        "seek" : 5100,
+        "start" : 51.0,
+        "end" : 56.0,
+        "text" : " I get the best of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.057123778230052887,
+        "compression_ratio" : 1.3553719008264462,
+        "no_speech_prob" : 0.011314986273646355
+      },
+      {
+        "id" : 11,
+        "seek" : 5100,
+        "start" : 56.0,
+        "end" : 61.0,
+        "text" : " You get the worst of me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.057123778230052887,
+        "compression_ratio" : 1.3553719008264462,
+        "no_speech_prob" : 0.011314986273646355
+      },
+      {
+        "id" : 12,
+        "seek" : 5100,
+        "start" : 61.0,
+        "end" : 66.0,
+        "text" : " Baby, I don't know how you're good all the time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.057123778230052887,
+        "compression_ratio" : 1.3553719008264462,
+        "no_speech_prob" : 0.011314986273646355
+      },
+      {
+        "id" : 13,
+        "seek" : 5100,
+        "start" : 66.0,
+        "end" : 71.0,
+        "text" : " I give you misery.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.057123778230052887,
+        "compression_ratio" : 1.3553719008264462,
+        "no_speech_prob" : 0.011314986273646355
+      },
+      {
+        "id" : 14,
+        "seek" : 5100,
+        "start" : 71.0,
+        "end" : 76.0,
+        "text" : " I got a baby, she's worth better than she's got.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.057123778230052887,
+        "compression_ratio" : 1.3553719008264462,
+        "no_speech_prob" : 0.011314986273646355
+      },
+      {
+        "id" : 15,
+        "seek" : 7600,
+        "start" : 76.0,
+        "end" : 81.0,
+        "text" : " I got a baby, she says I'm all that she wants.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12769498825073242,
+        "compression_ratio" : 1.4539007092198581,
+        "no_speech_prob" : 0.0020610184874385595
+      },
+      {
+        "id" : 16,
+        "seek" : 7600,
+        "start" : 81.0,
+        "end" : 85.0,
+        "text" : " I ask you baby, do you really know your man?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12769498825073242,
+        "compression_ratio" : 1.4539007092198581,
+        "no_speech_prob" : 0.0020610184874385595
+      },
+      {
+        "id" : 17,
+        "seek" : 7600,
+        "start" : 85.0,
+        "end" : 90.0,
+        "text" : " A man who's a worthy of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12769498825073242,
+        "compression_ratio" : 1.4539007092198581,
+        "no_speech_prob" : 0.0020610184874385595
+      },
+      {
+        "id" : 18,
+        "seek" : 7600,
+        "start" : 90.0,
+        "end" : 95.0,
+        "text" : " He's a man I've always known and fought.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12769498825073242,
+        "compression_ratio" : 1.4539007092198581,
+        "no_speech_prob" : 0.0020610184874385595
+      },
+      {
+        "id" : 19,
+        "seek" : 7600,
+        "start" : 95.0,
+        "end" : 101.0,
+        "text" : " He's a man renewed in the eyes of you girl.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12769498825073242,
+        "compression_ratio" : 1.4539007092198581,
+        "no_speech_prob" : 0.0020610184874385595
+      },
+      {
+        "id" : 20,
+        "seek" : 10100,
+        "start" : 101.0,
+        "end" : 106.0,
+        "text" : " A baby gonna break your heart.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08186845779418946,
+        "compression_ratio" : 1.6126126126126126,
+        "no_speech_prob" : 0.034371860325336456
+      },
+      {
+        "id" : 21,
+        "seek" : 10100,
+        "start" : 106.0,
+        "end" : 112.0,
+        "text" : " A baby gonna break your heart, heart, heart, heart.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08186845779418946,
+        "compression_ratio" : 1.6126126126126126,
+        "no_speech_prob" : 0.034371860325336456
+      },
+      {
+        "id" : 22,
+        "seek" : 10100,
+        "start" : 112.0,
+        "end" : 117.0,
+        "text" : " I get the best of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08186845779418946,
+        "compression_ratio" : 1.6126126126126126,
+        "no_speech_prob" : 0.034371860325336456
+      },
+      {
+        "id" : 23,
+        "seek" : 10100,
+        "start" : 117.0,
+        "end" : 122.0,
+        "text" : " You get the worst of me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08186845779418946,
+        "compression_ratio" : 1.6126126126126126,
+        "no_speech_prob" : 0.034371860325336456
+      },
+      {
+        "id" : 24,
+        "seek" : 10100,
+        "start" : 122.0,
+        "end" : 127.0,
+        "text" : " Baby, I don't know how you're good all the time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08186845779418946,
+        "compression_ratio" : 1.6126126126126126,
+        "no_speech_prob" : 0.034371860325336456
+      },
+      {
+        "id" : 25,
+        "seek" : 12700,
+        "start" : 127.0,
+        "end" : 132.0,
+        "text" : " I give you misery.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059840220393556534,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.010914327576756477
+      },
+      {
+        "id" : 26,
+        "seek" : 12700,
+        "start" : 132.0,
+        "end" : 137.0,
+        "text" : " So baby, tell me are you happy with your choice?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059840220393556534,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.010914327576756477
+      },
+      {
+        "id" : 27,
+        "seek" : 12700,
+        "start" : 137.0,
+        "end" : 142.0,
+        "text" : " You say you love me, I can hear it in your voice.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059840220393556534,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.010914327576756477
+      },
+      {
+        "id" : 28,
+        "seek" : 12700,
+        "start" : 142.0,
+        "end" : 147.0,
+        "text" : " You know I love you but I'm just so black and blue.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059840220393556534,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.010914327576756477
+      },
+      {
+        "id" : 29,
+        "seek" : 12700,
+        "start" : 147.0,
+        "end" : 152.0,
+        "text" : " A woman who's as true as you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059840220393556534,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.010914327576756477
+      },
+      {
+        "id" : 30,
+        "seek" : 15200,
+        "start" : 152.0,
+        "end" : 157.0,
+        "text" : " Send by the grace of God.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12963991834406266,
+        "compression_ratio" : 1.518181818181818,
+        "no_speech_prob" : 0.023233022540807724
+      },
+      {
+        "id" : 31,
+        "seek" : 15200,
+        "start" : 157.0,
+        "end" : 164.0,
+        "text" : " You think I'm the man I'm not not my baby.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12963991834406266,
+        "compression_ratio" : 1.518181818181818,
+        "no_speech_prob" : 0.023233022540807724
+      },
+      {
+        "id" : 32,
+        "seek" : 15200,
+        "start" : 164.0,
+        "end" : 168.0,
+        "text" : " Gonna break your heart.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12963991834406266,
+        "compression_ratio" : 1.518181818181818,
+        "no_speech_prob" : 0.023233022540807724
+      },
+      {
+        "id" : 33,
+        "seek" : 15200,
+        "start" : 168.0,
+        "end" : 174.0,
+        "text" : " A baby gonna break your heart, heart, heart, heart.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12963991834406266,
+        "compression_ratio" : 1.518181818181818,
+        "no_speech_prob" : 0.023233022540807724
+      },
+      {
+        "id" : 34,
+        "seek" : 15200,
+        "start" : 174.0,
+        "end" : 179.0,
+        "text" : " I get the best of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12963991834406266,
+        "compression_ratio" : 1.518181818181818,
+        "no_speech_prob" : 0.023233022540807724
+      },
+      {
+        "id" : 35,
+        "seek" : 17900,
+        "start" : 179.0,
+        "end" : 184.0,
+        "text" : " You get the worst of me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14350764751434325,
+        "compression_ratio" : 0.75,
+        "no_speech_prob" : 0.06401896476745605
+      }
+    ]
+  }
+}

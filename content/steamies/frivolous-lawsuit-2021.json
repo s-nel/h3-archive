@@ -1,0 +1,40 @@
+{
+  "steamy_id" : "frivolous-lawsuit-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "eklein",
+        "rkavanaugh"
+      ],
+      "name" : "Triller v Ethan Klein - Copyright Infringement",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein",
+        "rkavanaugh"
+      ],
+      "name" : "Triller v Ethan Klein - Tortious Interference",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein",
+        "rkavanaugh"
+      ],
+      "name" : "Triller v Ethan Klein - Website Cyber-squatting",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein",
+        "rkavanaugh"
+      ],
+      "name" : "Triller v Ethan Klein - Defamation",
+      "won" : true
+    }
+  ],
+  "name" : "Most Frivolous Lawsuit",
+  "description" : null,
+  "year" : 2021
+}

@@ -1,0 +1,65 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjB1Qk1ESjVRbEFF",
+  "category" : "video",
+  "name" : "hiphop exe has stopped��� working [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/0uBMDJ5QlAE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/0uBMDJ5QlAE"
+    }
+  ],
+  "start_date" : 1368136478000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.28,
+        "text" : " Boom boom boom boom Hurry Everyone Prays",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.8128957748413086,
+        "compression_ratio" : 3.0408163265306123,
+        "no_speech_prob" : 0.1544390469789505
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 9.18,
+        "end" : 13.92,
+        "text" : " Ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma?",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.8128957748413086,
+        "compression_ratio" : 3.0408163265306123,
+        "no_speech_prob" : 0.1544390469789505
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 14.26,
+        "end" : 14.82,
+        "text" : " WHAT?",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.8128957748413086,
+        "compression_ratio" : 3.0408163265306123,
+        "no_speech_prob" : 0.1544390469789505
+      }
+    ]
+  }
+}

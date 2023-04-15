@@ -1,0 +1,32 @@
+{
+  "steamy_id" : "murder-friend-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "ddobrik",
+        "jwittek"
+      ],
+      "name" : "David almost kills Jeff on the excavator",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "nphillippi",
+        "dphillippi"
+      ],
+      "name" : "Phillippis put down their dog",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "bhall",
+        "yerakat"
+      ],
+      "name" : "Bryce Hall knocks out Fouseytube",
+      "won" : false
+    }
+  ],
+  "name" : "Best Attempt at Murdering Your Friend",
+  "description" : null,
+  "year" : 2021
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "jsmith2",
+  "category" : "lore",
+  "first_name" : "Jada Pinkett",
+  "last_name" : "Smith",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

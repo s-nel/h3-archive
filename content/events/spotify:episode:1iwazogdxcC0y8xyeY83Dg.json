@@ -1,0 +1,36 @@
+{
+  "event_id" : "spotify:episode:1iwazogdxcC0y8xyeY83Dg",
+  "category" : "podcast",
+  "name" : "#37 - Jordan Peterson",
+  "description" : "<p>Jordan Peterson joins us to today to discuss EVERYTHING!</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/1iwazogdxcC0y8xyeY83Dg"
+    }
+  ],
+  "start_date" : 1509667200000,
+  "duration" : 8257332,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "jpeterson",
+      "role" : "guest"
+    }
+  ],
+  "transcription" : null
+}

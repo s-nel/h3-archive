@@ -1,0 +1,861 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkJDbGRhb3JNUlpF",
+  "category" : "video",
+  "name" : "Big Game, Little Penis (Cecil the Lion)",
+  "description" : "Dr. Walter J. Palmer is the ULTIMATE HUNTER, he killed Zimbabwe's national treasure, Cecil the Lion. Good work bud.",
+  "thumb" : "https://i.ytimg.com/vi/BCldaorMRZE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/BCldaorMRZE"
+    }
+  ],
+  "start_date" : 1438232347000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.12,
+        "text" : " Big Game Little Piness, that's the title of today's vlog and we're talking about Cecil the Lion",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3263761229434256,
+        "compression_ratio" : 1.759581881533101,
+        "no_speech_prob" : 0.33316272497177124
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.12,
+        "end" : 11.96,
+        "text" : " I think probably everyone in the country everyone in the world knows about Cecil the Lion",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3263761229434256,
+        "compression_ratio" : 1.759581881533101,
+        "no_speech_prob" : 0.33316272497177124
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 11.96,
+        "end" : 16.24,
+        "text" : " Which is funny and a little bit ironic I find it for I tell them to talk about this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3263761229434256,
+        "compression_ratio" : 1.759581881533101,
+        "no_speech_prob" : 0.33316272497177124
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 16.24,
+        "end" : 23.24,
+        "text" : " I do find it a little ironic that everybody is so fucking upset about this lion being killed and meanwhile",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3263761229434256,
+        "compression_ratio" : 1.759581881533101,
+        "no_speech_prob" : 0.33316272497177124
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 23.24,
+        "end" : 28.7,
+        "text" : " There's just like so many terrible things happening in the world. I mean for example Adam Sandler just came out with a new movie",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3263761229434256,
+        "compression_ratio" : 1.759581881533101,
+        "no_speech_prob" : 0.33316272497177124
+      },
+      {
+        "id" : 5,
+        "seek" : 2870,
+        "start" : 29.62,
+        "end" : 34.24,
+        "text" : " Nobody's talking about Adam Sandler's new movie and how that's a travesty pixel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 6,
+        "seek" : 2870,
+        "start" : 34.82,
+        "end" : 40.46,
+        "text" : " My jet thumbs still on television and we're talking about Cecil like that's the biggest tragedy at the last decade or something",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 7,
+        "seek" : 2870,
+        "start" : 40.66,
+        "end" : 41.74,
+        "text" : " well",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 8,
+        "seek" : 2870,
+        "start" : 41.74,
+        "end" : 46.3,
+        "text" : " It's not but it does still suck because who don't know this fucking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 9,
+        "seek" : 2870,
+        "start" : 46.94,
+        "end" : 48.06,
+        "text" : " this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 10,
+        "seek" : 2870,
+        "start" : 48.06,
+        "end" : 49.26,
+        "text" : " Doctor",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 11,
+        "seek" : 2870,
+        "start" : 49.26,
+        "end" : 56.26,
+        "text" : " Dentist from Minnesota pay $50,000 to go hunt a lion and that premise isn't that unusual in Africa",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3427096829556002,
+        "compression_ratio" : 1.5454545454545454,
+        "no_speech_prob" : 0.01841193065047264
+      },
+      {
+        "id" : 12,
+        "seek" : 5626,
+        "start" : 56.26,
+        "end" : 59.06,
+        "text" : " It happens all the time where rich ass people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 13,
+        "seek" : 5626,
+        "start" : 59.74,
+        "end" : 64.96,
+        "text" : " By a license to hunt an endangered animal and then their money goes towards",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 14,
+        "seek" : 5626,
+        "start" : 65.98,
+        "end" : 67.98,
+        "text" : " conserving the wildlife",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 15,
+        "seek" : 5626,
+        "start" : 69.54,
+        "end" : 72.94,
+        "text" : " Whether or not the money actually goes through towards conserving the wildlife",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 16,
+        "seek" : 5626,
+        "start" : 72.94,
+        "end" : 76.62,
+        "text" : " I don't know but it the fact is that it's legal. Well, this guy went to Africa",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 17,
+        "seek" : 5626,
+        "start" : 77.7,
+        "end" : 79.7,
+        "text" : " baited a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 18,
+        "seek" : 5626,
+        "start" : 79.7,
+        "end" : 83.5,
+        "text" : " National treasure. This is like a famous lion that was being you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32421814127171295,
+        "compression_ratio" : 1.646551724137931,
+        "no_speech_prob" : 0.00789550505578518
+      },
+      {
+        "id" : 19,
+        "seek" : 8350,
+        "start" : 83.66,
+        "end" : 87.18,
+        "text" : " Tracked and studied and beloved by people and photographed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.287898235633725,
+        "compression_ratio" : 1.7813620071684588,
+        "no_speech_prob" : 0.017472729086875916
+      },
+      {
+        "id" : 20,
+        "seek" : 8350,
+        "start" : 87.46,
+        "end" : 93.18,
+        "text" : " Apparently he was a really nice lion. He didn't like trouble people people could like just photograph him and his family and he didn't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.287898235633725,
+        "compression_ratio" : 1.7813620071684588,
+        "no_speech_prob" : 0.017472729086875916
+      },
+      {
+        "id" : 21,
+        "seek" : 8350,
+        "start" : 93.46,
+        "end" : 100.1,
+        "text" : " He was cool. He was a cool lion, dude Cecil. He was a cool ass lion. This is something about the story too that pissed me up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.287898235633725,
+        "compression_ratio" : 1.7813620071684588,
+        "no_speech_prob" : 0.017472729086875916
+      },
+      {
+        "id" : 22,
+        "seek" : 8350,
+        "start" : 100.58,
+        "end" : 104.18,
+        "text" : " They do is like I shot him with a bone arrow dude. I'm a fucking hunter",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.287898235633725,
+        "compression_ratio" : 1.7813620071684588,
+        "no_speech_prob" : 0.017472729086875916
+      },
+      {
+        "id" : 23,
+        "seek" : 8350,
+        "start" : 104.62,
+        "end" : 111.3,
+        "text" : " The only reason people use bone arrows is because it's less noisy and and it doesn't alert the park ranger",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.287898235633725,
+        "compression_ratio" : 1.7813620071684588,
+        "no_speech_prob" : 0.017472729086875916
+      },
+      {
+        "id" : 24,
+        "seek" : 11130,
+        "start" : 111.3,
+        "end" : 116.9,
+        "text" : " It doesn't make you more of a fucking badass. Have you seen these bone arrows lately? It's like it's like a fucking gun",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3057208177520008,
+        "compression_ratio" : 1.9076305220883534,
+        "no_speech_prob" : 0.0018961757887154818
+      },
+      {
+        "id" : 25,
+        "seek" : 11130,
+        "start" : 116.9,
+        "end" : 121.9,
+        "text" : " It's basically a guy. It doesn't take skill dude. It's like this crazy thing with all these wires and shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3057208177520008,
+        "compression_ratio" : 1.9076305220883534,
+        "no_speech_prob" : 0.0018961757887154818
+      },
+      {
+        "id" : 26,
+        "seek" : 11130,
+        "start" : 121.9,
+        "end" : 123.9,
+        "text" : " It's just like oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3057208177520008,
+        "compression_ratio" : 1.9076305220883534,
+        "no_speech_prob" : 0.0018961757887154818
+      },
+      {
+        "id" : 27,
+        "seek" : 11130,
+        "start" : 123.9,
+        "end" : 129.42,
+        "text" : " skilled huh skilled huh. It's like a fucking gun dude. It's not any different. It's just less noisy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3057208177520008,
+        "compression_ratio" : 1.9076305220883534,
+        "no_speech_prob" : 0.0018961757887154818
+      },
+      {
+        "id" : 28,
+        "seek" : 11130,
+        "start" : 130.26,
+        "end" : 131.54,
+        "text" : " That's still doing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3057208177520008,
+        "compression_ratio" : 1.9076305220883534,
+        "no_speech_prob" : 0.0018961757887154818
+      },
+      {
+        "id" : 29,
+        "seek" : 11130,
+        "start" : 131.54,
+        "end" : 139.9,
+        "text" : " So the so he's this fucking badass hunter the dentist from Minnesota shot him with an arrow the lion didn't die",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3057208177520008,
+        "compression_ratio" : 1.9076305220883534,
+        "no_speech_prob" : 0.0018961757887154818
+      },
+      {
+        "id" : 30,
+        "seek" : 13990,
+        "start" : 140.78,
+        "end" : 145.5,
+        "text" : " So they're like you know what let's take let's go to sleep because it's kind of late and look look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2955293170476364,
+        "compression_ratio" : 1.7418032786885247,
+        "no_speech_prob" : 0.006471608765423298
+      },
+      {
+        "id" : 31,
+        "seek" : 13990,
+        "start" : 146.22,
+        "end" : 149.06,
+        "text" : " Look, dude. It's kind of late. Okay. I need drinks and fucking tea",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2955293170476364,
+        "compression_ratio" : 1.7418032786885247,
+        "no_speech_prob" : 0.006471608765423298
+      },
+      {
+        "id" : 32,
+        "seek" : 13990,
+        "start" : 149.26,
+        "end" : 155.38,
+        "text" : " Okay, have some biscuits and have a good night sleep. Okay. Yeah, I know him on an Africa",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2955293170476364,
+        "compression_ratio" : 1.7418032786885247,
+        "no_speech_prob" : 0.006471608765423298
+      },
+      {
+        "id" : 33,
+        "seek" : 13990,
+        "start" : 155.38,
+        "end" : 159.54,
+        "text" : " But come on I that's no substitute for a good night sleep, right? I'm a dentist from Minnesota",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2955293170476364,
+        "compression_ratio" : 1.7418032786885247,
+        "no_speech_prob" : 0.006471608765423298
+      },
+      {
+        "id" : 34,
+        "seek" : 13990,
+        "start" : 159.54,
+        "end" : 161.54,
+        "text" : " I need a good night's sleep",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2955293170476364,
+        "compression_ratio" : 1.7418032786885247,
+        "no_speech_prob" : 0.006471608765423298
+      },
+      {
+        "id" : 35,
+        "seek" : 13990,
+        "start" : 161.54,
+        "end" : 164.76,
+        "text" : " So they go to sleep and then the next day they",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2955293170476364,
+        "compression_ratio" : 1.7418032786885247,
+        "no_speech_prob" : 0.006471608765423298
+      },
+      {
+        "id" : 36,
+        "seek" : 16476,
+        "start" : 164.76,
+        "end" : 169.84,
+        "text" : " Track the blood trail of the lion 40 hours after they shot him with the bone arrow",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2712064243498303,
+        "compression_ratio" : 1.5874439461883407,
+        "no_speech_prob" : 0.00634822528809309
+      },
+      {
+        "id" : 37,
+        "seek" : 16476,
+        "start" : 169.84,
+        "end" : 176.24,
+        "text" : " They finished the hunt by shooting the injured lion with a rifle and cutting his head off",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2712064243498303,
+        "compression_ratio" : 1.5874439461883407,
+        "no_speech_prob" : 0.00634822528809309
+      },
+      {
+        "id" : 38,
+        "seek" : 16476,
+        "start" : 176.56,
+        "end" : 184.08,
+        "text" : " Skinning him and leaving his mingled corpse on the ground and by the way if these guys were so concerned about killing a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2712064243498303,
+        "compression_ratio" : 1.5874439461883407,
+        "no_speech_prob" : 0.00634822528809309
+      },
+      {
+        "id" : 39,
+        "seek" : 16476,
+        "start" : 185.32,
+        "end" : 188.96,
+        "text" : " National treasure Cecil the lion. He was a chorus lion, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2712064243498303,
+        "compression_ratio" : 1.5874439461883407,
+        "no_speech_prob" : 0.00634822528809309
+      },
+      {
+        "id" : 40,
+        "seek" : 18896,
+        "start" : 188.96,
+        "end" : 194.84,
+        "text" : " They tried to destroy the tracking thing not exactly the move of a clean conscious",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3237420595609225,
+        "compression_ratio" : 1.7198275862068966,
+        "no_speech_prob" : 0.019205817952752113
+      },
+      {
+        "id" : 41,
+        "seek" : 18896,
+        "start" : 195.12,
+        "end" : 201.5,
+        "text" : " Individual this was another lion. I guess here they put another lion like making love with his wife just to make it seem more",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3237420595609225,
+        "compression_ratio" : 1.7198275862068966,
+        "no_speech_prob" : 0.019205817952752113
+      },
+      {
+        "id" : 42,
+        "seek" : 18896,
+        "start" : 202.28,
+        "end" : 205.48,
+        "text" : " emotional this one this one actually was was",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3237420595609225,
+        "compression_ratio" : 1.7198275862068966,
+        "no_speech_prob" : 0.019205817952752113
+      },
+      {
+        "id" : 43,
+        "seek" : 18896,
+        "start" : 206.84,
+        "end" : 212.56,
+        "text" : " This one made me feel at worst like this beautiful leopard and your fucking crossboats like dog",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3237420595609225,
+        "compression_ratio" : 1.7198275862068966,
+        "no_speech_prob" : 0.019205817952752113
+      },
+      {
+        "id" : 44,
+        "seek" : 18896,
+        "start" : 212.84,
+        "end" : 215.4,
+        "text" : " You're not that dope. You're not a fucking hunter",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3237420595609225,
+        "compression_ratio" : 1.7198275862068966,
+        "no_speech_prob" : 0.019205817952752113
+      },
+      {
+        "id" : 45,
+        "seek" : 21540,
+        "start" : 215.4,
+        "end" : 222.38,
+        "text" : " You're not tracking him in the woods spending like you're not spending months and the forest like tracking his paws and shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23945773275274979,
+        "compression_ratio" : 1.8287461773700306,
+        "no_speech_prob" : 0.006457849405705929
+      },
+      {
+        "id" : 46,
+        "seek" : 21540,
+        "start" : 222.38,
+        "end" : 227.52,
+        "text" : " Like searching him out. You're just rolling around in a Jeep with a bunch of fucking assholes with rifles",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23945773275274979,
+        "compression_ratio" : 1.8287461773700306,
+        "no_speech_prob" : 0.006457849405705929
+      },
+      {
+        "id" : 47,
+        "seek" : 21540,
+        "start" : 227.52,
+        "end" : 230.28,
+        "text" : " You didn't do anything cool, dude. You just pulled the trigger",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23945773275274979,
+        "compression_ratio" : 1.8287461773700306,
+        "no_speech_prob" : 0.006457849405705929
+      },
+      {
+        "id" : 48,
+        "seek" : 21540,
+        "start" : 230.76,
+        "end" : 234.88,
+        "text" : " Fuck you, dude. You probably like getting pegged this guy's wife probably fucks him to ask",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23945773275274979,
+        "compression_ratio" : 1.8287461773700306,
+        "no_speech_prob" : 0.006457849405705929
+      },
+      {
+        "id" : 49,
+        "seek" : 21540,
+        "start" : 234.88,
+        "end" : 240.04,
+        "text" : " Dude, I'm sure of it. Look at him. Dude. Look at him shirtless holding a slipper that dude likes to get pegged",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23945773275274979,
+        "compression_ratio" : 1.8287461773700306,
+        "no_speech_prob" : 0.006457849405705929
+      },
+      {
+        "id" : 50,
+        "seek" : 21540,
+        "start" : 240.04,
+        "end" : 245.04,
+        "text" : " I'm sure of it. Okay. What the fuck dude? How did dentists make so much money? Can we talk about that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23945773275274979,
+        "compression_ratio" : 1.8287461773700306,
+        "no_speech_prob" : 0.006457849405705929
+      },
+      {
+        "id" : 51,
+        "seek" : 24540,
+        "start" : 245.4,
+        "end" : 249.12,
+        "text" : " I mean we went to the dentist recently and we got hooked up by my sister",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 52,
+        "seek" : 24540,
+        "start" : 249.12,
+        "end" : 253.36,
+        "text" : " You look at one filling and it cost a cost a thousand bucks, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 53,
+        "seek" : 24540,
+        "start" : 253.48,
+        "end" : 259.44,
+        "text" : " We got that shit and I'm like like to think that my thousand dollars is funding trips like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 54,
+        "seek" : 24540,
+        "start" : 260.04,
+        "end" : 262.84,
+        "text" : " Who gives a fuck about dentistry dude get real?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 55,
+        "seek" : 24540,
+        "start" : 263.16,
+        "end" : 265.16,
+        "text" : " Meanwhile, what the hell what the hell did?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 56,
+        "seek" : 24540,
+        "start" : 265.68,
+        "end" : 269.66,
+        "text" : " Well, how am I what do I do for a thousand dollars? Jesus Christ, dude?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 57,
+        "seek" : 24540,
+        "start" : 270.44,
+        "end" : 272.44,
+        "text" : " my god",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36550213875026877,
+        "compression_ratio" : 1.6875,
+        "no_speech_prob" : 0.0024843495339155197
+      },
+      {
+        "id" : 58,
+        "seek" : 27244,
+        "start" : 272.44,
+        "end" : 278.32,
+        "text" : " Dentists are making so much money. I think that needs to be the big story that comes out of this whole hunting thing, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2983734707872407,
+        "compression_ratio" : 1.6797153024911031,
+        "no_speech_prob" : 0.020197071135044098
+      },
+      {
+        "id" : 59,
+        "seek" : 27244,
+        "start" : 278.32,
+        "end" : 280.32,
+        "text" : " We're ruining we're already ruined the world",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2983734707872407,
+        "compression_ratio" : 1.6797153024911031,
+        "no_speech_prob" : 0.020197071135044098
+      },
+      {
+        "id" : 60,
+        "seek" : 27244,
+        "start" : 280.76,
+        "end" : 285.72,
+        "text" : " Why do you need to go fucking kill a danger species? What the fuck is wrong with you, dude?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2983734707872407,
+        "compression_ratio" : 1.6797153024911031,
+        "no_speech_prob" : 0.020197071135044098
+      },
+      {
+        "id" : 61,
+        "seek" : 27244,
+        "start" : 287.04,
+        "end" : 291.88,
+        "text" : " Just buy some cocaine and fucking kill your slipe of the normal white-colored business man, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2983734707872407,
+        "compression_ratio" : 1.6797153024911031,
+        "no_speech_prob" : 0.020197071135044098
+      },
+      {
+        "id" : 62,
+        "seek" : 27244,
+        "start" : 291.88,
+        "end" : 295.16,
+        "text" : " I don't know what to tell you dude go fuck a prostitute whatever the hell, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2983734707872407,
+        "compression_ratio" : 1.6797153024911031,
+        "no_speech_prob" : 0.020197071135044098
+      },
+      {
+        "id" : 63,
+        "seek" : 27244,
+        "start" : 295.48,
+        "end" : 298.04,
+        "text" : " Stop with this shit man in 50 years",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2983734707872407,
+        "compression_ratio" : 1.6797153024911031,
+        "no_speech_prob" : 0.020197071135044098
+      },
+      {
+        "id" : 64,
+        "seek" : 29804,
+        "start" : 298.76,
+        "end" : 302.72,
+        "text" : " All these animals are gonna be gone. There's gonna be no sharks. There's gonna be no fucking fish",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017459506080264,
+        "compression_ratio" : 2.0552763819095476,
+        "no_speech_prob" : 0.11781279742717743
+      },
+      {
+        "id" : 65,
+        "seek" : 29804,
+        "start" : 302.96,
+        "end" : 309.56,
+        "text" : " There's gonna be no lions. There's gonna be no rhinos. There's gonna be no leopards all these cool ass animals elephants",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017459506080264,
+        "compression_ratio" : 2.0552763819095476,
+        "no_speech_prob" : 0.11781279742717743
+      },
+      {
+        "id" : 66,
+        "seek" : 29804,
+        "start" : 309.56,
+        "end" : 311.56,
+        "text" : " Fucking elephants are cool. Tell bye-bye",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017459506080264,
+        "compression_ratio" : 2.0552763819095476,
+        "no_speech_prob" : 0.11781279742717743
+      },
+      {
+        "id" : 67,
+        "seek" : 29804,
+        "start" : 312.76,
+        "end" : 316.52,
+        "text" : " Whales 50 years all these animals are gonna be fucking gone",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017459506080264,
+        "compression_ratio" : 2.0552763819095476,
+        "no_speech_prob" : 0.11781279742717743
+      },
+      {
+        "id" : 68,
+        "seek" : 29804,
+        "start" : 317.28,
+        "end" : 319.28,
+        "text" : " not a joke, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017459506080264,
+        "compression_ratio" : 2.0552763819095476,
+        "no_speech_prob" : 0.11781279742717743
+      },
+      {
+        "id" : 69,
+        "seek" : 29804,
+        "start" : 319.28,
+        "end" : 323.24,
+        "text" : " And this fucking asshole's out there shooting them so God bless they got",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3017459506080264,
+        "compression_ratio" : 2.0552763819095476,
+        "no_speech_prob" : 0.11781279742717743
+      },
+      {
+        "id" : 70,
+        "seek" : 32324,
+        "start" : 323.84,
+        "end" : 330.48,
+        "text" : " One day closer to death yada yada world is all gone mad and meanwhile Jim carries new movies out in the theaters guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25881324989208276,
+        "compression_ratio" : 1.7391304347826086,
+        "no_speech_prob" : 0.02484910562634468
+      },
+      {
+        "id" : 71,
+        "seek" : 32324,
+        "start" : 330.48,
+        "end" : 336.92,
+        "text" : " So go check out pixel. I'm sure it's gonna be a slam dunk and he'll be able to afford a thousand safari death kills",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25881324989208276,
+        "compression_ratio" : 1.7391304347826086,
+        "no_speech_prob" : 0.02484910562634468
+      },
+      {
+        "id" : 72,
+        "seek" : 32324,
+        "start" : 337.08,
+        "end" : 342.28,
+        "text" : " So guys go check out pixel. It's coming up this weekend. It's gonna be a lot of fun. I'll see you guys there",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25881324989208276,
+        "compression_ratio" : 1.7391304347826086,
+        "no_speech_prob" : 0.02484910562634468
+      },
+      {
+        "id" : 73,
+        "seek" : 32324,
+        "start" : 342.28,
+        "end" : 347.62,
+        "text" : " Okay, Tata. See you guys next week. There's another H3 H3 vlog one day closer to the ultimate denies",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25881324989208276,
+        "compression_ratio" : 1.7391304347826086,
+        "no_speech_prob" : 0.02484910562634468
+      },
+      {
+        "id" : 74,
+        "seek" : 32324,
+        "start" : 347.88,
+        "end" : 351.68,
+        "text" : " Nothingness is right around the corner guys and I'll meet you there. Bye now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25881324989208276,
+        "compression_ratio" : 1.7391304347826086,
+        "no_speech_prob" : 0.02484910562634468
+      }
+    ]
+  }
+}

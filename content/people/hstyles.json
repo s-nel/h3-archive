@@ -1,0 +1,13 @@
+{
+  "person_id" : "hstyles",
+  "category" : "lore",
+  "first_name" : "Harry",
+  "last_name" : "Styles",
+  "display_name" : null,
+  "thumb" : "/people/hstyles.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

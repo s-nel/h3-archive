@@ -1,0 +1,14 @@
+{
+  "person_id" : "pdefranco",
+  "category" : "friend",
+  "first_name" : "Philip",
+  "last_name" : "Defranco",
+  "display_name" : "Philip Defranco",
+  "thumb" : "/people/pdefranco.jpg",
+  "description" : null,
+  "aliases" : [
+    "Philly D"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

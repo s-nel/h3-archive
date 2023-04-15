@@ -1,0 +1,39 @@
+{
+  "steamy_id" : "clickbait-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "jcheyenne"
+      ],
+      "name" : "Jordan Cheyenne instructs her son to cry on camera",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "hklein",
+        "eklein"
+      ],
+      "name" : "Ethan clickbaiting divorce",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "bprince",
+        "dprince"
+      ],
+      "name" : "Prince Family",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "clabrant",
+        "slabrant"
+      ],
+      "name" : "LaBrant Family clickbaiting their child having cancer",
+      "won" : true
+    }
+  ],
+  "name" : "Most Shameless Clickbait",
+  "description" : null,
+  "year" : 2021
+}

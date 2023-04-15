@@ -1,0 +1,311 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlQ3RmliN0tOYjBV",
+  "category" : "video",
+  "name" : "rekt again",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/T7Fib7KNb0U/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/T7Fib7KNb0U"
+    }
+  ],
+  "start_date" : 1407493799000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.0,
+        "text" : " We are the only children I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 3.0,
+        "end" : 4.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 6.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 8.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 10.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 13.0,
+        "text" : " We are the only children I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 13.0,
+        "end" : 15.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 17.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 17.0,
+        "end" : 20.0,
+        "text" : " I'm the only one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 9,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 22.0,
+        "text" : " People give you air so I be sublime",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 10,
+        "seek" : 0,
+        "start" : 22.0,
+        "end" : 25.0,
+        "text" : " This enjoyable to know you win the car, give rise",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 11,
+        "seek" : 0,
+        "start" : 25.0,
+        "end" : 27.0,
+        "text" : " Niggas take off your clothes, please act like Jim",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 12,
+        "seek" : 0,
+        "start" : 27.0,
+        "end" : 29.0,
+        "text" : " Sit down, hide your styles when we sight these hills",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4929459939791462,
+        "compression_ratio" : 2.2865497076023393,
+        "no_speech_prob" : 0.5212064981460571
+      },
+      {
+        "id" : 13,
+        "seek" : 2900,
+        "start" : 29.0,
+        "end" : 32.0,
+        "text" : " See, literally I'm Mario and Dready on the momo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 14,
+        "seek" : 2900,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " No, the Christy Speedy on the patches with the slo-mo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 15,
+        "seek" : 2900,
+        "start" : 34.0,
+        "end" : 37.0,
+        "text" : " Kermi and the 80s JV zone of one way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 16,
+        "seek" : 2900,
+        "start" : 37.0,
+        "end" : 40.0,
+        "text" : " Am I never gonna end up on the get the paper on the cable but now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 17,
+        "seek" : 2900,
+        "start" : 40.0,
+        "end" : 42.0,
+        "text" : " Let me take it to the queen side",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 18,
+        "seek" : 2900,
+        "start" : 42.0,
+        "end" : 44.0,
+        "text" : " I'm taking it to the broken side",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 19,
+        "seek" : 2900,
+        "start" : 44.0,
+        "end" : 47.0,
+        "text" : " Urban residential buses who invade the air",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 20,
+        "seek" : 2900,
+        "start" : 47.0,
+        "end" : 49.0,
+        "text" : " Hold up a second son for the almost day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 21,
+        "seek" : 2900,
+        "start" : 49.0,
+        "end" : 52.0,
+        "text" : " You could be a black man on the floor your soul",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 22,
+        "seek" : 2900,
+        "start" : 52.0,
+        "end" : 54.0,
+        "text" : " You could be white and you but don't prep through roads",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 23,
+        "seek" : 2900,
+        "start" : 54.0,
+        "end" : 57.0,
+        "text" : " See my sheep is you, so we've got knowledge of you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6564648946126302,
+        "compression_ratio" : 1.6493506493506493,
+        "no_speech_prob" : 0.5436914563179016
+      },
+      {
+        "id" : 24,
+        "seek" : 5900,
+        "start" : 59.0,
+        "end" : 61.0,
+        "text" : " You",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.9637682437896729,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.9577112197875977
+      }
+    ]
+  }
+}

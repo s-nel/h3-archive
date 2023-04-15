@@ -1,0 +1,205 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmFfNHZyRUdUM3NB",
+  "category" : "video",
+  "name" : "The High Life (Monetized)",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/a_4vrEGT3sA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    },
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/a_4vrEGT3sA"
+    }
+  ],
+  "start_date" : 1384126925000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.34,
+        "text" : " Hey guys, look, I still got, I've been drinking Pepsi Matt.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.34,
+        "end" : 8.76,
+        "text" : " I got a ball here just to remind me of what I went through before I had this YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.76,
+        "end" : 13.0,
+        "text" : " success before I was getting money from AdSense.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.0,
+        "end" : 14.72,
+        "text" : " This is what I used to live off of.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 14.72,
+        "end" : 18.6,
+        "text" : " Every time I look at it, I get a little emotional because it makes me think of the poverty",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 18.6,
+        "end" : 22.32,
+        "text" : " and the desperation that I was living in.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 22.32,
+        "end" : 29.56,
+        "text" : " So, let's just get a nice poetic shot of the Pepsi Max rolling out of my life.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3349870098523857,
+        "compression_ratio" : 1.592057761732852,
+        "no_speech_prob" : 0.12076816707849503
+      },
+      {
+        "id" : 7,
+        "seek" : 2956,
+        "start" : 29.56,
+        "end" : 34.16,
+        "text" : " Maybe we can voice over this and cut it out and just show the Pepsi rolling.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 8,
+        "seek" : 2956,
+        "start" : 34.16,
+        "end" : 37.64,
+        "text" : " We can make it black and white and some ball up into the motion.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 9,
+        "seek" : 2956,
+        "start" : 37.64,
+        "end" : 43.48,
+        "text" : " So, it's like the Pepsi Max rolling out of my life and I moved on.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 10,
+        "seek" : 2956,
+        "start" : 43.48,
+        "end" : 48.24,
+        "text" : " And now I'm drinking Diet Coke, which means that I've achieved a better life for myself",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 11,
+        "seek" : 2956,
+        "start" : 48.24,
+        "end" : 50.48,
+        "text" : " for my wife, for my audience.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 12,
+        "seek" : 2956,
+        "start" : 50.48,
+        "end" : 54.52,
+        "text" : " And it's edgy, it's edgy ending.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 13,
+        "seek" : 2956,
+        "start" : 54.52,
+        "end" : 58.76,
+        "text" : " So go ahead and enjoy this poetic shot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40659476163094505,
+        "compression_ratio" : 1.6219512195121952,
+        "no_speech_prob" : 0.034513335675001144
+      },
+      {
+        "id" : 14,
+        "seek" : 5876,
+        "start" : 58.76,
+        "end" : 61.48,
+        "text" : " And thanks for staying with me guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6695070700211958,
+        "compression_ratio" : 0.8181818181818182,
+        "no_speech_prob" : 0.603929877281189
+      }
+    ]
+  }
+}

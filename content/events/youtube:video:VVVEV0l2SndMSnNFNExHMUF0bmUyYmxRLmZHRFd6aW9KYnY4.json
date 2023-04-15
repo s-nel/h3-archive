@@ -1,0 +1,76 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmZHRFd6aW9KYnY4",
+  "category" : "video",
+  "name" : "watch yo profanity exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/fGDWzioJbv8/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/fGDWzioJbv8"
+    }
+  ],
+  "start_date" : 1377352109000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.58,
+        "text" : " What really happened on that Thursday here at Augusta High School that led to Chris Woods death?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3078248067335649,
+        "compression_ratio" : 1.1162790697674418,
+        "no_speech_prob" : 0.17525999248027802
+      },
+      {
+        "id" : 1,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 31.22,
+        "text" : " What song did you just say?",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.689917522927989,
+        "compression_ratio" : 0.921875,
+        "no_speech_prob" : 0.15333524346351624
+      },
+      {
+        "id" : 2,
+        "seek" : 3000,
+        "start" : 49.22,
+        "end" : 51.72,
+        "text" : " Welc��k quindi vale sii",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.689917522927989,
+        "compression_ratio" : 0.921875,
+        "no_speech_prob" : 0.15333524346351624
+      },
+      {
+        "id" : 3,
+        "seek" : 3000,
+        "start" : 52.74,
+        "end" : 54.0,
+        "text" : " man",
+        "temperature" : 1.0,
+        "avg_logprob" : -5.689917522927989,
+        "compression_ratio" : 0.921875,
+        "no_speech_prob" : 0.15333524346351624
+      }
+    ]
+  }
+}

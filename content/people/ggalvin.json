@@ -1,0 +1,13 @@
+{
+  "person_id" : "ggalvin",
+  "category" : "guest",
+  "first_name" : "Garrett",
+  "last_name" : "Galvin",
+  "display_name" : "Fishin' Garrett",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

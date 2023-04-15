@@ -1,0 +1,37 @@
+{
+  "steamy_id" : "ruining-a-gen-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "etate"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "mgaines",
+        "wweekes"
+      ],
+      "name" : "Fresh&Fit",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "nbalinthazy"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "kwest"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Ruining a Generation of Young Men Award",
+  "description" : null,
+  "year" : 2022
+}

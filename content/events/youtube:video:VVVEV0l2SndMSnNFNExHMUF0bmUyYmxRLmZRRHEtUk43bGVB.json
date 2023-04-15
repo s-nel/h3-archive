@@ -1,0 +1,322 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmZRRHEtUk43bGVB",
+  "category" : "video",
+  "name" : "Face Yoga Lube Time [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/fQDq-RN7leA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/fQDq-RN7leA"
+    }
+  ],
+  "start_date" : 1411325061000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.8,
+        "text" : " Have you ever heard of face yoga? Well, this is really incredible new yoga technique that actually",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.36,
+        "end" : 6.36,
+        "text" : " prevents and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 6.36,
+        "end" : 10.32,
+        "text" : " left since existing wrinkles on your face and you can do it just by you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 10.88,
+        "end" : 13.28,
+        "text" : " looking at yourself and doing stuff with your face",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 13.84,
+        "end" : 16.08,
+        "text" : " really crazy and wonky isn't that right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 23.32,
+        "text" : " Yeah, okay now can you introduce me to one of the exercises?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 23.88,
+        "end" : 26.44,
+        "text" : " So what you're gonna do is you're gonna isolate your lower eyelids",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3350213623046875,
+        "compression_ratio" : 1.6451612903225807,
+        "no_speech_prob" : 0.03579185903072357
+      },
+      {
+        "id" : 7,
+        "seek" : 2644,
+        "start" : 26.6,
+        "end" : 32.68,
+        "text" : " so we're used to thinking about winking right but you're actually gonna just wink with your lower eyelids so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23194633911703236,
+        "compression_ratio" : 1.7296137339055795,
+        "no_speech_prob" : 0.0011374136665835977
+      },
+      {
+        "id" : 8,
+        "seek" : 2644,
+        "start" : 33.64,
+        "end" : 37.52,
+        "text" : " I'm gonna do one eyelid at a time. It's kind of hard for me to do without a mirror, but I'll try so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23194633911703236,
+        "compression_ratio" : 1.7296137339055795,
+        "no_speech_prob" : 0.0011374136665835977
+      },
+      {
+        "id" : 9,
+        "seek" : 2644,
+        "start" : 37.88,
+        "end" : 39.88,
+        "text" : " sort of like you're winking and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23194633911703236,
+        "compression_ratio" : 1.7296137339055795,
+        "no_speech_prob" : 0.0011374136665835977
+      },
+      {
+        "id" : 10,
+        "seek" : 2644,
+        "start" : 40.2,
+        "end" : 43.2,
+        "text" : " you're gonna depress that muscle so it has something to resist",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23194633911703236,
+        "compression_ratio" : 1.7296137339055795,
+        "no_speech_prob" : 0.0011374136665835977
+      },
+      {
+        "id" : 11,
+        "seek" : 2644,
+        "start" : 48.28,
+        "end" : 53.92,
+        "text" : " I like to do 20 in a row on each side stop and then do another 20 in a row when you get really good",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23194633911703236,
+        "compression_ratio" : 1.7296137339055795,
+        "no_speech_prob" : 0.0011374136665835977
+      },
+      {
+        "id" : 12,
+        "seek" : 5392,
+        "start" : 54.16,
+        "end" : 58.4,
+        "text" : " I can do this in the mirror, but not looking at you. You can do them both at the same time. I might be able to do it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30024066178695014,
+        "compression_ratio" : 1.5625,
+        "no_speech_prob" : 8.048102026805282E-4
+      },
+      {
+        "id" : 13,
+        "seek" : 5392,
+        "start" : 63.52,
+        "end" : 65.52,
+        "text" : " Yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30024066178695014,
+        "compression_ratio" : 1.5625,
+        "no_speech_prob" : 8.048102026805282E-4
+      },
+      {
+        "id" : 14,
+        "seek" : 5392,
+        "start" : 70.4,
+        "end" : 76.2,
+        "text" : " Take the index finger so there's a muscle part of the ring muscle. That's the whole thing to move up. Yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30024066178695014,
+        "compression_ratio" : 1.5625,
+        "no_speech_prob" : 8.048102026805282E-4
+      },
+      {
+        "id" : 15,
+        "seek" : 5392,
+        "start" : 77.2,
+        "end" : 82.8,
+        "text" : " Listen you dumb you know dumb old hag. Yes, I can't do my face yoga unless I'm lubed up properly",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30024066178695014,
+        "compression_ratio" : 1.5625,
+        "no_speech_prob" : 8.048102026805282E-4
+      },
+      {
+        "id" : 16,
+        "seek" : 8280,
+        "start" : 83.28,
+        "end" : 89.76,
+        "text" : " You are I can't I can't do my face yoga unless I'm lubed up you dummy try to stay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30009156623772815,
+        "compression_ratio" : 1.6599190283400809,
+        "no_speech_prob" : 0.0036181409377604723
+      },
+      {
+        "id" : 17,
+        "seek" : 8280,
+        "start" : 89.76,
+        "end" : 96.08,
+        "text" : " I don't right but I usually use a lot of moisturizer. I can't help it if I got a big moisturizer have it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30009156623772815,
+        "compression_ratio" : 1.6599190283400809,
+        "no_speech_prob" : 0.0036181409377604723
+      },
+      {
+        "id" : 18,
+        "seek" : 8280,
+        "start" : 96.56,
+        "end" : 102.2,
+        "text" : " I don't see why it fits my facial yoga and you can smile. Well, this is how I keep my face wrinkle free",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30009156623772815,
+        "compression_ratio" : 1.6599190283400809,
+        "no_speech_prob" : 0.0036181409377604723
+      },
+      {
+        "id" : 19,
+        "seek" : 8280,
+        "start" : 102.2,
+        "end" : 104.2,
+        "text" : " Okay, you got your tricks and I got mine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30009156623772815,
+        "compression_ratio" : 1.6599190283400809,
+        "no_speech_prob" : 0.0036181409377604723
+      },
+      {
+        "id" : 20,
+        "seek" : 8280,
+        "start" : 105.4,
+        "end" : 109.6,
+        "text" : " Thanks for tuning in everybody this week to facial yoga with the crazy old hag",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30009156623772815,
+        "compression_ratio" : 1.6599190283400809,
+        "no_speech_prob" : 0.0036181409377604723
+      },
+      {
+        "id" : 21,
+        "seek" : 10960,
+        "start" : 109.92,
+        "end" : 113.92,
+        "text" : " Thanks for tuning everybody this week for keeping it tight about facial",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.274224836434891,
+        "compression_ratio" : 1.5240641711229947,
+        "no_speech_prob" : 0.008000229485332966
+      },
+      {
+        "id" : 22,
+        "seek" : 10960,
+        "start" : 114.8,
+        "end" : 121.04,
+        "text" : " tightness.org net and thanks for coming in by we're gonna be back next week with some more facial yoga tips",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.274224836434891,
+        "compression_ratio" : 1.5240641711229947,
+        "no_speech_prob" : 0.008000229485332966
+      },
+      {
+        "id" : 23,
+        "seek" : 10960,
+        "start" : 121.04,
+        "end" : 127.04,
+        "text" : " Now to keep your face wrinkle free and fresh to go looking like you're 20 years old even though you're 75",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.274224836434891,
+        "compression_ratio" : 1.5240641711229947,
+        "no_speech_prob" : 0.008000229485332966
+      },
+      {
+        "id" : 24,
+        "seek" : 13960,
+        "start" : 139.6,
+        "end" : 141.6,
+        "text" : " you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7139422628614638,
+        "compression_ratio" : 1.2972972972972974,
+        "no_speech_prob" : 0.02740337699651718
+      },
+      {
+        "id" : 25,
+        "seek" : 13960,
+        "start" : 157.6,
+        "end" : 161.12,
+        "text" : " Loubed up Loubed up Loubed up greater crutch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7139422628614638,
+        "compression_ratio" : 1.2972972972972974,
+        "no_speech_prob" : 0.02740337699651718
+      }
+    ]
+  }
+}

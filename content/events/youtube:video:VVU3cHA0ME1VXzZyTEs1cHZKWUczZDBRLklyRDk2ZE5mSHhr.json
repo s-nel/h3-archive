@@ -1,0 +1,410 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLklyRDk2ZE5mSHhr",
+  "category" : "video",
+  "name" : "THE FACEBOOK SCAM",
+  "description" : "Facebook completely ripped us off.\n\nWatch the Ethan and Hila Playlist --► https://goo.gl/ioxs5p\n\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.",
+  "thumb" : "https://i.ytimg.com/vi/IrD96dNfHxk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/IrD96dNfHxk"
+    }
+  ],
+  "start_date" : 1450229341000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.94,
+        "text" : " Hey guys Ethan here something interesting happened to me today and it upset me a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.94,
+        "end" : 8.78,
+        "text" : " little bit and I wanted to share it with you guys I thought you might find it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.78,
+        "end" : 13.32,
+        "text" : " interesting. Facebook's been getting a lot of flak lately from channels like in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.32,
+        "end" : 17.04,
+        "text" : " a nutshell they had a great video about how Facebook is stealing billions of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 17.04,
+        "end" : 20.58,
+        "text" : " views and we even made a video ourselves about Sofla Antonio's page. You've",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 20.58,
+        "end" : 23.76,
+        "text" : " been getting a lot of flak from a lot of people about how they are enabling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 23.76,
+        "end" : 28.68,
+        "text" : " pages to steal videos and you know Facebook is making a ton of money off it so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18477852161114033,
+        "compression_ratio" : 1.82,
+        "no_speech_prob" : 0.2551395893096924
+      },
+      {
+        "id" : 7,
+        "seek" : 2868,
+        "start" : 28.68,
+        "end" : 32.96,
+        "text" : " it seems like they're very relaxed and their enforcement of those copyright",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.193436691977761,
+        "compression_ratio" : 1.684782608695652,
+        "no_speech_prob" : 0.0043257554061710835
+      },
+      {
+        "id" : 8,
+        "seek" : 2868,
+        "start" : 32.96,
+        "end" : 36.76,
+        "text" : " ideas. You think that in the face of all the controversy they wouldn't care and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.193436691977761,
+        "compression_ratio" : 1.684782608695652,
+        "no_speech_prob" : 0.0043257554061710835
+      },
+      {
+        "id" : 9,
+        "seek" : 2868,
+        "start" : 36.76,
+        "end" : 41.24,
+        "text" : " I mean hey they even made a statement here talking about how important it is to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.193436691977761,
+        "compression_ratio" : 1.684782608695652,
+        "no_speech_prob" : 0.0043257554061710835
+      },
+      {
+        "id" : 10,
+        "seek" : 2868,
+        "start" : 41.24,
+        "end" : 46.12,
+        "text" : " them and they think it very seriously okay well I came across this page I was",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.193436691977761,
+        "compression_ratio" : 1.684782608695652,
+        "no_speech_prob" : 0.0043257554061710835
+      },
+      {
+        "id" : 11,
+        "seek" : 2868,
+        "start" : 46.12,
+        "end" : 51.72,
+        "text" : " getting messages and posts on my wall non-stop this page DJBoot.net posted",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.193436691977761,
+        "compression_ratio" : 1.684782608695652,
+        "no_speech_prob" : 0.0043257554061710835
+      },
+      {
+        "id" : 12,
+        "seek" : 2868,
+        "start" : 51.72,
+        "end" : 55.32,
+        "text" : " our video and it's entirety they ripped it from our channel and posted it to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.193436691977761,
+        "compression_ratio" : 1.684782608695652,
+        "no_speech_prob" : 0.0043257554061710835
+      },
+      {
+        "id" : 13,
+        "seek" : 5532,
+        "start" : 55.32,
+        "end" : 60.8,
+        "text" : " Facebook it's got 1.5 million views that's actually three times more than that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 14,
+        "seek" : 5532,
+        "start" : 60.8,
+        "end" : 64.1,
+        "text" : " our video has on YouTube so I filled out their form and jumped through their",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 15,
+        "seek" : 5532,
+        "start" : 64.1,
+        "end" : 67.96,
+        "text" : " hoops and stuff and I sent it out and you know three days later this is what I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 16,
+        "seek" : 5532,
+        "start" : 67.96,
+        "end" : 72.42,
+        "text" : " get back from Facebook and let me just emphasize that this guy ripped our",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 17,
+        "seek" : 5532,
+        "start" : 72.42,
+        "end" : 76.64,
+        "text" : " video in its entirety and uploaded it to Facebook and they read me back this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 18,
+        "seek" : 5532,
+        "start" : 76.64,
+        "end" : 80.96,
+        "text" : " hi we don't see how the content you've reported used in this context by lights",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 19,
+        "seek" : 5532,
+        "start" : 80.96,
+        "end" : 85.14,
+        "text" : " your rights and we are not in a position to take action really you can't see how",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17468593684771588,
+        "compression_ratio" : 1.7301587301587302,
+        "no_speech_prob" : 0.02914568781852722
+      },
+      {
+        "id" : 20,
+        "seek" : 8514,
+        "start" : 85.14,
+        "end" : 88.98,
+        "text" : " it's violated our rights somebody ripping our video in its entirety and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 21,
+        "seek" : 8514,
+        "start" : 88.98,
+        "end" : 93.2,
+        "text" : " posting it on Facebook without giving us credit because the platform that hosts",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 22,
+        "seek" : 8514,
+        "start" : 93.2,
+        "end" : 98.76,
+        "text" : " it and makes the money off it right and who's breaking the law technically our",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 23,
+        "seek" : 8514,
+        "start" : 98.76,
+        "end" : 103.2,
+        "text" : " hands are tied we're our hands are tied we can't do anything about it okay if you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 24,
+        "seek" : 8514,
+        "start" : 103.2,
+        "end" : 106.46,
+        "text" : " have not already done so you may wish to reach out to the party responsible for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 25,
+        "seek" : 8514,
+        "start" : 106.46,
+        "end" : 110.66,
+        "text" : " posting the content to resolve your issue with them directly I'm sure they'll be",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 26,
+        "seek" : 8514,
+        "start" : 110.66,
+        "end" : 114.78,
+        "text" : " happy to remove the video just because you asked them nicely but us the people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12475531331954463,
+        "compression_ratio" : 1.7806451612903227,
+        "no_speech_prob" : 0.0020035826601088047
+      },
+      {
+        "id" : 27,
+        "seek" : 11478,
+        "start" : 114.78,
+        "end" : 118.3,
+        "text" : " whose platform it is hosting your video and making money off it well our our",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19310963828608674,
+        "compression_ratio" : 1.7849056603773585,
+        "no_speech_prob" : 4.4333635742077604E-5
+      },
+      {
+        "id" : 28,
+        "seek" : 11478,
+        "start" : 118.3,
+        "end" : 122.7,
+        "text" : " hands are tied but hey you know what whatever it happens to everybody right we",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19310963828608674,
+        "compression_ratio" : 1.7849056603773585,
+        "no_speech_prob" : 4.4333635742077604E-5
+      },
+      {
+        "id" : 29,
+        "seek" : 11478,
+        "start" : 122.7,
+        "end" : 126.58,
+        "text" : " all get a turn to get that good Facebook cock up that ass bar you know it's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19310963828608674,
+        "compression_ratio" : 1.7849056603773585,
+        "no_speech_prob" : 4.4333635742077604E-5
+      },
+      {
+        "id" : 30,
+        "seek" : 11478,
+        "start" : 126.58,
+        "end" : 130.42,
+        "text" : " tight I just thought that was interesting after all the flat that Facebook's been",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19310963828608674,
+        "compression_ratio" : 1.7849056603773585,
+        "no_speech_prob" : 4.4333635742077604E-5
+      },
+      {
+        "id" : 31,
+        "seek" : 11478,
+        "start" : 130.42,
+        "end" : 136.14,
+        "text" : " getting lately that they're actually denying us our our intellectual property",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19310963828608674,
+        "compression_ratio" : 1.7849056603773585,
+        "no_speech_prob" : 4.4333635742077604E-5
+      },
+      {
+        "id" : 32,
+        "seek" : 11478,
+        "start" : 136.14,
+        "end" : 141.42,
+        "text" : " like the guy just completely ripped it off and they just said hey hey yeah I hear",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19310963828608674,
+        "compression_ratio" : 1.7849056603773585,
+        "no_speech_prob" : 4.4333635742077604E-5
+      },
+      {
+        "id" : 33,
+        "seek" : 14142,
+        "start" : 141.42,
+        "end" : 146.18,
+        "text" : " you but how about your fucking sit on this you bitch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.47576495579310824,
+        "compression_ratio" : 0.9454545454545454,
+        "no_speech_prob" : 0.28157633543014526
+      }
+    ]
+  }
+}

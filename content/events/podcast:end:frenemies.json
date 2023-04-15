@@ -1,0 +1,24 @@
+{
+  "event_id" : "podcast:end:frenemies",
+  "category" : "major",
+  "name" : "Frenemies ends",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1623110400000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "subject"
+    },
+    {
+      "person_id" : "tpaytas",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

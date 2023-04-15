@@ -1,0 +1,13 @@
+{
+  "person_id" : "cbetancourt",
+  "category" : "guest",
+  "first_name" : "Chris",
+  "last_name" : "Betancourt",
+  "display_name" : null,
+  "thumb" : "/people/cbetancourt.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

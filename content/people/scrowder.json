@@ -1,0 +1,13 @@
+{
+  "person_id" : "scrowder",
+  "category" : "enemy",
+  "first_name" : "Steven",
+  "last_name" : "Crowder",
+  "display_name" : null,
+  "thumb" : "/people/scrowder.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,575 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjQ3S1htNWQxUk5V",
+  "category" : "video",
+  "name" : "Doctor Who - Season 86 Recap - Spoiler Alert",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/47KXm5d1RNU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/47KXm5d1RNU"
+    }
+  ],
+  "start_date" : 1387661046000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.2,
+        "text" : " Ohhhhhhh!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 3.2,
+        "end" : 5.76,
+        "text" : " I am the darling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 5.76,
+        "end" : 9.92,
+        "text" : " I'm here to destroy you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 9.92,
+        "end" : 14.52,
+        "text" : " Every season I come back to destroy you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 14.52,
+        "end" : 16.68,
+        "text" : " I am the darling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 16.68,
+        "end" : 19.36,
+        "text" : " Oh, oh, oh, oh, the darling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 19.36,
+        "end" : 23.28,
+        "text" : " Not the darling, why are you so surprised?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 23.28,
+        "end" : 27.16,
+        "text" : " I come at the end of every season",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6202695634629991,
+        "compression_ratio" : 1.696,
+        "no_speech_prob" : 0.4322809875011444
+      },
+      {
+        "id" : 8,
+        "seek" : 2716,
+        "start" : 27.16,
+        "end" : 29.84,
+        "text" : " And to destroy the earth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 9,
+        "seek" : 2716,
+        "start" : 29.84,
+        "end" : 31.12,
+        "text" : " Ah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 10,
+        "seek" : 2716,
+        "start" : 31.12,
+        "end" : 32.84,
+        "text" : " Rose the darling, come back",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 11,
+        "seek" : 2716,
+        "start" : 32.84,
+        "end" : 34.2,
+        "text" : " Ah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 12,
+        "seek" : 2716,
+        "start" : 34.2,
+        "end" : 37.04,
+        "text" : " I'm a giant tin can with a tube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 13,
+        "seek" : 2716,
+        "start" : 37.04,
+        "end" : 40.12,
+        "text" : " And it looks like I am",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 14,
+        "seek" : 2716,
+        "start" : 40.12,
+        "end" : 40.96,
+        "text" : " What did not?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 15,
+        "seek" : 2716,
+        "start" : 40.96,
+        "end" : 45.12,
+        "text" : " What does not design well by a good engineer?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 16,
+        "seek" : 2716,
+        "start" : 45.12,
+        "end" : 47.28,
+        "text" : " We are thinking over the universe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 17,
+        "seek" : 2716,
+        "start" : 47.28,
+        "end" : 49.64,
+        "text" : " And we survive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 18,
+        "seek" : 2716,
+        "start" : 49.64,
+        "end" : 53.64,
+        "text" : " And ohhhhhhh!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 19,
+        "seek" : 2716,
+        "start" : 53.64,
+        "end" : 55.44,
+        "text" : " Not the darling!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5874106233770197,
+        "compression_ratio" : 1.4912280701754386,
+        "no_speech_prob" : 0.011615606024861336
+      },
+      {
+        "id" : 20,
+        "seek" : 5544,
+        "start" : 55.92,
+        "end" : 58.4,
+        "text" : " Ah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 21,
+        "seek" : 5544,
+        "start" : 58.4,
+        "end" : 60.16,
+        "text" : " I am the darling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 22,
+        "seek" : 5544,
+        "start" : 60.16,
+        "end" : 62.28,
+        "text" : " Ah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 23,
+        "seek" : 5544,
+        "start" : 62.28,
+        "end" : 64.2,
+        "text" : " Rose the darling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 24,
+        "seek" : 5544,
+        "start" : 64.2,
+        "end" : 65.2,
+        "text" : " Ah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 25,
+        "seek" : 5544,
+        "start" : 65.2,
+        "end" : 66.88,
+        "text" : " It's 6.30",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 26,
+        "seek" : 5544,
+        "start" : 66.88,
+        "end" : 68.16,
+        "text" : " X-terminate",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 27,
+        "seek" : 5544,
+        "start" : 68.16,
+        "end" : 69.68,
+        "text" : " Ah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 28,
+        "seek" : 5544,
+        "start" : 69.68,
+        "end" : 71.36,
+        "text" : " X-terminate",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 29,
+        "seek" : 5544,
+        "start" : 71.36,
+        "end" : 73.8,
+        "text" : " And I am the darling",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 30,
+        "seek" : 5544,
+        "start" : 73.8,
+        "end" : 74.8,
+        "text" : " Prime",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 31,
+        "seek" : 5544,
+        "start" : 74.8,
+        "end" : 76.92,
+        "text" : " I am a little man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 32,
+        "seek" : 5544,
+        "start" : 76.92,
+        "end" : 78.84,
+        "text" : " And a tin can",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 33,
+        "seek" : 5544,
+        "start" : 78.84,
+        "end" : 81.16,
+        "text" : " Fear my super mobility",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 34,
+        "seek" : 5544,
+        "start" : 81.16,
+        "end" : 82.48,
+        "text" : " As I turn",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 35,
+        "seek" : 5544,
+        "start" : 82.48,
+        "end" : 83.88,
+        "text" : " Very slowly",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510658397230991,
+        "compression_ratio" : 1.4841269841269842,
+        "no_speech_prob" : 0.0033608488738536835
+      },
+      {
+        "id" : 36,
+        "seek" : 8388,
+        "start" : 84.12,
+        "end" : 86.08,
+        "text" : " To shoot my laser at you",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 37,
+        "seek" : 8388,
+        "start" : 86.08,
+        "end" : 87.72,
+        "text" : " You can run around me",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 38,
+        "seek" : 8388,
+        "start" : 87.72,
+        "end" : 89.8,
+        "text" : " And I'll never be able to hit you",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 39,
+        "seek" : 8388,
+        "start" : 89.8,
+        "end" : 91.6,
+        "text" : " I am the sensibly inspiration",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 40,
+        "seek" : 8388,
+        "start" : 91.6,
+        "end" : 92.8,
+        "text" : " And the universe",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 41,
+        "seek" : 8388,
+        "start" : 92.8,
+        "end" : 93.96,
+        "text" : " Ah!",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 42,
+        "seek" : 8388,
+        "start" : 93.96,
+        "end" : 95.84,
+        "text" : " Not the darling again",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 43,
+        "seek" : 8388,
+        "start" : 95.84,
+        "end" : 96.84,
+        "text" : " Ugroup,uj vertex",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 44,
+        "seek" : 8388,
+        "start" : 96.84,
+        "end" : 98.64,
+        "text" : " Shops!",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 45,
+        "seek" : 8388,
+        "start" : 99.44,
+        "end" : 100.2,
+        "text" : " To darling",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 46,
+        "seek" : 8388,
+        "start" : 100.2,
+        "end" : 102.56,
+        "text" : " Oh, not again",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 47,
+        "seek" : 8388,
+        "start" : 103.32,
+        "end" : 105.12,
+        "text" : " Ahhh...",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.60068670495764,
+        "compression_ratio" : 1.3548387096774193,
+        "no_speech_prob" : 0.10985885560512543
+      },
+      {
+        "id" : 48,
+        "seek" : 10512,
+        "start" : 105.12,
+        "end" : 107.28,
+        "text" : " Outta",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.104569625854492,
+        "compression_ratio" : 0.38461538461538464,
+        "no_speech_prob" : 0.2622229754924774
+      }
+    ]
+  }
+}

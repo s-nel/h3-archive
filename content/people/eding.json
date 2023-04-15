@@ -1,0 +1,13 @@
+{
+  "person_id" : "eding",
+  "category" : "guest",
+  "first_name" : "Eric",
+  "last_name" : "Ding",
+  "display_name" : "Dr. Eric Ding",
+  "thumb" : "/people/eding.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

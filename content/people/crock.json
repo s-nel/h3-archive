@@ -1,0 +1,13 @@
+{
+  "person_id" : "crock",
+  "category" : "lore",
+  "first_name" : "Christopher",
+  "last_name" : "Rock",
+  "display_name" : "Chris Rock",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

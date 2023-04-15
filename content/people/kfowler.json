@@ -1,0 +1,13 @@
+{
+  "person_id" : "kfowler",
+  "category" : "lore",
+  "first_name" : "Kevin",
+  "last_name" : "Fowler",
+  "display_name" : "Kevin Spacey",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

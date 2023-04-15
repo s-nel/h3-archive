@@ -1,0 +1,355 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLllaUHNSdmNzeFJ3",
+  "category" : "video",
+  "name" : "The Jokes - Midget Matzah",
+  "description" : "Spotify: https://goo.gl/m1QodU\niTunes: https://goo.gl/kWDJwq\nBlast from da past tune I made for Hila back in 2008. It's from this video on h3h3 in case you missed it:\nhttps://www.youtube.com/watch?v=Ec1syKOdlwo\n\nLyrics:\n\nMet a girl some time ago, I call her midget matzah\nCutest thing that I've ever know'd\nShe's my little cutie\n\nComing to visit gonna grab that whale\nThey call him Shamu\nI'll grab his head and you grab his tail\nAnd we'll bring him to the ocean\n\nWoah-oh, I hope its not very far\n'cause whales are very heavy\nAnd woah-oh, we'll let him jump over you\nAnd pretend he's Free Willy\n\nWe'll be just like Bonnie and Clyde\nFor the 21st century\nDrive around in cars that run on vegetable oil\nAnd riding turtles to the ocean\n\nWoah-oh, bring a camera so the world can see\nThe cracks in the concrete \nAnd woah-oh, the cutest thing that ever be\nMy little cutie\n\nWoah-oh, bring a camera so the world can see\nThe cracks in the concrete \nAnd woah-oh, the cutest thing that ever be\nMy little cutie",
+  "thumb" : "https://i.ytimg.com/vi/YZPsRvcsxRw/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/YZPsRvcsxRw"
+    }
+  ],
+  "start_date" : 1495068333000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.0,
+        "text" : " One, two, three, four.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5630684693654379,
+        "compression_ratio" : 0.8148148148148148,
+        "no_speech_prob" : 0.23513570427894592
+      },
+      {
+        "id" : 1,
+        "seek" : 300,
+        "start" : 3.0,
+        "end" : 6.0,
+        "text" : " I'm gonna go and buy a snack and I'm gonna go.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 2,
+        "seek" : 300,
+        "start" : 6.0,
+        "end" : 9.0,
+        "text" : " I call the major, I'm not so.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 3,
+        "seek" : 300,
+        "start" : 9.0,
+        "end" : 13.0,
+        "text" : " You're just saying that I ever know.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 4,
+        "seek" : 300,
+        "start" : 13.0,
+        "end" : 17.0,
+        "text" : " She's a little kitty, I'm not so cute.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 5,
+        "seek" : 300,
+        "start" : 17.0,
+        "end" : 21.0,
+        "text" : " I'm gonna go and buy a snack and I'm gonna go.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 6,
+        "seek" : 300,
+        "start" : 21.0,
+        "end" : 24.0,
+        "text" : " I call the major, I'm not so cute.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 7,
+        "seek" : 300,
+        "start" : 24.0,
+        "end" : 28.0,
+        "text" : " I'm just saying that I ever know.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 8,
+        "seek" : 300,
+        "start" : 28.0,
+        "end" : 31.0,
+        "text" : " She's a little kitty.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.7720965783572892,
+        "compression_ratio" : 2.32,
+        "no_speech_prob" : 0.4710536301136017
+      },
+      {
+        "id" : 9,
+        "seek" : 3100,
+        "start" : 31.0,
+        "end" : 37.0,
+        "text" : " I'm a cute, I'm a cute, I'm a pretty, pretty girl.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4482955410055918,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.028626030310988426
+      },
+      {
+        "id" : 10,
+        "seek" : 3100,
+        "start" : 37.0,
+        "end" : 44.0,
+        "text" : " I call the children, I'll grab this hat and you'll grab this tail.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4482955410055918,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.028626030310988426
+      },
+      {
+        "id" : 11,
+        "seek" : 3100,
+        "start" : 44.0,
+        "end" : 48.0,
+        "text" : " And we'll bring them to the ocean.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4482955410055918,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.028626030310988426
+      },
+      {
+        "id" : 12,
+        "seek" : 3100,
+        "start" : 48.0,
+        "end" : 52.0,
+        "text" : " I hope it's not very far.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4482955410055918,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.028626030310988426
+      },
+      {
+        "id" : 13,
+        "seek" : 3100,
+        "start" : 52.0,
+        "end" : 56.0,
+        "text" : " Well, it's a very heavy animal.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4482955410055918,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.028626030310988426
+      },
+      {
+        "id" : 14,
+        "seek" : 5600,
+        "start" : 57.0,
+        "end" : 61.0,
+        "text" : " Well, then I'm gone over you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7570085122551716,
+        "compression_ratio" : 1.4294871794871795,
+        "no_speech_prob" : 0.27826550602912903
+      },
+      {
+        "id" : 15,
+        "seek" : 5600,
+        "start" : 61.0,
+        "end" : 68.0,
+        "text" : " I'm telling you, it's really really just a bad body and clay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7570085122551716,
+        "compression_ratio" : 1.4294871794871795,
+        "no_speech_prob" : 0.27826550602912903
+      },
+      {
+        "id" : 16,
+        "seek" : 5600,
+        "start" : 68.0,
+        "end" : 75.0,
+        "text" : " For the 21st century, I'm around because I'm runnin' fresh to blue.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7570085122551716,
+        "compression_ratio" : 1.4294871794871795,
+        "no_speech_prob" : 0.27826550602912903
+      },
+      {
+        "id" : 17,
+        "seek" : 5600,
+        "start" : 75.0,
+        "end" : 83.0,
+        "text" : " From running through the ocean, oh, oh, canvasful, you can see.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7570085122551716,
+        "compression_ratio" : 1.4294871794871795,
+        "no_speech_prob" : 0.27826550602912903
+      },
+      {
+        "id" : 18,
+        "seek" : 8300,
+        "start" : 83.0,
+        "end" : 92.0,
+        "text" : " The cracks in the computer, oh, oh, the cutest thing that I ever been.",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.48037535349527993,
+        "compression_ratio" : 1.1111111111111112,
+        "no_speech_prob" : 0.12148124724626541
+      },
+      {
+        "id" : 19,
+        "seek" : 8300,
+        "start" : 92.0,
+        "end" : 95.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.48037535349527993,
+        "compression_ratio" : 1.1111111111111112,
+        "no_speech_prob" : 0.12148124724626541
+      },
+      {
+        "id" : 20,
+        "seek" : 9500,
+        "start" : 95.0,
+        "end" : 105.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40972038904825847,
+        "compression_ratio" : 1.891566265060241,
+        "no_speech_prob" : 0.20839226245880127
+      },
+      {
+        "id" : 21,
+        "seek" : 9500,
+        "start" : 105.0,
+        "end" : 109.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40972038904825847,
+        "compression_ratio" : 1.891566265060241,
+        "no_speech_prob" : 0.20839226245880127
+      },
+      {
+        "id" : 22,
+        "seek" : 9500,
+        "start" : 109.0,
+        "end" : 113.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40972038904825847,
+        "compression_ratio" : 1.891566265060241,
+        "no_speech_prob" : 0.20839226245880127
+      },
+      {
+        "id" : 23,
+        "seek" : 9500,
+        "start" : 113.0,
+        "end" : 116.0,
+        "text" : " I'm a pretty girl.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40972038904825847,
+        "compression_ratio" : 1.891566265060241,
+        "no_speech_prob" : 0.20839226245880127
+      },
+      {
+        "id" : 24,
+        "seek" : 9500,
+        "start" : 116.0,
+        "end" : 120.0,
+        "text" : " I call the major, I'm a pretty girl.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40972038904825847,
+        "compression_ratio" : 1.891566265060241,
+        "no_speech_prob" : 0.20839226245880127
+      },
+      {
+        "id" : 25,
+        "seek" : 9500,
+        "start" : 120.0,
+        "end" : 124.0,
+        "text" : " I call the children, I'll grab this tail.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40972038904825847,
+        "compression_ratio" : 1.891566265060241,
+        "no_speech_prob" : 0.20839226245880127
+      },
+      {
+        "id" : 26,
+        "seek" : 12400,
+        "start" : 124.0,
+        "end" : 131.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21140876770019532,
+        "compression_ratio" : 1.9666666666666666,
+        "no_speech_prob" : 0.21147851645946503
+      },
+      {
+        "id" : 27,
+        "seek" : 12400,
+        "start" : 131.0,
+        "end" : 139.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21140876770019532,
+        "compression_ratio" : 1.9666666666666666,
+        "no_speech_prob" : 0.21147851645946503
+      },
+      {
+        "id" : 28,
+        "seek" : 12400,
+        "start" : 139.0,
+        "end" : 144.0,
+        "text" : " I'm a little kitty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21140876770019532,
+        "compression_ratio" : 1.9666666666666666,
+        "no_speech_prob" : 0.21147851645946503
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "jdickinson",
+  "category" : "enemy",
+  "first_name" : "James",
+  "last_name" : "Dickinson",
+  "display_name" : "James Charles",
+  "thumb" : "/people/jcharles.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

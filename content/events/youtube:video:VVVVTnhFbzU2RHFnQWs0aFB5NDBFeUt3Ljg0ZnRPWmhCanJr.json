@@ -1,0 +1,615 @@
+{
+  "event_id" : "youtube:video:VVVVTnhFbzU2RHFnQWs0aFB5NDBFeUt3Ljg0ZnRPWmhCanJr",
+  "category" : "video",
+  "name" : "Urgent Message To Adin Ross",
+  "description" : "Adin Ross was recently banned on twitch and I actually know the real story, it’s very urgent that he sees this",
+  "thumb" : "https://i.ytimg.com/vi/84ftOZhBjrk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan Klein"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/84ftOZhBjrk"
+    }
+  ],
+  "start_date" : 1673682426000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.24,
+        "text" : " is an urgent message for Aiden Ross. If you know Aiden Ross, please make sure he sees this video.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19428798887464735,
+        "compression_ratio" : 1.4820512820512821,
+        "no_speech_prob" : 0.12861061096191406
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 9.04,
+        "end" : 17.36,
+        "text" : " Now a tragedy just befell Aiden Ross. He was banned on Twitch because somebody went into his",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19428798887464735,
+        "compression_ratio" : 1.4820512820512821,
+        "no_speech_prob" : 0.12861061096191406
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 17.36,
+        "end" : 25.28,
+        "text" : " live stream and sabotaged him. What happened was he was doing some GTA 5 role playing and somebody",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19428798887464735,
+        "compression_ratio" : 1.4820512820512821,
+        "no_speech_prob" : 0.12861061096191406
+      },
+      {
+        "id" : 3,
+        "seek" : 2528,
+        "start" : 25.28,
+        "end" : 32.0,
+        "text" : " dressed up like Adolf Hitler into his game to try to get him banned and he did get banned. And",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11681993802388509,
+        "compression_ratio" : 1.4818652849740932,
+        "no_speech_prob" : 0.04798949882388115
+      },
+      {
+        "id" : 4,
+        "seek" : 2528,
+        "start" : 32.0,
+        "end" : 39.36,
+        "text" : " do you know why that happened? Most people are missing the true story here. Do you understand",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11681993802388509,
+        "compression_ratio" : 1.4818652849740932,
+        "no_speech_prob" : 0.04798949882388115
+      },
+      {
+        "id" : 5,
+        "seek" : 2528,
+        "start" : 41.6,
+        "end" : 49.68,
+        "text" : " the matrix is after you Aiden Ross and this is why I'm making this urgent, urgent message to you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11681993802388509,
+        "compression_ratio" : 1.4818652849740932,
+        "no_speech_prob" : 0.04798949882388115
+      },
+      {
+        "id" : 6,
+        "seek" : 4968,
+        "start" : 49.68,
+        "end" : 56.96,
+        "text" : " You thought that Andrew Tate is going to be your neal but I have a bad news for you. Andrew Tate",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18865883771110983,
+        "compression_ratio" : 1.5179487179487179,
+        "no_speech_prob" : 0.027196478098630905
+      },
+      {
+        "id" : 7,
+        "seek" : 4968,
+        "start" : 56.96,
+        "end" : 64.56,
+        "text" : " is actually going to be your agent Smith. Okay. Do you know what I'm saying? I'm more fierce, bro.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18865883771110983,
+        "compression_ratio" : 1.5179487179487179,
+        "no_speech_prob" : 0.027196478098630905
+      },
+      {
+        "id" : 8,
+        "seek" : 4968,
+        "start" : 65.2,
+        "end" : 73.04,
+        "text" : " This is the matrix. It's real. In the words of Logan Paul, he says, the matrix is real and pray that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18865883771110983,
+        "compression_ratio" : 1.5179487179487179,
+        "no_speech_prob" : 0.027196478098630905
+      },
+      {
+        "id" : 9,
+        "seek" : 7304,
+        "start" : 73.04,
+        "end" : 78.96,
+        "text" : " it never comes for you. Well, I've got a bad message for you, Aiden. The matrix is coming.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13080432958770216,
+        "compression_ratio" : 1.6224066390041494,
+        "no_speech_prob" : 0.02769293822348118
+      },
+      {
+        "id" : 10,
+        "seek" : 7304,
+        "start" : 79.52,
+        "end" : 85.36,
+        "text" : " There's a reason you got banned on Twitch. Okay. It's not a coincidence. You want to talk about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13080432958770216,
+        "compression_ratio" : 1.6224066390041494,
+        "no_speech_prob" : 0.02769293822348118
+      },
+      {
+        "id" : 11,
+        "seek" : 7304,
+        "start" : 85.36,
+        "end" : 92.48,
+        "text" : " 2020, 2023 is the year that come with me. You want the red pill or you want the blue pill? I'm just saying",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13080432958770216,
+        "compression_ratio" : 1.6224066390041494,
+        "no_speech_prob" : 0.02769293822348118
+      },
+      {
+        "id" : 12,
+        "seek" : 7304,
+        "start" : 92.48,
+        "end" : 100.08,
+        "text" : " dude. I'm just saying. I'm be new. Okay. I'm going to wake up with you. I will show you the world",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13080432958770216,
+        "compression_ratio" : 1.6224066390041494,
+        "no_speech_prob" : 0.02769293822348118
+      },
+      {
+        "id" : 13,
+        "seek" : 10008,
+        "start" : 100.08,
+        "end" : 106.0,
+        "text" : " for the first time ever and it might not be pretty much like when Neo woke up, it was not pretty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12612416744232177,
+        "compression_ratio" : 1.6216216216216217,
+        "no_speech_prob" : 0.01578313671052456
+      },
+      {
+        "id" : 14,
+        "seek" : 10008,
+        "start" : 107.92,
+        "end" : 114.88,
+        "text" : " But it's real and that's what's important. Do you want to sleep or do you want to wake up Aiden Ross?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12612416744232177,
+        "compression_ratio" : 1.6216216216216217,
+        "no_speech_prob" : 0.01578313671052456
+      },
+      {
+        "id" : 15,
+        "seek" : 10008,
+        "start" : 114.88,
+        "end" : 121.68,
+        "text" : " Do you want to keep getting banned and sabotaged by provocateurs and agents Smiths or do you want to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12612416744232177,
+        "compression_ratio" : 1.6216216216216217,
+        "no_speech_prob" : 0.01578313671052456
+      },
+      {
+        "id" : 16,
+        "seek" : 12168,
+        "start" : 121.68,
+        "end" : 130.48,
+        "text" : " take my hand Morpheus and go and become the one. You are the one Aiden Ross. You are going to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16973503828048705,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.06953520327806473
+      },
+      {
+        "id" : 17,
+        "seek" : 12168,
+        "start" : 130.48,
+        "end" : 141.12,
+        "text" : " save us all. Was the name of their city? Was it? You know, the city underground and they're like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16973503828048705,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.06953520327806473
+      },
+      {
+        "id" : 18,
+        "seek" : 12168,
+        "start" : 142.32,
+        "end" : 147.44,
+        "text" : " this is this is that's where you're going to be the king of that city and we need you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16973503828048705,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.06953520327806473
+      },
+      {
+        "id" : 19,
+        "seek" : 14744,
+        "start" : 147.68,
+        "end" : 154.4,
+        "text" : " So the question is, are you going to follow the cat, the girl with the cat tattoo or are you going to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20508952976502093,
+        "compression_ratio" : 1.6206896551724137,
+        "no_speech_prob" : 0.011099958792328835
+      },
+      {
+        "id" : 20,
+        "seek" : 14744,
+        "start" : 154.4,
+        "end" : 160.96,
+        "text" : " go back to sleep and pretend this never happened? Aiden Ross, and you take interest in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20508952976502093,
+        "compression_ratio" : 1.6206896551724137,
+        "no_speech_prob" : 0.011099958792328835
+      },
+      {
+        "id" : 21,
+        "seek" : 14744,
+        "start" : 160.96,
+        "end" : 169.12,
+        "text" : " take are in a jail cell right now. Okay. Do you know what that means? You remember the bad,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20508952976502093,
+        "compression_ratio" : 1.6206896551724137,
+        "no_speech_prob" : 0.011099958792328835
+      },
+      {
+        "id" : 22,
+        "seek" : 14744,
+        "start" : 169.12,
+        "end" : 176.0,
+        "text" : " the guy from the matrix who he double crossed them and he killed one of his own guys so that he",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20508952976502093,
+        "compression_ratio" : 1.6206896551724137,
+        "no_speech_prob" : 0.011099958792328835
+      },
+      {
+        "id" : 23,
+        "seek" : 17600,
+        "start" : 176.0,
+        "end" : 181.6,
+        "text" : " could be put back in the matrix and you remember how Neil met him and he was eating a steak and he",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13571150214583785,
+        "compression_ratio" : 1.6458333333333333,
+        "no_speech_prob" : 0.0014067566953599453
+      },
+      {
+        "id" : 24,
+        "seek" : 17600,
+        "start" : 181.6,
+        "end" : 189.04,
+        "text" : " goes, he goes, you know what? I realize about the matrix. This takes this steak tastes good and I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13571150214583785,
+        "compression_ratio" : 1.6458333333333333,
+        "no_speech_prob" : 0.0014067566953599453
+      },
+      {
+        "id" : 25,
+        "seek" : 17600,
+        "start" : 189.04,
+        "end" : 195.12,
+        "text" : " just don't care anymore. That's Andrew Tade, bro. You want to be played like one of those idiots or",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13571150214583785,
+        "compression_ratio" : 1.6458333333333333,
+        "no_speech_prob" : 0.0014067566953599453
+      },
+      {
+        "id" : 26,
+        "seek" : 17600,
+        "start" : 195.12,
+        "end" : 200.16,
+        "text" : " you want to take my hand on Morpheus. I know what's going on, bro. You want to be a human battery?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13571150214583785,
+        "compression_ratio" : 1.6458333333333333,
+        "no_speech_prob" : 0.0014067566953599453
+      },
+      {
+        "id" : 27,
+        "seek" : 20016,
+        "start" : 200.24,
+        "end" : 201.44,
+        "text" : " You want to open your eyes?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1469169170298475,
+        "compression_ratio" : 1.5693069306930694,
+        "no_speech_prob" : 0.004650147631764412
+      },
+      {
+        "id" : 28,
+        "seek" : 20016,
+        "start" : 206.72,
+        "end" : 213.92,
+        "text" : " Aiden Ross, this is a serious and urgent message for you. There's a reason that your hairline",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1469169170298475,
+        "compression_ratio" : 1.5693069306930694,
+        "no_speech_prob" : 0.004650147631764412
+      },
+      {
+        "id" : 29,
+        "seek" : 20016,
+        "start" : 213.92,
+        "end" : 220.8,
+        "text" : " keeps receding. Do you see, do you see my hairline Aiden Ross? I'm 37 and it keeps growing down.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1469169170298475,
+        "compression_ratio" : 1.5693069306930694,
+        "no_speech_prob" : 0.004650147631764412
+      },
+      {
+        "id" : 30,
+        "seek" : 20016,
+        "start" : 221.68,
+        "end" : 229.12,
+        "text" : " It's because I'm Morpheus and I understand and I promise you this Aiden Ross, if you take my hand,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1469169170298475,
+        "compression_ratio" : 1.5693069306930694,
+        "no_speech_prob" : 0.004650147631764412
+      },
+      {
+        "id" : 31,
+        "seek" : 22912,
+        "start" : 230.0,
+        "end" : 235.76,
+        "text" : " is it the red pill, the good one or the bad one? The red pill is the good one. If you take the red pill,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10893194114460665,
+        "compression_ratio" : 1.870722433460076,
+        "no_speech_prob" : 0.0033211924601346254
+      },
+      {
+        "id" : 32,
+        "seek" : 22912,
+        "start" : 236.96,
+        "end" : 242.16,
+        "text" : " your hairline, when you wake up out of the matrix and the real world, your hairline is perfect,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10893194114460665,
+        "compression_ratio" : 1.870722433460076,
+        "no_speech_prob" : 0.0033211924601346254
+      },
+      {
+        "id" : 33,
+        "seek" : 22912,
+        "start" : 242.16,
+        "end" : 247.04,
+        "text" : " bro. They only want you to think that your hairline is receding because Andrew Tade's a jealous",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10893194114460665,
+        "compression_ratio" : 1.870722433460076,
+        "no_speech_prob" : 0.0033211924601346254
+      },
+      {
+        "id" : 34,
+        "seek" : 22912,
+        "start" : 247.04,
+        "end" : 251.76,
+        "text" : " bitch because you didn't even have any hair. Did you know that Andrew Tade has a hair transplant?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10893194114460665,
+        "compression_ratio" : 1.870722433460076,
+        "no_speech_prob" : 0.0033211924601346254
+      },
+      {
+        "id" : 35,
+        "seek" : 22912,
+        "start" : 251.76,
+        "end" : 256.8,
+        "text" : " And it's just really bad. That's why he shapes it all Aiden. He's jealous because you have a real",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10893194114460665,
+        "compression_ratio" : 1.870722433460076,
+        "no_speech_prob" : 0.0033211924601346254
+      },
+      {
+        "id" : 36,
+        "seek" : 25680,
+        "start" : 256.88,
+        "end" : 263.36,
+        "text" : " hairline and he's a coward, dude. He's a human trafficking coward with no fucking hairline. You're so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14573320352806235,
+        "compression_ratio" : 1.6454545454545455,
+        "no_speech_prob" : 0.018513811752200127
+      },
+      {
+        "id" : 37,
+        "seek" : 25680,
+        "start" : 263.36,
+        "end" : 271.36,
+        "text" : " much better than that, bro. Bro, come on, dude. If you want me to show up at your house,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14573320352806235,
+        "compression_ratio" : 1.6454545454545455,
+        "no_speech_prob" : 0.018513811752200127
+      },
+      {
+        "id" : 38,
+        "seek" : 25680,
+        "start" : 272.08,
+        "end" : 276.24,
+        "text" : " invited, of course, I won't show up uninvited. But I'll wear full leather,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14573320352806235,
+        "compression_ratio" : 1.6454545454545455,
+        "no_speech_prob" : 0.018513811752200127
+      },
+      {
+        "id" : 39,
+        "seek" : 25680,
+        "start" : 277.76,
+        "end" : 286.16,
+        "text" : " trench coat glasses, whatever you want, dude. You want the red Advil? You want the daytime Advil",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14573320352806235,
+        "compression_ratio" : 1.6454545454545455,
+        "no_speech_prob" : 0.018513811752200127
+      },
+      {
+        "id" : 40,
+        "seek" : 28616,
+        "start" : 286.96,
+        "end" : 293.44,
+        "text" : " or you want the day quill or the night quill? You want to sleep? You want to take the ZZ the night?",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.22235867977142335,
+        "compression_ratio" : 1.611764705882353,
+        "no_speech_prob" : 0.0013599909143522382
+      },
+      {
+        "id" : 41,
+        "seek" : 28616,
+        "start" : 294.72,
+        "end" : 302.0,
+        "text" : " Or you want to wake the fuck up and take that day quill? Get a little pep in your step.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.22235867977142335,
+        "compression_ratio" : 1.611764705882353,
+        "no_speech_prob" : 0.0013599909143522382
+      },
+      {
+        "id" : 42,
+        "seek" : 28616,
+        "start" : 305.68,
+        "end" : 313.76,
+        "text" : " Listen, this is an urgent and highly important message to Aiden Ross. If you know him,",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.22235867977142335,
+        "compression_ratio" : 1.611764705882353,
+        "no_speech_prob" : 0.0013599909143522382
+      },
+      {
+        "id" : 43,
+        "seek" : 31376,
+        "start" : 313.76,
+        "end" : 319.76,
+        "text" : " please make sure he sees this. If you are tired of getting swatted, if you're tired of being",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1655457305908203,
+        "compression_ratio" : 1.5520361990950227,
+        "no_speech_prob" : 0.019446946680545807
+      },
+      {
+        "id" : 44,
+        "seek" : 31376,
+        "start" : 319.76,
+        "end" : 326.88,
+        "text" : " raided, getting banned on Twitch, it's time to wake up, brother. The matrix is after you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1655457305908203,
+        "compression_ratio" : 1.5520361990950227,
+        "no_speech_prob" : 0.019446946680545807
+      },
+      {
+        "id" : 45,
+        "seek" : 31376,
+        "start" : 328.24,
+        "end" : 336.0,
+        "text" : " Logan Paul called this, okay? And I'm more fused. You know,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1655457305908203,
+        "compression_ratio" : 1.5520361990950227,
+        "no_speech_prob" : 0.019446946680545807
+      },
+      {
+        "id" : 46,
+        "seek" : 31376,
+        "start" : 338.72,
+        "end" : 343.04,
+        "text" : " I don't know who you got to have a love interest. I don't know. You're single, right? You're kind of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1655457305908203,
+        "compression_ratio" : 1.5520361990950227,
+        "no_speech_prob" : 0.019446946680545807
+      },
+      {
+        "id" : 47,
+        "seek" : 34304,
+        "start" : 343.04,
+        "end" : 347.44,
+        "text" : " lonely. I think you're lonely and single. So we need to find you a love interest that you could",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21481060981750488,
+        "compression_ratio" : 1.6909871244635193,
+        "no_speech_prob" : 0.00829395279288292
+      },
+      {
+        "id" : 48,
+        "seek" : 34304,
+        "start" : 347.44,
+        "end" : 354.0,
+        "text" : " be Trinity for you because that's that's what motivated Neil, right? Because like, you know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21481060981750488,
+        "compression_ratio" : 1.6909871244635193,
+        "no_speech_prob" : 0.00829395279288292
+      },
+      {
+        "id" : 49,
+        "seek" : 34304,
+        "start" : 354.0,
+        "end" : 361.44,
+        "text" : " He's got to have a little something to fight for. Some some hot mama Trinity. You got a Trinity?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21481060981750488,
+        "compression_ratio" : 1.6909871244635193,
+        "no_speech_prob" : 0.00829395279288292
+      },
+      {
+        "id" : 50,
+        "seek" : 34304,
+        "start" : 361.44,
+        "end" : 367.84,
+        "text" : " We got to find you a Trinity, bro. And we're not going to human trafficker. We're going to treat",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21481060981750488,
+        "compression_ratio" : 1.6909871244635193,
+        "no_speech_prob" : 0.00829395279288292
+      },
+      {
+        "id" : 51,
+        "seek" : 36784,
+        "start" : 367.84,
+        "end" : 375.12,
+        "text" : " her with respect and dignity, right? Aiden? Because I know, I know who you really are, bro.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16739609281895523,
+        "compression_ratio" : 1.3724137931034484,
+        "no_speech_prob" : 0.0068918620236217976
+      },
+      {
+        "id" : 52,
+        "seek" : 36784,
+        "start" : 376.24,
+        "end" : 384.88,
+        "text" : " So this is my message. This is more fused. It's time to make a decision, Neil. It's time to become the one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16739609281895523,
+        "compression_ratio" : 1.3724137931034484,
+        "no_speech_prob" : 0.0068918620236217976
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjFSNmhJaWsxVktB",
+  "category" : "video",
+  "name" : "The Jokes - Goldmine",
+  "description" : "Spotify: https://goo.gl/m1QodU\niTunes: https://goo.gl/kWDJwq\nFrom the podcast today, me and the boys wrote a lil song about Hila being gone, and me being the wizard of loneliness. There's nothing funny bout the jokes, folks. Ok, ill see myself out. Hope u enjoy",
+  "thumb" : "https://i.ytimg.com/vi/1R6hIik1VKA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/1R6hIik1VKA"
+    }
+  ],
+  "start_date" : 1530925599000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 24.0,
+        "text" : " I feel strange heading off to somewhere I can't call your name",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5715596255134133,
+        "compression_ratio" : 0.9538461538461539,
+        "no_speech_prob" : 0.4768867790699005
+      },
+      {
+        "id" : 1,
+        "seek" : 2400,
+        "start" : 24.0,
+        "end" : 29.0,
+        "text" : " A long night feels like years may can do with you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2747206006731306,
+        "compression_ratio" : 1.686131386861314,
+        "no_speech_prob" : 0.5446203351020813
+      },
+      {
+        "id" : 2,
+        "seek" : 2400,
+        "start" : 29.0,
+        "end" : 36.0,
+        "text" : " Between my ears and a gold mine ain't worth having without you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2747206006731306,
+        "compression_ratio" : 1.686131386861314,
+        "no_speech_prob" : 0.5446203351020813
+      },
+      {
+        "id" : 3,
+        "seek" : 2400,
+        "start" : 36.0,
+        "end" : 44.0,
+        "text" : " And I'm so blue and a gold mine ain't worth having without you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2747206006731306,
+        "compression_ratio" : 1.686131386861314,
+        "no_speech_prob" : 0.5446203351020813
+      },
+      {
+        "id" : 4,
+        "seek" : 2400,
+        "start" : 44.0,
+        "end" : 50.0,
+        "text" : " So come though as hard to be a warn, hard to leave home",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2747206006731306,
+        "compression_ratio" : 1.686131386861314,
+        "no_speech_prob" : 0.5446203351020813
+      },
+      {
+        "id" : 5,
+        "seek" : 5000,
+        "start" : 50.0,
+        "end" : 55.0,
+        "text" : " And I can't go on without you unless you're about a stone's throw a gold mine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24522977261929899,
+        "compression_ratio" : 1.2871287128712872,
+        "no_speech_prob" : 0.07851392030715942
+      },
+      {
+        "id" : 6,
+        "seek" : 5000,
+        "start" : 55.0,
+        "end" : 63.0,
+        "text" : " And we're having without you I just want you to know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24522977261929899,
+        "compression_ratio" : 1.2871287128712872,
+        "no_speech_prob" : 0.07851392030715942
+      },
+      {
+        "id" : 7,
+        "seek" : 6300,
+        "start" : 64.0,
+        "end" : 77.0,
+        "text" : " So rise it just me listening to echoes without company",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24252770163796164,
+        "compression_ratio" : 1.2647058823529411,
+        "no_speech_prob" : 0.06447108089923859
+      },
+      {
+        "id" : 8,
+        "seek" : 6300,
+        "start" : 77.0,
+        "end" : 86.0,
+        "text" : " A sunset lights out it's all fools gold when you're not around a gold mine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24252770163796164,
+        "compression_ratio" : 1.2647058823529411,
+        "no_speech_prob" : 0.06447108089923859
+      },
+      {
+        "id" : 9,
+        "seek" : 8600,
+        "start" : 86.0,
+        "end" : 97.0,
+        "text" : " And I'm so blue and a gold mine ain't worth having without you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09414329699107579,
+        "compression_ratio" : 1.4848484848484849,
+        "no_speech_prob" : 0.27026301622390747
+      },
+      {
+        "id" : 10,
+        "seek" : 8600,
+        "start" : 97.0,
+        "end" : 103.0,
+        "text" : " So come though as hard to be a warn, hard to leave home",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09414329699107579,
+        "compression_ratio" : 1.4848484848484849,
+        "no_speech_prob" : 0.27026301622390747
+      },
+      {
+        "id" : 11,
+        "seek" : 8600,
+        "start" : 103.0,
+        "end" : 108.0,
+        "text" : " And I can't go on without you unless you're about a stone's throw a gold mine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09414329699107579,
+        "compression_ratio" : 1.4848484848484849,
+        "no_speech_prob" : 0.27026301622390747
+      },
+      {
+        "id" : 12,
+        "seek" : 10800,
+        "start" : 108.0,
+        "end" : 123.0,
+        "text" : " And we're having without you I just want you to know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2042654549203268,
+        "compression_ratio" : 1.3125,
+        "no_speech_prob" : 0.04268676042556763
+      },
+      {
+        "id" : 13,
+        "seek" : 10800,
+        "start" : 123.0,
+        "end" : 136.0,
+        "text" : " I tap the veil, the vault is full I had the mightest touch but it's all fools gold without you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2042654549203268,
+        "compression_ratio" : 1.3125,
+        "no_speech_prob" : 0.04268676042556763
+      },
+      {
+        "id" : 14,
+        "seek" : 13600,
+        "start" : 136.0,
+        "end" : 141.0,
+        "text" : " A gold mine ain't worth having without you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.04797975340885902,
+        "compression_ratio" : 1.7445255474452555,
+        "no_speech_prob" : 0.08622420579195023
+      },
+      {
+        "id" : 15,
+        "seek" : 13600,
+        "start" : 141.0,
+        "end" : 149.0,
+        "text" : " And I'm so blue and a gold mine ain't worth having without you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.04797975340885902,
+        "compression_ratio" : 1.7445255474452555,
+        "no_speech_prob" : 0.08622420579195023
+      },
+      {
+        "id" : 16,
+        "seek" : 13600,
+        "start" : 149.0,
+        "end" : 155.0,
+        "text" : " So come though as hard to be a warn, hard to leave home",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.04797975340885902,
+        "compression_ratio" : 1.7445255474452555,
+        "no_speech_prob" : 0.08622420579195023
+      },
+      {
+        "id" : 17,
+        "seek" : 13600,
+        "start" : 155.0,
+        "end" : 160.0,
+        "text" : " And I can't go on without you unless you're about a stone's throw a gold mine",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.04797975340885902,
+        "compression_ratio" : 1.7445255474452555,
+        "no_speech_prob" : 0.08622420579195023
+      },
+      {
+        "id" : 18,
+        "seek" : 16000,
+        "start" : 160.0,
+        "end" : 170.0,
+        "text" : " And we're having without you I just want you to know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12761613527933757,
+        "compression_ratio" : 0.9454545454545454,
+        "no_speech_prob" : 0.11979078501462936
+      }
+    ]
+  }
+}

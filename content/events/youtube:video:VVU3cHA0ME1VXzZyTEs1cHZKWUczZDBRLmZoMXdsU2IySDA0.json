@@ -1,0 +1,784 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLmZoMXdsU2IySDA0",
+  "category" : "video",
+  "name" : "CENSORSHIP ON YOUTUBE",
+  "description" : "Thanks to Fullscreen for the claim and strike on our kissing pranks video, appreciate ya!",
+  "thumb" : "https://i.ytimg.com/vi/fh1wlSb2H04/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/fh1wlSb2H04"
+    }
+  ],
+  "start_date" : 1438711487000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " Guys something just happened and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3309005881255528,
+        "compression_ratio" : 1.6425992779783394,
+        "no_speech_prob" : 0.15009602904319763
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.36,
+        "end" : 4.98,
+        "text" : " Pretty passionately upset and I'd love to talk about it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3309005881255528,
+        "compression_ratio" : 1.6425992779783394,
+        "no_speech_prob" : 0.15009602904319763
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 4.98,
+        "end" : 9.84,
+        "text" : " And I think that you guys need to know about this our number one video kissing pranks our reaction video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3309005881255528,
+        "compression_ratio" : 1.6425992779783394,
+        "no_speech_prob" : 0.15009602904319763
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 9.84,
+        "end" : 16.8,
+        "text" : " parodying and criticizing Chris from prank invasion the ultimate Goofstorne gaster and prankster that we've all come to know and love",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3309005881255528,
+        "compression_ratio" : 1.6425992779783394,
+        "no_speech_prob" : 0.15009602904319763
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 16.84,
+        "end" : 18.84,
+        "text" : " Well it happened last week that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3309005881255528,
+        "compression_ratio" : 1.6425992779783394,
+        "no_speech_prob" : 0.15009602904319763
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 19.8,
+        "end" : 25.72,
+        "text" : " Fullscreen Chris's YouTube network claimed our video basically what that means is hey, what up?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3309005881255528,
+        "compression_ratio" : 1.6425992779783394,
+        "no_speech_prob" : 0.15009602904319763
+      },
+      {
+        "id" : 6,
+        "seek" : 2572,
+        "start" : 26.0,
+        "end" : 30.08,
+        "text" : " Cool that you made this video here and put a ton of effort into it and it's clearly fair use",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 7,
+        "seek" : 2572,
+        "start" : 30.08,
+        "end" : 34.0,
+        "text" : " But just because you use my clip well, I'm gonna make all the revenue from it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 8,
+        "seek" : 2572,
+        "start" : 34.0,
+        "end" : 38.4,
+        "text" : " So power to the creators right guys full screen right power to the creators",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 9,
+        "seek" : 2572,
+        "start" : 38.4,
+        "end" : 42.78,
+        "text" : " I actually full screen side that interrupt you dog, but I need to buy like some gross using shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 10,
+        "seek" : 2572,
+        "start" : 42.78,
+        "end" : 46.32,
+        "text" : " And actually I worked all week to make that video and it's clearly fair use",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 11,
+        "seek" : 2572,
+        "start" : 46.32,
+        "end" : 49.2,
+        "text" : " So I just think that I should I should mount it. I should make the money",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 12,
+        "seek" : 2572,
+        "start" : 49.6,
+        "end" : 51.6,
+        "text" : " So we sent that to the back to them",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.237342499594652,
+        "compression_ratio" : 1.8591549295774648,
+        "no_speech_prob" : 0.01945885270833969
+      },
+      {
+        "id" : 13,
+        "seek" : 5160,
+        "start" : 51.6,
+        "end" : 58.32,
+        "text" : " It should be stated after this exchanging twice that the third one is kind of risky because they can say oh cool",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2017336854147255,
+        "compression_ratio" : 1.8991935483870968,
+        "no_speech_prob" : 0.027956731617450714
+      },
+      {
+        "id" : 14,
+        "seek" : 5160,
+        "start" : 58.32,
+        "end" : 65.7,
+        "text" : " Dude well fuck you. I'm gonna remove it then if I can't make money on your video then nobody can if I can't make money on your video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2017336854147255,
+        "compression_ratio" : 1.8991935483870968,
+        "no_speech_prob" : 0.027956731617450714
+      },
+      {
+        "id" : 15,
+        "seek" : 5160,
+        "start" : 65.7,
+        "end" : 68.36,
+        "text" : " Then nobody should be able to watch it and it shouldn't exist",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2017336854147255,
+        "compression_ratio" : 1.8991935483870968,
+        "no_speech_prob" : 0.027956731617450714
+      },
+      {
+        "id" : 16,
+        "seek" : 5160,
+        "start" : 69.0,
+        "end" : 75.68,
+        "text" : " They can completely remove your video and even worse they can give your channel a strike short summary on strikes if you get three strikes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2017336854147255,
+        "compression_ratio" : 1.8991935483870968,
+        "no_speech_prob" : 0.027956731617450714
+      },
+      {
+        "id" : 17,
+        "seek" : 5160,
+        "start" : 76.44,
+        "end" : 78.44,
+        "text" : " Your channel gets erased",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2017336854147255,
+        "compression_ratio" : 1.8991935483870968,
+        "no_speech_prob" : 0.027956731617450714
+      },
+      {
+        "id" : 18,
+        "seek" : 7844,
+        "start" : 79.04,
+        "end" : 84.04,
+        "text" : " That's great in it. It's just so easy to completely fucking lose everything you worked so hard for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2949450777978012,
+        "compression_ratio" : 1.6220472440944882,
+        "no_speech_prob" : 0.006695509422570467
+      },
+      {
+        "id" : 19,
+        "seek" : 7844,
+        "start" : 84.08,
+        "end" : 88.52,
+        "text" : " So we've got one strike. Thank you so much full screen power to the creators guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2949450777978012,
+        "compression_ratio" : 1.6220472440944882,
+        "no_speech_prob" : 0.006695509422570467
+      },
+      {
+        "id" : 20,
+        "seek" : 7844,
+        "start" : 88.52,
+        "end" : 93.64,
+        "text" : " Wow our most popular video has been removed by the biggest",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2949450777978012,
+        "compression_ratio" : 1.6220472440944882,
+        "no_speech_prob" : 0.006695509422570467
+      },
+      {
+        "id" : 21,
+        "seek" : 7844,
+        "start" : 94.36,
+        "end" : 99.36,
+        "text" : " Network on YouTube and just a little irony here. I want to point out is that a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2949450777978012,
+        "compression_ratio" : 1.6220472440944882,
+        "no_speech_prob" : 0.006695509422570467
+      },
+      {
+        "id" : 22,
+        "seek" : 7844,
+        "start" : 100.16,
+        "end" : 106.92,
+        "text" : " Network whose slogan is power to the creators is actively working to make YouTube a less safe",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2949450777978012,
+        "compression_ratio" : 1.6220472440944882,
+        "no_speech_prob" : 0.006695509422570467
+      },
+      {
+        "id" : 23,
+        "seek" : 10692,
+        "start" : 107.88,
+        "end" : 112.52,
+        "text" : " More toxic less you know less inviting",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3340734813524329,
+        "compression_ratio" : 1.6708860759493671,
+        "no_speech_prob" : 0.00625780550763011
+      },
+      {
+        "id" : 24,
+        "seek" : 10692,
+        "start" : 113.08,
+        "end" : 119.12,
+        "text" : " Just a absolutely worse place to be and they know fair well that our video is fair use",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3340734813524329,
+        "compression_ratio" : 1.6708860759493671,
+        "no_speech_prob" : 0.00625780550763011
+      },
+      {
+        "id" : 25,
+        "seek" : 10692,
+        "start" : 119.28,
+        "end" : 122.12,
+        "text" : " So they've just knowingly and fraudulently",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3340734813524329,
+        "compression_ratio" : 1.6708860759493671,
+        "no_speech_prob" : 0.00625780550763011
+      },
+      {
+        "id" : 26,
+        "seek" : 10692,
+        "start" : 122.6,
+        "end" : 128.0,
+        "text" : " Take an advantage of the shitty system that YouTube has in place to completely fuck us over",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3340734813524329,
+        "compression_ratio" : 1.6708860759493671,
+        "no_speech_prob" : 0.00625780550763011
+      },
+      {
+        "id" : 27,
+        "seek" : 10692,
+        "start" : 128.04,
+        "end" : 134.52,
+        "text" : " So power to the creators full screen hashtag full screen big ups to you by the way you're doing some great work in the world of YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3340734813524329,
+        "compression_ratio" : 1.6708860759493671,
+        "no_speech_prob" : 0.00625780550763011
+      },
+      {
+        "id" : 28,
+        "seek" : 13452,
+        "start" : 134.64,
+        "end" : 138.68,
+        "text" : " It's just you know at the same time I get it because honestly",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20975144704182944,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.01889166235923767
+      },
+      {
+        "id" : 29,
+        "seek" : 13452,
+        "start" : 139.12,
+        "end" : 141.8,
+        "text" : " It's just too easy to make a living on YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20975144704182944,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.01889166235923767
+      },
+      {
+        "id" : 30,
+        "seek" : 13452,
+        "start" : 141.8,
+        "end" : 144.48,
+        "text" : " You know it's like you just fucking roll the camera, you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20975144704182944,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.01889166235923767
+      },
+      {
+        "id" : 31,
+        "seek" : 13452,
+        "start" : 145.24,
+        "end" : 151.76,
+        "text" : " You just put it on the internet and all of a sudden you just I've got so much money. I've got so much money, you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20975144704182944,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.01889166235923767
+      },
+      {
+        "id" : 32,
+        "seek" : 13452,
+        "start" : 155.32,
+        "end" : 161.96,
+        "text" : " No, we don't have so much money actually we barely make any money and the revenue that we make from our most popular video is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20975144704182944,
+        "compression_ratio" : 1.7692307692307692,
+        "no_speech_prob" : 0.01889166235923767
+      },
+      {
+        "id" : 33,
+        "seek" : 16196,
+        "start" : 162.36,
+        "end" : 166.48,
+        "text" : " Pretty fucking important to us the the system in place by YouTube sucks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24838583520118226,
+        "compression_ratio" : 1.6349206349206349,
+        "no_speech_prob" : 0.004419893957674503
+      },
+      {
+        "id" : 34,
+        "seek" : 16196,
+        "start" : 167.04,
+        "end" : 176.16,
+        "text" : " Okay, but it sucks even more that a network whose slogan is power to the creator is knowingly exploiting that system the fuck over people trying to make a living",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24838583520118226,
+        "compression_ratio" : 1.6349206349206349,
+        "no_speech_prob" : 0.004419893957674503
+      },
+      {
+        "id" : 35,
+        "seek" : 16196,
+        "start" : 176.32,
+        "end" : 183.12,
+        "text" : " Trying to scrape by I mean we're we're barely paying our bills here because we love it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24838583520118226,
+        "compression_ratio" : 1.6349206349206349,
+        "no_speech_prob" : 0.004419893957674503
+      },
+      {
+        "id" : 36,
+        "seek" : 16196,
+        "start" : 183.12,
+        "end" : 188.96,
+        "text" : " We can make more money if mean you both got a fucking job at Taco Bell working minimum wage",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24838583520118226,
+        "compression_ratio" : 1.6349206349206349,
+        "no_speech_prob" : 0.004419893957674503
+      },
+      {
+        "id" : 37,
+        "seek" : 18896,
+        "start" : 189.52,
+        "end" : 195.32,
+        "text" : " We would make more money than we do now I make a great fucking taco and maybe it won't be too long guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2011764163062686,
+        "compression_ratio" : 1.7508532423208192,
+        "no_speech_prob" : 0.02968618832528591
+      },
+      {
+        "id" : 38,
+        "seek" : 18896,
+        "start" : 195.32,
+        "end" : 199.88,
+        "text" : " So you'll see me in Taco Bell mini on the assembly line and I'll take care of you guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2011764163062686,
+        "compression_ratio" : 1.7508532423208192,
+        "no_speech_prob" : 0.02968618832528591
+      },
+      {
+        "id" : 39,
+        "seek" : 18896,
+        "start" : 199.88,
+        "end" : 205.36,
+        "text" : " I'll give you some extra sour cream cheese brief. I'll make you a great taco because apparently I can't make a fucking living on",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2011764163062686,
+        "compression_ratio" : 1.7508532423208192,
+        "no_speech_prob" : 0.02968618832528591
+      },
+      {
+        "id" : 40,
+        "seek" : 18896,
+        "start" : 205.64,
+        "end" : 212.04,
+        "text" : " YouTube working our asses off to earn some other fucking assholes money guys and that's the story of YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2011764163062686,
+        "compression_ratio" : 1.7508532423208192,
+        "no_speech_prob" : 0.02968618832528591
+      },
+      {
+        "id" : 41,
+        "seek" : 18896,
+        "start" : 212.04,
+        "end" : 215.68,
+        "text" : " I don't know how many people are talking about but I know it affects a lot of people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2011764163062686,
+        "compression_ratio" : 1.7508532423208192,
+        "no_speech_prob" : 0.02968618832528591
+      },
+      {
+        "id" : 42,
+        "seek" : 21568,
+        "start" : 215.68,
+        "end" : 221.24,
+        "text" : " But now that it came from full screen the network of all people with their slogan",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22210626344423037,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.009764443151652813
+      },
+      {
+        "id" : 43,
+        "seek" : 21568,
+        "start" : 222.12,
+        "end" : 224.12,
+        "text" : " Power to the creators",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22210626344423037,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.009764443151652813
+      },
+      {
+        "id" : 44,
+        "seek" : 21568,
+        "start" : 224.52,
+        "end" : 231.52,
+        "text" : " Right can we empower the creators a little bit please after all it wasn't it wasn't only a couple of months ago that full screen was so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22210626344423037,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.009764443151652813
+      },
+      {
+        "id" : 45,
+        "seek" : 21568,
+        "start" : 231.52,
+        "end" : 236.82,
+        "text" : " Enthused about our channel. They wrote us an email trying to recruit us. They were so enthused guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22210626344423037,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.009764443151652813
+      },
+      {
+        "id" : 46,
+        "seek" : 21568,
+        "start" : 236.82,
+        "end" : 242.72,
+        "text" : " Just just read here check this out. I guess they're not that enthused anymore since they took down our video poor Chris",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22210626344423037,
+        "compression_ratio" : 1.6937269372693726,
+        "no_speech_prob" : 0.009764443151652813
+      },
+      {
+        "id" : 47,
+        "seek" : 24272,
+        "start" : 243.24,
+        "end" : 250.12,
+        "text" : " Poor Chris. I guess it made him look bad our use of the kissing pranks video is the entire reason why fair use exists",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31299437138072234,
+        "compression_ratio" : 1.6832740213523132,
+        "no_speech_prob" : 0.0364055372774601
+      },
+      {
+        "id" : 48,
+        "seek" : 24272,
+        "start" : 250.12,
+        "end" : 256.08,
+        "text" : " It's parody it's criticism if you stop giving people the right to use fair use that's the whole",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31299437138072234,
+        "compression_ratio" : 1.6832740213523132,
+        "no_speech_prob" : 0.0364055372774601
+      },
+      {
+        "id" : 49,
+        "seek" : 24272,
+        "start" : 256.44,
+        "end" : 262.76,
+        "text" : " Criticism wouldn't exist everybody with power would win and anybody with it is sending voice would be sounds",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31299437138072234,
+        "compression_ratio" : 1.6832740213523132,
+        "no_speech_prob" : 0.0364055372774601
+      },
+      {
+        "id" : 50,
+        "seek" : 24272,
+        "start" : 262.84,
+        "end" : 268.56,
+        "text" : " So that's what happened. I love this ad to by the way if we can't make money off it nobody can see it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31299437138072234,
+        "compression_ratio" : 1.6832740213523132,
+        "no_speech_prob" : 0.0364055372774601
+      },
+      {
+        "id" : 51,
+        "seek" : 24272,
+        "start" : 268.56,
+        "end" : 271.76,
+        "text" : " I'm full screen power to the fucking creator get",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31299437138072234,
+        "compression_ratio" : 1.6832740213523132,
+        "no_speech_prob" : 0.0364055372774601
+      },
+      {
+        "id" : 52,
+        "seek" : 27272,
+        "start" : 272.72,
+        "end" : 274.72,
+        "text" : " I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32249987566912613,
+        "compression_ratio" : 1.47,
+        "no_speech_prob" : 0.01329392846673727
+      },
+      {
+        "id" : 53,
+        "seek" : 27272,
+        "start" : 279.8,
+        "end" : 283.76,
+        "text" : " Just want to be real guys. I'm fucking pissed. Okay. I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32249987566912613,
+        "compression_ratio" : 1.47,
+        "no_speech_prob" : 0.01329392846673727
+      },
+      {
+        "id" : 54,
+        "seek" : 27272,
+        "start" : 284.36,
+        "end" : 288.88,
+        "text" : " Love making our videos. It's the best thing we've ever done",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32249987566912613,
+        "compression_ratio" : 1.47,
+        "no_speech_prob" : 0.01329392846673727
+      },
+      {
+        "id" : 55,
+        "seek" : 27272,
+        "start" : 289.04,
+        "end" : 291.64,
+        "text" : " We're passionate about it and we love it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32249987566912613,
+        "compression_ratio" : 1.47,
+        "no_speech_prob" : 0.01329392846673727
+      },
+      {
+        "id" : 56,
+        "seek" : 27272,
+        "start" : 291.92,
+        "end" : 301.48,
+        "text" : " But it's fucked up if you guys would like to let the full screen know how great they've been for YouTube go ahead and shoot them a tweet",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32249987566912613,
+        "compression_ratio" : 1.47,
+        "no_speech_prob" : 0.01329392846673727
+      },
+      {
+        "id" : 57,
+        "seek" : 30148,
+        "start" : 301.48,
+        "end" : 306.84,
+        "text" : " At full screen and I will say I've been complaining a lot and I'm pretty upset",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32024363467567846,
+        "compression_ratio" : 1.7520661157024793,
+        "no_speech_prob" : 0.047020360827445984
+      },
+      {
+        "id" : 58,
+        "seek" : 30148,
+        "start" : 307.72,
+        "end" : 312.88,
+        "text" : " But there is one thing that always keeps us going and that's our fucking amazing community",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32024363467567846,
+        "compression_ratio" : 1.7520661157024793,
+        "no_speech_prob" : 0.047020360827445984
+      },
+      {
+        "id" : 59,
+        "seek" : 30148,
+        "start" : 313.72,
+        "end" : 321.6,
+        "text" : " I feel like every youtuber says it, but I think everybody here knows and us especially that with our community it always has been true that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32024363467567846,
+        "compression_ratio" : 1.7520661157024793,
+        "no_speech_prob" : 0.047020360827445984
+      },
+      {
+        "id" : 60,
+        "seek" : 30148,
+        "start" : 322.56,
+        "end" : 328.32,
+        "text" : " Were the you guys are the best dude you guys are the best community on YouTube and because of you guys is faithful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32024363467567846,
+        "compression_ratio" : 1.7520661157024793,
+        "no_speech_prob" : 0.047020360827445984
+      },
+      {
+        "id" : 61,
+        "seek" : 32832,
+        "start" : 328.56,
+        "end" : 333.64,
+        "text" : " Support to us on patreon. We have been able to get by despite shit like this happening",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2843491035171702,
+        "compression_ratio" : 1.5980861244019138,
+        "no_speech_prob" : 0.01947128400206566
+      },
+      {
+        "id" : 62,
+        "seek" : 32832,
+        "start" : 333.72,
+        "end" : 338.16,
+        "text" : " So we love you guys we love making videos with you guys I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2843491035171702,
+        "compression_ratio" : 1.5980861244019138,
+        "no_speech_prob" : 0.01947128400206566
+      },
+      {
+        "id" : 63,
+        "seek" : 32832,
+        "start" : 339.52,
+        "end" : 343.96,
+        "text" : " Just think YouTube sucks and full screen sucks and thankfully",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2843491035171702,
+        "compression_ratio" : 1.5980861244019138,
+        "no_speech_prob" : 0.01947128400206566
+      },
+      {
+        "id" : 64,
+        "seek" : 32832,
+        "start" : 344.64,
+        "end" : 347.72,
+        "text" : " With the support of our community we will keep making videos",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2843491035171702,
+        "compression_ratio" : 1.5980861244019138,
+        "no_speech_prob" : 0.01947128400206566
+      },
+      {
+        "id" : 65,
+        "seek" : 32832,
+        "start" : 348.0,
+        "end" : 352.04,
+        "text" : " But I just wanted to talk about it and be real and share this shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2843491035171702,
+        "compression_ratio" : 1.5980861244019138,
+        "no_speech_prob" : 0.01947128400206566
+      },
+      {
+        "id" : 66,
+        "seek" : 35204,
+        "start" : 352.76,
+        "end" : 359.8,
+        "text" : " Ultimately with you guys so you know what's going on and why by the way our most popular video disappeared that a lot of people live",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23514096967635617,
+        "compression_ratio" : 1.5941176470588236,
+        "no_speech_prob" : 0.03328749164938927
+      },
+      {
+        "id" : 67,
+        "seek" : 35204,
+        "start" : 361.12,
+        "end" : 368.56,
+        "text" : " So power to the creators guys don't forget about that one alright see you guys next time bye bye power to the creators. Okay. See you guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23514096967635617,
+        "compression_ratio" : 1.5941176470588236,
+        "no_speech_prob" : 0.03328749164938927
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "person_id" : "wweekes",
+  "category" : "lore",
+  "first_name" : "Walter",
+  "last_name" : "Weekes",
+  "display_name" : null,
+  "thumb" : "/people/wweekes.jpg",
+  "description" : null,
+  "aliases" : [
+    "Fresh"
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

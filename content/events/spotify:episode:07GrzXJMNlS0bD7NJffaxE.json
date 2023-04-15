@@ -1,0 +1,40 @@
+{
+  "event_id" : "spotify:episode:07GrzXJMNlS0bD7NJffaxE",
+  "category" : "podcast",
+  "name" : "#48 - Jordan Peterson",
+  "description" : "<p>Jordan Peterson joins us once again on The H3 Podcast for a FASCINATING conversation about ethics, his recent Channel 4 interview, and to discuss his new book, 12 Rules for Life: An Antidote to Chaos. Jordan Peterson is a clinical psychologist at the University of Toronto and an outspoken critic of radical politics and political correctness.</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/07GrzXJMNlS0bD7NJffaxE"
+    }
+  ],
+  "start_date" : 1517529600000,
+  "duration" : 8617325,
+  "people" : [
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "jpeterson",
+      "role" : "guest"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

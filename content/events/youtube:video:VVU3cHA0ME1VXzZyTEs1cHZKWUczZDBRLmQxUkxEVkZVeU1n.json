@@ -1,0 +1,663 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLmQxUkxEVkZVeU1n",
+  "category" : "video",
+  "name" : "Stealing Bell Peppers in Santa Cruz",
+  "description" : "Thanks for watching our Santa Cruz vlog 🤗\n\nMerch... http://h3h3shop.com",
+  "thumb" : "https://i.ytimg.com/vi/d1RLDVFUyMg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/d1RLDVFUyMg"
+    }
+  ],
+  "start_date" : 1508191841000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 19.28,
+        "text" : " I love Santa Cruz. It's such a unique place in this earth. Like here you have a nice quiet",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26316942487444195,
+        "compression_ratio" : 1.3208955223880596,
+        "no_speech_prob" : 0.05784694850444794
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 19.28,
+        "end" : 26.08,
+        "text" : " residential neighborhood with these colonial houses here and just on the street is the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26316942487444195,
+        "compression_ratio" : 1.3208955223880596,
+        "no_speech_prob" : 0.05784694850444794
+      },
+      {
+        "id" : 2,
+        "seek" : 2608,
+        "start" : 26.08,
+        "end" : 34.72,
+        "text" : " bustling. Down top bustling, you look. It's full of life and bustle. He was over here vlogging,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29537078155868357,
+        "compression_ratio" : 1.4696969696969697,
+        "no_speech_prob" : 0.16944639384746552
+      },
+      {
+        "id" : 3,
+        "seek" : 2608,
+        "start" : 34.72,
+        "end" : 41.92,
+        "text" : " but I just keep thinking what a fashion icon she is. She got this. No get out of my vlog,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29537078155868357,
+        "compression_ratio" : 1.4696969696969697,
+        "no_speech_prob" : 0.16944639384746552
+      },
+      {
+        "id" : 4,
+        "seek" : 2608,
+        "start" : 41.92,
+        "end" : 50.24,
+        "text" : " you look. Let me see the Fanny Pack. I'm complimenting you. Insane who can pull off a Fanny Pack in 2017.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29537078155868357,
+        "compression_ratio" : 1.4696969696969697,
+        "no_speech_prob" : 0.16944639384746552
+      },
+      {
+        "id" : 5,
+        "seek" : 5024,
+        "start" : 50.24,
+        "end" : 57.2,
+        "text" : " I'll tell you who fashion icon. Turn around. A yin yang. Right over this bridge here,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16912364959716797,
+        "compression_ratio" : 1.4345549738219896,
+        "no_speech_prob" : 0.027687918394804
+      },
+      {
+        "id" : 6,
+        "seek" : 5024,
+        "start" : 57.2,
+        "end" : 61.76,
+        "text" : " lots of weird people. There was a guy he used to walk up and down Pacific. I don't know if he's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16912364959716797,
+        "compression_ratio" : 1.4345549738219896,
+        "no_speech_prob" : 0.027687918394804
+      },
+      {
+        "id" : 7,
+        "seek" : 5024,
+        "start" : 61.76,
+        "end" : 66.72,
+        "text" : " still here. He would be an all in pink with a pink umbrella. He would walk literally at this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16912364959716797,
+        "compression_ratio" : 1.4345549738219896,
+        "no_speech_prob" : 0.027687918394804
+      },
+      {
+        "id" : 8,
+        "seek" : 6672,
+        "start" : 66.72,
+        "end" : 75.2,
+        "text" : " pace. I might even be going faster than he did. He would go all day, every day up and down. Give me a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24442926529915102,
+        "compression_ratio" : 1.10989010989011,
+        "no_speech_prob" : 0.007931939326226711
+      },
+      {
+        "id" : 9,
+        "seek" : 7520,
+        "start" : 75.28,
+        "end" : 89.28,
+        "text" : " binoculars. That guy, not even the weirdest guy down there to find him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3887504664334384,
+        "compression_ratio" : 1.232,
+        "no_speech_prob" : 0.0036233498249202967
+      },
+      {
+        "id" : 10,
+        "seek" : 7520,
+        "start" : 94.4,
+        "end" : 101.76,
+        "text" : " Look at this shit. In Santa Cruz, water doesn't flow into drains. It splashes out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3887504664334384,
+        "compression_ratio" : 1.232,
+        "no_speech_prob" : 0.0036233498249202967
+      },
+      {
+        "id" : 11,
+        "seek" : 10520,
+        "start" : 105.2,
+        "end" : 109.28,
+        "text" : " Save some of the water for LA, man. We're buying out there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18052434317673308,
+        "compression_ratio" : 1.5144230769230769,
+        "no_speech_prob" : 0.01261921226978302
+      },
+      {
+        "id" : 12,
+        "seek" : 10520,
+        "start" : 114.4,
+        "end" : 120.4,
+        "text" : " This little unassuming Mexican restaurant, a little booth, makes the most incredible food",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18052434317673308,
+        "compression_ratio" : 1.5144230769230769,
+        "no_speech_prob" : 0.01261921226978302
+      },
+      {
+        "id" : 13,
+        "seek" : 10520,
+        "start" : 121.12,
+        "end" : 127.2,
+        "text" : " anywhere in the world. This is my favorite restaurant. We had to come back here and get this soup.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18052434317673308,
+        "compression_ratio" : 1.5144230769230769,
+        "no_speech_prob" : 0.01261921226978302
+      },
+      {
+        "id" : 14,
+        "seek" : 10520,
+        "start" : 127.2,
+        "end" : 130.08,
+        "text" : " He always been thinking about this soup for 10 years. Have a bite.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18052434317673308,
+        "compression_ratio" : 1.5144230769230769,
+        "no_speech_prob" : 0.01261921226978302
+      },
+      {
+        "id" : 15,
+        "seek" : 13520,
+        "start" : 135.44,
+        "end" : 144.0,
+        "text" : " How do you know? This is chicken tinga. The tinga means it's fucking good. Take my word for it,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37923932479599776,
+        "compression_ratio" : 1.3582089552238805,
+        "no_speech_prob" : 0.022830316796898842
+      },
+      {
+        "id" : 16,
+        "seek" : 13520,
+        "start" : 144.0,
+        "end" : 153.68,
+        "text" : " dude. Tell me about the tinga, Yila. How tinga is that right now? That got two. Oh no.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37923932479599776,
+        "compression_ratio" : 1.3582089552238805,
+        "no_speech_prob" : 0.022830316796898842
+      },
+      {
+        "id" : 17,
+        "seek" : 15368,
+        "start" : 153.68,
+        "end" : 167.76,
+        "text" : " I remember the smell here. This is newly. It's an organic market here on Pacific.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3562407684326172,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.026264332234859467
+      },
+      {
+        "id" : 18,
+        "seek" : 15368,
+        "start" : 168.4,
+        "end" : 176.96,
+        "text" : " And if you can smell the sweat of hippies here, it smells like flaxseed and two paste without fluoride",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3562407684326172,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.026264332234859467
+      },
+      {
+        "id" : 19,
+        "seek" : 17696,
+        "start" : 177.2,
+        "end" : 182.48,
+        "text" : " and deodorant without aluminum. It smells like dreadlocks and Indian food.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33215550453432147,
+        "compression_ratio" : 1.3579545454545454,
+        "no_speech_prob" : 0.0205680001527071
+      },
+      {
+        "id" : 20,
+        "seek" : 17696,
+        "start" : 184.8,
+        "end" : 193.76,
+        "text" : " It was right. This is where the legendary red pepper was grabbed and then returned.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33215550453432147,
+        "compression_ratio" : 1.3579545454545454,
+        "no_speech_prob" : 0.0205680001527071
+      },
+      {
+        "id" : 21,
+        "seek" : 17696,
+        "start" : 193.76,
+        "end" : 197.52,
+        "text" : " And to be fair, I mean let's say the price. These are expensive. You saved $200.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33215550453432147,
+        "compression_ratio" : 1.3579545454545454,
+        "no_speech_prob" : 0.0205680001527071
+      },
+      {
+        "id" : 22,
+        "seek" : 20696,
+        "start" : 206.96,
+        "end" : 214.4,
+        "text" : " I made it. So nice to have a four to bell pepper now. It's $1.50. You should have a bite. You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.300729626807097,
+        "compression_ratio" : 1.5526315789473684,
+        "no_speech_prob" : 0.02845117263495922
+      },
+      {
+        "id" : 23,
+        "seek" : 20696,
+        "start" : 214.4,
+        "end" : 221.6,
+        "text" : " can enjoy the fruit to your labor. Thank you. This is what's success tastes like, Yila. Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.300729626807097,
+        "compression_ratio" : 1.5526315789473684,
+        "no_speech_prob" : 0.02845117263495922
+      },
+      {
+        "id" : 24,
+        "seek" : 20696,
+        "start" : 224.4,
+        "end" : 231.44,
+        "text" : " Nice, right? I usually eat it in a salad, everyone. You have another bite.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.300729626807097,
+        "compression_ratio" : 1.5526315789473684,
+        "no_speech_prob" : 0.02845117263495922
+      },
+      {
+        "id" : 25,
+        "seek" : 20696,
+        "start" : 233.12,
+        "end" : 236.56,
+        "text" : " I like bell pepper. Yes, it's not that bad. It's actually a good one too. It's pretty good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.300729626807097,
+        "compression_ratio" : 1.5526315789473684,
+        "no_speech_prob" : 0.02845117263495922
+      },
+      {
+        "id" : 26,
+        "seek" : 23696,
+        "start" : 237.04,
+        "end" : 263.36,
+        "text" : " This is a sea otter which I think is pretty unique to the Monterey Bay. I think they're in, I might be wrong. I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39984357016427174,
+        "compression_ratio" : 1.15625,
+        "no_speech_prob" : 0.01359719317406416
+      },
+      {
+        "id" : 27,
+        "seek" : 26336,
+        "start" : 263.36,
+        "end" : 268.16,
+        "text" : " might be clueless. I think they're endangered and they're not. They don't really show up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21341295001887473,
+        "compression_ratio" : 1.8773946360153257,
+        "no_speech_prob" : 0.030586903914809227
+      },
+      {
+        "id" : 28,
+        "seek" : 26336,
+        "start" : 272.24,
+        "end" : 278.0,
+        "text" : " But they're really smart and really adorable. They're so cute. They just play around in the water.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21341295001887473,
+        "compression_ratio" : 1.8773946360153257,
+        "no_speech_prob" : 0.030586903914809227
+      },
+      {
+        "id" : 29,
+        "seek" : 26336,
+        "start" : 278.0,
+        "end" : 283.84,
+        "text" : " They basically use rocks. They eat shellfish and they lay on their back and they use rocks to smash",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21341295001887473,
+        "compression_ratio" : 1.8773946360153257,
+        "no_speech_prob" : 0.030586903914809227
+      },
+      {
+        "id" : 30,
+        "seek" : 26336,
+        "start" : 283.84,
+        "end" : 288.48,
+        "text" : " open the shellfish. Do you want to know how adorable these creatures are? They hold hands at night",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21341295001887473,
+        "compression_ratio" : 1.8773946360153257,
+        "no_speech_prob" : 0.030586903914809227
+      },
+      {
+        "id" : 31,
+        "seek" : 26336,
+        "start" : 288.48,
+        "end" : 292.0,
+        "text" : " so they don't drift away from each other because their mammals are sleeping in the water on their back",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21341295001887473,
+        "compression_ratio" : 1.8773946360153257,
+        "no_speech_prob" : 0.030586903914809227
+      },
+      {
+        "id" : 32,
+        "seek" : 29200,
+        "start" : 292.0,
+        "end" : 298.96,
+        "text" : " and they float and they don't drift away. It's a great.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6943182945251465,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.012673353776335716
+      },
+      {
+        "id" : 33,
+        "seek" : 32200,
+        "start" : 322.48,
+        "end" : 341.44,
+        "text" : " Next we end this, away. They look so relaxed. One, so relaxed, so chilled. Two, massive. Don't worry",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34992218017578125,
+        "compression_ratio" : 1.3857142857142857,
+        "no_speech_prob" : 0.03128896281123161
+      },
+      {
+        "id" : 34,
+        "seek" : 32200,
+        "start" : 341.44,
+        "end" : 347.76,
+        "text" : " about their weight. I don't think that sea lions worry about cholesterol. And they stand just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34992218017578125,
+        "compression_ratio" : 1.3857142857142857,
+        "no_speech_prob" : 0.03128896281123161
+      },
+      {
+        "id" : 35,
+        "seek" : 34776,
+        "start" : 347.84,
+        "end" : 351.68,
+        "text" : " like friendly to each other. They all put like lean their head on each other.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2427720709161444,
+        "compression_ratio" : 1.7294685990338163,
+        "no_speech_prob" : 0.05864553153514862
+      },
+      {
+        "id" : 36,
+        "seek" : 34776,
+        "start" : 354.08,
+        "end" : 359.28,
+        "text" : " Very friendly people. And like also they never have to worry about being like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2427720709161444,
+        "compression_ratio" : 1.7294685990338163,
+        "no_speech_prob" : 0.05864553153514862
+      },
+      {
+        "id" : 37,
+        "seek" : 34776,
+        "start" : 360.16,
+        "end" : 365.28,
+        "text" : " too cold. They just chill in the water. It's freezing cold and they're all good. The fatter they are,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2427720709161444,
+        "compression_ratio" : 1.7294685990338163,
+        "no_speech_prob" : 0.05864553153514862
+      },
+      {
+        "id" : 38,
+        "seek" : 34776,
+        "start" : 365.28,
+        "end" : 372.48,
+        "text" : " the more successful they are. That's my dream come true. The better I get the more successful I was,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2427720709161444,
+        "compression_ratio" : 1.7294685990338163,
+        "no_speech_prob" : 0.05864553153514862
+      },
+      {
+        "id" : 39,
+        "seek" : 37248,
+        "start" : 372.56,
+        "end" : 378.16,
+        "text" : " I would be a king of this country already. I don't have the life. I have been bad for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40761847496032716,
+        "compression_ratio" : 1.6010928961748634,
+        "no_speech_prob" : 0.0038651181384921074
+      },
+      {
+        "id" : 40,
+        "seek" : 37248,
+        "start" : 378.16,
+        "end" : 386.08,
+        "text" : " The sea lion. I would never get up on a skewer if she was a sea lion. I would though. I would always get up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40761847496032716,
+        "compression_ratio" : 1.6010928961748634,
+        "no_speech_prob" : 0.0038651181384921074
+      },
+      {
+        "id" : 41,
+        "seek" : 37248,
+        "start" : 396.88,
+        "end" : 401.76,
+        "text" : " The locals call it Blaze Cliff Drive. The streets called West Cliff Drive is where people come",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40761847496032716,
+        "compression_ratio" : 1.6010928961748634,
+        "no_speech_prob" : 0.0038651181384921074
+      },
+      {
+        "id" : 42,
+        "seek" : 40176,
+        "start" : 401.84,
+        "end" : 407.84,
+        "text" : " to get blazed. Or just drink water. Come to Blaze Cliff Drive and drink some water.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27920110297925543,
+        "compression_ratio" : 1.4069767441860466,
+        "no_speech_prob" : 0.001852688961662352
+      },
+      {
+        "id" : 43,
+        "seek" : 40176,
+        "start" : 409.92,
+        "end" : 417.36,
+        "text" : " But mostly lots of weed. What the locals say to do, not me. So this is how it's crazy. And",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27920110297925543,
+        "compression_ratio" : 1.4069767441860466,
+        "no_speech_prob" : 0.001852688961662352
+      },
+      {
+        "id" : 44,
+        "seek" : 40176,
+        "start" : 418.88,
+        "end" : 425.36,
+        "text" : " serious the surfing is here. These are all people who have their...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27920110297925543,
+        "compression_ratio" : 1.4069767441860466,
+        "no_speech_prob" : 0.001852688961662352
+      },
+      {
+        "id" : 45,
+        "seek" : 46176,
+        "start" : 461.92,
+        "end" : 463.12,
+        "text" : " The",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40119171142578125,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.016252759844064713
+      },
+      {
+        "id" : 46,
+        "seek" : 46176,
+        "start" : 470.08,
+        "end" : 476.16,
+        "text" : " opinion. This cat just started following us. I don't know that I've ever seen this before.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40119171142578125,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.016252759844064713
+      },
+      {
+        "id" : 47,
+        "seek" : 46176,
+        "start" : 476.88,
+        "end" : 485.04,
+        "text" : " We're just walking our dog. The cat. Just like charged at us from across the street. And he's just like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.40119171142578125,
+        "compression_ratio" : 1.3630136986301369,
+        "no_speech_prob" : 0.016252759844064713
+      },
+      {
+        "id" : 48,
+        "seek" : 48504,
+        "start" : 485.68,
+        "end" : 494.08,
+        "text" : " I'm gonna hang with these people now. Hey kitty. What the fuck?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4322623433293523,
+        "compression_ratio" : 1.2135922330097086,
+        "no_speech_prob" : 0.029034622013568878
+      },
+      {
+        "id" : 49,
+        "seek" : 48504,
+        "start" : 494.88,
+        "end" : 500.96,
+        "text" : " Shit is weird. Come on kitty. What am I gonna do without you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4322623433293523,
+        "compression_ratio" : 1.2135922330097086,
+        "no_speech_prob" : 0.029034622013568878
+      },
+      {
+        "id" : 50,
+        "seek" : 51504,
+        "start" : 515.52,
+        "end" : 517.52,
+        "text" : " Ga...",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.226419040134975,
+        "compression_ratio" : 0.7037037037037037,
+        "no_speech_prob" : 0.34625786542892456
+      },
+      {
+        "id" : 51,
+        "seek" : 51504,
+        "start" : 525.76,
+        "end" : 528.24,
+        "text" : " Oh! I got it!",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.226419040134975,
+        "compression_ratio" : 0.7037037037037037,
+        "no_speech_prob" : 0.34625786542892456
+      },
+      {
+        "id" : 52,
+        "seek" : 60504,
+        "start" : 605.04,
+        "end" : 623.04,
+        "text" : " You lit your suck on all the light from the sunset. Where's the... you sucked all the light right out of the sun?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.429022910378196,
+        "compression_ratio" : 1.4817518248175183,
+        "no_speech_prob" : 0.03338547423481941
+      },
+      {
+        "id" : 53,
+        "seek" : 60504,
+        "start" : 623.04,
+        "end" : 629.68,
+        "text" : " I just can't even compete. It's just completely gone. There's no sunshine left. You're...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.429022910378196,
+        "compression_ratio" : 1.4817518248175183,
+        "no_speech_prob" : 0.03338547423481941
+      },
+      {
+        "id" : 54,
+        "seek" : 62968,
+        "start" : 629.68,
+        "end" : 638.8,
+        "text" : " You're a way. You are way too radiant and beautiful. You shine way too bright. There's no sunset anymore.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31527242064476013,
+        "compression_ratio" : 1.4444444444444444,
+        "no_speech_prob" : 0.025617429986596107
+      },
+      {
+        "id" : 55,
+        "seek" : 62968,
+        "start" : 638.8,
+        "end" : 643.44,
+        "text" : " It's just straight up okay there it is. Reused towels and linen. In other words...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31527242064476013,
+        "compression_ratio" : 1.4444444444444444,
+        "no_speech_prob" : 0.025617429986596107
+      },
+      {
+        "id" : 56,
+        "seek" : 62968,
+        "start" : 648.32,
+        "end" : 652.32,
+        "text" : " Go green, bro. They make. Remember that name?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31527242064476013,
+        "compression_ratio" : 1.4444444444444444,
+        "no_speech_prob" : 0.025617429986596107
+      }
+    ]
+  }
+}

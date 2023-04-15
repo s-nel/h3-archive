@@ -1,0 +1,289 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmxDOXN3YV95cmNR",
+  "category" : "video",
+  "name" : "h3h3 prank call: Flowers.com helps me pick out flowers",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/lC9swa_yrcQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/lC9swa_yrcQ"
+    }
+  ],
+  "start_date" : 1406744710000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " What type of flowers will you take your dog getting?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3051984288670995,
+        "compression_ratio" : 1.9951456310679612,
+        "no_speech_prob" : 0.6145684123039246
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 5.0,
+        "text" : " Ah, something red, something like...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3051984288670995,
+        "compression_ratio" : 1.9951456310679612,
+        "no_speech_prob" : 0.6145684123039246
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 11.0,
+        "text" : " Something red, something passionate, you know, I want something that oozes passion and longing, you know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3051984288670995,
+        "compression_ratio" : 1.9951456310679612,
+        "no_speech_prob" : 0.6145684123039246
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 16.0,
+        "text" : " Something seductive and playful, something seductive and playful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3051984288670995,
+        "compression_ratio" : 1.9951456310679612,
+        "no_speech_prob" : 0.6145684123039246
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 24.0,
+        "text" : " Something that says, you know, yeah, I am down to bone, you know, but also like, it's cool if you don't want to.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3051984288670995,
+        "compression_ratio" : 1.9951456310679612,
+        "no_speech_prob" : 0.6145684123039246
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 24.0,
+        "end" : 26.0,
+        "text" : " Do you know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3051984288670995,
+        "compression_ratio" : 1.9951456310679612,
+        "no_speech_prob" : 0.6145684123039246
+      },
+      {
+        "id" : 6,
+        "seek" : 2600,
+        "start" : 27.0,
+        "end" : 31.0,
+        "text" : " I would recommend like a dozen long-standing rambuses.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 31.0,
+        "end" : 32.0,
+        "text" : " Cool, I can do it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 32.0,
+        "end" : 33.0,
+        "text" : " Yeah, that sounds good to me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 9,
+        "seek" : 2600,
+        "start" : 33.0,
+        "end" : 35.0,
+        "text" : " It sounds like you know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 10,
+        "seek" : 2600,
+        "start" : 35.0,
+        "end" : 37.0,
+        "text" : " It's just, you seem like you kind of...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 11,
+        "seek" : 2600,
+        "start" : 37.0,
+        "end" : 38.0,
+        "text" : " I don't know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 12,
+        "seek" : 2600,
+        "start" : 38.0,
+        "end" : 45.0,
+        "text" : " Well, and besides the fact that you work at Flowers.com, you seem like the kind of guy who knows what kind of flowers to send when the situation seems right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 13,
+        "seek" : 2600,
+        "start" : 45.0,
+        "end" : 47.0,
+        "text" : " So I trust your opinion, that sounds like a good choice.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 14,
+        "seek" : 2600,
+        "start" : 47.0,
+        "end" : 49.0,
+        "text" : " O-E.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 15,
+        "seek" : 2600,
+        "start" : 49.0,
+        "end" : 50.0,
+        "text" : " Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 16,
+        "seek" : 2600,
+        "start" : 50.0,
+        "end" : 51.0,
+        "text" : " Let's set it up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 17,
+        "seek" : 2600,
+        "start" : 51.0,
+        "end" : 53.0,
+        "text" : " Now we'll definitely...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 18,
+        "seek" : 2600,
+        "start" : 53.0,
+        "end" : 54.0,
+        "text" : " I will definitely do that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2882611063502779,
+        "compression_ratio" : 1.7184115523465704,
+        "no_speech_prob" : 0.41464221477508545
+      },
+      {
+        "id" : 19,
+        "seek" : 5400,
+        "start" : 54.0,
+        "end" : 56.0,
+        "text" : " Cool.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2776757104056222,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06233784928917885
+      },
+      {
+        "id" : 20,
+        "seek" : 5400,
+        "start" : 56.0,
+        "end" : 59.0,
+        "text" : " We'll see you occasionally for the flowers.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2776757104056222,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06233784928917885
+      },
+      {
+        "id" : 21,
+        "seek" : 5400,
+        "start" : 59.0,
+        "end" : 61.0,
+        "text" : " My father-in-law passed away.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2776757104056222,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06233784928917885
+      },
+      {
+        "id" : 22,
+        "seek" : 5400,
+        "start" : 61.0,
+        "end" : 65.0,
+        "text" : " Sorry to hear about that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2776757104056222,
+        "compression_ratio" : 1.105263157894737,
+        "no_speech_prob" : 0.06233784928917885
+      }
+    ]
+  }
+}

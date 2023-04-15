@@ -1,0 +1,43 @@
+{
+  "steamy_id" : "worst-apology-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "sgomez"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ddobrik"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jcena"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jwebster"
+      ],
+      "name" : null,
+      "won" : true
+    }
+  ],
+  "name" : "Worst Apology",
+  "description" : null,
+  "year" : 2021
+}

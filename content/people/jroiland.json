@@ -1,0 +1,12 @@
+{
+  "person_id" : "jroiland",
+  "category" : "guest",
+  "first_name" : "Justin",
+  "last_name" : "Roiland",
+  "display_name" : "Justin Roiland",
+  "thumb" : "/people/jroiland.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

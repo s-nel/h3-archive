@@ -1,0 +1,553 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmdGLVhPdjZhanlZ",
+  "category" : "video",
+  "name" : "Nuclear Winter - Keemstar",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/gF-XOv6ajyY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/gF-XOv6ajyY"
+    }
+  ],
+  "start_date" : 1590443342000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "dkeem",
+      "role" : "topic"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 12.0,
+        "text" : " I am a person that believes in revenge. I think if someone fucks you over in any shape or form, destroy him. Destroy him. Destroy him. Destroy him. Destroy him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3252235930642964,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.37730199098587036
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 28.0,
+        "text" : " What is up, Drumbler Nation? I'm your host, Keemstar. Recently, I have been under attack by a very, very angry man known as Ethan Klein.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3252235930642964,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.37730199098587036
+      },
+      {
+        "id" : 2,
+        "seek" : 2800,
+        "start" : 28.0,
+        "end" : 34.0,
+        "text" : " Keemstar responded, and what I didn't expect is for him to renew his attacks on Tony.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08871498493233113,
+        "compression_ratio" : 1.5348837209302326,
+        "no_speech_prob" : 0.018204884603619576
+      },
+      {
+        "id" : 3,
+        "seek" : 2800,
+        "start" : 34.0,
+        "end" : 49.0,
+        "text" : " Years later, why were people suddenly starting to troll Tony or glory and gold? Well, because every streamer has trolls. But actually, there's something else that Tony doesn't want you to know about. He was involved in his own scandal.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08871498493233113,
+        "compression_ratio" : 1.5348837209302326,
+        "no_speech_prob" : 0.018204884603619576
+      },
+      {
+        "id" : 4,
+        "seek" : 2800,
+        "start" : 49.0,
+        "end" : 54.0,
+        "text" : " After all, he's put this man through, and he's coming back to do it again.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08871498493233113,
+        "compression_ratio" : 1.5348837209302326,
+        "no_speech_prob" : 0.018204884603619576
+      },
+      {
+        "id" : 5,
+        "seek" : 5400,
+        "start" : 54.0,
+        "end" : 78.0,
+        "text" : " Now listen, I'm not going to tell anybody the catfish story. Tony, that is for you to tell. You got to tell people why individuals years later, after this incident, would be in your chat calling you the P word. All right. You got to explain that story. You got to tell that story. I'm not going to tell anyone. I wronged you in the past. The least I could do is give you a pass and not explain that catfish story.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10048497640169583,
+        "compression_ratio" : 1.8193832599118942,
+        "no_speech_prob" : 0.22601935267448425
+      },
+      {
+        "id" : 6,
+        "seek" : 7800,
+        "start" : 78.0,
+        "end" : 95.0,
+        "text" : " Keemstar says it's Tony's story to tell, but he can't help himself. People are not taking the bait. And so he pushes it further on Twitter. Please, RS Glorian Gold come clean on the catfish story. Stop blaming me for the hate you've gotten over the last few years.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1126751607778121,
+        "compression_ratio" : 1.5560165975103735,
+        "no_speech_prob" : 0.3692851662635803
+      },
+      {
+        "id" : 7,
+        "seek" : 7800,
+        "start" : 95.0,
+        "end" : 103.0,
+        "text" : " And what he retweeted is apparently proof that RS Glorian Gold is a pedophile. Now let's examine these claims.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1126751607778121,
+        "compression_ratio" : 1.5560165975103735,
+        "no_speech_prob" : 0.3692851662635803
+      },
+      {
+        "id" : 8,
+        "seek" : 10300,
+        "start" : 103.0,
+        "end" : 124.0,
+        "text" : " RS Glorian Gold, Tony, you should be disgusted with yourself. You thought those cases were for Rebecca Hart, a girl who's told you she's 16. She's underage, but you've happily asked for pictures. You've offered to meet up with her. You even said I give $1,000 if I could hold and kiss you right now. She's a child, you fucking pido.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15803540547688802,
+        "compression_ratio" : 1.4625550660792952,
+        "no_speech_prob" : 0.27000659704208374
+      },
+      {
+        "id" : 9,
+        "seek" : 12400,
+        "start" : 124.0,
+        "end" : 139.0,
+        "text" : " This didn't happen just recently. This has been going on for one whole year. The first horrifying admission is that they have been pretending to be dating Tony for a year. How sick do you have to be to screw with an old man for over a year and lead him on?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07581471615150327,
+        "compression_ratio" : 1.6375404530744337,
+        "no_speech_prob" : 0.604072630405426
+      },
+      {
+        "id" : 10,
+        "seek" : 12400,
+        "start" : 139.0,
+        "end" : 153.0,
+        "text" : " I shouldn't really be laughing at some of this. He says he had my last girlfriend was eight years ago. My only wife died in 1979. So if he wants to accuse maybe a hacking or something, I mean this went on for a year. There was no doubt this is Tony.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07581471615150327,
+        "compression_ratio" : 1.6375404530744337,
+        "no_speech_prob" : 0.604072630405426
+      },
+      {
+        "id" : 11,
+        "seek" : 15300,
+        "start" : 153.0,
+        "end" : 170.0,
+        "text" : " Tony has been pouring his heart out to someone he thought was emotionally invested in him. Here's a screenshot of her saying I'm 16 nearly 17. Many people point out that there's no verification check mark next to his name, which indicates that the screenshot may be fake.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11156896148065124,
+        "compression_ratio" : 1.5183823529411764,
+        "no_speech_prob" : 0.07678889483213425
+      },
+      {
+        "id" : 12,
+        "seek" : 15300,
+        "start" : 170.0,
+        "end" : 180.0,
+        "text" : " But I'll just let Tony explain for himself. My name's Tony Winchester. I'm RS Glorian Gold. I'm making this video. It's called Rebecca Hartz.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11156896148065124,
+        "compression_ratio" : 1.5183823529411764,
+        "no_speech_prob" : 0.07678889483213425
+      },
+      {
+        "id" : 13,
+        "seek" : 18000,
+        "start" : 180.0,
+        "end" : 195.0,
+        "text" : " Rebecca Hartz. Some guy, some scumbag has made a video and saying that Rebecca Hartz is 16 years old and that I'm pursuing her and blah blah blah blah blah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1945511057407041,
+        "compression_ratio" : 1.5939086294416243,
+        "no_speech_prob" : 0.8150822520256042
+      },
+      {
+        "id" : 14,
+        "seek" : 18000,
+        "start" : 195.0,
+        "end" : 209.0,
+        "text" : " So anyway, I'm just making this video to set the record straight. I met Rebecca Hartz in late January at 2016. She said because of all the internet bullshit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1945511057407041,
+        "compression_ratio" : 1.5939086294416243,
+        "no_speech_prob" : 0.8150822520256042
+      },
+      {
+        "id" : 15,
+        "seek" : 20900,
+        "start" : 209.0,
+        "end" : 225.0,
+        "text" : " She felt sorry for me and wanted to reach out to me. The internet bullshit she's referring to is of course this. We reported a story that this Massachusetts man, John Phillips, had sexual a teen that he married an online game in RudeScape.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16071041652134488,
+        "compression_ratio" : 1.6037037037037036,
+        "no_speech_prob" : 0.08609749376773834
+      },
+      {
+        "id" : 16,
+        "seek" : 20900,
+        "start" : 225.0,
+        "end" : 238.0,
+        "text" : " Now the problem with this is that that's not John. What was Tony's reward for being falsely accused of being a pedophile, being catfish for over a year in an attempt to frame him as a get this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16071041652134488,
+        "compression_ratio" : 1.6037037037037036,
+        "no_speech_prob" : 0.08609749376773834
+      },
+      {
+        "id" : 17,
+        "seek" : 23800,
+        "start" : 238.0,
+        "end" : 251.0,
+        "text" : " Get this pedophile. As long as you don't mind my age 25. I don't mind your age. See, it's the right there. The girl says as long you don't mind my age 25. I don't mind your age.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14606353214808873,
+        "compression_ratio" : 1.6699029126213591,
+        "no_speech_prob" : 0.09229180961847305
+      },
+      {
+        "id" : 18,
+        "seek" : 23800,
+        "start" : 251.0,
+        "end" : 263.0,
+        "text" : " Now, why is this so screwed up because Tony already addressed this in 2017 and Keemstar has decided to resurrect the allegations again in 2020 and his video about me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14606353214808873,
+        "compression_ratio" : 1.6699029126213591,
+        "no_speech_prob" : 0.09229180961847305
+      },
+      {
+        "id" : 19,
+        "seek" : 26300,
+        "start" : 263.0,
+        "end" : 276.0,
+        "text" : " Listen, I'm not going to tell anybody the catfish story. Tony, that is for you to tell. You got to tell people why individuals years later after this incident would be in your chat calling you the peeward.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10863694837016444,
+        "compression_ratio" : 1.6024590163934427,
+        "no_speech_prob" : 0.7166459560394287
+      },
+      {
+        "id" : 20,
+        "seek" : 26300,
+        "start" : 276.0,
+        "end" : 289.0,
+        "text" : " Keemstar never reported on this story. So this is fresh meat for his audience to renew their witch hunt of Tony to accuse Tony again of being a pedophile as a means of deflecting blame.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10863694837016444,
+        "compression_ratio" : 1.6024590163934427,
+        "no_speech_prob" : 0.7166459560394287
+      },
+      {
+        "id" : 21,
+        "seek" : 28900,
+        "start" : 289.0,
+        "end" : 302.0,
+        "text" : " I wronged you in the past. The least I could do is give you a pass and not explain that catfish story. That's pretty cut and dry, right? I mean, that's who she says she was and we were friends for a long time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08315711102243196,
+        "compression_ratio" : 1.978448275862069,
+        "no_speech_prob" : 0.8097103238105774
+      },
+      {
+        "id" : 22,
+        "seek" : 28900,
+        "start" : 302.0,
+        "end" : 311.0,
+        "text" : " You got to explain that story. You got to tell that story. Anything else is just horse shit. The least I could do is give you a pass and not explain that catfish story.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08315711102243196,
+        "compression_ratio" : 1.978448275862069,
+        "no_speech_prob" : 0.8097103238105774
+      },
+      {
+        "id" : 23,
+        "seek" : 28900,
+        "start" : 311.0,
+        "end" : 315.0,
+        "text" : " That piece of shit should take that video down and quit telling a bunch of lies.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08315711102243196,
+        "compression_ratio" : 1.978448275862069,
+        "no_speech_prob" : 0.8097103238105774
+      },
+      {
+        "id" : 24,
+        "seek" : 31500,
+        "start" : 316.0,
+        "end" : 327.0,
+        "text" : " Hey guys, I just wanted to put out this video just to clarify, right? Just to absolutely clarify. I am not here to say that the catfish story is real.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07886262587559076,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.18947723507881165
+      },
+      {
+        "id" : 25,
+        "seek" : 31500,
+        "start" : 327.0,
+        "end" : 339.0,
+        "text" : " I'm not here to say that Tony is guilty or innocent. I am simply just like my video today and here to say that there is this catfish story, that there are these accusations.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.07886262587559076,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.18947723507881165
+      },
+      {
+        "id" : 26,
+        "seek" : 33900,
+        "start" : 339.0,
+        "end" : 353.0,
+        "text" : " Well, then why did you put the goddamn video out? Hey, the tweet. You put it out because you knew a whole bunch of your little assholes buddies that watch you would come over and screw with me all day long, which they did.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18180567423502605,
+        "compression_ratio" : 1.5665236051502145,
+        "no_speech_prob" : 0.6587814688682556
+      },
+      {
+        "id" : 27,
+        "seek" : 33900,
+        "start" : 353.0,
+        "end" : 363.0,
+        "text" : " And that's exactly what you wanted to happen. Jesus Christ. You know, I thought you were in the news business. You're supposed to do the news.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18180567423502605,
+        "compression_ratio" : 1.5665236051502145,
+        "no_speech_prob" : 0.6587814688682556
+      },
+      {
+        "id" : 28,
+        "seek" : 36300,
+        "start" : 363.0,
+        "end" : 371.0,
+        "text" : " If you're going to do the news and you should go check and find out if that story is really true or not. The truth is, you already know it's not true.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11347341100010302,
+        "compression_ratio" : 1.6705882352941177,
+        "no_speech_prob" : 0.4009564518928528
+      },
+      {
+        "id" : 29,
+        "seek" : 36300,
+        "start" : 371.0,
+        "end" : 379.0,
+        "text" : " You've known for a long time, it's not true. You knew it wasn't true when you returned to the wilderness brought it to you more than two years ago.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11347341100010302,
+        "compression_ratio" : 1.6705882352941177,
+        "no_speech_prob" : 0.4009564518928528
+      },
+      {
+        "id" : 30,
+        "seek" : 36300,
+        "start" : 379.0,
+        "end" : 389.0,
+        "text" : " But this is just your way of trying to put a little smoke screen out where you're the good guy and everybody else is a bad guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11347341100010302,
+        "compression_ratio" : 1.6705882352941177,
+        "no_speech_prob" : 0.4009564518928528
+      },
+      {
+        "id" : 31,
+        "seek" : 38900,
+        "start" : 389.0,
+        "end" : 397.0,
+        "text" : " But the truth is, you are the biggest phoneie boat asshole that ever walked the planet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20532521115073674,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.11247073858976364
+      },
+      {
+        "id" : 32,
+        "seek" : 38900,
+        "start" : 397.0,
+        "end" : 403.0,
+        "text" : " Because Keemstar made this big thing about how unprecedented it was that H3H3 mentioned to sponsors.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20532521115073674,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.11247073858976364
+      },
+      {
+        "id" : 33,
+        "seek" : 38900,
+        "start" : 403.0,
+        "end" : 411.0,
+        "text" : " And I guess G Fuel dropped Keemstar. Keemstar went after my sponsors. Keemstar tried to get G Fuel to drop me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20532521115073674,
+        "compression_ratio" : 1.5654450261780104,
+        "no_speech_prob" : 0.11247073858976364
+      },
+      {
+        "id" : 34,
+        "seek" : 41100,
+        "start" : 411.0,
+        "end" : 425.0,
+        "text" : " What a fucking lying hypocrite shitbag. And I didn't even care. You know, like none of my sponsors left me because Keemstar said to what I took offense to was when Keemstar attacked my children.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14022703868586842,
+        "compression_ratio" : 1.463302752293578,
+        "no_speech_prob" : 0.21930375695228577
+      },
+      {
+        "id" : 35,
+        "seek" : 41100,
+        "start" : 425.0,
+        "end" : 435.0,
+        "text" : " So I would watch live with my viewers. Well, one day my dog sat down next to Colin and Colin, like looked over at his penis.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14022703868586842,
+        "compression_ratio" : 1.463302752293578,
+        "no_speech_prob" : 0.21930375695228577
+      },
+      {
+        "id" : 36,
+        "seek" : 43500,
+        "start" : 435.0,
+        "end" : 448.0,
+        "text" : " And he even moved like fur that was right next to it or something like that. And it was live. So we took down the vlog and you know, didn't like made it so no one could see it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14977311527027803,
+        "compression_ratio" : 1.555023923444976,
+        "no_speech_prob" : 0.6617311239242554
+      },
+      {
+        "id" : 37,
+        "seek" : 43500,
+        "start" : 448.0,
+        "end" : 459.0,
+        "text" : " But Keemstar got a hold of it. And Keemstar tweeted it out to like his quarter million, half a million Twitter followers, 13 times over the weekend.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14977311527027803,
+        "compression_ratio" : 1.555023923444976,
+        "no_speech_prob" : 0.6617311239242554
+      },
+      {
+        "id" : 38,
+        "seek" : 45900,
+        "start" : 459.0,
+        "end" : 472.0,
+        "text" : " And he didn't just say like look Colin almost touched a dog penis. He said look, Colin's jerking off a dog. And Colin is like eight years old special needs kid at this point.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13453737218329248,
+        "compression_ratio" : 1.5726495726495726,
+        "no_speech_prob" : 0.5681682229042053
+      },
+      {
+        "id" : 39,
+        "seek" : 45900,
+        "start" : 472.0,
+        "end" : 485.0,
+        "text" : " And he was fucking relentless about it. So we had a common friend who only used me blade. And I was like, blade, can you talk to him? Like this is fucked up. He's literally going after my kids.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13453737218329248,
+        "compression_ratio" : 1.5726495726495726,
+        "no_speech_prob" : 0.5681682229042053
+      },
+      {
+        "id" : 40,
+        "seek" : 48500,
+        "start" : 485.0,
+        "end" : 504.0,
+        "text" : " He's going after my son and blade talked to Keemstar and then circle back to me and said, I talked to Keem about it. And he said that if he wasn't talking shit about your son all the time that somebody else would and he's not going to back off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.091939820183648,
+        "compression_ratio" : 1.5443037974683544,
+        "no_speech_prob" : 0.13502328097820282
+      },
+      {
+        "id" : 41,
+        "seek" : 50400,
+        "start" : 504.0,
+        "end" : 517.0,
+        "text" : " So that's a video. That's it. That's that's that's actually the unforgivable act that that I have with Keemstar.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09179471994375253,
+        "compression_ratio" : 1.580110497237569,
+        "no_speech_prob" : 0.2720366418361664
+      },
+      {
+        "id" : 42,
+        "seek" : 50400,
+        "start" : 517.0,
+        "end" : 527.0,
+        "text" : " Destroying lives is a weekly sport for Keemstar. And when he moves on to the next story, the pain lingers on for those that have found themselves in his path of destruction.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.09179471994375253,
+        "compression_ratio" : 1.580110497237569,
+        "no_speech_prob" : 0.2720366418361664
+      },
+      {
+        "id" : 43,
+        "seek" : 52700,
+        "start" : 527.0,
+        "end" : 541.0,
+        "text" : " He has been called out time and again, but refuses to change. Tony is proof enough of that. After ruining this man's life, he has come back for seconds. And when met with criticism, he answers with threats.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10214889567831288,
+        "compression_ratio" : 1.5308641975308641,
+        "no_speech_prob" : 0.44022655487060547
+      },
+      {
+        "id" : 44,
+        "seek" : 52700,
+        "start" : 541.0,
+        "end" : 544.0,
+        "text" : " Good luck Ethan, because you're going to fucking need it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10214889567831288,
+        "compression_ratio" : 1.5308641975308641,
+        "no_speech_prob" : 0.44022655487060547
+      },
+      {
+        "id" : 45,
+        "seek" : 52700,
+        "start" : 544.0,
+        "end" : 550.0,
+        "text" : " I'm a person that believes in revenge. I think if someone fucks you over in any shape or form, destroy him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10214889567831288,
+        "compression_ratio" : 1.5308641975308641,
+        "no_speech_prob" : 0.44022655487060547
+      },
+      {
+        "id" : 46,
+        "seek" : 55700,
+        "start" : 557.0,
+        "end" : 567.0,
+        "text" : " Thanks for watching.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7320289611816406,
+        "compression_ratio" : 0.7142857142857143,
+        "no_speech_prob" : 0.9834783673286438
+      }
+    ]
+  }
+}

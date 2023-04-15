@@ -1,0 +1,13 @@
+{
+  "person_id" : "radams",
+  "category" : "lore",
+  "first_name" : "Ryan",
+  "last_name" : "Adams",
+  "display_name" : "Ryland Adams",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

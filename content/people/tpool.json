@@ -1,0 +1,12 @@
+{
+  "person_id" : "tpool",
+  "category" : "enemy",
+  "first_name" : "Tim",
+  "last_name" : "Pool",
+  "display_name" : null,
+  "thumb" : "/people/tpool.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

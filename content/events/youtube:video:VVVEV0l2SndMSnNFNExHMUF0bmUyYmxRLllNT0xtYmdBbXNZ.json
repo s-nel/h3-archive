@@ -1,0 +1,872 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLllNT0xtYmdBbXNZ",
+  "category" : "video",
+  "name" : "YouTube Might Make Your Favorite Channel Disappear",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/YMOLmbgAmsY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/YMOLmbgAmsY"
+    }
+  ],
+  "start_date" : 1479345246000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.76,
+        "text" : " There's been a lot of talk from other youtubers lately about there being some kind of glitch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23715206362166494,
+        "compression_ratio" : 1.718978102189781,
+        "no_speech_prob" : 0.19123175740242004
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.64,
+        "end" : 10.8,
+        "text" : " That's been fucking with channels views which is really weird because we were thinking the same thing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23715206362166494,
+        "compression_ratio" : 1.718978102189781,
+        "no_speech_prob" : 0.19123175740242004
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 11.28,
+        "end" : 15.98,
+        "text" : " Now I know this is gonna sound a little conspiracy theory ish a little bit strange",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23715206362166494,
+        "compression_ratio" : 1.718978102189781,
+        "no_speech_prob" : 0.19123175740242004
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 16.28,
+        "end" : 22.08,
+        "text" : " But YouTube has been really fucking around I think with the algorithm and it really was our way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23715206362166494,
+        "compression_ratio" : 1.718978102189781,
+        "no_speech_prob" : 0.19123175740242004
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 22.08,
+        "end" : 27.6,
+        "text" : " That's made us a little spooked out and I want to kind of tell you guys what we think's happening",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23715206362166494,
+        "compression_ratio" : 1.718978102189781,
+        "no_speech_prob" : 0.19123175740242004
+      },
+      {
+        "id" : 5,
+        "seek" : 2760,
+        "start" : 27.6,
+        "end" : 33.6,
+        "text" : " And what you guys can do to prevent your favorite YouTube channel from completely and suddenly just disappearing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21921634674072266,
+        "compression_ratio" : 1.7662835249042146,
+        "no_speech_prob" : 0.04132625460624695
+      },
+      {
+        "id" : 6,
+        "seek" : 2760,
+        "start" : 33.6,
+        "end" : 39.04,
+        "text" : " out of your life, you know the obvious counters like oh your videos just suck people just don't care about your videos",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21921634674072266,
+        "compression_ratio" : 1.7662835249042146,
+        "no_speech_prob" : 0.04132625460624695
+      },
+      {
+        "id" : 7,
+        "seek" : 2760,
+        "start" : 39.04,
+        "end" : 45.98,
+        "text" : " I kind of like I get that but I want to prove to you show you as well as I can that that's not what's happening here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21921634674072266,
+        "compression_ratio" : 1.7662835249042146,
+        "no_speech_prob" : 0.04132625460624695
+      },
+      {
+        "id" : 8,
+        "seek" : 2760,
+        "start" : 45.98,
+        "end" : 53.28,
+        "text" : " And that there is something in the system that's just not showing you our videos now what's been happening to us",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21921634674072266,
+        "compression_ratio" : 1.7662835249042146,
+        "no_speech_prob" : 0.04132625460624695
+      },
+      {
+        "id" : 9,
+        "seek" : 5328,
+        "start" : 53.64,
+        "end" : 59.4,
+        "text" : " We noticed it happening last week and the week before suddenly it would happen about once a week",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2292047119140625,
+        "compression_ratio" : 1.883817427385892,
+        "no_speech_prob" : 0.12296822667121887
+      },
+      {
+        "id" : 10,
+        "seek" : 5328,
+        "start" : 59.72,
+        "end" : 63.4,
+        "text" : " Where our new upload wouldn't show up on the home page",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2292047119140625,
+        "compression_ratio" : 1.883817427385892,
+        "no_speech_prob" : 0.12296822667121887
+      },
+      {
+        "id" : 11,
+        "seek" : 5328,
+        "start" : 63.84,
+        "end" : 68.12,
+        "text" : " It wouldn't show up on the mobile phone it wouldn't show up on the TV it wouldn't show up on the recommended bar",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2292047119140625,
+        "compression_ratio" : 1.883817427385892,
+        "no_speech_prob" : 0.12296822667121887
+      },
+      {
+        "id" : 12,
+        "seek" : 5328,
+        "start" : 68.12,
+        "end" : 76.28,
+        "text" : " It was almost just completely disappeared and the only people that had access to it where people coming directly from the subscriber feed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2292047119140625,
+        "compression_ratio" : 1.883817427385892,
+        "no_speech_prob" : 0.12296822667121887
+      },
+      {
+        "id" : 13,
+        "seek" : 5328,
+        "start" : 76.28,
+        "end" : 79.16,
+        "text" : " Now I know the way that eyebrows YouTube personally",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2292047119140625,
+        "compression_ratio" : 1.883817427385892,
+        "no_speech_prob" : 0.12296822667121887
+      },
+      {
+        "id" : 14,
+        "seek" : 7916,
+        "start" : 79.16,
+        "end" : 86.84,
+        "text" : " I never use my subscription feed. I always just see it on the recommended on the sidebar and that's usually how I get my new videos",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19636430578716732,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014299589209258556
+      },
+      {
+        "id" : 15,
+        "seek" : 7916,
+        "start" : 86.84,
+        "end" : 92.8,
+        "text" : " So when we notice all the sudden like once per week our videos weren't popping up anywhere almost like it seemed like a bug",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19636430578716732,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014299589209258556
+      },
+      {
+        "id" : 16,
+        "seek" : 7916,
+        "start" : 92.8,
+        "end" : 97.92,
+        "text" : " It just wasn't in the system and the correlation was there too where the video would get like half the views",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19636430578716732,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014299589209258556
+      },
+      {
+        "id" : 17,
+        "seek" : 7916,
+        "start" : 97.92,
+        "end" : 102.76,
+        "text" : " So we posted a video yesterday that everybody's been enjoying it's getting a lot of likes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19636430578716732,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014299589209258556
+      },
+      {
+        "id" : 18,
+        "seek" : 7916,
+        "start" : 102.76,
+        "end" : 105.08,
+        "text" : " It's even on the front page of red, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19636430578716732,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014299589209258556
+      },
+      {
+        "id" : 19,
+        "seek" : 10508,
+        "start" : 105.56,
+        "end" : 110.6,
+        "text" : " Now if you go here immediately we check and it's nowhere so you go on the homepage",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19838926696777343,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014933153986930847
+      },
+      {
+        "id" : 20,
+        "seek" : 10508,
+        "start" : 110.6,
+        "end" : 118.48,
+        "text" : " This isn't I'm not logged in as h3 okay, so this is ill as account and she watches H3 videos on this account more than anyone",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19838926696777343,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014933153986930847
+      },
+      {
+        "id" : 21,
+        "seek" : 10508,
+        "start" : 118.48,
+        "end" : 122.0,
+        "text" : " So you think that it would be covered in it because it's the most relevant YouTube channel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19838926696777343,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014933153986930847
+      },
+      {
+        "id" : 22,
+        "seek" : 10508,
+        "start" : 122.0,
+        "end" : 125.92,
+        "text" : " So if you go to recommended there's nothing if you go to watch it again",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19838926696777343,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014933153986930847
+      },
+      {
+        "id" : 23,
+        "seek" : 10508,
+        "start" : 125.92,
+        "end" : 131.8,
+        "text" : " This is the weird part. It doesn't show up. Here's a video from one month ago before it was broken as I'm editing this video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19838926696777343,
+        "compression_ratio" : 1.7282229965156795,
+        "no_speech_prob" : 0.014933153986930847
+      },
+      {
+        "id" : 24,
+        "seek" : 13180,
+        "start" : 131.8,
+        "end" : 137.08,
+        "text" : " I just noticed that they're recommending me watch ISIS dubstep remix that's some good content",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22515378099806765,
+        "compression_ratio" : 1.8047337278106508,
+        "no_speech_prob" : 0.016402296721935272
+      },
+      {
+        "id" : 25,
+        "seek" : 13180,
+        "start" : 137.08,
+        "end" : 141.72,
+        "text" : " Dude that's definitely what I want to watch and not some fucking new video from a channel that I watch religiously",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22515378099806765,
+        "compression_ratio" : 1.8047337278106508,
+        "no_speech_prob" : 0.016402296721935272
+      },
+      {
+        "id" : 26,
+        "seek" : 13180,
+        "start" : 141.72,
+        "end" : 147.84,
+        "text" : " So if you open the YouTube app, which is how I always watch new videos when people upload them and this is ill as account",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22515378099806765,
+        "compression_ratio" : 1.8047337278106508,
+        "no_speech_prob" : 0.016402296721935272
+      },
+      {
+        "id" : 27,
+        "seek" : 13180,
+        "start" : 147.84,
+        "end" : 152.8,
+        "text" : " So this is the biggest h3 fan in the world at center because we watch it all the time should be the most relevant",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22515378099806765,
+        "compression_ratio" : 1.8047337278106508,
+        "no_speech_prob" : 0.016402296721935272
+      },
+      {
+        "id" : 28,
+        "seek" : 13180,
+        "start" : 153.0,
+        "end" : 157.28,
+        "text" : " Doesn't show up anywhere on the home feet anywhere. Okay now on the television",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22515378099806765,
+        "compression_ratio" : 1.8047337278106508,
+        "no_speech_prob" : 0.016402296721935272
+      },
+      {
+        "id" : 29,
+        "seek" : 13180,
+        "start" : 157.28,
+        "end" : 161.4,
+        "text" : " This is the other way I watch videos I open the YouTube app again. This is our account",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22515378099806765,
+        "compression_ratio" : 1.8047337278106508,
+        "no_speech_prob" : 0.016402296721935272
+      },
+      {
+        "id" : 30,
+        "seek" : 16180,
+        "start" : 162.08,
+        "end" : 167.88,
+        "text" : " Recommended recently uploaded. There's nothing here our videos used to be here all the time every time and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21994105091801397,
+        "compression_ratio" : 1.7842323651452283,
+        "no_speech_prob" : 0.018254322931170464
+      },
+      {
+        "id" : 31,
+        "seek" : 16180,
+        "start" : 168.4,
+        "end" : 170.92,
+        "text" : " There's nothing it's all this irrelevant shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21994105091801397,
+        "compression_ratio" : 1.7842323651452283,
+        "no_speech_prob" : 0.018254322931170464
+      },
+      {
+        "id" : 32,
+        "seek" : 16180,
+        "start" : 170.92,
+        "end" : 178.4,
+        "text" : " But here's the thing it's not just us like I watch PewDiePie as much as any other YouTuber a lot and where's PewDiePie's videos because his",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21994105091801397,
+        "compression_ratio" : 1.7842323651452283,
+        "no_speech_prob" : 0.018254322931170464
+      },
+      {
+        "id" : 33,
+        "seek" : 16180,
+        "start" : 178.4,
+        "end" : 186.24,
+        "text" : " Views used to show up for me every single time I open the app or the TV or the browser because he's a channel that I used to always watch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21994105091801397,
+        "compression_ratio" : 1.7842323651452283,
+        "no_speech_prob" : 0.018254322931170464
+      },
+      {
+        "id" : 34,
+        "seek" : 18624,
+        "start" : 186.76,
+        "end" : 192.56,
+        "text" : " And now if you look at his channel his views are all fucked up and the poor guy made like an apology video because he thinks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2911078953506923,
+        "compression_ratio" : 1.553903345724907,
+        "no_speech_prob" : 0.11878987401723862
+      },
+      {
+        "id" : 35,
+        "seek" : 18624,
+        "start" : 192.56,
+        "end" : 196.38,
+        "text" : " His fan Tatum and all banded him even though I think it's fucking YouTube's fault",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2911078953506923,
+        "compression_ratio" : 1.553903345724907,
+        "no_speech_prob" : 0.11878987401723862
+      },
+      {
+        "id" : 36,
+        "seek" : 18624,
+        "start" : 196.56,
+        "end" : 200.84,
+        "text" : " So just as a little scientific experiment we did a poll on Twitter",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2911078953506923,
+        "compression_ratio" : 1.553903345724907,
+        "no_speech_prob" : 0.11878987401723862
+      },
+      {
+        "id" : 37,
+        "seek" : 18624,
+        "start" : 200.84,
+        "end" : 202.84,
+        "text" : " We said do you see our new video on your homepage?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2911078953506923,
+        "compression_ratio" : 1.553903345724907,
+        "no_speech_prob" : 0.11878987401723862
+      },
+      {
+        "id" : 38,
+        "seek" : 18624,
+        "start" : 203.24,
+        "end" : 211.8,
+        "text" : " 54% said no that majority of people of our super fans actually aren't seeing our videos under",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2911078953506923,
+        "compression_ratio" : 1.553903345724907,
+        "no_speech_prob" : 0.11878987401723862
+      },
+      {
+        "id" : 39,
+        "seek" : 21180,
+        "start" : 212.16,
+        "end" : 218.52,
+        "text" : " Under homepage, but that's really troubling to me 54% now here's the stats from a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3334265220456007,
+        "compression_ratio" : 1.5642201834862386,
+        "no_speech_prob" : 0.03157941251993179
+      },
+      {
+        "id" : 40,
+        "seek" : 21180,
+        "start" : 218.92,
+        "end" : 222.56,
+        "text" : " Two or plus weeks ago on a non bugged video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3334265220456007,
+        "compression_ratio" : 1.5642201834862386,
+        "no_speech_prob" : 0.03157941251993179
+      },
+      {
+        "id" : 41,
+        "seek" : 21180,
+        "start" : 222.76,
+        "end" : 229.96,
+        "text" : " This was the interview with humongous and you can see here that the suggested videos that's the side bar is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3334265220456007,
+        "compression_ratio" : 1.5642201834862386,
+        "no_speech_prob" : 0.03157941251993179
+      },
+      {
+        "id" : 42,
+        "seek" : 21180,
+        "start" : 230.24,
+        "end" : 237.28,
+        "text" : " Almost equal in views to the browse feature which means people coming from their sub feed versus people who",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3334265220456007,
+        "compression_ratio" : 1.5642201834862386,
+        "no_speech_prob" : 0.03157941251993179
+      },
+      {
+        "id" : 43,
+        "seek" : 23728,
+        "start" : 237.28,
+        "end" : 241.56,
+        "text" : " Catch it on the side bar now if you look at the stats on one of our new fucked up videos",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34505611419677734,
+        "compression_ratio" : 1.5959183673469388,
+        "no_speech_prob" : 0.012088997289538383
+      },
+      {
+        "id" : 44,
+        "seek" : 23728,
+        "start" : 241.56,
+        "end" : 246.32,
+        "text" : " You'll see their browse feature is 600,000 the suggested videos is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34505611419677734,
+        "compression_ratio" : 1.5959183673469388,
+        "no_speech_prob" : 0.012088997289538383
+      },
+      {
+        "id" : 45,
+        "seek" : 23728,
+        "start" : 246.76,
+        "end" : 248.76,
+        "text" : " 17 of 2.3 percent",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34505611419677734,
+        "compression_ratio" : 1.5959183673469388,
+        "no_speech_prob" : 0.012088997289538383
+      },
+      {
+        "id" : 46,
+        "seek" : 23728,
+        "start" : 249.92,
+        "end" : 253.52,
+        "text" : " 2.3 percent so something's going on",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34505611419677734,
+        "compression_ratio" : 1.5959183673469388,
+        "no_speech_prob" : 0.012088997289538383
+      },
+      {
+        "id" : 47,
+        "seek" : 23728,
+        "start" : 253.96,
+        "end" : 260.56,
+        "text" : " YouTube is definitely not showing the videos this the proof is here now the scary thing about this is that it kind of reminds me about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34505611419677734,
+        "compression_ratio" : 1.5959183673469388,
+        "no_speech_prob" : 0.012088997289538383
+      },
+      {
+        "id" : 48,
+        "seek" : 23728,
+        "start" : 260.84,
+        "end" : 263.6,
+        "text" : " What happened to animators like two years ago?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34505611419677734,
+        "compression_ratio" : 1.5959183673469388,
+        "no_speech_prob" : 0.012088997289538383
+      },
+      {
+        "id" : 49,
+        "seek" : 26360,
+        "start" : 263.6,
+        "end" : 269.28,
+        "text" : " I don't know if you guys remember but animation about two years ago used to be really popular on YouTube and one day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1991642883845738,
+        "compression_ratio" : 1.7517482517482517,
+        "no_speech_prob" : 0.01320128608494997
+      },
+      {
+        "id" : 50,
+        "seek" : 26360,
+        "start" : 269.28,
+        "end" : 275.76,
+        "text" : " YouTube just tweaked the algorithm to favor longer videos and more frequent posts and they didn't tell anyone and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1991642883845738,
+        "compression_ratio" : 1.7517482517482517,
+        "no_speech_prob" : 0.01320128608494997
+      },
+      {
+        "id" : 51,
+        "seek" : 26360,
+        "start" : 275.96,
+        "end" : 282.44,
+        "text" : " They all just kind of fucking died and now there's no more animation channels left on YouTube because they stop getting shown",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1991642883845738,
+        "compression_ratio" : 1.7517482517482517,
+        "no_speech_prob" : 0.01320128608494997
+      },
+      {
+        "id" : 52,
+        "seek" : 26360,
+        "start" : 282.72,
+        "end" : 286.84,
+        "text" : " They reduce their pay and they pretty much like I says they just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1991642883845738,
+        "compression_ratio" : 1.7517482517482517,
+        "no_speech_prob" : 0.01320128608494997
+      },
+      {
+        "id" : 53,
+        "seek" : 26360,
+        "start" : 287.44,
+        "end" : 291.28,
+        "text" : " Disappeared from people's lives kind of and that's what I'm kind of feeling now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1991642883845738,
+        "compression_ratio" : 1.7517482517482517,
+        "no_speech_prob" : 0.01320128608494997
+      },
+      {
+        "id" : 54,
+        "seek" : 29128,
+        "start" : 291.44,
+        "end" : 298.4,
+        "text" : " Like it's just overnight. They fucking close the faucet on some channels and it's really spooky because YouTube has that power",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17563404846191405,
+        "compression_ratio" : 1.7684887459807075,
+        "no_speech_prob" : 0.007519575767219067
+      },
+      {
+        "id" : 55,
+        "seek" : 29128,
+        "start" : 298.4,
+        "end" : 304.6,
+        "text" : " They have the ability to say you're fucked and we want more of you and it's not democratic at all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17563404846191405,
+        "compression_ratio" : 1.7684887459807075,
+        "no_speech_prob" : 0.007519575767219067
+      },
+      {
+        "id" : 56,
+        "seek" : 29128,
+        "start" : 304.6,
+        "end" : 309.2,
+        "text" : " And I think that's really important to talk about it and be aware of it before they fucking disappear our channel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17563404846191405,
+        "compression_ratio" : 1.7684887459807075,
+        "no_speech_prob" : 0.007519575767219067
+      },
+      {
+        "id" : 57,
+        "seek" : 29128,
+        "start" : 309.2,
+        "end" : 314.96,
+        "text" : " And we fade into fucking oblivion the people I've spoke to from Google and YouTube have been very gracious very helpful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17563404846191405,
+        "compression_ratio" : 1.7684887459807075,
+        "no_speech_prob" : 0.007519575767219067
+      },
+      {
+        "id" : 58,
+        "seek" : 29128,
+        "start" : 315.08,
+        "end" : 318.64,
+        "text" : " They're trying to figure it out. They've reached out to us. They're trying to understand it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17563404846191405,
+        "compression_ratio" : 1.7684887459807075,
+        "no_speech_prob" : 0.007519575767219067
+      },
+      {
+        "id" : 59,
+        "seek" : 31864,
+        "start" : 319.24,
+        "end" : 323.92,
+        "text" : " But there's definitely something going on. I mean it did I'm not gonna say anything",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19032111920808492,
+        "compression_ratio" : 1.7259786476868328,
+        "no_speech_prob" : 0.027892300859093666
+      },
+      {
+        "id" : 60,
+        "seek" : 31864,
+        "start" : 323.92,
+        "end" : 330.0,
+        "text" : " It did happen right after the humongous episode and I'm not saying if that affected us one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19032111920808492,
+        "compression_ratio" : 1.7259786476868328,
+        "no_speech_prob" : 0.027892300859093666
+      },
+      {
+        "id" : 61,
+        "seek" : 31864,
+        "start" : 330.0,
+        "end" : 334.48,
+        "text" : " Where they're not or not? I mean I can't possibly know and it did affect other people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19032111920808492,
+        "compression_ratio" : 1.7259786476868328,
+        "no_speech_prob" : 0.027892300859093666
+      },
+      {
+        "id" : 62,
+        "seek" : 31864,
+        "start" : 334.48,
+        "end" : 342.4,
+        "text" : " I'm just saying the timing is a little strange that being said there is something you guys can do to at least make sure",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19032111920808492,
+        "compression_ratio" : 1.7259786476868328,
+        "no_speech_prob" : 0.027892300859093666
+      },
+      {
+        "id" : 63,
+        "seek" : 31864,
+        "start" : 342.4,
+        "end" : 347.84,
+        "text" : " That if you really want to support the YouTube channels you love that you'll always get the notification",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19032111920808492,
+        "compression_ratio" : 1.7259786476868328,
+        "no_speech_prob" : 0.027892300859093666
+      },
+      {
+        "id" : 64,
+        "seek" : 34784,
+        "start" : 347.84,
+        "end" : 350.36,
+        "text" : " Once you're subscribed you'll see the bell click that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 65,
+        "seek" : 34784,
+        "start" : 351.0,
+        "end" : 357.22,
+        "text" : " Turn on send me all notifications for this channel and save and make sure to smash that bell for the channels you love",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 66,
+        "seek" : 34784,
+        "start" : 357.44,
+        "end" : 360.16,
+        "text" : " Smash that shit like you're fucking jerking off",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 67,
+        "seek" : 34784,
+        "start" : 360.72,
+        "end" : 363.56,
+        "text" : " Like a bell end. I guess they say it in England so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 68,
+        "seek" : 34784,
+        "start" : 364.76,
+        "end" : 366.26,
+        "text" : " smash that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 69,
+        "seek" : 34784,
+        "start" : 366.26,
+        "end" : 370.28,
+        "text" : " Fucking bell button. That's why they're not gonna show you that's why they're not putting us up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 70,
+        "seek" : 34784,
+        "start" : 370.28,
+        "end" : 373.32,
+        "text" : " That's over now. I can't smash the bell. I don't know dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3076529586524294,
+        "compression_ratio" : 1.7836734693877552,
+        "no_speech_prob" : 0.008765424601733685
+      },
+      {
+        "id" : 71,
+        "seek" : 37332,
+        "start" : 373.32,
+        "end" : 379.24,
+        "text" : " Like you expect me to stop smashing the bell dude. Is this how you masturbate? This is how I masturbate",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31348183041527156,
+        "compression_ratio" : 1.5240963855421688,
+        "no_speech_prob" : 0.007865509949624538
+      },
+      {
+        "id" : 72,
+        "seek" : 37332,
+        "start" : 382.08,
+        "end" : 386.56,
+        "text" : " Give it a try practice on the bell then go and fucking smash the bell",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31348183041527156,
+        "compression_ratio" : 1.5240963855421688,
+        "no_speech_prob" : 0.007865509949624538
+      },
+      {
+        "id" : 73,
+        "seek" : 37332,
+        "start" : 387.2,
+        "end" : 389.2,
+        "text" : " Thanks for watching guys. See you next time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31348183041527156,
+        "compression_ratio" : 1.5240963855421688,
+        "no_speech_prob" : 0.007865509949624538
+      },
+      {
+        "id" : 74,
+        "seek" : 37332,
+        "start" : 390.0,
+        "end" : 392.24,
+        "text" : " Hopefully for fucking video show up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31348183041527156,
+        "compression_ratio" : 1.5240963855421688,
+        "no_speech_prob" : 0.007865509949624538
+      },
+      {
+        "id" : 75,
+        "seek" : 40332,
+        "start" : 403.32,
+        "end" : 405.32,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8167802691459656,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.6422687768936157
+      }
+    ]
+  }
+}

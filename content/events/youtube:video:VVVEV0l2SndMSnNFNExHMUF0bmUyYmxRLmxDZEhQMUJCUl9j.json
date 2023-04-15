@@ -1,0 +1,685 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmxDZEhQMUJCUl9j",
+  "category" : "video",
+  "name" : "Healthy at Every Size [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/lCdHP1BBR_c/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/lCdHP1BBR_c"
+    }
+  ],
+  "start_date" : 1431113655000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 14.92,
+        "text" : " Do you know what it's like to struggle to put on your own socks?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27899742126464844,
+        "compression_ratio" : 1.5271317829457365,
+        "no_speech_prob" : 0.1840669959783554
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 14.92,
+        "end" : 19.8,
+        "text" : " Do you know what it's like not to be able to see your own genitals?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27899742126464844,
+        "compression_ratio" : 1.5271317829457365,
+        "no_speech_prob" : 0.1840669959783554
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 19.8,
+        "end" : 27.96,
+        "text" : " I mean it's pretty small but being fat definitely does not help.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27899742126464844,
+        "compression_ratio" : 1.5271317829457365,
+        "no_speech_prob" : 0.1840669959783554
+      },
+      {
+        "id" : 3,
+        "seek" : 2796,
+        "start" : 27.96,
+        "end" : 39.16,
+        "text" : " You care about civil rights but do you care about fat rights?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27298366159632587,
+        "compression_ratio" : 1.5209580838323353,
+        "no_speech_prob" : 0.04539824277162552
+      },
+      {
+        "id" : 4,
+        "seek" : 2796,
+        "start" : 39.16,
+        "end" : 44.56,
+        "text" : " And that's what we call thin privilege.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27298366159632587,
+        "compression_ratio" : 1.5209580838323353,
+        "no_speech_prob" : 0.04539824277162552
+      },
+      {
+        "id" : 5,
+        "seek" : 2796,
+        "start" : 44.56,
+        "end" : 49.92,
+        "text" : " We're told we can be whatever we want when we grow up but did Martin Luther choose to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27298366159632587,
+        "compression_ratio" : 1.5209580838323353,
+        "no_speech_prob" : 0.04539824277162552
+      },
+      {
+        "id" : 6,
+        "seek" : 2796,
+        "start" : 49.92,
+        "end" : 52.56,
+        "text" : " be black?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27298366159632587,
+        "compression_ratio" : 1.5209580838323353,
+        "no_speech_prob" : 0.04539824277162552
+      },
+      {
+        "id" : 7,
+        "seek" : 2796,
+        "start" : 52.56,
+        "end" : 56.76,
+        "text" : " Did Stephen Hawking choose to be a dude in a wheelchair?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27298366159632587,
+        "compression_ratio" : 1.5209580838323353,
+        "no_speech_prob" : 0.04539824277162552
+      },
+      {
+        "id" : 8,
+        "seek" : 5676,
+        "start" : 57.32,
+        "end" : 59.0,
+        "text" : " No.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4111319065093994,
+        "compression_ratio" : 1.2087912087912087,
+        "no_speech_prob" : 0.003278914839029312
+      },
+      {
+        "id" : 9,
+        "seek" : 5676,
+        "start" : 59.0,
+        "end" : 64.8,
+        "text" : " And did I choose to be fat?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4111319065093994,
+        "compression_ratio" : 1.2087912087912087,
+        "no_speech_prob" : 0.003278914839029312
+      },
+      {
+        "id" : 10,
+        "seek" : 5676,
+        "start" : 64.8,
+        "end" : 68.04,
+        "text" : " No.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4111319065093994,
+        "compression_ratio" : 1.2087912087912087,
+        "no_speech_prob" : 0.003278914839029312
+      },
+      {
+        "id" : 11,
+        "seek" : 5676,
+        "start" : 68.04,
+        "end" : 80.6,
+        "text" : " Well I'm sick of your thin privilege and I'm sick of your fat people hate.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4111319065093994,
+        "compression_ratio" : 1.2087912087912087,
+        "no_speech_prob" : 0.003278914839029312
+      },
+      {
+        "id" : 12,
+        "seek" : 8060,
+        "start" : 80.6,
+        "end" : 87.24,
+        "text" : " Today I'm going to show you that a fat person can be healthy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 13,
+        "seek" : 8060,
+        "start" : 87.24,
+        "end" : 93.32,
+        "text" : " But first I need to get some protein.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 14,
+        "seek" : 8060,
+        "start" : 93.32,
+        "end" : 95.16,
+        "text" : " Let's start with some yoga.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 15,
+        "seek" : 8060,
+        "start" : 95.16,
+        "end" : 97.8,
+        "text" : " Okay I need a break.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 16,
+        "seek" : 8060,
+        "start" : 97.8,
+        "end" : 101.76,
+        "text" : " Doctor Oz says the cheese buff diet is a really good source of iron.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 17,
+        "seek" : 8060,
+        "start" : 101.76,
+        "end" : 103.92,
+        "text" : " Alright back to the yoga.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 18,
+        "seek" : 8060,
+        "start" : 103.92,
+        "end" : 107.36,
+        "text" : " Hang on it's time to refuel.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3183483905102833,
+        "compression_ratio" : 1.4166666666666667,
+        "no_speech_prob" : 0.016312921419739723
+      },
+      {
+        "id" : 19,
+        "seek" : 10736,
+        "start" : 107.36,
+        "end" : 111.36,
+        "text" : " Gatorade's got all the essential nutrients that my body needs.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720175523024339,
+        "compression_ratio" : 1.4026845637583893,
+        "no_speech_prob" : 0.04751330241560936
+      },
+      {
+        "id" : 20,
+        "seek" : 10736,
+        "start" : 111.36,
+        "end" : 114.6,
+        "text" : " And Doctor Oz says it's healthier than water.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720175523024339,
+        "compression_ratio" : 1.4026845637583893,
+        "no_speech_prob" : 0.04751330241560936
+      },
+      {
+        "id" : 21,
+        "seek" : 10736,
+        "start" : 114.6,
+        "end" : 117.6,
+        "text" : " And I like it too because it's got a ton of salt.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720175523024339,
+        "compression_ratio" : 1.4026845637583893,
+        "no_speech_prob" : 0.04751330241560936
+      },
+      {
+        "id" : 22,
+        "seek" : 10736,
+        "start" : 117.6,
+        "end" : 118.88,
+        "text" : " It's time to go hard.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720175523024339,
+        "compression_ratio" : 1.4026845637583893,
+        "no_speech_prob" : 0.04751330241560936
+      },
+      {
+        "id" : 23,
+        "seek" : 10736,
+        "start" : 118.88,
+        "end" : 130.52,
+        "text" : " Let's show them what we got.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720175523024339,
+        "compression_ratio" : 1.4026845637583893,
+        "no_speech_prob" : 0.04751330241560936
+      },
+      {
+        "id" : 24,
+        "seek" : 13052,
+        "start" : 130.52,
+        "end" : 139.08,
+        "text" : " After a hard workout like that it's time to carve up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22486691660695263,
+        "compression_ratio" : 1.4891304347826086,
+        "no_speech_prob" : 0.10032805800437927
+      },
+      {
+        "id" : 25,
+        "seek" : 13052,
+        "start" : 139.08,
+        "end" : 145.36,
+        "text" : " I try not to eat too many nuts though because they're high insaturated fats.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22486691660695263,
+        "compression_ratio" : 1.4891304347826086,
+        "no_speech_prob" : 0.10032805800437927
+      },
+      {
+        "id" : 26,
+        "seek" : 13052,
+        "start" : 145.36,
+        "end" : 149.48,
+        "text" : " Be creative and train with weights.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22486691660695263,
+        "compression_ratio" : 1.4891304347826086,
+        "no_speech_prob" : 0.10032805800437927
+      },
+      {
+        "id" : 27,
+        "seek" : 13052,
+        "start" : 149.48,
+        "end" : 153.72,
+        "text" : " And of course don't forget to stop and smell the flowers.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22486691660695263,
+        "compression_ratio" : 1.4891304347826086,
+        "no_speech_prob" : 0.10032805800437927
+      },
+      {
+        "id" : 28,
+        "seek" : 13052,
+        "start" : 153.72,
+        "end" : 156.92,
+        "text" : " Alright enough cooling off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22486691660695263,
+        "compression_ratio" : 1.4891304347826086,
+        "no_speech_prob" : 0.10032805800437927
+      },
+      {
+        "id" : 29,
+        "seek" : 13052,
+        "start" : 156.92,
+        "end" : 159.68,
+        "text" : " Let's get back to it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22486691660695263,
+        "compression_ratio" : 1.4891304347826086,
+        "no_speech_prob" : 0.10032805800437927
+      },
+      {
+        "id" : 30,
+        "seek" : 15968,
+        "start" : 159.68,
+        "end" : 161.68,
+        "text" : " So what do you think about me now?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 31,
+        "seek" : 15968,
+        "start" : 161.68,
+        "end" : 169.88,
+        "text" : " Do you really think someone unhealthy could be a yoga master like this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 32,
+        "seek" : 15968,
+        "start" : 169.88,
+        "end" : 174.96,
+        "text" : " I didn't choose to be plus size.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 33,
+        "seek" : 15968,
+        "start" : 174.96,
+        "end" : 178.16,
+        "text" : " But I am healthy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 34,
+        "seek" : 15968,
+        "start" : 178.16,
+        "end" : 180.76,
+        "text" : " I eat right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 35,
+        "seek" : 15968,
+        "start" : 180.76,
+        "end" : 183.44,
+        "text" : " I exercise.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 36,
+        "seek" : 15968,
+        "start" : 183.44,
+        "end" : 187.76,
+        "text" : " And I am beautiful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23213933797983022,
+        "compression_ratio" : 1.364864864864865,
+        "no_speech_prob" : 0.014855039305984974
+      },
+      {
+        "id" : 37,
+        "seek" : 18776,
+        "start" : 187.76,
+        "end" : 195.24,
+        "text" : " And all you fake ass women who just like muscles and fit men, you're a shallow fat shaming",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 38,
+        "seek" : 18776,
+        "start" : 195.24,
+        "end" : 197.04,
+        "text" : " whore.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 39,
+        "seek" : 18776,
+        "start" : 197.04,
+        "end" : 202.64,
+        "text" : " For everybody else you are healthy and beautiful at every size.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 40,
+        "seek" : 18776,
+        "start" : 202.64,
+        "end" : 204.64,
+        "text" : " Alright, ready to go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 41,
+        "seek" : 18776,
+        "start" : 204.64,
+        "end" : 205.64,
+        "text" : " Oh my god.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 42,
+        "seek" : 18776,
+        "start" : 205.64,
+        "end" : 206.64,
+        "text" : " Are you wearing your bike?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 43,
+        "seek" : 18776,
+        "start" : 206.64,
+        "end" : 207.64,
+        "text" : " Sure.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 44,
+        "seek" : 18776,
+        "start" : 207.64,
+        "end" : 208.64,
+        "text" : " What the hell are you wearing?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 45,
+        "seek" : 18776,
+        "start" : 208.64,
+        "end" : 209.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 46,
+        "seek" : 18776,
+        "start" : 209.64,
+        "end" : 210.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 47,
+        "seek" : 18776,
+        "start" : 210.64,
+        "end" : 211.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 48,
+        "seek" : 18776,
+        "start" : 211.64,
+        "end" : 212.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 49,
+        "seek" : 18776,
+        "start" : 212.64,
+        "end" : 213.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 50,
+        "seek" : 18776,
+        "start" : 213.64,
+        "end" : 214.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 51,
+        "seek" : 18776,
+        "start" : 214.64,
+        "end" : 215.64,
+        "text" : " It's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36322396648816824,
+        "compression_ratio" : 1.7819148936170213,
+        "no_speech_prob" : 0.05103828012943268
+      },
+      {
+        "id" : 52,
+        "seek" : 21564,
+        "start" : 215.64,
+        "end" : 216.64,
+        "text" : " Really?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      },
+      {
+        "id" : 53,
+        "seek" : 21564,
+        "start" : 216.64,
+        "end" : 217.64,
+        "text" : " For fitness.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      },
+      {
+        "id" : 54,
+        "seek" : 21564,
+        "start" : 217.64,
+        "end" : 218.64,
+        "text" : " Oh he's doing a shot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      },
+      {
+        "id" : 55,
+        "seek" : 21564,
+        "start" : 218.64,
+        "end" : 222.64,
+        "text" : " What are you talking about?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      },
+      {
+        "id" : 56,
+        "seek" : 21564,
+        "start" : 222.64,
+        "end" : 223.64,
+        "text" : " An unoriginal.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      },
+      {
+        "id" : 57,
+        "seek" : 21564,
+        "start" : 223.64,
+        "end" : 224.64,
+        "text" : " Feefee.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      },
+      {
+        "id" : 58,
+        "seek" : 21564,
+        "start" : 224.64,
+        "end" : 225.64,
+        "text" : " Brutacchet crunch.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8150764306386312,
+        "compression_ratio" : 1.0980392156862746,
+        "no_speech_prob" : 0.2782819867134094
+      }
+    ]
+  }
+}

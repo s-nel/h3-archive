@@ -1,0 +1,12 @@
+{
+  "person_id" : "jmanning",
+  "category" : "lore",
+  "first_name" : "James",
+  "last_name" : "Manning",
+  "display_name" : "Pastor James Manning",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

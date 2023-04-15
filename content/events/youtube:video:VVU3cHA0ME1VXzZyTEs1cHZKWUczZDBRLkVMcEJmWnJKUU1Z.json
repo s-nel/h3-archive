@@ -1,0 +1,674 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkVMcEJmWnJKUU1Z",
+  "category" : "video",
+  "name" : "My Epic Coachella Vlog 2019",
+  "description" : "We actually made it out to #Coachella 2019 this year and it was totally nuts! Surpassed all of our expectations, wow! I hope this helped bring this unbelievable event to life for you because its truly impossible to appreciate the scope and incredibleness of the event without actually being there yourself. So I want to say one more time for the record that coachella rules!!!",
+  "thumb" : "https://i.ytimg.com/vi/ELpBfZrJQMY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/ELpBfZrJQMY"
+    }
+  ],
+  "start_date" : 1555349402000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 7.76,
+        "text" : " Hey guys, just checking in from Coachella. Wow, it's such a crazy year this year. The lineup is so insane",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789515072537452,
+        "compression_ratio" : 1.6074766355140186,
+        "no_speech_prob" : 0.25646546483039856
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 8.16,
+        "end" : 13.96,
+        "text" : " I'm just having so much fun out here with everybody. It's really a happening scene and I just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789515072537452,
+        "compression_ratio" : 1.6074766355140186,
+        "no_speech_prob" : 0.25646546483039856
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 14.72,
+        "end" : 17.72,
+        "text" : " I'm having so much fun. So just checking in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789515072537452,
+        "compression_ratio" : 1.6074766355140186,
+        "no_speech_prob" : 0.25646546483039856
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.84,
+        "end" : 21.32,
+        "text" : " Oh, oh hold on one sec. That's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789515072537452,
+        "compression_ratio" : 1.6074766355140186,
+        "no_speech_prob" : 0.25646546483039856
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 22.96,
+        "end" : 26.08,
+        "text" : " Sorry, that's my famous friend. He's calling me saying he's coming up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789515072537452,
+        "compression_ratio" : 1.6074766355140186,
+        "no_speech_prob" : 0.25646546483039856
+      },
+      {
+        "id" : 5,
+        "seek" : 2608,
+        "start" : 26.08,
+        "end" : 30.3,
+        "text" : " So I'm gonna go I gotta go catch him on the stage. So guys Coachella rules",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3879652913411458,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.005070704501122236
+      },
+      {
+        "id" : 6,
+        "seek" : 2608,
+        "start" : 35.44,
+        "end" : 37.44,
+        "text" : " Coachella",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3879652913411458,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.005070704501122236
+      },
+      {
+        "id" : 7,
+        "seek" : 2608,
+        "start" : 37.44,
+        "end" : 39.6,
+        "text" : " Hey everybody Coachella day number two",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3879652913411458,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.005070704501122236
+      },
+      {
+        "id" : 8,
+        "seek" : 2608,
+        "start" : 40.36,
+        "end" : 47.76,
+        "text" : " We're out here, you know what I'm saying wow my famous friend. He was so good. He brought me on stage and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3879652913411458,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.005070704501122236
+      },
+      {
+        "id" : 9,
+        "seek" : 2608,
+        "start" : 48.28,
+        "end" : 50.28,
+        "text" : " When I came out everyone was like oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3879652913411458,
+        "compression_ratio" : 1.52,
+        "no_speech_prob" : 0.005070704501122236
+      },
+      {
+        "id" : 10,
+        "seek" : 5028,
+        "start" : 50.28,
+        "end" : 56.96,
+        "text" : " H3H3 was crazy everybody knew who I was that was really cool. I guess I'm pretty famous",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 11,
+        "seek" : 5028,
+        "start" : 56.96,
+        "end" : 58.96,
+        "text" : " So that makes sense, but they were all just like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 12,
+        "seek" : 5028,
+        "start" : 59.96,
+        "end" : 60.96,
+        "text" : " Ah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 13,
+        "seek" : 5028,
+        "start" : 60.96,
+        "end" : 66.88,
+        "text" : " And I performed I did a freestyle rap for the crowd and everyone was going crazy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 14,
+        "seek" : 5028,
+        "start" : 67.64,
+        "end" : 69.48,
+        "text" : " so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 15,
+        "seek" : 5028,
+        "start" : 69.48,
+        "end" : 74.04,
+        "text" : " Anyway, I don't want to waste too much time here on Instagram because I could get back to the activities, but",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 16,
+        "seek" : 5028,
+        "start" : 75.28,
+        "end" : 77.28,
+        "text" : " Coachella rules",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.323574701944987,
+        "compression_ratio" : 1.5043103448275863,
+        "no_speech_prob" : 0.003539303783327341
+      },
+      {
+        "id" : 17,
+        "seek" : 8028,
+        "start" : 80.28,
+        "end" : 82.28,
+        "text" : " I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3401836737608298,
+        "compression_ratio" : 1.5176470588235293,
+        "no_speech_prob" : 0.008848355151712894
+      },
+      {
+        "id" : 18,
+        "seek" : 8028,
+        "start" : 89.8,
+        "end" : 92.88,
+        "text" : " Eda how are you enjoying Coachella this year so far?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3401836737608298,
+        "compression_ratio" : 1.5176470588235293,
+        "no_speech_prob" : 0.008848355151712894
+      },
+      {
+        "id" : 19,
+        "seek" : 8028,
+        "start" : 94.48,
+        "end" : 96.48,
+        "text" : " Yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3401836737608298,
+        "compression_ratio" : 1.5176470588235293,
+        "no_speech_prob" : 0.008848355151712894
+      },
+      {
+        "id" : 20,
+        "seek" : 8028,
+        "start" : 96.48,
+        "end" : 103.52,
+        "text" : " It's insane you'd have to be here to believe it, but now we're about to go hit this the main stage because we're about to go do some improv",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3401836737608298,
+        "compression_ratio" : 1.5176470588235293,
+        "no_speech_prob" : 0.008848355151712894
+      },
+      {
+        "id" : 21,
+        "seek" : 8028,
+        "start" : 103.52,
+        "end" : 105.52,
+        "text" : " So we'll see you on there guys. It's fire",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3401836737608298,
+        "compression_ratio" : 1.5176470588235293,
+        "no_speech_prob" : 0.008848355151712894
+      },
+      {
+        "id" : 22,
+        "seek" : 8028,
+        "start" : 105.92,
+        "end" : 107.92,
+        "text" : " Coachella update",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3401836737608298,
+        "compression_ratio" : 1.5176470588235293,
+        "no_speech_prob" : 0.008848355151712894
+      },
+      {
+        "id" : 23,
+        "seek" : 10792,
+        "start" : 108.92,
+        "end" : 111.56,
+        "text" : " Oh, who is it that just had wind?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43833817107767997,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.006097893230617046
+      },
+      {
+        "id" : 24,
+        "seek" : 10792,
+        "start" : 112.76,
+        "end" : 116.12,
+        "text" : " Was that Tyler the crater? Oh man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43833817107767997,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.006097893230617046
+      },
+      {
+        "id" : 25,
+        "seek" : 10792,
+        "start" : 118.96,
+        "end" : 120.96,
+        "text" : " Coachella's insane",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43833817107767997,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.006097893230617046
+      },
+      {
+        "id" : 26,
+        "seek" : 10792,
+        "start" : 120.96,
+        "end" : 125.76,
+        "text" : " Hey guys checking in before we go to the festivities at Coachella tonight",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43833817107767997,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.006097893230617046
+      },
+      {
+        "id" : 27,
+        "seek" : 10792,
+        "start" : 126.08,
+        "end" : 131.04,
+        "text" : " Just hanging out with my dad, but we're gonna be hitting the main stage later on",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43833817107767997,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.006097893230617046
+      },
+      {
+        "id" : 28,
+        "seek" : 10792,
+        "start" : 132.56,
+        "end" : 136.28,
+        "text" : " Super excited to be here at Coachella very exclusive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43833817107767997,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.006097893230617046
+      },
+      {
+        "id" : 29,
+        "seek" : 13628,
+        "start" : 136.6,
+        "end" : 143.88,
+        "text" : " Just I'm just I can't believe that we made it here. So I will report back later this evening as",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2890440996955423,
+        "compression_ratio" : 1.5980392156862746,
+        "no_speech_prob" : 0.00990558322519064
+      },
+      {
+        "id" : 30,
+        "seek" : 13628,
+        "start" : 145.04,
+        "end" : 148.76,
+        "text" : " The who's taking who's on the main stage today? I believe it was",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2890440996955423,
+        "compression_ratio" : 1.5980392156862746,
+        "no_speech_prob" : 0.00990558322519064
+      },
+      {
+        "id" : 31,
+        "seek" : 13628,
+        "start" : 150.12,
+        "end" : 156.16,
+        "text" : " Cardi B was on Mays, Asian we we actually were gonna rendez with her later this evening as well for drinks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2890440996955423,
+        "compression_ratio" : 1.5980392156862746,
+        "no_speech_prob" : 0.00990558322519064
+      },
+      {
+        "id" : 32,
+        "seek" : 13628,
+        "start" : 156.16,
+        "end" : 159.88,
+        "text" : " So I will definitely be reporting back and as Cardi B says",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2890440996955423,
+        "compression_ratio" : 1.5980392156862746,
+        "no_speech_prob" : 0.00990558322519064
+      },
+      {
+        "id" : 33,
+        "seek" : 16628,
+        "start" : 166.76,
+        "end" : 172.04,
+        "text" : " That is the most hair brained thing I've seen in a really long time Gary Klein",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5110287753018465,
+        "compression_ratio" : 1.4068965517241379,
+        "no_speech_prob" : 0.026017742231488228
+      },
+      {
+        "id" : 34,
+        "seek" : 16628,
+        "start" : 172.88,
+        "end" : 174.88,
+        "text" : " Coachella is lit this year",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5110287753018465,
+        "compression_ratio" : 1.4068965517241379,
+        "no_speech_prob" : 0.026017742231488228
+      },
+      {
+        "id" : 35,
+        "seek" : 16628,
+        "start" : 181.4,
+        "end" : 183.4,
+        "text" : " What",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5110287753018465,
+        "compression_ratio" : 1.4068965517241379,
+        "no_speech_prob" : 0.026017742231488228
+      },
+      {
+        "id" : 36,
+        "seek" : 16628,
+        "start" : 187.72,
+        "end" : 192.12,
+        "text" : " You know what I've got some more this for me to sketch you another wax paper is not wax paper",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5110287753018465,
+        "compression_ratio" : 1.4068965517241379,
+        "no_speech_prob" : 0.026017742231488228
+      },
+      {
+        "id" : 37,
+        "seek" : 19628,
+        "start" : 196.28,
+        "end" : 200.88,
+        "text" : " Super fuck please stop Coachella is insane this year you guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6617136868563566,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.022649895399808884
+      },
+      {
+        "id" : 38,
+        "seek" : 19628,
+        "start" : 207.64,
+        "end" : 209.64,
+        "text" : " What are you enjoying Coachella this year?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6617136868563566,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.022649895399808884
+      },
+      {
+        "id" : 39,
+        "seek" : 19628,
+        "start" : 213.48,
+        "end" : 215.48,
+        "text" : " Coachella's pretty a fire",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6617136868563566,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.022649895399808884
+      },
+      {
+        "id" : 40,
+        "seek" : 19628,
+        "start" : 216.2,
+        "end" : 218.2,
+        "text" : " Here we go",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6617136868563566,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.022649895399808884
+      },
+      {
+        "id" : 41,
+        "seek" : 19628,
+        "start" : 221.72,
+        "end" : 224.72,
+        "text" : " Don't even work. Oh my gosh. I'm gonna catch this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6617136868563566,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.022649895399808884
+      },
+      {
+        "id" : 42,
+        "seek" : 22628,
+        "start" : 226.76,
+        "end" : 231.02,
+        "text" : " I'm gonna catch the soap on fire really I'm gonna catch the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5633687684030244,
+        "compression_ratio" : 1.4936708860759493,
+        "no_speech_prob" : 0.0033987967763096094
+      },
+      {
+        "id" : 43,
+        "seek" : 22628,
+        "start" : 234.12,
+        "end" : 236.62,
+        "text" : " Coachella is insane this year",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5633687684030244,
+        "compression_ratio" : 1.4936708860759493,
+        "no_speech_prob" : 0.0033987967763096094
+      },
+      {
+        "id" : 44,
+        "seek" : 22628,
+        "start" : 239.0,
+        "end" : 241.64,
+        "text" : " Get that pie in there who wants to blaze",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5633687684030244,
+        "compression_ratio" : 1.4936708860759493,
+        "no_speech_prob" : 0.0033987967763096094
+      },
+      {
+        "id" : 45,
+        "seek" : 22628,
+        "start" : 247.16,
+        "end" : 250.28,
+        "text" : " Gary I would just remove yourself from the kitchen if I were you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5633687684030244,
+        "compression_ratio" : 1.4936708860759493,
+        "no_speech_prob" : 0.0033987967763096094
+      },
+      {
+        "id" : 46,
+        "seek" : 22628,
+        "start" : 251.24,
+        "end" : 253.8,
+        "text" : " No, that was not what I was trying to do",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5633687684030244,
+        "compression_ratio" : 1.4936708860759493,
+        "no_speech_prob" : 0.0033987967763096094
+      },
+      {
+        "id" : 47,
+        "seek" : 25380,
+        "start" : 254.68,
+        "end" : 256.68,
+        "text" : " This is not a high five situation",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5494817733764649,
+        "compression_ratio" : 1.1547619047619047,
+        "no_speech_prob" : 0.019897380843758583
+      },
+      {
+        "id" : 48,
+        "seek" : 25380,
+        "start" : 258.28,
+        "end" : 260.28,
+        "text" : " Well",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5494817733764649,
+        "compression_ratio" : 1.1547619047619047,
+        "no_speech_prob" : 0.019897380843758583
+      },
+      {
+        "id" : 49,
+        "seek" : 25380,
+        "start" : 268.28,
+        "end" : 273.12,
+        "text" : " Look at the size of the subtitle it doesn't fit the screen",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5494817733764649,
+        "compression_ratio" : 1.1547619047619047,
+        "no_speech_prob" : 0.019897380843758583
+      },
+      {
+        "id" : 50,
+        "seek" : 27312,
+        "start" : 273.2,
+        "end" : 275.2,
+        "text" : " Yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510409743697555,
+        "compression_ratio" : 1.075,
+        "no_speech_prob" : 0.023283109068870544
+      },
+      {
+        "id" : 51,
+        "seek" : 27312,
+        "start" : 283.44,
+        "end" : 285.44,
+        "text" : " Coachella's on fire tonight",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510409743697555,
+        "compression_ratio" : 1.075,
+        "no_speech_prob" : 0.023283109068870544
+      },
+      {
+        "id" : 52,
+        "seek" : 27312,
+        "start" : 288.72,
+        "end" : 293.2,
+        "text" : " Why why won't you hit pause old man configures remote",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.510409743697555,
+        "compression_ratio" : 1.075,
+        "no_speech_prob" : 0.023283109068870544
+      },
+      {
+        "id" : 53,
+        "seek" : 29320,
+        "start" : 294.16,
+        "end" : 298.88,
+        "text" : " You know how you enjoying Coachella this year",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2922225594520569,
+        "compression_ratio" : 1.2808988764044944,
+        "no_speech_prob" : 0.008908500894904137
+      },
+      {
+        "id" : 54,
+        "seek" : 29320,
+        "start" : 301.2,
+        "end" : 303.2,
+        "text" : " Coachella is insane",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2922225594520569,
+        "compression_ratio" : 1.2808988764044944,
+        "no_speech_prob" : 0.008908500894904137
+      },
+      {
+        "id" : 55,
+        "seek" : 29320,
+        "start" : 305.28,
+        "end" : 307.28,
+        "text" : " We had to go on to the hallway to get more light",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2922225594520569,
+        "compression_ratio" : 1.2808988764044944,
+        "no_speech_prob" : 0.008908500894904137
+      },
+      {
+        "id" : 56,
+        "seek" : 32320,
+        "start" : 323.36,
+        "end" : 325.36,
+        "text" : " I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6184272766113281,
+        "compression_ratio" : 0.8,
+        "no_speech_prob" : 0.03629905357956886
+      },
+      {
+        "id" : 57,
+        "seek" : 32320,
+        "start" : 337.12,
+        "end" : 339.12,
+        "text" : " How's Coachella this year dad?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6184272766113281,
+        "compression_ratio" : 0.8,
+        "no_speech_prob" : 0.03629905357956886
+      }
+    ]
+  }
+}

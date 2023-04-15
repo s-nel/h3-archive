@@ -1,0 +1,14 @@
+{
+  "person_id" : "owilliams",
+  "category" : "guest",
+  "first_name" : "Olajide",
+  "last_name" : "Williams",
+  "display_name" : "KSI",
+  "thumb" : "/people/owilliams.jpg",
+  "description" : null,
+  "aliases" : [
+    "JJ"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

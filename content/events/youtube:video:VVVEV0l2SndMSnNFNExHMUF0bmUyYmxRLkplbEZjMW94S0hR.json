@@ -1,0 +1,762 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkplbEZjMW94S0hR",
+  "category" : "video",
+  "name" : "Let's Talk About It [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/JelFc1oxKHQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/JelFc1oxKHQ"
+    }
+  ],
+  "start_date" : 1398629935000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 23.12,
+        "text" : " I mean for Christ's sake we put all this effort into this set and my back seat is fucked up like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3843392531077067,
+        "compression_ratio" : 1.3358778625954197,
+        "no_speech_prob" : 0.13087527453899384
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 23.12,
+        "end" : 27.36,
+        "text" : " are you serious? Is this how we're gonna do this? Which camera am I living at?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3843392531077067,
+        "compression_ratio" : 1.3358778625954197,
+        "no_speech_prob" : 0.13087527453899384
+      },
+      {
+        "id" : 2,
+        "seek" : 2736,
+        "start" : 27.6,
+        "end" : 29.6,
+        "text" : " It comes to a lot, do you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26649097729754706,
+        "compression_ratio" : 1.6106194690265487,
+        "no_speech_prob" : 0.24661625921726227
+      },
+      {
+        "id" : 3,
+        "seek" : 2736,
+        "start" : 30.48,
+        "end" : 36.96,
+        "text" : " I feel that there's a little friction between us and I want to ask you something as a gesture",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26649097729754706,
+        "compression_ratio" : 1.6106194690265487,
+        "no_speech_prob" : 0.24661625921726227
+      },
+      {
+        "id" : 4,
+        "seek" : 2736,
+        "start" : 36.96,
+        "end" : 41.52,
+        "text" : " of bringing us together so that we can move forward with this interview and be on the same level.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26649097729754706,
+        "compression_ratio" : 1.6106194690265487,
+        "no_speech_prob" : 0.24661625921726227
+      },
+      {
+        "id" : 5,
+        "seek" : 2736,
+        "start" : 41.52,
+        "end" : 44.56,
+        "text" : " Will you roll try? Can you please take off your shirt?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26649097729754706,
+        "compression_ratio" : 1.6106194690265487,
+        "no_speech_prob" : 0.24661625921726227
+      },
+      {
+        "id" : 6,
+        "seek" : 2736,
+        "start" : 45.36,
+        "end" : 50.32,
+        "text" : " But did you tell him that they're supposed to take off the shirt when they come interview?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26649097729754706,
+        "compression_ratio" : 1.6106194690265487,
+        "no_speech_prob" : 0.24661625921726227
+      },
+      {
+        "id" : 7,
+        "seek" : 5032,
+        "start" : 51.12,
+        "end" : 53.68,
+        "text" : " Yes, this isn't what we're going to spoke about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 8,
+        "seek" : 5032,
+        "start" : 55.2,
+        "end" : 56.88,
+        "text" : " So to take off this shirt? Yes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 9,
+        "seek" : 5032,
+        "start" : 58.96,
+        "end" : 60.08,
+        "text" : " Okay, I'll take off this shirt.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 10,
+        "seek" : 5032,
+        "start" : 62.48,
+        "end" : 63.68,
+        "text" : " Actually, you can put it back on.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 11,
+        "seek" : 5032,
+        "start" : 64.88,
+        "end" : 66.64,
+        "text" : " Yeah, it's pretty.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 12,
+        "seek" : 5032,
+        "start" : 66.64,
+        "end" : 68.72,
+        "text" : " Okay, but do you get to keep the clamp there?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 13,
+        "seek" : 5032,
+        "start" : 69.36,
+        "end" : 70.56,
+        "text" : " How are you getting the clamp back?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 14,
+        "seek" : 5032,
+        "start" : 70.56,
+        "end" : 72.56,
+        "text" : " I mean, because the cabinet usually...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 15,
+        "seek" : 5032,
+        "start" : 73.52,
+        "end" : 76.16,
+        "text" : " This is just a place where the clamp goes off.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 16,
+        "seek" : 5032,
+        "start" : 76.16,
+        "end" : 79.28,
+        "text" : " You can't control, you know, I didn't make the set design.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4344849625254065,
+        "compression_ratio" : 1.6470588235294117,
+        "no_speech_prob" : 0.1829526424407959
+      },
+      {
+        "id" : 17,
+        "seek" : 7928,
+        "start" : 80.08,
+        "end" : 82.24,
+        "text" : " So, plant goes in between the legs of...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 18,
+        "seek" : 7928,
+        "start" : 82.24,
+        "end" : 83.76,
+        "text" : " That's okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 19,
+        "seek" : 7928,
+        "start" : 83.76,
+        "end" : 84.96,
+        "text" : " That's the perfect thing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 20,
+        "seek" : 7928,
+        "start" : 84.96,
+        "end" : 91.92,
+        "text" : " Well, I can't control where the seat is where we keep the clamp and we don't usually move the plant.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 21,
+        "seek" : 7928,
+        "start" : 91.92,
+        "end" : 93.52,
+        "text" : " So, yeah, the seats can move.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 22,
+        "seek" : 7928,
+        "start" : 94.8,
+        "end" : 99.76,
+        "text" : " I'm going to have to take it up with you, who's currently botched this entire production,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 23,
+        "seek" : 7928,
+        "start" : 99.76,
+        "end" : 100.96,
+        "text" : " by the way. Thank you for that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 24,
+        "seek" : 7928,
+        "start" : 102.16,
+        "end" : 104.16,
+        "text" : " No, it's not really turning out very good at all.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41132314581620066,
+        "compression_ratio" : 1.5916666666666666,
+        "no_speech_prob" : 0.03628348559141159
+      },
+      {
+        "id" : 25,
+        "seek" : 10416,
+        "start" : 104.88,
+        "end" : 108.88,
+        "text" : " Well, no, he's not really good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 26,
+        "seek" : 10416,
+        "start" : 108.88,
+        "end" : 110.0,
+        "text" : " He's not really good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 27,
+        "seek" : 10416,
+        "start" : 110.0,
+        "end" : 111.04,
+        "text" : " He's not really good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 28,
+        "seek" : 10416,
+        "start" : 111.04,
+        "end" : 112.88,
+        "text" : " I don't think he's going to turn out very well.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 29,
+        "seek" : 10416,
+        "start" : 112.88,
+        "end" : 114.8,
+        "text" : " We'll probably have to scrape those things, whatever.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 30,
+        "seek" : 10416,
+        "start" : 117.04,
+        "end" : 117.6,
+        "text" : " Yeah, I know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 31,
+        "seek" : 10416,
+        "start" : 117.6,
+        "end" : 119.76,
+        "text" : " It's a shame that we wasted our whole afternoon on him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 32,
+        "seek" : 10416,
+        "start" : 119.76,
+        "end" : 120.8,
+        "text" : " Was it funny?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 33,
+        "seek" : 10416,
+        "start" : 126.24,
+        "end" : 126.88,
+        "text" : " But what?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 34,
+        "seek" : 10416,
+        "start" : 128.16,
+        "end" : 129.44,
+        "text" : " If he may feedback about...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 35,
+        "seek" : 10416,
+        "start" : 129.44,
+        "end" : 130.48,
+        "text" : " Right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 36,
+        "seek" : 10416,
+        "start" : 132.48,
+        "end" : 133.92,
+        "text" : " I think it's a plan.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3740669659205845,
+        "compression_ratio" : 1.6029411764705883,
+        "no_speech_prob" : 0.13850171864032745
+      },
+      {
+        "id" : 37,
+        "seek" : 13392,
+        "start" : 134.08,
+        "end" : 135.2,
+        "text" : " Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 38,
+        "seek" : 13392,
+        "start" : 135.2,
+        "end" : 140.48,
+        "text" : " So, I think we'll just wrap it up and we can really edit it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 39,
+        "seek" : 13392,
+        "start" : 140.48,
+        "end" : 142.88,
+        "text" : " And he wasn't really that funny.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 40,
+        "seek" : 13392,
+        "start" : 142.88,
+        "end" : 145.68,
+        "text" : " So, we can just cut all the scenes out with him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 41,
+        "seek" : 13392,
+        "start" : 145.68,
+        "end" : 147.44,
+        "text" : " And maybe we can just put in like...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 42,
+        "seek" : 13392,
+        "start" : 148.0,
+        "end" : 150.24,
+        "text" : " Have like a virtual conversation with like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 43,
+        "seek" : 13392,
+        "start" : 150.24,
+        "end" : 151.92,
+        "text" : " Hey, how's it going?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 44,
+        "seek" : 13392,
+        "start" : 151.92,
+        "end" : 153.44,
+        "text" : " With like, I don't know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 45,
+        "seek" : 13392,
+        "start" : 154.32,
+        "end" : 155.52,
+        "text" : " Adam Sandler or like...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 46,
+        "seek" : 13392,
+        "start" : 158.08,
+        "end" : 161.76,
+        "text" : " Jeff Dunham, we can get some of the shots of him with his puppets.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 47,
+        "seek" : 13392,
+        "start" : 161.76,
+        "end" : 162.16,
+        "text" : " We can...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 48,
+        "seek" : 13392,
+        "start" : 162.16,
+        "end" : 162.96,
+        "text" : " Hey.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3258955478668213,
+        "compression_ratio" : 1.6452991452991452,
+        "no_speech_prob" : 0.016690455377101898
+      },
+      {
+        "id" : 49,
+        "seek" : 16296,
+        "start" : 163.04,
+        "end" : 163.68,
+        "text" : " Anyway, we're done.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 50,
+        "seek" : 16296,
+        "start" : 163.68,
+        "end" : 164.48,
+        "text" : " You can go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 51,
+        "seek" : 16296,
+        "start" : 164.48,
+        "end" : 165.36,
+        "text" : " Thank you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 52,
+        "seek" : 16296,
+        "start" : 165.36,
+        "end" : 166.64,
+        "text" : " Thank you, a guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 53,
+        "seek" : 16296,
+        "start" : 166.64,
+        "end" : 171.92,
+        "text" : " And we can get Jeff Dunham puppets in here and just cut it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 54,
+        "seek" : 16296,
+        "start" : 171.92,
+        "end" : 173.12,
+        "text" : " So, we'll do that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 55,
+        "seek" : 16296,
+        "start" : 173.12,
+        "end" : 174.32,
+        "text" : " That sounds good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 56,
+        "seek" : 16296,
+        "start" : 174.32,
+        "end" : 175.12,
+        "text" : " Thank you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 57,
+        "seek" : 16296,
+        "start" : 175.12,
+        "end" : 176.08,
+        "text" : " You were really funny.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 58,
+        "seek" : 16296,
+        "start" : 176.8,
+        "end" : 177.52,
+        "text" : " You were really good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 59,
+        "seek" : 16296,
+        "start" : 179.04,
+        "end" : 179.76,
+        "text" : " Thanks for coming.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 60,
+        "seek" : 16296,
+        "start" : 180.88,
+        "end" : 184.96,
+        "text" : " Really appreciate the time spent here with us in the studio.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 61,
+        "seek" : 16296,
+        "start" : 185.84,
+        "end" : 188.8,
+        "text" : " And really looking forward to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066482403956422,
+        "compression_ratio" : 1.635,
+        "no_speech_prob" : 0.013702957890927792
+      },
+      {
+        "id" : 62,
+        "seek" : 18880,
+        "start" : 189.76,
+        "end" : 192.88,
+        "text" : " getting some people to follow your art.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5125163730822111,
+        "compression_ratio" : 0.9047619047619048,
+        "no_speech_prob" : 0.02447686716914177
+      },
+      {
+        "id" : 63,
+        "seek" : 18880,
+        "start" : 195.52,
+        "end" : 197.12,
+        "text" : " So, thanks a guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5125163730822111,
+        "compression_ratio" : 0.9047619047619048,
+        "no_speech_prob" : 0.02447686716914177
+      },
+      {
+        "id" : 64,
+        "seek" : 21880,
+        "start" : 219.6,
+        "end" : 220.8,
+        "text" : " An unoriginal...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9717369079589844,
+        "compression_ratio" : 0.9032258064516129,
+        "no_speech_prob" : 0.397004097700119
+      },
+      {
+        "id" : 65,
+        "seek" : 21880,
+        "start" : 222.16,
+        "end" : 222.72,
+        "text" : " Feet! Feet!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9717369079589844,
+        "compression_ratio" : 0.9032258064516129,
+        "no_speech_prob" : 0.397004097700119
+      }
+    ]
+  }
+}

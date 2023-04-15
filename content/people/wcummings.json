@@ -1,0 +1,13 @@
+{
+  "person_id" : "wcummings",
+  "category" : "guest",
+  "first_name" : "Whitney",
+  "last_name" : "Cummings",
+  "display_name" : null,
+  "thumb" : "/people/wcummings.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

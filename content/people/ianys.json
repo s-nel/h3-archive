@@ -1,0 +1,13 @@
+{
+  "person_id" : "ianys",
+  "category" : "guest",
+  "first_name" : "Imane",
+  "last_name" : "Anys",
+  "display_name" : "Pokimane",
+  "thumb" : "/people/ianys.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

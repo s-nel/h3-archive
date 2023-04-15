@@ -1,0 +1,542 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLlNZaTBGTjJVM0Jj",
+  "category" : "video",
+  "name" : "They don't want you to get healthy",
+  "description" : "Fupa loss day one let's get em!\nTHANKS to CHRISTOPHER BANUELOS for the cool ass metal remix! Check him out:\nhttps://www.youtube.com/watch?v=5-wQg8O9SHs",
+  "thumb" : "https://i.ytimg.com/vi/SYi0FN2U3Bc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/SYi0FN2U3Bc"
+    }
+  ],
+  "start_date" : 1440354292000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 7.58,
+        "text" : " Hey guys reporting in today from our beautiful studio here and the beautiful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16068598688865193,
+        "compression_ratio" : 1.7953488372093023,
+        "no_speech_prob" : 0.29458075761795044
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.58,
+        "end" : 12.22,
+        "text" : " suburbs of Los Angeles. Boy it's a great place here and we love it a lot and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16068598688865193,
+        "compression_ratio" : 1.7953488372093023,
+        "no_speech_prob" : 0.29458075761795044
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.22,
+        "end" : 17.62,
+        "text" : " we're sad to say that this is our last video from the beautiful suburbs of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16068598688865193,
+        "compression_ratio" : 1.7953488372093023,
+        "no_speech_prob" : 0.29458075761795044
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 17.62,
+        "end" : 22.56,
+        "text" : " Los Angeles where you can just you can just ride out to Los Angeles so easily if",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16068598688865193,
+        "compression_ratio" : 1.7953488372093023,
+        "no_speech_prob" : 0.29458075761795044
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 22.56,
+        "end" : 26.82,
+        "text" : " you want to see a friend it's just like a two-hour drive to go 30 miles so I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16068598688865193,
+        "compression_ratio" : 1.7953488372093023,
+        "no_speech_prob" : 0.29458075761795044
+      },
+      {
+        "id" : 5,
+        "seek" : 2682,
+        "start" : 26.82,
+        "end" : 30.66,
+        "text" : " will miss that you know there's nothing I love more than singing in my car for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24192793756468683,
+        "compression_ratio" : 1.7816091954022988,
+        "no_speech_prob" : 0.0061857192777097225
+      },
+      {
+        "id" : 6,
+        "seek" : 2682,
+        "start" : 30.66,
+        "end" : 34.2,
+        "text" : " four days a day just to go get a fucking you know see a friend and get and get a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24192793756468683,
+        "compression_ratio" : 1.7816091954022988,
+        "no_speech_prob" : 0.0061857192777097225
+      },
+      {
+        "id" : 7,
+        "seek" : 2682,
+        "start" : 34.2,
+        "end" : 38.64,
+        "text" : " Saudi pop it's a pleasure and a joy that I will greatly miss here by Los",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24192793756468683,
+        "compression_ratio" : 1.7816091954022988,
+        "no_speech_prob" : 0.0061857192777097225
+      },
+      {
+        "id" : 8,
+        "seek" : 2682,
+        "start" : 38.64,
+        "end" : 43.92,
+        "text" : " Angeles but there's other things we're gonna talk about we are our plans have",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24192793756468683,
+        "compression_ratio" : 1.7816091954022988,
+        "no_speech_prob" : 0.0061857192777097225
+      },
+      {
+        "id" : 9,
+        "seek" : 2682,
+        "start" : 43.92,
+        "end" : 47.5,
+        "text" : " moved up a little bit and we're moving this week we're moving to the East",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24192793756468683,
+        "compression_ratio" : 1.7816091954022988,
+        "no_speech_prob" : 0.0061857192777097225
+      },
+      {
+        "id" : 10,
+        "seek" : 2682,
+        "start" : 47.5,
+        "end" : 50.76,
+        "text" : " Coast guys it's gonna be a straight street to the East Coast whatever that means",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24192793756468683,
+        "compression_ratio" : 1.7816091954022988,
+        "no_speech_prob" : 0.0061857192777097225
+      },
+      {
+        "id" : 11,
+        "seek" : 5076,
+        "start" : 50.76,
+        "end" : 58.34,
+        "text" : " right the election we get around a closet on the camera and can you do this look at",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26519386135801976,
+        "compression_ratio" : 1.7025862068965518,
+        "no_speech_prob" : 0.03126287832856178
+      },
+      {
+        "id" : 12,
+        "seek" : 5076,
+        "start" : 58.34,
+        "end" : 64.02,
+        "text" : " this guy did three ninjas on VHS I mean that is one of the most useful gifts I've",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26519386135801976,
+        "compression_ratio" : 1.7025862068965518,
+        "no_speech_prob" : 0.03126287832856178
+      },
+      {
+        "id" : 13,
+        "seek" : 5076,
+        "start" : 64.02,
+        "end" : 68.5,
+        "text" : " ever received and by the way I do recall seeing this film in the theaters and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26519386135801976,
+        "compression_ratio" : 1.7025862068965518,
+        "no_speech_prob" : 0.03126287832856178
+      },
+      {
+        "id" : 14,
+        "seek" : 5076,
+        "start" : 68.5,
+        "end" : 73.8,
+        "text" : " yes I do recall absolutely loving it I mean those three guys can kick but I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26519386135801976,
+        "compression_ratio" : 1.7025862068965518,
+        "no_speech_prob" : 0.03126287832856178
+      },
+      {
+        "id" : 15,
+        "seek" : 5076,
+        "start" : 73.8,
+        "end" : 77.62,
+        "text" : " telling you these guys are superheroes so thank you for that can can lock",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26519386135801976,
+        "compression_ratio" : 1.7025862068965518,
+        "no_speech_prob" : 0.03126287832856178
+      },
+      {
+        "id" : 16,
+        "seek" : 7762,
+        "start" : 77.62,
+        "end" : 82.58,
+        "text" : " Kim lock the the fourth is that really your name dog are you fucking are you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22934990874991928,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.01624239981174469
+      },
+      {
+        "id" : 17,
+        "seek" : 7762,
+        "start" : 82.58,
+        "end" : 85.86,
+        "text" : " good for me right now Kim lock the fourth apparently thank you so much for the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22934990874991928,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.01624239981174469
+      },
+      {
+        "id" : 18,
+        "seek" : 7762,
+        "start" : 85.86,
+        "end" : 90.62,
+        "text" : " three ninjas on VSS I'm definitely be watching this I've got my VHS set up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22934990874991928,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.01624239981174469
+      },
+      {
+        "id" : 19,
+        "seek" : 7762,
+        "start" : 90.62,
+        "end" : 96.14,
+        "text" : " in my room oh this is a really thoughtful good now guys we've been talking a lot",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22934990874991928,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.01624239981174469
+      },
+      {
+        "id" : 20,
+        "seek" : 7762,
+        "start" : 96.14,
+        "end" : 99.76,
+        "text" : " about superlots here and so we've been putting this off and it's time to get",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22934990874991928,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.01624239981174469
+      },
+      {
+        "id" : 21,
+        "seek" : 7762,
+        "start" : 99.76,
+        "end" : 103.94,
+        "text" : " to work this time is you got this fucking badass jump rope I didn't even open it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22934990874991928,
+        "compression_ratio" : 1.75,
+        "no_speech_prob" : 0.01624239981174469
+      },
+      {
+        "id" : 22,
+        "seek" : 10394,
+        "start" : 103.94,
+        "end" : 108.58,
+        "text" : " yeah what the fuck it's like what the fuck did it's a jump rope why do I have to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19459845225016276,
+        "compression_ratio" : 1.8565737051792828,
+        "no_speech_prob" : 0.008678737096488476
+      },
+      {
+        "id" : 23,
+        "seek" : 10394,
+        "start" : 108.58,
+        "end" : 113.22,
+        "text" : " assemble a jump rope it's supposed to be it's supposed to be a fucking you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19459845225016276,
+        "compression_ratio" : 1.8565737051792828,
+        "no_speech_prob" : 0.008678737096488476
+      },
+      {
+        "id" : 24,
+        "seek" : 10394,
+        "start" : 113.22,
+        "end" : 117.66,
+        "text" : " know it's ready made maybe you take it out and you jump this out bare mind",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19459845225016276,
+        "compression_ratio" : 1.8565737051792828,
+        "no_speech_prob" : 0.008678737096488476
+      },
+      {
+        "id" : 25,
+        "seek" : 10394,
+        "start" : 117.66,
+        "end" : 123.58,
+        "text" : " before I step on the scale I've got this heavy ass jump rope this huge VHS tape",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19459845225016276,
+        "compression_ratio" : 1.8565737051792828,
+        "no_speech_prob" : 0.008678737096488476
+      },
+      {
+        "id" : 26,
+        "seek" : 10394,
+        "start" : 123.58,
+        "end" : 126.3,
+        "text" : " these things are heavy guys you probably didn't hold this in your hand for a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19459845225016276,
+        "compression_ratio" : 1.8565737051792828,
+        "no_speech_prob" : 0.008678737096488476
+      },
+      {
+        "id" : 27,
+        "seek" : 10394,
+        "start" : 126.3,
+        "end" : 131.1,
+        "text" : " long time this thing doesn't help I mean a couple pounds right these pants are",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19459845225016276,
+        "compression_ratio" : 1.8565737051792828,
+        "no_speech_prob" : 0.008678737096488476
+      },
+      {
+        "id" : 28,
+        "seek" : 13110,
+        "start" : 131.1,
+        "end" : 134.34,
+        "text" : " really heavy pants I usually take everything off but for the sake of the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22457920421253552,
+        "compression_ratio" : 1.7195571955719557,
+        "no_speech_prob" : 0.011938367038965225
+      },
+      {
+        "id" : 29,
+        "seek" : 13110,
+        "start" : 134.34,
+        "end" : 139.58,
+        "text" : " scoop a lot series let's take a step on here and get it close look here 195 now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22457920421253552,
+        "compression_ratio" : 1.7195571955719557,
+        "no_speech_prob" : 0.011938367038965225
+      },
+      {
+        "id" : 30,
+        "seek" : 13110,
+        "start" : 139.58,
+        "end" : 144.14,
+        "text" : " guys you know we explain we're not yeah I don't want to get all right of all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22457920421253552,
+        "compression_ratio" : 1.7195571955719557,
+        "no_speech_prob" : 0.011938367038965225
+      },
+      {
+        "id" : 31,
+        "seek" : 13110,
+        "start" : 144.14,
+        "end" : 149.66,
+        "text" : " the foot but if I could just get rid of the mantids you sloppy babies I don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22457920421253552,
+        "compression_ratio" : 1.7195571955719557,
+        "no_speech_prob" : 0.011938367038965225
+      },
+      {
+        "id" : 32,
+        "seek" : 13110,
+        "start" : 149.66,
+        "end" : 153.74,
+        "text" : " like the feeling that I like I wish I had a bra on when I'm walking upstairs you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22457920421253552,
+        "compression_ratio" : 1.7195571955719557,
+        "no_speech_prob" : 0.011938367038965225
+      },
+      {
+        "id" : 33,
+        "seek" : 13110,
+        "start" : 153.74,
+        "end" : 156.54,
+        "text" : " chubby guys probably know what I'm talking about there was one day I was just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22457920421253552,
+        "compression_ratio" : 1.7195571955719557,
+        "no_speech_prob" : 0.011938367038965225
+      },
+      {
+        "id" : 34,
+        "seek" : 15654,
+        "start" : 156.54,
+        "end" : 161.58,
+        "text" : " walking upstairs and I actually felt like it like I was like oh fuck did no it's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2150345331505884,
+        "compression_ratio" : 1.7431693989071038,
+        "no_speech_prob" : 0.0025411935057491064
+      },
+      {
+        "id" : 35,
+        "seek" : 15654,
+        "start" : 161.58,
+        "end" : 166.3,
+        "text" : " like oh shh now I understood suddenly why women wear bras and I was like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2150345331505884,
+        "compression_ratio" : 1.7431693989071038,
+        "no_speech_prob" : 0.0025411935057491064
+      },
+      {
+        "id" : 36,
+        "seek" : 15654,
+        "start" : 166.3,
+        "end" : 170.02,
+        "text" : " is not an understanding that I ever wanted to have okay so you guys know what I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2150345331505884,
+        "compression_ratio" : 1.7431693989071038,
+        "no_speech_prob" : 0.0025411935057491064
+      },
+      {
+        "id" : 37,
+        "seek" : 15654,
+        "start" : 170.02,
+        "end" : 175.86,
+        "text" : " talking about it's not about trying to get skin is about trying to lose little",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2150345331505884,
+        "compression_ratio" : 1.7431693989071038,
+        "no_speech_prob" : 0.0025411935057491064
+      },
+      {
+        "id" : 38,
+        "seek" : 17586,
+        "start" : 175.86,
+        "end" : 181.38,
+        "text" : " just a little food okay so let's get started it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39946941453583384,
+        "compression_ratio" : 1.364963503649635,
+        "no_speech_prob" : 0.02484832890331745
+      },
+      {
+        "id" : 39,
+        "seek" : 17586,
+        "start" : 188.22,
+        "end" : 192.86,
+        "text" : " what am I Mike Tyson did have you ever seen anyone jump rope like this watch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39946941453583384,
+        "compression_ratio" : 1.364963503649635,
+        "no_speech_prob" : 0.02484832890331745
+      },
+      {
+        "id" : 40,
+        "seek" : 17586,
+        "start" : 192.86,
+        "end" : 199.78,
+        "text" : " this you ready did you expect that shit I'm a master dude this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39946941453583384,
+        "compression_ratio" : 1.364963503649635,
+        "no_speech_prob" : 0.02484832890331745
+      },
+      {
+        "id" : 41,
+        "seek" : 19978,
+        "start" : 199.78,
+        "end" : 206.74,
+        "text" : " food was it dude who knew I was a fucking skin bro master dude holy crap",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6466973423957825,
+        "compression_ratio" : 1.6934306569343065,
+        "no_speech_prob" : 0.026259876787662506
+      },
+      {
+        "id" : 42,
+        "seek" : 19978,
+        "start" : 209.94,
+        "end" : 218.86,
+        "text" : " oh see oh fuck let me spy see I'm gonna put you up all game cuz they don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6466973423957825,
+        "compression_ratio" : 1.6934306569343065,
+        "no_speech_prob" : 0.026259876787662506
+      },
+      {
+        "id" : 43,
+        "seek" : 19978,
+        "start" : 218.86,
+        "end" : 223.74,
+        "text" : " want you to win they don't want you to exercise and they don't want you to have that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6466973423957825,
+        "compression_ratio" : 1.6934306569343065,
+        "no_speech_prob" : 0.026259876787662506
+      },
+      {
+        "id" : 44,
+        "seek" : 22374,
+        "start" : 223.74,
+        "end" : 229.1,
+        "text" : " good",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.419471549987793,
+        "compression_ratio" : 0.8148148148148148,
+        "no_speech_prob" : 0.17808324098587036
+      },
+      {
+        "id" : 45,
+        "seek" : 22374,
+        "start" : 229.14,
+        "end" : 232.26,
+        "text" : " too much food but",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.419471549987793,
+        "compression_ratio" : 0.8148148148148148,
+        "no_speech_prob" : 0.17808324098587036
+      }
+    ]
+  }
+}

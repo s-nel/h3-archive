@@ -1,0 +1,12 @@
+{
+  "person_id" : null,
+  "category" : "crew",
+  "first_name" : "Lena",
+  "last_name" : "Ayad",
+  "display_name" : "Lena",
+  "thumb" : "/people/lena.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

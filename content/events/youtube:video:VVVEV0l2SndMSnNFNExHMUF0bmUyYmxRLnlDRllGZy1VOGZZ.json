@@ -1,0 +1,245 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnlDRllGZy1VOGZZ",
+  "category" : "video",
+  "name" : "Eviction I (Part 3 of 3)",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/yCFYFg-U8fY/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/yCFYFg-U8fY"
+    }
+  ],
+  "start_date" : 1398360361000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.0,
+        "text" : " You guys see what happens when you get a little frustrated.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 8.0,
+        "text" : " I broke my guitar yesterday guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 10.0,
+        "text" : " This is a TN Wang.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 12.0,
+        "text" : " Do you know how many TN Wangs there are in the world?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 12.0,
+        "end" : 15.0,
+        "text" : " This is a fucking one of a kind here guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 18.0,
+        "text" : " This guitar is a TN Wang.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 23.0,
+        "text" : " And now it's a TN Wang.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 23.0,
+        "end" : 25.0,
+        "text" : " It's been broken.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2720519684173249,
+        "compression_ratio" : 1.6198830409356726,
+        "no_speech_prob" : 0.2702605426311493
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 37.0,
+        "text" : " Look at the fine craftsmanship of the TN Wang.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3747883439064026,
+        "compression_ratio" : 1.4148148148148147,
+        "no_speech_prob" : 0.014909196645021439
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 37.0,
+        "end" : 40.0,
+        "text" : " All the time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3747883439064026,
+        "compression_ratio" : 1.4148148148148147,
+        "no_speech_prob" : 0.014909196645021439
+      },
+      {
+        "id" : 10,
+        "seek" : 3000,
+        "start" : 40.0,
+        "end" : 45.0,
+        "text" : " Guys, you don't see it actually.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3747883439064026,
+        "compression_ratio" : 1.4148148148148147,
+        "no_speech_prob" : 0.014909196645021439
+      },
+      {
+        "id" : 11,
+        "seek" : 3000,
+        "start" : 45.0,
+        "end" : 52.0,
+        "text" : " You don't see it kind of actually, you see it on the TN Wang everywhere, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3747883439064026,
+        "compression_ratio" : 1.4148148148148147,
+        "no_speech_prob" : 0.014909196645021439
+      },
+      {
+        "id" : 12,
+        "seek" : 3000,
+        "start" : 52.0,
+        "end" : 57.0,
+        "text" : " It's pretty stiff.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3747883439064026,
+        "compression_ratio" : 1.4148148148148147,
+        "no_speech_prob" : 0.014909196645021439
+      },
+      {
+        "id" : 13,
+        "seek" : 5700,
+        "start" : 57.0,
+        "end" : 62.0,
+        "text" : " You have there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7963535785675049,
+        "compression_ratio" : 1.0138888888888888,
+        "no_speech_prob" : 0.17774519324302673
+      },
+      {
+        "id" : 14,
+        "seek" : 5700,
+        "start" : 62.0,
+        "end" : 67.0,
+        "text" : " Over.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7963535785675049,
+        "compression_ratio" : 1.0138888888888888,
+        "no_speech_prob" : 0.17774519324302673
+      },
+      {
+        "id" : 15,
+        "seek" : 5700,
+        "start" : 67.0,
+        "end" : 70.0,
+        "text" : " Get your face.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7963535785675049,
+        "compression_ratio" : 1.0138888888888888,
+        "no_speech_prob" : 0.17774519324302673
+      },
+      {
+        "id" : 16,
+        "seek" : 5700,
+        "start" : 70.0,
+        "end" : 72.0,
+        "text" : " What did you get you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7963535785675049,
+        "compression_ratio" : 1.0138888888888888,
+        "no_speech_prob" : 0.17774519324302673
+      },
+      {
+        "id" : 17,
+        "seek" : 5700,
+        "start" : 72.0,
+        "end" : 75.0,
+        "text" : " Frontier save.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7963535785675049,
+        "compression_ratio" : 1.0138888888888888,
+        "no_speech_prob" : 0.17774519324302673
+      },
+      {
+        "id" : 18,
+        "seek" : 7500,
+        "start" : 75.0,
+        "end" : 82.0,
+        "text" : " Yeah, frontier save.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6689258151584201,
+        "compression_ratio" : 0.7142857142857143,
+        "no_speech_prob" : 0.35956087708473206
+      }
+    ]
+  }
+}

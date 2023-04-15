@@ -1,0 +1,13 @@
+{
+  "person_id" : "eburback",
+  "category" : "guest",
+  "first_name" : "Eddy",
+  "last_name" : "Burback",
+  "display_name" : null,
+  "thumb" : "/people/eburback.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

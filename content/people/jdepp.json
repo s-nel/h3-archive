@@ -1,0 +1,12 @@
+{
+  "person_id" : "jdepp",
+  "category" : "lore",
+  "first_name" : "John",
+  "last_name" : "Depp",
+  "display_name" : "Johnny Depp",
+  "thumb" : "/people/jdepp.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

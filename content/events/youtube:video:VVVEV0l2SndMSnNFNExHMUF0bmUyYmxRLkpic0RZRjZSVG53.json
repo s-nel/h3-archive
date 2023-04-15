@@ -1,0 +1,285 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkpic0RZRjZSVG53",
+  "category" : "video",
+  "name" : "Shrek",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/JbsDYF6RTnw/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/JbsDYF6RTnw"
+    }
+  ],
+  "start_date" : 1379087640000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.6,
+        "text" : " So I'm going to talk a little today about Shrek and its influence on not just myself but on society as a whole.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2638036637079148,
+        "compression_ratio" : 1.7016806722689075,
+        "no_speech_prob" : 0.16929881274700165
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.6,
+        "end" : 10.8,
+        "text" : " So I'm going to start with the first Shrek which was really groundbreaking stuff.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2638036637079148,
+        "compression_ratio" : 1.7016806722689075,
+        "no_speech_prob" : 0.16929881274700165
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.8,
+        "end" : 18.0,
+        "text" : " I mean the CGI was really crazy and they look and now if you look back I'll probably show you a clip right now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2638036637079148,
+        "compression_ratio" : 1.7016806722689075,
+        "no_speech_prob" : 0.16929881274700165
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 22.8,
+        "text" : " If you just walk, keep watching I'll show you a clip. Probably I'll show you Shrek going Don't Get!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2638036637079148,
+        "compression_ratio" : 1.7016806722689075,
+        "no_speech_prob" : 0.16929881274700165
+      },
+      {
+        "id" : 4,
+        "seek" : 2280,
+        "start" : 22.8,
+        "end" : 30.8,
+        "text" : " Something like that and you can see how lifelike his features are. Don't get!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23503711488511828,
+        "compression_ratio" : 1.5689655172413792,
+        "no_speech_prob" : 0.08827206492424011
+      },
+      {
+        "id" : 5,
+        "seek" : 2280,
+        "start" : 30.8,
+        "end" : 38.8,
+        "text" : " Like that and then when the first time I heard him do that I was like is this for real? Mike Myers?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23503711488511828,
+        "compression_ratio" : 1.5689655172413792,
+        "no_speech_prob" : 0.08827206492424011
+      },
+      {
+        "id" : 6,
+        "seek" : 2280,
+        "start" : 40.8,
+        "end" : 46.8,
+        "text" : " I can't believe the expressions that they got on his face so I was like like this or something.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23503711488511828,
+        "compression_ratio" : 1.5689655172413792,
+        "no_speech_prob" : 0.08827206492424011
+      },
+      {
+        "id" : 7,
+        "seek" : 4680,
+        "start" : 46.8,
+        "end" : 48.8,
+        "text" : " Don't get!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24529104090448636,
+        "compression_ratio" : 1.4423076923076923,
+        "no_speech_prob" : 0.04750484973192215
+      },
+      {
+        "id" : 8,
+        "seek" : 4680,
+        "start" : 50.8,
+        "end" : 54.8,
+        "text" : " Donky and talking just makes for lots of fun.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24529104090448636,
+        "compression_ratio" : 1.4423076923076923,
+        "no_speech_prob" : 0.04750484973192215
+      },
+      {
+        "id" : 9,
+        "seek" : 4680,
+        "start" : 54.8,
+        "end" : 66.8,
+        "text" : " I think Shrek 3D came out so I'm putting on my 3D goggles and I'm watching Shrek and Donky going at it with those facial getting out of the screen at me like don't get!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24529104090448636,
+        "compression_ratio" : 1.4423076923076923,
+        "no_speech_prob" : 0.04750484973192215
+      },
+      {
+        "id" : 10,
+        "seek" : 6680,
+        "start" : 66.8,
+        "end" : 74.8,
+        "text" : " Now we're going to move it on to Shrek 4D also known as Shrek 4 ever after cute little title.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19000650432011854,
+        "compression_ratio" : 1.4189944134078212,
+        "no_speech_prob" : 0.11913834512233734
+      },
+      {
+        "id" : 11,
+        "seek" : 6680,
+        "start" : 74.8,
+        "end" : 84.8,
+        "text" : " Nice playing a word of time. Now Shrek is just the beginning because Shrek 5 is a pre-production right now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19000650432011854,
+        "compression_ratio" : 1.4189944134078212,
+        "no_speech_prob" : 0.11913834512233734
+      },
+      {
+        "id" : 12,
+        "seek" : 6680,
+        "start" : 84.8,
+        "end" : 90.8,
+        "text" : " That's due to be out in 2015 so stay tuned for that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19000650432011854,
+        "compression_ratio" : 1.4189944134078212,
+        "no_speech_prob" : 0.11913834512233734
+      },
+      {
+        "id" : 13,
+        "seek" : 9080,
+        "start" : 90.8,
+        "end" : 100.8,
+        "text" : " I've heard that it takes the artist like one month just to perfect one little hair and Donky's Eddie Murphy's Donky lip.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21111071240770948,
+        "compression_ratio" : 1.5128205128205128,
+        "no_speech_prob" : 0.461239755153656
+      },
+      {
+        "id" : 14,
+        "seek" : 9080,
+        "start" : 100.8,
+        "end" : 106.8,
+        "text" : " That's just the beginning of it. I mean the Shrek Universe is just really good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21111071240770948,
+        "compression_ratio" : 1.5128205128205128,
+        "no_speech_prob" : 0.461239755153656
+      },
+      {
+        "id" : 15,
+        "seek" : 9080,
+        "start" : 106.8,
+        "end" : 116.8,
+        "text" : " It started in 1999 that was 12 years ago but I feel like I mean with Shrek 5 coming back we're going to see a real revitalization of the Shrek franchise.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21111071240770948,
+        "compression_ratio" : 1.5128205128205128,
+        "no_speech_prob" : 0.461239755153656
+      },
+      {
+        "id" : 16,
+        "seek" : 11680,
+        "start" : 116.8,
+        "end" : 120.8,
+        "text" : " Shrek is more than just that. It's a way of life, a way of living.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27410288358989515,
+        "compression_ratio" : 1.6602870813397128,
+        "no_speech_prob" : 0.15201100707054138
+      },
+      {
+        "id" : 17,
+        "seek" : 11680,
+        "start" : 120.8,
+        "end" : 126.8,
+        "text" : " I remember I talked to my wife I called her Donky and she looks at me and she goes Shrek what you talking about man!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27410288358989515,
+        "compression_ratio" : 1.6602870813397128,
+        "no_speech_prob" : 0.15201100707054138
+      },
+      {
+        "id" : 18,
+        "seek" : 11680,
+        "start" : 126.8,
+        "end" : 140.8,
+        "text" : " Hey Shrek you remember Princess Fjana? Donky! Shrek you remember when you saved Princess Fjana and she turned into an ogre that was her true beautiful self inside.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27410288358989515,
+        "compression_ratio" : 1.6602870813397128,
+        "no_speech_prob" : 0.15201100707054138
+      },
+      {
+        "id" : 19,
+        "seek" : 14080,
+        "start" : 140.8,
+        "end" : 148.8,
+        "text" : " And you go this life gun. Donky! Is it illegal to smoke marijuana on YouTube?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35918484377057364,
+        "compression_ratio" : 1.5935828877005347,
+        "no_speech_prob" : 0.1028849259018898
+      },
+      {
+        "id" : 20,
+        "seek" : 14080,
+        "start" : 148.8,
+        "end" : 152.8,
+        "text" : " I'm just kidding this is a marijuana this is tobacco. I don't smoke marijuana. I don't know.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35918484377057364,
+        "compression_ratio" : 1.5935828877005347,
+        "no_speech_prob" : 0.1028849259018898
+      },
+      {
+        "id" : 21,
+        "seek" : 14080,
+        "start" : 152.8,
+        "end" : 158.8,
+        "text" : " Don't support drug use. I'll Shrek use. Use Shrek responsibly.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35918484377057364,
+        "compression_ratio" : 1.5935828877005347,
+        "no_speech_prob" : 0.1028849259018898
+      },
+      {
+        "id" : 22,
+        "seek" : 14080,
+        "start" : 158.8,
+        "end" : 165.8,
+        "text" : " Shrek you later guys. See ya. Don't get signed now. Shrek Shrek.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35918484377057364,
+        "compression_ratio" : 1.5935828877005347,
+        "no_speech_prob" : 0.1028849259018898
+      }
+    ]
+  }
+}

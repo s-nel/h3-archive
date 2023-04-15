@@ -1,0 +1,12 @@
+{
+  "person_id" : "jwittek",
+  "category" : "friend",
+  "first_name" : "Jeffrey",
+  "last_name" : "Wittek",
+  "display_name" : "Jeff Wittek",
+  "thumb" : "/people/jwittek.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : true
+}

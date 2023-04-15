@@ -1,0 +1,13 @@
+{
+  "person_id" : "cneal",
+  "category" : "guest",
+  "first_name" : "Charles",
+  "last_name" : "Neal",
+  "display_name" : "Link Neal",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

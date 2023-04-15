@@ -1,0 +1,13 @@
+{
+  "person_id" : "zsnyder",
+  "category" : "lore",
+  "first_name" : "Zachary",
+  "last_name" : "Snyder",
+  "display_name" : "Zack Snyder",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

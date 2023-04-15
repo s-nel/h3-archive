@@ -1,0 +1,10 @@
+{
+  "soundbite_id" : "stop",
+  "person_id" : "unknown",
+  "quote" : "Stop!",
+  "alt" : null,
+  "sound_file" : "/soundbites/stop.mp3",
+  "description" : null,
+  "winning_year" : null,
+  "nominated_year" : 2020
+}

@@ -1,0 +1,520 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLlc0RzZNTm1oWFJB",
+  "category" : "video",
+  "name" : "In search of the holy pope",
+  "description" : "el pope please guide us\n\nMusic:\nParting Glass by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://audionautix.com/",
+  "thumb" : "https://i.ytimg.com/vi/W4G6MNmhXRA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/W4G6MNmhXRA"
+    }
+  ],
+  "start_date" : 1443493490000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.56,
+        "text" : " The Pope is coming to town guys and we are on our way out right now to head the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3442155135305304,
+        "compression_ratio" : 1.6192660550458715,
+        "no_speech_prob" : 0.1549580842256546
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.56,
+        "end" : 9.72,
+        "text" : " Central Park to see if we can spot Ellen Buffy! He's coming there's police",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3442155135305304,
+        "compression_ratio" : 1.6192660550458715,
+        "no_speech_prob" : 0.1549580842256546
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 9.72,
+        "end" : 13.6,
+        "text" : " everywhere there's barricades can we make it can we spot the man himself can he",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3442155135305304,
+        "compression_ratio" : 1.6192660550458715,
+        "no_speech_prob" : 0.1549580842256546
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.6,
+        "end" : 17.44,
+        "text" : " bless my bark black soul that make me whole again there's only one way to find",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3442155135305304,
+        "compression_ratio" : 1.6192660550458715,
+        "no_speech_prob" : 0.1549580842256546
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 17.44,
+        "end" : 25.08,
+        "text" : " out let's go find out now and a puppet!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3442155135305304,
+        "compression_ratio" : 1.6192660550458715,
+        "no_speech_prob" : 0.1549580842256546
+      },
+      {
+        "id" : 5,
+        "seek" : 2508,
+        "start" : 25.08,
+        "end" : 34.44,
+        "text" : " I'll take one poke shirt please check that out not bad right $10 is a good deal",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30708763485863094,
+        "compression_ratio" : 1.8113207547169812,
+        "no_speech_prob" : 0.16701243817806244
+      },
+      {
+        "id" : 6,
+        "seek" : 2508,
+        "start" : 34.44,
+        "end" : 40.28,
+        "text" : " who's ready am I ready? who's ready for the Pope come on right $10 by the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30708763485863094,
+        "compression_ratio" : 1.8113207547169812,
+        "no_speech_prob" : 0.16701243817806244
+      },
+      {
+        "id" : 7,
+        "seek" : 2508,
+        "start" : 40.28,
+        "end" : 43.92,
+        "text" : " you'll don't forget to write that off that's a tack right off okay I'll drop it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30708763485863094,
+        "compression_ratio" : 1.8113207547169812,
+        "no_speech_prob" : 0.16701243817806244
+      },
+      {
+        "id" : 8,
+        "seek" : 2508,
+        "start" : 43.92,
+        "end" : 48.96,
+        "text" : " $10 for this fucking guy that's a nice quality shirt too you can almost make",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30708763485863094,
+        "compression_ratio" : 1.8113207547169812,
+        "no_speech_prob" : 0.16701243817806244
+      },
+      {
+        "id" : 9,
+        "seek" : 2508,
+        "start" : 48.96,
+        "end" : 54.04,
+        "text" : " out his face you can almost make it out okay write that off you don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30708763485863094,
+        "compression_ratio" : 1.8113207547169812,
+        "no_speech_prob" : 0.16701243817806244
+      },
+      {
+        "id" : 10,
+        "seek" : 5404,
+        "start" : 54.04,
+        "end" : 63.42,
+        "text" : " forget we're on lockdown here guys we we jumped over the barricade here the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25584356361460464,
+        "compression_ratio" : 1.759090909090909,
+        "no_speech_prob" : 0.009337862953543663
+      },
+      {
+        "id" : 11,
+        "seek" : 5404,
+        "start" : 63.42,
+        "end" : 67.8,
+        "text" : " police did not catch us there's a cop right there so let's keep it down guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25584356361460464,
+        "compression_ratio" : 1.759090909090909,
+        "no_speech_prob" : 0.009337862953543663
+      },
+      {
+        "id" : 12,
+        "seek" : 5404,
+        "start" : 67.8,
+        "end" : 72.28,
+        "text" : " we need to get see the Pope today okay I don't a lot of sinning this month a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25584356361460464,
+        "compression_ratio" : 1.759090909090909,
+        "no_speech_prob" : 0.009337862953543663
+      },
+      {
+        "id" : 13,
+        "seek" : 5404,
+        "start" : 72.28,
+        "end" : 75.62,
+        "text" : " lot of sinning I need to absolve myself in the only way is to see a little",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25584356361460464,
+        "compression_ratio" : 1.759090909090909,
+        "no_speech_prob" : 0.009337862953543663
+      },
+      {
+        "id" : 14,
+        "seek" : 5404,
+        "start" : 75.62,
+        "end" : 79.88,
+        "text" : " boop man so let's see let's still hustle down here guys and see if we can spot the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25584356361460464,
+        "compression_ratio" : 1.759090909090909,
+        "no_speech_prob" : 0.009337862953543663
+      },
+      {
+        "id" : 15,
+        "seek" : 7988,
+        "start" : 79.88,
+        "end" : 84.36,
+        "text" : " big man the big man and white the big the only man in white the only man who",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1972453955448035,
+        "compression_ratio" : 1.9064039408866995,
+        "no_speech_prob" : 0.016026293858885765
+      },
+      {
+        "id" : 16,
+        "seek" : 7988,
+        "start" : 84.36,
+        "end" : 91.16,
+        "text" : " pulls off white let's go check him out guys what's by the way what's with the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1972453955448035,
+        "compression_ratio" : 1.9064039408866995,
+        "no_speech_prob" : 0.016026293858885765
+      },
+      {
+        "id" : 17,
+        "seek" : 7988,
+        "start" : 91.16,
+        "end" : 97.84,
+        "text" : " Pope wave did you notice this well every every Pope's got this wave like you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1972453955448035,
+        "compression_ratio" : 1.9064039408866995,
+        "no_speech_prob" : 0.016026293858885765
+      },
+      {
+        "id" : 18,
+        "seek" : 7988,
+        "start" : 97.84,
+        "end" : 102.4,
+        "text" : " know what I mean like reinvent the reinvent the Pope this is it this is all they",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1972453955448035,
+        "compression_ratio" : 1.9064039408866995,
+        "no_speech_prob" : 0.016026293858885765
+      },
+      {
+        "id" : 19,
+        "seek" : 7988,
+        "start" : 102.4,
+        "end" : 107.6,
+        "text" : " do this is the whole job description of being the Pope at a puppet it's it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1972453955448035,
+        "compression_ratio" : 1.9064039408866995,
+        "no_speech_prob" : 0.016026293858885765
+      },
+      {
+        "id" : 20,
+        "seek" : 10760,
+        "start" : 107.6,
+        "end" : 111.96,
+        "text" : " pretty easy job I mean goddamn at the whole city of them locked down just for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4288846333821615,
+        "compression_ratio" : 1.4047619047619047,
+        "no_speech_prob" : 0.003311876440420747
+      },
+      {
+        "id" : 21,
+        "seek" : 10760,
+        "start" : 111.96,
+        "end" : 114.6,
+        "text" : " this I don't know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4288846333821615,
+        "compression_ratio" : 1.4047619047619047,
+        "no_speech_prob" : 0.003311876440420747
+      },
+      {
+        "id" : 22,
+        "seek" : 10760,
+        "start" : 130.16,
+        "end" : 135.16,
+        "text" : " done terrible things guys terrible things I really need this Pope sighting or I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4288846333821615,
+        "compression_ratio" : 1.4047619047619047,
+        "no_speech_prob" : 0.003311876440420747
+      },
+      {
+        "id" : 23,
+        "seek" : 13516,
+        "start" : 135.16,
+        "end" : 137.16,
+        "text" : " in big trouble is that the Pope?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5920088150921989,
+        "compression_ratio" : 1.6058394160583942,
+        "no_speech_prob" : 0.0495978444814682
+      },
+      {
+        "id" : 24,
+        "seek" : 13516,
+        "start" : 137.16,
+        "end" : 139.16,
+        "text" : " no",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5920088150921989,
+        "compression_ratio" : 1.6058394160583942,
+        "no_speech_prob" : 0.0495978444814682
+      },
+      {
+        "id" : 25,
+        "seek" : 13516,
+        "start" : 139.16,
+        "end" : 146.04,
+        "text" : " the Pope's got some new style the Pope's new group he's he's changing this to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5920088150921989,
+        "compression_ratio" : 1.6058394160583942,
+        "no_speech_prob" : 0.0495978444814682
+      },
+      {
+        "id" : 26,
+        "seek" : 13516,
+        "start" : 146.04,
+        "end" : 152.28,
+        "text" : " this pounded pounded dog I'm the Pope I'm the Pope of 2015",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5920088150921989,
+        "compression_ratio" : 1.6058394160583942,
+        "no_speech_prob" : 0.0495978444814682
+      },
+      {
+        "id" : 27,
+        "seek" : 13516,
+        "start" : 157.16,
+        "end" : 161.16,
+        "text" : " do you think the Pope is more famous than Bono?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5920088150921989,
+        "compression_ratio" : 1.6058394160583942,
+        "no_speech_prob" : 0.0495978444814682
+      },
+      {
+        "id" : 28,
+        "seek" : 16116,
+        "start" : 162.16,
+        "end" : 169.4,
+        "text" : " seems like these he draws a pretty big crowd I don't know I saw I saw you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3231443292954389,
+        "compression_ratio" : 1.6172248803827751,
+        "no_speech_prob" : 0.015380303375422955
+      },
+      {
+        "id" : 29,
+        "seek" : 16116,
+        "start" : 169.4,
+        "end" : 173.56,
+        "text" : " too they they draw big crowd too",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3231443292954389,
+        "compression_ratio" : 1.6172248803827751,
+        "no_speech_prob" : 0.015380303375422955
+      },
+      {
+        "id" : 30,
+        "seek" : 16116,
+        "start" : 177.0,
+        "end" : 181.4,
+        "text" : " the guys we are here on Pope watch again 2015 we've been standing here for 30",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3231443292954389,
+        "compression_ratio" : 1.6172248803827751,
+        "no_speech_prob" : 0.015380303375422955
+      },
+      {
+        "id" : 31,
+        "seek" : 16116,
+        "start" : 181.4,
+        "end" : 185.88,
+        "text" : " minutes still no Pope's adding my soul is getting darker here guys I'm losing all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3231443292954389,
+        "compression_ratio" : 1.6172248803827751,
+        "no_speech_prob" : 0.015380303375422955
+      },
+      {
+        "id" : 32,
+        "seek" : 16116,
+        "start" : 185.88,
+        "end" : 190.4,
+        "text" : " hope I am thinking about picking up the dark arts here given another 30",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3231443292954389,
+        "compression_ratio" : 1.6172248803827751,
+        "no_speech_prob" : 0.015380303375422955
+      },
+      {
+        "id" : 33,
+        "seek" : 19040,
+        "start" : 190.4,
+        "end" : 196.56,
+        "text" : " minutes here save my soul otherwise he was supposed to come in 72",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31995153427124023,
+        "compression_ratio" : 1.8181818181818181,
+        "no_speech_prob" : 0.02646172232925892
+      },
+      {
+        "id" : 34,
+        "seek" : 19040,
+        "start" : 196.56,
+        "end" : 200.08,
+        "text" : " street he went in 110 it's like the boob doob me out dude he knew I was coming he",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31995153427124023,
+        "compression_ratio" : 1.8181818181818181,
+        "no_speech_prob" : 0.02646172232925892
+      },
+      {
+        "id" : 35,
+        "seek" : 19040,
+        "start" : 200.08,
+        "end" : 204.68,
+        "text" : " knew the Pope knew that I was fucked dude I need to spot the Pope you're supposed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31995153427124023,
+        "compression_ratio" : 1.8181818181818181,
+        "no_speech_prob" : 0.02646172232925892
+      },
+      {
+        "id" : 36,
+        "seek" : 19040,
+        "start" : 204.68,
+        "end" : 210.48,
+        "text" : " to come in at 172 you were that to the Pope wow holy crap you were that to the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31995153427124023,
+        "compression_ratio" : 1.8181818181818181,
+        "no_speech_prob" : 0.02646172232925892
+      },
+      {
+        "id" : 37,
+        "seek" : 19040,
+        "start" : 210.48,
+        "end" : 215.26,
+        "text" : " Pope yeah right dude good luck it and the heaven with that outfit in my",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31995153427124023,
+        "compression_ratio" : 1.8181818181818181,
+        "no_speech_prob" : 0.02646172232925892
+      },
+      {
+        "id" : 38,
+        "seek" : 21526,
+        "start" : 215.26,
+        "end" : 220.78,
+        "text" : " wrong well to be fair I probably know how it went something like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3290458347486413,
+        "compression_ratio" : 1.84,
+        "no_speech_prob" : 0.0872529149055481
+      },
+      {
+        "id" : 39,
+        "seek" : 21526,
+        "start" : 221.42,
+        "end" : 226.66,
+        "text" : " something like that that's probably how it went right or was it like that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3290458347486413,
+        "compression_ratio" : 1.84,
+        "no_speech_prob" : 0.0872529149055481
+      },
+      {
+        "id" : 40,
+        "seek" : 21526,
+        "start" : 226.66,
+        "end" : 232.66,
+        "text" : " was it like this or was it like that man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3290458347486413,
+        "compression_ratio" : 1.84,
+        "no_speech_prob" : 0.0872529149055481
+      },
+      {
+        "id" : 41,
+        "seek" : 24526,
+        "start" : 245.26,
+        "end" : 266.1,
+        "text" : " of all the money that I spent I spent it in good company and of all the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5965107054937453,
+        "compression_ratio" : 1.1639344262295082,
+        "no_speech_prob" : 0.46160221099853516
+      },
+      {
+        "id" : 42,
+        "seek" : 26610,
+        "start" : 266.1,
+        "end" : 283.98,
+        "text" : " that I've done unless it was to none but me and all I've done for want a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6427020320185909,
+        "compression_ratio" : 1.178082191780822,
+        "no_speech_prob" : 0.23707078397274017
+      },
+      {
+        "id" : 43,
+        "seek" : 26610,
+        "start" : 283.98,
+        "end" : 286.5,
+        "text" : " wait to never",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6427020320185909,
+        "compression_ratio" : 1.178082191780822,
+        "no_speech_prob" : 0.23707078397274017
+      }
+    ]
+  }
+}

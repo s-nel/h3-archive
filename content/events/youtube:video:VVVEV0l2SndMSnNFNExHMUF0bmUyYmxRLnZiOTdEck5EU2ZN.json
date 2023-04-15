@@ -1,0 +1,410 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnZiOTdEck5EU2ZN",
+  "category" : "video",
+  "name" : "Ethan's Corner - Facebook",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/vb97DrNDSfM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/vb97DrNDSfM"
+    }
+  ],
+  "start_date" : 1522866737000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 17.68,
+        "text" : " Investigate. Unresearched facts. Some frame and telephone. Inhand. Uncovering the truth.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39856375180757964,
+        "compression_ratio" : 1.2573529411764706,
+        "no_speech_prob" : 0.17431779205799103
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 17.68,
+        "end" : 27.56,
+        "text" : " Mark Zuckerberg. He's been in the news a lot lately. In fact, what you've heard is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39856375180757964,
+        "compression_ratio" : 1.2573529411764706,
+        "no_speech_prob" : 0.17431779205799103
+      },
+      {
+        "id" : 2,
+        "seek" : 2756,
+        "start" : 27.56,
+        "end" : 33.6,
+        "text" : " just the tip of the iceberg, the Zuckerberg, if you will. See, I've been doing a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20838764149655578,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.02744404785335064
+      },
+      {
+        "id" : 3,
+        "seek" : 2756,
+        "start" : 33.6,
+        "end" : 40.34,
+        "text" : " little research at my own. What I found will shock in all you. Walk with me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20838764149655578,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.02744404785335064
+      },
+      {
+        "id" : 4,
+        "seek" : 2756,
+        "start" : 40.34,
+        "end" : 46.96,
+        "text" : " Attrest where the reputable guy. Let me show you the Zuck that the world does not",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20838764149655578,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.02744404785335064
+      },
+      {
+        "id" : 5,
+        "seek" : 2756,
+        "start" : 46.96,
+        "end" : 53.6,
+        "text" : " want you to see. Walk with me. Take my hand. You have nothing to fear but the truth.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20838764149655578,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.02744404785335064
+      },
+      {
+        "id" : 6,
+        "seek" : 5360,
+        "start" : 53.6,
+        "end" : 59.56,
+        "text" : " Mark Zuckerberg was born in white plains New York in 1984 to German, Austrian and Polish",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20400113192471592,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.013083457946777344
+      },
+      {
+        "id" : 7,
+        "seek" : 5360,
+        "start" : 59.56,
+        "end" : 65.44,
+        "text" : " ancestry. He was raised Jewish and also a bar mitzvah, which is definitely a little suspicious",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20400113192471592,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.013083457946777344
+      },
+      {
+        "id" : 8,
+        "seek" : 5360,
+        "start" : 65.44,
+        "end" : 70.24,
+        "text" : " and something to keep in consideration throughout this video. Mark excelled at making apps even",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20400113192471592,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.013083457946777344
+      },
+      {
+        "id" : 9,
+        "seek" : 5360,
+        "start" : 70.24,
+        "end" : 74.88,
+        "text" : " at a young age. He was known in high school as Data Doe Boy because of his resemblance",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20400113192471592,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.013083457946777344
+      },
+      {
+        "id" : 10,
+        "seek" : 5360,
+        "start" : 74.88,
+        "end" : 80.36,
+        "text" : " to data from Star Trek and also the Pillsbury Doe Boy. Watch these two images composited",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20400113192471592,
+        "compression_ratio" : 1.5217391304347827,
+        "no_speech_prob" : 0.013083457946777344
+      },
+      {
+        "id" : 11,
+        "seek" : 8036,
+        "start" : 80.36,
+        "end" : 86.6,
+        "text" : " over each other and tell me it doesn't give you the chills.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1712181282043457,
+        "compression_ratio" : 1.513011152416357,
+        "no_speech_prob" : 0.21195712685585022
+      },
+      {
+        "id" : 12,
+        "seek" : 8036,
+        "start" : 86.6,
+        "end" : 92.0,
+        "text" : " Mark came to prominence in 2002 when he made Bugbook.com which was a website designed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1712181282043457,
+        "compression_ratio" : 1.513011152416357,
+        "no_speech_prob" : 0.21195712685585022
+      },
+      {
+        "id" : 13,
+        "seek" : 8036,
+        "start" : 92.0,
+        "end" : 97.48,
+        "text" : " to help individuals find and contract the AIDS virus, a phenomenon known as bug chasing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1712181282043457,
+        "compression_ratio" : 1.513011152416357,
+        "no_speech_prob" : 0.21195712685585022
+      },
+      {
+        "id" : 14,
+        "seek" : 8036,
+        "start" : 97.48,
+        "end" : 101.6,
+        "text" : " Although this is Mark's first passion, the business was not profitable as it was too",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1712181282043457,
+        "compression_ratio" : 1.513011152416357,
+        "no_speech_prob" : 0.21195712685585022
+      },
+      {
+        "id" : 15,
+        "seek" : 8036,
+        "start" : 101.6,
+        "end" : 107.32,
+        "text" : " niche. Therefore, Mark decided to open it to the public and rebrand it as Facebook.com,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1712181282043457,
+        "compression_ratio" : 1.513011152416357,
+        "no_speech_prob" : 0.21195712685585022
+      },
+      {
+        "id" : 16,
+        "seek" : 10732,
+        "start" : 107.32,
+        "end" : 114.88,
+        "text" : " the AIDS site that we now know today. Mark Zuckerberg gave up bug chasing long ago.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2685948780604771,
+        "compression_ratio" : 1.4388888888888889,
+        "no_speech_prob" : 0.49388587474823
+      },
+      {
+        "id" : 17,
+        "seek" : 10732,
+        "start" : 114.88,
+        "end" : 121.88,
+        "text" : " Or did he? So many questions a little time. The truth they say will set you free. What if",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2685948780604771,
+        "compression_ratio" : 1.4388888888888889,
+        "no_speech_prob" : 0.49388587474823
+      },
+      {
+        "id" : 18,
+        "seek" : 10732,
+        "start" : 121.88,
+        "end" : 129.96,
+        "text" : " I told you it was a prison? What if I told you you were getting AIDS right now? Slide",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2685948780604771,
+        "compression_ratio" : 1.4388888888888889,
+        "no_speech_prob" : 0.49388587474823
+      },
+      {
+        "id" : 19,
+        "seek" : 12996,
+        "start" : 129.96,
+        "end" : 139.4,
+        "text" : " it in. Let's play let's play let's test our luck shall we? What's wrong? Does the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32109020665748833,
+        "compression_ratio" : 1.5112107623318385,
+        "no_speech_prob" : 0.4510243237018585
+      },
+      {
+        "id" : 20,
+        "seek" : 12996,
+        "start" : 139.4,
+        "end" : 147.4,
+        "text" : " truth scare you? Let's examine this a little bit closer. Stolen content, AIDS, emoji",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32109020665748833,
+        "compression_ratio" : 1.5112107623318385,
+        "no_speech_prob" : 0.4510243237018585
+      },
+      {
+        "id" : 21,
+        "seek" : 12996,
+        "start" : 147.4,
+        "end" : 155.12,
+        "text" : " bars, super AIDS, Rick Lacks, Magic AIDS, selling nannah diapers because he shits her pants.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32109020665748833,
+        "compression_ratio" : 1.5112107623318385,
+        "no_speech_prob" : 0.4510243237018585
+      },
+      {
+        "id" : 22,
+        "seek" : 12996,
+        "start" : 155.12,
+        "end" : 159.64,
+        "text" : " How did you know that nannah was dropping logs in her dirty dipes? Data AIDS.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32109020665748833,
+        "compression_ratio" : 1.5112107623318385,
+        "no_speech_prob" : 0.4510243237018585
+      },
+      {
+        "id" : 23,
+        "seek" : 15964,
+        "start" : 159.64,
+        "end" : 165.04,
+        "text" : " How did Facebook know that my grandma had to wear diapers? I personally have to wear diapers",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16508907538193923,
+        "compression_ratio" : 1.5650557620817844,
+        "no_speech_prob" : 0.07118009775876999
+      },
+      {
+        "id" : 24,
+        "seek" : 15964,
+        "start" : 165.04,
+        "end" : 169.48,
+        "text" : " and I wouldn't want the world to know that. Need more evidence? Take for example this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16508907538193923,
+        "compression_ratio" : 1.5650557620817844,
+        "no_speech_prob" : 0.07118009775876999
+      },
+      {
+        "id" : 25,
+        "seek" : 15964,
+        "start" : 169.48,
+        "end" : 174.84,
+        "text" : " interview with Mark Zuckerberg in 2010. So just to be clear, you're not going to sell",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16508907538193923,
+        "compression_ratio" : 1.5650557620817844,
+        "no_speech_prob" : 0.07118009775876999
+      },
+      {
+        "id" : 26,
+        "seek" : 15964,
+        "start" : 174.84,
+        "end" : 179.72,
+        "text" : " or share any of the information on Facebook. No, of course not. This is their information",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16508907538193923,
+        "compression_ratio" : 1.5650557620817844,
+        "no_speech_prob" : 0.07118009775876999
+      },
+      {
+        "id" : 27,
+        "seek" : 15964,
+        "start" : 179.72,
+        "end" : 184.56,
+        "text" : " they own it. Notice anything unusual? Try reversing it. Watch now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16508907538193923,
+        "compression_ratio" : 1.5650557620817844,
+        "no_speech_prob" : 0.07118009775876999
+      },
+      {
+        "id" : 28,
+        "seek" : 18456,
+        "start" : 184.56,
+        "end" : 187.24,
+        "text" : " I'm not looking for a new list.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42176975674099393,
+        "compression_ratio" : 1.575221238938053,
+        "no_speech_prob" : 0.11681261658668518
+      },
+      {
+        "id" : 29,
+        "seek" : 18456,
+        "start" : 187.24,
+        "end" : 195.88,
+        "text" : " I'm one, two, spread it in. Do you believe me now? Facebook's original mission statement was",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42176975674099393,
+        "compression_ratio" : 1.575221238938053,
+        "no_speech_prob" : 0.11681261658668518
+      },
+      {
+        "id" : 30,
+        "seek" : 18456,
+        "start" : 195.88,
+        "end" : 201.56,
+        "text" : " to help spread AIDS to the world. I'm saying what if Facebook never changed from bug",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42176975674099393,
+        "compression_ratio" : 1.575221238938053,
+        "no_speech_prob" : 0.11681261658668518
+      },
+      {
+        "id" : 31,
+        "seek" : 18456,
+        "start" : 201.56,
+        "end" : 207.88,
+        "text" : " book at all? What if Facebook was still spreading AIDS?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42176975674099393,
+        "compression_ratio" : 1.575221238938053,
+        "no_speech_prob" : 0.11681261658668518
+      },
+      {
+        "id" : 32,
+        "seek" : 18456,
+        "start" : 207.88,
+        "end" : 213.8,
+        "text" : " Super AIDS is highly contagious so make sure to tell your partner if you're using Facebook",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42176975674099393,
+        "compression_ratio" : 1.575221238938053,
+        "no_speech_prob" : 0.11681261658668518
+      },
+      {
+        "id" : 33,
+        "seek" : 21380,
+        "start" : 213.8,
+        "end" : 219.24,
+        "text" : " and remember to share this video within 24 hours or you will be visited by diaper Ethan.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2864938009352911,
+        "compression_ratio" : 1.0731707317073171,
+        "no_speech_prob" : 0.009827577508985996
+      }
+    ]
+  }
+}

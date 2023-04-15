@@ -1,0 +1,223 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmFTOVRnb01mblE0",
+  "category" : "video",
+  "name" : "Cameron Carpenter exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/aS9TgoMfnQ4/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/aS9TgoMfnQ4"
+    }
+  ],
+  "start_date" : 1412008840000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.22,
+        "text" : " Channel 4",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.871426335087529,
+        "compression_ratio" : 0.9452054794520548,
+        "no_speech_prob" : 0.43490204215049744
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 8.76,
+        "end" : 11.12,
+        "text" : " Yeah",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.871426335087529,
+        "compression_ratio" : 0.9452054794520548,
+        "no_speech_prob" : 0.43490204215049744
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 15.98,
+        "end" : 19.72,
+        "text" : " One of that is just crap",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.871426335087529,
+        "compression_ratio" : 0.9452054794520548,
+        "no_speech_prob" : 0.43490204215049744
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 19.72,
+        "end" : 21.8,
+        "text" : " is because it's now more",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.871426335087529,
+        "compression_ratio" : 0.9452054794520548,
+        "no_speech_prob" : 0.43490204215049744
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 27.64,
+        "end" : 28.9,
+        "text" : " Wait",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.871426335087529,
+        "compression_ratio" : 0.9452054794520548,
+        "no_speech_prob" : 0.43490204215049744
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 32.08,
+        "text" : " Oh",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.778872489929199,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.02308553270995617
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 37.76,
+        "end" : 44.22,
+        "text" : " Yes, they would hear up",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.778872489929199,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.02308553270995617
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 44.22,
+        "end" : 45.5,
+        "text" : " I'll receive",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.778872489929199,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.02308553270995617
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 46.7,
+        "end" : 49.84,
+        "text" : " Are you going to leave this room?",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.778872489929199,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.02308553270995617
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 55.78,
+        "end" : 56.62,
+        "text" : " This is not",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.778872489929199,
+        "compression_ratio" : 1.0,
+        "no_speech_prob" : 0.02308553270995617
+      },
+      {
+        "id" : 10,
+        "seek" : 6000,
+        "start" : 60.84,
+        "end" : 62.68,
+        "text" : " The quality",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.891473028394911,
+        "compression_ratio" : 1.263157894736842,
+        "no_speech_prob" : 0.07863479852676392
+      },
+      {
+        "id" : 11,
+        "seek" : 6000,
+        "start" : 64.68,
+        "end" : 68.4,
+        "text" : " None of that is a surprise because it's all my attention",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.891473028394911,
+        "compression_ratio" : 1.263157894736842,
+        "no_speech_prob" : 0.07863479852676392
+      },
+      {
+        "id" : 12,
+        "seek" : 6000,
+        "start" : 83.0,
+        "end" : 84.0,
+        "text" : " None",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.891473028394911,
+        "compression_ratio" : 1.263157894736842,
+        "no_speech_prob" : 0.07863479852676392
+      },
+      {
+        "id" : 13,
+        "seek" : 6000,
+        "start" : 84.0,
+        "end" : 86.08,
+        "text" : " Look at that look at the back of his head dude",
+        "temperature" : 0.4,
+        "avg_logprob" : -0.891473028394911,
+        "compression_ratio" : 1.263157894736842,
+        "no_speech_prob" : 0.07863479852676392
+      },
+      {
+        "id" : 14,
+        "seek" : 8608,
+        "start" : 86.08,
+        "end" : 90.74,
+        "text" : " He probably paid like a thousand dollars from that for that haircut. He got it. He got it dressed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3282664389837356,
+        "compression_ratio" : 1.5808080808080809,
+        "no_speech_prob" : 0.04591834172606468
+      },
+      {
+        "id" : 15,
+        "seek" : 8608,
+        "start" : 90.96,
+        "end" : 97.62,
+        "text" : " He got a hair dress fight Videl Sassoon. You got that check for a thousand. Okay great. I'm gonna give you this edgy look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3282664389837356,
+        "compression_ratio" : 1.5808080808080809,
+        "no_speech_prob" : 0.04591834172606468
+      },
+      {
+        "id" : 16,
+        "seek" : 8608,
+        "start" : 97.62,
+        "end" : 102.16,
+        "text" : " Okay, it's gonna look like a rat took a shit on the back of your head, okay? All right, great",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3282664389837356,
+        "compression_ratio" : 1.5808080808080809,
+        "no_speech_prob" : 0.04591834172606468
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "rdesantis",
+  "category" : "lore",
+  "first_name" : "Ronald",
+  "last_name" : "DeSantis",
+  "display_name" : "Ron DeSantis",
+  "thumb" : "/people/rdesantis.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

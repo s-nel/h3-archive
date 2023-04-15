@@ -1,0 +1,168 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjlKUEpZS1dXQ0xV",
+  "category" : "video",
+  "name" : "Keemstar - Full Song (Official)",
+  "description" : "Our boy ZACH! Wrote this song watch him play more music here\nhttps://www.instagram.com/z_vinyl/?hl=en",
+  "thumb" : "https://i.ytimg.com/vi/9JPJYKWWCLU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/9JPJYKWWCLU"
+    }
+  ],
+  "start_date" : 1590120053000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.0,
+        "text" : " Music",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5009628744686351,
+        "compression_ratio" : 1.2040816326530612,
+        "no_speech_prob" : 0.4636625349521637
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.0,
+        "end" : 13.0,
+        "text" : " King Star nibble on your teeth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5009628744686351,
+        "compression_ratio" : 1.2040816326530612,
+        "no_speech_prob" : 0.4636625349521637
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 13.0,
+        "end" : 19.0,
+        "text" : " Sit behind your desk like a rat king",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5009628744686351,
+        "compression_ratio" : 1.2040816326530612,
+        "no_speech_prob" : 0.4636625349521637
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 26.0,
+        "text" : " Playing you report the news that would cause",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5009628744686351,
+        "compression_ratio" : 1.2040816326530612,
+        "no_speech_prob" : 0.4636625349521637
+      },
+      {
+        "id" : 4,
+        "seek" : 2600,
+        "start" : 26.0,
+        "end" : 32.0,
+        "text" : " Comfortly making yourself look like a child",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1545883999314419,
+        "compression_ratio" : 1.3009708737864079,
+        "no_speech_prob" : 0.048703696578741074
+      },
+      {
+        "id" : 5,
+        "seek" : 2600,
+        "start" : 32.0,
+        "end" : 45.0,
+        "text" : " You're a rat, you're a clown, you're a snake, you're a fake",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1545883999314419,
+        "compression_ratio" : 1.3009708737864079,
+        "no_speech_prob" : 0.048703696578741074
+      },
+      {
+        "id" : 6,
+        "seek" : 2600,
+        "start" : 45.0,
+        "end" : 51.0,
+        "text" : " King Star nibble on your teeth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1545883999314419,
+        "compression_ratio" : 1.3009708737864079,
+        "no_speech_prob" : 0.048703696578741074
+      },
+      {
+        "id" : 7,
+        "seek" : 5100,
+        "start" : 52.0,
+        "end" : 58.0,
+        "text" : " Don't you know you spread disease",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10050537275231403,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.04319906234741211
+      },
+      {
+        "id" : 8,
+        "seek" : 5100,
+        "start" : 58.0,
+        "end" : 64.0,
+        "text" : " King Star nibble on your teeth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10050537275231403,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.04319906234741211
+      },
+      {
+        "id" : 9,
+        "seek" : 5100,
+        "start" : 64.0,
+        "end" : 70.0,
+        "text" : " Don't you know that you spread disease",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10050537275231403,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.04319906234741211
+      },
+      {
+        "id" : 10,
+        "seek" : 5100,
+        "start" : 70.0,
+        "end" : 80.0,
+        "text" : " You're a rat, you're a hack, you're a snake",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10050537275231403,
+        "compression_ratio" : 1.5,
+        "no_speech_prob" : 0.04319906234741211
+      },
+      {
+        "id" : 11,
+        "seek" : 8000,
+        "start" : 80.0,
+        "end" : 83.0,
+        "text" : " You're a fake",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14997782026018416,
+        "compression_ratio" : 0.6190476190476191,
+        "no_speech_prob" : 0.28029170632362366
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "steamy_id" : "illegal-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "ddobrik",
+        "dzeglaitis"
+      ],
+      "name" : "Durte Dom R-word",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "fkhattri",
+        "ble"
+      ],
+      "name" : "Save the Kids token",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "smay",
+        "jwright"
+      ],
+      "name" : "Sienna May SA Jack Wright",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : "James Charles courting underaged boys",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "deason"
+      ],
+      "name" : "EDP445 cupcake incident",
+      "won" : false
+    }
+  ],
+  "name" : "Biggest \"this Seems Illegal but for Some Reason Nobody Faces Consequences\"",
+  "description" : null,
+  "year" : 2021
+}

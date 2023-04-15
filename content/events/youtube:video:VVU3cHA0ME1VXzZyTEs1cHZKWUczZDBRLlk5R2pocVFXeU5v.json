@@ -1,0 +1,234 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLlk5R2pocVFXeU5v",
+  "category" : "video",
+  "name" : "At home",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Y9GjhqQWyNo/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Y9GjhqQWyNo"
+    }
+  ],
+  "start_date" : 1423518302000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.48,
+        "text" : " Hey guys welcome to our video blog. We've got strawberries.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2556068844265408,
+        "compression_ratio" : 1.5784313725490196,
+        "no_speech_prob" : 0.033228304237127304
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 10.08,
+        "text" : " Smells good, looks red. Looks just right. Let's give it a bite and see.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2556068844265408,
+        "compression_ratio" : 1.5784313725490196,
+        "no_speech_prob" : 0.033228304237127304
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.08,
+        "end" : 15.2,
+        "text" : " Now strawberry is a part, it's almost perfectly in season for strawberries.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2556068844265408,
+        "compression_ratio" : 1.5784313725490196,
+        "no_speech_prob" : 0.033228304237127304
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 16.96,
+        "end" : 20.32,
+        "text" : " So I got high hopes for this. It's red all the way up to the stem.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2556068844265408,
+        "compression_ratio" : 1.5784313725490196,
+        "no_speech_prob" : 0.033228304237127304
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 21.44,
+        "end" : 24.08,
+        "text" : " Looks good. It smells great. Let's have a bite.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2556068844265408,
+        "compression_ratio" : 1.5784313725490196,
+        "no_speech_prob" : 0.033228304237127304
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 30.24,
+        "end" : 30.96,
+        "text" : " Oh sour.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7160424941625351,
+        "compression_ratio" : 1.1647058823529413,
+        "no_speech_prob" : 0.021394457668066025
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 33.52,
+        "end" : 36.0,
+        "text" : " What the fuck dude? No hole at all.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7160424941625351,
+        "compression_ratio" : 1.1647058823529413,
+        "no_speech_prob" : 0.021394457668066025
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 38.24,
+        "end" : 39.12,
+        "text" : " God damn it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7160424941625351,
+        "compression_ratio" : 1.1647058823529413,
+        "no_speech_prob" : 0.021394457668066025
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 47.84,
+        "end" : 49.04,
+        "text" : " Did you hit all the cream?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7160424941625351,
+        "compression_ratio" : 1.1647058823529413,
+        "no_speech_prob" : 0.021394457668066025
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 53.76,
+        "end" : 54.56,
+        "text" : " What the fuck?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7160424941625351,
+        "compression_ratio" : 1.1647058823529413,
+        "no_speech_prob" : 0.021394457668066025
+      },
+      {
+        "id" : 10,
+        "seek" : 6000,
+        "start" : 60.56,
+        "end" : 65.44,
+        "text" : " It's actually pretty good. I was I was embellishing everything for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5329224354511982,
+        "compression_ratio" : 1.4655172413793103,
+        "no_speech_prob" : 0.011007215827703476
+      },
+      {
+        "id" : 11,
+        "seek" : 6000,
+        "start" : 65.44,
+        "end" : 66.0,
+        "text" : " comedic back.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5329224354511982,
+        "compression_ratio" : 1.4655172413793103,
+        "no_speech_prob" : 0.011007215827703476
+      },
+      {
+        "id" : 12,
+        "seek" : 6000,
+        "start" : 68.72,
+        "end" : 69.92,
+        "text" : " What the fuck is that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5329224354511982,
+        "compression_ratio" : 1.4655172413793103,
+        "no_speech_prob" : 0.011007215827703476
+      },
+      {
+        "id" : 13,
+        "seek" : 6000,
+        "start" : 70.88,
+        "end" : 75.44,
+        "text" : " Nothing dumb here. We got this trash can. We don't fuck you music. We just dump",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5329224354511982,
+        "compression_ratio" : 1.4655172413793103,
+        "no_speech_prob" : 0.011007215827703476
+      },
+      {
+        "id" : 14,
+        "seek" : 6000,
+        "start" : 75.44,
+        "end" : 79.84,
+        "text" : " garbage outside of it. What a shit hole dude. I can't believe word like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5329224354511982,
+        "compression_ratio" : 1.4655172413793103,
+        "no_speech_prob" : 0.011007215827703476
+      },
+      {
+        "id" : 15,
+        "seek" : 7984,
+        "start" : 80.48,
+        "end" : 83.2,
+        "text" : " border in adults.",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.6770183338838467,
+        "compression_ratio" : 0.8431372549019608,
+        "no_speech_prob" : 0.029297100380063057
+      },
+      {
+        "id" : 16,
+        "seek" : 7984,
+        "start" : 98.08,
+        "end" : 103.76,
+        "text" : " You give your hand on me.",
+        "temperature" : 1.0,
+        "avg_logprob" : -2.6770183338838467,
+        "compression_ratio" : 0.8431372549019608,
+        "no_speech_prob" : 0.029297100380063057
+      },
+      {
+        "id" : 17,
+        "seek" : 10376,
+        "start" : 103.76,
+        "end" : 110.4,
+        "text" : " science",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.4893574714660645,
+        "compression_ratio" : 0.4666666666666667,
+        "no_speech_prob" : 0.2295036017894745
+      }
+    ]
+  }
+}

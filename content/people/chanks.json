@@ -1,0 +1,13 @@
+{
+  "person_id" : "chanks",
+  "category" : "lore",
+  "first_name" : "Chester",
+  "last_name" : "Hanks",
+  "display_name" : "Chet Hanks",
+  "thumb" : "/people/chanks.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

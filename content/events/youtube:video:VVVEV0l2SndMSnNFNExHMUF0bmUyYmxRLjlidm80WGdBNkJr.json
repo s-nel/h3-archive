@@ -1,0 +1,69 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjlidm80WGdBNkJr",
+  "category" : "video",
+  "name" : "utub 2 - in luv",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/9bvo4XgA6Bk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/9bvo4XgA6Bk"
+    }
+  ],
+  "start_date" : 1393359224000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 10.0,
+        "text" : " ВЕСЕЛАЯ МУЗЫКА",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.9427063681862571,
+        "compression_ratio" : 0.75,
+        "no_speech_prob" : 0.5465289950370789
+      },
+      {
+        "id" : 1,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 40.0,
+        "text" : " МУЗЫКАЛЬНАЯ ЗАСТАВКА",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5180841959439791,
+        "compression_ratio" : 0.8863636363636364,
+        "no_speech_prob" : 0.7312994003295898
+      },
+      {
+        "id" : 2,
+        "seek" : 6000,
+        "start" : 60.0,
+        "end" : 70.0,
+        "text" : " МУЗЫКАЛЬНАЯ ЗАСТАВКА",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.42879478748028094,
+        "compression_ratio" : 0.8863636363636364,
+        "no_speech_prob" : 0.13824856281280518
+      }
+    ]
+  }
+}

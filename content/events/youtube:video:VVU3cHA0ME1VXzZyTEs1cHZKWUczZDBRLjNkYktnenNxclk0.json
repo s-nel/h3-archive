@@ -1,0 +1,190 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjNkYktnenNxclk0",
+  "category" : "video",
+  "name" : "Best Spaceheater Review - 2014",
+  "description" : "We just found this video that we never posted and thought it was a nice little nostalgic touch.",
+  "thumb" : "https://i.ytimg.com/vi/3dbKgzsqrY4/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/3dbKgzsqrY4"
+    }
+  ],
+  "start_date" : 1433529655000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.84,
+        "text" : " Ilya do not tie tie. I think this is like a half winzer. I'm not sure though.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3677691195873504,
+        "compression_ratio" : 1.6510416666666667,
+        "no_speech_prob" : 0.2809814512729645
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.84,
+        "end" : 15.0,
+        "text" : " It's a full winzer or a half winzer. I think that's a half winzer. Not bad.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3677691195873504,
+        "compression_ratio" : 1.6510416666666667,
+        "no_speech_prob" : 0.2809814512729645
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 20.02,
+        "text" : " Okay, let's start the review. Now just let me start by saying that it provides",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3677691195873504,
+        "compression_ratio" : 1.6510416666666667,
+        "no_speech_prob" : 0.2809814512729645
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 20.02,
+        "end" : 28.02,
+        "text" : " pretty good heat. But it has one minor defect and I think it really is getting in my",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3677691195873504,
+        "compression_ratio" : 1.6510416666666667,
+        "no_speech_prob" : 0.2809814512729645
+      },
+      {
+        "id" : 4,
+        "seek" : 2802,
+        "start" : 28.02,
+        "end" : 32.18,
+        "text" : " way of enjoying it. I don't know. Tell me what you guys think. You look, why don't you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2575056711832682,
+        "compression_ratio" : 1.5778688524590163,
+        "no_speech_prob" : 0.006763255689293146
+      },
+      {
+        "id" : 5,
+        "seek" : 2802,
+        "start" : 32.18,
+        "end" : 39.06,
+        "text" : " show them the heater. So as you can see there's a little bit of light coming",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2575056711832682,
+        "compression_ratio" : 1.5778688524590163,
+        "no_speech_prob" : 0.006763255689293146
+      },
+      {
+        "id" : 6,
+        "seek" : 2802,
+        "start" : 39.06,
+        "end" : 44.12,
+        "text" : " off there and well those heat rings apparently which are",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2575056711832682,
+        "compression_ratio" : 1.5778688524590163,
+        "no_speech_prob" : 0.006763255689293146
+      },
+      {
+        "id" : 7,
+        "seek" : 2802,
+        "start" : 44.12,
+        "end" : 49.34,
+        "text" : " generating the heat. There's a bark product light and it's a minor defect I would",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2575056711832682,
+        "compression_ratio" : 1.5778688524590163,
+        "no_speech_prob" : 0.006763255689293146
+      },
+      {
+        "id" : 8,
+        "seek" : 2802,
+        "start" : 49.34,
+        "end" : 56.78,
+        "text" : " say. Not really big deal. Good heat. I give it a 9 out of 10 except for the light.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2575056711832682,
+        "compression_ratio" : 1.5778688524590163,
+        "no_speech_prob" : 0.006763255689293146
+      },
+      {
+        "id" : 9,
+        "seek" : 5678,
+        "start" : 56.78,
+        "end" : 60.66,
+        "text" : " Just a little bright. Well guys it's pretty warm in here so I'm gonna shut",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2555410030276276,
+        "compression_ratio" : 1.511737089201878,
+        "no_speech_prob" : 0.013783162459731102
+      },
+      {
+        "id" : 10,
+        "seek" : 5678,
+        "start" : 60.66,
+        "end" : 64.92,
+        "text" : " her off. I don't want to waste too much energy. I know it's only 700 watts but",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2555410030276276,
+        "compression_ratio" : 1.511737089201878,
+        "no_speech_prob" : 0.013783162459731102
+      },
+      {
+        "id" : 11,
+        "seek" : 5678,
+        "start" : 64.92,
+        "end" : 68.46,
+        "text" : " guys we need to conserve. We're gonna make it here together so good night guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2555410030276276,
+        "compression_ratio" : 1.511737089201878,
+        "no_speech_prob" : 0.013783162459731102
+      },
+      {
+        "id" : 12,
+        "seek" : 5678,
+        "start" : 68.46,
+        "end" : 73.34,
+        "text" : " Thanks for watching and remember to pick up your cell mort space heater today.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2555410030276276,
+        "compression_ratio" : 1.511737089201878,
+        "no_speech_prob" : 0.013783162459731102
+      },
+      {
+        "id" : 13,
+        "seek" : 5678,
+        "start" : 73.34,
+        "end" : 76.14,
+        "text" : " Bye guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2555410030276276,
+        "compression_ratio" : 1.511737089201878,
+        "no_speech_prob" : 0.013783162459731102
+      }
+    ]
+  }
+}

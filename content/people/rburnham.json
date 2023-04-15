@@ -1,0 +1,13 @@
+{
+  "person_id" : "rburnham",
+  "category" : "guest",
+  "first_name" : "Robert",
+  "last_name" : "Burnham",
+  "display_name" : "Bo Burnham",
+  "thumb" : "/people/rburnham.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

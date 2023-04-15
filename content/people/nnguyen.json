@@ -1,0 +1,13 @@
+{
+  "person_id" : "nnguyen",
+  "category" : "lore",
+  "first_name" : "Nikita",
+  "last_name" : "Nguyen",
+  "display_name" : "Nikita Dragun",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

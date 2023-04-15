@@ -1,0 +1,50 @@
+{
+  "steamy_id" : "biggest-covidiot-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "tmongeau"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "nnguyen"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "aeasterling"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jpaul"
+      ],
+      "name" : null,
+      "won" : true
+    }
+  ],
+  "name" : "Biggest Covidiot",
+  "description" : null,
+  "year" : 2020
+}

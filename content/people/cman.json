@@ -1,0 +1,13 @@
+{
+  "person_id" : "cman",
+  "category" : "guest",
+  "first_name" : "C-Man",
+  "last_name" : "",
+  "display_name" : "C-Man",
+  "thumb" : "/people/cman.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

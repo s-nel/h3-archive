@@ -1,0 +1,14 @@
+{
+  "person_id" : "dswerdlove",
+  "category" : "crew",
+  "first_name" : "Daniel",
+  "last_name" : "Swerdlove",
+  "display_name" : "Dan",
+  "thumb" : "/people/dswerdlove.jpg",
+  "description" : "Executive producer on the podcast. General wizard of all things recording and voice of reason in dark times.",
+  "aliases" : [
+    "Dan \"The Hater\""
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

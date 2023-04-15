@@ -1,0 +1,113 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLmhGel9IOG4xX09v",
+  "category" : "video",
+  "name" : "house cleaning tips - cleaning up the schmutz",
+  "description" : "Original Video: \nhttps://www.youtube.com/watch?v=toO7wLvFoP4",
+  "thumb" : "https://i.ytimg.com/vi/hFz_H8n1_Oo/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/hFz_H8n1_Oo"
+    }
+  ],
+  "start_date" : 1408639241000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.0,
+        "text" : " Hey guys, this is me, you think I'm actually with some new one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 6.0,
+        "text" : " With some housekeeping tips here at home.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 9.0,
+        "text" : " You guys should mix all the info I need to pick it up and you can clean it up here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 9.0,
+        "end" : 11.0,
+        "text" : " Just come with me, I'll show you what to do with this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 14.0,
+        "text" : " You got our should mix file here. Very simple stuff here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 16.0,
+        "text" : " Hey, Shal, can I come in?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 17.0,
+        "text" : " Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39671929992071475,
+        "compression_ratio" : 1.5754716981132075,
+        "no_speech_prob" : 0.054732710123062134
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "event_id" : "controversy:benshapiro",
+  "category" : "controversy",
+  "name" : "Ethan banned for Ben Shapiro remarks",
+  "description" : "H3 Podcast banned from YouTube for a week after Ethan wished that if there were another holocaust that Ben Shapiro should be the first to be gassed.",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1666051200000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "subject"
+    },
+    {
+      "person_id" : "bshapiro",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

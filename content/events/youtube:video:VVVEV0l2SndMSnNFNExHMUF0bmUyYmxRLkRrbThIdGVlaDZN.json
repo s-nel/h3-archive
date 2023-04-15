@@ -1,0 +1,795 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkRrbThIdGVlaDZN",
+  "category" : "video",
+  "name" : "VAPE NATION",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Dkm8Hteeh6M/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Dkm8Hteeh6M"
+    }
+  ],
+  "start_date" : 1458604374000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.0,
+        "text" : " A What Up Peeps that your boy Ethan from H3H3, the sun finally came out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.282639033357862,
+        "compression_ratio" : 1.3295454545454546,
+        "no_speech_prob" : 0.051979731768369675
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 11.0,
+        "text" : " It's a beautiful nice one day here in New York City and I wanted to show you all at home what I'm about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.282639033357862,
+        "compression_ratio" : 1.3295454545454546,
+        "no_speech_prob" : 0.051979731768369675
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 16.0,
+        "text" : " A little peep into the world of EK from H3. Vape Nation!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.282639033357862,
+        "compression_ratio" : 1.3295454545454546,
+        "no_speech_prob" : 0.051979731768369675
+      },
+      {
+        "id" : 3,
+        "seek" : 3000,
+        "start" : 31.0,
+        "end" : 35.0,
+        "text" : " Today I'm on a mission to rip the Fattest Vape.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13953049238338028,
+        "compression_ratio" : 1.4835164835164836,
+        "no_speech_prob" : 0.07697305828332901
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 35.0,
+        "end" : 40.0,
+        "text" : " So I'm headed down to my favorite smoke shop in New York City to vape up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13953049238338028,
+        "compression_ratio" : 1.4835164835164836,
+        "no_speech_prob" : 0.07697305828332901
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 48.0,
+        "end" : 53.0,
+        "text" : " Welcome to vape city, home of the Fattest Cloud Rippers in the world.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13953049238338028,
+        "compression_ratio" : 1.4835164835164836,
+        "no_speech_prob" : 0.07697305828332901
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 53.0,
+        "end" : 57.0,
+        "text" : " I'm here to kick it up a notch and become one of the best.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13953049238338028,
+        "compression_ratio" : 1.4835164835164836,
+        "no_speech_prob" : 0.07697305828332901
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 57.0,
+        "end" : 59.0,
+        "text" : " Let's check it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13953049238338028,
+        "compression_ratio" : 1.4835164835164836,
+        "no_speech_prob" : 0.07697305828332901
+      },
+      {
+        "id" : 8,
+        "seek" : 6000,
+        "start" : 61.0,
+        "end" : 64.0,
+        "text" : " Hey what's going on man?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 9,
+        "seek" : 6000,
+        "start" : 64.0,
+        "end" : 67.0,
+        "text" : " Her jaw has vapes here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 10,
+        "seek" : 6000,
+        "start" : 67.0,
+        "end" : 69.0,
+        "text" : " Cool dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 11,
+        "seek" : 6000,
+        "start" : 74.0,
+        "end" : 78.0,
+        "text" : " So I'm looking for like a fat something I can rip like fat on.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 12,
+        "seek" : 6000,
+        "start" : 78.0,
+        "end" : 81.0,
+        "text" : " Like the Fattest rip you've got here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 13,
+        "seek" : 6000,
+        "start" : 81.0,
+        "end" : 84.0,
+        "text" : " I'm like this guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 14,
+        "seek" : 6000,
+        "start" : 84.0,
+        "end" : 89.0,
+        "text" : " So we building the perfect vape for the perfect rip.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34091717157608425,
+        "compression_ratio" : 1.4591194968553458,
+        "no_speech_prob" : 0.01667316071689129
+      },
+      {
+        "id" : 15,
+        "seek" : 8900,
+        "start" : 89.0,
+        "end" : 92.0,
+        "text" : " Far out dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 16,
+        "seek" : 8900,
+        "start" : 92.0,
+        "end" : 94.0,
+        "text" : " Vape Nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 17,
+        "seek" : 8900,
+        "start" : 94.0,
+        "end" : 98.0,
+        "text" : " Something natural like Mountain Dew Flavor or Cheetos or something.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 18,
+        "seek" : 8900,
+        "start" : 103.0,
+        "end" : 106.0,
+        "text" : " Churros organic churro flavor.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 19,
+        "seek" : 8900,
+        "start" : 106.0,
+        "end" : 107.0,
+        "text" : " Shit that's not.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 20,
+        "seek" : 8900,
+        "start" : 107.0,
+        "end" : 109.0,
+        "text" : " I'll take that. That sounds good in natural.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 21,
+        "seek" : 8900,
+        "start" : 109.0,
+        "end" : 111.0,
+        "text" : " Churros flavor.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 22,
+        "seek" : 8900,
+        "start" : 111.0,
+        "end" : 112.0,
+        "text" : " Alright.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 23,
+        "seek" : 8900,
+        "start" : 112.0,
+        "end" : 115.0,
+        "text" : " Now we here at the vape nation all about going green and staying natural.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37795694758383075,
+        "compression_ratio" : 1.5376344086021505,
+        "no_speech_prob" : 0.040061015635728836
+      },
+      {
+        "id" : 24,
+        "seek" : 11500,
+        "start" : 115.0,
+        "end" : 122.0,
+        "text" : " So when I think about smoking churros I'm thinking you know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2171948574207447,
+        "compression_ratio" : 1.0123456790123457,
+        "no_speech_prob" : 0.007866393774747849
+      },
+      {
+        "id" : 25,
+        "seek" : 11500,
+        "start" : 122.0,
+        "end" : 124.0,
+        "text" : " Go green.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2171948574207447,
+        "compression_ratio" : 1.0123456790123457,
+        "no_speech_prob" : 0.007866393774747849
+      },
+      {
+        "id" : 26,
+        "seek" : 12400,
+        "start" : 125.0,
+        "end" : 126.0,
+        "text" : " Oh.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4430846237554783,
+        "compression_ratio" : 1.1063829787234043,
+        "no_speech_prob" : 0.1121651753783226
+      },
+      {
+        "id" : 27,
+        "seek" : 12400,
+        "start" : 144.0,
+        "end" : 146.0,
+        "text" : " Oh yeah dude that's just what I wanted.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4430846237554783,
+        "compression_ratio" : 1.1063829787234043,
+        "no_speech_prob" : 0.1121651753783226
+      },
+      {
+        "id" : 28,
+        "seek" : 12400,
+        "start" : 146.0,
+        "end" : 148.0,
+        "text" : " You had to get easy like.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4430846237554783,
+        "compression_ratio" : 1.1063829787234043,
+        "no_speech_prob" : 0.1121651753783226
+      },
+      {
+        "id" : 29,
+        "seek" : 12400,
+        "start" : 148.0,
+        "end" : 150.0,
+        "text" : " Not so hard.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4430846237554783,
+        "compression_ratio" : 1.1063829787234043,
+        "no_speech_prob" : 0.1121651753783226
+      },
+      {
+        "id" : 30,
+        "seek" : 12400,
+        "start" : 150.0,
+        "end" : 152.0,
+        "text" : " Take all of them out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4430846237554783,
+        "compression_ratio" : 1.1063829787234043,
+        "no_speech_prob" : 0.1121651753783226
+      },
+      {
+        "id" : 31,
+        "seek" : 15200,
+        "start" : 152.0,
+        "end" : 154.0,
+        "text" : " You don't hold inside.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38152740940903174,
+        "compression_ratio" : 1.4102564102564104,
+        "no_speech_prob" : 0.007554281037300825
+      },
+      {
+        "id" : 32,
+        "seek" : 15200,
+        "start" : 154.0,
+        "end" : 156.0,
+        "text" : " Maybe you don't.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38152740940903174,
+        "compression_ratio" : 1.4102564102564104,
+        "no_speech_prob" : 0.007554281037300825
+      },
+      {
+        "id" : 33,
+        "seek" : 15200,
+        "start" : 160.0,
+        "end" : 162.0,
+        "text" : " Just look that's good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38152740940903174,
+        "compression_ratio" : 1.4102564102564104,
+        "no_speech_prob" : 0.007554281037300825
+      },
+      {
+        "id" : 34,
+        "seek" : 15200,
+        "start" : 170.0,
+        "end" : 173.0,
+        "text" : " Now how long is a full chamber last?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38152740940903174,
+        "compression_ratio" : 1.4102564102564104,
+        "no_speech_prob" : 0.007554281037300825
+      },
+      {
+        "id" : 35,
+        "seek" : 15200,
+        "start" : 173.0,
+        "end" : 178.0,
+        "text" : " This is definitely how much you smoke so like this one you're going to last you maybe for basically smoke.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38152740940903174,
+        "compression_ratio" : 1.4102564102564104,
+        "no_speech_prob" : 0.007554281037300825
+      },
+      {
+        "id" : 36,
+        "seek" : 15200,
+        "start" : 178.0,
+        "end" : 179.0,
+        "text" : " Like all day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38152740940903174,
+        "compression_ratio" : 1.4102564102564104,
+        "no_speech_prob" : 0.007554281037300825
+      },
+      {
+        "id" : 37,
+        "seek" : 17900,
+        "start" : 179.0,
+        "end" : 180.0,
+        "text" : " Really?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13154102563858033,
+        "compression_ratio" : 1.1122448979591837,
+        "no_speech_prob" : 0.007644102443009615
+      },
+      {
+        "id" : 38,
+        "seek" : 17900,
+        "start" : 180.0,
+        "end" : 181.0,
+        "text" : " Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13154102563858033,
+        "compression_ratio" : 1.1122448979591837,
+        "no_speech_prob" : 0.007644102443009615
+      },
+      {
+        "id" : 39,
+        "seek" : 17900,
+        "start" : 181.0,
+        "end" : 183.0,
+        "text" : " Probably less me a couple hours.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13154102563858033,
+        "compression_ratio" : 1.1122448979591837,
+        "no_speech_prob" : 0.007644102443009615
+      },
+      {
+        "id" : 40,
+        "seek" : 17900,
+        "start" : 202.0,
+        "end" : 206.0,
+        "text" : " I'm on my way back to my hood now to try out my sick new vape.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13154102563858033,
+        "compression_ratio" : 1.1122448979591837,
+        "no_speech_prob" : 0.007644102443009615
+      },
+      {
+        "id" : 41,
+        "seek" : 20600,
+        "start" : 206.0,
+        "end" : 210.0,
+        "text" : " But first I wanted to stop by the local news and say what up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13525940312279594,
+        "compression_ratio" : 0.9384615384615385,
+        "no_speech_prob" : 0.012243343517184258
+      },
+      {
+        "id" : 42,
+        "seek" : 23600,
+        "start" : 236.0,
+        "end" : 260.0,
+        "text" : " Vape nation on the news represent the nation y'all.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31618157029151917,
+        "compression_ratio" : 1.0625,
+        "no_speech_prob" : 0.06418771296739578
+      },
+      {
+        "id" : 43,
+        "seek" : 26600,
+        "start" : 267.0,
+        "end" : 273.0,
+        "text" : " For 20 every day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 44,
+        "seek" : 26600,
+        "start" : 273.0,
+        "end" : 274.0,
+        "text" : " Every day?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 45,
+        "seek" : 26600,
+        "start" : 274.0,
+        "end" : 276.0,
+        "text" : " Here's cancer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 46,
+        "seek" : 26600,
+        "start" : 276.0,
+        "end" : 278.0,
+        "text" : " Smoking here's cancer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 47,
+        "seek" : 26600,
+        "start" : 281.0,
+        "end" : 283.0,
+        "text" : " No it's good trust.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 48,
+        "seek" : 26600,
+        "start" : 283.0,
+        "end" : 284.0,
+        "text" : " Vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 49,
+        "seek" : 26600,
+        "start" : 284.0,
+        "end" : 285.0,
+        "text" : " Appreciate it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 50,
+        "seek" : 26600,
+        "start" : 285.0,
+        "end" : 292.0,
+        "text" : " My day is never complete until I've done some missionary work to spread the good word about the vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 51,
+        "seek" : 26600,
+        "start" : 292.0,
+        "end" : 293.0,
+        "text" : " Go green.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22143084043032163,
+        "compression_ratio" : 1.4294478527607362,
+        "no_speech_prob" : 0.046718064695596695
+      },
+      {
+        "id" : 52,
+        "seek" : 29300,
+        "start" : 294.0,
+        "end" : 295.0,
+        "text" : " Peace.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 53,
+        "seek" : 29300,
+        "start" : 295.0,
+        "end" : 296.0,
+        "text" : " God bless.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 54,
+        "seek" : 29300,
+        "start" : 299.0,
+        "end" : 300.0,
+        "text" : " What's up guys?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 55,
+        "seek" : 29300,
+        "start" : 300.0,
+        "end" : 300.0,
+        "text" : "",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 56,
+        "seek" : 29300,
+        "start" : 305.0,
+        "end" : 309.0,
+        "text" : " People aren't ready for the nation but they'll come around.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 57,
+        "seek" : 29300,
+        "start" : 309.0,
+        "end" : 310.0,
+        "text" : " Go green.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 58,
+        "seek" : 29300,
+        "start" : 310.0,
+        "end" : 315.0,
+        "text" : " And now finally it's time to put this sick new vape to the test.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 59,
+        "seek" : 29300,
+        "start" : 315.0,
+        "end" : 317.0,
+        "text" : " You all want to know what I'm about?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 60,
+        "seek" : 29300,
+        "start" : 317.0,
+        "end" : 322.0,
+        "text" : " I'm about chasing the fattest clouds and ripping the fattest vapes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1531346706633872,
+        "compression_ratio" : 1.5380434782608696,
+        "no_speech_prob" : 0.03452809154987335
+      },
+      {
+        "id" : 61,
+        "seek" : 32200,
+        "start" : 322.0,
+        "end" : 324.0,
+        "text" : " Welcome to the vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17706649303436278,
+        "compression_ratio" : 0.7714285714285715,
+        "no_speech_prob" : 0.028840452432632446
+      },
+      {
+        "id" : 62,
+        "seek" : 35200,
+        "start" : 353.0,
+        "end" : 354.0,
+        "text" : " Oh.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8554921430699965,
+        "compression_ratio" : 0.8064516129032258,
+        "no_speech_prob" : 0.607600748538971
+      },
+      {
+        "id" : 63,
+        "seek" : 35200,
+        "start" : 354.0,
+        "end" : 355.0,
+        "text" : " Oh.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8554921430699965,
+        "compression_ratio" : 0.8064516129032258,
+        "no_speech_prob" : 0.607600748538971
+      },
+      {
+        "id" : 64,
+        "seek" : 35200,
+        "start" : 367.0,
+        "end" : 368.0,
+        "text" : " I'm proud of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8554921430699965,
+        "compression_ratio" : 0.8064516129032258,
+        "no_speech_prob" : 0.607600748538971
+      },
+      {
+        "id" : 65,
+        "seek" : 38200,
+        "start" : 382.0,
+        "end" : 389.0,
+        "text" : " Vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3912758576242547,
+        "compression_ratio" : 1.5833333333333333,
+        "no_speech_prob" : 0.07598419487476349
+      },
+      {
+        "id" : 66,
+        "seek" : 38200,
+        "start" : 389.0,
+        "end" : 396.0,
+        "text" : " Vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3912758576242547,
+        "compression_ratio" : 1.5833333333333333,
+        "no_speech_prob" : 0.07598419487476349
+      },
+      {
+        "id" : 67,
+        "seek" : 38200,
+        "start" : 396.0,
+        "end" : 397.0,
+        "text" : " Vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3912758576242547,
+        "compression_ratio" : 1.5833333333333333,
+        "no_speech_prob" : 0.07598419487476349
+      },
+      {
+        "id" : 68,
+        "seek" : 41200,
+        "start" : 412.0,
+        "end" : 413.0,
+        "text" : " Vape nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.260724561555045,
+        "compression_ratio" : 0.6,
+        "no_speech_prob" : 0.9777072668075562
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "steamy_id" : "worst-apology-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "tmongeau"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "cpaiz"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mvarshavski"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jmourey"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jstar"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "twestbrook"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Worst Apology",
+  "description" : null,
+  "year" : 2020
+}

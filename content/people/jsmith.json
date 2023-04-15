@@ -1,0 +1,13 @@
+{
+  "person_id" : "jsmith",
+  "category" : "lore",
+  "first_name" : "Jaden",
+  "last_name" : "Smith",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,20 @@
+{
+  "event_id" : "controversy:nra",
+  "category" : "controversy",
+  "name" : "Ethan banned for suggesting harm to the NRA",
+  "description" : "H3 Podcast banned from YouTube for a week after suggesting somebody should bomb the NRA.",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1653436800000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

@@ -1,0 +1,850 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnB4UFllN2dIV2E0",
+  "category" : "video",
+  "name" : "We Got Roasted",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/pxPYe7gHWa4/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/pxPYe7gHWa4"
+    }
+  ],
+  "start_date" : 1469574438000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.16,
+        "text" : " You know, I'm really proud to be a part of this community and you guys really were all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24845674926159428,
+        "compression_ratio" : 1.7178423236514522,
+        "no_speech_prob" : 0.09316118061542511
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.16,
+        "end" : 11.12,
+        "text" : " you leave great comments that encourage us and power us and make us feel overall just terrific and appreciate it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24845674926159428,
+        "compression_ratio" : 1.7178423236514522,
+        "no_speech_prob" : 0.09316118061542511
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 11.12,
+        "end" : 17.36,
+        "text" : " But some of you leave such rude comments that I can't, I'm shocked, it cuts me so deep!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24845674926159428,
+        "compression_ratio" : 1.7178423236514522,
+        "no_speech_prob" : 0.09316118061542511
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.96,
+        "end" : 24.32,
+        "text" : " And I just can't believe that strangers would leave such a mean comment about me over the internet",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24845674926159428,
+        "compression_ratio" : 1.7178423236514522,
+        "no_speech_prob" : 0.09316118061542511
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 24.32,
+        "end" : 26.0,
+        "text" : " who would do such a thing!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24845674926159428,
+        "compression_ratio" : 1.7178423236514522,
+        "no_speech_prob" : 0.09316118061542511
+      },
+      {
+        "id" : 5,
+        "seek" : 2600,
+        "start" : 26.56,
+        "end" : 33.52,
+        "text" : " It's really nice how Ethan's care is in this video too. She really goes above and beyond the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13139011092105154,
+        "compression_ratio" : 1.667844522968198,
+        "no_speech_prob" : 0.10628440976142883
+      },
+      {
+        "id" : 6,
+        "seek" : 2600,
+        "start" : 33.52,
+        "end" : 40.72,
+        "text" : " call of duty. I honestly can't even imagine one good reason why any of you would think that,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13139011092105154,
+        "compression_ratio" : 1.667844522968198,
+        "no_speech_prob" : 0.10628440976142883
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 40.72,
+        "end" : 46.16,
+        "text" : " you know, I was her autistic son or special needs son. Like I literally don't understand why",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13139011092105154,
+        "compression_ratio" : 1.667844522968198,
+        "no_speech_prob" : 0.10628440976142883
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 46.16,
+        "end" : 51.2,
+        "text" : " anyone would insinuate that he was my caretaker or my sister or anything like that. We're nothing,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13139011092105154,
+        "compression_ratio" : 1.667844522968198,
+        "no_speech_prob" : 0.10628440976142883
+      },
+      {
+        "id" : 9,
+        "seek" : 2600,
+        "start" : 51.2,
+        "end" : 55.44,
+        "text" : " I'm about a loving couple who loves each other very much and I'm definitely not special needs.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13139011092105154,
+        "compression_ratio" : 1.667844522968198,
+        "no_speech_prob" : 0.10628440976142883
+      },
+      {
+        "id" : 10,
+        "seek" : 5544,
+        "start" : 55.44,
+        "end" : 61.84,
+        "text" : " I'm a man whose well capable of taking care of himself and his wife. I mean guys please, it's not",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.210330531282245,
+        "compression_ratio" : 1.6271186440677967,
+        "no_speech_prob" : 0.006983314175158739
+      },
+      {
+        "id" : 11,
+        "seek" : 5544,
+        "start" : 61.84,
+        "end" : 70.8,
+        "text" : " right. I miss the old age three, the gold age three, the boy back without the sure age three,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.210330531282245,
+        "compression_ratio" : 1.6271186440677967,
+        "no_speech_prob" : 0.006983314175158739
+      },
+      {
+        "id" : 12,
+        "seek" : 5544,
+        "start" : 70.8,
+        "end" : 77.12,
+        "text" : " the Papa John and Soty Pop Shrek loving age three. Man you guys are so right dude, I used to be",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.210330531282245,
+        "compression_ratio" : 1.6271186440677967,
+        "no_speech_prob" : 0.006983314175158739
+      },
+      {
+        "id" : 13,
+        "seek" : 5544,
+        "start" : 77.12,
+        "end" : 82.72,
+        "text" : " a lot cooler, I don't know what happened. I mean our video suck, I'm not funny, everybody thinks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.210330531282245,
+        "compression_ratio" : 1.6271186440677967,
+        "no_speech_prob" : 0.006983314175158739
+      },
+      {
+        "id" : 14,
+        "seek" : 8272,
+        "start" : 82.72,
+        "end" : 87.76,
+        "text" : " my wife's my sister on top of it, I'm old. I'm older, I used to be five years younger now,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23850976337086072,
+        "compression_ratio" : 1.236842105263158,
+        "no_speech_prob" : 0.018394792452454567
+      },
+      {
+        "id" : 15,
+        "seek" : 8272,
+        "start" : 87.76,
+        "end" : 89.76,
+        "text" : " I'm just an old asshole with gray hair on YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23850976337086072,
+        "compression_ratio" : 1.236842105263158,
+        "no_speech_prob" : 0.018394792452454567
+      },
+      {
+        "id" : 16,
+        "seek" : 11272,
+        "start" : 113.04,
+        "end" : 120.64,
+        "text" : " I don't know if YouTube is the job for you Ethan.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20124020046657987,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.1543889343738556
+      },
+      {
+        "id" : 17,
+        "seek" : 11272,
+        "start" : 121.28,
+        "end" : 128.08,
+        "text" : " Ela deserves better and more attention. All you care about is YouTube and money. Ela this guy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20124020046657987,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.1543889343738556
+      },
+      {
+        "id" : 18,
+        "seek" : 11272,
+        "start" : 128.08,
+        "end" : 135.36,
+        "text" : " really nailed it dude. This guy fucking just roasted my ass man. He's like really sensitive YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20124020046657987,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.1543889343738556
+      },
+      {
+        "id" : 19,
+        "seek" : 11272,
+        "start" : 135.36,
+        "end" : 139.92,
+        "text" : " commenter. Are you, is that something you're into? I know this guy's got it all. He's a YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20124020046657987,
+        "compression_ratio" : 1.599056603773585,
+        "no_speech_prob" : 0.1543889343738556
+      },
+      {
+        "id" : 20,
+        "seek" : 13992,
+        "start" : 140.88,
+        "end" : 145.84,
+        "text" : " commenter and he's very insightful and especially sensitive. Okay. So just promise me that you'll",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14757357493485554,
+        "compression_ratio" : 1.65,
+        "no_speech_prob" : 0.08287878334522247
+      },
+      {
+        "id" : 21,
+        "seek" : 13992,
+        "start" : 145.84,
+        "end" : 150.32,
+        "text" : " think about all the good times we had together before you read this. Okay. Okay just read it dude,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14757357493485554,
+        "compression_ratio" : 1.65,
+        "no_speech_prob" : 0.08287878334522247
+      },
+      {
+        "id" : 22,
+        "seek" : 13992,
+        "start" : 150.32,
+        "end" : 158.16,
+        "text" : " just read it. I don't know if YouTube is the job for you Ethan. Ela deserves better and more attention.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14757357493485554,
+        "compression_ratio" : 1.65,
+        "no_speech_prob" : 0.08287878334522247
+      },
+      {
+        "id" : 23,
+        "seek" : 13992,
+        "start" : 159.04,
+        "end" : 165.76,
+        "text" : " All you care about is YouTube and money. How did you know? I don't know. How could he tell that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14757357493485554,
+        "compression_ratio" : 1.65,
+        "no_speech_prob" : 0.08287878334522247
+      },
+      {
+        "id" : 24,
+        "seek" : 16576,
+        "start" : 165.76,
+        "end" : 171.52,
+        "text" : " from watching a vlog he's so insightful? I can see it in her. I feel that she's been neglected by",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.061668047198542845,
+        "compression_ratio" : 2.2790697674418605,
+        "no_speech_prob" : 0.08734963089227676
+      },
+      {
+        "id" : 25,
+        "seek" : 16576,
+        "start" : 171.52,
+        "end" : 178.56,
+        "text" : " Ethan. How can I ignore that feeling? I can't believe you guys can't see the hurt in her. Nobody sees",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.061668047198542845,
+        "compression_ratio" : 2.2790697674418605,
+        "no_speech_prob" : 0.08734963089227676
+      },
+      {
+        "id" : 26,
+        "seek" : 16576,
+        "start" : 178.56,
+        "end" : 186.32,
+        "text" : " the real you like he does. He's the only one that sees the real you. I can see it in her. I feel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.061668047198542845,
+        "compression_ratio" : 2.2790697674418605,
+        "no_speech_prob" : 0.08734963089227676
+      },
+      {
+        "id" : 27,
+        "seek" : 16576,
+        "start" : 186.32,
+        "end" : 192.8,
+        "text" : " that she's been neglected by Ethan. How can I ignore that feeling? I can't believe you guys can",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.061668047198542845,
+        "compression_ratio" : 2.2790697674418605,
+        "no_speech_prob" : 0.08734963089227676
+      },
+      {
+        "id" : 28,
+        "seek" : 19280,
+        "start" : 192.8,
+        "end" : 197.76,
+        "text" : " see the hurt in her. Fuck off dude. I know how to treat women. I'm not saying I want to be with",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21551278372791327,
+        "compression_ratio" : 1.673913043478261,
+        "no_speech_prob" : 0.005401796195656061
+      },
+      {
+        "id" : 29,
+        "seek" : 19280,
+        "start" : 197.76,
+        "end" : 204.08,
+        "text" : " Ela. I kind of hate mid easterners. No offense. What the fuck? You gotta be trolling now from like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21551278372791327,
+        "compression_ratio" : 1.673913043478261,
+        "no_speech_prob" : 0.005401796195656061
+      },
+      {
+        "id" : 30,
+        "seek" : 19280,
+        "start" : 204.08,
+        "end" : 210.08,
+        "text" : " ultimate white knight to complete racist and one breath. You know what? You just got fucked,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21551278372791327,
+        "compression_ratio" : 1.673913043478261,
+        "no_speech_prob" : 0.005401796195656061
+      },
+      {
+        "id" : 31,
+        "seek" : 19280,
+        "start" : 210.08,
+        "end" : 215.84,
+        "text" : " dog. You know what? You know what Ela feels about you? You just got fucking on dude. Hey what up?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21551278372791327,
+        "compression_ratio" : 1.673913043478261,
+        "no_speech_prob" : 0.005401796195656061
+      },
+      {
+        "id" : 32,
+        "seek" : 21584,
+        "start" : 216.32,
+        "end" : 223.28,
+        "text" : " What's up with his eyebrows? Is he retarded? What the fuck is this guy retarded? His facial",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14797349069632737,
+        "compression_ratio" : 1.652542372881356,
+        "no_speech_prob" : 0.01077003963291645
+      },
+      {
+        "id" : 33,
+        "seek" : 21584,
+        "start" : 223.28,
+        "end" : 229.52,
+        "text" : " movements are fucked up. Haha. It's your problem. Why everyone got a talk shit on my eyebrows, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14797349069632737,
+        "compression_ratio" : 1.652542372881356,
+        "no_speech_prob" : 0.01077003963291645
+      },
+      {
+        "id" : 34,
+        "seek" : 21584,
+        "start" : 230.16,
+        "end" : 234.88,
+        "text" : " They have a mind of their own. I can't control what my eyebrows do. I'm over here doing my thing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14797349069632737,
+        "compression_ratio" : 1.652542372881356,
+        "no_speech_prob" : 0.01077003963291645
+      },
+      {
+        "id" : 35,
+        "seek" : 21584,
+        "start" : 234.88,
+        "end" : 239.12,
+        "text" : " and my fucking eyebrows are off here doing their own wild shit. I have Tourette Syndrome which makes",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14797349069632737,
+        "compression_ratio" : 1.652542372881356,
+        "no_speech_prob" : 0.01077003963291645
+      },
+      {
+        "id" : 36,
+        "seek" : 23912,
+        "start" : 239.12,
+        "end" : 248.8,
+        "text" : " me wiggle my eyebrows. It's one of my tics. Am I retarded? Yes. Yes. Very, very much. Very,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1827065179107386,
+        "compression_ratio" : 1.7668161434977578,
+        "no_speech_prob" : 0.016486788168549538
+      },
+      {
+        "id" : 37,
+        "seek" : 23912,
+        "start" : 248.8,
+        "end" : 255.36,
+        "text" : " very bad. It's very bad. I feel like my career is a battle between me and my eyebrows. My eyebrows",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1827065179107386,
+        "compression_ratio" : 1.7668161434977578,
+        "no_speech_prob" : 0.016486788168549538
+      },
+      {
+        "id" : 38,
+        "seek" : 23912,
+        "start" : 255.36,
+        "end" : 260.88,
+        "text" : " are the biggest hurdle in my whole career dude. Maybe I should shave them off. 90% of the comments are",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1827065179107386,
+        "compression_ratio" : 1.7668161434977578,
+        "no_speech_prob" : 0.016486788168549538
+      },
+      {
+        "id" : 39,
+        "seek" : 23912,
+        "start" : 260.88,
+        "end" : 267.68,
+        "text" : " what's with his eyebrows. I should just change the channel name to eyebrows. H3 eyebrows. H3 eyebrow",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1827065179107386,
+        "compression_ratio" : 1.7668161434977578,
+        "no_speech_prob" : 0.016486788168549538
+      },
+      {
+        "id" : 40,
+        "seek" : 26768,
+        "start" : 267.68,
+        "end" : 271.68,
+        "text" : " productions. What if I shaved it off? Then nobody could even tell that I had a thing. I look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15318679809570312,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.015285798348486423
+      },
+      {
+        "id" : 41,
+        "seek" : 26768,
+        "start" : 271.68,
+        "end" : 276.0,
+        "text" : " completely normal without eyebrows. Nobody would even know that I had a problem. I will look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15318679809570312,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.015285798348486423
+      },
+      {
+        "id" : 42,
+        "seek" : 26768,
+        "start" : 276.0,
+        "end" : 278.64,
+        "text" : " so normal. Way less retarded than I do now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15318679809570312,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.015285798348486423
+      },
+      {
+        "id" : 43,
+        "seek" : 26768,
+        "start" : 287.2,
+        "end" : 291.28,
+        "text" : " We already made a WhatsApp with Ethan's eyebrows video but it was on our second channel. So if",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15318679809570312,
+        "compression_ratio" : 1.542857142857143,
+        "no_speech_prob" : 0.015285798348486423
+      },
+      {
+        "id" : 44,
+        "seek" : 29128,
+        "start" : 291.28,
+        "end" : 296.4,
+        "text" : " you want to learn the whole juicy scoop, definitely check out the links in the description.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1720373092159148,
+        "compression_ratio" : 1.6331877729257642,
+        "no_speech_prob" : 0.07133113592863083
+      },
+      {
+        "id" : 45,
+        "seek" : 29128,
+        "start" : 298.88,
+        "end" : 304.32,
+        "text" : " You're just mad because your white trash ass is stuck with an ugly ass woman for life.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1720373092159148,
+        "compression_ratio" : 1.6331877729257642,
+        "no_speech_prob" : 0.07133113592863083
+      },
+      {
+        "id" : 46,
+        "seek" : 29128,
+        "start" : 305.52,
+        "end" : 312.8,
+        "text" : " Got him. Hey, fucking read the hat bitch. Talk to the fucking hat. So on one hand, I'm a white ass",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1720373092159148,
+        "compression_ratio" : 1.6331877729257642,
+        "no_speech_prob" : 0.07133113592863083
+      },
+      {
+        "id" : 47,
+        "seek" : 29128,
+        "start" : 312.8,
+        "end" : 316.8,
+        "text" : " stuck with an ugly ass woman. And on the other hand, your beautiful princess who deserves better",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1720373092159148,
+        "compression_ratio" : 1.6331877729257642,
+        "no_speech_prob" : 0.07133113592863083
+      },
+      {
+        "id" : 48,
+        "seek" : 31680,
+        "start" : 317.28,
+        "end" : 323.52,
+        "text" : " me. Even that guy didn't want me because he hate me. No, what the hell? So why am I catching",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31059796585995925,
+        "compression_ratio" : 1.5772058823529411,
+        "no_speech_prob" : 0.16340960562229156
+      },
+      {
+        "id" : 49,
+        "seek" : 31680,
+        "start" : 323.52,
+        "end" : 327.52,
+        "text" : " shit? Apparently I'm doing the world of favor by marrying you. Geez man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31059796585995925,
+        "compression_ratio" : 1.5772058823529411,
+        "no_speech_prob" : 0.16340960562229156
+      },
+      {
+        "id" : 50,
+        "seek" : 31680,
+        "start" : 330.0,
+        "end" : 334.8,
+        "text" : " Should the fuck you just jealous fucker? Damn, this guy probably kissed so many girls from the invasion",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31059796585995925,
+        "compression_ratio" : 1.5772058823529411,
+        "no_speech_prob" : 0.16340960562229156
+      },
+      {
+        "id" : 51,
+        "seek" : 31680,
+        "start" : 334.8,
+        "end" : 340.4,
+        "text" : " method. Yeah. How many fucking girls do you think this look as fucking MMORPG 2K 16 is kissed?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31059796585995925,
+        "compression_ratio" : 1.5772058823529411,
+        "no_speech_prob" : 0.16340960562229156
+      },
+      {
+        "id" : 52,
+        "seek" : 31680,
+        "start" : 340.4,
+        "end" : 343.84,
+        "text" : " Yeah, that guy is an invader. That guy is definitely an invader.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31059796585995925,
+        "compression_ratio" : 1.5772058823529411,
+        "no_speech_prob" : 0.16340960562229156
+      },
+      {
+        "id" : 53,
+        "seek" : 34384,
+        "start" : 343.92,
+        "end" : 350.88,
+        "text" : " What a prevailing man. Shut the fuck up. You jealous fucker. I'm a member of the invasion nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2165703207759534,
+        "compression_ratio" : 1.6690391459074734,
+        "no_speech_prob" : 0.07641993463039398
+      },
+      {
+        "id" : 54,
+        "seek" : 34384,
+        "start" : 352.4,
+        "end" : 357.92,
+        "text" : " The invasion nation is strong and we will prevail. And we're going to kiss all your mob's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2165703207759534,
+        "compression_ratio" : 1.6690391459074734,
+        "no_speech_prob" : 0.07641993463039398
+      },
+      {
+        "id" : 55,
+        "seek" : 34384,
+        "start" : 357.92,
+        "end" : 363.36,
+        "text" : " sisters, cousins and brothers. We're branching out to men. We're definitely kissing everybody",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2165703207759534,
+        "compression_ratio" : 1.6690391459074734,
+        "no_speech_prob" : 0.07641993463039398
+      },
+      {
+        "id" : 56,
+        "seek" : 34384,
+        "start" : 363.36,
+        "end" : 368.48,
+        "text" : " guys. It's insane. Please check out the new updates at the invasion method at prank invasion.com",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2165703207759534,
+        "compression_ratio" : 1.6690391459074734,
+        "no_speech_prob" : 0.07641993463039398
+      },
+      {
+        "id" : 57,
+        "seek" : 34384,
+        "start" : 368.48,
+        "end" : 373.68,
+        "text" : " to find out our new pickup tips and how you can fucking suck dick. Today, today, this week",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2165703207759534,
+        "compression_ratio" : 1.6690391459074734,
+        "no_speech_prob" : 0.07641993463039398
+      },
+      {
+        "id" : 58,
+        "seek" : 37368,
+        "start" : 373.68,
+        "end" : 380.32,
+        "text" : " we're covering how to give good head. I'm getting subway ads. I think they're trying to tell you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18301232405534879,
+        "compression_ratio" : 1.7773584905660378,
+        "no_speech_prob" : 0.004700168035924435
+      },
+      {
+        "id" : 59,
+        "seek" : 37368,
+        "start" : 380.32,
+        "end" : 386.64,
+        "text" : " something, Ethan. What? What? What? What does that mean? What are they trying to tell me? What",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18301232405534879,
+        "compression_ratio" : 1.7773584905660378,
+        "no_speech_prob" : 0.004700168035924435
+      },
+      {
+        "id" : 60,
+        "seek" : 37368,
+        "start" : 386.64,
+        "end" : 390.56,
+        "text" : " there's no alumni? There's no secret messages here. What the hell? What would they be trying to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18301232405534879,
+        "compression_ratio" : 1.7773584905660378,
+        "no_speech_prob" : 0.004700168035924435
+      },
+      {
+        "id" : 61,
+        "seek" : 37368,
+        "start" : 390.56,
+        "end" : 395.92,
+        "text" : " tell me about subway? Like, it's just a sandwich. I don't understand. What is subway supposed to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18301232405534879,
+        "compression_ratio" : 1.7773584905660378,
+        "no_speech_prob" : 0.004700168035924435
+      },
+      {
+        "id" : 62,
+        "seek" : 37368,
+        "start" : 395.92,
+        "end" : 401.44,
+        "text" : " mean? Does it make any sense? Oh, maybe he means that they want me to lose weight. Oh,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18301232405534879,
+        "compression_ratio" : 1.7773584905660378,
+        "no_speech_prob" : 0.004700168035924435
+      },
+      {
+        "id" : 63,
+        "seek" : 40144,
+        "start" : 402.16,
+        "end" : 412.4,
+        "text" : " oh shit. Okay, so that makes sense. I have to admit, I thought you were a tool for influencing my",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1781682885211447,
+        "compression_ratio" : 1.791111111111111,
+        "no_speech_prob" : 0.025085726752877235
+      },
+      {
+        "id" : 64,
+        "seek" : 40144,
+        "start" : 412.4,
+        "end" : 418.96,
+        "text" : " little brother to vape, but this video was on point. Pretty on point. What not on point? Pretty on point.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1781682885211447,
+        "compression_ratio" : 1.791111111111111,
+        "no_speech_prob" : 0.025085726752877235
+      },
+      {
+        "id" : 65,
+        "seek" : 40144,
+        "start" : 418.96,
+        "end" : 425.44,
+        "text" : " Like, almost there. It was, it was okay. I have to admit, I hated you, but I thought this video was,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1781682885211447,
+        "compression_ratio" : 1.791111111111111,
+        "no_speech_prob" : 0.025085726752877235
+      },
+      {
+        "id" : 66,
+        "seek" : 40144,
+        "start" : 425.44,
+        "end" : 428.56,
+        "text" : " I gave it a four out of ten. Well, I don't know what to tell you, Dog. I think your little brother",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1781682885211447,
+        "compression_ratio" : 1.791111111111111,
+        "no_speech_prob" : 0.025085726752877235
+      },
+      {
+        "id" : 67,
+        "seek" : 42856,
+        "start" : 428.56,
+        "end" : 432.32,
+        "text" : " is a cool ass fuck, dude. He's probably getting pussy like crazy, you know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1701697758265904,
+        "compression_ratio" : 1.654109589041096,
+        "no_speech_prob" : 0.43855732679367065
+      },
+      {
+        "id" : 68,
+        "seek" : 42856,
+        "start" : 432.32,
+        "end" : 437.2,
+        "text" : " And he's curing his own cancer. Like, he could have had cancer by now. And the fact that he's out",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1701697758265904,
+        "compression_ratio" : 1.654109589041096,
+        "no_speech_prob" : 0.43855732679367065
+      },
+      {
+        "id" : 69,
+        "seek" : 42856,
+        "start" : 437.2,
+        "end" : 442.96,
+        "text" : " there vaping, picking up cuties, fucking hot bitches. He's probably an invader. He's probably a member",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1701697758265904,
+        "compression_ratio" : 1.654109589041096,
+        "no_speech_prob" : 0.43855732679367065
+      },
+      {
+        "id" : 70,
+        "seek" : 42856,
+        "start" : 442.96,
+        "end" : 448.24,
+        "text" : " of the invader nation. But seriously, guys, if you are underage, please don't vape. Consolid with",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1701697758265904,
+        "compression_ratio" : 1.654109589041096,
+        "no_speech_prob" : 0.43855732679367065
+      },
+      {
+        "id" : 71,
+        "seek" : 42856,
+        "start" : 448.24,
+        "end" : 454.32,
+        "text" : " a doctor vaping is not cool. It's just a meme, guys. It's really, it can damage your health. So,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1701697758265904,
+        "compression_ratio" : 1.654109589041096,
+        "no_speech_prob" : 0.43855732679367065
+      },
+      {
+        "id" : 72,
+        "seek" : 45432,
+        "start" : 454.32,
+        "end" : 457.6,
+        "text" : " it's just be serious about it and be safe, guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2919416129589081,
+        "compression_ratio" : 0.9056603773584906,
+        "no_speech_prob" : 0.11918406933546066
+      },
+      {
+        "id" : 73,
+        "seek" : 48432,
+        "start" : 484.32,
+        "end" : 487.28,
+        "text" : " Thanks for watching.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7400365556989398,
+        "compression_ratio" : 0.7142857142857143,
+        "no_speech_prob" : 0.2788332998752594
+      }
+    ]
+  }
+}

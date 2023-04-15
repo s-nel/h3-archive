@@ -1,0 +1,15 @@
+{
+  "person_id" : "swilliams",
+  "category" : "guest",
+  "first_name" : "Steven",
+  "last_name" : "Williams",
+  "display_name" : "Boogie2988",
+  "thumb" : "/people/swilliams.jpg",
+  "description" : null,
+  "aliases" : [
+    "Boogie2988",
+    "Boogie"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

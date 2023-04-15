@@ -1,0 +1,13 @@
+{
+  "person_id" : "hweinstein",
+  "category" : "lore",
+  "first_name" : "Harvey",
+  "last_name" : "Weinstein",
+  "display_name" : null,
+  "thumb" : "/people/hweinstein.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

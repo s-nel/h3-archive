@@ -1,0 +1,13 @@
+{
+  "person_id" : "ebrown",
+  "category" : "guest",
+  "first_name" : "Edward",
+  "last_name" : "Brown",
+  "display_name" : "Big Ed",
+  "thumb" : "/people/ebrown.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,77 @@
+{
+  "steamy_id" : "spicy-drama-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "bjohnson"
+      ],
+      "name" : "Liver King exposed for steroid use",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "csorrenti"
+      ],
+      "name" : "Keffals Vs Kiwi Farms",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein"
+      ],
+      "name" : "Ethan Vs NRA",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "tniknam",
+        "flengyel"
+      ],
+      "name" : "Gambling banned on Twitch",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "kwest"
+      ],
+      "name" : "Kanye West goes full nazi",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amohammed"
+      ],
+      "name" : "Sliker steals money to feed gambling addiction",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ddobrik",
+        "jwittek"
+      ],
+      "name" : "Jeff Wittek sues David Dobrik over excavator incident",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "nfulmer",
+        "zkornfeld",
+        "eyang",
+        "khabersberger"
+      ],
+      "name" : "Ned Fulmer's affair exposed",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "lpaul",
+        "sfindeisen"
+      ],
+      "name" : "Logan Paul Vs Coffeezilla",
+      "won" : false
+    }
+  ],
+  "name" : "Spiciest Drama",
+  "description" : null,
+  "year" : 2022
+}

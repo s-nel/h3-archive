@@ -1,0 +1,13 @@
+{
+  "person_id" : "flengyel",
+  "category" : "guest",
+  "first_name" : "Félix",
+  "last_name" : "Lengyel",
+  "display_name" : "xQc",
+  "thumb" : "/people/flengyel.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

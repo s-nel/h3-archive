@@ -1,0 +1,13 @@
+{
+  "person_id" : "cpazsitzky",
+  "category" : "guest",
+  "first_name" : "Christina",
+  "last_name" : "Pazsitzky",
+  "display_name" : null,
+  "thumb" : "/people/cpazsitzky.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

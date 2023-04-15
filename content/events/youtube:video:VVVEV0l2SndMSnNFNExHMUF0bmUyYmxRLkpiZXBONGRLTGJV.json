@@ -1,0 +1,131 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkpiZXBONGRLTGJV",
+  "category" : "video",
+  "name" : "warm it up exe That's a 10! [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/JbepN4dKLbU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/JbepN4dKLbU"
+    }
+  ],
+  "start_date" : 1368396501000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.88,
+        "text" : " Mmm, cover all 9000 taste buds.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.88,
+        "end" : 8.76,
+        "text" : " Area it, warm it up,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.76,
+        "end" : 10.52,
+        "text" : " it, driving up,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 10.52,
+        "end" : 12.52,
+        "text" : " it, that top no,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 12.52,
+        "end" : 13.52,
+        "text" : " that cream,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 13.52,
+        "end" : 14.52,
+        "text" : " pure vanilla,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 14.52,
+        "end" : 15.52,
+        "text" : " it, it, it,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 15.52,
+        "end" : 16.52,
+        "text" : " sweeteners.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 16.52,
+        "end" : 19.52,
+        "text" : " Mmm, that's a 10.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.671213011810745,
+        "compression_ratio" : 1.3076923076923077,
+        "no_speech_prob" : 0.06582647562026978
+      }
+    ]
+  }
+}

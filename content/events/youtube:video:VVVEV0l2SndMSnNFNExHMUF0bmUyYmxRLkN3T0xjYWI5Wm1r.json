@@ -1,0 +1,256 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkN3T0xjYWI5Wm1r",
+  "category" : "video",
+  "name" : "jesus exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/CwOLcab9Zmk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/CwOLcab9Zmk"
+    }
+  ],
+  "start_date" : 1433444628000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.0,
+        "text" : " I'm not gay no more, I am deliberate!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44005732536315917,
+        "compression_ratio" : 1.518716577540107,
+        "no_speech_prob" : 0.2922414243221283
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.0,
+        "end" : 12.0,
+        "text" : " You were taught that there are places on our body that we should avoid, and the asshole is at the top of the list.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44005732536315917,
+        "compression_ratio" : 1.518716577540107,
+        "no_speech_prob" : 0.2922414243221283
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.0,
+        "end" : 15.0,
+        "text" : " Jesus is a friend of times, this is my friend.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44005732536315917,
+        "compression_ratio" : 1.518716577540107,
+        "no_speech_prob" : 0.2922414243221283
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 23.0,
+        "text" : " The thing they do is called analeking, where they, amongst us, is elicked like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44005732536315917,
+        "compression_ratio" : 1.518716577540107,
+        "no_speech_prob" : 0.2922414243221283
+      },
+      {
+        "id" : 4,
+        "seek" : 2300,
+        "start" : 23.0,
+        "end" : 30.0,
+        "text" : " Once I tried to run, I tried to run and hide, but Jesus came and found me and he used to touch me down inside.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 5,
+        "seek" : 2300,
+        "start" : 30.0,
+        "end" : 33.0,
+        "text" : " Let's out of courage, and be strong!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 6,
+        "seek" : 2300,
+        "start" : 33.0,
+        "end" : 38.0,
+        "text" : " I'm fired from the jail, non-stop, and playing in time like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 7,
+        "seek" : 2300,
+        "start" : 38.0,
+        "end" : 40.0,
+        "text" : " I'm not gay!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 8,
+        "seek" : 2300,
+        "start" : 40.0,
+        "end" : 45.0,
+        "text" : " And this one is eating their poop balls, little babies, and he's right there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 9,
+        "seek" : 2300,
+        "start" : 45.0,
+        "end" : 46.0,
+        "text" : " I'm full.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 10,
+        "seek" : 2300,
+        "start" : 46.0,
+        "end" : 49.0,
+        "text" : " I'll say if you want life, I'm eating their poop!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 11,
+        "seek" : 2300,
+        "start" : 49.0,
+        "end" : 51.0,
+        "text" : " I'm not going to eat them!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5944206423875762,
+        "compression_ratio" : 1.670940170940171,
+        "no_speech_prob" : 0.14049188792705536
+      },
+      {
+        "id" : 12,
+        "seek" : 5100,
+        "start" : 51.0,
+        "end" : 54.0,
+        "text" : " I will not care a part!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 13,
+        "seek" : 5100,
+        "start" : 54.0,
+        "end" : 56.0,
+        "text" : " I will not put on makeup!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 14,
+        "seek" : 5100,
+        "start" : 56.0,
+        "end" : 57.0,
+        "text" : " I will!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 15,
+        "seek" : 5100,
+        "start" : 57.0,
+        "end" : 59.0,
+        "text" : " I will!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 16,
+        "seek" : 5100,
+        "start" : 59.0,
+        "end" : 60.0,
+        "text" : " I will!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 17,
+        "seek" : 5100,
+        "start" : 60.0,
+        "end" : 61.0,
+        "text" : " I will!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 18,
+        "seek" : 5100,
+        "start" : 61.0,
+        "end" : 62.0,
+        "text" : " I will!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      },
+      {
+        "id" : 19,
+        "seek" : 5100,
+        "start" : 62.0,
+        "end" : 64.0,
+        "text" : " Anal gymnastics.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27869734472158003,
+        "compression_ratio" : 1.5820895522388059,
+        "no_speech_prob" : 0.14371292293071747
+      }
+    ]
+  }
+}

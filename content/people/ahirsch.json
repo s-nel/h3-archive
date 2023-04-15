@@ -1,0 +1,13 @@
+{
+  "person_id" : "ahirsch",
+  "category" : "guest",
+  "first_name" : "Alex",
+  "last_name" : "Hirsch",
+  "display_name" : null,
+  "thumb" : "/people/ahirsch.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

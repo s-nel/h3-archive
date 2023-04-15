@@ -1,0 +1,80 @@
+{
+  "event_id" : "spotify:episode:0Gt289yJncTEbFitxWCgtf",
+  "category" : "podcast",
+  "name" : "It's Frenemies All Over Again - After Dark #87",
+  "description" : "<p>Today we discuss a new situation that reminds Ethan of Frenemies...we also finish our cheater tier list, review the Dad chair, and much more!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/Cjv07aA7WFw/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "After Dark"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/0Gt289yJncTEbFitxWCgtf"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Cjv07aA7WFw"
+    }
+  ],
+  "start_date" : 1665187762000,
+  "duration" : 12367255,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "nbarnett",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "mwatson",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "emagee",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

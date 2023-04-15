@@ -1,0 +1,13 @@
+{
+  "person_id" : "mdemarco",
+  "category" : "guest",
+  "first_name" : "MacBriare",
+  "last_name" : "DeMarco",
+  "display_name" : "Mac DeMarco",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,14 @@
+{
+  "person_id" : "dklein",
+  "category" : "family",
+  "first_name" : "Donna",
+  "last_name" : "Klein",
+  "display_name" : null,
+  "thumb" : "/people/dklein.jpg",
+  "description" : null,
+  "aliases" : [
+    "The Donarch"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,46 @@
+{
+  "steamy_id" : "spicy-drama-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "zhoyt",
+        "svalentine"
+      ],
+      "name" : "Asmongold Vs SWOOP",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein",
+        "jdickinson"
+      ],
+      "name" : "H3 Vs James Charles",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ddobrik"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jstar",
+        "twestbrook"
+      ],
+      "name" : "Tati Westbrook Vs Jeffree Star",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "ddamelio"
+      ],
+      "name" : "Dixie D'Amelio Snails",
+      "won" : false
+    }
+  ],
+  "name" : "Spiciest Drama",
+  "description" : null,
+  "year" : 2020
+}

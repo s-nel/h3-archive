@@ -1,0 +1,13 @@
+{
+  "person_id" : "jschnatter",
+  "category" : "guest",
+  "first_name" : "John",
+  "last_name" : "Schnatter",
+  "display_name" : "Papa John",
+  "thumb" : "/people/jschnatter.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

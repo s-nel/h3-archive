@@ -1,0 +1,14 @@
+{
+  "person_id" : "mfischbach",
+  "category" : "guest",
+  "first_name" : "Mark",
+  "last_name" : "Fischbach",
+  "display_name" : "Markiplier",
+  "thumb" : "/people/mfischbach.jpg",
+  "description" : null,
+  "aliases" : [
+    "Markiplier"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

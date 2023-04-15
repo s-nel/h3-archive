@@ -1,0 +1,13 @@
+{
+  "person_id" : "ebradberry",
+  "category" : "guest",
+  "first_name" : "Ethan",
+  "last_name" : "Bradberry",
+  "display_name" : null,
+  "thumb" : "/people/ebradberry.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

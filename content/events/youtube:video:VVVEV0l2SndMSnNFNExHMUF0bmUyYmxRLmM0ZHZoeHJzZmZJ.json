@@ -1,0 +1,575 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmM0ZHZoeHJzZmZJ",
+  "category" : "video",
+  "name" : "MattyB Juicy -- h3h3 reaction video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/c4dvhxrsffI/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/c4dvhxrsffI"
+    }
+  ],
+  "start_date" : 1426363775000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.08,
+        "text" : " Check out this new shirt that he's got made biggie smalls pretty sick sure, right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4863853454589844,
+        "compression_ratio" : 1.5497835497835497,
+        "no_speech_prob" : 0.1845429688692093
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.08,
+        "end" : 7.08,
+        "text" : " Looks awesome. Who is that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4863853454589844,
+        "compression_ratio" : 1.5497835497835497,
+        "no_speech_prob" : 0.1845429688692093
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.76,
+        "end" : 14.4,
+        "text" : " What you are are you serious you don't know who biggie smalls is it's like my musical idol man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4863853454589844,
+        "compression_ratio" : 1.5497835497835497,
+        "no_speech_prob" : 0.1845429688692093
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.96,
+        "end" : 19.08,
+        "text" : " Big papa juicy hypnotized life after death braided eye",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4863853454589844,
+        "compression_ratio" : 1.5497835497835497,
+        "no_speech_prob" : 0.1845429688692093
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 19.48,
+        "end" : 21.48,
+        "text" : " He's like a musical God",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4863853454589844,
+        "compression_ratio" : 1.5497835497835497,
+        "no_speech_prob" : 0.1845429688692093
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 24.48,
+        "end" : 28.0,
+        "text" : " Let me show you let me say a little bit about bigger your notorious b.i.g",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4863853454589844,
+        "compression_ratio" : 1.5497835497835497,
+        "no_speech_prob" : 0.1845429688692093
+      },
+      {
+        "id" : 6,
+        "seek" : 2800,
+        "start" : 28.0,
+        "end" : 33.18,
+        "text" : " Juicy this is one of my favorite songs is a classic what what is this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4102926254272461,
+        "compression_ratio" : 1.0547945205479452,
+        "no_speech_prob" : 0.015391252003610134
+      },
+      {
+        "id" : 7,
+        "seek" : 2800,
+        "start" : 34.68,
+        "end" : 36.68,
+        "text" : " Maddie",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4102926254272461,
+        "compression_ratio" : 1.0547945205479452,
+        "no_speech_prob" : 0.015391252003610134
+      },
+      {
+        "id" : 8,
+        "seek" : 8800,
+        "start" : 88.64,
+        "end" : 96.16,
+        "text" : " What happened? What I'm on the floor?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5456142425537109,
+        "compression_ratio" : 1.2905982905982907,
+        "no_speech_prob" : 0.09335505217313766
+      },
+      {
+        "id" : 9,
+        "seek" : 8800,
+        "start" : 97.16,
+        "end" : 104.68,
+        "text" : " What happened dude? Did I fucking stroke out what happened? You know, you put on your idol. What is this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5456142425537109,
+        "compression_ratio" : 1.2905982905982907,
+        "no_speech_prob" : 0.09335505217313766
+      },
+      {
+        "id" : 10,
+        "seek" : 8800,
+        "start" : 111.28,
+        "end" : 113.28,
+        "text" : " Stop it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5456142425537109,
+        "compression_ratio" : 1.2905982905982907,
+        "no_speech_prob" : 0.09335505217313766
+      },
+      {
+        "id" : 11,
+        "seek" : 11328,
+        "start" : 113.4,
+        "end" : 122.4,
+        "text" : " Love it. This is not right. This is this is sacrilege. You know, this is not right. This is it big",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4977342890596938,
+        "compression_ratio" : 1.595505617977528,
+        "no_speech_prob" : 0.008670981042087078
+      },
+      {
+        "id" : 12,
+        "seek" : 11328,
+        "start" : 122.8,
+        "end" : 125.12,
+        "text" : " Let's go dude. Come on. Why right now?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4977342890596938,
+        "compression_ratio" : 1.595505617977528,
+        "no_speech_prob" : 0.008670981042087078
+      },
+      {
+        "id" : 13,
+        "seek" : 11328,
+        "start" : 131.36,
+        "end" : 137.08,
+        "text" : " Juicy, who give him the rest to do juicy? I mean was it biggie's a stay was a puff daddy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4977342890596938,
+        "compression_ratio" : 1.595505617977528,
+        "no_speech_prob" : 0.008670981042087078
+      },
+      {
+        "id" : 14,
+        "seek" : 11328,
+        "start" : 137.08,
+        "end" : 140.68,
+        "text" : " I mean who can this gonna you know get the blame for this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4977342890596938,
+        "compression_ratio" : 1.595505617977528,
+        "no_speech_prob" : 0.008670981042087078
+      },
+      {
+        "id" : 15,
+        "seek" : 14328,
+        "start" : 143.28,
+        "end" : 145.28,
+        "text" : " Look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.352586454099363,
+        "compression_ratio" : 1.7254901960784315,
+        "no_speech_prob" : 0.0537182055413723
+      },
+      {
+        "id" : 16,
+        "seek" : 14328,
+        "start" : 145.28,
+        "end" : 151.16,
+        "text" : " But someone perverts something that you love is like a fucking ass cancer the doctor puts a finger in your ass",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.352586454099363,
+        "compression_ratio" : 1.7254901960784315,
+        "no_speech_prob" : 0.0537182055413723
+      },
+      {
+        "id" : 17,
+        "seek" : 14328,
+        "start" : 151.16,
+        "end" : 153.86,
+        "text" : " And you fucking first of all he's putting the finger in your ass. That's hard enough",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.352586454099363,
+        "compression_ratio" : 1.7254901960784315,
+        "no_speech_prob" : 0.0537182055413723
+      },
+      {
+        "id" : 18,
+        "seek" : 14328,
+        "start" : 153.86,
+        "end" : 157.92,
+        "text" : " Okay, and then he finds a lump says you've got a cancer and now you got to put my finger in your ass",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.352586454099363,
+        "compression_ratio" : 1.7254901960784315,
+        "no_speech_prob" : 0.0537182055413723
+      },
+      {
+        "id" : 19,
+        "seek" : 14328,
+        "start" : 157.92,
+        "end" : 164.76,
+        "text" : " You know every week until you fucking die because that's what I feel like Maddie B is doing that juicy does that make sense?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.352586454099363,
+        "compression_ratio" : 1.7254901960784315,
+        "no_speech_prob" : 0.0537182055413723
+      },
+      {
+        "id" : 20,
+        "seek" : 14328,
+        "start" : 170.48,
+        "end" : 172.48,
+        "text" : " Where are we?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.352586454099363,
+        "compression_ratio" : 1.7254901960784315,
+        "no_speech_prob" : 0.0537182055413723
+      },
+      {
+        "id" : 21,
+        "seek" : 17328,
+        "start" : 174.08,
+        "end" : 180.0,
+        "text" : " Apparently this is the holiest place in Israel. I came to make a prayer and we honest guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3554981879468234,
+        "compression_ratio" : 1.7077625570776256,
+        "no_speech_prob" : 0.011472241953015327
+      },
+      {
+        "id" : 22,
+        "seek" : 17328,
+        "start" : 180.72,
+        "end" : 183.12,
+        "text" : " It's a wall, you know, it's a wall",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3554981879468234,
+        "compression_ratio" : 1.7077625570776256,
+        "no_speech_prob" : 0.011472241953015327
+      },
+      {
+        "id" : 23,
+        "seek" : 17328,
+        "start" : 184.16,
+        "end" : 189.16,
+        "text" : " Like it doesn't even look different than the other walls for example. I can't even tell it like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3554981879468234,
+        "compression_ratio" : 1.7077625570776256,
+        "no_speech_prob" : 0.011472241953015327
+      },
+      {
+        "id" : 24,
+        "seek" : 17328,
+        "start" : 189.16,
+        "end" : 195.84,
+        "text" : " Well, this is what is a good wall. This is the good wall. That family is not is it is an okay wall. Yeah, it's nice",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3554981879468234,
+        "compression_ratio" : 1.7077625570776256,
+        "no_speech_prob" : 0.011472241953015327
+      },
+      {
+        "id" : 25,
+        "seek" : 17328,
+        "start" : 195.84,
+        "end" : 197.84,
+        "text" : " You know, it's pretty nice wall",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3554981879468234,
+        "compression_ratio" : 1.7077625570776256,
+        "no_speech_prob" : 0.011472241953015327
+      },
+      {
+        "id" : 26,
+        "seek" : 19784,
+        "start" : 198.84,
+        "end" : 204.28,
+        "text" : " Like frankly, I'll get it. Why didn't you bring up the fucking art orange hats? You know, where's our orange hats?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4333362197875977,
+        "compression_ratio" : 1.592274678111588,
+        "no_speech_prob" : 0.014315126463770866
+      },
+      {
+        "id" : 27,
+        "seek" : 19784,
+        "start" : 204.28,
+        "end" : 206.76,
+        "text" : " We'll if we get separated. What did I know? I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4333362197875977,
+        "compression_ratio" : 1.592274678111588,
+        "no_speech_prob" : 0.014315126463770866
+      },
+      {
+        "id" : 28,
+        "seek" : 19784,
+        "start" : 207.76,
+        "end" : 211.4,
+        "text" : " Get it I'm gonna touch the wall and see if I can get some of its magic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4333362197875977,
+        "compression_ratio" : 1.592274678111588,
+        "no_speech_prob" : 0.014315126463770866
+      },
+      {
+        "id" : 29,
+        "seek" : 19784,
+        "start" : 211.84,
+        "end" : 219.88,
+        "text" : " Get a prayer. I got one big prayer. This is all I need God also cover your fucking shoulders. You slut before cover your hair for your Mary",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4333362197875977,
+        "compression_ratio" : 1.592274678111588,
+        "no_speech_prob" : 0.014315126463770866
+      },
+      {
+        "id" : 30,
+        "seek" : 22784,
+        "start" : 228.0,
+        "end" : 230.0,
+        "text" : " You Raw",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7597452799479165,
+        "compression_ratio" : 0.8793103448275862,
+        "no_speech_prob" : 0.3649021089076996
+      },
+      {
+        "id" : 31,
+        "seek" : 22784,
+        "start" : 231.52,
+        "end" : 233.92,
+        "text" : " You've準備 table food",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7597452799479165,
+        "compression_ratio" : 0.8793103448275862,
+        "no_speech_prob" : 0.3649021089076996
+      },
+      {
+        "id" : 32,
+        "seek" : 22784,
+        "start" : 236.92,
+        "end" : 243.5,
+        "text" : " Her",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7597452799479165,
+        "compression_ratio" : 0.8793103448275862,
+        "no_speech_prob" : 0.3649021089076996
+      },
+      {
+        "id" : 33,
+        "seek" : 22784,
+        "start" : 245.44,
+        "end" : 247.44,
+        "text" : " Hello",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7597452799479165,
+        "compression_ratio" : 0.8793103448275862,
+        "no_speech_prob" : 0.3649021089076996
+      },
+      {
+        "id" : 34,
+        "seek" : 22784,
+        "start" : 250.56,
+        "end" : 252.56,
+        "text" : " Questions",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.7597452799479165,
+        "compression_ratio" : 0.8793103448275862,
+        "no_speech_prob" : 0.3649021089076996
+      },
+      {
+        "id" : 35,
+        "seek" : 25784,
+        "start" : 257.84,
+        "end" : 261.9,
+        "text" : " That man's hope you creeps got receipts my peeps get dirty like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 36,
+        "seek" : 25784,
+        "start" : 261.9,
+        "end" : 264.72,
+        "text" : " Cleans run up in your crib wrap you in your own",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 37,
+        "seek" : 25784,
+        "start" : 264.72,
+        "end" : 267.02,
+        "text" : " O' Sheets six of in your week piece",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 38,
+        "seek" : 25784,
+        "start" : 267.02,
+        "end" : 269.92,
+        "text" : " Make up the seats why may you rest in peace",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 39,
+        "seek" : 25784,
+        "start" : 271.44,
+        "end" : 273.44,
+        "text" : " Well, it was time",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 40,
+        "seek" : 25784,
+        "start" : 273.84,
+        "end" : 280.56,
+        "text" : " This whole day, why did we go to Jerusalem? I don't know dude. I'm sorry, man. I just felt like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 41,
+        "seek" : 25784,
+        "start" : 281.08,
+        "end" : 283.08,
+        "text" : " Maybe you know there was something",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7175185259650735,
+        "compression_ratio" : 1.511111111111111,
+        "no_speech_prob" : 0.05599329248070717
+      },
+      {
+        "id" : 42,
+        "seek" : 28308,
+        "start" : 283.68,
+        "end" : 289.12,
+        "text" : " Something I could do about my favorite song being shit on by a little fucking kid",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3598507753352529,
+        "compression_ratio" : 1.5021097046413503,
+        "no_speech_prob" : 0.057561568915843964
+      },
+      {
+        "id" : 43,
+        "seek" : 28308,
+        "start" : 289.64,
+        "end" : 292.04,
+        "text" : " Maybe I lost my mind a little bit, okay? I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3598507753352529,
+        "compression_ratio" : 1.5021097046413503,
+        "no_speech_prob" : 0.057561568915843964
+      },
+      {
+        "id" : 44,
+        "seek" : 28308,
+        "start" : 292.68,
+        "end" : 294.68,
+        "text" : " Don't know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3598507753352529,
+        "compression_ratio" : 1.5021097046413503,
+        "no_speech_prob" : 0.057561568915843964
+      },
+      {
+        "id" : 45,
+        "seek" : 28308,
+        "start" : 294.68,
+        "end" : 300.32,
+        "text" : " I guess I'll just leave a comment about how he's gonna overdose on prescription drugs by the age of 20",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3598507753352529,
+        "compression_ratio" : 1.5021097046413503,
+        "no_speech_prob" : 0.057561568915843964
+      },
+      {
+        "id" : 46,
+        "seek" : 28308,
+        "start" : 302.32,
+        "end" : 304.92,
+        "text" : " Comma little bitch what",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3598507753352529,
+        "compression_ratio" : 1.5021097046413503,
+        "no_speech_prob" : 0.057561568915843964
+      },
+      {
+        "id" : 47,
+        "seek" : 28308,
+        "start" : 306.28,
+        "end" : 312.04,
+        "text" : " Nitorious B.I.G. This video is no longer available due to copyright claims by notorious B.I.G",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3598507753352529,
+        "compression_ratio" : 1.5021097046413503,
+        "no_speech_prob" : 0.057561568915843964
+      },
+      {
+        "id" : 48,
+        "seek" : 31308,
+        "start" : 313.08,
+        "end" : 337.64,
+        "text" : " to",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.242596626281738,
+        "compression_ratio" : 0.2,
+        "no_speech_prob" : 0.002020821673795581
+      }
+    ]
+  }
+}

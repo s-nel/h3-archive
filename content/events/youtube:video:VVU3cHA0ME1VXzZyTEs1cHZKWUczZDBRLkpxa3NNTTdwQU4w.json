@@ -1,0 +1,256 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkpxa3NNTTdwQU4w",
+  "category" : "video",
+  "name" : "The Jokes - Wolves",
+  "description" : "Follow us on spotify or itunes:\nhttps://open.spotify.com/artist/1IVtEk1unpWvTPgPHxBQd0\nhttps://music.apple.com/us/artist/the-jokes/1410466746\n\nLyrics:\n\nWolves wake hungry in the moonlight\nWolves don't tell no lies\nI'm going back to Angeles \nAnd I'm going back tonight\n\nI've never had a use for god\nOr the wise man on hill\nLord, if you can hear me now\nThe wolves come for their kill\n\nMoon moon moon \nTo lighten up the way\nJust enough to see my feet\nTo stumble 'til the day\nPraying for the Sun, to come and shine on me\nCause this nights has got begging me on my knees\n\nThe wolves are howling in the moonlight\nI guess they got their fill\nI still haven't seen the holy ghost\nAnd I guess I never will\n\nI lay my head on the empty track\nLord take this pain away\nI hear the wolves closing in\nAnd I see the break of day\n\nMoon moon moon \nTo lighten up the way\nJust enough to see my feet\nTo stumble 'til the day\nPraying for the Sun, to come and shine on me\nCause this nights has got begging me on my knees",
+  "thumb" : "https://i.ytimg.com/vi/JqksMM7pAN0/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/JqksMM7pAN0"
+    }
+  ],
+  "start_date" : 1652838111000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 19.0,
+        "text" : " Woltz wake hungry in the moonlight Wolves don't tell no lies",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4601515321170582,
+        "compression_ratio" : 1.2696629213483146,
+        "no_speech_prob" : 0.32820504903793335
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 29.0,
+        "text" : " I'm going back to Angelis and I'm going back tonight",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4601515321170582,
+        "compression_ratio" : 1.2696629213483146,
+        "no_speech_prob" : 0.32820504903793335
+      },
+      {
+        "id" : 2,
+        "seek" : 2900,
+        "start" : 29.0,
+        "end" : 39.0,
+        "text" : " I've never had a useful God or the wise man on the hill",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22000710169474283,
+        "compression_ratio" : 1.2391304347826086,
+        "no_speech_prob" : 0.08413103967905045
+      },
+      {
+        "id" : 3,
+        "seek" : 2900,
+        "start" : 39.0,
+        "end" : 49.0,
+        "text" : " Lord if you can hear me now the wolves come for their kill",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22000710169474283,
+        "compression_ratio" : 1.2391304347826086,
+        "no_speech_prob" : 0.08413103967905045
+      },
+      {
+        "id" : 4,
+        "seek" : 4900,
+        "start" : 50.0,
+        "end" : 57.0,
+        "text" : " Mo, mo, mo, to lighten up the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22002059442025643,
+        "compression_ratio" : 1.353846153846154,
+        "no_speech_prob" : 0.4764685332775116
+      },
+      {
+        "id" : 5,
+        "seek" : 4900,
+        "start" : 57.0,
+        "end" : 64.0,
+        "text" : " Just enough to see my feet to stumble till the day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22002059442025643,
+        "compression_ratio" : 1.353846153846154,
+        "no_speech_prob" : 0.4764685332775116
+      },
+      {
+        "id" : 6,
+        "seek" : 4900,
+        "start" : 64.0,
+        "end" : 70.0,
+        "text" : " Praying for the sun to come and shine on me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22002059442025643,
+        "compression_ratio" : 1.353846153846154,
+        "no_speech_prob" : 0.4764685332775116
+      },
+      {
+        "id" : 7,
+        "seek" : 4900,
+        "start" : 70.0,
+        "end" : 77.0,
+        "text" : " Because this night's got me begging on my knees",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22002059442025643,
+        "compression_ratio" : 1.353846153846154,
+        "no_speech_prob" : 0.4764685332775116
+      },
+      {
+        "id" : 8,
+        "seek" : 7700,
+        "start" : 78.0,
+        "end" : 83.0,
+        "text" : " The wolves are howling in the moonlight",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11701995134353638,
+        "compression_ratio" : 1.3644067796610169,
+        "no_speech_prob" : 0.0121419383212924
+      },
+      {
+        "id" : 9,
+        "seek" : 7700,
+        "start" : 83.0,
+        "end" : 88.0,
+        "text" : " I guess they got their fill",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11701995134353638,
+        "compression_ratio" : 1.3644067796610169,
+        "no_speech_prob" : 0.0121419383212924
+      },
+      {
+        "id" : 10,
+        "seek" : 7700,
+        "start" : 88.0,
+        "end" : 93.0,
+        "text" : " I still haven't seen the holy ghost",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11701995134353638,
+        "compression_ratio" : 1.3644067796610169,
+        "no_speech_prob" : 0.0121419383212924
+      },
+      {
+        "id" : 11,
+        "seek" : 7700,
+        "start" : 93.0,
+        "end" : 98.0,
+        "text" : " And I guess I never will",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11701995134353638,
+        "compression_ratio" : 1.3644067796610169,
+        "no_speech_prob" : 0.0121419383212924
+      },
+      {
+        "id" : 12,
+        "seek" : 7700,
+        "start" : 98.0,
+        "end" : 104.0,
+        "text" : " I lay my head on the empty track",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11701995134353638,
+        "compression_ratio" : 1.3644067796610169,
+        "no_speech_prob" : 0.0121419383212924
+      },
+      {
+        "id" : 13,
+        "seek" : 10400,
+        "start" : 104.0,
+        "end" : 109.0,
+        "text" : " Lord take this pain away",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0827089062443486,
+        "compression_ratio" : 1.3412698412698412,
+        "no_speech_prob" : 0.0019240370020270348
+      },
+      {
+        "id" : 14,
+        "seek" : 10400,
+        "start" : 109.0,
+        "end" : 114.0,
+        "text" : " I hear the wolves are closing in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0827089062443486,
+        "compression_ratio" : 1.3412698412698412,
+        "no_speech_prob" : 0.0019240370020270348
+      },
+      {
+        "id" : 15,
+        "seek" : 10400,
+        "start" : 114.0,
+        "end" : 119.0,
+        "text" : " And I see the break of day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0827089062443486,
+        "compression_ratio" : 1.3412698412698412,
+        "no_speech_prob" : 0.0019240370020270348
+      },
+      {
+        "id" : 16,
+        "seek" : 10400,
+        "start" : 119.0,
+        "end" : 126.0,
+        "text" : " Mo, mo, mo, to lighten up the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0827089062443486,
+        "compression_ratio" : 1.3412698412698412,
+        "no_speech_prob" : 0.0019240370020270348
+      },
+      {
+        "id" : 17,
+        "seek" : 10400,
+        "start" : 126.0,
+        "end" : 133.0,
+        "text" : " Just enough to see my feet to stumble till the day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0827089062443486,
+        "compression_ratio" : 1.3412698412698412,
+        "no_speech_prob" : 0.0019240370020270348
+      },
+      {
+        "id" : 18,
+        "seek" : 13300,
+        "start" : 133.0,
+        "end" : 140.0,
+        "text" : " Praying for the sun to come and shine on me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0907649168601403,
+        "compression_ratio" : 1.123456790123457,
+        "no_speech_prob" : 0.03415074571967125
+      },
+      {
+        "id" : 19,
+        "seek" : 13300,
+        "start" : 140.0,
+        "end" : 147.0,
+        "text" : " Because this night's got me begging on my knees",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.0907649168601403,
+        "compression_ratio" : 1.123456790123457,
+        "no_speech_prob" : 0.03415074571967125
+      }
+    ]
+  }
+}

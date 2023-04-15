@@ -1,0 +1,47 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkhIck1rQXNHRmxF",
+  "category" : "video",
+  "name" : "get rekt",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/HHrMkAsGFlE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/HHrMkAsGFlE"
+    }
+  ],
+  "start_date" : 1404850647000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 18.02,
+        "text" : " Music",
+        "temperature" : 1.0,
+        "avg_logprob" : -1.8229260444641113,
+        "compression_ratio" : 0.38461538461538464,
+        "no_speech_prob" : 0.5200895071029663
+      }
+    ]
+  }
+}

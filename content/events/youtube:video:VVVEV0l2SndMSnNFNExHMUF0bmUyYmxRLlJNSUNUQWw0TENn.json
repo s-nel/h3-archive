@@ -1,0 +1,289 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlJNSUNUQWw0TENn",
+  "category" : "video",
+  "name" : "VAPE NAYSH YALL",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/RMICTAl4LCg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/RMICTAl4LCg"
+    }
+  ],
+  "start_date" : 1461156409000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.0,
+        "text" : " So my name's Ethan Klein and I'm the CEO of Vape Nation.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2521916861846068,
+        "compression_ratio" : 1.508695652173913,
+        "no_speech_prob" : 0.06896328926086426
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 10.0,
+        "text" : " I appreciate Vape's just because, you know, it's healthier.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2521916861846068,
+        "compression_ratio" : 1.508695652173913,
+        "no_speech_prob" : 0.06896328926086426
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 14.0,
+        "text" : " Cure cancer, cure diabetes, low nicotine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2521916861846068,
+        "compression_ratio" : 1.508695652173913,
+        "no_speech_prob" : 0.06896328926086426
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 19.0,
+        "text" : " You don't need a blaze, you don't need a burning, you just drip a little bit of this goop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2521916861846068,
+        "compression_ratio" : 1.508695652173913,
+        "no_speech_prob" : 0.06896328926086426
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 21.0,
+        "text" : " Ooh, there she blows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2521916861846068,
+        "compression_ratio" : 1.508695652173913,
+        "no_speech_prob" : 0.06896328926086426
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 21.0,
+        "end" : 25.0,
+        "text" : " I do it for the health effects honestly, I just feel like it's good for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2521916861846068,
+        "compression_ratio" : 1.508695652173913,
+        "no_speech_prob" : 0.06896328926086426
+      },
+      {
+        "id" : 6,
+        "seek" : 2500,
+        "start" : 26.0,
+        "end" : 29.0,
+        "text" : " 420 every day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37866429359682147,
+        "compression_ratio" : 1.32,
+        "no_speech_prob" : 0.28990843892097473
+      },
+      {
+        "id" : 7,
+        "seek" : 2500,
+        "start" : 29.0,
+        "end" : 31.0,
+        "text" : " Every day?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37866429359682147,
+        "compression_ratio" : 1.32,
+        "no_speech_prob" : 0.28990843892097473
+      },
+      {
+        "id" : 8,
+        "seek" : 2500,
+        "start" : 34.0,
+        "end" : 36.0,
+        "text" : " Every day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37866429359682147,
+        "compression_ratio" : 1.32,
+        "no_speech_prob" : 0.28990843892097473
+      },
+      {
+        "id" : 9,
+        "seek" : 2500,
+        "start" : 36.0,
+        "end" : 38.0,
+        "text" : " Here's cancer.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37866429359682147,
+        "compression_ratio" : 1.32,
+        "no_speech_prob" : 0.28990843892097473
+      },
+      {
+        "id" : 10,
+        "seek" : 2500,
+        "start" : 38.0,
+        "end" : 40.0,
+        "text" : " Oh, every day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.37866429359682147,
+        "compression_ratio" : 1.32,
+        "no_speech_prob" : 0.28990843892097473
+      },
+      {
+        "id" : 11,
+        "seek" : 8500,
+        "start" : 85.0,
+        "end" : 87.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 12,
+        "seek" : 8500,
+        "start" : 87.0,
+        "end" : 89.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 13,
+        "seek" : 8500,
+        "start" : 89.0,
+        "end" : 91.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 14,
+        "seek" : 8500,
+        "start" : 91.0,
+        "end" : 93.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 15,
+        "seek" : 8500,
+        "start" : 93.0,
+        "end" : 95.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 16,
+        "seek" : 8500,
+        "start" : 95.0,
+        "end" : 97.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 17,
+        "seek" : 8500,
+        "start" : 97.0,
+        "end" : 99.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 18,
+        "seek" : 8500,
+        "start" : 99.0,
+        "end" : 101.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 19,
+        "seek" : 8500,
+        "start" : 101.0,
+        "end" : 103.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 20,
+        "seek" : 8500,
+        "start" : 103.0,
+        "end" : 105.0,
+        "text" : " Hey.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 21,
+        "seek" : 8500,
+        "start" : 111.0,
+        "end" : 113.0,
+        "text" : " Is this stupid?",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.4596581966318983,
+        "compression_ratio" : 2.096774193548387,
+        "no_speech_prob" : 0.08205766975879669
+      },
+      {
+        "id" : 22,
+        "seek" : 11500,
+        "start" : 115.0,
+        "end" : 117.0,
+        "text" : " Is this pointless?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15740808418818883,
+        "compression_ratio" : 0.6923076923076923,
+        "no_speech_prob" : 0.009633059613406658
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "rhall",
+  "category" : "guest",
+  "first_name" : "Robert",
+  "last_name" : "Hall",
+  "display_name" : "Logic",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

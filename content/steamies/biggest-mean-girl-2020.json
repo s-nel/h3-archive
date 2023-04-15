@@ -1,0 +1,36 @@
+{
+  "steamy_id" : "biggest-mean-girl-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "ddamelio"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "twestbrook"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "ghanna"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "tpaytas"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Biggest Mean Girl",
+  "description" : null,
+  "year" : 2020
+}

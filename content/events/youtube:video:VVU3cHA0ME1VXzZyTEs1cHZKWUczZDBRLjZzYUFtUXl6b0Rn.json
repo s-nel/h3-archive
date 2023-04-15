@@ -1,0 +1,32 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjZzYUFtUXl6b0Rn",
+  "category" : "video",
+  "name" : "Ethan and Hila Live Stream",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/6saAmQyzoDg/default_live.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/6saAmQyzoDg"
+    }
+  ],
+  "start_date" : 1511742568000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : null
+}

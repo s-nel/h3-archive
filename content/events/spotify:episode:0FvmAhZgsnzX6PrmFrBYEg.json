@@ -1,0 +1,68 @@
+{
+  "event_id" : "spotify:episode:0FvmAhZgsnzX6PrmFrBYEg",
+  "category" : "podcast",
+  "name" : "Trisha VS Keemstar 🍿- H3 After Dark # 46",
+  "description" : "<p>It&#39;s the battle of the ages...Trisha VS Keemstar. The world will never be the same. </p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "After Dark"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/0FvmAhZgsnzX6PrmFrBYEg"
+    }
+  ],
+  "start_date" : 1628208000000,
+  "duration" : 8941244,
+  "people" : [
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "tpaytas",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dkeem",
+      "role" : "topic"
+    }
+  ],
+  "transcription" : null
+}

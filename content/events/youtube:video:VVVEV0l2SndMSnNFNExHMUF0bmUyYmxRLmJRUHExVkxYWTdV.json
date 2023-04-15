@@ -1,0 +1,707 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLmJRUHExVkxYWTdV",
+  "category" : "video",
+  "name" : "Hugh Mungus Needs Our Help",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/bQPq1VLXY7U/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/bQPq1VLXY7U"
+    }
+  ],
+  "start_date" : 1478565997000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.8,
+        "text" : " Two days ago we filmed a response to Zarna, aka the humongous lady, and as a little bit of a meme,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16591331845238094,
+        "compression_ratio" : 1.592741935483871,
+        "no_speech_prob" : 0.04520032927393913
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.8,
+        "end" : 12.88,
+        "text" : " we gave her $100 to test her moral fiber to see if she was willing to take our patriarchy money,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16591331845238094,
+        "compression_ratio" : 1.592741935483871,
+        "no_speech_prob" : 0.04520032927393913
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.88,
+        "end" : 18.96,
+        "text" : " and in doing so, maybe becoming part of the patriarchy, I wanted to see how she could justify that,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16591331845238094,
+        "compression_ratio" : 1.592741935483871,
+        "no_speech_prob" : 0.04520032927393913
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.96,
+        "end" : 24.88,
+        "text" : " and well she's pretty much responded. She took our donations and she fucking, I don't know why this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16591331845238094,
+        "compression_ratio" : 1.592741935483871,
+        "no_speech_prob" : 0.04520032927393913
+      },
+      {
+        "id" : 4,
+        "seek" : 2488,
+        "start" : 24.88,
+        "end" : 31.2,
+        "text" : " feature exists on you caring, but you can hide the amount and the name. So she's like, I'll take",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17490712334127986,
+        "compression_ratio" : 1.5804195804195804,
+        "no_speech_prob" : 0.02232467196881771
+      },
+      {
+        "id" : 5,
+        "seek" : 2488,
+        "start" : 31.2,
+        "end" : 37.84,
+        "text" : " your money, I'm just gonna fucking silence you as much as I can. Name a race, message a race,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17490712334127986,
+        "compression_ratio" : 1.5804195804195804,
+        "no_speech_prob" : 0.02232467196881771
+      },
+      {
+        "id" : 6,
+        "seek" : 2488,
+        "start" : 37.84,
+        "end" : 43.84,
+        "text" : " isn't that wonderful? Look at this scorched earth shit. Eight pages of fucking graveyard.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17490712334127986,
+        "compression_ratio" : 1.5804195804195804,
+        "no_speech_prob" : 0.02232467196881771
+      },
+      {
+        "id" : 7,
+        "seek" : 2488,
+        "start" : 43.84,
+        "end" : 49.28,
+        "text" : " It's called internalized oppression. How dare you, you disgusting husband!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17490712334127986,
+        "compression_ratio" : 1.5804195804195804,
+        "no_speech_prob" : 0.02232467196881771
+      },
+      {
+        "id" : 8,
+        "seek" : 2488,
+        "start" : 49.28,
+        "end" : 54.64,
+        "text" : " Yes Zarna, you can't dispute anymore, you've got our money in your bucket, you took it and said,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17490712334127986,
+        "compression_ratio" : 1.5804195804195804,
+        "no_speech_prob" : 0.02232467196881771
+      },
+      {
+        "id" : 9,
+        "seek" : 5464,
+        "start" : 54.72,
+        "end" : 60.0,
+        "text" : " thank you, I don't want to hear it, but I will take your money, your part of the patriarchy now,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15255835748487903,
+        "compression_ratio" : 1.7547169811320755,
+        "no_speech_prob" : 0.012358827516436577
+      },
+      {
+        "id" : 10,
+        "seek" : 5464,
+        "start" : 60.0,
+        "end" : 66.16,
+        "text" : " and your part of the problem. It's her right, but I think it says a lot about her movement,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15255835748487903,
+        "compression_ratio" : 1.7547169811320755,
+        "no_speech_prob" : 0.012358827516436577
+      },
+      {
+        "id" : 11,
+        "seek" : 5464,
+        "start" : 66.16,
+        "end" : 71.68,
+        "text" : " her intellect, and her capacity to defend herself, and her blame hypocrisy. So,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15255835748487903,
+        "compression_ratio" : 1.7547169811320755,
+        "no_speech_prob" : 0.012358827516436577
+      },
+      {
+        "id" : 12,
+        "seek" : 5464,
+        "start" : 72.4,
+        "end" : 79.12,
+        "text" : " congratulations everyone on indoctrinating Zara. She is a part of the patriarchy now, and we welcome you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15255835748487903,
+        "compression_ratio" : 1.7547169811320755,
+        "no_speech_prob" : 0.012358827516436577
+      },
+      {
+        "id" : 13,
+        "seek" : 5464,
+        "start" : 79.12,
+        "end" : 84.08,
+        "text" : " Please enjoy our money, is you see it's a little fucking goofy that we're giving her money",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15255835748487903,
+        "compression_ratio" : 1.7547169811320755,
+        "no_speech_prob" : 0.012358827516436577
+      },
+      {
+        "id" : 14,
+        "seek" : 8408,
+        "start" : 84.16,
+        "end" : 91.52,
+        "text" : " as a meme when the real Rudy is fallen on some hard times. This is a man who has been just,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14052261844758066,
+        "compression_ratio" : 1.7330827067669172,
+        "no_speech_prob" : 0.007363494951277971
+      },
+      {
+        "id" : 15,
+        "seek" : 8408,
+        "start" : 92.16,
+        "end" : 99.2,
+        "text" : " this one is trying to ruin his life. She is showing his face and calling him a sexual harasser.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14052261844758066,
+        "compression_ratio" : 1.7330827067669172,
+        "no_speech_prob" : 0.007363494951277971
+      },
+      {
+        "id" : 16,
+        "seek" : 8408,
+        "start" : 99.2,
+        "end" : 105.04,
+        "text" : " The man who sexually harassed me, he was hostile. That's pretty much defamation. If there's people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14052261844758066,
+        "compression_ratio" : 1.7330827067669172,
+        "no_speech_prob" : 0.007363494951277971
+      },
+      {
+        "id" : 17,
+        "seek" : 8408,
+        "start" : 105.04,
+        "end" : 108.64,
+        "text" : " who don't know the story and just see this and see him on the street, they're gonna be like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14052261844758066,
+        "compression_ratio" : 1.7330827067669172,
+        "no_speech_prob" : 0.007363494951277971
+      },
+      {
+        "id" : 18,
+        "seek" : 8408,
+        "start" : 108.64,
+        "end" : 112.96,
+        "text" : " fuck you rapist, good luck getting a job, good luck trying to earn a living, you,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14052261844758066,
+        "compression_ratio" : 1.7330827067669172,
+        "no_speech_prob" : 0.007363494951277971
+      },
+      {
+        "id" : 19,
+        "seek" : 11296,
+        "start" : 113.44,
+        "end" : 119.36,
+        "text" : " besides that, while Zara is out there disrupting public places and harassing people in real life,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13060701543634587,
+        "compression_ratio" : 1.6509090909090909,
+        "no_speech_prob" : 0.005389180034399033
+      },
+      {
+        "id" : 20,
+        "seek" : 11296,
+        "start" : 119.36,
+        "end" : 125.44,
+        "text" : " trying to raise money, Rudy is going through fucking cancer treatment. I spoke to him today,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13060701543634587,
+        "compression_ratio" : 1.6509090909090909,
+        "no_speech_prob" : 0.005389180034399033
+      },
+      {
+        "id" : 21,
+        "seek" : 11296,
+        "start" : 125.44,
+        "end" : 129.28,
+        "text" : " he's having a lot of health problems. He's been going all around town, fucking trying to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13060701543634587,
+        "compression_ratio" : 1.6509090909090909,
+        "no_speech_prob" : 0.005389180034399033
+      },
+      {
+        "id" : 22,
+        "seek" : 11296,
+        "start" : 129.28,
+        "end" : 134.32,
+        "text" : " sling this free willy. Apparently, I've been seeing pictures of him in this fucking whale",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13060701543634587,
+        "compression_ratio" : 1.6509090909090909,
+        "no_speech_prob" : 0.005389180034399033
+      },
+      {
+        "id" : 23,
+        "seek" : 11296,
+        "start" : 134.32,
+        "end" : 138.16,
+        "text" : " all over the internet. Apparently, locally in Seattle, this guy is such a character,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13060701543634587,
+        "compression_ratio" : 1.6509090909090909,
+        "no_speech_prob" : 0.005389180034399033
+      },
+      {
+        "id" : 24,
+        "seek" : 13816,
+        "start" : 138.16,
+        "end" : 143.04,
+        "text" : " driving around trying to sling his fucking fake willy whale. But I think what most people don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12308607482910157,
+        "compression_ratio" : 1.6723549488054608,
+        "no_speech_prob" : 0.002318429062142968
+      },
+      {
+        "id" : 25,
+        "seek" : 13816,
+        "start" : 143.04,
+        "end" : 148.16,
+        "text" : " realize is that even though he looks wonderful and lovely and beautiful and I do love the beard, Rudy,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12308607482910157,
+        "compression_ratio" : 1.6723549488054608,
+        "no_speech_prob" : 0.002318429062142968
+      },
+      {
+        "id" : 26,
+        "seek" : 13816,
+        "start" : 148.16,
+        "end" : 153.04,
+        "text" : " I think keep the beard. He's having a lot of health problems, a lot of problems in life. I spoke to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12308607482910157,
+        "compression_ratio" : 1.6723549488054608,
+        "no_speech_prob" : 0.002318429062142968
+      },
+      {
+        "id" : 27,
+        "seek" : 13816,
+        "start" : 153.04,
+        "end" : 160.08,
+        "text" : " him this morning, his truck is broken down. He's a gardener by trade, but he's had a hit replacement",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12308607482910157,
+        "compression_ratio" : 1.6723549488054608,
+        "no_speech_prob" : 0.002318429062142968
+      },
+      {
+        "id" : 28,
+        "seek" : 13816,
+        "start" : 160.08,
+        "end" : 165.44,
+        "text" : " so he's been unable to work. And when he had the opportunity to ask 4 million people in an",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12308607482910157,
+        "compression_ratio" : 1.6723549488054608,
+        "no_speech_prob" : 0.002318429062142968
+      },
+      {
+        "id" : 29,
+        "seek" : 16544,
+        "start" : 165.44,
+        "end" : 171.12,
+        "text" : " interview for money to help himself, he didn't. Not like Zarna. So I opened a page you caring",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20410355499812535,
+        "compression_ratio" : 1.4705882352941178,
+        "no_speech_prob" : 0.009021648205816746
+      },
+      {
+        "id" : 30,
+        "seek" : 16544,
+        "start" : 171.12,
+        "end" : 177.84,
+        "text" : " for your boy, Papa Bless Humongous. Now I can see that Zarna here is at $8.75 already at",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20410355499812535,
+        "compression_ratio" : 1.4705882352941178,
+        "no_speech_prob" : 0.009021648205816746
+      },
+      {
+        "id" : 31,
+        "seek" : 16544,
+        "start" : 177.84,
+        "end" : 184.48,
+        "text" : " her $1,000 goal and I already gave Rudy 500, but I feel like we need to start him off right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20410355499812535,
+        "compression_ratio" : 1.4705882352941178,
+        "no_speech_prob" : 0.009021648205816746
+      },
+      {
+        "id" : 32,
+        "seek" : 16544,
+        "start" : 184.48,
+        "end" : 191.28,
+        "text" : " We need to get him another $376 I think just to make sure he's got $1 more than Zarna. Because yes,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20410355499812535,
+        "compression_ratio" : 1.4705882352941178,
+        "no_speech_prob" : 0.009021648205816746
+      },
+      {
+        "id" : 33,
+        "seek" : 19128,
+        "start" : 191.28,
+        "end" : 197.36,
+        "text" : " I am that petty. And yes, I did give her $100 and I'm like, why am I giving $100 to Zarna as a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19257315914187811,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.003277118783444166
+      },
+      {
+        "id" : 34,
+        "seek" : 19128,
+        "start" : 197.36,
+        "end" : 201.36,
+        "text" : " goop and I didn't even help fucking Humongous at all who actually really needs it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19257315914187811,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.003277118783444166
+      },
+      {
+        "id" : 35,
+        "seek" : 19128,
+        "start" : 204.88,
+        "end" : 209.2,
+        "text" : " And I think together we can fucking free that fake ass willy out of his truck,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19257315914187811,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.003277118783444166
+      },
+      {
+        "id" : 36,
+        "seek" : 19128,
+        "start" : 209.2,
+        "end" : 212.96,
+        "text" : " get him chilling at home, get him medical treatment, take care of your boy,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19257315914187811,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.003277118783444166
+      },
+      {
+        "id" : 37,
+        "seek" : 19128,
+        "start" : 212.96,
+        "end" : 216.48,
+        "text" : " he will mug us who deserves it and then get him in the white house,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19257315914187811,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.003277118783444166
+      },
+      {
+        "id" : 38,
+        "seek" : 21648,
+        "start" : 216.48,
+        "end" : 221.76,
+        "text" : " you mug us bone for president where he belongs. So please join me by clicking the link in the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21810345495900801,
+        "compression_ratio" : 1.6224489795918366,
+        "no_speech_prob" : 0.04658212512731552
+      },
+      {
+        "id" : 39,
+        "seek" : 21648,
+        "start" : 221.76,
+        "end" : 227.6,
+        "text" : " description, you caring Papa Bless Humongous. Can we please get this man off fucking little hell,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21810345495900801,
+        "compression_ratio" : 1.6224489795918366,
+        "no_speech_prob" : 0.04658212512731552
+      },
+      {
+        "id" : 40,
+        "seek" : 21648,
+        "start" : 227.6,
+        "end" : 232.56,
+        "text" : " okay? God damn, he's helped so many people already just with what he's done and with hope",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21810345495900801,
+        "compression_ratio" : 1.6224489795918366,
+        "no_speech_prob" : 0.04658212512731552
+      },
+      {
+        "id" : 41,
+        "seek" : 21648,
+        "start" : 232.56,
+        "end" : 238.16,
+        "text" : " soldiers. Let's help out the man himself dude, he needs it now and he's got he's such a great guy,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21810345495900801,
+        "compression_ratio" : 1.6224489795918366,
+        "no_speech_prob" : 0.04658212512731552
+      },
+      {
+        "id" : 42,
+        "seek" : 21648,
+        "start" : 238.16,
+        "end" : 242.88,
+        "text" : " he wouldn't even ask. I called him and said, hey what's up with you, how you doing just checking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21810345495900801,
+        "compression_ratio" : 1.6224489795918366,
+        "no_speech_prob" : 0.04658212512731552
+      },
+      {
+        "id" : 43,
+        "seek" : 24288,
+        "start" : 242.96,
+        "end" : 249.2,
+        "text" : " him with him and he goes man I'll tell you what dude, I'm not good, he's a fucking humble guy,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19959307080916777,
+        "compression_ratio" : 1.6771929824561405,
+        "no_speech_prob" : 0.004804343916475773
+      },
+      {
+        "id" : 44,
+        "seek" : 24288,
+        "start" : 249.2,
+        "end" : 253.6,
+        "text" : " he's out there he's suffering, he wouldn't even ask for help. When I tell him I'm gonna make a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19959307080916777,
+        "compression_ratio" : 1.6771929824561405,
+        "no_speech_prob" : 0.004804343916475773
+      },
+      {
+        "id" : 45,
+        "seek" : 24288,
+        "start" : 253.6,
+        "end" : 259.6,
+        "text" : " you caring for him, he goes listen I'm just gonna donate everything I don't use immediately,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19959307080916777,
+        "compression_ratio" : 1.6771929824561405,
+        "no_speech_prob" : 0.004804343916475773
+      },
+      {
+        "id" : 46,
+        "seek" : 24288,
+        "start" : 259.6,
+        "end" : 267.52,
+        "text" : " I'm like dog stop, cheer money humongous, you keep it, take care of yourself and free that fake ass",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19959307080916777,
+        "compression_ratio" : 1.6771929824561405,
+        "no_speech_prob" : 0.004804343916475773
+      },
+      {
+        "id" : 47,
+        "seek" : 24288,
+        "start" : 267.52,
+        "end" : 272.48,
+        "text" : " free willy, okay? Just throw it in the ocean dude it's not your trouble anymore, just take that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19959307080916777,
+        "compression_ratio" : 1.6771929824561405,
+        "no_speech_prob" : 0.004804343916475773
+      },
+      {
+        "id" : 48,
+        "seek" : 27248,
+        "start" : 272.48,
+        "end" : 278.56,
+        "text" : " out of your truck, I don't know man, we just want you to be healthy and happy dog and just remember",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13505926625481968,
+        "compression_ratio" : 1.7247386759581882,
+        "no_speech_prob" : 0.003133097430691123
+      },
+      {
+        "id" : 49,
+        "seek" : 27248,
+        "start" : 278.56,
+        "end" : 285.92,
+        "text" : " every dollar you give helps smash that motherfucking patriarchy. Just remember that as we go from people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13505926625481968,
+        "compression_ratio" : 1.7247386759581882,
+        "no_speech_prob" : 0.003133097430691123
+      },
+      {
+        "id" : 50,
+        "seek" : 27248,
+        "start" : 285.92,
+        "end" : 290.56,
+        "text" : " it doesn't necessarily mean that we hate them. I think one of the most important things we can",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13505926625481968,
+        "compression_ratio" : 1.7247386759581882,
+        "no_speech_prob" : 0.003133097430691123
+      },
+      {
+        "id" : 51,
+        "seek" : 27248,
+        "start" : 290.56,
+        "end" : 296.24,
+        "text" : " take into the world is a tenderness and a compassion for those we made dislike or even hate and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13505926625481968,
+        "compression_ratio" : 1.7247386759581882,
+        "no_speech_prob" : 0.003133097430691123
+      },
+      {
+        "id" : 52,
+        "seek" : 27248,
+        "start" : 296.24,
+        "end" : 301.92,
+        "text" : " one more foot known that Zarya does not represent feminism. I think what she represents is the cold",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13505926625481968,
+        "compression_ratio" : 1.7247386759581882,
+        "no_speech_prob" : 0.003133097430691123
+      },
+      {
+        "id" : 53,
+        "seek" : 30192,
+        "start" : 302.16,
+        "end" : 310.8,
+        "text" : " outrage. It's a bastardization, it's like saying an orc is an elf, okay? And those of you who are",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21993375292011336,
+        "compression_ratio" : 1.6694915254237288,
+        "no_speech_prob" : 0.005760956555604935
+      },
+      {
+        "id" : 54,
+        "seek" : 30192,
+        "start" : 310.8,
+        "end" : 315.6,
+        "text" : " familiar with Lord of the Ring war know that the orcs were buried and bastardized by dark magic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21993375292011336,
+        "compression_ratio" : 1.6694915254237288,
+        "no_speech_prob" : 0.005760956555604935
+      },
+      {
+        "id" : 55,
+        "seek" : 30192,
+        "start" : 315.6,
+        "end" : 319.84,
+        "text" : " in turn you will completely different face. So to say that Zarya represents feminism is like saying",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21993375292011336,
+        "compression_ratio" : 1.6694915254237288,
+        "no_speech_prob" : 0.005760956555604935
+      },
+      {
+        "id" : 56,
+        "seek" : 30192,
+        "start" : 319.84,
+        "end" : 324.48,
+        "text" : " a orc is an elf and anyone here who's read a Lord of the Rings knows that that's not the same thing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21993375292011336,
+        "compression_ratio" : 1.6694915254237288,
+        "no_speech_prob" : 0.005760956555604935
+      },
+      {
+        "id" : 57,
+        "seek" : 32448,
+        "start" : 324.88,
+        "end" : 332.0,
+        "text" : " Let's focus our love and our affection on Papa humongous. The man he needs help and God",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34361756232477003,
+        "compression_ratio" : 1.391566265060241,
+        "no_speech_prob" : 0.024165110662579536
+      },
+      {
+        "id" : 58,
+        "seek" : 32448,
+        "start" : 332.0,
+        "end" : 338.8,
+        "text" : " damn it we're all here to fucking we got his back all right so thank you guys, Papa bless",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34361756232477003,
+        "compression_ratio" : 1.391566265060241,
+        "no_speech_prob" : 0.024165110662579536
+      },
+      {
+        "id" : 59,
+        "seek" : 32448,
+        "start" : 339.44,
+        "end" : 342.24,
+        "text" : " and we appreciate you all so much. See you next time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34361756232477003,
+        "compression_ratio" : 1.391566265060241,
+        "no_speech_prob" : 0.024165110662579536
+      },
+      {
+        "id" : 60,
+        "seek" : 35448,
+        "start" : 354.48,
+        "end" : 356.96,
+        "text" : " you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9937952160835266,
+        "compression_ratio" : 0.2727272727272727,
+        "no_speech_prob" : 0.5798814296722412
+      }
+    ]
+  }
+}

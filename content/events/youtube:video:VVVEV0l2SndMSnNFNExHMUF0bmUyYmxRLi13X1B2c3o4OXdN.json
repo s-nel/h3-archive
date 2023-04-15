@@ -1,0 +1,410 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLi13X1B2c3o4OXdN",
+  "category" : "video",
+  "name" : "college kid | blaze it | 420",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/-w_Pvsz89wM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/-w_Pvsz89wM"
+    }
+  ],
+  "start_date" : 1371138056000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.18,
+        "text" : " There's some other like uh guitarists out there I met really like they really like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2643880314297146,
+        "compression_ratio" : 1.9190476190476191,
+        "no_speech_prob" : 0.41066932678222656
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 8.18,
+        "end" : 12.68,
+        "text" : " Bangin and we were just like jamming we just like sitting in the quad having like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2643880314297146,
+        "compression_ratio" : 1.9190476190476191,
+        "no_speech_prob" : 0.41066932678222656
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.68,
+        "end" : 17.84,
+        "text" : " the sick. It was like a sick jam like I don't know we just blazed it it was really",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2643880314297146,
+        "compression_ratio" : 1.9190476190476191,
+        "no_speech_prob" : 0.41066932678222656
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 17.84,
+        "end" : 24.66,
+        "text" : " dope we were like fucking I was like we blazed it hard it was 420 so we blazed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2643880314297146,
+        "compression_ratio" : 1.9190476190476191,
+        "no_speech_prob" : 0.41066932678222656
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 24.66,
+        "end" : 29.0,
+        "text" : " it for a full that full minute and we went down to the quad we were like jam",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2643880314297146,
+        "compression_ratio" : 1.9190476190476191,
+        "no_speech_prob" : 0.41066932678222656
+      },
+      {
+        "id" : 5,
+        "seek" : 2900,
+        "start" : 29.0,
+        "end" : 36.76,
+        "text" : " and it was a sick jam dog so yeah I met this these couple guys and like one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23159835452125185,
+        "compression_ratio" : 1.7374301675977655,
+        "no_speech_prob" : 0.008961491286754608
+      },
+      {
+        "id" : 6,
+        "seek" : 2900,
+        "start" : 36.76,
+        "end" : 43.68,
+        "text" : " dude was bangin on a bongo another dude like he had a he had a bass and he ran",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23159835452125185,
+        "compression_ratio" : 1.7374301675977655,
+        "no_speech_prob" : 0.008961491286754608
+      },
+      {
+        "id" : 7,
+        "seek" : 2900,
+        "start" : 43.68,
+        "end" : 50.28,
+        "text" : " his extension from his room on the third floor down to the quad it was so sick",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23159835452125185,
+        "compression_ratio" : 1.7374301675977655,
+        "no_speech_prob" : 0.008961491286754608
+      },
+      {
+        "id" : 8,
+        "seek" : 2900,
+        "start" : 50.28,
+        "end" : 56.04,
+        "text" : " so we were like jam I mean like two guitars are bass in a drum so sick people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23159835452125185,
+        "compression_ratio" : 1.7374301675977655,
+        "no_speech_prob" : 0.008961491286754608
+      },
+      {
+        "id" : 9,
+        "seek" : 5604,
+        "start" : 56.04,
+        "end" : 60.08,
+        "text" : " coming out before like watching and crowding around we were just like we were",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22398163477579752,
+        "compression_ratio" : 1.6978417266187051,
+        "no_speech_prob" : 0.010316187515854836
+      },
+      {
+        "id" : 10,
+        "seek" : 5604,
+        "start" : 60.08,
+        "end" : 64.72,
+        "text" : " looking at each other like yeah this is dope this is like this is a funky dope",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22398163477579752,
+        "compression_ratio" : 1.6978417266187051,
+        "no_speech_prob" : 0.010316187515854836
+      },
+      {
+        "id" : 11,
+        "seek" : 5604,
+        "start" : 64.72,
+        "end" : 73.68,
+        "text" : " shit so that was that was 420 just like an hour ago and then 420 and tonight we",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22398163477579752,
+        "compression_ratio" : 1.6978417266187051,
+        "no_speech_prob" : 0.010316187515854836
+      },
+      {
+        "id" : 12,
+        "seek" : 7368,
+        "start" : 73.68,
+        "end" : 89.88,
+        "text" : " can go head out back to the meadow it's really dope times it okay 530 okay dope so I used",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22090323766072592,
+        "compression_ratio" : 1.5232558139534884,
+        "no_speech_prob" : 0.08611966669559479
+      },
+      {
+        "id" : 13,
+        "seek" : 7368,
+        "start" : 89.88,
+        "end" : 96.2,
+        "text" : " to use glasses but this is cool this works for me it's it's convenient you know I just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22090323766072592,
+        "compression_ratio" : 1.5232558139534884,
+        "no_speech_prob" : 0.08611966669559479
+      },
+      {
+        "id" : 14,
+        "seek" : 7368,
+        "start" : 96.2,
+        "end" : 99.44,
+        "text" : " put it in my pocket I don't have to wear them so I just whip them out whenever I need",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22090323766072592,
+        "compression_ratio" : 1.5232558139534884,
+        "no_speech_prob" : 0.08611966669559479
+      },
+      {
+        "id" : 15,
+        "seek" : 9944,
+        "start" : 99.44,
+        "end" : 105.6,
+        "text" : " to read something it's very cool I bought some of you guys know ballie shag we'll",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2554158551977315,
+        "compression_ratio" : 1.8687782805429864,
+        "no_speech_prob" : 0.14788393676280975
+      },
+      {
+        "id" : 16,
+        "seek" : 9944,
+        "start" : 105.6,
+        "end" : 111.32,
+        "text" : " jump we joke about we like to call it ballie swag I thought that was pretty",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2554158551977315,
+        "compression_ratio" : 1.8687782805429864,
+        "no_speech_prob" : 0.14788393676280975
+      },
+      {
+        "id" : 17,
+        "seek" : 9944,
+        "start" : 111.32,
+        "end" : 116.64,
+        "text" : " funny pretty dope little joke so this is my ballie swag and I think it's cool",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2554158551977315,
+        "compression_ratio" : 1.8687782805429864,
+        "no_speech_prob" : 0.14788393676280975
+      },
+      {
+        "id" : 18,
+        "seek" : 9944,
+        "start" : 116.64,
+        "end" : 122.0,
+        "text" : " because like you can mix it up with the herb and you know you can share it with",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2554158551977315,
+        "compression_ratio" : 1.8687782805429864,
+        "no_speech_prob" : 0.14788393676280975
+      },
+      {
+        "id" : 19,
+        "seek" : 9944,
+        "start" : 122.0,
+        "end" : 127.76,
+        "text" : " people it's just very cool vibe you know it's just like chill thing so you know it's like I don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2554158551977315,
+        "compression_ratio" : 1.8687782805429864,
+        "no_speech_prob" : 0.14788393676280975
+      },
+      {
+        "id" : 20,
+        "seek" : 12776,
+        "start" : 127.76,
+        "end" : 135.12,
+        "text" : " want to be I don't want to be smoking brands like committed like branch marble oh so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19521149255896128,
+        "compression_ratio" : 1.8717948717948718,
+        "no_speech_prob" : 0.0036148608196526766
+      },
+      {
+        "id" : 21,
+        "seek" : 12776,
+        "start" : 135.12,
+        "end" : 141.2,
+        "text" : " with my camel it's not dope so this is like you know you can't even tell what this is you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19521149255896128,
+        "compression_ratio" : 1.8717948717948718,
+        "no_speech_prob" : 0.0036148608196526766
+      },
+      {
+        "id" : 22,
+        "seek" : 12776,
+        "start" : 141.2,
+        "end" : 148.64,
+        "text" : " could be dope could be weed you know this could be the crime or could be any tobacco so that's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19521149255896128,
+        "compression_ratio" : 1.8717948717948718,
+        "no_speech_prob" : 0.0036148608196526766
+      },
+      {
+        "id" : 23,
+        "seek" : 12776,
+        "start" : 148.64,
+        "end" : 154.0,
+        "text" : " cool you know people can't just judge me right away like oh this oh this guy's a camel guy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19521149255896128,
+        "compression_ratio" : 1.8717948717948718,
+        "no_speech_prob" : 0.0036148608196526766
+      },
+      {
+        "id" : 24,
+        "seek" : 15400,
+        "start" : 154.0,
+        "end" : 159.12,
+        "text" : " I'm swag I like I like that you know it's cool to be cool yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997486843151994,
+        "compression_ratio" : 1.899441340782123,
+        "no_speech_prob" : 0.003899576375260949
+      },
+      {
+        "id" : 25,
+        "seek" : 15400,
+        "start" : 162.32,
+        "end" : 168.0,
+        "text" : " you know I went to class late today whatever whatever whether you know they don't care it's cool",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997486843151994,
+        "compression_ratio" : 1.899441340782123,
+        "no_speech_prob" : 0.003899576375260949
+      },
+      {
+        "id" : 26,
+        "seek" : 15400,
+        "start" : 168.72,
+        "end" : 174.96,
+        "text" : " it's cool like you know got these classes this so big like for your people I'm like wow man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997486843151994,
+        "compression_ratio" : 1.899441340782123,
+        "no_speech_prob" : 0.003899576375260949
+      },
+      {
+        "id" : 27,
+        "seek" : 15400,
+        "start" : 174.96,
+        "end" : 179.52,
+        "text" : " there's so many cool people to meet it's really dope like I know you just you can go out",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997486843151994,
+        "compression_ratio" : 1.899441340782123,
+        "no_speech_prob" : 0.003899576375260949
+      },
+      {
+        "id" : 28,
+        "seek" : 17952,
+        "start" : 179.52,
+        "end" : 186.88,
+        "text" : " during the break and just like meet new people it's really dope times it okay I so I've got a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15961200059062303,
+        "compression_ratio" : 1.7788018433179724,
+        "no_speech_prob" : 0.0018658323679119349
+      },
+      {
+        "id" : 29,
+        "seek" : 17952,
+        "start" : 186.88,
+        "end" : 194.08,
+        "text" : " couple more minutes guys before I have to go but are you you guys been to college I mean I I hope",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15961200059062303,
+        "compression_ratio" : 1.7788018433179724,
+        "no_speech_prob" : 0.0018658323679119349
+      },
+      {
+        "id" : 30,
+        "seek" : 17952,
+        "start" : 194.08,
+        "end" : 199.28,
+        "text" : " you've had this this joy and I I love to hear from you guys about your college experiences so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15961200059062303,
+        "compression_ratio" : 1.7788018433179724,
+        "no_speech_prob" : 0.0018658323679119349
+      },
+      {
+        "id" : 31,
+        "seek" : 17952,
+        "start" : 199.92,
+        "end" : 207.12,
+        "text" : " this been dope it's been real it's been heavy it's been a lot of things got a lot of look forward to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15961200059062303,
+        "compression_ratio" : 1.7788018433179724,
+        "no_speech_prob" : 0.0018658323679119349
+      },
+      {
+        "id" : 32,
+        "seek" : 20712,
+        "start" : 208.08,
+        "end" : 214.88,
+        "text" : " a lot of friends to make a lot of dope to smoke a lot of songs on some you know what I'm saying",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2482461717393663,
+        "compression_ratio" : 1.4086956521739131,
+        "no_speech_prob" : 8.47992894705385E-4
+      },
+      {
+        "id" : 33,
+        "seek" : 20712,
+        "start" : 216.0,
+        "end" : 222.08,
+        "text" : " a lot of cheeseburgers on eaten yeah 420 plays it peace guys peace",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2482461717393663,
+        "compression_ratio" : 1.4086956521739131,
+        "no_speech_prob" : 8.47992894705385E-4
+      }
+    ]
+  }
+}

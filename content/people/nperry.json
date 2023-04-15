@@ -1,0 +1,13 @@
+{
+  "person_id" : "nperry",
+  "category" : "lore",
+  "first_name" : "Nicholas",
+  "last_name" : "Perry",
+  "display_name" : "Nikocado Avocado",
+  "thumb" : "/people/nperry.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,883 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlM5cnc3SDZHdWMw",
+  "category" : "video",
+  "name" : "KFC Blocks Our Video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/S9rw7H6Guc0/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/S9rw7H6Guc0"
+    }
+  ],
+  "start_date" : 1555797949000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.8,
+        "text" : " What is the point of viral marketing? If the minute somebody talks about it, you freaking block it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2050244170840424,
+        "compression_ratio" : 1.583941605839416,
+        "no_speech_prob" : 0.08965961635112762
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.44,
+        "end" : 10.24,
+        "text" : " Yesterday we were doing our podcast and we talked about the kernel doing his DJ set at Ultra",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2050244170840424,
+        "compression_ratio" : 1.583941605839416,
+        "no_speech_prob" : 0.08965961635112762
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.24,
+        "end" : 15.6,
+        "text" : " and the minute that we put it up after the live stream ended, they blocked it worldwide.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2050244170840424,
+        "compression_ratio" : 1.583941605839416,
+        "no_speech_prob" : 0.08965961635112762
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 17.92,
+        "end" : 21.84,
+        "text" : " This speaks to a bigger problem that I think a lot of creators are having right now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2050244170840424,
+        "compression_ratio" : 1.583941605839416,
+        "no_speech_prob" : 0.08965961635112762
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 21.84,
+        "end" : 26.8,
+        "text" : " and it's really grinding my gears because we all make fun of YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2050244170840424,
+        "compression_ratio" : 1.583941605839416,
+        "no_speech_prob" : 0.08965961635112762
+      },
+      {
+        "id" : 5,
+        "seek" : 2680,
+        "start" : 26.8,
+        "end" : 31.68,
+        "text" : " but we all give YouTube shit for its broken copyright system. But I think that it's time that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1279769068178923,
+        "compression_ratio" : 1.6088435374149659,
+        "no_speech_prob" : 0.014346962794661522
+      },
+      {
+        "id" : 6,
+        "seek" : 2680,
+        "start" : 31.68,
+        "end" : 36.8,
+        "text" : " we turn our attention to the people who are the biggest offenders right now. These companies",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1279769068178923,
+        "compression_ratio" : 1.6088435374149659,
+        "no_speech_prob" : 0.014346962794661522
+      },
+      {
+        "id" : 7,
+        "seek" : 2680,
+        "start" : 36.8,
+        "end" : 42.0,
+        "text" : " that think that they can do the most aggressive, bad faith copyright enforcement possible",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1279769068178923,
+        "compression_ratio" : 1.6088435374149659,
+        "no_speech_prob" : 0.014346962794661522
+      },
+      {
+        "id" : 8,
+        "seek" : 2680,
+        "start" : 42.0,
+        "end" : 46.48,
+        "text" : " and just get away with it. You hear my price tag jiggling? That's like, you know, I'm freaking pissed,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1279769068178923,
+        "compression_ratio" : 1.6088435374149659,
+        "no_speech_prob" : 0.014346962794661522
+      },
+      {
+        "id" : 9,
+        "seek" : 2680,
+        "start" : 46.48,
+        "end" : 51.52,
+        "text" : " dude. Yeah, you know why I'm wearing this menorah? It's Passover. I'm supposed to be Passover",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1279769068178923,
+        "compression_ratio" : 1.6088435374149659,
+        "no_speech_prob" : 0.014346962794661522
+      },
+      {
+        "id" : 10,
+        "seek" : 5152,
+        "start" : 51.6,
+        "end" : 57.04,
+        "text" : " and here I am. It's stop. Thanks, Colonel Dushbag. It started when businesses started specifically",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1539272007189299,
+        "compression_ratio" : 1.6608996539792387,
+        "no_speech_prob" : 0.00972244143486023
+      },
+      {
+        "id" : 11,
+        "seek" : 5152,
+        "start" : 57.04,
+        "end" : 64.08,
+        "text" : " building automated systems to match content ID outside of YouTube's automated system and they",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1539272007189299,
+        "compression_ratio" : 1.6608996539792387,
+        "no_speech_prob" : 0.00972244143486023
+      },
+      {
+        "id" : 12,
+        "seek" : 5152,
+        "start" : 64.08,
+        "end" : 68.72,
+        "text" : " started approaching huge brands, huge media companies and saying, hey, come to us, we're going to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1539272007189299,
+        "compression_ratio" : 1.6608996539792387,
+        "no_speech_prob" : 0.00972244143486023
+      },
+      {
+        "id" : 13,
+        "seek" : 5152,
+        "start" : 68.72,
+        "end" : 72.08,
+        "text" : " make you a million dollars a month. We're going to claim all your videos. You don't have to do",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1539272007189299,
+        "compression_ratio" : 1.6608996539792387,
+        "no_speech_prob" : 0.00972244143486023
+      },
+      {
+        "id" : 14,
+        "seek" : 5152,
+        "start" : 72.08,
+        "end" : 77.2,
+        "text" : " anything. We'll do everything and we get 50%. So it pretty much absolves the big media company",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1539272007189299,
+        "compression_ratio" : 1.6608996539792387,
+        "no_speech_prob" : 0.00972244143486023
+      },
+      {
+        "id" : 15,
+        "seek" : 7720,
+        "start" : 77.2,
+        "end" : 83.2,
+        "text" : " of any responsibility and these other guys, the stir parties go out and they get bounties on claims",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12017422708971746,
+        "compression_ratio" : 1.697508896797153,
+        "no_speech_prob" : 0.013915414921939373
+      },
+      {
+        "id" : 16,
+        "seek" : 7720,
+        "start" : 83.92,
+        "end" : 90.08,
+        "text" : " and such things. So they go out there. They have no obligation, no desire, no incentive even",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12017422708971746,
+        "compression_ratio" : 1.697508896797153,
+        "no_speech_prob" : 0.013915414921939373
+      },
+      {
+        "id" : 17,
+        "seek" : 7720,
+        "start" : 90.08,
+        "end" : 95.28,
+        "text" : " to consider fair use and they'll claim anything for any reason. So right now you're seeing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12017422708971746,
+        "compression_ratio" : 1.697508896797153,
+        "no_speech_prob" : 0.013915414921939373
+      },
+      {
+        "id" : 18,
+        "seek" : 7720,
+        "start" : 95.28,
+        "end" : 100.4,
+        "text" : " this just field days worse than it's ever been for monetization for creators. I mean, I have",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12017422708971746,
+        "compression_ratio" : 1.697508896797153,
+        "no_speech_prob" : 0.013915414921939373
+      },
+      {
+        "id" : 19,
+        "seek" : 7720,
+        "start" : 100.4,
+        "end" : 106.32,
+        "text" : " seen some really egregious stuff but I'm talking five second clips on a two hour podcast and they're",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12017422708971746,
+        "compression_ratio" : 1.697508896797153,
+        "no_speech_prob" : 0.013915414921939373
+      },
+      {
+        "id" : 20,
+        "seek" : 10632,
+        "start" : 106.32,
+        "end" : 112.0,
+        "text" : " going to claim the whole thing and earn our money. Mr. Beast wants they literally hum the tune of a song",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11423677143297697,
+        "compression_ratio" : 1.755458515283843,
+        "no_speech_prob" : 0.0028373964596539736
+      },
+      {
+        "id" : 21,
+        "seek" : 10632,
+        "start" : 112.0,
+        "end" : 118.64,
+        "text" : " and got claimed by like UMG for a 20 minute video that had like 20 million views for humming a song",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11423677143297697,
+        "compression_ratio" : 1.755458515283843,
+        "no_speech_prob" : 0.0028373964596539736
+      },
+      {
+        "id" : 22,
+        "seek" : 10632,
+        "start" : 118.64,
+        "end" : 126.32,
+        "text" : " for five seconds. This is one of the clips that Mr. Beast's entire video with 20 million views got",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11423677143297697,
+        "compression_ratio" : 1.755458515283843,
+        "no_speech_prob" : 0.0028373964596539736
+      },
+      {
+        "id" : 23,
+        "seek" : 10632,
+        "start" : 126.32,
+        "end" : 132.08,
+        "text" : " claimed for. These companies care about their image and they care about their bottom line and when",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11423677143297697,
+        "compression_ratio" : 1.755458515283843,
+        "no_speech_prob" : 0.0028373964596539736
+      },
+      {
+        "id" : 24,
+        "seek" : 13208,
+        "start" : 132.08,
+        "end" : 136.72,
+        "text" : " KFC when Colonel douchebag is out here trying to do his viral marketing and his partners over at ultra",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21030910944534562,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.027238769456744194
+      },
+      {
+        "id" : 25,
+        "seek" : 13208,
+        "start" : 136.72,
+        "end" : 142.56,
+        "text" : " blocking worldwide anytime somebody tries to talk about it. I think KFC should know about it. You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21030910944534562,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.027238769456744194
+      },
+      {
+        "id" : 26,
+        "seek" : 13208,
+        "start" : 142.56,
+        "end" : 146.72,
+        "text" : " know, maybe all the sudden those chicken tenders are sounding that bomb. Maybe all of a sudden that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21030910944534562,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.027238769456744194
+      },
+      {
+        "id" : 27,
+        "seek" : 13208,
+        "start" : 146.72,
+        "end" : 152.4,
+        "text" : " gravy and those mashed potatoes give me terrible diarrhea. Terrible. We got to start shaming.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21030910944534562,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.027238769456744194
+      },
+      {
+        "id" : 28,
+        "seek" : 13208,
+        "start" : 153.12,
+        "end" : 159.6,
+        "text" : " We got to start calling out these people that think they're untouchable. The guys who go, oh,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21030910944534562,
+        "compression_ratio" : 1.6598639455782314,
+        "no_speech_prob" : 0.027238769456744194
+      },
+      {
+        "id" : 29,
+        "seek" : 15960,
+        "start" : 159.6,
+        "end" : 163.92,
+        "text" : " when anything goes down on YouTube, I'm pulling my ads. Well, you know what? I'm pulling my ads.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.256650631244366,
+        "compression_ratio" : 1.6443514644351465,
+        "no_speech_prob" : 0.004384752828627825
+      },
+      {
+        "id" : 30,
+        "seek" : 15960,
+        "start" : 163.92,
+        "end" : 171.28,
+        "text" : " KFC, you pulled your eye pull my ads. This I'm called an official boycott on Colonel douchebag right",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.256650631244366,
+        "compression_ratio" : 1.6443514644351465,
+        "no_speech_prob" : 0.004384752828627825
+      },
+      {
+        "id" : 31,
+        "seek" : 15960,
+        "start" : 171.28,
+        "end" : 177.28,
+        "text" : " now. Get a load of this guy. He doesn't eat chicken. Well, KFC, what are you starting making? I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.256650631244366,
+        "compression_ratio" : 1.6443514644351465,
+        "no_speech_prob" : 0.004384752828627825
+      },
+      {
+        "id" : 32,
+        "seek" : 15960,
+        "start" : 177.28,
+        "end" : 185.12,
+        "text" : " see bowls. I see bowls. Whatever that X max is. ACIQI. Whatever that is. That's what he eats. Let's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.256650631244366,
+        "compression_ratio" : 1.6443514644351465,
+        "no_speech_prob" : 0.004384752828627825
+      },
+      {
+        "id" : 33,
+        "seek" : 18512,
+        "start" : 185.12,
+        "end" : 191.28,
+        "text" : " start selling that. Start being honest with your advertising. Colonel, look at the load of this guy.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1681180681501116,
+        "compression_ratio" : 1.5924369747899159,
+        "no_speech_prob" : 0.002556008752435446
+      },
+      {
+        "id" : 34,
+        "seek" : 18512,
+        "start" : 192.0,
+        "end" : 198.8,
+        "text" : " Have you ever seen more of a douche in your life trying to sell me chicken? Are you serious?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1681180681501116,
+        "compression_ratio" : 1.5924369747899159,
+        "no_speech_prob" : 0.002556008752435446
+      },
+      {
+        "id" : 35,
+        "seek" : 18512,
+        "start" : 199.84,
+        "end" : 204.32,
+        "text" : " And I mean, get a load of this DJ set. I wish I could show it to you without being afraid of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1681180681501116,
+        "compression_ratio" : 1.5924369747899159,
+        "no_speech_prob" : 0.002556008752435446
+      },
+      {
+        "id" : 36,
+        "seek" : 18512,
+        "start" : 204.32,
+        "end" : 209.12,
+        "text" : " it getting blocked, but just I'll show you a screenshot. This guy goes out on ultra with the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1681180681501116,
+        "compression_ratio" : 1.5924369747899159,
+        "no_speech_prob" : 0.002556008752435446
+      },
+      {
+        "id" : 37,
+        "seek" : 20912,
+        "start" : 209.12,
+        "end" : 217.6,
+        "text" : " Colonel's head. Colonel Sanders head. It starts talking about, hey, hey, man. Yeah, this is Colonel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19335028704474955,
+        "compression_ratio" : 1.6485355648535565,
+        "no_speech_prob" : 0.013634340837597847
+      },
+      {
+        "id" : 38,
+        "seek" : 20912,
+        "start" : 217.6,
+        "end" : 225.36,
+        "text" : " Sanders. Everybody up for some chicken nuggets. I pulled my ads. You don't pull your ads. We've got",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19335028704474955,
+        "compression_ratio" : 1.6485355648535565,
+        "no_speech_prob" : 0.013634340837597847
+      },
+      {
+        "id" : 39,
+        "seek" : 20912,
+        "start" : 225.36,
+        "end" : 229.84,
+        "text" : " the power. So when all these douchebag companies start coming out here and claiming all our shit,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19335028704474955,
+        "compression_ratio" : 1.6485355648535565,
+        "no_speech_prob" : 0.013634340837597847
+      },
+      {
+        "id" : 40,
+        "seek" : 20912,
+        "start" : 229.84,
+        "end" : 236.4,
+        "text" : " guess who's got the power? I pulled my ads. Here's this little Twitter. We announced on Twitter.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19335028704474955,
+        "compression_ratio" : 1.6485355648535565,
+        "no_speech_prob" : 0.013634340837597847
+      },
+      {
+        "id" : 41,
+        "seek" : 23640,
+        "start" : 236.4,
+        "end" : 240.96,
+        "text" : " newest episode was blocked by ultra for showing the coroner KFC Colonel Sanders DJ set. We're",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19014470539395772,
+        "compression_ratio" : 1.5774193548387097,
+        "no_speech_prob" : 0.02441161684691906
+      },
+      {
+        "id" : 42,
+        "seek" : 23640,
+        "start" : 240.96,
+        "end" : 246.16,
+        "text" : " working on getting it set up ASAP. So thank you KFC. And ultra really appreciate you guys blocking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19014470539395772,
+        "compression_ratio" : 1.5774193548387097,
+        "no_speech_prob" : 0.02441161684691906
+      },
+      {
+        "id" : 43,
+        "seek" : 23640,
+        "start" : 246.16,
+        "end" : 250.96,
+        "text" : " my content. Me too without considering fair use, which is required by law. Then ultra wanted to get",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19014470539395772,
+        "compression_ratio" : 1.5774193548387097,
+        "no_speech_prob" : 0.02441161684691906
+      },
+      {
+        "id" : 44,
+        "seek" : 23640,
+        "start" : 250.96,
+        "end" : 255.44,
+        "text" : " involved in be the hero. They say follow for DM. Let's get this fixed. Okay, first of all, when",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19014470539395772,
+        "compression_ratio" : 1.5774193548387097,
+        "no_speech_prob" : 0.02441161684691906
+      },
+      {
+        "id" : 45,
+        "seek" : 23640,
+        "start" : 255.44,
+        "end" : 261.2,
+        "text" : " companies do this, this is such BS. You do not need me to follow you to fix it. Just drop the block.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19014470539395772,
+        "compression_ratio" : 1.5774193548387097,
+        "no_speech_prob" : 0.02441161684691906
+      },
+      {
+        "id" : 46,
+        "seek" : 26120,
+        "start" : 262.16,
+        "end" : 266.48,
+        "text" : " Look, what kind of spin is this? They just want to get you hooked in the DM and try to butter you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390677755193192,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.015342582017183304
+      },
+      {
+        "id" : 47,
+        "seek" : 26120,
+        "start" : 266.48,
+        "end" : 273.12,
+        "text" : " upper. I don't know what try to spin you around. Just just release the block. I don't want to talk to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390677755193192,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.015342582017183304
+      },
+      {
+        "id" : 48,
+        "seek" : 26120,
+        "start" : 273.12,
+        "end" : 279.28,
+        "text" : " ultra music festivals. Social media guy. He's got so he goes, I go, it's too late. We already took",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390677755193192,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.015342582017183304
+      },
+      {
+        "id" : 49,
+        "seek" : 26120,
+        "start" : 279.28,
+        "end" : 283.2,
+        "text" : " down the video and cut that part out. Check who manages your copyright because they're doing an awful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390677755193192,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.015342582017183304
+      },
+      {
+        "id" : 50,
+        "seek" : 26120,
+        "start" : 283.2,
+        "end" : 288.24,
+        "text" : " job. Ultra aggressive and bad fate. What's the point of viral marketing if you block it when people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16390677755193192,
+        "compression_ratio" : 1.6129032258064515,
+        "no_speech_prob" : 0.015342582017183304
+      },
+      {
+        "id" : 51,
+        "seek" : 28824,
+        "start" : 288.24,
+        "end" : 294.24,
+        "text" : " talk about it? He says, this was auto flat by content ID from YouTube, not us. We are anti-sendership.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14904989198196766,
+        "compression_ratio" : 1.703448275862069,
+        "no_speech_prob" : 0.013116092421114445
+      },
+      {
+        "id" : 52,
+        "seek" : 28824,
+        "start" : 294.24,
+        "end" : 298.72,
+        "text" : " Okay, stop there. I absolutely know what I'm talking about. Okay, there's no such thing as YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14904989198196766,
+        "compression_ratio" : 1.703448275862069,
+        "no_speech_prob" : 0.013116092421114445
+      },
+      {
+        "id" : 53,
+        "seek" : 28824,
+        "start" : 298.72,
+        "end" : 304.08,
+        "text" : " system auto blocking. You set the settings. You set everything. You said how much of your original",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14904989198196766,
+        "compression_ratio" : 1.703448275862069,
+        "no_speech_prob" : 0.013116092421114445
+      },
+      {
+        "id" : 54,
+        "seek" : 28824,
+        "start" : 304.08,
+        "end" : 310.16,
+        "text" : " video people use to block. You set what to happen when you match it. So you clearly had it set",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14904989198196766,
+        "compression_ratio" : 1.703448275862069,
+        "no_speech_prob" : 0.013116092421114445
+      },
+      {
+        "id" : 55,
+        "seek" : 28824,
+        "start" : 310.16,
+        "end" : 317.12,
+        "text" : " because this was two minutes of a two hour episode. You clearly had it set to 1% or less anything.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14904989198196766,
+        "compression_ratio" : 1.703448275862069,
+        "no_speech_prob" : 0.013116092421114445
+      },
+      {
+        "id" : 56,
+        "seek" : 31712,
+        "start" : 317.12,
+        "end" : 321.68,
+        "text" : " And you had it set to automatically block. YouTube does not do that without you putting in the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15151428661758093,
+        "compression_ratio" : 1.7643504531722054,
+        "no_speech_prob" : 0.00425200117751956
+      },
+      {
+        "id" : 57,
+        "seek" : 31712,
+        "start" : 321.68,
+        "end" : 327.28,
+        "text" : " parameters. Unlike the term tables and digits up there with the knobs, you cannot turn and spin me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15151428661758093,
+        "compression_ratio" : 1.7643504531722054,
+        "no_speech_prob" : 0.00425200117751956
+      },
+      {
+        "id" : 58,
+        "seek" : 31712,
+        "start" : 327.28,
+        "end" : 333.04,
+        "text" : " The only thing getting turned is my stomach when a KFC's chicken nugs because it makes me have diarrhea.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15151428661758093,
+        "compression_ratio" : 1.7643504531722054,
+        "no_speech_prob" : 0.00425200117751956
+      },
+      {
+        "id" : 59,
+        "seek" : 31712,
+        "start" : 333.04,
+        "end" : 337.04,
+        "text" : " That's the only thing that makes me spin. So many cities set it to auto block and set the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15151428661758093,
+        "compression_ratio" : 1.7643504531722054,
+        "no_speech_prob" : 0.00425200117751956
+      },
+      {
+        "id" : 60,
+        "seek" : 31712,
+        "start" : 337.04,
+        "end" : 340.88,
+        "text" : " rules on what percentage of the video was used. The clip made up one to two minutes of a two hour",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15151428661758093,
+        "compression_ratio" : 1.7643504531722054,
+        "no_speech_prob" : 0.00425200117751956
+      },
+      {
+        "id" : 61,
+        "seek" : 31712,
+        "start" : 340.88,
+        "end" : 345.84,
+        "text" : " podcast so the automation must have been set to any percentage and block. So either you set that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15151428661758093,
+        "compression_ratio" : 1.7643504531722054,
+        "no_speech_prob" : 0.00425200117751956
+      },
+      {
+        "id" : 62,
+        "seek" : 34584,
+        "start" : 345.84,
+        "end" : 349.92,
+        "text" : " or Weber's managing copy right there. He says, well, definitely looking to this. Thanks for that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206710301912748,
+        "compression_ratio" : 1.5465587044534412,
+        "no_speech_prob" : 0.008609898388385773
+      },
+      {
+        "id" : 63,
+        "seek" : 34584,
+        "start" : 349.92,
+        "end" : 353.68,
+        "text" : " heads up. Again, can't message you because you aren't following but we'll love this discuss further.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206710301912748,
+        "compression_ratio" : 1.5465587044534412,
+        "no_speech_prob" : 0.008609898388385773
+      },
+      {
+        "id" : 64,
+        "seek" : 34584,
+        "start" : 355.6,
+        "end" : 360.96,
+        "text" : " Bro, you got one option. Well, it's already too late. That's the point really. But when he",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206710301912748,
+        "compression_ratio" : 1.5465587044534412,
+        "no_speech_prob" : 0.008609898388385773
+      },
+      {
+        "id" : 65,
+        "seek" : 34584,
+        "start" : 362.32,
+        "end" : 368.96,
+        "text" : " dropped the block, that's it. That's all you do. Drop the coin. Why do I need to talk to you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206710301912748,
+        "compression_ratio" : 1.5465587044534412,
+        "no_speech_prob" : 0.008609898388385773
+      },
+      {
+        "id" : 66,
+        "seek" : 36896,
+        "start" : 369.92,
+        "end" : 374.0,
+        "text" : " Try to spin me, dude. Get the fuck out of my mentions. Bitch.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16546207250550735,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.048052042722702026
+      },
+      {
+        "id" : 67,
+        "seek" : 36896,
+        "start" : 375.52,
+        "end" : 382.4,
+        "text" : " The thesis of this, if I can draw a conclusion, is that we YouTubers are under fire recently.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16546207250550735,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.048052042722702026
+      },
+      {
+        "id" : 68,
+        "seek" : 36896,
+        "start" : 382.4,
+        "end" : 389.2,
+        "text" : " Copyright is such a bitch everywhere from article 13 in Europe and now with these bots and these",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16546207250550735,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.048052042722702026
+      },
+      {
+        "id" : 69,
+        "seek" : 36896,
+        "start" : 389.2,
+        "end" : 393.2,
+        "text" : " companies running a muck on YouTube thinking that they can do whatever they want and they can get",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16546207250550735,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.048052042722702026
+      },
+      {
+        "id" : 70,
+        "seek" : 39320,
+        "start" : 393.2,
+        "end" : 399.44,
+        "text" : " away with whatever they want. And we need to remember that you do not drop ads from YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19711408200471298,
+        "compression_ratio" : 1.545816733067729,
+        "no_speech_prob" : 0.01594736985862255
+      },
+      {
+        "id" : 71,
+        "seek" : 39320,
+        "start" : 399.44,
+        "end" : 406.56,
+        "text" : " We drop you. So all the gamers who want to rise up with me, type hashtag KFD in the future or KF",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19711408200471298,
+        "compression_ratio" : 1.545816733067729,
+        "no_speech_prob" : 0.01594736985862255
+      },
+      {
+        "id" : 72,
+        "seek" : 39320,
+        "start" : 406.56,
+        "end" : 414.16,
+        "text" : " douchebag, KF diarrhea, KFD. That's what I'll read up there. Ultra, more like hashtag lame law.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19711408200471298,
+        "compression_ratio" : 1.545816733067729,
+        "no_speech_prob" : 0.01594736985862255
+      },
+      {
+        "id" : 73,
+        "seek" : 39320,
+        "start" : 414.72,
+        "end" : 420.32,
+        "text" : " I got to work on that one admittedly. I wasn't that good. And by the way, KFC chill out. Have a bucket",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19711408200471298,
+        "compression_ratio" : 1.545816733067729,
+        "no_speech_prob" : 0.01594736985862255
+      },
+      {
+        "id" : 74,
+        "seek" : 42032,
+        "start" : 420.32,
+        "end" : 426.24,
+        "text" : " of chicken and relax, dude. This viral marketing thing is stupid. It's too much from douchebag",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41233750331548996,
+        "compression_ratio" : 1.3966480446927374,
+        "no_speech_prob" : 0.007380734663456678
+      },
+      {
+        "id" : 75,
+        "seek" : 42032,
+        "start" : 426.24,
+        "end" : 433.44,
+        "text" : " sanders to a kernel bobblehead here. I got to give it a rast. It's just chicken, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41233750331548996,
+        "compression_ratio" : 1.3966480446927374,
+        "no_speech_prob" : 0.007380734663456678
+      },
+      {
+        "id" : 76,
+        "seek" : 42032,
+        "start" : 437.76,
+        "end" : 444.16,
+        "text" : " KFD, KFD's nuts. Wow, he's been great move. He's got a lot of people.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41233750331548996,
+        "compression_ratio" : 1.3966480446927374,
+        "no_speech_prob" : 0.007380734663456678
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "steamy_id" : "boxing-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "mvarshavski",
+        "ijomha"
+      ],
+      "name" : "Doctor Mike's unsportsman early punch on iDubbbz",
+      "won" : true
+    },
+    {
+      "person_id" : [
+      ],
+      "name" : "Ryan Taylor headbutts DKmoney",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mwatson",
+        "nbarnett"
+      ],
+      "name" : "Matt Watson gets beat up by Dad",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "yerakat",
+        "dolatunji"
+      ],
+      "name" : "Fousey Vs Deji",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom"
+      ],
+      "name" : "Austin McBroom knocked down five times",
+      "won" : false
+    }
+  ],
+  "name" : "Worst Influencer Boxing Match Moment",
+  "description" : null,
+  "year" : 2022
+}

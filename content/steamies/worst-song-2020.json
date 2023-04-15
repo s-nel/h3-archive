@@ -1,0 +1,36 @@
+{
+  "steamy_id" : "worst-song-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "ddamelio"
+      ],
+      "name" : "“One Day”",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "ddamelio"
+      ],
+      "name" : "“Roommates”",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jpaul"
+      ],
+      "name" : "“Fresh out of London”",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jpayne"
+      ],
+      "name" : "“The Tok”",
+      "won" : false
+    }
+  ],
+  "name" : "Worst Influencer Song",
+  "description" : null,
+  "year" : 2020
+}

@@ -1,0 +1,12 @@
+{
+  "person_id" : null,
+  "category" : "crew",
+  "first_name" : "Sam",
+  "last_name" : "Temple",
+  "display_name" : "Sam",
+  "thumb" : "/people/stemple.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

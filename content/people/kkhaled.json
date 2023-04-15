@@ -1,0 +1,13 @@
+{
+  "person_id" : "kkhaled",
+  "category" : "lore",
+  "first_name" : "Khaled",
+  "last_name" : "Khaled",
+  "display_name" : "DJ Khaled",
+  "thumb" : "/people/kkhaled.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

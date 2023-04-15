@@ -1,0 +1,44 @@
+{
+  "event_id" : "spotify:episode:4wyZrxXSP1RUEazEL2JIY7",
+  "category" : "podcast",
+  "name" : "#165 - K-pop Stans Cancel Us On Twitter",
+  "description" : "<p>On this episode of The H3 Podcast we have a #h3h3isoverparty!!! Join us as we celebrate the end of the podcast a the hands of k-pop fans, discuss Papa finally blessing us, discuss eating fine art, hype up the new Jesus Christ FPS, and a whole lot more!</p> <p><a href=\"https://twitter.com/h3h3productions/status/1203096482758311936\" rel=\"nofollow\">Papa John sends H3 a message</a></p> <p><a href=\"https://gizmodo.com/elon-musk-hits-traffic-pylon-with-new-cybertruck-after-1840307783\" rel=\"nofollow\"> Elon Musk Hits Traffic Pylon With New Cybertruck After Dinner in Malibu</a></p> <p><a href=\"https://youtu.be/2gQLDdSy2cU\" rel=\"nofollow\">I Am Jesus Christ trailer</a></p> <p><a href=\"https://www.youtube.com/watch?v&#61;LyF3qg4ZqRg\" rel=\"nofollow\">Steve Harvey Messed Up Again On Live TV</a></p> <p><a href=\"https://youtu.be/EvegBo4TUdQ\" rel=\"nofollow\">Original mess up on TV</a></p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/4wyZrxXSP1RUEazEL2JIY7"
+    }
+  ],
+  "start_date" : 1576022400000,
+  "duration" : 6276884,
+  "people" : [
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "jschnatter",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

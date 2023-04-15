@@ -1,0 +1,146 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlBxOW5jVnlPdWFN",
+  "category" : "video",
+  "name" : "windmill exe ft. Tim Henderson from Grand Illusions [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/Pq9ncVyOuaM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Pq9ncVyOuaM"
+    }
+  ],
+  "start_date" : 1400679408000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.0,
+        "text" : " I've asked a friend of mine, Clive Panta to come along and demonstrate something.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36797345069146925,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.14872923493385315
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 8.0,
+        "text" : " It's a lung capacity tester.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36797345069146925,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.14872923493385315
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 10.0,
+        "text" : " Just blow.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36797345069146925,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.14872923493385315
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 15.0,
+        "text" : " Very hard and see if you can get this windmill to go around.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36797345069146925,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.14872923493385315
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 15.0,
+        "end" : 17.0,
+        "text" : " Oh yes, yes, yes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36797345069146925,
+        "compression_ratio" : 1.3333333333333333,
+        "no_speech_prob" : 0.14872923493385315
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 46.0,
+        "text" : " But you've got to blow very hard, give it a try Tim.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3220402611626519,
+        "compression_ratio" : 1.1388888888888888,
+        "no_speech_prob" : 0.06365048140287399
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 46.0,
+        "end" : 50.0,
+        "text" : " Well, it's made of brass, not quality, but I'll have a go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3220402611626519,
+        "compression_ratio" : 1.1388888888888888,
+        "no_speech_prob" : 0.06365048140287399
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 50.0,
+        "end" : 53.0,
+        "text" : " Here we go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3220402611626519,
+        "compression_ratio" : 1.1388888888888888,
+        "no_speech_prob" : 0.06365048140287399
+      },
+      {
+        "id" : 8,
+        "seek" : 5300,
+        "start" : 53.0,
+        "end" : 55.0,
+        "text" : " Oh, oh.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.9761692228771391,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.43717160820961
+      },
+      {
+        "id" : 9,
+        "seek" : 5300,
+        "start" : 65.0,
+        "end" : 67.0,
+        "text" : " Ah, oh, oh, oh, oh, oh.",
+        "temperature" : 0.2,
+        "avg_logprob" : -0.9761692228771391,
+        "compression_ratio" : 1.4761904761904763,
+        "no_speech_prob" : 0.43717160820961
+      }
+    ]
+  }
+}

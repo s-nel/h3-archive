@@ -1,0 +1,13 @@
+{
+  "person_id" : "dwallace",
+  "category" : "guest",
+  "first_name" : "D'Angelo",
+  "last_name" : "Wallace",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

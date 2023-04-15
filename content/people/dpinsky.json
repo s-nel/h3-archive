@@ -1,0 +1,12 @@
+{
+  "person_id" : "dpinsky",
+  "category" : "guest",
+  "first_name" : "David",
+  "last_name" : "Pinsky",
+  "display_name" : "Dr. Drew",
+  "thumb" : "/people/dpinsky.jpg",
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

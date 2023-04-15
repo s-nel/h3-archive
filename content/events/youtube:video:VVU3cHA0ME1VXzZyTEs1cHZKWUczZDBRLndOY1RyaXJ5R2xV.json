@@ -1,0 +1,729 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLndOY1RyaXJ5R2xV",
+  "category" : "video",
+  "name" : "Stuck in a swamp with ALLIGATORS",
+  "description" : "Hila insists that we go find alligators\n\nWatch the Ethan and Hila Playlist --►https://goo.gl/rn5oht\n\nFacebook..................►https://facebook.com/H3h3productions\nHila's Twitter..............►https://twitter.com/hilakleinh3\nEthan's Twitter..........►https://twitter.com/h3h3productions\nInstagram.................►http://instagram.com/h3h3productions\nHila's Instragram....►https://www.instagram.com/kleinhila\nSpreadshirt...............►http://h3h3productions.spreadshirt.com\nHila's Art....................►http://hilaklein.com\nSubreddit..................►http://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.",
+  "thumb" : "https://i.ytimg.com/vi/wNcTriryGlU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/wNcTriryGlU"
+    }
+  ],
+  "start_date" : 1468790547000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.56,
+        "text" : " Another beautiful day down here at Elando. We have one and a half hours to explore the historic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28485820843623233,
+        "compression_ratio" : 1.582995951417004,
+        "no_speech_prob" : 0.024414317682385445
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.56,
+        "end" : 13.28,
+        "text" : " Gatorland and lucky for us free parking today. According to that sign that has a permanent",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28485820843623233,
+        "compression_ratio" : 1.582995951417004,
+        "no_speech_prob" : 0.024414317682385445
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 13.28,
+        "end" : 17.28,
+        "text" : " paint stroke over it. So that's definitely just today.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28485820843623233,
+        "compression_ratio" : 1.582995951417004,
+        "no_speech_prob" : 0.024414317682385445
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 24.48,
+        "text" : " Elow was really wanted to see a Gator. She wanted to get attacked by a Gator in our",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28485820843623233,
+        "compression_ratio" : 1.582995951417004,
+        "no_speech_prob" : 0.024414317682385445
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 24.48,
+        "end" : 28.48,
+        "text" : " previous golf lug so... It wasn't a Gator, it was a rabbit, okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28485820843623233,
+        "compression_ratio" : 1.582995951417004,
+        "no_speech_prob" : 0.024414317682385445
+      },
+      {
+        "id" : 5,
+        "seek" : 2848,
+        "start" : 28.48,
+        "end" : 33.84,
+        "text" : " I wanted to be a Gator. Who am I to deny her that the promise of being eaten alive?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2703206804063585,
+        "compression_ratio" : 1.4870466321243523,
+        "no_speech_prob" : 3.4413987305015326E-4
+      },
+      {
+        "id" : 6,
+        "seek" : 2848,
+        "start" : 35.36,
+        "end" : 42.56,
+        "text" : " So we are headed off to Gatorland to see if we can't have a close encounter. If I can't rest,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2703206804063585,
+        "compression_ratio" : 1.4870466321243523,
+        "no_speech_prob" : 3.4413987305015326E-4
+      },
+      {
+        "id" : 7,
+        "seek" : 2848,
+        "start" : 42.56,
+        "end" : 48.72,
+        "text" : " if I can't save either by rastling with a Gator. Here's the entrance, dude. It's a giant Gator's mouth.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2703206804063585,
+        "compression_ratio" : 1.4870466321243523,
+        "no_speech_prob" : 3.4413987305015326E-4
+      },
+      {
+        "id" : 8,
+        "seek" : 2848,
+        "start" : 48.72,
+        "end" : 50.72,
+        "text" : " Doug!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2703206804063585,
+        "compression_ratio" : 1.4870466321243523,
+        "no_speech_prob" : 3.4413987305015326E-4
+      },
+      {
+        "id" : 9,
+        "seek" : 5848,
+        "start" : 59.28,
+        "end" : 64.8,
+        "text" : " Is that...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5502203025069892,
+        "compression_ratio" : 1.3865546218487395,
+        "no_speech_prob" : 0.03863244131207466
+      },
+      {
+        "id" : 10,
+        "seek" : 5848,
+        "start" : 72.16,
+        "end" : 78.16,
+        "text" : " Is that... Norm MacDonald? Oh my god, it's Norm MacDonald.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5502203025069892,
+        "compression_ratio" : 1.3865546218487395,
+        "no_speech_prob" : 0.03863244131207466
+      },
+      {
+        "id" : 11,
+        "seek" : 5848,
+        "start" : 78.16,
+        "end" : 83.84,
+        "text" : " Restling the Gator? Yeah, I knew he was having hard times. I knew he was having trouble getting",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5502203025069892,
+        "compression_ratio" : 1.3865546218487395,
+        "no_speech_prob" : 0.03863244131207466
+      },
+      {
+        "id" : 12,
+        "seek" : 8384,
+        "start" : 83.84,
+        "end" : 89.12,
+        "text" : " work but not. Norm MacDonald seriously did. You can get better jobs at wrestling Gators,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2714330343375529,
+        "compression_ratio" : 1.5665529010238908,
+        "no_speech_prob" : 0.039331529289484024
+      },
+      {
+        "id" : 13,
+        "seek" : 8384,
+        "start" : 89.12,
+        "end" : 94.24,
+        "text" : " and you're comedian. You've been in a lot of good stuff. It looks exactly like that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2714330343375529,
+        "compression_ratio" : 1.5665529010238908,
+        "no_speech_prob" : 0.039331529289484024
+      },
+      {
+        "id" : 14,
+        "seek" : 8384,
+        "start" : 94.24,
+        "end" : 99.12,
+        "text" : " Skye, get this out to Norm MacDonald. I want to... If he needs work, did I help him out? I'll hire him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2714330343375529,
+        "compression_ratio" : 1.5665529010238908,
+        "no_speech_prob" : 0.039331529289484024
+      },
+      {
+        "id" : 15,
+        "seek" : 8384,
+        "start" : 99.12,
+        "end" : 103.68,
+        "text" : " I'd love to work with Norm. You don't have to wrestle Gator's, Doug. Damn, they just piled in there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2714330343375529,
+        "compression_ratio" : 1.5665529010238908,
+        "no_speech_prob" : 0.039331529289484024
+      },
+      {
+        "id" : 16,
+        "seek" : 8384,
+        "start" : 103.68,
+        "end" : 109.2,
+        "text" : " Look at this. They're very friendly. This is Gatorland. They play country music.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2714330343375529,
+        "compression_ratio" : 1.5665529010238908,
+        "no_speech_prob" : 0.039331529289484024
+      },
+      {
+        "id" : 17,
+        "seek" : 10920,
+        "start" : 110.0,
+        "end" : 115.12,
+        "text" : " How does their birds just chilling in the Gator pit? They can say something about Gators and captivity.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4050482045049253,
+        "compression_ratio" : 1.6518218623481782,
+        "no_speech_prob" : 0.03019375540316105
+      },
+      {
+        "id" : 18,
+        "seek" : 10920,
+        "start" : 115.76,
+        "end" : 121.44,
+        "text" : " Dude, these Gators are pussy. Norm MacDonald, we need... You're doing way too good a job",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4050482045049253,
+        "compression_ratio" : 1.6518218623481782,
+        "no_speech_prob" : 0.03019375540316105
+      },
+      {
+        "id" : 19,
+        "seek" : 10920,
+        "start" : 121.44,
+        "end" : 126.08,
+        "text" : " of pacifying these Gators, Norm. He's stepping on it. They're in their friends.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4050482045049253,
+        "compression_ratio" : 1.6518218623481782,
+        "no_speech_prob" : 0.03019375540316105
+      },
+      {
+        "id" : 20,
+        "seek" : 10920,
+        "start" : 127.04,
+        "end" : 131.12,
+        "text" : " They get it to make friends with birds. They do? It says food.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4050482045049253,
+        "compression_ratio" : 1.6518218623481782,
+        "no_speech_prob" : 0.03019375540316105
+      },
+      {
+        "id" : 21,
+        "seek" : 10920,
+        "start" : 131.12,
+        "end" : 135.44,
+        "text" : " Dude, Dr. Seuss, the one of these Gators are just like totally jubilant.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4050482045049253,
+        "compression_ratio" : 1.6518218623481782,
+        "no_speech_prob" : 0.03019375540316105
+      },
+      {
+        "id" : 22,
+        "seek" : 13544,
+        "start" : 136.08,
+        "end" : 141.04,
+        "text" : " Did they get food? They just chill. I wonder what he's thinking about. You know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3175080844334194,
+        "compression_ratio" : 1.5853658536585367,
+        "no_speech_prob" : 0.056539542973041534
+      },
+      {
+        "id" : 23,
+        "seek" : 13544,
+        "start" : 142.88,
+        "end" : 147.84,
+        "text" : " Do you think I wonder if they like country music? Look, the water's rip open.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3175080844334194,
+        "compression_ratio" : 1.5853658536585367,
+        "no_speech_prob" : 0.056539542973041534
+      },
+      {
+        "id" : 24,
+        "seek" : 13544,
+        "start" : 149.04,
+        "end" : 154.48,
+        "text" : " One sparse crapping or swindling with fucking Gators. That's it. He wanted to come here,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3175080844334194,
+        "compression_ratio" : 1.5853658536585367,
+        "no_speech_prob" : 0.056539542973041534
+      },
+      {
+        "id" : 25,
+        "seek" : 13544,
+        "start" : 154.48,
+        "end" : 160.08,
+        "text" : " remember that. I can't decide if this is Gator Hell or Gator Heaven. You know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3175080844334194,
+        "compression_ratio" : 1.5853658536585367,
+        "no_speech_prob" : 0.056539542973041534
+      },
+      {
+        "id" : 26,
+        "seek" : 13544,
+        "start" : 160.08,
+        "end" : 163.52,
+        "text" : " Yeah. What do you think? Probably hell.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3175080844334194,
+        "compression_ratio" : 1.5853658536585367,
+        "no_speech_prob" : 0.056539542973041534
+      },
+      {
+        "id" : 27,
+        "seek" : 16352,
+        "start" : 163.6,
+        "end" : 168.8,
+        "text" : " Gator Hell, huh? They're a hunter. They get country music.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31088285860808,
+        "compression_ratio" : 1.5096153846153846,
+        "no_speech_prob" : 0.009331714361906052
+      },
+      {
+        "id" : 28,
+        "seek" : 16352,
+        "start" : 174.0,
+        "end" : 180.08,
+        "text" : " Man, this is definitely his Gator Hell right here. What? I was unsure, but now I'm sure.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31088285860808,
+        "compression_ratio" : 1.5096153846153846,
+        "no_speech_prob" : 0.009331714361906052
+      },
+      {
+        "id" : 29,
+        "seek" : 16352,
+        "start" : 181.44,
+        "end" : 185.04,
+        "text" : " Man, well those white Gators are just... They can't catch a break in this world, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31088285860808,
+        "compression_ratio" : 1.5096153846153846,
+        "no_speech_prob" : 0.009331714361906052
+      },
+      {
+        "id" : 30,
+        "seek" : 16352,
+        "start" : 185.04,
+        "end" : 189.28,
+        "text" : " They're all getting chained up and shit. Persecuted based on their Gator color.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31088285860808,
+        "compression_ratio" : 1.5096153846153846,
+        "no_speech_prob" : 0.009331714361906052
+      },
+      {
+        "id" : 31,
+        "seek" : 18928,
+        "start" : 189.92,
+        "end" : 195.44,
+        "text" : " Damn, dawg. Good white you got to hate on the white Gators, man. They're all locked up in here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22043369497571672,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.018451711162924767
+      },
+      {
+        "id" : 32,
+        "seek" : 18928,
+        "start" : 195.44,
+        "end" : 200.64,
+        "text" : " Look at this shit. They can't even chill with each other. This Gator is way too big for this cell, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22043369497571672,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.018451711162924767
+      },
+      {
+        "id" : 33,
+        "seek" : 18928,
+        "start" : 202.08,
+        "end" : 207.04,
+        "text" : " Dude, we need white Gator rights in this zoom and this is not right. This is not right. Dude,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22043369497571672,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.018451711162924767
+      },
+      {
+        "id" : 34,
+        "seek" : 18928,
+        "start" : 207.04,
+        "end" : 214.64,
+        "text" : " what's going on here? I wonder if they... No, there's no way they keep... How did they lift",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22043369497571672,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.018451711162924767
+      },
+      {
+        "id" : 35,
+        "seek" : 21464,
+        "start" : 214.72,
+        "end" : 220.24,
+        "text" : " there? I don't know. This is not right. We need to talk to the white Gator Association about protectant",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26718214740903357,
+        "compression_ratio" : 1.650375939849624,
+        "no_speech_prob" : 0.01612178236246109
+      },
+      {
+        "id" : 36,
+        "seek" : 21464,
+        "start" : 220.24,
+        "end" : 224.64,
+        "text" : " these... This is... It looks like he's staring at me, isn't it? He knows I'm the one that can get the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26718214740903357,
+        "compression_ratio" : 1.650375939849624,
+        "no_speech_prob" : 0.01612178236246109
+      },
+      {
+        "id" : 37,
+        "seek" : 21464,
+        "start" : 224.64,
+        "end" : 231.12,
+        "text" : " message out to help them. Just injustice, dude. Not right. This is honestly a green Gator's world.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26718214740903357,
+        "compression_ratio" : 1.650375939849624,
+        "no_speech_prob" : 0.01612178236246109
+      },
+      {
+        "id" : 38,
+        "seek" : 21464,
+        "start" : 231.12,
+        "end" : 234.64,
+        "text" : " There's no room for a white Gator in this world. We'll sit up a part tie, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26718214740903357,
+        "compression_ratio" : 1.650375939849624,
+        "no_speech_prob" : 0.01612178236246109
+      },
+      {
+        "id" : 39,
+        "seek" : 21464,
+        "start" : 236.8,
+        "end" : 238.88,
+        "text" : " Man, they're all locked up in here. Look at this shit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26718214740903357,
+        "compression_ratio" : 1.650375939849624,
+        "no_speech_prob" : 0.01612178236246109
+      },
+      {
+        "id" : 40,
+        "seek" : 23888,
+        "start" : 239.84,
+        "end" : 245.04,
+        "text" : " Shit, I already got a style. You're nice. He knows I'm the one that can get the message out to help them.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30749679792045365,
+        "compression_ratio" : 1.562753036437247,
+        "no_speech_prob" : 0.056184615939855576
+      },
+      {
+        "id" : 41,
+        "seek" : 23888,
+        "start" : 245.6,
+        "end" : 251.12,
+        "text" : " This definitely is Gator's world right here. This looks like horrible. I hate to go to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30749679792045365,
+        "compression_ratio" : 1.562753036437247,
+        "no_speech_prob" : 0.056184615939855576
+      },
+      {
+        "id" : 42,
+        "seek" : 23888,
+        "start" : 251.12,
+        "end" : 257.04,
+        "text" : " fucking walking through this. Yeah. No thanks, dude. Probably can make it like two minutes.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30749679792045365,
+        "compression_ratio" : 1.562753036437247,
+        "no_speech_prob" : 0.056184615939855576
+      },
+      {
+        "id" : 43,
+        "seek" : 23888,
+        "start" : 257.04,
+        "end" : 261.76,
+        "text" : " Seriously, I would die in two minutes. I'm scared just walking on this elevator beam in a theme park.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30749679792045365,
+        "compression_ratio" : 1.562753036437247,
+        "no_speech_prob" : 0.056184615939855576
+      },
+      {
+        "id" : 44,
+        "seek" : 26176,
+        "start" : 261.84,
+        "end" : 264.8,
+        "text" : " So this is what you want, Adela. Go adventure, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25574606716042697,
+        "compression_ratio" : 1.5291479820627802,
+        "no_speech_prob" : 0.01967587135732174
+      },
+      {
+        "id" : 45,
+        "seek" : 26176,
+        "start" : 266.8,
+        "end" : 272.4,
+        "text" : " I'm done. You're done? The Gator dreams done. Now that you've come to Gator Hellenner,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25574606716042697,
+        "compression_ratio" : 1.5291479820627802,
+        "no_speech_prob" : 0.01967587135732174
+      },
+      {
+        "id" : 46,
+        "seek" : 26176,
+        "start" : 273.52,
+        "end" : 278.32,
+        "text" : " I like that we read about this Gator place. They says you need a half day. You need like four or five",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25574606716042697,
+        "compression_ratio" : 1.5291479820627802,
+        "no_speech_prob" : 0.01967587135732174
+      },
+      {
+        "id" : 47,
+        "seek" : 26176,
+        "start" : 278.32,
+        "end" : 285.76,
+        "text" : " hours. I only need a 10 minutes. I'm fucking out of here. This is just not hospitalable for people.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25574606716042697,
+        "compression_ratio" : 1.5291479820627802,
+        "no_speech_prob" : 0.01967587135732174
+      },
+      {
+        "id" : 48,
+        "seek" : 28576,
+        "start" : 285.76,
+        "end" : 293.68,
+        "text" : " This is Gator country right here. Gators and snakes. No thank you, dude. And cockroaches.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16607716965348754,
+        "compression_ratio" : 1.5602409638554218,
+        "no_speech_prob" : 0.0023947502486407757
+      },
+      {
+        "id" : 49,
+        "seek" : 28576,
+        "start" : 295.52,
+        "end" : 301.2,
+        "text" : " Huge 10 feet long cockroaches. They've eaten the snakes. They've battled for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16607716965348754,
+        "compression_ratio" : 1.5602409638554218,
+        "no_speech_prob" : 0.0023947502486407757
+      },
+      {
+        "id" : 50,
+        "seek" : 28576,
+        "start" : 301.2,
+        "end" : 307.28,
+        "text" : " for supremacy. I've heard of huge cockroaches eating the Gators. Let's go back. Let's go for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16607716965348754,
+        "compression_ratio" : 1.5602409638554218,
+        "no_speech_prob" : 0.0023947502486407757
+      },
+      {
+        "id" : 51,
+        "seek" : 30728,
+        "start" : 307.28,
+        "end" : 311.6,
+        "text" : " adventure fourth bravely, dude. Oh god. Oh god.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.613919792175293,
+        "compression_ratio" : 1.0151515151515151,
+        "no_speech_prob" : 0.05879148468375206
+      },
+      {
+        "id" : 52,
+        "seek" : 30728,
+        "start" : 319.04,
+        "end" : 320.56,
+        "text" : " Help! Is this safe?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.613919792175293,
+        "compression_ratio" : 1.0151515151515151,
+        "no_speech_prob" : 0.05879148468375206
+      },
+      {
+        "id" : 53,
+        "seek" : 32056,
+        "start" : 320.56,
+        "end" : 322.24,
+        "text" : " Yeah.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41237931502492803,
+        "compression_ratio" : 1.3428571428571427,
+        "no_speech_prob" : 0.020459888502955437
+      },
+      {
+        "id" : 54,
+        "seek" : 32056,
+        "start" : 333.84,
+        "end" : 342.8,
+        "text" : " I'm done with Gators. You asked. This was you. You wanted this. You kept talking about Gators.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41237931502492803,
+        "compression_ratio" : 1.3428571428571427,
+        "no_speech_prob" : 0.020459888502955437
+      },
+      {
+        "id" : 55,
+        "seek" : 32056,
+        "start" : 343.76,
+        "end" : 349.04,
+        "text" : " Okay, got it. Dude, there's country music in there everywhere. That's how you know it's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41237931502492803,
+        "compression_ratio" : 1.3428571428571427,
+        "no_speech_prob" : 0.020459888502955437
+      },
+      {
+        "id" : 56,
+        "seek" : 34904,
+        "start" : 349.04,
+        "end" : 355.2,
+        "text" : " Gator country and that's how you know you're at Gatorland. Genuine alligator.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976619759384467,
+        "compression_ratio" : 1.580188679245283,
+        "no_speech_prob" : 0.010459682904183865
+      },
+      {
+        "id" : 57,
+        "seek" : 34904,
+        "start" : 356.08,
+        "end" : 361.44,
+        "text" : " Alligators head is only worth $40. What the fuck are they doing to these Gators? Dude,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976619759384467,
+        "compression_ratio" : 1.580188679245283,
+        "no_speech_prob" : 0.010459682904183865
+      },
+      {
+        "id" : 58,
+        "seek" : 34904,
+        "start" : 361.44,
+        "end" : 366.4,
+        "text" : " this is Gator Hellenner. Oh my god. Where do they get all these Gator heads? Dude,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976619759384467,
+        "compression_ratio" : 1.580188679245283,
+        "no_speech_prob" : 0.010459682904183865
+      },
+      {
+        "id" : 59,
+        "seek" : 34904,
+        "start" : 370.48,
+        "end" : 374.88,
+        "text" : " there's a little babies. Dude, they never had a chance. They just cut their head off to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976619759384467,
+        "compression_ratio" : 1.580188679245283,
+        "no_speech_prob" : 0.010459682904183865
+      },
+      {
+        "id" : 60,
+        "seek" : 37488,
+        "start" : 374.88,
+        "end" : 384.0,
+        "text" : " selling for $20. Don't even get me started with the white Gators, okay. This is in a part tied theme park.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4269498288631439,
+        "compression_ratio" : 1.0707070707070707,
+        "no_speech_prob" : 7.142741815187037E-4
+      },
+      {
+        "id" : 61,
+        "seek" : 38400,
+        "start" : 384.32,
+        "end" : 405.44,
+        "text" : " I wonder if you drink Spud Wiser.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7221245084490094,
+        "compression_ratio" : 0.8048780487804879,
+        "no_speech_prob" : 0.011432575061917305
+      },
+      {
+        "id" : 62,
+        "seek" : 40544,
+        "start" : 405.44,
+        "end" : 419.04,
+        "text" : " God bless America.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9672042982918876,
+        "compression_ratio" : 0.6923076923076923,
+        "no_speech_prob" : 0.07342857867479324
+      }
+    ]
+  }
+}

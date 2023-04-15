@@ -1,0 +1,13 @@
+{
+  "person_id" : "bwurtz",
+  "category" : "guest",
+  "first_name" : "Bill",
+  "last_name" : "Wurtz",
+  "display_name" : null,
+  "thumb" : "/people/bwurtz.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

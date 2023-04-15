@@ -1,0 +1,751 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLjlPcW8tWW1jWWZB",
+  "category" : "video",
+  "name" : "Beach Pranks with Ethan Slamberry -- h3h3 reaction video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/9Oqo-YmcYfA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/9Oqo-YmcYfA"
+    }
+  ],
+  "start_date" : 1465766130000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.32,
+        "text" : " Today guys we are back with another",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35422227042061943,
+        "compression_ratio" : 1.2407407407407407,
+        "no_speech_prob" : 0.061512526124715805
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.68,
+        "end" : 9.86,
+        "text" : " Bradbury classic and if you don't know what a slam and Bradbury meme is well, let me introduce you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35422227042061943,
+        "compression_ratio" : 1.2407407407407407,
+        "no_speech_prob" : 0.061512526124715805
+      },
+      {
+        "id" : 2,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 32.0,
+        "text" : " Wow",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5409144674028669,
+        "compression_ratio" : 1.3227848101265822,
+        "no_speech_prob" : 0.10389125347137451
+      },
+      {
+        "id" : 3,
+        "seek" : 3000,
+        "start" : 49.2,
+        "end" : 53.32,
+        "text" : " So guys I'm Bradbury I'm Ethan Bradbury. Hey, what's up beach Miami today",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5409144674028669,
+        "compression_ratio" : 1.3227848101265822,
+        "no_speech_prob" : 0.10389125347137451
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 53.32,
+        "end" : 59.3,
+        "text" : " We're gonna be asking random strangers to help us put sunscreen on our back. They do they know we got a deep surprise for them baby",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5409144674028669,
+        "compression_ratio" : 1.3227848101265822,
+        "no_speech_prob" : 0.10389125347137451
+      },
+      {
+        "id" : 5,
+        "seek" : 6000,
+        "start" : 60.16,
+        "end" : 64.0,
+        "text" : " Good video. Dude a deep surprise by Ethan Slambury. Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4077658136206937,
+        "compression_ratio" : 1.5463917525773196,
+        "no_speech_prob" : 0.0037657723296433687
+      },
+      {
+        "id" : 6,
+        "seek" : 6000,
+        "start" : 65.48,
+        "end" : 71.72,
+        "text" : " Shit, oh shit. I better set up for this. We've got deep surprises on deck. All right, let me straighten up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4077658136206937,
+        "compression_ratio" : 1.5463917525773196,
+        "no_speech_prob" : 0.0037657723296433687
+      },
+      {
+        "id" : 7,
+        "seek" : 6000,
+        "start" : 72.2,
+        "end" : 75.2,
+        "text" : " You never know to expect from a deep surprise from Ethan Slambury",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4077658136206937,
+        "compression_ratio" : 1.5463917525773196,
+        "no_speech_prob" : 0.0037657723296433687
+      },
+      {
+        "id" : 8,
+        "seek" : 6000,
+        "start" : 82.68,
+        "end" : 85.72,
+        "text" : " All right guys, this is a prank or is this some fucking gay fetish shit?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4077658136206937,
+        "compression_ratio" : 1.5463917525773196,
+        "no_speech_prob" : 0.0037657723296433687
+      },
+      {
+        "id" : 9,
+        "seek" : 8572,
+        "start" : 85.72,
+        "end" : 89.48,
+        "text" : " I mean come on dogs. I'm not trying to like watch you guys get some exercise here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29897584915161135,
+        "compression_ratio" : 1.4768211920529801,
+        "no_speech_prob" : 0.010627351701259613
+      },
+      {
+        "id" : 10,
+        "seek" : 8572,
+        "start" : 89.48,
+        "end" : 94.36,
+        "text" : " I get it. I know how the holes get dubbed dude. These are just trying to like pad more time on their prank",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29897584915161135,
+        "compression_ratio" : 1.4768211920529801,
+        "no_speech_prob" : 0.010627351701259613
+      },
+      {
+        "id" : 11,
+        "seek" : 8572,
+        "start" : 102.76,
+        "end" : 105.56,
+        "text" : " It was at this moment she knew she",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.29897584915161135,
+        "compression_ratio" : 1.4768211920529801,
+        "no_speech_prob" : 0.010627351701259613
+      },
+      {
+        "id" : 12,
+        "seek" : 10556,
+        "start" : 105.88,
+        "end" : 107.88,
+        "text" : " Hey",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36657985742541327,
+        "compression_ratio" : 1.6975308641975309,
+        "no_speech_prob" : 0.02328474633395672
+      },
+      {
+        "id" : 13,
+        "seek" : 10556,
+        "start" : 112.92,
+        "end" : 119.84,
+        "text" : " Hey guys, I'm starting my new prank channel. It's called tumbled down the Bradbury hole featuring slide whistle sound effect",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36657985742541327,
+        "compression_ratio" : 1.6975308641975309,
+        "no_speech_prob" : 0.02328474633395672
+      },
+      {
+        "id" : 14,
+        "seek" : 10556,
+        "start" : 122.16,
+        "end" : 126.48,
+        "text" : " Hey guys, please join my news prank channel. It's called tumbling down the Bradbury hole",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36657985742541327,
+        "compression_ratio" : 1.6975308641975309,
+        "no_speech_prob" : 0.02328474633395672
+      },
+      {
+        "id" : 15,
+        "seek" : 10556,
+        "start" : 126.92,
+        "end" : 129.92,
+        "text" : " Frugging all your favorite all-timey comedy sound effects",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36657985742541327,
+        "compression_ratio" : 1.6975308641975309,
+        "no_speech_prob" : 0.02328474633395672
+      },
+      {
+        "id" : 16,
+        "seek" : 13556,
+        "start" : 135.56,
+        "end" : 137.56,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9123337128583122,
+        "compression_ratio" : 0.9152542372881356,
+        "no_speech_prob" : 0.1335914433002472
+      },
+      {
+        "id" : 17,
+        "seek" : 13556,
+        "start" : 144.56,
+        "end" : 147.04,
+        "text" : " You think I'll put the sunscreen on my back please",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9123337128583122,
+        "compression_ratio" : 0.9152542372881356,
+        "no_speech_prob" : 0.1335914433002472
+      },
+      {
+        "id" : 18,
+        "seek" : 16556,
+        "start" : 165.56,
+        "end" : 167.56,
+        "text" : " Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41478597200833833,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.04889518395066261
+      },
+      {
+        "id" : 19,
+        "seek" : 16556,
+        "start" : 168.12,
+        "end" : 171.88,
+        "text" : " And you they tumbled her ass so fucking hard dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41478597200833833,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.04889518395066261
+      },
+      {
+        "id" : 20,
+        "seek" : 16556,
+        "start" : 171.88,
+        "end" : 177.48,
+        "text" : " I haven't seen a tumble like that since grandma fell down the stairs. Excuse me. Can you help me rub this lotion on my back?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41478597200833833,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.04889518395066261
+      },
+      {
+        "id" : 21,
+        "seek" : 16556,
+        "start" : 188.68,
+        "end" : 191.2,
+        "text" : " Excuse me can you help me rub this lotion on my back?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41478597200833833,
+        "compression_ratio" : 1.5714285714285714,
+        "no_speech_prob" : 0.04889518395066261
+      },
+      {
+        "id" : 22,
+        "seek" : 19120,
+        "start" : 192.04,
+        "end" : 194.04,
+        "text" : " Excuse me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3009639955916495,
+        "compression_ratio" : 1.5483870967741935,
+        "no_speech_prob" : 0.005221270956099033
+      },
+      {
+        "id" : 23,
+        "seek" : 19120,
+        "start" : 194.04,
+        "end" : 196.04,
+        "text" : " Can you help me rub this on my back?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3009639955916495,
+        "compression_ratio" : 1.5483870967741935,
+        "no_speech_prob" : 0.005221270956099033
+      },
+      {
+        "id" : 24,
+        "seek" : 19120,
+        "start" : 206.04,
+        "end" : 208.8,
+        "text" : " It was at this moment she knew she",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3009639955916495,
+        "compression_ratio" : 1.5483870967741935,
+        "no_speech_prob" : 0.005221270956099033
+      },
+      {
+        "id" : 25,
+        "seek" : 19120,
+        "start" : 213.64,
+        "end" : 220.72,
+        "text" : " Was at this moment she knew when she had decided to help out a stranger in need of help that she had fucked up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3009639955916495,
+        "compression_ratio" : 1.5483870967741935,
+        "no_speech_prob" : 0.005221270956099033
+      },
+      {
+        "id" : 26,
+        "seek" : 22120,
+        "start" : 221.2,
+        "end" : 226.04,
+        "text" : " The lesson boys and girls never help a stranger because you will topple down the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35357529440043883,
+        "compression_ratio" : 1.4669811320754718,
+        "no_speech_prob" : 0.004391384311020374
+      },
+      {
+        "id" : 27,
+        "seek" : 22120,
+        "start" : 228.68,
+        "end" : 232.4,
+        "text" : " My god, that was a lot louder than I expected",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35357529440043883,
+        "compression_ratio" : 1.4669811320754718,
+        "no_speech_prob" : 0.004391384311020374
+      },
+      {
+        "id" : 28,
+        "seek" : 22120,
+        "start" : 233.12,
+        "end" : 240.24,
+        "text" : " Oh my god the power of Ethan Brad where it just overtook me. I didn't know it's capable of dropping a slamming meme that hard",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35357529440043883,
+        "compression_ratio" : 1.4669811320754718,
+        "no_speech_prob" : 0.004391384311020374
+      },
+      {
+        "id" : 29,
+        "seek" : 22120,
+        "start" : 240.24,
+        "end" : 244.48,
+        "text" : " I won't lie. This is definitely me when I'm Ethan Bradbury",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.35357529440043883,
+        "compression_ratio" : 1.4669811320754718,
+        "no_speech_prob" : 0.004391384311020374
+      },
+      {
+        "id" : 30,
+        "seek" : 25120,
+        "start" : 251.24,
+        "end" : 258.2,
+        "text" : " The moral of the story don't help strangers. That's the moral of the story to feel good tail with a happy ending where everybody regrets helping the strangers",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2612683410644531,
+        "compression_ratio" : 1.759493670886076,
+        "no_speech_prob" : 0.012421694584190845
+      },
+      {
+        "id" : 31,
+        "seek" : 25120,
+        "start" : 258.32,
+        "end" : 264.12,
+        "text" : " Not only did they tumble their ass down the slamberry hole, but they clickbait this shit out of these girls",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2612683410644531,
+        "compression_ratio" : 1.759493670886076,
+        "no_speech_prob" : 0.012421694584190845
+      },
+      {
+        "id" : 32,
+        "seek" : 25120,
+        "start" : 264.12,
+        "end" : 268.68,
+        "text" : " They're like let's find the hottest cutie and the least amount of clothes just fucking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2612683410644531,
+        "compression_ratio" : 1.759493670886076,
+        "no_speech_prob" : 0.012421694584190845
+      },
+      {
+        "id" : 33,
+        "seek" : 25120,
+        "start" : 269.2,
+        "end" : 272.96,
+        "text" : " Paint all over our YouTube channel look at their thumbnail look at this thumbnail dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2612683410644531,
+        "compression_ratio" : 1.759493670886076,
+        "no_speech_prob" : 0.012421694584190845
+      },
+      {
+        "id" : 34,
+        "seek" : 25120,
+        "start" : 273.24,
+        "end" : 279.08,
+        "text" : " He just slammed buried that girl's ass here. You know what the thumbnails pretty good, but it can use a little work",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2612683410644531,
+        "compression_ratio" : 1.759493670886076,
+        "no_speech_prob" : 0.012421694584190845
+      },
+      {
+        "id" : 35,
+        "seek" : 27908,
+        "start" : 279.32,
+        "end" : 281.32,
+        "text" : " Let me help you guys out a little bit here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30239508702204776,
+        "compression_ratio" : 1.6334661354581674,
+        "no_speech_prob" : 0.006957448553293943
+      },
+      {
+        "id" : 36,
+        "seek" : 27908,
+        "start" : 281.96,
+        "end" : 283.96,
+        "text" : " There you go. That's a perfect thumbnail",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30239508702204776,
+        "compression_ratio" : 1.6334661354581674,
+        "no_speech_prob" : 0.006957448553293943
+      },
+      {
+        "id" : 37,
+        "seek" : 27908,
+        "start" : 284.84,
+        "end" : 287.6,
+        "text" : " So not only are you gonna get slam buried down the meme hole?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30239508702204776,
+        "compression_ratio" : 1.6334661354581674,
+        "no_speech_prob" : 0.006957448553293943
+      },
+      {
+        "id" : 38,
+        "seek" : 27908,
+        "start" : 287.84,
+        "end" : 295.32,
+        "text" : " You're gonna you're about you're about 200,000 12-year-olds are gonna jerk off to your ass in the thumbnail and want their year old you know what I'm saying",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30239508702204776,
+        "compression_ratio" : 1.6334661354581674,
+        "no_speech_prob" : 0.006957448553293943
+      },
+      {
+        "id" : 39,
+        "seek" : 27908,
+        "start" : 300.08,
+        "end" : 304.2,
+        "text" : " Thank you guys for watching this video. Hope you guys really really enjoyed that we had so much fun filming",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30239508702204776,
+        "compression_ratio" : 1.6334661354581674,
+        "no_speech_prob" : 0.006957448553293943
+      },
+      {
+        "id" : 40,
+        "seek" : 30420,
+        "start" : 304.2,
+        "end" : 309.32,
+        "text" : " You bet we did what the fuck Ethan Bradbury is so insane",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32341788425918455,
+        "compression_ratio" : 1.853046594982079,
+        "no_speech_prob" : 0.12147072702646255
+      },
+      {
+        "id" : 41,
+        "seek" : 30420,
+        "start" : 310.52,
+        "end" : 312.28,
+        "text" : " What is this he's doing?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32341788425918455,
+        "compression_ratio" : 1.853046594982079,
+        "no_speech_prob" : 0.12147072702646255
+      },
+      {
+        "id" : 42,
+        "seek" : 30420,
+        "start" : 312.28,
+        "end" : 316.48,
+        "text" : " He's doing some like alpha intimidation plan his own brother while they're making a video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32341788425918455,
+        "compression_ratio" : 1.853046594982079,
+        "no_speech_prob" : 0.12147072702646255
+      },
+      {
+        "id" : 43,
+        "seek" : 30420,
+        "start" : 316.48,
+        "end" : 320.96,
+        "text" : " Thank you guys watching this video. Hope you guys really really enjoyed that we had so much fun filming you video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32341788425918455,
+        "compression_ratio" : 1.853046594982079,
+        "no_speech_prob" : 0.12147072702646255
+      },
+      {
+        "id" : 44,
+        "seek" : 30420,
+        "start" : 320.96,
+        "end" : 326.8,
+        "text" : " Matt we did like this is Ethan Bradbury on screen when they're trying to work and be productive and most like dog",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32341788425918455,
+        "compression_ratio" : 1.853046594982079,
+        "no_speech_prob" : 0.12147072702646255
+      },
+      {
+        "id" : 45,
+        "seek" : 30420,
+        "start" : 326.8,
+        "end" : 332.24,
+        "text" : " I'm trying to work and make us a living remember and Ethan Bradbury down here like alpha intimidating his own brother",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.32341788425918455,
+        "compression_ratio" : 1.853046594982079,
+        "no_speech_prob" : 0.12147072702646255
+      },
+      {
+        "id" : 46,
+        "seek" : 33224,
+        "start" : 332.24,
+        "end" : 336.28,
+        "text" : " It's so much fun filming you bet we did are you angry at mo?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 47,
+        "seek" : 33224,
+        "start" : 336.28,
+        "end" : 341.92,
+        "text" : " Ethan he's trying to work for you. He's the responsible one trying to like do work. What is he doing?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 48,
+        "seek" : 33224,
+        "start" : 341.92,
+        "end" : 346.28,
+        "text" : " Thank you guys for watching this video. Hope you guys really really enjoyed that we had so much fun filming you video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 49,
+        "seek" : 33224,
+        "start" : 346.28,
+        "end" : 348.28,
+        "text" : " Matt we did",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 50,
+        "seek" : 33224,
+        "start" : 348.28,
+        "end" : 350.36,
+        "text" : " You guys want to watch the behind the scenes quick right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 51,
+        "seek" : 33224,
+        "start" : 350.36,
+        "end" : 357.44,
+        "text" : " I can sense even mo is a little terrified of his own brother like that's fucked up dude when you're like terrified of your own",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 52,
+        "seek" : 33224,
+        "start" : 357.72,
+        "end" : 360.76,
+        "text" : " Freaky dead in the eyes unpredictable brother",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3796604449932392,
+        "compression_ratio" : 1.760942760942761,
+        "no_speech_prob" : 0.025125917047262192
+      },
+      {
+        "id" : 53,
+        "seek" : 36076,
+        "start" : 361.64,
+        "end" : 364.72,
+        "text" : " I feel bad for mo to be honest. I feel like mo is the sweet guy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33690643310546875,
+        "compression_ratio" : 1.6734693877551021,
+        "no_speech_prob" : 0.01589764468371868
+      },
+      {
+        "id" : 54,
+        "seek" : 36076,
+        "start" : 364.72,
+        "end" : 368.6,
+        "text" : " He's like carrying on the family Ethan Bradbury. He's just fucking dropping slams",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33690643310546875,
+        "compression_ratio" : 1.6734693877551021,
+        "no_speech_prob" : 0.01589764468371868
+      },
+      {
+        "id" : 55,
+        "seek" : 36076,
+        "start" : 369.2,
+        "end" : 372.48,
+        "text" : " He's dropping this Ethan this Ethan he's dropping",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33690643310546875,
+        "compression_ratio" : 1.6734693877551021,
+        "no_speech_prob" : 0.01589764468371868
+      },
+      {
+        "id" : 56,
+        "seek" : 36076,
+        "start" : 374.76,
+        "end" : 379.52,
+        "text" : " And Mo is just trying to carry the torch and take care of the family you bet we did",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33690643310546875,
+        "compression_ratio" : 1.6734693877551021,
+        "no_speech_prob" : 0.01589764468371868
+      },
+      {
+        "id" : 57,
+        "seek" : 36076,
+        "start" : 380.28,
+        "end" : 383.6,
+        "text" : " Why would you see that to your sweet brother mo?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33690643310546875,
+        "compression_ratio" : 1.6734693877551021,
+        "no_speech_prob" : 0.01589764468371868
+      },
+      {
+        "id" : 58,
+        "seek" : 39076,
+        "start" : 391.32,
+        "end" : 398.24,
+        "text" : " You guys fucking ask for it. I said please subscribe. I said please like which one of you disliked my video by the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3344906358157887,
+        "compression_ratio" : 1.496969696969697,
+        "no_speech_prob" : 0.07495852559804916
+      },
+      {
+        "id" : 59,
+        "seek" : 39076,
+        "start" : 398.44,
+        "end" : 403.08,
+        "text" : " Because I saw someone disliked it. So I just want to was this not enough for you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3344906358157887,
+        "compression_ratio" : 1.496969696969697,
+        "no_speech_prob" : 0.07495852559804916
+      },
+      {
+        "id" : 60,
+        "seek" : 39076,
+        "start" : 414.84,
+        "end" : 416.96,
+        "text" : " Can you help me rub rub this lotion on my back?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3344906358157887,
+        "compression_ratio" : 1.496969696969697,
+        "no_speech_prob" : 0.07495852559804916
+      },
+      {
+        "id" : 61,
+        "seek" : 41696,
+        "start" : 416.96,
+        "end" : 418.96,
+        "text" : " Can you help me rub this on my back?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7724831444876534,
+        "compression_ratio" : 1.015625,
+        "no_speech_prob" : 0.03687215968966484
+      },
+      {
+        "id" : 62,
+        "seek" : 41696,
+        "start" : 418.96,
+        "end" : 420.96,
+        "text" : " No, use me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7724831444876534,
+        "compression_ratio" : 1.015625,
+        "no_speech_prob" : 0.03687215968966484
+      },
+      {
+        "id" : 63,
+        "seek" : 41696,
+        "start" : 420.96,
+        "end" : 422.96,
+        "text" : " Use me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7724831444876534,
+        "compression_ratio" : 1.015625,
+        "no_speech_prob" : 0.03687215968966484
+      },
+      {
+        "id" : 64,
+        "seek" : 41696,
+        "start" : 422.96,
+        "end" : 424.96,
+        "text" : " Oh my lord",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7724831444876534,
+        "compression_ratio" : 1.015625,
+        "no_speech_prob" : 0.03687215968966484
+      }
+    ]
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLlowTUppV0VZVUJj",
+  "category" : "video",
+  "name" : "Ethan and Hila in Las Vegas",
+  "description" : "We try our luck in Vegas, homeless or millionaire.",
+  "thumb" : "https://i.ytimg.com/vi/Z0MJiWEYUBc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Z0MJiWEYUBc"
+    }
+  ],
+  "start_date" : 1432188326000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.68,
+        "text" : " It comes with a balcony dude look at this beautiful balcony dude. It didn't breed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3739865325218023,
+        "compression_ratio" : 1.6736842105263159,
+        "no_speech_prob" : 0.16344958543777466
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 5.68,
+        "end" : 11.32,
+        "text" : " that it came with a balcony. Damn it's so nice dude look it opens up both doors open.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3739865325218023,
+        "compression_ratio" : 1.6736842105263159,
+        "no_speech_prob" : 0.16344958543777466
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 11.32,
+        "end" : 17.96,
+        "text" : " Well anyway it's okay you don't it's too spacious you don't need both sides",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3739865325218023,
+        "compression_ratio" : 1.6736842105263159,
+        "no_speech_prob" : 0.16344958543777466
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 17.96,
+        "end" : 26.72,
+        "text" : " I'm not greedy. It's so nice too we should. Yeah yeah well a whole foot we",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3739865325218023,
+        "compression_ratio" : 1.6736842105263159,
+        "no_speech_prob" : 0.16344958543777466
+      },
+      {
+        "id" : 4,
+        "seek" : 2672,
+        "start" : 26.72,
+        "end" : 32.4,
+        "text" : " can have coffee and cigarettes and the scenery is breathtaking. I mean here you've",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3552687849317278,
+        "compression_ratio" : 1.5126582278481013,
+        "no_speech_prob" : 0.009009369648993015
+      },
+      {
+        "id" : 5,
+        "seek" : 2672,
+        "start" : 32.4,
+        "end" : 37.76,
+        "text" : " got the massive heating ducts and they're really loud you can hear them all day",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3552687849317278,
+        "compression_ratio" : 1.5126582278481013,
+        "no_speech_prob" : 0.009009369648993015
+      },
+      {
+        "id" : 6,
+        "seek" : 2672,
+        "start" : 37.76,
+        "end" : 46.08,
+        "text" : " and night on this beautiful scenic balcony. We're even wandering around here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3552687849317278,
+        "compression_ratio" : 1.5126582278481013,
+        "no_speech_prob" : 0.009009369648993015
+      },
+      {
+        "id" : 7,
+        "seek" : 4608,
+        "start" : 47.04,
+        "end" : 56.28,
+        "text" : " five five hours. Please send help guys we don't know how to get out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2738964175000603,
+        "compression_ratio" : 1.497560975609756,
+        "no_speech_prob" : 0.015741070732474327
+      },
+      {
+        "id" : 8,
+        "seek" : 4608,
+        "start" : 58.48,
+        "end" : 62.32,
+        "text" : " I just want to say congratulations on me for winning ten point four million",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2738964175000603,
+        "compression_ratio" : 1.497560975609756,
+        "no_speech_prob" : 0.015741070732474327
+      },
+      {
+        "id" : 9,
+        "seek" : 4608,
+        "start" : 62.32,
+        "end" : 66.76,
+        "text" : " dollars. This is going to be really life-changing. We're going to put 20 bucks in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2738964175000603,
+        "compression_ratio" : 1.497560975609756,
+        "no_speech_prob" : 0.015741070732474327
+      },
+      {
+        "id" : 10,
+        "seek" : 4608,
+        "start" : 66.76,
+        "end" : 71.92,
+        "text" : " here and if this if we don't win I'm gonna be in big trouble because this is our",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2738964175000603,
+        "compression_ratio" : 1.497560975609756,
+        "no_speech_prob" : 0.015741070732474327
+      },
+      {
+        "id" : 11,
+        "seek" : 7192,
+        "start" : 71.92,
+        "end" : 77.28,
+        "text" : " last 20 so I really need us to win now but oh man it's gonna be great this is it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28403521451083097,
+        "compression_ratio" : 1.6244897959183673,
+        "no_speech_prob" : 0.007911217398941517
+      },
+      {
+        "id" : 12,
+        "seek" : 7192,
+        "start" : 77.28,
+        "end" : 81.84,
+        "text" : " it all comes down to this guys. Are we gonna be homeless or millionaires? It's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28403521451083097,
+        "compression_ratio" : 1.6244897959183673,
+        "no_speech_prob" : 0.007911217398941517
+      },
+      {
+        "id" : 13,
+        "seek" : 7192,
+        "start" : 81.84,
+        "end" : 91.76,
+        "text" : " fifty-fifths chance right? Hey we just won ten bucks dude. We can cash out now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28403521451083097,
+        "compression_ratio" : 1.6244897959183673,
+        "no_speech_prob" : 0.007911217398941517
+      },
+      {
+        "id" : 14,
+        "seek" : 7192,
+        "start" : 91.76,
+        "end" : 96.76,
+        "text" : " we can cut our losses now and we only be down four dollars but you know what that's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28403521451083097,
+        "compression_ratio" : 1.6244897959183673,
+        "no_speech_prob" : 0.007911217398941517
+      },
+      {
+        "id" : 15,
+        "seek" : 7192,
+        "start" : 96.76,
+        "end" : 100.28,
+        "text" : " not what the Meg bucks is about. Yeah this is our only chance to eat a meal",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.28403521451083097,
+        "compression_ratio" : 1.6244897959183673,
+        "no_speech_prob" : 0.007911217398941517
+      },
+      {
+        "id" : 16,
+        "seek" : 10028,
+        "start" : 100.28,
+        "end" : 104.4,
+        "text" : " before we go completely homeless and have to put on our camera but you know what",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43311215685559556,
+        "compression_ratio" : 1.5670103092783505,
+        "no_speech_prob" : 0.00849992223083973
+      },
+      {
+        "id" : 17,
+        "seek" : 10028,
+        "start" : 104.4,
+        "end" : 110.44,
+        "text" : " right the only narrow or homeless that's my club three.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43311215685559556,
+        "compression_ratio" : 1.5670103092783505,
+        "no_speech_prob" : 0.00849992223083973
+      },
+      {
+        "id" : 18,
+        "seek" : 10028,
+        "start" : 113.56,
+        "end" : 121.4,
+        "text" : " Also our money we sold some of Ely's jewelry. Wasn't really important just some",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43311215685559556,
+        "compression_ratio" : 1.5670103092783505,
+        "no_speech_prob" : 0.00849992223083973
+      },
+      {
+        "id" : 19,
+        "seek" : 10028,
+        "start" : 121.4,
+        "end" : 126.16,
+        "text" : " stuff of her mom's that she gave her for our wedding and stuff also Ely's wedding ring.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43311215685559556,
+        "compression_ratio" : 1.5670103092783505,
+        "no_speech_prob" : 0.00849992223083973
+      },
+      {
+        "id" : 20,
+        "seek" : 12616,
+        "start" : 126.16,
+        "end" : 130.76,
+        "text" : " Not it's nothing that's gonna you know change our lives so we got a couple",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20072938575119267,
+        "compression_ratio" : 1.7961538461538462,
+        "no_speech_prob" : 0.03001837618649006
+      },
+      {
+        "id" : 21,
+        "seek" : 12616,
+        "start" : 130.76,
+        "end" : 134.24,
+        "text" : " dollars and we're gonna get some ten dollar prime rib and play bingo and I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20072938575119267,
+        "compression_ratio" : 1.7961538461538462,
+        "no_speech_prob" : 0.03001837618649006
+      },
+      {
+        "id" : 22,
+        "seek" : 12616,
+        "start" : 134.24,
+        "end" : 137.56,
+        "text" : " feeling really lucky about the bingo. I think we're gonna win big so I'll check",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20072938575119267,
+        "compression_ratio" : 1.7961538461538462,
+        "no_speech_prob" : 0.03001837618649006
+      },
+      {
+        "id" : 23,
+        "seek" : 12616,
+        "start" : 137.56,
+        "end" : 142.08,
+        "text" : " it with you guys when we get there and feeling good. I feel like our luck is",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20072938575119267,
+        "compression_ratio" : 1.7961538461538462,
+        "no_speech_prob" : 0.03001837618649006
+      },
+      {
+        "id" : 24,
+        "seek" : 12616,
+        "start" : 142.08,
+        "end" : 147.2,
+        "text" : " about the change over here and Las Vegas. We're gonna win big first year. I hear",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20072938575119267,
+        "compression_ratio" : 1.7961538461538462,
+        "no_speech_prob" : 0.03001837618649006
+      },
+      {
+        "id" : 25,
+        "seek" : 12616,
+        "start" : 147.2,
+        "end" : 150.52,
+        "text" : " all the time about people getting rich from playing bingo. It's crazy dude it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20072938575119267,
+        "compression_ratio" : 1.7961538461538462,
+        "no_speech_prob" : 0.03001837618649006
+      },
+      {
+        "id" : 26,
+        "seek" : 15052,
+        "start" : 150.52,
+        "end" : 162.16,
+        "text" : " happens every day. It's too low man. Oh no it's okay actually. Alright. We lost",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3280920876397027,
+        "compression_ratio" : 1.631578947368421,
+        "no_speech_prob" : 0.06320004910230637
+      },
+      {
+        "id" : 27,
+        "seek" : 15052,
+        "start" : 162.16,
+        "end" : 169.64,
+        "text" : " guys. It's over. We're heading to that lot now to spend the night and but I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3280920876397027,
+        "compression_ratio" : 1.631578947368421,
+        "no_speech_prob" : 0.06320004910230637
+      },
+      {
+        "id" : 28,
+        "seek" : 15052,
+        "start" : 169.64,
+        "end" : 174.96,
+        "text" : " enjoyed the steak as you can see the steak was good. You know that like about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3280920876397027,
+        "compression_ratio" : 1.631578947368421,
+        "no_speech_prob" : 0.06320004910230637
+      },
+      {
+        "id" : 29,
+        "seek" : 15052,
+        "start" : 174.96,
+        "end" : 179.72,
+        "text" : " the Chabin? Thank you. You know what I like about the Chabin talk is like if",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3280920876397027,
+        "compression_ratio" : 1.631578947368421,
+        "no_speech_prob" : 0.06320004910230637
+      },
+      {
+        "id" : 30,
+        "seek" : 17972,
+        "start" : 179.72,
+        "end" : 184.36,
+        "text" : " you just walk if you just present yourself like this you're that guy. Like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997698332134046,
+        "compression_ratio" : 1.8425196850393701,
+        "no_speech_prob" : 0.008744122460484505
+      },
+      {
+        "id" : 31,
+        "seek" : 17972,
+        "start" : 184.36,
+        "end" : 188.0,
+        "text" : " people just say oh that's someone who trep and tucks and they don't think twice",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997698332134046,
+        "compression_ratio" : 1.8425196850393701,
+        "no_speech_prob" : 0.008744122460484505
+      },
+      {
+        "id" : 32,
+        "seek" : 17972,
+        "start" : 188.0,
+        "end" : 192.92,
+        "text" : " about it. It's just like oh he's one he's that guy you know. Right now I'm that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997698332134046,
+        "compression_ratio" : 1.8425196850393701,
+        "no_speech_prob" : 0.008744122460484505
+      },
+      {
+        "id" : 33,
+        "seek" : 17972,
+        "start" : 192.92,
+        "end" : 197.08,
+        "text" : " guy and people don't they don't know me right so they don't they don't",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997698332134046,
+        "compression_ratio" : 1.8425196850393701,
+        "no_speech_prob" : 0.008744122460484505
+      },
+      {
+        "id" : 34,
+        "seek" : 17972,
+        "start" : 197.08,
+        "end" : 202.24,
+        "text" : " understand what's happening. Now I pull I took out. I'm using normal dude. I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997698332134046,
+        "compression_ratio" : 1.8425196850393701,
+        "no_speech_prob" : 0.008744122460484505
+      },
+      {
+        "id" : 35,
+        "seek" : 17972,
+        "start" : 202.24,
+        "end" : 208.6,
+        "text" : " Ethan now all of a sudden. Once you tuck in dude. Do you tuck in? I'm just that guy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23997698332134046,
+        "compression_ratio" : 1.8425196850393701,
+        "no_speech_prob" : 0.008744122460484505
+      },
+      {
+        "id" : 36,
+        "seek" : 20860,
+        "start" : 208.6,
+        "end" : 218.68,
+        "text" : " dude. I'm like Keith. He's home guys. Nice party at the back. We did lose",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24283036398231436,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.024499425664544106
+      },
+      {
+        "id" : 37,
+        "seek" : 20860,
+        "start" : 218.68,
+        "end" : 223.0,
+        "text" : " however we are joking having fun stuff but we did lose so. Hey guys we're back",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24283036398231436,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.024499425664544106
+      },
+      {
+        "id" : 38,
+        "seek" : 20860,
+        "start" : 223.0,
+        "end" : 227.28,
+        "text" : " from Las Vegas. We made it back. We had to pawn our camera on force so that we",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24283036398231436,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.024499425664544106
+      },
+      {
+        "id" : 39,
+        "seek" : 20860,
+        "start" : 227.28,
+        "end" : 233.16,
+        "text" : " had a really some really bad luck there on the slot but we made it back. My",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24283036398231436,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.024499425664544106
+      },
+      {
+        "id" : 40,
+        "seek" : 20860,
+        "start" : 233.16,
+        "end" : 237.88,
+        "text" : " parents gave us a little bit of money for a bus ticket. I lost my shirt too. I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24283036398231436,
+        "compression_ratio" : 1.6218487394957983,
+        "no_speech_prob" : 0.024499425664544106
+      },
+      {
+        "id" : 41,
+        "seek" : 23788,
+        "start" : 237.88,
+        "end" : 243.28,
+        "text" : " used that as collateral but luckily we got a friend's house and he's letting",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.322372777838456,
+        "compression_ratio" : 1.5315315315315314,
+        "no_speech_prob" : 0.020156122744083405
+      },
+      {
+        "id" : 42,
+        "seek" : 23788,
+        "start" : 243.28,
+        "end" : 249.16,
+        "text" : " us stay here. It's really nice. It's pretty nice out here. Let me show you guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.322372777838456,
+        "compression_ratio" : 1.5315315315315314,
+        "no_speech_prob" : 0.020156122744083405
+      },
+      {
+        "id" : 43,
+        "seek" : 23788,
+        "start" : 249.16,
+        "end" : 255.28,
+        "text" : " around. It's not that bad you know. I picked the phone camera will work out. We'll get back on our feet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.322372777838456,
+        "compression_ratio" : 1.5315315315315314,
+        "no_speech_prob" : 0.020156122744083405
+      },
+      {
+        "id" : 44,
+        "seek" : 23788,
+        "start" : 255.28,
+        "end" : 263.04,
+        "text" : " You know what I mean? Hey, can you spare some change? Okay. Hey God bless you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.322372777838456,
+        "compression_ratio" : 1.5315315315315314,
+        "no_speech_prob" : 0.020156122744083405
+      },
+      {
+        "id" : 45,
+        "seek" : 26304,
+        "start" : 263.04,
+        "end" : 268.56,
+        "text" : " Okay. Anyway that's Isaac. He's a really nice guy. Really happy to be here. Let's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2702043834485506,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.3333880305290222
+      },
+      {
+        "id" : 46,
+        "seek" : 26304,
+        "start" : 268.56,
+        "end" : 276.0,
+        "text" : " check out the house. Okay he wants us to stay in the back yard. That's fine. He's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2702043834485506,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.3333880305290222
+      },
+      {
+        "id" : 47,
+        "seek" : 26304,
+        "start" : 276.0,
+        "end" : 282.2,
+        "text" : " that's okay. He's a really nice guy though. Isaac's helping us out a lot so I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2702043834485506,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.3333880305290222
+      },
+      {
+        "id" : 48,
+        "seek" : 26304,
+        "start" : 282.2,
+        "end" : 291.2,
+        "text" : " slept here last night. It was a little chilly but we'll get back. We'll get back",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2702043834485506,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.3333880305290222
+      },
+      {
+        "id" : 49,
+        "seek" : 29120,
+        "start" : 291.2,
+        "end" : 301.16,
+        "text" : " on our feet. So thanks guys and we'll see you next time. If you guys can spare any",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3136533807825159,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.034943170845508575
+      },
+      {
+        "id" : 50,
+        "seek" : 29120,
+        "start" : 301.16,
+        "end" : 307.0,
+        "text" : " change that would be great. If not God bless you guys and have a really good day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3136533807825159,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.034943170845508575
+      },
+      {
+        "id" : 51,
+        "seek" : 29120,
+        "start" : 307.0,
+        "end" : 310.8,
+        "text" : " Okay. Thank you everybody.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3136533807825159,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.034943170845508575
+      },
+      {
+        "id" : 52,
+        "seek" : 31080,
+        "start" : 310.8,
+        "end" : 324.32,
+        "text" : " Hey, can you help me? Yeah. Yeah. You got to. Oh, thank you, dude. Thank you, man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4377548053700437,
+        "compression_ratio" : 1.722543352601156,
+        "no_speech_prob" : 0.279573529958725
+      },
+      {
+        "id" : 53,
+        "seek" : 31080,
+        "start" : 324.32,
+        "end" : 328.92,
+        "text" : " I appreciate that. God bless you, Isaac. Thank you. Hey, can you spare some change?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4377548053700437,
+        "compression_ratio" : 1.722543352601156,
+        "no_speech_prob" : 0.279573529958725
+      },
+      {
+        "id" : 54,
+        "seek" : 31080,
+        "start" : 328.92,
+        "end" : 333.4,
+        "text" : " Isaac? Do you have anything like a couple of corks? Hey God bless you, Isaac. Thank",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4377548053700437,
+        "compression_ratio" : 1.722543352601156,
+        "no_speech_prob" : 0.279573529958725
+      },
+      {
+        "id" : 55,
+        "seek" : 31080,
+        "start" : 333.4,
+        "end" : 335.4,
+        "text" : " you, man. Hey, have a good night. Thanks, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4377548053700437,
+        "compression_ratio" : 1.722543352601156,
+        "no_speech_prob" : 0.279573529958725
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "mpatrello",
+  "category" : "guest",
+  "first_name" : "Madison",
+  "last_name" : "Patrello",
+  "display_name" : "Daxflame",
+  "thumb" : "/people/mpatrello.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

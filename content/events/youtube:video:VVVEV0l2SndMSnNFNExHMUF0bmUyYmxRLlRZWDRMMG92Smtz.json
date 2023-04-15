@@ -1,0 +1,421 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlRZWDRMMG92Smtz",
+  "category" : "video",
+  "name" : "Punk Rocker",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/TYX4L0ovJks/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/TYX4L0ovJks"
+    }
+  ],
+  "start_date" : 1388435285000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.6,
+        "text" : " Hey, you guys know anything about hardcore rock and roll?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44680483748273153,
+        "compression_ratio" : 1.7421052631578948,
+        "no_speech_prob" : 0.3566425144672394
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 6.52,
+        "end" : 8.32,
+        "text" : " You guys know anything about punk rock?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44680483748273153,
+        "compression_ratio" : 1.7421052631578948,
+        "no_speech_prob" : 0.3566425144672394
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.84,
+        "end" : 10.84,
+        "text" : " punk death rock scene",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44680483748273153,
+        "compression_ratio" : 1.7421052631578948,
+        "no_speech_prob" : 0.3566425144672394
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 12.16,
+        "end" : 15.5,
+        "text" : " I wrote a couple songs. I wrote a couple punk rock songs and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44680483748273153,
+        "compression_ratio" : 1.7421052631578948,
+        "no_speech_prob" : 0.3566425144672394
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 17.44,
+        "end" : 21.16,
+        "text" : " I want you to sing a little couple for you. Pretty hardcore stuff",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44680483748273153,
+        "compression_ratio" : 1.7421052631578948,
+        "no_speech_prob" : 0.3566425144672394
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 22.04,
+        "end" : 26.0,
+        "text" : " Make sure your parents are in the room because they probably want to prove this shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44680483748273153,
+        "compression_ratio" : 1.7421052631578948,
+        "no_speech_prob" : 0.3566425144672394
+      },
+      {
+        "id" : 6,
+        "seek" : 2600,
+        "start" : 27.0,
+        "end" : 31.72,
+        "text" : " Make sure your grandma's not in town because you probably have a fucking stroke",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6277421116828918,
+        "compression_ratio" : 1.4625,
+        "no_speech_prob" : 0.015401721931993961
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 35.6,
+        "end" : 37.6,
+        "text" : " You know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6277421116828918,
+        "compression_ratio" : 1.4625,
+        "no_speech_prob" : 0.015401721931993961
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 41.0,
+        "end" : 43.0,
+        "text" : " Come work",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6277421116828918,
+        "compression_ratio" : 1.4625,
+        "no_speech_prob" : 0.015401721931993961
+      },
+      {
+        "id" : 9,
+        "seek" : 2600,
+        "start" : 44.0,
+        "end" : 46.0,
+        "text" : " Don't eat vegetables",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6277421116828918,
+        "compression_ratio" : 1.4625,
+        "no_speech_prob" : 0.015401721931993961
+      },
+      {
+        "id" : 10,
+        "seek" : 2600,
+        "start" : 47.6,
+        "end" : 50.84,
+        "text" : " Mark says for four-jip underwear",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6277421116828918,
+        "compression_ratio" : 1.4625,
+        "no_speech_prob" : 0.015401721931993961
+      },
+      {
+        "id" : 11,
+        "seek" : 2600,
+        "start" : 51.2,
+        "end" : 55.24,
+        "text" : " Make sure you fold you underwear and I say Bob. I don't want to fall my underwear",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6277421116828918,
+        "compression_ratio" : 1.4625,
+        "no_speech_prob" : 0.015401721931993961
+      },
+      {
+        "id" : 12,
+        "seek" : 5524,
+        "start" : 55.24,
+        "end" : 61.2,
+        "text" : " But I have to fall my underwear if I put in the drum just gonna put it on my pants anyway. Nobody's gonna see it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.542149786221779,
+        "compression_ratio" : 1.9557522123893805,
+        "no_speech_prob" : 0.012962359003722668
+      },
+      {
+        "id" : 13,
+        "seek" : 5524,
+        "start" : 62.84,
+        "end" : 66.08,
+        "text" : " And my mom goes no, you gotta fold your underwear anything",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.542149786221779,
+        "compression_ratio" : 1.9557522123893805,
+        "no_speech_prob" : 0.012962359003722668
+      },
+      {
+        "id" : 14,
+        "seek" : 5524,
+        "start" : 66.08,
+        "end" : 69.08,
+        "text" : " You gotta fold your underwear to care for everybody's gonna see anything",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.542149786221779,
+        "compression_ratio" : 1.9557522123893805,
+        "no_speech_prob" : 0.012962359003722668
+      },
+      {
+        "id" : 15,
+        "seek" : 5524,
+        "start" : 69.32,
+        "end" : 74.76,
+        "text" : " You gotta fold it and put your door anyway. It doesn't matter. It's not the point. So the point I need to know that's full",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.542149786221779,
+        "compression_ratio" : 1.9557522123893805,
+        "no_speech_prob" : 0.012962359003722668
+      },
+      {
+        "id" : 16,
+        "seek" : 5524,
+        "start" : 74.76,
+        "end" : 76.76,
+        "text" : " I don't get my fuck",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.542149786221779,
+        "compression_ratio" : 1.9557522123893805,
+        "no_speech_prob" : 0.012962359003722668
+      },
+      {
+        "id" : 17,
+        "seek" : 5524,
+        "start" : 79.08,
+        "end" : 82.92,
+        "text" : " I don't get my fuck mom. I won't fold my underwear mom",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.542149786221779,
+        "compression_ratio" : 1.9557522123893805,
+        "no_speech_prob" : 0.012962359003722668
+      },
+      {
+        "id" : 18,
+        "seek" : 8292,
+        "start" : 83.04,
+        "end" : 87.5,
+        "text" : " You can't make me fold my underwear mom. I'll put them under draw the way I want to mom",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44836037499564035,
+        "compression_ratio" : 1.7325102880658436,
+        "no_speech_prob" : 0.00858506839722395
+      },
+      {
+        "id" : 19,
+        "seek" : 8292,
+        "start" : 87.5,
+        "end" : 91.76,
+        "text" : " I've rather spend that time playing video games mom escape boarding mom",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44836037499564035,
+        "compression_ratio" : 1.7325102880658436,
+        "no_speech_prob" : 0.00858506839722395
+      },
+      {
+        "id" : 20,
+        "seek" : 8292,
+        "start" : 93.84,
+        "end" : 98.44,
+        "text" : " Fuck that shit mom. You know, I don't like why you have to get pepperoni pizza mom",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44836037499564035,
+        "compression_ratio" : 1.7325102880658436,
+        "no_speech_prob" : 0.00858506839722395
+      },
+      {
+        "id" : 21,
+        "seek" : 8292,
+        "start" : 98.44,
+        "end" : 103.12,
+        "text" : " You don't know how you know. I don't like pepperoni mom. Why don't my kids get black olives?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44836037499564035,
+        "compression_ratio" : 1.7325102880658436,
+        "no_speech_prob" : 0.00858506839722395
+      },
+      {
+        "id" : 22,
+        "seek" : 8292,
+        "start" : 103.96,
+        "end" : 110.4,
+        "text" : " You know that I prefer black offs. Fuck the parents fuck school. Fuck the police",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44836037499564035,
+        "compression_ratio" : 1.7325102880658436,
+        "no_speech_prob" : 0.00858506839722395
+      },
+      {
+        "id" : 23,
+        "seek" : 8292,
+        "start" : 110.76,
+        "end" : 112.76,
+        "text" : " fuck",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44836037499564035,
+        "compression_ratio" : 1.7325102880658436,
+        "no_speech_prob" : 0.00858506839722395
+      },
+      {
+        "id" : 24,
+        "seek" : 11292,
+        "start" : 112.92,
+        "end" : 114.92,
+        "text" : " Death metal",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 25,
+        "seek" : 11292,
+        "start" : 114.92,
+        "end" : 120.72,
+        "text" : " I don't do homework. I get seas. I get seas. I just do enough to get past",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 26,
+        "seek" : 11292,
+        "start" : 121.8,
+        "end" : 127.04,
+        "text" : " I just do enough to get past by but I still get mediocre grades because I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 27,
+        "seek" : 11292,
+        "start" : 127.6,
+        "end" : 129.6,
+        "text" : " Relatively smart and I care just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 28,
+        "seek" : 11292,
+        "start" : 130.6,
+        "end" : 134.4,
+        "text" : " And I go fuck you mom. I don't have to do my homework",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 29,
+        "seek" : 11292,
+        "start" : 134.4,
+        "end" : 138.28,
+        "text" : " And I don't have to fold my socks with the point of falling socks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 30,
+        "seek" : 11292,
+        "start" : 138.28,
+        "end" : 141.12,
+        "text" : " That's a fucking stupid. What I left the full socks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.43196647280738465,
+        "compression_ratio" : 1.7596153846153846,
+        "no_speech_prob" : 0.0011052378686144948
+      },
+      {
+        "id" : 31,
+        "seek" : 14112,
+        "start" : 141.12,
+        "end" : 144.88,
+        "text" : " I just put them on my feet and I put them on my door. Nobody sees them. My mom goes now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5237198829650879,
+        "compression_ratio" : 1.6914285714285715,
+        "no_speech_prob" : 0.006151289213448763
+      },
+      {
+        "id" : 32,
+        "seek" : 14112,
+        "start" : 145.44,
+        "end" : 148.64,
+        "text" : " You have to forge your socks. You have to fall your socks",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5237198829650879,
+        "compression_ratio" : 1.6914285714285715,
+        "no_speech_prob" : 0.006151289213448763
+      },
+      {
+        "id" : 33,
+        "seek" : 14112,
+        "start" : 148.64,
+        "end" : 150.72,
+        "text" : " You think because you can keep your socks clean",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5237198829650879,
+        "compression_ratio" : 1.6914285714285715,
+        "no_speech_prob" : 0.006151289213448763
+      },
+      {
+        "id" : 34,
+        "seek" : 14112,
+        "start" : 151.04,
+        "end" : 156.24,
+        "text" : " It's like a man for a life man. I don't want to fold my socks because I don't care about authority man",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5237198829650879,
+        "compression_ratio" : 1.6914285714285715,
+        "no_speech_prob" : 0.006151289213448763
+      }
+    ]
+  }
+}

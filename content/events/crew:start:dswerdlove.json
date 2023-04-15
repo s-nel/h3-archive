@@ -1,0 +1,20 @@
+{
+  "event_id" : "crew:start:dswerdlove",
+  "category" : "major",
+  "name" : "Dan joins the crew",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1503792000000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "dswerdlove",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

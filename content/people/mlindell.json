@@ -1,0 +1,13 @@
+{
+  "person_id" : "mlindell",
+  "category" : "lore",
+  "first_name" : "Michael",
+  "last_name" : "Lindell",
+  "display_name" : "Mike Lindell",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

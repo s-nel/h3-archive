@@ -1,0 +1,51 @@
+{
+  "steamy_id" : "midlife-crisis-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "kwest"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dkeem"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "wsmith",
+        "jsmith2"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jbezos"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "rkavanaugh"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dwhite"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Worst Midlife Crisis",
+  "description" : null,
+  "year" : 2021
+}

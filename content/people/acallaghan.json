@@ -1,0 +1,13 @@
+{
+  "person_id" : "acallaghan",
+  "category" : "guest",
+  "first_name" : "Andrew",
+  "last_name" : "Callaghan",
+  "display_name" : null,
+  "thumb" : "/people/acallaghan.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

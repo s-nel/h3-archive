@@ -1,0 +1,201 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkFSMndPLTRqeHRV",
+  "category" : "video",
+  "name" : "Best Cure for Hemorrhoids",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/AR2wO-4jxtU/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/AR2wO-4jxtU"
+    }
+  ],
+  "start_date" : 1399669630000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.84,
+        "text" : " Guys, the best treatment for hemorrhoids is a live cucumber.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.64,
+        "end" : 5.34,
+        "text" : " Okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 6.16,
+        "end" : 7.04,
+        "text" : " Check it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 8.08,
+        "end" : 9.04,
+        "text" : " Here it is.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 9.36,
+        "end" : 11.04,
+        "text" : " It should be about the size of your thumb.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 11.04,
+        "end" : 13.84,
+        "text" : " I've got a pretty big thumb, so it should be, you know, pretty big.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 14.32,
+        "end" : 16.48,
+        "text" : " And I just want to cut off the tip.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 16.72,
+        "end" : 19.28,
+        "text" : " So you get a little nice juicy head up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 21.28,
+        "end" : 23.68,
+        "text" : " Give that little... middle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 9,
+        "seek" : 0,
+        "start" : 24.8,
+        "end" : 26.32,
+        "text" : " You know, and then you want to lube it up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4087925786557405,
+        "compression_ratio" : 1.5486725663716814,
+        "no_speech_prob" : 0.1632225066423416
+      },
+      {
+        "id" : 10,
+        "seek" : 2632,
+        "start" : 27.12,
+        "end" : 27.92,
+        "text" : " Good luck.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3500808959311627,
+        "compression_ratio" : 1.2169811320754718,
+        "no_speech_prob" : 0.0052038622088730335
+      },
+      {
+        "id" : 11,
+        "seek" : 2632,
+        "start" : 27.92,
+        "end" : 30.08,
+        "text" : " Okay, great. It's all lubed up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3500808959311627,
+        "compression_ratio" : 1.2169811320754718,
+        "no_speech_prob" : 0.0052038622088730335
+      },
+      {
+        "id" : 12,
+        "seek" : 2632,
+        "start" : 30.08,
+        "end" : 31.92,
+        "text" : " And basically it's pretty simple, guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3500808959311627,
+        "compression_ratio" : 1.2169811320754718,
+        "no_speech_prob" : 0.0052038622088730335
+      },
+      {
+        "id" : 13,
+        "seek" : 2632,
+        "start" : 31.92,
+        "end" : 32.8,
+        "text" : " You know what to do.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3500808959311627,
+        "compression_ratio" : 1.2169811320754718,
+        "no_speech_prob" : 0.0052038622088730335
+      },
+      {
+        "id" : 14,
+        "seek" : 2632,
+        "start" : 32.8,
+        "end" : 34.48,
+        "text" : " You know what comes next.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3500808959311627,
+        "compression_ratio" : 1.2169811320754718,
+        "no_speech_prob" : 0.0052038622088730335
+      }
+    ]
+  }
+}

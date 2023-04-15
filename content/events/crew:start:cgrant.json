@@ -1,0 +1,20 @@
+{
+  "event_id" : "crew:start:cgrant",
+  "category" : "major",
+  "name" : "Cam joins the crew",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1626307200000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "cgrant",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "cmanning",
+  "category" : "guest",
+  "first_name" : "Chelsea",
+  "last_name" : "Manning",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

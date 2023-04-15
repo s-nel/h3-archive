@@ -1,0 +1,13 @@
+{
+  "person_id" : "mwali",
+  "category" : "guest",
+  "first_name" : "Mohammed",
+  "last_name" : "Wali",
+  "display_name" : "Wali",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

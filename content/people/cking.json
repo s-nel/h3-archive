@@ -1,0 +1,13 @@
+{
+  "person_id" : "cking",
+  "category" : "lore",
+  "first_name" : "Carson",
+  "last_name" : "King",
+  "display_name" : "CallMeCarson",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,30 @@
+{
+  "steamy_id" : "fake-friend-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "ddobrik"
+      ],
+      "name" : "Vlog Squad",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein",
+        "tpaytas"
+      ],
+      "name" : "Frenemies",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : true
+    }
+  ],
+  "name" : "Biggest Fake Friendship",
+  "description" : null,
+  "year" : 2020
+}

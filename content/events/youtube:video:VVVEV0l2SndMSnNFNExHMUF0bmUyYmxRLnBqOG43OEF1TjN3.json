@@ -1,0 +1,784 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnBqOG43OEF1TjN3",
+  "category" : "video",
+  "name" : "YouTube's Rules Don't Apply to Everyone",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/pj8n78AuN3w/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/pj8n78AuN3w"
+    }
+  ],
+  "start_date" : 1507499180000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 7.88,
+        "text" : " Sometimes YouTube spreads its cheeks so wide. It's hard not to grab a bucket of mayonnaise and go in for a full thrust.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2529660817739126,
+        "compression_ratio" : 1.5827338129496402,
+        "no_speech_prob" : 0.040628764778375626
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.88,
+        "end" : 10.4,
+        "text" : " And today, I've been given that opportunity.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2529660817739126,
+        "compression_ratio" : 1.5827338129496402,
+        "no_speech_prob" : 0.040628764778375626
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 10.4,
+        "end" : 13.08,
+        "text" : " You guys all know about the ad-pocalypse by now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2529660817739126,
+        "compression_ratio" : 1.5827338129496402,
+        "no_speech_prob" : 0.040628764778375626
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 13.08,
+        "end" : 20.56,
+        "text" : " And in the wake of that, there's been a huge string of demonetizations, of people making way less money.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2529660817739126,
+        "compression_ratio" : 1.5827338129496402,
+        "no_speech_prob" : 0.040628764778375626
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.56,
+        "end" : 27.44,
+        "text" : " And overall, just a lot of creators and YouTubers, losing a lot of their livelihood and just getting ding left and right.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2529660817739126,
+        "compression_ratio" : 1.5827338129496402,
+        "no_speech_prob" : 0.040628764778375626
+      },
+      {
+        "id" : 5,
+        "seek" : 2744,
+        "start" : 27.44,
+        "end" : 32.88,
+        "text" : " With this piss-colored demonetization sign, they show up on your videos and that's what it feels like.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1785034266385165,
+        "compression_ratio" : 1.6889632107023411,
+        "no_speech_prob" : 0.06375062465667725
+      },
+      {
+        "id" : 6,
+        "seek" : 2744,
+        "start" : 32.88,
+        "end" : 38.16,
+        "text" : " Pist. You got pissed on your soul and now you're pissed because most of the time it just doesn't make any sense.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1785034266385165,
+        "compression_ratio" : 1.6889632107023411,
+        "no_speech_prob" : 0.06375062465667725
+      },
+      {
+        "id" : 7,
+        "seek" : 2744,
+        "start" : 38.16,
+        "end" : 42.0,
+        "text" : " And that's fine because all of us YouTubers are dealing with this shit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1785034266385165,
+        "compression_ratio" : 1.6889632107023411,
+        "no_speech_prob" : 0.06375062465667725
+      },
+      {
+        "id" : 8,
+        "seek" : 2744,
+        "start" : 42.0,
+        "end" : 47.28,
+        "text" : " And you know what? That's just the world we're living in now. We've all, more or less, accepted it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1785034266385165,
+        "compression_ratio" : 1.6889632107023411,
+        "no_speech_prob" : 0.06375062465667725
+      },
+      {
+        "id" : 9,
+        "seek" : 2744,
+        "start" : 47.28,
+        "end" : 53.76,
+        "text" : " But when you see shit like what I'm about to show you, it makes that yellow piss sign a little bit harder to swallow.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1785034266385165,
+        "compression_ratio" : 1.6889632107023411,
+        "no_speech_prob" : 0.06375062465667725
+      },
+      {
+        "id" : 10,
+        "seek" : 5376,
+        "start" : 53.84,
+        "end" : 58.08,
+        "text" : " That's a golden shower, my friends. And we don't all like bathing and piss.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12958788453486927,
+        "compression_ratio" : 1.6494464944649447,
+        "no_speech_prob" : 0.0340690053999424
+      },
+      {
+        "id" : 11,
+        "seek" : 5376,
+        "start" : 58.08,
+        "end" : 63.04,
+        "text" : " Casey Neistat made a video about the Las Vegas shooting. He said, literally a video about charity.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12958788453486927,
+        "compression_ratio" : 1.6494464944649447,
+        "no_speech_prob" : 0.0340690053999424
+      },
+      {
+        "id" : 12,
+        "seek" : 5376,
+        "start" : 63.04,
+        "end" : 67.6,
+        "text" : " Where I state all ad sense is going to that charity. YouTube says not suitable for advertisers.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12958788453486927,
+        "compression_ratio" : 1.6494464944649447,
+        "no_speech_prob" : 0.0340690053999424
+      },
+      {
+        "id" : 13,
+        "seek" : 5376,
+        "start" : 67.6,
+        "end" : 75.84,
+        "text" : " We love what you're doing to help, but no matter the intent, our policy is to not run ads on videos about tragedies.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12958788453486927,
+        "compression_ratio" : 1.6494464944649447,
+        "no_speech_prob" : 0.0340690053999424
+      },
+      {
+        "id" : 14,
+        "seek" : 5376,
+        "start" : 75.84,
+        "end" : 79.2,
+        "text" : " It's their policy and it doesn't matter what you're intent.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12958788453486927,
+        "compression_ratio" : 1.6494464944649447,
+        "no_speech_prob" : 0.0340690053999424
+      },
+      {
+        "id" : 15,
+        "seek" : 7920,
+        "start" : 79.28,
+        "end" : 84.88,
+        "text" : " Let's hop on over to Jimmy Kimmel, who did in my opinion have a very powerful monologue on his show.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13362128543157648,
+        "compression_ratio" : 1.6733333333333333,
+        "no_speech_prob" : 0.012317118234932423
+      },
+      {
+        "id" : 16,
+        "seek" : 7920,
+        "start" : 84.88,
+        "end" : 89.28,
+        "text" : " Jimmy Kimmel on the mass shooting in Las Vegas. I'm a huge fan of Jimmy Kimmel and I agree with him actually.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13362128543157648,
+        "compression_ratio" : 1.6733333333333333,
+        "no_speech_prob" : 0.012317118234932423
+      },
+      {
+        "id" : 17,
+        "seek" : 7920,
+        "start" : 89.28,
+        "end" : 96.88,
+        "text" : " But I'm also a big fan of free speech. YouTube, if it's your policy to not run ads on videos about tragedies, no matter the intent,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13362128543157648,
+        "compression_ratio" : 1.6733333333333333,
+        "no_speech_prob" : 0.012317118234932423
+      },
+      {
+        "id" : 18,
+        "seek" : 7920,
+        "start" : 96.88,
+        "end" : 101.68,
+        "text" : " then how do you explain this? Jimmy Kimmel on mass shooting in Las Vegas. GMC ad.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13362128543157648,
+        "compression_ratio" : 1.6733333333333333,
+        "no_speech_prob" : 0.012317118234932423
+      },
+      {
+        "id" : 19,
+        "seek" : 7920,
+        "start" : 101.68,
+        "end" : 105.84,
+        "text" : " Here's an ad for the new Blade Runner movie. And it's number one on trending.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13362128543157648,
+        "compression_ratio" : 1.6733333333333333,
+        "no_speech_prob" : 0.012317118234932423
+      },
+      {
+        "id" : 20,
+        "seek" : 10584,
+        "start" : 105.84,
+        "end" : 110.72,
+        "text" : " Okay, yesterday, Idubs made a video they got 10 million views in the first day.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16100782208738074,
+        "compression_ratio" : 1.6480836236933798,
+        "no_speech_prob" : 0.004567979369312525
+      },
+      {
+        "id" : 21,
+        "seek" : 10584,
+        "start" : 110.72,
+        "end" : 115.92,
+        "text" : " Didn't get a blip on trending. So they not only made the conscious decision to put ads on this video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16100782208738074,
+        "compression_ratio" : 1.6480836236933798,
+        "no_speech_prob" : 0.004567979369312525
+      },
+      {
+        "id" : 22,
+        "seek" : 10584,
+        "start" : 115.92,
+        "end" : 120.08,
+        "text" : " in contradiction of their own statement, they've also decided to trend it. Number one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16100782208738074,
+        "compression_ratio" : 1.6480836236933798,
+        "no_speech_prob" : 0.004567979369312525
+      },
+      {
+        "id" : 23,
+        "seek" : 10584,
+        "start" : 120.96,
+        "end" : 128.0,
+        "text" : " This is called selective enforcement. When you have rules that are so general that you can prosecute pretty much anyone you want.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16100782208738074,
+        "compression_ratio" : 1.6480836236933798,
+        "no_speech_prob" : 0.004567979369312525
+      },
+      {
+        "id" : 24,
+        "seek" : 10584,
+        "start" : 128.0,
+        "end" : 133.28,
+        "text" : " When you use that broadness to enforce a certain ideology, that censorship.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.16100782208738074,
+        "compression_ratio" : 1.6480836236933798,
+        "no_speech_prob" : 0.004567979369312525
+      },
+      {
+        "id" : 25,
+        "seek" : 13328,
+        "start" : 133.28,
+        "end" : 140.8,
+        "text" : " Now, as much as I love Jimmy Kimmel and agree with him, would YouTube put ads and promote somebody",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1438431692595529,
+        "compression_ratio" : 1.5870445344129556,
+        "no_speech_prob" : 0.0013277935795485973
+      },
+      {
+        "id" : 26,
+        "seek" : 13328,
+        "start" : 140.8,
+        "end" : 147.6,
+        "text" : " from the conflicting side from the right with an opposing view? I don't think so. I don't at all.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1438431692595529,
+        "compression_ratio" : 1.5870445344129556,
+        "no_speech_prob" : 0.0013277935795485973
+      },
+      {
+        "id" : 27,
+        "seek" : 13328,
+        "start" : 147.6,
+        "end" : 151.36,
+        "text" : " And while I disagree with them, like I said, I'm more a proponent of free speech.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1438431692595529,
+        "compression_ratio" : 1.5870445344129556,
+        "no_speech_prob" : 0.0013277935795485973
+      },
+      {
+        "id" : 28,
+        "seek" : 13328,
+        "start" : 151.36,
+        "end" : 158.24,
+        "text" : " And what they're doing is clearly picking a side and they're paying them to like ABC needs that ad sense revenue.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1438431692595529,
+        "compression_ratio" : 1.5870445344129556,
+        "no_speech_prob" : 0.0013277935795485973
+      },
+      {
+        "id" : 29,
+        "seek" : 15824,
+        "start" : 158.24,
+        "end" : 163.52,
+        "text" : " ABC, Jimmy Kimmel needs that six million ad sense revenue. Meanwhile, creators are getting pissed on.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1470087094414503,
+        "compression_ratio" : 1.5327635327635327,
+        "no_speech_prob" : 0.05195922404527664
+      },
+      {
+        "id" : 30,
+        "seek" : 15824,
+        "start" : 163.52,
+        "end" : 168.72,
+        "text" : " Literally taking golden showers on the daily. I mean, Chris, I'll take some urine on the face and the heat of the moment,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1470087094414503,
+        "compression_ratio" : 1.5327635327635327,
+        "no_speech_prob" : 0.05195922404527664
+      },
+      {
+        "id" : 31,
+        "seek" : 15824,
+        "start" : 168.72,
+        "end" : 174.48,
+        "text" : " but not as a daily occurrence. That's too much for me. And I assume for most YouTubers as well.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1470087094414503,
+        "compression_ratio" : 1.5327635327635327,
+        "no_speech_prob" : 0.05195922404527664
+      },
+      {
+        "id" : 32,
+        "seek" : 15824,
+        "start" : 174.48,
+        "end" : 181.2,
+        "text" : " Even after Philly D tweeted this, and it got 350,000 likes, they never responded to the criticism.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1470087094414503,
+        "compression_ratio" : 1.5327635327635327,
+        "no_speech_prob" : 0.05195922404527664
+      },
+      {
+        "id" : 33,
+        "seek" : 15824,
+        "start" : 181.2,
+        "end" : 187.36,
+        "text" : " In fact, they doubled down. This video has more ads than I've seen in the past month since this ad apocalypse happened.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1470087094414503,
+        "compression_ratio" : 1.5327635327635327,
+        "no_speech_prob" : 0.05195922404527664
+      },
+      {
+        "id" : 34,
+        "seek" : 18736,
+        "start" : 187.36,
+        "end" : 192.08,
+        "text" : " Just out of curiosity, I went and checked this morning to see if ads were still on the video and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10822781456841363,
+        "compression_ratio" : 1.6358024691358024,
+        "no_speech_prob" : 0.005162609741091728
+      },
+      {
+        "id" : 35,
+        "seek" : 18736,
+        "start" : 192.08,
+        "end" : 197.04,
+        "text" : " response to Philly D's criticism. Let's have a look. Royal Caribbean, Wells Fargo,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10822781456841363,
+        "compression_ratio" : 1.6358024691358024,
+        "no_speech_prob" : 0.005162609741091728
+      },
+      {
+        "id" : 36,
+        "seek" : 18736,
+        "start" : 197.04,
+        "end" : 201.84,
+        "text" : " University of Phoenix, Geostorm. That movie looks awful. I'm not going to watch that one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10822781456841363,
+        "compression_ratio" : 1.6358024691358024,
+        "no_speech_prob" : 0.005162609741091728
+      },
+      {
+        "id" : 37,
+        "seek" : 18736,
+        "start" : 201.84,
+        "end" : 207.44,
+        "text" : " Just get my opinion. It's not relevant to this to this video, but seriously, this looks like horseshit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10822781456841363,
+        "compression_ratio" : 1.6358024691358024,
+        "no_speech_prob" : 0.005162609741091728
+      },
+      {
+        "id" : 38,
+        "seek" : 18736,
+        "start" : 207.44,
+        "end" : 212.4,
+        "text" : " So their response was not only to ignore the criticism, not enforce their own rules,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10822781456841363,
+        "compression_ratio" : 1.6358024691358024,
+        "no_speech_prob" : 0.005162609741091728
+      },
+      {
+        "id" : 39,
+        "seek" : 18736,
+        "start" : 212.4,
+        "end" : 216.72,
+        "text" : " but to double down and put what seemed like even more ads on the video.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10822781456841363,
+        "compression_ratio" : 1.6358024691358024,
+        "no_speech_prob" : 0.005162609741091728
+      },
+      {
+        "id" : 40,
+        "seek" : 21672,
+        "start" : 216.8,
+        "end" : 220.8,
+        "text" : " And here's the thing. I think they should have ads. I think we should all have ads.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08567025557808254,
+        "compression_ratio" : 1.728624535315985,
+        "no_speech_prob" : 0.00641445629298687
+      },
+      {
+        "id" : 41,
+        "seek" : 21672,
+        "start" : 220.8,
+        "end" : 224.56,
+        "text" : " This whole thing, this outrage is ridiculous. And you know how I know that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08567025557808254,
+        "compression_ratio" : 1.728624535315985,
+        "no_speech_prob" : 0.00641445629298687
+      },
+      {
+        "id" : 42,
+        "seek" : 21672,
+        "start" : 224.56,
+        "end" : 230.16,
+        "text" : " I was watching CNN when the shooting was happening. My parents live in Vegas. They heard about it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08567025557808254,
+        "compression_ratio" : 1.728624535315985,
+        "no_speech_prob" : 0.00641445629298687
+      },
+      {
+        "id" : 43,
+        "seek" : 21672,
+        "start" : 230.16,
+        "end" : 236.4,
+        "text" : " They told me I immediately turned on CNN to see what was going on. This was an active live shooting.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08567025557808254,
+        "compression_ratio" : 1.728624535315985,
+        "no_speech_prob" : 0.00641445629298687
+      },
+      {
+        "id" : 44,
+        "seek" : 21672,
+        "start" : 236.4,
+        "end" : 242.48,
+        "text" : " There was a reporter live on the scene giving updates. This is a screenshot I took off my own television.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08567025557808254,
+        "compression_ratio" : 1.728624535315985,
+        "no_speech_prob" : 0.00641445629298687
+      },
+      {
+        "id" : 45,
+        "seek" : 24248,
+        "start" : 242.48,
+        "end" : 248.8,
+        "text" : " These guys were running ads five minute long ads every five minutes when they knew people",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1649903318156367,
+        "compression_ratio" : 1.5219123505976095,
+        "no_speech_prob" : 0.0139046311378479
+      },
+      {
+        "id" : 46,
+        "seek" : 24248,
+        "start" : 248.8,
+        "end" : 255.2,
+        "text" : " were watching glued to the TV looking for live updates. This one I pictured here three out of seven",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1649903318156367,
+        "compression_ratio" : 1.5219123505976095,
+        "no_speech_prob" : 0.0139046311378479
+      },
+      {
+        "id" : 47,
+        "seek" : 24248,
+        "start" : 255.2,
+        "end" : 262.64,
+        "text" : " ads. Here's the ironic touch that makes you just love that golden shower brought to you by Coca-Cola.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1649903318156367,
+        "compression_ratio" : 1.5219123505976095,
+        "no_speech_prob" : 0.0139046311378479
+      },
+      {
+        "id" : 48,
+        "seek" : 24248,
+        "start" : 262.64,
+        "end" : 269.84,
+        "text" : " Dr. Pepper. Pepsi. You know, at first I was just angry at CNN for monetizing this tragedy,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1649903318156367,
+        "compression_ratio" : 1.5219123505976095,
+        "no_speech_prob" : 0.0139046311378479
+      },
+      {
+        "id" : 49,
+        "seek" : 26984,
+        "start" : 269.84,
+        "end" : 274.32,
+        "text" : " this live tragedy, right? I'm glued to the TV. I'm looking for updates. And these sick",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15456094032476755,
+        "compression_ratio" : 1.604026845637584,
+        "no_speech_prob" : 0.021159235388040543
+      },
+      {
+        "id" : 50,
+        "seek" : 26984,
+        "start" : 274.32,
+        "end" : 279.44,
+        "text" : " fucks are basically just pulling the money lever because that ratings are so high. But then when",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15456094032476755,
+        "compression_ratio" : 1.604026845637584,
+        "no_speech_prob" : 0.021159235388040543
+      },
+      {
+        "id" : 51,
+        "seek" : 26984,
+        "start" : 279.44,
+        "end" : 284.32,
+        "text" : " I'm think about it after a couple hours, I'm like, hold on a fucking second. These are the same",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15456094032476755,
+        "compression_ratio" : 1.604026845637584,
+        "no_speech_prob" : 0.021159235388040543
+      },
+      {
+        "id" : 52,
+        "seek" : 26984,
+        "start" : 284.32,
+        "end" : 291.52,
+        "text" : " brands that boy-cotted YouTube. Coca-Cola, Dr. Pepper, Pepsi. See the same guys that pulled their ads",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15456094032476755,
+        "compression_ratio" : 1.604026845637584,
+        "no_speech_prob" : 0.021159235388040543
+      },
+      {
+        "id" : 53,
+        "seek" : 26984,
+        "start" : 291.52,
+        "end" : 297.52,
+        "text" : " out of YouTube for being inappropriate that caused this new guidelines that you can't put ads on",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15456094032476755,
+        "compression_ratio" : 1.604026845637584,
+        "no_speech_prob" : 0.021159235388040543
+      },
+      {
+        "id" : 54,
+        "seek" : 29752,
+        "start" : 297.52,
+        "end" : 303.6,
+        "text" : " tragedies unless you're, you know, someone that we approve like Jimmy Kim. Nobody's sincere.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12375818888346354,
+        "compression_ratio" : 1.5465116279069768,
+        "no_speech_prob" : 0.007093608379364014
+      },
+      {
+        "id" : 55,
+        "seek" : 29752,
+        "start" : 303.6,
+        "end" : 308.48,
+        "text" : " These brands don't give a shit about monetizing tragedy. They've been doing it for decades on CNN.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12375818888346354,
+        "compression_ratio" : 1.5465116279069768,
+        "no_speech_prob" : 0.007093608379364014
+      },
+      {
+        "id" : 56,
+        "seek" : 29752,
+        "start" : 308.96,
+        "end" : 315.44,
+        "text" : " It's just about controlling politics and money. That's it. I saw all these brands that boy-cotted YouTube.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12375818888346354,
+        "compression_ratio" : 1.5465116279069768,
+        "no_speech_prob" : 0.007093608379364014
+      },
+      {
+        "id" : 57,
+        "seek" : 29752,
+        "start" : 316.32,
+        "end" : 322.96,
+        "text" : " And I'm like, oh my god. So this is confirmed just a total sham. I truly don't think that you'll see",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12375818888346354,
+        "compression_ratio" : 1.5465116279069768,
+        "no_speech_prob" : 0.007093608379364014
+      },
+      {
+        "id" : 58,
+        "seek" : 32296,
+        "start" : 323.04,
+        "end" : 329.28,
+        "text" : " any more edgy, interesting channels coming up in a big way on YouTube anymore. You won't see it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11151867101688197,
+        "compression_ratio" : 1.6127659574468085,
+        "no_speech_prob" : 0.017913922667503357
+      },
+      {
+        "id" : 59,
+        "seek" : 32296,
+        "start" : 329.28,
+        "end" : 333.92,
+        "text" : " All you ever going to see on YouTube anymore is Jake Paul, Logan Paul. You're going to get more",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11151867101688197,
+        "compression_ratio" : 1.6127659574468085,
+        "no_speech_prob" : 0.017913922667503357
+      },
+      {
+        "id" : 60,
+        "seek" : 32296,
+        "start" : 333.92,
+        "end" : 341.04,
+        "text" : " dude-perfect. There's no soul left. There's no backbone left. It's just goo and piss. And I'll",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11151867101688197,
+        "compression_ratio" : 1.6127659574468085,
+        "no_speech_prob" : 0.017913922667503357
+      },
+      {
+        "id" : 61,
+        "seek" : 32296,
+        "start" : 341.04,
+        "end" : 345.6,
+        "text" : " tell you what else if you want more proof that we are truly living in the darkest timeline?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.11151867101688197,
+        "compression_ratio" : 1.6127659574468085,
+        "no_speech_prob" : 0.017913922667503357
+      },
+      {
+        "id" : 62,
+        "seek" : 34560,
+        "start" : 345.68,
+        "end" : 352.32,
+        "text" : " That is Logan Paul on a tonight show. He proceeded Ryan Gosling.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12401524851144838,
+        "compression_ratio" : 1.5704225352112675,
+        "no_speech_prob" : 0.04897762089967728
+      },
+      {
+        "id" : 63,
+        "seek" : 34560,
+        "start" : 353.2,
+        "end" : 360.08,
+        "text" : " Advertises are lining up to put their ads on this video. How is this not trending on all 20 spots?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12401524851144838,
+        "compression_ratio" : 1.5704225352112675,
+        "no_speech_prob" : 0.04897762089967728
+      },
+      {
+        "id" : 64,
+        "seek" : 34560,
+        "start" : 360.08,
+        "end" : 364.8,
+        "text" : " This should be. If I could just get them both dabbing, I think that we could get number one",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12401524851144838,
+        "compression_ratio" : 1.5704225352112675,
+        "no_speech_prob" : 0.04897762089967728
+      },
+      {
+        "id" : 65,
+        "seek" : 34560,
+        "start" : 364.8,
+        "end" : 370.08,
+        "text" : " trending with this video. And with that being said, I've been getting a lot of steamy yellow piss in",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12401524851144838,
+        "compression_ratio" : 1.5704225352112675,
+        "no_speech_prob" : 0.04897762089967728
+      },
+      {
+        "id" : 66,
+        "seek" : 34560,
+        "start" : 370.08,
+        "end" : 374.72,
+        "text" : " my face on a regular basis that I'm starting to like it. So, Ela, I hope you're hydrated.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12401524851144838,
+        "compression_ratio" : 1.5704225352112675,
+        "no_speech_prob" : 0.04897762089967728
+      },
+      {
+        "id" : 67,
+        "seek" : 37472,
+        "start" : 374.72,
+        "end" : 379.04,
+        "text" : " Because I'll meet you. Take a piss on my face. Thanks YouTube for my new fetish. Bye.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30007580610421986,
+        "compression_ratio" : 1.0365853658536586,
+        "no_speech_prob" : 0.06410720944404602
+      }
+    ]
+  }
+}

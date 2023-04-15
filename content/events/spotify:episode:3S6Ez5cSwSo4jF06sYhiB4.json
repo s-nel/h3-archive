@@ -1,0 +1,68 @@
+{
+  "event_id" : "spotify:episode:3S6Ez5cSwSo4jF06sYhiB4",
+  "category" : "podcast",
+  "name" : "BBTV Stole $620,000 & Refuses To Return It... (in my opinion) CEO Shahrzad Rafati - H3TV #72",
+  "description" : "<p>Today we discuss the situation regarding BBTV stealing in Ethan&#39;s opinion 620,000 in Ethan&#39;s opinion dollars in Ethan&#39;s opinion from memberships in Ethan&#39;s opinion. We also talk to Howie Mandel in Ethan&#39;s opinion about how slay he is in Ethan&#39;s opinion!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/pHHVpvLqYCE/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "H3TV"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/3S6Ez5cSwSo4jF06sYhiB4"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/pHHVpvLqYCE"
+    }
+  ],
+  "start_date" : 1681177777000,
+  "duration" : 12866612,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

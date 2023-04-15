@@ -1,0 +1,344 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkw3MVVlbDk4c0pR",
+  "category" : "video",
+  "name" : "Why We Removed our WSJ Video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/L71Uel98sJQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/L71Uel98sJQ"
+    }
+  ],
+  "start_date" : 1491192045000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 11.32,
+        "text" : " Earlier today we made a video exploring the possibility that the screenshots the wall street journal was publishing and sending to brands were fake and we base this on a",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.253400957861612,
+        "compression_ratio" : 1.832618025751073,
+        "no_speech_prob" : 0.09249641001224518
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 11.84,
+        "end" : 14.96,
+        "text" : " screenshot of analytics of the dude who made the video and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.253400957861612,
+        "compression_ratio" : 1.832618025751073,
+        "no_speech_prob" : 0.09249641001224518
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 15.36,
+        "end" : 20.16,
+        "text" : " concluded that because there were no earnings on that graph the pictures had to be fake",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.253400957861612,
+        "compression_ratio" : 1.832618025751073,
+        "no_speech_prob" : 0.09249641001224518
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 20.56,
+        "end" : 26.96,
+        "text" : " After posting the video we realized that there may actually be a possibility that the video itself was claimed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.253400957861612,
+        "compression_ratio" : 1.832618025751073,
+        "no_speech_prob" : 0.09249641001224518
+      },
+      {
+        "id" : 4,
+        "seek" : 2696,
+        "start" : 27.36,
+        "end" : 30.48,
+        "text" : " And that's why the revenue wasn't showing up on his graph",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18991009394327799,
+        "compression_ratio" : 1.7472924187725631,
+        "no_speech_prob" : 0.14356498420238495
+      },
+      {
+        "id" : 5,
+        "seek" : 2696,
+        "start" : 30.8,
+        "end" : 34.72,
+        "text" : " Upon further investigation we realized that that video was actually claimed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18991009394327799,
+        "compression_ratio" : 1.7472924187725631,
+        "no_speech_prob" : 0.14356498420238495
+      },
+      {
+        "id" : 6,
+        "seek" : 2696,
+        "start" : 34.96,
+        "end" : 43.4,
+        "text" : " Which threw too much doubt into our theory and we felt it was our responsibility to make a correction and tell you guys of that mistake",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18991009394327799,
+        "compression_ratio" : 1.7472924187725631,
+        "no_speech_prob" : 0.14356498420238495
+      },
+      {
+        "id" : 7,
+        "seek" : 2696,
+        "start" : 43.72,
+        "end" : 47.68,
+        "text" : " And to take down the video when I first saw the creator of this video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18991009394327799,
+        "compression_ratio" : 1.7472924187725631,
+        "no_speech_prob" : 0.14356498420238495
+      },
+      {
+        "id" : 8,
+        "seek" : 2696,
+        "start" : 47.68,
+        "end" : 55.04,
+        "text" : " It was in a comment section where he had said that the picture was photoshopped and I had assumed that he would tell me if the video was claimed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18991009394327799,
+        "compression_ratio" : 1.7472924187725631,
+        "no_speech_prob" : 0.14356498420238495
+      },
+      {
+        "id" : 9,
+        "seek" : 5504,
+        "start" : 55.04,
+        "end" : 60.08,
+        "text" : " And it hadn't even occurred to me to ask him that question which I naively made that mistake",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20002722306685014,
+        "compression_ratio" : 1.7731958762886597,
+        "no_speech_prob" : 0.010554558597505093
+      },
+      {
+        "id" : 10,
+        "seek" : 5504,
+        "start" : 60.08,
+        "end" : 64.4,
+        "text" : " I find it extremely interesting by the way that in Wall Street Journal's reporting",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20002722306685014,
+        "compression_ratio" : 1.7731958762886597,
+        "no_speech_prob" : 0.010554558597505093
+      },
+      {
+        "id" : 11,
+        "seek" : 5504,
+        "start" : 64.4,
+        "end" : 71.2,
+        "text" : " They never mentioned that the video itself was claimed instead they said that racist hateful people were making money on YouTube",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20002722306685014,
+        "compression_ratio" : 1.7731958762886597,
+        "no_speech_prob" : 0.010554558597505093
+      },
+      {
+        "id" : 12,
+        "seek" : 5504,
+        "start" : 71.2,
+        "end" : 74.96,
+        "text" : " But the fact is this guy wasn't making money was the person who claimed his video",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20002722306685014,
+        "compression_ratio" : 1.7731958762886597,
+        "no_speech_prob" : 0.010554558597505093
+      },
+      {
+        "id" : 13,
+        "seek" : 5504,
+        "start" : 75.28,
+        "end" : 82.04,
+        "text" : " Interestingly we talked to the network that claimed the video and we were able to actually see how much money this video made and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20002722306685014,
+        "compression_ratio" : 1.7731958762886597,
+        "no_speech_prob" : 0.010554558597505093
+      },
+      {
+        "id" : 14,
+        "seek" : 8204,
+        "start" : 82.04,
+        "end" : 89.4,
+        "text" : " 160,000 views the video itself made $12 and if you don't know anything about how YouTube videos make money",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1992377577156856,
+        "compression_ratio" : 1.5367965367965368,
+        "no_speech_prob" : 0.001831162953749299
+      },
+      {
+        "id" : 15,
+        "seek" : 8204,
+        "start" : 89.64,
+        "end" : 91.64,
+        "text" : " That is astronomically low",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1992377577156856,
+        "compression_ratio" : 1.5367965367965368,
+        "no_speech_prob" : 0.001831162953749299
+      },
+      {
+        "id" : 16,
+        "seek" : 8204,
+        "start" : 91.72,
+        "end" : 99.08,
+        "text" : " So in 160,000 you would expect it to make up to $300 all it made was 12 the reason that this is so suspicious",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1992377577156856,
+        "compression_ratio" : 1.5367965367965368,
+        "no_speech_prob" : 0.001831162953749299
+      },
+      {
+        "id" : 17,
+        "seek" : 8204,
+        "start" : 99.32,
+        "end" : 105.76,
+        "text" : " Is that according to the Wall Street Journal they and the span of just 30 views found three of the most premium",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1992377577156856,
+        "compression_ratio" : 1.5367965367965368,
+        "no_speech_prob" : 0.001831162953749299
+      },
+      {
+        "id" : 18,
+        "seek" : 10576,
+        "start" : 105.84,
+        "end" : 111.2,
+        "text" : " High paying ad roles on all of YouTube including Starbucks, Toyota and Coca-Cola",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15273197566237406,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.01734185591340065
+      },
+      {
+        "id" : 19,
+        "seek" : 10576,
+        "start" : 111.44,
+        "end" : 114.96,
+        "text" : " This honestly doesn't make any sense and doesn't add up at all",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15273197566237406,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.01734185591340065
+      },
+      {
+        "id" : 20,
+        "seek" : 10576,
+        "start" : 115.2,
+        "end" : 120.96,
+        "text" : " How does a video with 160,000 views make only $12 with three of the most premium",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15273197566237406,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.01734185591340065
+      },
+      {
+        "id" : 21,
+        "seek" : 10576,
+        "start" : 121.28,
+        "end" : 124.72,
+        "text" : " High paying ads on YouTube playing over the span of 30 views",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15273197566237406,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.01734185591340065
+      },
+      {
+        "id" : 22,
+        "seek" : 10576,
+        "start" : 124.96,
+        "end" : 127.92,
+        "text" : " It doesn't add up at all in the future. We need to be more thorough",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15273197566237406,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.01734185591340065
+      },
+      {
+        "id" : 23,
+        "seek" : 10576,
+        "start" : 128.4,
+        "end" : 132.0,
+        "text" : " It's definitely ironic that I accused the Wall Street Journal of not being thorough",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.15273197566237406,
+        "compression_ratio" : 1.6428571428571428,
+        "no_speech_prob" : 0.01734185591340065
+      },
+      {
+        "id" : 24,
+        "seek" : 13200,
+        "start" : 132.16,
+        "end" : 138.32,
+        "text" : " But in the same video even dropped that you know this one's really thin and that that crushed my heart because you know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20685584085029468,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.23872268199920654
+      },
+      {
+        "id" : 25,
+        "seek" : 13200,
+        "start" : 138.32,
+        "end" : 140.32,
+        "text" : " I can never use that meme again",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20685584085029468,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.23872268199920654
+      },
+      {
+        "id" : 26,
+        "seek" : 13200,
+        "start" : 140.56,
+        "end" : 142.56,
+        "text" : " Anyway guys, I appreciate you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20685584085029468,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.23872268199920654
+      },
+      {
+        "id" : 27,
+        "seek" : 13200,
+        "start" : 143.52,
+        "end" : 145.92,
+        "text" : " And we'll be seeing you next time. Thanks guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20685584085029468,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.23872268199920654
+      }
+    ]
+  }
+}

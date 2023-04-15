@@ -1,0 +1,57 @@
+{
+  "steamy_id" : "news-coverage-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "rbeard"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mysterious"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "rreyna"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jscarce"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dwallace"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcintyre"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dfeitosa"
+      ],
+      "name" : null,
+      "won" : true
+    }
+  ],
+  "name" : "Best Youtube Drama News Coverage",
+  "description" : null,
+  "year" : 2021
+}

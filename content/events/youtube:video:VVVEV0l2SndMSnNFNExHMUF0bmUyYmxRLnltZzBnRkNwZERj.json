@@ -1,0 +1,465 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnltZzBnRkNwZERj",
+  "category" : "video",
+  "name" : "Wiping",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/ymg0gFCpdDc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/ymg0gFCpdDc"
+    }
+  ],
+  "start_date" : 1363217172000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 9.0,
+        "text" : " I feel like I would like to be a comedian, but every time I sit down to write jokes, they always end up being about poop.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.136422971399819,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.1840544193983078
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 9.0,
+        "end" : 18.0,
+        "text" : " I know a lot of people I talk to when they actually poop, they have a certain way that they wipe.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.136422971399819,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.1840544193983078
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 26.0,
+        "text" : " And then everyone who wipes that way assumes that everyone else in the world wipes the same way that they do.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.136422971399819,
+        "compression_ratio" : 1.6871794871794872,
+        "no_speech_prob" : 0.1840544193983078
+      },
+      {
+        "id" : 3,
+        "seek" : 2600,
+        "start" : 26.0,
+        "end" : 34.0,
+        "text" : " And they don't realize that there's a whole other subset of people out there with their own wiping techniques.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066855382437658,
+        "compression_ratio" : 1.6367713004484306,
+        "no_speech_prob" : 0.21921749413013458
+      },
+      {
+        "id" : 4,
+        "seek" : 2600,
+        "start" : 34.0,
+        "end" : 38.0,
+        "text" : " And when these two people clash, it's very embarrassing and awkward.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066855382437658,
+        "compression_ratio" : 1.6367713004484306,
+        "no_speech_prob" : 0.21921749413013458
+      },
+      {
+        "id" : 5,
+        "seek" : 2600,
+        "start" : 38.0,
+        "end" : 41.0,
+        "text" : " I personally, a lot of people find the strange.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066855382437658,
+        "compression_ratio" : 1.6367713004484306,
+        "no_speech_prob" : 0.21921749413013458
+      },
+      {
+        "id" : 6,
+        "seek" : 2600,
+        "start" : 41.0,
+        "end" : 43.0,
+        "text" : " I wipe my ass from the front.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066855382437658,
+        "compression_ratio" : 1.6367713004484306,
+        "no_speech_prob" : 0.21921749413013458
+      },
+      {
+        "id" : 7,
+        "seek" : 2600,
+        "start" : 43.0,
+        "end" : 49.0,
+        "text" : " I literally, my wife looks at me like I'm a, like I just shit in her plate.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066855382437658,
+        "compression_ratio" : 1.6367713004484306,
+        "no_speech_prob" : 0.21921749413013458
+      },
+      {
+        "id" : 8,
+        "seek" : 2600,
+        "start" : 49.0,
+        "end" : 52.0,
+        "text" : " I feel like I'm so gross there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2066855382437658,
+        "compression_ratio" : 1.6367713004484306,
+        "no_speech_prob" : 0.21921749413013458
+      },
+      {
+        "id" : 9,
+        "seek" : 5200,
+        "start" : 52.0,
+        "end" : 56.0,
+        "text" : " I let, I pick up my balls and dick and my left hand.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18753562485876163,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.04528661072254181
+      },
+      {
+        "id" : 10,
+        "seek" : 5200,
+        "start" : 56.0,
+        "end" : 61.0,
+        "text" : " And I put my right hand in my, and I come down like this.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18753562485876163,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.04528661072254181
+      },
+      {
+        "id" : 11,
+        "seek" : 5200,
+        "start" : 61.0,
+        "end" : 63.0,
+        "text" : " That works for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18753562485876163,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.04528661072254181
+      },
+      {
+        "id" : 12,
+        "seek" : 5200,
+        "start" : 63.0,
+        "end" : 67.0,
+        "text" : " Once I found out people are actually wiping their ass that way, I gave it a shot, you know?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18753562485876163,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.04528661072254181
+      },
+      {
+        "id" : 13,
+        "seek" : 5200,
+        "start" : 67.0,
+        "end" : 74.0,
+        "text" : " I sit up and I, shouldn't I ask back there, my hand back there, and wasn't a good clean.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18753562485876163,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.04528661072254181
+      },
+      {
+        "id" : 14,
+        "seek" : 5200,
+        "start" : 74.0,
+        "end" : 79.0,
+        "text" : " Women, women out there do not wipe your ass from the front because then you can get poop and every try to.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18753562485876163,
+        "compression_ratio" : 1.6352941176470588,
+        "no_speech_prob" : 0.04528661072254181
+      },
+      {
+        "id" : 15,
+        "seek" : 7900,
+        "start" : 79.0,
+        "end" : 83.0,
+        "text" : " I guess this is something for men online.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 16,
+        "seek" : 7900,
+        "start" : 83.0,
+        "end" : 85.0,
+        "text" : " He don't want poop in your vagina.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 17,
+        "seek" : 7900,
+        "start" : 85.0,
+        "end" : 88.0,
+        "text" : " I was talking about this with my friends one night.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 18,
+        "seek" : 7900,
+        "start" : 88.0,
+        "end" : 91.0,
+        "text" : " And I was the only one there wiping from the front.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 19,
+        "seek" : 7900,
+        "start" : 91.0,
+        "end" : 98.0,
+        "text" : " But then my, my friends spoke up for me and he, and this is a great story because he really made a big commitment to me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 20,
+        "seek" : 7900,
+        "start" : 98.0,
+        "end" : 105.0,
+        "text" : " And standing up, he said one time, his dad called him into the bathroom when he was taking a shit to talk to him.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 21,
+        "seek" : 7900,
+        "start" : 105.0,
+        "end" : 108.0,
+        "text" : " And he saw that his dad was wiping from the front.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1099514389038086,
+        "compression_ratio" : 1.78544061302682,
+        "no_speech_prob" : 0.17164242267608643
+      },
+      {
+        "id" : 22,
+        "seek" : 10800,
+        "start" : 108.0,
+        "end" : 111.0,
+        "text" : " So that's how I knew that I was the only one.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 23,
+        "seek" : 10800,
+        "start" : 111.0,
+        "end" : 118.0,
+        "text" : " I really appreciated that. He told me that story, took a lot of, took a lot of balls and I still, I still really appreciate that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 24,
+        "seek" : 10800,
+        "start" : 118.0,
+        "end" : 121.0,
+        "text" : " He went out of his way to make me feel normal.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 25,
+        "seek" : 10800,
+        "start" : 121.0,
+        "end" : 126.0,
+        "text" : " But I know, I know that me and his dad are not doing people out there wiping their ass from the front.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 26,
+        "seek" : 10800,
+        "start" : 126.0,
+        "end" : 133.0,
+        "text" : " It's like, I think it's 50, 50. I'm not a man anyway. Maybe there's some women but that's gross. Don't do that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 27,
+        "seek" : 10800,
+        "start" : 133.0,
+        "end" : 135.0,
+        "text" : " But you have your balls, isn't it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 28,
+        "seek" : 10800,
+        "start" : 135.0,
+        "end" : 136.0,
+        "text" : " I live there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24089458253648546,
+        "compression_ratio" : 1.7419354838709677,
+        "no_speech_prob" : 0.022494809702038765
+      },
+      {
+        "id" : 29,
+        "seek" : 13600,
+        "start" : 136.0,
+        "end" : 142.0,
+        "text" : " What do you think I'm doing? You lift your balls and your dick and you just, you clean it up.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890520192809025,
+        "compression_ratio" : 1.7896995708154506,
+        "no_speech_prob" : 0.10299491137266159
+      },
+      {
+        "id" : 30,
+        "seek" : 13600,
+        "start" : 142.0,
+        "end" : 143.0,
+        "text" : " Sounds bad.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890520192809025,
+        "compression_ratio" : 1.7896995708154506,
+        "no_speech_prob" : 0.10299491137266159
+      },
+      {
+        "id" : 31,
+        "seek" : 13600,
+        "start" : 143.0,
+        "end" : 147.0,
+        "text" : " Sounds bad. Sounds like nature.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890520192809025,
+        "compression_ratio" : 1.7896995708154506,
+        "no_speech_prob" : 0.10299491137266159
+      },
+      {
+        "id" : 32,
+        "seek" : 13600,
+        "start" : 147.0,
+        "end" : 153.0,
+        "text" : " I need to like get my finger in there and like wiggle it around. I need to like get the outer layer. I need to get all the poo out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890520192809025,
+        "compression_ratio" : 1.7896995708154506,
+        "no_speech_prob" : 0.10299491137266159
+      },
+      {
+        "id" : 33,
+        "seek" : 13600,
+        "start" : 153.0,
+        "end" : 156.0,
+        "text" : " I don't like walking around with the shitty asshole.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890520192809025,
+        "compression_ratio" : 1.7896995708154506,
+        "no_speech_prob" : 0.10299491137266159
+      },
+      {
+        "id" : 34,
+        "seek" : 13600,
+        "start" : 156.0,
+        "end" : 164.0,
+        "text" : " And when I'm coming from back, I feel like I just, I don't have the mobility that I'm used to.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890520192809025,
+        "compression_ratio" : 1.7896995708154506,
+        "no_speech_prob" : 0.10299491137266159
+      },
+      {
+        "id" : 35,
+        "seek" : 16400,
+        "start" : 164.0,
+        "end" : 168.0,
+        "text" : " If you guys have anything to add to this discussion, I really appreciate your feedback.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10269148929699047,
+        "compression_ratio" : 1.6954022988505748,
+        "no_speech_prob" : 0.10707069933414459
+      },
+      {
+        "id" : 36,
+        "seek" : 16400,
+        "start" : 168.0,
+        "end" : 174.0,
+        "text" : " If you watch all the way to the end of this video and you're listening to me now, I really appreciate it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10269148929699047,
+        "compression_ratio" : 1.6954022988505748,
+        "no_speech_prob" : 0.10707069933414459
+      },
+      {
+        "id" : 37,
+        "seek" : 16400,
+        "start" : 174.0,
+        "end" : 177.0,
+        "text" : " You're a true supporter. I really appreciate it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10269148929699047,
+        "compression_ratio" : 1.6954022988505748,
+        "no_speech_prob" : 0.10707069933414459
+      },
+      {
+        "id" : 38,
+        "seek" : 16400,
+        "start" : 177.0,
+        "end" : 182.0,
+        "text" : " Keep them buttholes clean and keep doing your thing.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.10269148929699047,
+        "compression_ratio" : 1.6954022988505748,
+        "no_speech_prob" : 0.10707069933414459
+      }
+    ]
+  }
+}

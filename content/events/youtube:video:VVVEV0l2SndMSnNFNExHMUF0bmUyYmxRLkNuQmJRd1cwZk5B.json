@@ -1,0 +1,186 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkNuQmJRd1cwZk5B",
+  "category" : "video",
+  "name" : "peanut buttah exe [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/CnBbQwW0fNA/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/CnBbQwW0fNA"
+    }
+  ],
+  "start_date" : 1378482503000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " You chocolate.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 6.0,
+        "text" : " You do peanut butter.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 8.0,
+        "text" : " Hey!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 12.0,
+        "text" : " Hey, you chocolate in my peanut butter.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 12.0,
+        "end" : 14.0,
+        "text" : " You put peanut butter in my chocolate.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 16.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 18.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 20.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 22.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 9,
+        "seek" : 0,
+        "start" : 22.0,
+        "end" : 24.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 10,
+        "seek" : 0,
+        "start" : 24.0,
+        "end" : 26.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 11,
+        "seek" : 0,
+        "start" : 26.0,
+        "end" : 28.0,
+        "text" : " Peanut butter cup.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5228480463442595,
+        "compression_ratio" : 1.9886363636363635,
+        "no_speech_prob" : 0.5889379978179932
+      },
+      {
+        "id" : 12,
+        "seek" : 2800,
+        "start" : 28.0,
+        "end" : 32.0,
+        "text" : " And Reese's crunchy peanut butter cups topped with...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3189242026385139,
+        "compression_ratio" : 0.8805970149253731,
+        "no_speech_prob" : 0.021916750818490982
+      },
+      {
+        "id" : 13,
+        "seek" : 2800,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3189242026385139,
+        "compression_ratio" : 0.8805970149253731,
+        "no_speech_prob" : 0.021916750818490982
+      }
+    ]
+  }
+}

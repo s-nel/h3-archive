@@ -1,0 +1,685 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkNDdzVEOU02cDBn",
+  "category" : "video",
+  "name" : "You've got a big one",
+  "description" : "Patreon Newsletter for June, thank you, we love you.\nhttp://patreon.com/h3h3productions",
+  "thumb" : "https://i.ytimg.com/vi/CCw5D9M6p0g/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/CCw5D9M6p0g"
+    }
+  ],
+  "start_date" : 1436985302000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 4.96,
+        "text" : " You've got a big dick too. It's a beautiful, huge cock and everybody loves it too.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2840664771295363,
+        "compression_ratio" : 1.6818181818181819,
+        "no_speech_prob" : 0.2560811936855316
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.96,
+        "end" : 11.6,
+        "text" : " Thank you so much guys. Everyone on Patreon, huge dick, dude. Nice dick too. Not just big, but nice.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2840664771295363,
+        "compression_ratio" : 1.6818181818181819,
+        "no_speech_prob" : 0.2560811936855316
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.24,
+        "end" : 17.6,
+        "text" : " Thanks guys. Really cool. There's a couple things we want to talk about. One,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2840664771295363,
+        "compression_ratio" : 1.6818181818181819,
+        "no_speech_prob" : 0.2560811936855316
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.48,
+        "end" : 22.0,
+        "text" : " we touched on this a little bit on our stream, but most you guys didn't tune into that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2840664771295363,
+        "compression_ratio" : 1.6818181818181819,
+        "no_speech_prob" : 0.2560811936855316
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 23.12,
+        "end" : 29.76,
+        "text" : " One, we, since we hit our new mouse tone on Patreon, we wanted to think of a new one for like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2840664771295363,
+        "compression_ratio" : 1.6818181818181819,
+        "no_speech_prob" : 0.2560811936855316
+      },
+      {
+        "id" : 5,
+        "seek" : 2976,
+        "start" : 29.76,
+        "end" : 34.88,
+        "text" : " 1500, just to spice that up a little bit. Something we talked about on the stream was the",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24018799432433477,
+        "compression_ratio" : 1.5485232067510548,
+        "no_speech_prob" : 0.029067590832710266
+      },
+      {
+        "id" : 6,
+        "seek" : 2976,
+        "start" : 34.88,
+        "end" : 39.76,
+        "text" : " the Foupe Law series, is that right? Where I try to lose a little bit of weight. I mean, I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24018799432433477,
+        "compression_ratio" : 1.5485232067510548,
+        "no_speech_prob" : 0.029067590832710266
+      },
+      {
+        "id" : 7,
+        "seek" : 2976,
+        "start" : 39.76,
+        "end" : 46.72,
+        "text" : " dieting here. I'm sorry to report that I'm actually at the fadest I've ever been in my life.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24018799432433477,
+        "compression_ratio" : 1.5485232067510548,
+        "no_speech_prob" : 0.029067590832710266
+      },
+      {
+        "id" : 8,
+        "seek" : 2976,
+        "start" : 47.28,
+        "end" : 53.2,
+        "text" : " I'm pretty much 200 fucking pounds and that's a threshold that I never expected across that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24018799432433477,
+        "compression_ratio" : 1.5485232067510548,
+        "no_speech_prob" : 0.029067590832710266
+      },
+      {
+        "id" : 9,
+        "seek" : 5320,
+        "start" : 53.2,
+        "end" : 60.48,
+        "text" : " that two digit in front was like, I'm gonna lose some fucking weight. So I'm taking care of myself now,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1612376576846408,
+        "compression_ratio" : 1.7882882882882882,
+        "no_speech_prob" : 0.01675177551805973
+      },
+      {
+        "id" : 10,
+        "seek" : 5320,
+        "start" : 60.48,
+        "end" : 66.48,
+        "text" : " but we thought it'd be a funny little series, the Foupe Law series, where we can make a little",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1612376576846408,
+        "compression_ratio" : 1.7882882882882882,
+        "no_speech_prob" : 0.01675177551805973
+      },
+      {
+        "id" : 11,
+        "seek" : 5320,
+        "start" : 66.48,
+        "end" : 72.56,
+        "text" : " series about us trying all these stupid little fucking diets and documenting the process. So we thought",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1612376576846408,
+        "compression_ratio" : 1.7882882882882882,
+        "no_speech_prob" : 0.01675177551805973
+      },
+      {
+        "id" : 12,
+        "seek" : 5320,
+        "start" : 72.56,
+        "end" : 78.48,
+        "text" : " that was one. Another one we thought was like streaming more. Another one we thought was like,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1612376576846408,
+        "compression_ratio" : 1.7882882882882882,
+        "no_speech_prob" : 0.01675177551805973
+      },
+      {
+        "id" : 13,
+        "seek" : 7848,
+        "start" : 78.56,
+        "end" : 83.04,
+        "text" : " my mom does a reaction video. She's a real sweet lady, a real fucking comedian,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26582391357421875,
+        "compression_ratio" : 1.72,
+        "no_speech_prob" : 0.085379958152771
+      },
+      {
+        "id" : 14,
+        "seek" : 7848,
+        "start" : 83.04,
+        "end" : 89.76,
+        "text" : " natural comedian. And uh, dude, I'm just fucking, dude, you just record, you just point and record,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26582391357421875,
+        "compression_ratio" : 1.72,
+        "no_speech_prob" : 0.085379958152771
+      },
+      {
+        "id" : 15,
+        "seek" : 7848,
+        "start" : 89.76,
+        "end" : 94.64,
+        "text" : " you know, you don't question my methods. Wait, not all of a sudden you got shit to say. I was",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26582391357421875,
+        "compression_ratio" : 1.72,
+        "no_speech_prob" : 0.085379958152771
+      },
+      {
+        "id" : 16,
+        "seek" : 7848,
+        "start" : 94.64,
+        "end" : 98.24,
+        "text" : " trying to get your help with some commentary earlier and now you want to goof on my fucking the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26582391357421875,
+        "compression_ratio" : 1.72,
+        "no_speech_prob" : 0.085379958152771
+      },
+      {
+        "id" : 17,
+        "seek" : 7848,
+        "start" : 98.24,
+        "end" : 102.56,
+        "text" : " that I just relaxed, dude. What are you talking about? You never seen me do this before this? How I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.26582391357421875,
+        "compression_ratio" : 1.72,
+        "no_speech_prob" : 0.085379958152771
+      },
+      {
+        "id" : 18,
+        "seek" : 10256,
+        "start" : 102.64,
+        "end" : 112.0,
+        "text" : " chilled, dude. Anyway, if you guys have any other suggestions for the next milestone, I'd love to",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17495432266822228,
+        "compression_ratio" : 1.5655737704918034,
+        "no_speech_prob" : 0.018143147230148315
+      },
+      {
+        "id" : 19,
+        "seek" : 10256,
+        "start" : 112.0,
+        "end" : 116.72,
+        "text" : " hear it because so far, the Foupe Law series is the best, it's not perfect, it could be a lot of",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17495432266822228,
+        "compression_ratio" : 1.5655737704918034,
+        "no_speech_prob" : 0.018143147230148315
+      },
+      {
+        "id" : 20,
+        "seek" : 10256,
+        "start" : 116.72,
+        "end" : 123.76,
+        "text" : " fun, but it's not perfect. Number two, we want to talk about this one's pretty, pretty fucking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17495432266822228,
+        "compression_ratio" : 1.5655737704918034,
+        "no_speech_prob" : 0.018143147230148315
+      },
+      {
+        "id" : 21,
+        "seek" : 10256,
+        "start" : 123.76,
+        "end" : 131.2,
+        "text" : " interesting. We're thinking about moving to back to Israel. No, I'm just kidding, fuck that,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.17495432266822228,
+        "compression_ratio" : 1.5655737704918034,
+        "no_speech_prob" : 0.018143147230148315
+      },
+      {
+        "id" : 22,
+        "seek" : 13120,
+        "start" : 131.2,
+        "end" : 135.92,
+        "text" : " we'll never go back there. We're thinking about moving to the East Coast to Philadelphia.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.265634890965053,
+        "compression_ratio" : 1.7759197324414715,
+        "no_speech_prob" : 0.009747465141117573
+      },
+      {
+        "id" : 23,
+        "seek" : 13120,
+        "start" : 135.92,
+        "end" : 139.92,
+        "text" : " The first reason we're moving there is because we've got friends out there. It's like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.265634890965053,
+        "compression_ratio" : 1.7759197324414715,
+        "no_speech_prob" : 0.009747465141117573
+      },
+      {
+        "id" : 24,
+        "seek" : 13120,
+        "start" : 139.92,
+        "end" : 143.2,
+        "text" : " an interesting new environment. We want to live on the East Coast in New York,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.265634890965053,
+        "compression_ratio" : 1.7759197324414715,
+        "no_speech_prob" : 0.009747465141117573
+      },
+      {
+        "id" : 25,
+        "seek" : 13120,
+        "start" : 143.2,
+        "end" : 148.4,
+        "text" : " too fucking expensive, but it's close to New York. So we'll be like in New York kind of,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.265634890965053,
+        "compression_ratio" : 1.7759197324414715,
+        "no_speech_prob" : 0.009747465141117573
+      },
+      {
+        "id" : 26,
+        "seek" : 13120,
+        "start" : 148.4,
+        "end" : 153.28,
+        "text" : " not really, but kind of. So that'll be pretty exciting. So the forward, we'll nice little say,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.265634890965053,
+        "compression_ratio" : 1.7759197324414715,
+        "no_speech_prob" : 0.009747465141117573
+      },
+      {
+        "id" : 27,
+        "seek" : 13120,
+        "start" : 153.28,
+        "end" : 156.0,
+        "text" : " you felt that feeling. You'd certainly probably love it. What's the, what's the, what's the,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.265634890965053,
+        "compression_ratio" : 1.7759197324414715,
+        "no_speech_prob" : 0.009747465141117573
+      },
+      {
+        "id" : 28,
+        "seek" : 15600,
+        "start" : 156.0,
+        "end" : 162.8,
+        "text" : " could happen? Little mugging, little rape, rape. That'd be bad. Me, I'm in big danger getting",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30085477258405113,
+        "compression_ratio" : 1.6254681647940075,
+        "no_speech_prob" : 0.04065403342247009
+      },
+      {
+        "id" : 29,
+        "seek" : 15600,
+        "start" : 162.8,
+        "end" : 167.36,
+        "text" : " raped. Fuck, you seem to, you seem to tight little outfits that I walk around with in that night,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30085477258405113,
+        "compression_ratio" : 1.6254681647940075,
+        "no_speech_prob" : 0.04065403342247009
+      },
+      {
+        "id" : 30,
+        "seek" : 15600,
+        "start" : 167.36,
+        "end" : 172.8,
+        "text" : " dude, I'm not gonna last one night and fill Philadelphia, but we'll keep it together, we'll keep it tight.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30085477258405113,
+        "compression_ratio" : 1.6254681647940075,
+        "no_speech_prob" : 0.04065403342247009
+      },
+      {
+        "id" : 31,
+        "seek" : 15600,
+        "start" : 173.76,
+        "end" : 178.08,
+        "text" : " And we're thinking about moving in October, so a couple more months in LA,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30085477258405113,
+        "compression_ratio" : 1.6254681647940075,
+        "no_speech_prob" : 0.04065403342247009
+      },
+      {
+        "id" : 32,
+        "seek" : 15600,
+        "start" : 178.96,
+        "end" : 182.64,
+        "text" : " and then we're probably gonna ship on out to the East Coast.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30085477258405113,
+        "compression_ratio" : 1.6254681647940075,
+        "no_speech_prob" : 0.04065403342247009
+      },
+      {
+        "id" : 33,
+        "seek" : 18264,
+        "start" : 183.6,
+        "end" : 191.28,
+        "text" : " Yeah. And another reason being that, professionally, I don't know, we feel like there's maybe more",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21105087555206573,
+        "compression_ratio" : 1.6169354838709677,
+        "no_speech_prob" : 0.06095028296113014
+      },
+      {
+        "id" : 34,
+        "seek" : 18264,
+        "start" : 191.28,
+        "end" : 197.92,
+        "text" : " opportunities there for us. It feels like in LA. We don't really know anyone. Just kind of stagnant,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21105087555206573,
+        "compression_ratio" : 1.6169354838709677,
+        "no_speech_prob" : 0.06095028296113014
+      },
+      {
+        "id" : 35,
+        "seek" : 18264,
+        "start" : 197.92,
+        "end" : 202.8,
+        "text" : " it's just kind of stagnant here. So we're trying to mix it up a little bit. Just new stimulus,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21105087555206573,
+        "compression_ratio" : 1.6169354838709677,
+        "no_speech_prob" : 0.06095028296113014
+      },
+      {
+        "id" : 36,
+        "seek" : 18264,
+        "start" : 203.44,
+        "end" : 210.08,
+        "text" : " you know what I mean? Get it going on a little bit. Yeah. Yeah. Oh come on, didn't you say more than that?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.21105087555206573,
+        "compression_ratio" : 1.6169354838709677,
+        "no_speech_prob" : 0.06095028296113014
+      },
+      {
+        "id" : 37,
+        "seek" : 21008,
+        "start" : 210.16,
+        "end" : 215.68,
+        "text" : " Yeah. And then we'll, come on, dude, we're good to say you. We're good to say it, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22105619880590546,
+        "compression_ratio" : 1.612565445026178,
+        "no_speech_prob" : 0.003547226544469595
+      },
+      {
+        "id" : 38,
+        "seek" : 21008,
+        "start" : 218.72,
+        "end" : 223.92,
+        "text" : " I should roll more in the reaction videos. I don't utilize the wheel, the chair on wheels enough.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22105619880590546,
+        "compression_ratio" : 1.612565445026178,
+        "no_speech_prob" : 0.003547226544469595
+      },
+      {
+        "id" : 39,
+        "seek" : 21008,
+        "start" : 224.8,
+        "end" : 225.84,
+        "text" : " This could be a good reaction.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22105619880590546,
+        "compression_ratio" : 1.612565445026178,
+        "no_speech_prob" : 0.003547226544469595
+      },
+      {
+        "id" : 40,
+        "seek" : 21008,
+        "start" : 231.04,
+        "end" : 236.32,
+        "text" : " Anyway, we're starting to work on a new reaction video. We've been doing a lot of research,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.22105619880590546,
+        "compression_ratio" : 1.612565445026178,
+        "no_speech_prob" : 0.003547226544469595
+      },
+      {
+        "id" : 41,
+        "seek" : 23632,
+        "start" : 236.32,
+        "end" : 240.96,
+        "text" : " and I don't want to say too much because as you know, there's always a chance that it won't work,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890029518467606,
+        "compression_ratio" : 1.7395498392282958,
+        "no_speech_prob" : 0.04602566361427307
+      },
+      {
+        "id" : 42,
+        "seek" : 23632,
+        "start" : 240.96,
+        "end" : 244.72,
+        "text" : " that won't record for the next couple days and say, you know what? This is the worst video we've",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890029518467606,
+        "compression_ratio" : 1.7395498392282958,
+        "no_speech_prob" : 0.04602566361427307
+      },
+      {
+        "id" : 43,
+        "seek" : 23632,
+        "start" : 244.72,
+        "end" : 249.2,
+        "text" : " ever made. We cannot show this to people. There's a chance that might happen, so I don't want to say",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890029518467606,
+        "compression_ratio" : 1.7395498392282958,
+        "no_speech_prob" : 0.04602566361427307
+      },
+      {
+        "id" : 44,
+        "seek" : 23632,
+        "start" : 249.2,
+        "end" : 254.48,
+        "text" : " what it is. But I'm excited. I hope it turns out well. I think you guys will like it a lot,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890029518467606,
+        "compression_ratio" : 1.7395498392282958,
+        "no_speech_prob" : 0.04602566361427307
+      },
+      {
+        "id" : 45,
+        "seek" : 23632,
+        "start" : 254.48,
+        "end" : 258.88,
+        "text" : " or you'll think it was okay, or you'll hate it. Let me chat a bit, joke.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890029518467606,
+        "compression_ratio" : 1.7395498392282958,
+        "no_speech_prob" : 0.04602566361427307
+      },
+      {
+        "id" : 46,
+        "seek" : 23632,
+        "start" : 260.64,
+        "end" : 263.84,
+        "text" : " Anyway, that's it. That's pretty much it. You know, do you have anything to add?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13890029518467606,
+        "compression_ratio" : 1.7395498392282958,
+        "no_speech_prob" : 0.04602566361427307
+      },
+      {
+        "id" : 47,
+        "seek" : 26384,
+        "start" : 263.84,
+        "end" : 268.24,
+        "text" : " No, let me speak for you. No, I don't. Give me a shit, dude. Just say something.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20090620858328684,
+        "compression_ratio" : 1.5339366515837105,
+        "no_speech_prob" : 0.04396093636751175
+      },
+      {
+        "id" : 48,
+        "seek" : 26384,
+        "start" : 268.24,
+        "end" : 270.64,
+        "text" : " Fuckin' what? I record. I don't talk.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20090620858328684,
+        "compression_ratio" : 1.5339366515837105,
+        "no_speech_prob" : 0.04396093636751175
+      },
+      {
+        "id" : 49,
+        "seek" : 26384,
+        "start" : 274.48,
+        "end" : 274.96,
+        "text" : " Okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20090620858328684,
+        "compression_ratio" : 1.5339366515837105,
+        "no_speech_prob" : 0.04396093636751175
+      },
+      {
+        "id" : 50,
+        "seek" : 26384,
+        "start" : 277.28,
+        "end" : 281.92,
+        "text" : " All right, guys. Thanks for tuning in. We love you guys. We like you. Nice big cocks, by the way.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20090620858328684,
+        "compression_ratio" : 1.5339366515837105,
+        "no_speech_prob" : 0.04396093636751175
+      },
+      {
+        "id" : 51,
+        "seek" : 26384,
+        "start" : 282.48,
+        "end" : 283.2,
+        "text" : " Really beautiful.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20090620858328684,
+        "compression_ratio" : 1.5339366515837105,
+        "no_speech_prob" : 0.04396093636751175
+      },
+      {
+        "id" : 52,
+        "seek" : 26384,
+        "start" : 285.44,
+        "end" : 289.6,
+        "text" : " Really beautiful cocks, dude. Go look at your dick in the mirror, dude. It's a nice one, for sure.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20090620858328684,
+        "compression_ratio" : 1.5339366515837105,
+        "no_speech_prob" : 0.04396093636751175
+      },
+      {
+        "id" : 53,
+        "seek" : 28960,
+        "start" : 290.4,
+        "end" : 295.52,
+        "text" : " Proud of you, dude. It's not weird. You talk to maybe to like, young kids.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206318414033349,
+        "compression_ratio" : 1.82421875,
+        "no_speech_prob" : 0.006820893380790949
+      },
+      {
+        "id" : 54,
+        "seek" : 28960,
+        "start" : 295.52,
+        "end" : 299.92,
+        "text" : " Well, why are kids watching this? I don't know. Well, now you made it weird. I wasn't thinking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206318414033349,
+        "compression_ratio" : 1.82421875,
+        "no_speech_prob" : 0.006820893380790949
+      },
+      {
+        "id" : 55,
+        "seek" : 28960,
+        "start" : 299.92,
+        "end" : 303.52,
+        "text" : " about kids. But you made it a fucking weird thing about pedophilia now, dude.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206318414033349,
+        "compression_ratio" : 1.82421875,
+        "no_speech_prob" : 0.006820893380790949
+      },
+      {
+        "id" : 56,
+        "seek" : 28960,
+        "start" : 304.64,
+        "end" : 308.96,
+        "text" : " All right, whatever, dude. Whatever, whatever. When you grow up, if you're under 18, when you grow up,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206318414033349,
+        "compression_ratio" : 1.82421875,
+        "no_speech_prob" : 0.006820893380790949
+      },
+      {
+        "id" : 57,
+        "seek" : 28960,
+        "start" : 308.96,
+        "end" : 313.76,
+        "text" : " you're gonna develop very healthily. Still weird. You made it weird.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206318414033349,
+        "compression_ratio" : 1.82421875,
+        "no_speech_prob" : 0.006820893380790949
+      },
+      {
+        "id" : 58,
+        "seek" : 28960,
+        "start" : 315.04,
+        "end" : 317.28,
+        "text" : " All right, peace, guys. Sorry about this video.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2206318414033349,
+        "compression_ratio" : 1.82421875,
+        "no_speech_prob" : 0.006820893380790949
+      }
+    ]
+  }
+}

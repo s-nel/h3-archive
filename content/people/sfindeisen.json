@@ -1,0 +1,13 @@
+{
+  "person_id" : "sfindeisen",
+  "category" : "lore",
+  "first_name" : "Stephen",
+  "last_name" : "Findeisen",
+  "display_name" : "Coffeezilla",
+  "thumb" : "/people/sfindeisen.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

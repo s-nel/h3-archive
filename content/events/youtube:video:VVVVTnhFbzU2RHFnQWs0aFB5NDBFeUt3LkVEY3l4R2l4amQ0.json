@@ -1,0 +1,28 @@
+{
+  "event_id" : "youtube:video:VVVVTnhFbzU2RHFnQWs0aFB5NDBFeUt3LkVEY3l4R2l4amQ0",
+  "category" : "video",
+  "name" : "Jake Paul Made A New Diss Track",
+  "description" : "Jake Paul is back with a diss track on Dana White, what year is it?!",
+  "thumb" : "https://i.ytimg.com/vi/EDcyxGixjd4/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan Klein"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/EDcyxGixjd4"
+    }
+  ],
+  "start_date" : 1643590174000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : null
+}

@@ -1,0 +1,788 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlBiWE5iQnhHMEk4",
+  "category" : "video",
+  "name" : "The Surprise Kiss -- h3h3 reaction video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/PbXNbBxG0I8/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    },
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/PbXNbBxG0I8"
+    }
+  ],
+  "start_date" : 1404094224000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 8.42,
+        "text" : " This is called the surprise kiss and it's a story of a very young flattering gentleman who's just got so much swath",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30669060531927617,
+        "compression_ratio" : 1.5991735537190082,
+        "no_speech_prob" : 0.10713091492652893
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 8.76,
+        "end" : 12.68,
+        "text" : " He's just swathed man that all the grandma's probably just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30669060531927617,
+        "compression_ratio" : 1.5991735537190082,
+        "no_speech_prob" : 0.10713091492652893
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 13.5,
+        "end" : 18.78,
+        "text" : " Pinching his cheeks and giving him candy and writing him into his inheritance because this guy's got swathed",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30669060531927617,
+        "compression_ratio" : 1.5991735537190082,
+        "no_speech_prob" : 0.10713091492652893
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.78,
+        "end" : 23.04,
+        "text" : " Why they make my penis move a little bit inflate?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30669060531927617,
+        "compression_ratio" : 1.5991735537190082,
+        "no_speech_prob" : 0.10713091492652893
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 23.04,
+        "end" : 26.08,
+        "text" : " You know what I mean guys get your pen and pencil out",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.30669060531927617,
+        "compression_ratio" : 1.5991735537190082,
+        "no_speech_prob" : 0.10713091492652893
+      },
+      {
+        "id" : 5,
+        "seek" : 2608,
+        "start" : 26.24,
+        "end" : 31.24,
+        "text" : " Great to jump this stuff down because this is the kind of stuff that they don't teach you in school, all right?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5118018920163074,
+        "compression_ratio" : 1.4975124378109452,
+        "no_speech_prob" : 0.020997826009988785
+      },
+      {
+        "id" : 6,
+        "seek" : 2608,
+        "start" : 31.52,
+        "end" : 33.52,
+        "text" : " Let's go",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5118018920163074,
+        "compression_ratio" : 1.4975124378109452,
+        "no_speech_prob" : 0.020997826009988785
+      },
+      {
+        "id" : 7,
+        "seek" : 2608,
+        "start" : 38.32,
+        "end" : 42.52,
+        "text" : " Hey, you're very pretty here's this rose. Okay, can I get some funa?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5118018920163074,
+        "compression_ratio" : 1.4975124378109452,
+        "no_speech_prob" : 0.020997826009988785
+      },
+      {
+        "id" : 8,
+        "seek" : 2608,
+        "start" : 44.92,
+        "end" : 51.48,
+        "text" : " This is called that this is his passion move look out wide his eyes are this is called the Don Juan Cripe along",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5118018920163074,
+        "compression_ratio" : 1.4975124378109452,
+        "no_speech_prob" : 0.020997826009988785
+      },
+      {
+        "id" : 9,
+        "seek" : 5148,
+        "start" : 51.64,
+        "end" : 56.56,
+        "text" : " Openness of his eyes is very important guys open your eyes is wide as possible when you approach women here take a look",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3036994593484061,
+        "compression_ratio" : 1.8677685950413223,
+        "no_speech_prob" : 0.01392736379057169
+      },
+      {
+        "id" : 10,
+        "seek" : 5148,
+        "start" : 59.84,
+        "end" : 65.86,
+        "text" : " What what that is not okay? What did he just say at the beginning guys today?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3036994593484061,
+        "compression_ratio" : 1.8677685950413223,
+        "no_speech_prob" : 0.01392736379057169
+      },
+      {
+        "id" : 11,
+        "seek" : 5148,
+        "start" : 65.86,
+        "end" : 70.92,
+        "text" : " Don't treat girls the way they're meant to be treated you guys don't treat girls the way they're meant to be treated and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3036994593484061,
+        "compression_ratio" : 1.8677685950413223,
+        "no_speech_prob" : 0.01392736379057169
+      },
+      {
+        "id" : 12,
+        "seek" : 5148,
+        "start" : 70.92,
+        "end" : 72.92,
+        "text" : " Vade the personal space and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3036994593484061,
+        "compression_ratio" : 1.8677685950413223,
+        "no_speech_prob" : 0.01392736379057169
+      },
+      {
+        "id" : 13,
+        "seek" : 5148,
+        "start" : 72.92,
+        "end" : 77.24,
+        "text" : " Bless them publicly guys. This is the way the girls meant to be treated. Oh, I'll open the doors for them",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3036994593484061,
+        "compression_ratio" : 1.8677685950413223,
+        "no_speech_prob" : 0.01392736379057169
+      },
+      {
+        "id" : 14,
+        "seek" : 7724,
+        "start" : 77.24,
+        "end" : 84.48,
+        "text" : " Okay, just remember I'm Daniel Fernandez and this is me signing out with the 126,000 subscribers guys treat girls correctly, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.46423117722137064,
+        "compression_ratio" : 1.4334975369458127,
+        "no_speech_prob" : 0.00859574694186449
+      },
+      {
+        "id" : 15,
+        "seek" : 7724,
+        "start" : 86.2,
+        "end" : 88.2,
+        "text" : " Hey girl want to get together and see",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.46423117722137064,
+        "compression_ratio" : 1.4334975369458127,
+        "no_speech_prob" : 0.00859574694186449
+      },
+      {
+        "id" : 16,
+        "seek" : 7724,
+        "start" : 90.44,
+        "end" : 92.44,
+        "text" : " Dog you're so",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.46423117722137064,
+        "compression_ratio" : 1.4334975369458127,
+        "no_speech_prob" : 0.00859574694186449
+      },
+      {
+        "id" : 17,
+        "seek" : 7724,
+        "start" : 92.56,
+        "end" : 94.56,
+        "text" : " Fox in the head",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.46423117722137064,
+        "compression_ratio" : 1.4334975369458127,
+        "no_speech_prob" : 0.00859574694186449
+      },
+      {
+        "id" : 18,
+        "seek" : 7724,
+        "start" : 97.28,
+        "end" : 100.36,
+        "text" : " Oh, it needs a magician to nothing sets you in the magic",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.46423117722137064,
+        "compression_ratio" : 1.4334975369458127,
+        "no_speech_prob" : 0.00859574694186449
+      },
+      {
+        "id" : 19,
+        "seek" : 7724,
+        "start" : 102.56,
+        "end" : 104.56,
+        "text" : " I hope he just like mounts her list",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.46423117722137064,
+        "compression_ratio" : 1.4334975369458127,
+        "no_speech_prob" : 0.00859574694186449
+      },
+      {
+        "id" : 20,
+        "seek" : 10724,
+        "start" : 108.24,
+        "end" : 110.24,
+        "text" : " Hi, oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5151654267922426,
+        "compression_ratio" : 1.4036144578313252,
+        "no_speech_prob" : 0.008375815115869045
+      },
+      {
+        "id" : 21,
+        "seek" : 10724,
+        "start" : 112.24,
+        "end" : 114.24,
+        "text" : " Boyfriend I do too",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5151654267922426,
+        "compression_ratio" : 1.4036144578313252,
+        "no_speech_prob" : 0.008375815115869045
+      },
+      {
+        "id" : 22,
+        "seek" : 10724,
+        "start" : 115.72,
+        "end" : 117.72,
+        "text" : " Actually, I won't be surprised if he did",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5151654267922426,
+        "compression_ratio" : 1.4036144578313252,
+        "no_speech_prob" : 0.008375815115869045
+      },
+      {
+        "id" : 23,
+        "seek" : 10724,
+        "start" : 119.36,
+        "end" : 127.04,
+        "text" : " Hi, I'm a boyfriend. What does he say I do too? Oh, I do too. I'm just here. It's cute and charming and attractive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5151654267922426,
+        "compression_ratio" : 1.4036144578313252,
+        "no_speech_prob" : 0.008375815115869045
+      },
+      {
+        "id" : 24,
+        "seek" : 10724,
+        "start" : 127.04,
+        "end" : 129.04,
+        "text" : " I have a mild autism",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5151654267922426,
+        "compression_ratio" : 1.4036144578313252,
+        "no_speech_prob" : 0.008375815115869045
+      },
+      {
+        "id" : 25,
+        "seek" : 10724,
+        "start" : 132.2,
+        "end" : 134.2,
+        "text" : " Should like do I know you dog?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5151654267922426,
+        "compression_ratio" : 1.4036144578313252,
+        "no_speech_prob" : 0.008375815115869045
+      },
+      {
+        "id" : 26,
+        "seek" : 13420,
+        "start" : 135.2,
+        "end" : 137.2,
+        "text" : " He's like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36003307342529295,
+        "compression_ratio" : 1.6008771929824561,
+        "no_speech_prob" : 0.011834539473056793
+      },
+      {
+        "id" : 27,
+        "seek" : 13420,
+        "start" : 139.2,
+        "end" : 142.8,
+        "text" : " I do I know you I really think you're beautiful here's a rust",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36003307342529295,
+        "compression_ratio" : 1.6008771929824561,
+        "no_speech_prob" : 0.011834539473056793
+      },
+      {
+        "id" : 28,
+        "seek" : 13420,
+        "start" : 144.44,
+        "end" : 150.68,
+        "text" : " Okay, thanks, and guys here we go. You saw how I just charm that girl got her number gave her a kiss guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36003307342529295,
+        "compression_ratio" : 1.6008771929824561,
+        "no_speech_prob" : 0.011834539473056793
+      },
+      {
+        "id" : 29,
+        "seek" : 13420,
+        "start" : 150.68,
+        "end" : 156.56,
+        "text" : " You're not treating women right okay like me. Let me see this polo. You see this select area guys give my kiss and",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36003307342529295,
+        "compression_ratio" : 1.6008771929824561,
+        "no_speech_prob" : 0.011834539473056793
+      },
+      {
+        "id" : 30,
+        "seek" : 13420,
+        "start" : 156.84,
+        "end" : 161.52,
+        "text" : " See you in jail next week on how to molest women in public coming at you",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36003307342529295,
+        "compression_ratio" : 1.6008771929824561,
+        "no_speech_prob" : 0.011834539473056793
+      },
+      {
+        "id" : 31,
+        "seek" : 16152,
+        "start" : 162.52,
+        "end" : 165.88,
+        "text" : " Can you imagine like a big chopster like for door wearing redder?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4166832394070096,
+        "compression_ratio" : 1.5614035087719298,
+        "no_speech_prob" : 0.01789829321205616
+      },
+      {
+        "id" : 32,
+        "seek" : 16152,
+        "start" : 166.44,
+        "end" : 169.24,
+        "text" : " Like going up to girls and taking this guy's tactics to heart",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4166832394070096,
+        "compression_ratio" : 1.5614035087719298,
+        "no_speech_prob" : 0.01789829321205616
+      },
+      {
+        "id" : 33,
+        "seek" : 16152,
+        "start" : 172.76,
+        "end" : 176.24,
+        "text" : " Whoa that was like Jeff Dunham on stage all of sudden I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4166832394070096,
+        "compression_ratio" : 1.5614035087719298,
+        "no_speech_prob" : 0.01789829321205616
+      },
+      {
+        "id" : 34,
+        "seek" : 16152,
+        "start" : 176.64,
+        "end" : 182.12,
+        "text" : " Think that was a fake laughter man this guy's legit. Listen subscribe to this guy guys. How are you guys?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4166832394070096,
+        "compression_ratio" : 1.5614035087719298,
+        "no_speech_prob" : 0.01789829321205616
+      },
+      {
+        "id" : 35,
+        "seek" : 16152,
+        "start" : 185.6,
+        "end" : 190.28,
+        "text" : " God dude just fucking take off that polo and hang yourself with it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4166832394070096,
+        "compression_ratio" : 1.5614035087719298,
+        "no_speech_prob" : 0.01789829321205616
+      },
+      {
+        "id" : 36,
+        "seek" : 19152,
+        "start" : 191.52,
+        "end" : 193.52,
+        "text" : " I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49874138832092285,
+        "compression_ratio" : 1.5862068965517242,
+        "no_speech_prob" : 0.0032175069209188223
+      },
+      {
+        "id" : 37,
+        "seek" : 19152,
+        "start" : 196.04,
+        "end" : 200.64,
+        "text" : " Whoa that laughter guy crazy. I think he's fake laughing this shit",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49874138832092285,
+        "compression_ratio" : 1.5862068965517242,
+        "no_speech_prob" : 0.0032175069209188223
+      },
+      {
+        "id" : 38,
+        "seek" : 19152,
+        "start" : 200.88,
+        "end" : 205.28,
+        "text" : " Watch this shit he gets my high five that is like Jeff done a half guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49874138832092285,
+        "compression_ratio" : 1.5862068965517242,
+        "no_speech_prob" : 0.0032175069209188223
+      },
+      {
+        "id" : 39,
+        "seek" : 19152,
+        "start" : 206.08,
+        "end" : 208.92,
+        "text" : " Fucking Jeff Dunham Adam Sandler give it up classroom",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49874138832092285,
+        "compression_ratio" : 1.5862068965517242,
+        "no_speech_prob" : 0.0032175069209188223
+      },
+      {
+        "id" : 40,
+        "seek" : 19152,
+        "start" : 212.52,
+        "end" : 219.4,
+        "text" : " Whoa here if you want if you want evidence of what's really happening in this classroom guys look at this aging man's face here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.49874138832092285,
+        "compression_ratio" : 1.5862068965517242,
+        "no_speech_prob" : 0.0032175069209188223
+      },
+      {
+        "id" : 41,
+        "seek" : 21940,
+        "start" : 219.4,
+        "end" : 223.44,
+        "text" : " Right here watch him as the shit goes down the left her goes through the roof watch his face",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789504925409953,
+        "compression_ratio" : 1.7464114832535884,
+        "no_speech_prob" : 0.006033046171069145
+      },
+      {
+        "id" : 42,
+        "seek" : 21940,
+        "start" : 228.4,
+        "end" : 233.04,
+        "text" : " That's it guys truth is in the Asian face left to the Asian face rose",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789504925409953,
+        "compression_ratio" : 1.7464114832535884,
+        "no_speech_prob" : 0.006033046171069145
+      },
+      {
+        "id" : 43,
+        "seek" : 21940,
+        "start" : 238.32,
+        "end" : 240.96,
+        "text" : " All right, let's see how this beauty reacts she's very beautiful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789504925409953,
+        "compression_ratio" : 1.7464114832535884,
+        "no_speech_prob" : 0.006033046171069145
+      },
+      {
+        "id" : 44,
+        "seek" : 21940,
+        "start" : 240.96,
+        "end" : 242.52,
+        "text" : " By the way, I'll give her a rose and give her a kiss",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789504925409953,
+        "compression_ratio" : 1.7464114832535884,
+        "no_speech_prob" : 0.006033046171069145
+      },
+      {
+        "id" : 45,
+        "seek" : 21940,
+        "start" : 242.52,
+        "end" : 246.52,
+        "text" : " I would lay on her back if she was in a park and sneak up on her and whisper in here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2789504925409953,
+        "compression_ratio" : 1.7464114832535884,
+        "no_speech_prob" : 0.006033046171069145
+      },
+      {
+        "id" : 46,
+        "seek" : 24940,
+        "start" : 249.4,
+        "end" : 252.68,
+        "text" : " Your neck. No, he just met this is awkward. You're so beautiful",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5641352335611979,
+        "compression_ratio" : 1.4404145077720207,
+        "no_speech_prob" : 0.06272722035646439
+      },
+      {
+        "id" : 47,
+        "seek" : 24940,
+        "start" : 261.4,
+        "end" : 266.2,
+        "text" : " Lots of guys today don't treat girls the way they're meant to be treated get a look at that face got a close up",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5641352335611979,
+        "compression_ratio" : 1.4404145077720207,
+        "no_speech_prob" : 0.06272722035646439
+      },
+      {
+        "id" : 48,
+        "seek" : 24940,
+        "start" : 266.2,
+        "end" : 269.76,
+        "text" : " Treat women how they deserve I'm a neglect",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5641352335611979,
+        "compression_ratio" : 1.4404145077720207,
+        "no_speech_prob" : 0.06272722035646439
+      },
+      {
+        "id" : 49,
+        "seek" : 24940,
+        "start" : 270.0,
+        "end" : 274.04,
+        "text" : " Manny, I care look at my eyes. They're like portals to hell",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5641352335611979,
+        "compression_ratio" : 1.4404145077720207,
+        "no_speech_prob" : 0.06272722035646439
+      },
+      {
+        "id" : 50,
+        "seek" : 27404,
+        "start" : 274.2,
+        "end" : 278.08,
+        "text" : " Book of my teeth. It's like a smile of Satan in the man's form",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4447172725901884,
+        "compression_ratio" : 1.558974358974359,
+        "no_speech_prob" : 0.01910344511270523
+      },
+      {
+        "id" : 51,
+        "seek" : 27404,
+        "start" : 278.08,
+        "end" : 281.42,
+        "text" : " Here's a little age and do that he was in the frame right here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4447172725901884,
+        "compression_ratio" : 1.558974358974359,
+        "no_speech_prob" : 0.01910344511270523
+      },
+      {
+        "id" : 52,
+        "seek" : 27404,
+        "start" : 281.42,
+        "end" : 284.56,
+        "text" : " He wouldn't be a laughing he'd tell the truth of the situation",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4447172725901884,
+        "compression_ratio" : 1.558974358974359,
+        "no_speech_prob" : 0.01910344511270523
+      },
+      {
+        "id" : 53,
+        "seek" : 27404,
+        "start" : 286.44,
+        "end" : 288.44,
+        "text" : " My man just here right now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4447172725901884,
+        "compression_ratio" : 1.558974358974359,
+        "no_speech_prob" : 0.01910344511270523
+      },
+      {
+        "id" : 54,
+        "seek" : 27404,
+        "start" : 289.56,
+        "end" : 292.84,
+        "text" : " Well guys today don't treat girls the way they're meant to be treated",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4447172725901884,
+        "compression_ratio" : 1.558974358974359,
+        "no_speech_prob" : 0.01910344511270523
+      },
+      {
+        "id" : 55,
+        "seek" : 27404,
+        "start" : 294.96,
+        "end" : 296.96,
+        "text" : " Why do you do that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4447172725901884,
+        "compression_ratio" : 1.558974358974359,
+        "no_speech_prob" : 0.01910344511270523
+      },
+      {
+        "id" : 56,
+        "seek" : 30404,
+        "start" : 304.72,
+        "end" : 315.08,
+        "text" : " He includes this clip because he's so fucking insane that he thinks that this goes to show that he's such a player that she's thinking about",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24680812270553024,
+        "compression_ratio" : 1.7510729613733906,
+        "no_speech_prob" : 0.036964356899261475
+      },
+      {
+        "id" : 57,
+        "seek" : 30404,
+        "start" : 315.08,
+        "end" : 319.48,
+        "text" : " I want to suck that guy's dick tonight when he calls me. He's so charm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24680812270553024,
+        "compression_ratio" : 1.7510729613733906,
+        "no_speech_prob" : 0.036964356899261475
+      },
+      {
+        "id" : 58,
+        "seek" : 30404,
+        "start" : 319.48,
+        "end" : 322.64,
+        "text" : " It's so select and he thinks I'm so beautiful. I love him",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24680812270553024,
+        "compression_ratio" : 1.7510729613733906,
+        "no_speech_prob" : 0.036964356899261475
+      },
+      {
+        "id" : 59,
+        "seek" : 30404,
+        "start" : 322.64,
+        "end" : 327.32,
+        "text" : " Also do you mind if I film you and you don't know may I film you and and not tell you?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24680812270553024,
+        "compression_ratio" : 1.7510729613733906,
+        "no_speech_prob" : 0.036964356899261475
+      },
+      {
+        "id" : 60,
+        "seek" : 30404,
+        "start" : 328.2,
+        "end" : 331.28,
+        "text" : " This is the thumbnail. He did this as the thumbnail",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.24680812270553024,
+        "compression_ratio" : 1.7510729613733906,
+        "no_speech_prob" : 0.036964356899261475
+      },
+      {
+        "id" : 61,
+        "seek" : 33128,
+        "start" : 332.28,
+        "end" : 334.28,
+        "text" : " Like",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.774017333984375,
+        "compression_ratio" : 0.958904109589041,
+        "no_speech_prob" : 0.013588041998445988
+      },
+      {
+        "id" : 62,
+        "seek" : 33128,
+        "start" : 334.28,
+        "end" : 337.28,
+        "text" : " Delusion stop this guy's a future Scientologist",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.774017333984375,
+        "compression_ratio" : 0.958904109589041,
+        "no_speech_prob" : 0.013588041998445988
+      },
+      {
+        "id" : 63,
+        "seek" : 33128,
+        "start" : 347.28,
+        "end" : 349.28,
+        "text" : " What it's so much",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.774017333984375,
+        "compression_ratio" : 0.958904109589041,
+        "no_speech_prob" : 0.013588041998445988
+      },
+      {
+        "id" : 64,
+        "seek" : 36128,
+        "start" : 362.28,
+        "end" : 365.28,
+        "text" : " After so many videos I'm just speechless because I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41603824615478513,
+        "compression_ratio" : 1.3795620437956204,
+        "no_speech_prob" : 0.0935046523809433
+      },
+      {
+        "id" : 65,
+        "seek" : 36128,
+        "start" : 366.8,
+        "end" : 369.08,
+        "text" : " Think this guy might be the worst of all of them",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41603824615478513,
+        "compression_ratio" : 1.3795620437956204,
+        "no_speech_prob" : 0.0935046523809433
+      },
+      {
+        "id" : 66,
+        "seek" : 36128,
+        "start" : 376.28,
+        "end" : 378.28,
+        "text" : " I just want to say that I think you're really good looking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41603824615478513,
+        "compression_ratio" : 1.3795620437956204,
+        "no_speech_prob" : 0.0935046523809433
+      },
+      {
+        "id" : 67,
+        "seek" : 36128,
+        "start" : 384.12,
+        "end" : 386.12,
+        "text" : " I want to get together in jail",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41603824615478513,
+        "compression_ratio" : 1.3795620437956204,
+        "no_speech_prob" : 0.0935046523809433
+      }
+    ]
+  }
+}

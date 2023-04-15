@@ -1,0 +1,13 @@
+{
+  "person_id" : "emusk",
+  "category" : "lore",
+  "first_name" : "Elon",
+  "last_name" : "Musk",
+  "display_name" : null,
+  "thumb" : "/people/emusk.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

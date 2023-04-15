@@ -1,0 +1,322 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLkVNYWFNcThUN0Nn",
+  "category" : "video",
+  "name" : "rekt together",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/EMaaMq8T7Cg/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/EMaaMq8T7Cg"
+    }
+  ],
+  "start_date" : 1414780389000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9381939516229144,
+        "compression_ratio" : 1.3643410852713178,
+        "no_speech_prob" : 0.4847407937049866
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 13.52,
+        "end" : 19.0,
+        "text" : " Feelin down try it rich kid turn right I can't believe I'm like e that I'm",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9381939516229144,
+        "compression_ratio" : 1.3643410852713178,
+        "no_speech_prob" : 0.4847407937049866
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 25.0,
+        "text" : " Over the gays seems like I'm getting done a reminiscence to a time and I was y'all go with a hunker",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9381939516229144,
+        "compression_ratio" : 1.3643410852713178,
+        "no_speech_prob" : 0.4847407937049866
+      },
+      {
+        "id" : 3,
+        "seek" : 2500,
+        "start" : 26.0,
+        "end" : 28.0,
+        "text" : " Termination",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7280874900447513,
+        "compression_ratio" : 1.6375,
+        "no_speech_prob" : 0.4298793077468872
+      },
+      {
+        "id" : 4,
+        "seek" : 2500,
+        "start" : 28.0,
+        "end" : 35.1,
+        "text" : " But now I see the hesitate to be on my team you know the routine when you win in the grand all up in your face like they would",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7280874900447513,
+        "compression_ratio" : 1.6375,
+        "no_speech_prob" : 0.4298793077468872
+      },
+      {
+        "id" : 5,
+        "seek" : 2500,
+        "start" : 35.1,
+        "end" : 39.8,
+        "text" : " Would you from the beginning but on the fifth side when you watch the black a good time who's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7280874900447513,
+        "compression_ratio" : 1.6375,
+        "no_speech_prob" : 0.4298793077468872
+      },
+      {
+        "id" : 6,
+        "seek" : 2500,
+        "start" : 39.8,
+        "end" : 42.0,
+        "text" : " Climb up you slipped and let's just",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7280874900447513,
+        "compression_ratio" : 1.6375,
+        "no_speech_prob" : 0.4298793077468872
+      },
+      {
+        "id" : 7,
+        "seek" : 2500,
+        "start" : 42.0,
+        "end" : 43.0,
+        "text" : " Slug",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7280874900447513,
+        "compression_ratio" : 1.6375,
+        "no_speech_prob" : 0.4298793077468872
+      },
+      {
+        "id" : 8,
+        "seek" : 2500,
+        "start" : 43.0,
+        "end" : 50.0,
+        "text" : " This is all the fact my voice is wet cloud is running round talk about a smoke crack and got no homies that got my back",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7280874900447513,
+        "compression_ratio" : 1.6375,
+        "no_speech_prob" : 0.4298793077468872
+      },
+      {
+        "id" : 9,
+        "seek" : 5000,
+        "start" : 50.0,
+        "end" : 56.0,
+        "text" : " Yeah, my brother but sometimes I don't fear black my girl is white my came in tight",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4868899804574472,
+        "compression_ratio" : 2.267857142857143,
+        "no_speech_prob" : 0.12334083020687103
+      },
+      {
+        "id" : 10,
+        "seek" : 5000,
+        "start" : 56.0,
+        "end" : 59.0,
+        "text" : " Make a two-inch evening around be like dude you are I",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4868899804574472,
+        "compression_ratio" : 2.267857142857143,
+        "no_speech_prob" : 0.12334083020687103
+      },
+      {
+        "id" : 11,
+        "seek" : 5000,
+        "start" : 59.0,
+        "end" : 66.0,
+        "text" : " Who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4868899804574472,
+        "compression_ratio" : 2.267857142857143,
+        "no_speech_prob" : 0.12334083020687103
+      },
+      {
+        "id" : 12,
+        "seek" : 5000,
+        "start" : 66.0,
+        "end" : 72.0,
+        "text" : " And I said cool it who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4868899804574472,
+        "compression_ratio" : 2.267857142857143,
+        "no_speech_prob" : 0.12334083020687103
+      },
+      {
+        "id" : 13,
+        "seek" : 5000,
+        "start" : 72.0,
+        "end" : 78.0,
+        "text" : " And I say cool it who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4868899804574472,
+        "compression_ratio" : 2.267857142857143,
+        "no_speech_prob" : 0.12334083020687103
+      },
+      {
+        "id" : 14,
+        "seek" : 7800,
+        "start" : 78.0,
+        "end" : 84.0,
+        "text" : " Who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609182756025713,
+        "compression_ratio" : 1.5913461538461537,
+        "no_speech_prob" : 0.2579253315925598
+      },
+      {
+        "id" : 15,
+        "seek" : 7800,
+        "start" : 84.0,
+        "end" : 90.0,
+        "text" : " Go all like a circle almost every day in the back of your mind you probably think I was gay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609182756025713,
+        "compression_ratio" : 1.5913461538461537,
+        "no_speech_prob" : 0.2579253315925598
+      },
+      {
+        "id" : 16,
+        "seek" : 7800,
+        "start" : 90.0,
+        "end" : 96.0,
+        "text" : " But now I'm just a bitch ass nigga the type to get jacked if I'm the rich ass nigga",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609182756025713,
+        "compression_ratio" : 1.5913461538461537,
+        "no_speech_prob" : 0.2579253315925598
+      },
+      {
+        "id" : 17,
+        "seek" : 7800,
+        "start" : 96.0,
+        "end" : 101.0,
+        "text" : " I've been a loser just about all my life take the trying to turn a hole to a housewife",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3609182756025713,
+        "compression_ratio" : 1.5913461538461537,
+        "no_speech_prob" : 0.2579253315925598
+      },
+      {
+        "id" : 18,
+        "seek" : 10100,
+        "start" : 102.0,
+        "end" : 107.0,
+        "text" : " We do you respect the give respect and feel for whole niggas keeping check",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5584300207713294,
+        "compression_ratio" : 1.4846625766871167,
+        "no_speech_prob" : 0.39514583349227905
+      },
+      {
+        "id" : 19,
+        "seek" : 10100,
+        "start" : 107.0,
+        "end" : 113.0,
+        "text" : " I'm a far from art emotionally scarred I'm peeking with the water with regard it as a retard",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5584300207713294,
+        "compression_ratio" : 1.4846625766871167,
+        "no_speech_prob" : 0.39514583349227905
+      },
+      {
+        "id" : 20,
+        "seek" : 10100,
+        "start" : 113.0,
+        "end" : 119.0,
+        "text" : " I make myself sick get on my own nerves in mature midst to a grown up nerd",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5584300207713294,
+        "compression_ratio" : 1.4846625766871167,
+        "no_speech_prob" : 0.39514583349227905
+      },
+      {
+        "id" : 21,
+        "seek" : 11900,
+        "start" : 119.0,
+        "end" : 124.0,
+        "text" : " I'm a single day",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.43504941021954574,
+        "compression_ratio" : 1.8421052631578947,
+        "no_speech_prob" : 0.6033399105072021
+      },
+      {
+        "id" : 22,
+        "seek" : 11900,
+        "start" : 130.0,
+        "end" : 134.0,
+        "text" : " Who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.43504941021954574,
+        "compression_ratio" : 1.8421052631578947,
+        "no_speech_prob" : 0.6033399105072021
+      },
+      {
+        "id" : 23,
+        "seek" : 11900,
+        "start" : 134.0,
+        "end" : 140.0,
+        "text" : " And I said cool them who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.6,
+        "avg_logprob" : -0.43504941021954574,
+        "compression_ratio" : 1.8421052631578947,
+        "no_speech_prob" : 0.6033399105072021
+      },
+      {
+        "id" : 24,
+        "seek" : 14000,
+        "start" : 140.0,
+        "end" : 146.0,
+        "text" : " And I said cool them who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059884132123460956,
+        "compression_ratio" : 2.1566265060240966,
+        "no_speech_prob" : 0.2909517288208008
+      },
+      {
+        "id" : 25,
+        "seek" : 14000,
+        "start" : 146.0,
+        "end" : 152.0,
+        "text" : " And I said cool them who am I kidding who am I fooling when they be like what's up fat li",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.059884132123460956,
+        "compression_ratio" : 2.1566265060240966,
+        "no_speech_prob" : 0.2909517288208008
+      }
+    ]
+  }
+}

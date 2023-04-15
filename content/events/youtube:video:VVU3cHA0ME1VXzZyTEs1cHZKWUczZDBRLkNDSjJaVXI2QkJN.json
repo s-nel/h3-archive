@@ -1,0 +1,300 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLkNDSjJaVXI2QkJN",
+  "category" : "video",
+  "name" : "hania gets rekt [surprise ending]",
+  "description" : "From Dr. Klein: https://www.youtube.com/watch?v=NOB2CLEdzyY\n\ncredit to majorleaguewobs on dat sick cory trap: \nhttps://soundcloud.com/majorleaguewobs/cory-in-the-house-trap-remix-4krequest\nhttps://www.youtube.com/user/strangeholder",
+  "thumb" : "https://i.ytimg.com/vi/CCJ2ZUr6BBM/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/CCJ2ZUr6BBM"
+    }
+  ],
+  "start_date" : 1409934788000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.0,
+        "text" : " As hard as I try I just can't get wrecked.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33618457794189455,
+        "compression_ratio" : 1.3243243243243243,
+        "no_speech_prob" : 0.04475366324186325
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 7.0,
+        "text" : " Alright, this one comes from Hania.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33618457794189455,
+        "compression_ratio" : 1.3243243243243243,
+        "no_speech_prob" : 0.04475366324186325
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 8.0,
+        "end" : 10.0,
+        "text" : " It's hard as you try you can't get wrecked.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33618457794189455,
+        "compression_ratio" : 1.3243243243243243,
+        "no_speech_prob" : 0.04475366324186325
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 11.0,
+        "end" : 13.0,
+        "text" : " Play the music you love.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.33618457794189455,
+        "compression_ratio" : 1.3243243243243243,
+        "no_speech_prob" : 0.04475366324186325
+      },
+      {
+        "id" : 4,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 31.0,
+        "text" : " I'm talking about the whole apple.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 5,
+        "seek" : 3000,
+        "start" : 31.0,
+        "end" : 32.0,
+        "text" : " I think you can start it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 6,
+        "seek" : 3000,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " Mr. President, you mess with me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 7,
+        "seek" : 3000,
+        "start" : 34.0,
+        "end" : 35.0,
+        "text" : " You start it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 8,
+        "seek" : 3000,
+        "start" : 35.0,
+        "end" : 38.0,
+        "text" : " I'm washing, but this evil man must be.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 9,
+        "seek" : 3000,
+        "start" : 38.0,
+        "end" : 40.0,
+        "text" : " I'm gonna explain that for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 10,
+        "seek" : 3000,
+        "start" : 40.0,
+        "end" : 41.0,
+        "text" : " For me, for me, for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 11,
+        "seek" : 3000,
+        "start" : 41.0,
+        "end" : 42.0,
+        "text" : " Give a hand.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 12,
+        "seek" : 3000,
+        "start" : 42.0,
+        "end" : 44.0,
+        "text" : " If I'm on it every week, baby.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 13,
+        "seek" : 3000,
+        "start" : 44.0,
+        "end" : 45.0,
+        "text" : " For me, for me, for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 14,
+        "seek" : 3000,
+        "start" : 45.0,
+        "end" : 46.0,
+        "text" : " Staying it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 15,
+        "seek" : 3000,
+        "start" : 46.0,
+        "end" : 48.0,
+        "text" : " That's why I'm getting the hang.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 16,
+        "seek" : 3000,
+        "start" : 48.0,
+        "end" : 50.0,
+        "text" : " Go shing it up and hang.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 17,
+        "seek" : 3000,
+        "start" : 50.0,
+        "end" : 51.0,
+        "text" : " Check it out.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 18,
+        "seek" : 3000,
+        "start" : 51.0,
+        "end" : 52.0,
+        "text" : " Let me o' bring it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 19,
+        "seek" : 3000,
+        "start" : 52.0,
+        "end" : 53.0,
+        "text" : " Just a little bit.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 20,
+        "seek" : 3000,
+        "start" : 53.0,
+        "end" : 55.0,
+        "text" : " No, let me hold the same.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 21,
+        "seek" : 3000,
+        "start" : 55.0,
+        "end" : 58.0,
+        "text" : " We've got more, we've been behind.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6419482809959809,
+        "compression_ratio" : 1.6838235294117647,
+        "no_speech_prob" : 0.8204955458641052
+      },
+      {
+        "id" : 22,
+        "seek" : 5800,
+        "start" : 58.0,
+        "end" : 62.0,
+        "text" : " I'm your man.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48052918116251625,
+        "compression_ratio" : 0.8181818181818182,
+        "no_speech_prob" : 0.0789853036403656
+      },
+      {
+        "id" : 23,
+        "seek" : 5800,
+        "start" : 65.0,
+        "end" : 66.0,
+        "text" : " I'm retarded.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48052918116251625,
+        "compression_ratio" : 0.8181818181818182,
+        "no_speech_prob" : 0.0789853036403656
+      }
+    ]
+  }
+}

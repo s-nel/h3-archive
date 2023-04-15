@@ -1,0 +1,69 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLlZUYjhSYlFTd1VR",
+  "category" : "video",
+  "name" : "sand that wood boy (edgy) [h3h3productions]",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/VTb8RbQSwUQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/VTb8RbQSwUQ"
+    }
+  ],
+  "start_date" : 1395089330000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 6.5,
+        "text" : " Oh, that's a fine piece of wood, boy. Yeah, check file that wood down, boy. That's real fine tight finish you got there",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132136951793324,
+        "compression_ratio" : 1.807909604519774,
+        "no_speech_prob" : 0.017966926097869873
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 7.02,
+        "end" : 14.24,
+        "text" : " Mmm, that's a fine piece of wood, Brian. Oh, I like to finish that wood over there with you, boy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132136951793324,
+        "compression_ratio" : 1.807909604519774,
+        "no_speech_prob" : 0.017966926097869873
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 14.28,
+        "end" : 20.5,
+        "text" : " Put that up on the post to put a bed right on that nice finish wood there send that down real nice, boy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3132136951793324,
+        "compression_ratio" : 1.807909604519774,
+        "no_speech_prob" : 0.017966926097869873
+      }
+    ]
+  }
+}

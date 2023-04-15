@@ -1,0 +1,542 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjVySXFYdjdqUlVR",
+  "category" : "video",
+  "name" : "Dodger Stadium",
+  "description" : "Baseball is pretty dope, got to eat some cheese and powder my balls.",
+  "thumb" : "https://i.ytimg.com/vi/5rIqXv7jRUQ/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/5rIqXv7jRUQ"
+    }
+  ],
+  "start_date" : 1434317453000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 5.0,
+        "text" : " I think it's some like fucking baby powder dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 10.0,
+        "end" : 12.0,
+        "text" : " You know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.0,
+        "end" : 14.0,
+        "text" : " Like baby powder?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 16.0,
+        "text" : " Wonder flower would work",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 16.0,
+        "end" : 18.0,
+        "text" : " What?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 18.0,
+        "end" : 20.0,
+        "text" : " Yeah whenever I walk",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 24.0,
+        "text" : " I don't know if I've got like really long nasty thick like pews",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 24.0,
+        "end" : 27.0,
+        "text" : " Like in the space like between my asshole and my balls",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.34838335673014326,
+        "compression_ratio" : 1.4827586206896552,
+        "no_speech_prob" : 0.38883665204048157
+      },
+      {
+        "id" : 8,
+        "seek" : 2700,
+        "start" : 27.0,
+        "end" : 29.0,
+        "text" : " But it's so fucking cheap",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 9,
+        "seek" : 2700,
+        "start" : 29.0,
+        "end" : 30.0,
+        "text" : " I've got to walk like this dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 10,
+        "seek" : 2700,
+        "start" : 30.0,
+        "end" : 32.0,
+        "text" : " I feel like a normal human being",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 11,
+        "seek" : 2700,
+        "start" : 32.0,
+        "end" : 34.0,
+        "text" : " I don't see anyone else walking around like this",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 12,
+        "seek" : 2700,
+        "start" : 34.0,
+        "end" : 35.0,
+        "text" : " You know what I mean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 13,
+        "seek" : 2700,
+        "start" : 35.0,
+        "end" : 36.0,
+        "text" : " Sometimes I get the feeling just to me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 14,
+        "seek" : 2700,
+        "start" : 36.0,
+        "end" : 37.0,
+        "text" : " But I don't know how to fix that",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 15,
+        "seek" : 2700,
+        "start" : 37.0,
+        "end" : 38.0,
+        "text" : " I don't know",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 16,
+        "seek" : 2700,
+        "start" : 38.0,
+        "end" : 41.0,
+        "text" : " Because I would baby powder's for flower",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 17,
+        "seek" : 2700,
+        "start" : 42.0,
+        "end" : 45.0,
+        "text" : " I'm gonna bake a cake and my fucking asshole",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 18,
+        "seek" : 2700,
+        "start" : 45.0,
+        "end" : 49.0,
+        "text" : " Terry, this is responsible for conducting the attack of the baby",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 19,
+        "seek" : 2700,
+        "start" : 49.0,
+        "end" : 52.0,
+        "text" : " That's your neck United States baby",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 20,
+        "seek" : 2700,
+        "start" : 52.0,
+        "end" : 54.0,
+        "text" : " And re-wrapping",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3413312453632207,
+        "compression_ratio" : 1.6327272727272728,
+        "no_speech_prob" : 0.01736963540315628
+      },
+      {
+        "id" : 21,
+        "seek" : 5400,
+        "start" : 54.0,
+        "end" : 57.0,
+        "text" : " I'm gonna take it from the training and mobilizing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 22,
+        "seek" : 5400,
+        "start" : 57.0,
+        "end" : 60.0,
+        "text" : " Additionally he oversees the construction and repair of Naples",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 23,
+        "seek" : 5400,
+        "start" : 60.0,
+        "end" : 64.0,
+        "text" : " And proud to send you the secretary made his as prioritized improving the quality of life",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 24,
+        "seek" : 5400,
+        "start" : 64.0,
+        "end" : 66.0,
+        "text" : " And that's such a fucking fat idiot",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 25,
+        "seek" : 5400,
+        "start" : 66.0,
+        "end" : 68.0,
+        "text" : " You're increasing the department of the past two dollars",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 26,
+        "seek" : 5400,
+        "start" : 68.0,
+        "end" : 70.0,
+        "text" : " The best is the thing is fake ass teeth",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 27,
+        "seek" : 5400,
+        "start" : 70.0,
+        "end" : 71.0,
+        "text" : " Striking partnerships",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 28,
+        "seek" : 5400,
+        "start" : 71.0,
+        "end" : 72.0,
+        "text" : " It is working though",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 29,
+        "seek" : 5400,
+        "start" : 72.0,
+        "end" : 74.0,
+        "text" : " 20 bucks is a small price to pay for",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 30,
+        "seek" : 5400,
+        "start" : 74.0,
+        "end" : 75.0,
+        "text" : " Die here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 31,
+        "seek" : 5400,
+        "start" : 75.0,
+        "end" : 76.0,
+        "text" : " And early hard disease",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 32,
+        "seek" : 5400,
+        "start" : 76.0,
+        "end" : 80.0,
+        "text" : " Let's go into the warm round of applause as we welcome the United States Secretary of the United States",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 33,
+        "seek" : 5400,
+        "start" : 80.0,
+        "end" : 82.0,
+        "text" : " We're asking you to set the order and not to tease",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5750857688285209,
+        "compression_ratio" : 1.6985915492957746,
+        "no_speech_prob" : 0.12487287819385529
+      },
+      {
+        "id" : 34,
+        "seek" : 8200,
+        "start" : 82.0,
+        "end" : 84.0,
+        "text" : " But don't you say them",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 35,
+        "seek" : 8200,
+        "start" : 84.0,
+        "end" : 86.0,
+        "text" : " Round of applause, you're right",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 36,
+        "seek" : 8200,
+        "start" : 86.0,
+        "end" : 88.0,
+        "text" : " Secretary, baby, the mound is yours",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 37,
+        "seek" : 8200,
+        "start" : 88.0,
+        "end" : 90.0,
+        "text" : " Woo",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 38,
+        "seek" : 8200,
+        "start" : 90.0,
+        "end" : 92.0,
+        "text" : " I'm here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 39,
+        "seek" : 8200,
+        "start" : 92.0,
+        "end" : 95.0,
+        "text" : " Can't take away the show",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 40,
+        "seek" : 8200,
+        "start" : 95.0,
+        "end" : 97.0,
+        "text" : " For it's fun",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 41,
+        "seek" : 8200,
+        "start" : 97.0,
+        "end" : 99.0,
+        "text" : " To lose the game",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 42,
+        "seek" : 8200,
+        "start" : 99.0,
+        "end" : 101.0,
+        "text" : " I'm here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 43,
+        "seek" : 8200,
+        "start" : 101.0,
+        "end" : 106.0,
+        "text" : " Look at the crowd",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 44,
+        "seek" : 8200,
+        "start" : 106.0,
+        "end" : 110.0,
+        "text" : " That's a good two-three I can stop low",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8256641905984761,
+        "compression_ratio" : 1.391304347826087,
+        "no_speech_prob" : 0.2528672218322754
+      },
+      {
+        "id" : 45,
+        "seek" : 11000,
+        "start" : 110.0,
+        "end" : 112.0,
+        "text" : " I'm here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7965043385823568,
+        "compression_ratio" : 0.5,
+        "no_speech_prob" : 0.625396192073822
+      }
+    ]
+  }
+}

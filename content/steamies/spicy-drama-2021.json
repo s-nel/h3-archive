@@ -1,0 +1,71 @@
+{
+  "steamy_id" : "spicy-drama-2021",
+  "people" : [
+    {
+      "person_id" : [
+        "hpiker"
+      ],
+      "name" : "Hasan owning a house",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "tniknam",
+        "flengyel"
+      ],
+      "name" : "Twitch Gambling",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "dbregoli",
+        "pmcgraw"
+      ],
+      "name" : "Bhad Bhabie Vs Dr. Phil",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "scampbell"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ddobrik",
+        "jwittek",
+        "jfrancois",
+        "dzeglaitis"
+      ],
+      "name" : "Vlog Squad meltdown",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "eklein",
+        "tpaytas"
+      ],
+      "name" : "Ending of Frenemies",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "bspears"
+      ],
+      "name" : "Britney Spears' conservatorship",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "amcbroom",
+        "cpaiz"
+      ],
+      "name" : "Ace Famly",
+      "won" : false
+    }
+  ],
+  "name" : "Spiciest Drama",
+  "description" : null,
+  "year" : 2021
+}

@@ -1,0 +1,72 @@
+{
+  "event_id" : "spotify:episode:19frxxCoTrgjxfDapMt1jk",
+  "category" : "podcast",
+  "name" : "Amber Heard v Johnny Depp FINAL VERDICT - Off The Rails #36",
+  "description" : "<p>Today we deliver the most unorthodox reaction to the Amber Heard v. Johnny Depp trial you will ever see. We also have the absolutely iconic JIMMIE LEE in studio for the ultimate redemption arc.</p><p> </p>",
+  "thumb" : null,
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/19frxxCoTrgjxfDapMt1jk"
+    }
+  ],
+  "start_date" : 1652832000000,
+  "duration" : 10067617,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "jdepp",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "jlee",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aheard",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : null
+}

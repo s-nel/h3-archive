@@ -1,0 +1,674 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLjNSMUx0dlh5NzRn",
+  "category" : "video",
+  "name" : "Disc golf with Sean",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/3R1LtvXy74g/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/3R1LtvXy74g"
+    }
+  ],
+  "start_date" : 1417992905000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 3.0,
+        "text" : " We're going we're going on a little nature today",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39056175405328925,
+        "compression_ratio" : 1.5414634146341464,
+        "no_speech_prob" : 0.11681347340345383
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 4.0,
+        "end" : 8.64,
+        "text" : " This is the first time we left the house and what seems like I probably got five years",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39056175405328925,
+        "compression_ratio" : 1.5414634146341464,
+        "no_speech_prob" : 0.11681347340345383
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 12.36,
+        "end" : 14.36,
+        "text" : " Mm-hmm start your day off right guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39056175405328925,
+        "compression_ratio" : 1.5414634146341464,
+        "no_speech_prob" : 0.11681347340345383
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 18.2,
+        "end" : 20.2,
+        "text" : " We're going disc golfing",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39056175405328925,
+        "compression_ratio" : 1.5414634146341464,
+        "no_speech_prob" : 0.11681347340345383
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 20.56,
+        "end" : 23.0,
+        "text" : " Here I'll show you guys if you don't know that is disco",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39056175405328925,
+        "compression_ratio" : 1.5414634146341464,
+        "no_speech_prob" : 0.11681347340345383
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 23.76,
+        "end" : 27.04,
+        "text" : " There's a the first course ever in Israel. What's in the city?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39056175405328925,
+        "compression_ratio" : 1.5414634146341464,
+        "no_speech_prob" : 0.11681347340345383
+      },
+      {
+        "id" : 6,
+        "seek" : 2704,
+        "start" : 27.04,
+        "end" : 29.88,
+        "text" : " I should go in southern Israel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41486564636230466,
+        "compression_ratio" : 1.5353982300884956,
+        "no_speech_prob" : 0.07291480898857117
+      },
+      {
+        "id" : 7,
+        "seek" : 2704,
+        "start" : 30.48,
+        "end" : 32.48,
+        "text" : " It's about a two hour drive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41486564636230466,
+        "compression_ratio" : 1.5353982300884956,
+        "no_speech_prob" : 0.07291480898857117
+      },
+      {
+        "id" : 8,
+        "seek" : 2704,
+        "start" : 32.48,
+        "end" : 39.12,
+        "text" : " Me and Sean were avid disco players in California and they just built the first ever course here in Israel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41486564636230466,
+        "compression_ratio" : 1.5353982300884956,
+        "no_speech_prob" : 0.07291480898857117
+      },
+      {
+        "id" : 9,
+        "seek" : 2704,
+        "start" : 39.12,
+        "end" : 47.16,
+        "text" : " So we're going down there just throw some rocks, you know what I mean and to catch a inner stellar on 3d",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41486564636230466,
+        "compression_ratio" : 1.5353982300884956,
+        "no_speech_prob" : 0.07291480898857117
+      },
+      {
+        "id" : 10,
+        "seek" : 2704,
+        "start" : 47.16,
+        "end" : 53.52,
+        "text" : " I'm not 3d but I'm ass. I hate 3d. I'm glad. Oh fuck. I hate 3d movies, dude",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.41486564636230466,
+        "compression_ratio" : 1.5353982300884956,
+        "no_speech_prob" : 0.07291480898857117
+      },
+      {
+        "id" : 11,
+        "seek" : 5352,
+        "start" : 54.52,
+        "end" : 61.44,
+        "text" : " So we're we're walking to the US sisters car to get the car which we're gonna drive",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4471251337151778,
+        "compression_ratio" : 1.4913294797687862,
+        "no_speech_prob" : 0.01229869481176138
+      },
+      {
+        "id" : 12,
+        "seek" : 5352,
+        "start" : 62.96,
+        "end" : 67.92,
+        "text" : " I'm glad drive. He was gonna drive it. Look at this old lady. Yeah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4471251337151778,
+        "compression_ratio" : 1.4913294797687862,
+        "no_speech_prob" : 0.01229869481176138
+      },
+      {
+        "id" : 13,
+        "seek" : 5352,
+        "start" : 70.88,
+        "end" : 75.28,
+        "text" : " Oh, man. Is that what's gonna happen to us? No, I'm just kidding. She seems really nice",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4471251337151778,
+        "compression_ratio" : 1.4913294797687862,
+        "no_speech_prob" : 0.01229869481176138
+      },
+      {
+        "id" : 14,
+        "seek" : 5352,
+        "start" : 77.68,
+        "end" : 79.44,
+        "text" : " We're still walking",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4471251337151778,
+        "compression_ratio" : 1.4913294797687862,
+        "no_speech_prob" : 0.01229869481176138
+      },
+      {
+        "id" : 15,
+        "seek" : 7944,
+        "start" : 79.68,
+        "end" : 81.52,
+        "text" : " It's been a good hour and a half now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 16,
+        "seek" : 7944,
+        "start" : 82.48,
+        "end" : 85.36,
+        "text" : " We're getting a little bit tired and uh confused",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 17,
+        "seek" : 7944,
+        "start" : 86.0,
+        "end" : 88.96,
+        "text" : " We're walking and walking looking for the car. We didn't find the yet",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 18,
+        "seek" : 7944,
+        "start" : 91.36,
+        "end" : 93.84,
+        "text" : " I'm about to start screaming for help",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 19,
+        "seek" : 7944,
+        "start" : 93.92,
+        "end" : 95.92,
+        "text" : " Not quite there yet by getting close",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 20,
+        "seek" : 7944,
+        "start" : 96.88,
+        "end" : 98.88,
+        "text" : " We're gonna check it out guys",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 21,
+        "seek" : 7944,
+        "start" : 98.88,
+        "end" : 103.84,
+        "text" : " Sean's got some money. He's loaded, dude. You see guy like that on the street fucking mud him",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 22,
+        "seek" : 7944,
+        "start" : 105.44,
+        "end" : 108.72,
+        "text" : " Look at that power of a walk, dude. Very good posture",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2976268046611064,
+        "compression_ratio" : 1.6254980079681276,
+        "no_speech_prob" : 0.0036135907284915447
+      },
+      {
+        "id" : 23,
+        "seek" : 10944,
+        "start" : 109.44,
+        "end" : 111.44,
+        "text" : " You live behind the wheel",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4666113969756336,
+        "compression_ratio" : 1.691358024691358,
+        "no_speech_prob" : 0.0038206581957638264
+      },
+      {
+        "id" : 24,
+        "seek" : 10944,
+        "start" : 112.88,
+        "end" : 117.68,
+        "text" : " Say hello, you know, you got it. You know, it goes Sean",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4666113969756336,
+        "compression_ratio" : 1.691358024691358,
+        "no_speech_prob" : 0.0038206581957638264
+      },
+      {
+        "id" : 25,
+        "seek" : 10944,
+        "start" : 120.4,
+        "end" : 122.4,
+        "text" : " Did you get it?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4666113969756336,
+        "compression_ratio" : 1.691358024691358,
+        "no_speech_prob" : 0.0038206581957638264
+      },
+      {
+        "id" : 26,
+        "seek" : 10944,
+        "start" : 123.12,
+        "end" : 126.72,
+        "text" : " Sean you got it? Got it. Well, you need it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4666113969756336,
+        "compression_ratio" : 1.691358024691358,
+        "no_speech_prob" : 0.0038206581957638264
+      },
+      {
+        "id" : 27,
+        "seek" : 10944,
+        "start" : 127.6,
+        "end" : 131.52,
+        "text" : " Got his money. All right. Can't do anything in this country without money",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4666113969756336,
+        "compression_ratio" : 1.691358024691358,
+        "no_speech_prob" : 0.0038206581957638264
+      },
+      {
+        "id" : 28,
+        "seek" : 10944,
+        "start" : 132.88,
+        "end" : 135.76,
+        "text" : " Can't do anywhere without money. All right. You got the way",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4666113969756336,
+        "compression_ratio" : 1.691358024691358,
+        "no_speech_prob" : 0.0038206581957638264
+      },
+      {
+        "id" : 29,
+        "seek" : 13944,
+        "start" : 139.6,
+        "end" : 141.6,
+        "text" : " You",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7815536975860595,
+        "compression_ratio" : 0.8709677419354839,
+        "no_speech_prob" : 0.003758546430617571
+      },
+      {
+        "id" : 30,
+        "seek" : 13944,
+        "start" : 153.76,
+        "end" : 156.0,
+        "text" : " So I've got a whole bag of this here",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7815536975860595,
+        "compression_ratio" : 0.8709677419354839,
+        "no_speech_prob" : 0.003758546430617571
+      },
+      {
+        "id" : 31,
+        "seek" : 13944,
+        "start" : 159.04,
+        "end" : 161.04,
+        "text" : " Seriously guy",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7815536975860595,
+        "compression_ratio" : 0.8709677419354839,
+        "no_speech_prob" : 0.003758546430617571
+      },
+      {
+        "id" : 32,
+        "seek" : 16944,
+        "start" : 169.92,
+        "end" : 172.24,
+        "text" : " The bed height of the chain so it drops",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7355325923246496,
+        "compression_ratio" : 0.8928571428571429,
+        "no_speech_prob" : 0.05387144908308983
+      },
+      {
+        "id" : 33,
+        "seek" : 16944,
+        "start" : 175.84,
+        "end" : 177.84,
+        "text" : " Oh come on",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7355325923246496,
+        "compression_ratio" : 0.8928571428571429,
+        "no_speech_prob" : 0.05387144908308983
+      },
+      {
+        "id" : 34,
+        "seek" : 19944,
+        "start" : 200.16,
+        "end" : 202.16,
+        "text" : " Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36993012061485875,
+        "compression_ratio" : 1.4268292682926829,
+        "no_speech_prob" : 0.0034251194447278976
+      },
+      {
+        "id" : 35,
+        "seek" : 19944,
+        "start" : 208.16,
+        "end" : 213.2,
+        "text" : " Get left you always got to wish your opponents bad luck get in the tree",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36993012061485875,
+        "compression_ratio" : 1.4268292682926829,
+        "no_speech_prob" : 0.0034251194447278976
+      },
+      {
+        "id" : 36,
+        "seek" : 19944,
+        "start" : 221.12,
+        "end" : 225.04,
+        "text" : " Are you feeling there? I'm feeling good. You know, I'm plus one. It's not bad",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36993012061485875,
+        "compression_ratio" : 1.4268292682926829,
+        "no_speech_prob" : 0.0034251194447278976
+      },
+      {
+        "id" : 37,
+        "seek" : 19944,
+        "start" : 225.6,
+        "end" : 228.72,
+        "text" : " Gotta keep it up. Gotta make sure he just keeps Sean on his toes keep packing him",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.36993012061485875,
+        "compression_ratio" : 1.4268292682926829,
+        "no_speech_prob" : 0.0034251194447278976
+      },
+      {
+        "id" : 38,
+        "seek" : 22944,
+        "start" : 229.52,
+        "end" : 233.52,
+        "text" : " Tuck his shit as he throws and just gonna keep his scores as low as possible",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39458948566067603,
+        "compression_ratio" : 1.1630434782608696,
+        "no_speech_prob" : 0.0025511179119348526
+      },
+      {
+        "id" : 39,
+        "seek" : 22944,
+        "start" : 256.64,
+        "end" : 258.64,
+        "text" : " How is this a three-part dude?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.39458948566067603,
+        "compression_ratio" : 1.1630434782608696,
+        "no_speech_prob" : 0.0025511179119348526
+      },
+      {
+        "id" : 40,
+        "seek" : 25944,
+        "start" : 259.6,
+        "end" : 261.6,
+        "text" : " Ah",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.568238167535691,
+        "compression_ratio" : 0.873015873015873,
+        "no_speech_prob" : 0.002910905284807086
+      },
+      {
+        "id" : 41,
+        "seek" : 25944,
+        "start" : 266.64,
+        "end" : 268.64,
+        "text" : " Are you ready for me Sean?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.568238167535691,
+        "compression_ratio" : 0.873015873015873,
+        "no_speech_prob" : 0.002910905284807086
+      },
+      {
+        "id" : 42,
+        "seek" : 25944,
+        "start" : 281.44,
+        "end" : 283.44,
+        "text" : " Good spot into the basket",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.568238167535691,
+        "compression_ratio" : 0.873015873015873,
+        "no_speech_prob" : 0.002910905284807086
+      },
+      {
+        "id" : 43,
+        "seek" : 28344,
+        "start" : 284.4,
+        "end" : 286.4,
+        "text" : " Okay",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7534784589494977,
+        "compression_ratio" : 1.064516129032258,
+        "no_speech_prob" : 0.06253820657730103
+      },
+      {
+        "id" : 44,
+        "seek" : 28344,
+        "start" : 287.44,
+        "end" : 289.44,
+        "text" : " Get in there get in there oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7534784589494977,
+        "compression_ratio" : 1.064516129032258,
+        "no_speech_prob" : 0.06253820657730103
+      },
+      {
+        "id" : 45,
+        "seek" : 28944,
+        "start" : 289.92,
+        "end" : 291.92,
+        "text" : " Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5048195665532892,
+        "compression_ratio" : 0.7241379310344828,
+        "no_speech_prob" : 0.016614140942692757
+      },
+      {
+        "id" : 46,
+        "seek" : 28944,
+        "start" : 313.04,
+        "end" : 315.04,
+        "text" : " It's like a better",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5048195665532892,
+        "compression_ratio" : 0.7241379310344828,
+        "no_speech_prob" : 0.016614140942692757
+      },
+      {
+        "id" : 47,
+        "seek" : 31944,
+        "start" : 319.76,
+        "end" : 321.76,
+        "text" : " Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6606523765707916,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.0069113243371248245
+      },
+      {
+        "id" : 48,
+        "seek" : 31944,
+        "start" : 321.76,
+        "end" : 329.6,
+        "text" : " Oh my god, I never experience this. Should we should roll out the wet is drop in here roll it down. I bet breathingly by nose",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6606523765707916,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.0069113243371248245
+      },
+      {
+        "id" : 49,
+        "seek" : 31944,
+        "start" : 338.48,
+        "end" : 342.32,
+        "text" : " Roll down seriously put it down his trap here. It's going away",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6606523765707916,
+        "compression_ratio" : 1.3741007194244603,
+        "no_speech_prob" : 0.0069113243371248245
+      },
+      {
+        "id" : 50,
+        "seek" : 34232,
+        "start" : 342.4,
+        "end" : 344.4,
+        "text" : " Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44739580154418945,
+        "compression_ratio" : 1.1428571428571428,
+        "no_speech_prob" : 0.004774719011038542
+      },
+      {
+        "id" : 51,
+        "seek" : 34232,
+        "start" : 347.12,
+        "end" : 349.68,
+        "text" : " Wow this guy's got the red I think he's boning out",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44739580154418945,
+        "compression_ratio" : 1.1428571428571428,
+        "no_speech_prob" : 0.004774719011038542
+      },
+      {
+        "id" : 52,
+        "seek" : 34232,
+        "start" : 351.44,
+        "end" : 353.44,
+        "text" : " That was sharp that was some sharp cheddar",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.44739580154418945,
+        "compression_ratio" : 1.1428571428571428,
+        "no_speech_prob" : 0.004774719011038542
+      },
+      {
+        "id" : 53,
+        "seek" : 37232,
+        "start" : 372.96,
+        "end" : 374.96,
+        "text" : " Oh",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7217034878938094,
+        "compression_ratio" : 0.8620689655172413,
+        "no_speech_prob" : 0.0024375158827751875
+      },
+      {
+        "id" : 54,
+        "seek" : 37232,
+        "start" : 387.52,
+        "end" : 389.52,
+        "text" : " Gratio",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7217034878938094,
+        "compression_ratio" : 0.8620689655172413,
+        "no_speech_prob" : 0.0024375158827751875
+      },
+      {
+        "id" : 55,
+        "seek" : 37232,
+        "start" : 389.52,
+        "end" : 391.52,
+        "text" : " Do this guy, huh?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7217034878938094,
+        "compression_ratio" : 0.8620689655172413,
+        "no_speech_prob" : 0.0024375158827751875
+      },
+      {
+        "id" : 56,
+        "seek" : 37232,
+        "start" : 391.84,
+        "end" : 393.84,
+        "text" : " Where you headed black",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7217034878938094,
+        "compression_ratio" : 0.8620689655172413,
+        "no_speech_prob" : 0.0024375158827751875
+      },
+      {
+        "id" : 57,
+        "seek" : 40232,
+        "start" : 402.32,
+        "end" : 404.32,
+        "text" : " this work",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.0073486328125,
+        "compression_ratio" : 0.5294117647058824,
+        "no_speech_prob" : 0.4647960960865021
+      }
+    ]
+  }
+}

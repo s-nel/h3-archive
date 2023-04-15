@@ -1,0 +1,13 @@
+{
+  "person_id" : "chusband",
+  "category" : "lore",
+  "first_name" : "Corpse",
+  "last_name" : "Husband",
+  "display_name" : "Corpse Husband",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

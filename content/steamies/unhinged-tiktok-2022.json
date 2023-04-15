@@ -1,0 +1,43 @@
+{
+  "steamy_id" : "unhinged-tiktok-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "dpourshalimi"
+      ],
+      "name" : null,
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "hmandel"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "mlazri"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "bhastings"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "cmount"
+      ],
+      "name" : null,
+      "won" : false
+    }
+  ],
+  "name" : "Most Unhinged TikTok Account",
+  "description" : null,
+  "year" : 2022
+}

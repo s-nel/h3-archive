@@ -1,0 +1,13 @@
+{
+  "person_id" : "thanks",
+  "category" : "lore",
+  "first_name" : "Thomas",
+  "last_name" : "Hanks",
+  "display_name" : "Tom Hanks",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,15 @@
+{
+  "person_id" : "gmiller",
+  "category" : "guest",
+  "first_name" : "George",
+  "last_name" : "Miller",
+  "display_name" : "Joji",
+  "thumb" : "/people/gmiller.jpg",
+  "description" : null,
+  "aliases" : [
+    "Joji",
+    "Filthy Frank"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

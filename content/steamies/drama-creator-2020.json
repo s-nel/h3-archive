@@ -1,0 +1,64 @@
+{
+  "steamy_id" : "drama-creator-2020",
+  "people" : [
+    {
+      "person_id" : [
+        "amcbroom"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jpaul"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "ghanna"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jdickinson"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jhill"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "jstar"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : null,
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "tpaytas"
+      ],
+      "name" : null,
+      "won" : true
+    }
+  ],
+  "name" : "Most Dramatic Creator",
+  "description" : null,
+  "year" : 2020
+}

@@ -1,0 +1,14 @@
+{
+  "person_id" : "rkavanaugh",
+  "category" : "enemy",
+  "first_name" : "Ryan",
+  "last_name" : "Kavanaugh",
+  "display_name" : null,
+  "thumb" : "/people/rkavanaugh.jpg",
+  "description" : null,
+  "aliases" : [
+    "A Force of Nature"
+  ],
+  "is_beefing" : true,
+  "is_squashed_beef" : null
+}

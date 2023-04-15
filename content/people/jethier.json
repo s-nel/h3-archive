@@ -1,0 +1,13 @@
+{
+  "person_id" : "jethier",
+  "category" : "lore",
+  "first_name" : "Jason",
+  "last_name" : "Ethier",
+  "display_name" : "JayStation",
+  "thumb" : "/people/jethier.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,762 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLnJvcDdnX01Tb0ZF",
+  "category" : "video",
+  "name" : "Watch a Fat Idiot Freak Out Over Chicken",
+  "description" : "Today we explore the famous Carmel Market and stroke out over chicken\n\nWatch the Ethan and Hila Playlist --► https://goo.gl/rGFTcP\n\nPAPA JOHN EXPOSED! --► https://goo.gl/Pa3rVT\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://goo.gl/901PGW\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://goo.gl/QKEsKJ\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.\n\nMusic:\n\nFrom YouTube free music library:\n\nRoller Blades -- Otis McDonald",
+  "thumb" : "https://i.ytimg.com/vi/rop7g_MSoFE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/rop7g_MSoFE"
+    }
+  ],
+  "start_date" : 1459530565000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 19.56,
+        "text" : "",
+        "temperature" : 1.0,
+        "avg_logprob" : -3.290832996368408,
+        "compression_ratio" : 0.42857142857142855,
+        "no_speech_prob" : 0.5508075952529907
+      },
+      {
+        "id" : 1,
+        "seek" : 3000,
+        "start" : 30.0,
+        "end" : 52.8,
+        "text" : " This is the famous Carmel Market and it is straight a blast from the past.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3386051919725206,
+        "compression_ratio" : 1.2434782608695651,
+        "no_speech_prob" : 0.11145220696926117
+      },
+      {
+        "id" : 2,
+        "seek" : 3000,
+        "start" : 52.8,
+        "end" : 55.8,
+        "text" : " This is like something that would have existed a thousand years ago.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3386051919725206,
+        "compression_ratio" : 1.2434782608695651,
+        "no_speech_prob" : 0.11145220696926117
+      },
+      {
+        "id" : 3,
+        "seek" : 5580,
+        "start" : 55.8,
+        "end" : 70.52,
+        "text" : " People shouting at you to tell you anything here to anything.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4410176784434217,
+        "compression_ratio" : 1.3828125,
+        "no_speech_prob" : 0.552127480506897
+      },
+      {
+        "id" : 4,
+        "seek" : 5580,
+        "start" : 70.52,
+        "end" : 79.24,
+        "text" : " From spices to bootleg yeezies and all the way back to fucking rotten fish of which it",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4410176784434217,
+        "compression_ratio" : 1.3828125,
+        "no_speech_prob" : 0.552127480506897
+      },
+      {
+        "id" : 5,
+        "seek" : 5580,
+        "start" : 79.24,
+        "end" : 81.6,
+        "text" : " is known to smell like here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4410176784434217,
+        "compression_ratio" : 1.3828125,
+        "no_speech_prob" : 0.552127480506897
+      },
+      {
+        "id" : 6,
+        "seek" : 8160,
+        "start" : 81.6,
+        "end" : 88.6,
+        "text" : " The Carmel Market is one of Israel's top tourist choices.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8832999420166016,
+        "compression_ratio" : 0.975,
+        "no_speech_prob" : 0.13596154749393463
+      },
+      {
+        "id" : 7,
+        "seek" : 8160,
+        "start" : 88.6,
+        "end" : 96.6,
+        "text" : " Why are you a panic?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.8832999420166016,
+        "compression_ratio" : 0.975,
+        "no_speech_prob" : 0.13596154749393463
+      },
+      {
+        "id" : 8,
+        "seek" : 9660,
+        "start" : 96.6,
+        "end" : 103.6,
+        "text" : " I'm not panicking.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2821664565648788,
+        "compression_ratio" : 1.5449438202247192,
+        "no_speech_prob" : 0.35144615173339844
+      },
+      {
+        "id" : 9,
+        "seek" : 9660,
+        "start" : 103.6,
+        "end" : 114.52,
+        "text" : " Also one of my favorite things about the Carmel Market is that basically anyone can touch",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2821664565648788,
+        "compression_ratio" : 1.5449438202247192,
+        "no_speech_prob" : 0.35144615173339844
+      },
+      {
+        "id" : 10,
+        "seek" : 9660,
+        "start" : 114.52,
+        "end" : 115.52,
+        "text" : " anything.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2821664565648788,
+        "compression_ratio" : 1.5449438202247192,
+        "no_speech_prob" : 0.35144615173339844
+      },
+      {
+        "id" : 11,
+        "seek" : 9660,
+        "start" : 115.52,
+        "end" : 119.4,
+        "text" : " So if you've got food out, people don't cover it, people don't care.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2821664565648788,
+        "compression_ratio" : 1.5449438202247192,
+        "no_speech_prob" : 0.35144615173339844
+      },
+      {
+        "id" : 12,
+        "seek" : 9660,
+        "start" : 119.4,
+        "end" : 123.06,
+        "text" : " You can assume that if you eat anything here it's been coughed on, spit on, touched on,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2821664565648788,
+        "compression_ratio" : 1.5449438202247192,
+        "no_speech_prob" : 0.35144615173339844
+      },
+      {
+        "id" : 13,
+        "seek" : 12306,
+        "start" : 123.06,
+        "end" : 126.06,
+        "text" : " coughed on and shat on at least 20 times over.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48773727416992185,
+        "compression_ratio" : 1.2682926829268293,
+        "no_speech_prob" : 0.2270837128162384
+      },
+      {
+        "id" : 14,
+        "seek" : 12306,
+        "start" : 126.06,
+        "end" : 129.62,
+        "text" : " Everyone here, it's a giant orgy here, guys.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48773727416992185,
+        "compression_ratio" : 1.2682926829268293,
+        "no_speech_prob" : 0.2270837128162384
+      },
+      {
+        "id" : 15,
+        "seek" : 12306,
+        "start" : 129.62,
+        "end" : 130.62,
+        "text" : " We live and die together.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48773727416992185,
+        "compression_ratio" : 1.2682926829268293,
+        "no_speech_prob" : 0.2270837128162384
+      },
+      {
+        "id" : 16,
+        "seek" : 12306,
+        "start" : 130.62,
+        "end" : 132.62,
+        "text" : " That's the brotherhood that is Israel.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.48773727416992185,
+        "compression_ratio" : 1.2682926829268293,
+        "no_speech_prob" : 0.2270837128162384
+      },
+      {
+        "id" : 17,
+        "seek" : 15306,
+        "start" : 153.06,
+        "end" : 168.06,
+        "text" : " People are very passionate here about selling the fruits.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.7691262108939034,
+        "compression_ratio" : 0.9047619047619048,
+        "no_speech_prob" : 0.22836755216121674
+      },
+      {
+        "id" : 18,
+        "seek" : 16806,
+        "start" : 168.06,
+        "end" : 183.62,
+        "text" : " Right now we're on the street parallel to the one we just walked back.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2690072932713468,
+        "compression_ratio" : 1.494186046511628,
+        "no_speech_prob" : 0.43189623951911926
+      },
+      {
+        "id" : 19,
+        "seek" : 16806,
+        "start" : 183.62,
+        "end" : 187.34,
+        "text" : " So this is like the Market Street B.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2690072932713468,
+        "compression_ratio" : 1.494186046511628,
+        "no_speech_prob" : 0.43189623951911926
+      },
+      {
+        "id" : 20,
+        "seek" : 16806,
+        "start" : 187.34,
+        "end" : 190.5,
+        "text" : " So people here have to scream extra loud.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2690072932713468,
+        "compression_ratio" : 1.494186046511628,
+        "no_speech_prob" : 0.43189623951911926
+      },
+      {
+        "id" : 21,
+        "seek" : 16806,
+        "start" : 190.5,
+        "end" : 192.74,
+        "text" : " You can have a look here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2690072932713468,
+        "compression_ratio" : 1.494186046511628,
+        "no_speech_prob" : 0.43189623951911926
+      },
+      {
+        "id" : 22,
+        "seek" : 16806,
+        "start" : 192.74,
+        "end" : 196.94,
+        "text" : " That one is like, that street is like you're walking around a thousand years ago.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2690072932713468,
+        "compression_ratio" : 1.494186046511628,
+        "no_speech_prob" : 0.43189623951911926
+      },
+      {
+        "id" : 23,
+        "seek" : 19694,
+        "start" : 196.94,
+        "end" : 199.66,
+        "text" : " This one is your walking around a dozen years ago.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31427985743472453,
+        "compression_ratio" : 1.5268817204301075,
+        "no_speech_prob" : 0.3295176923274994
+      },
+      {
+        "id" : 24,
+        "seek" : 19694,
+        "start" : 199.66,
+        "end" : 203.94,
+        "text" : " And then at the same time, I mean have a look.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31427985743472453,
+        "compression_ratio" : 1.5268817204301075,
+        "no_speech_prob" : 0.3295176923274994
+      },
+      {
+        "id" : 25,
+        "seek" : 19694,
+        "start" : 203.94,
+        "end" : 212.1,
+        "text" : " What the fuck is that dude?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31427985743472453,
+        "compression_ratio" : 1.5268817204301075,
+        "no_speech_prob" : 0.3295176923274994
+      },
+      {
+        "id" : 26,
+        "seek" : 19694,
+        "start" : 212.1,
+        "end" : 219.66,
+        "text" : " Are you seriously just leaning a power cable rig to fuck against a house?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31427985743472453,
+        "compression_ratio" : 1.5268817204301075,
+        "no_speech_prob" : 0.3295176923274994
+      },
+      {
+        "id" : 27,
+        "seek" : 19694,
+        "start" : 219.66,
+        "end" : 223.34,
+        "text" : " I mean this neighborhood's about to blow up by the look of this fucking power cable.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.31427985743472453,
+        "compression_ratio" : 1.5268817204301075,
+        "no_speech_prob" : 0.3295176923274994
+      },
+      {
+        "id" : 28,
+        "seek" : 22334,
+        "start" : 223.34,
+        "end" : 225.06,
+        "text" : " Look at this crap.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 29,
+        "seek" : 22334,
+        "start" : 225.06,
+        "end" : 227.06,
+        "text" : " Look at the fuck.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 30,
+        "seek" : 22334,
+        "start" : 227.06,
+        "end" : 228.06,
+        "text" : " How does it exist?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 31,
+        "seek" : 22334,
+        "start" : 228.06,
+        "end" : 230.86,
+        "text" : " How does this neighborhood not perpetually on fire?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 32,
+        "seek" : 22334,
+        "start" : 230.86,
+        "end" : 232.94,
+        "text" : " I don't know how they do it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 33,
+        "seek" : 22334,
+        "start" : 232.94,
+        "end" : 235.86,
+        "text" : " Well that's Israel.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 34,
+        "seek" : 22334,
+        "start" : 235.86,
+        "end" : 238.06,
+        "text" : " My favorite thing is the buckets.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 35,
+        "seek" : 22334,
+        "start" : 238.06,
+        "end" : 241.06,
+        "text" : " This one's not even bad.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 36,
+        "seek" : 22334,
+        "start" : 241.06,
+        "end" : 246.26,
+        "text" : " My favorite was when they spread the buckets over the street and they dump.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 37,
+        "seek" : 22334,
+        "start" : 246.26,
+        "end" : 247.26,
+        "text" : " Heavy cement.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 38,
+        "seek" : 22334,
+        "start" : 247.26,
+        "end" : 248.26,
+        "text" : " You really use this?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 39,
+        "seek" : 22334,
+        "start" : 248.26,
+        "end" : 249.26,
+        "text" : " Through the buckets.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 40,
+        "seek" : 22334,
+        "start" : 249.26,
+        "end" : 250.1,
+        "text" : " You walk under the buckets.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 41,
+        "seek" : 22334,
+        "start" : 250.1,
+        "end" : 252.22,
+        "text" : " You run under the buckets.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3963941355220607,
+        "compression_ratio" : 1.7402597402597402,
+        "no_speech_prob" : 0.34938880801200867
+      },
+      {
+        "id" : 42,
+        "seek" : 25222,
+        "start" : 252.22,
+        "end" : 259.22,
+        "text" : " You see a full walks under the buckets.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5601010865803007,
+        "compression_ratio" : 1.5789473684210527,
+        "no_speech_prob" : 0.06171906739473343
+      },
+      {
+        "id" : 43,
+        "seek" : 25222,
+        "start" : 259.22,
+        "end" : 268.14,
+        "text" : " So this is grilled chicken with onion over tahina with beans and green beans.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5601010865803007,
+        "compression_ratio" : 1.5789473684210527,
+        "no_speech_prob" : 0.06171906739473343
+      },
+      {
+        "id" : 44,
+        "seek" : 25222,
+        "start" : 268.14,
+        "end" : 270.14,
+        "text" : " Ela fucking went bananas.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5601010865803007,
+        "compression_ratio" : 1.5789473684210527,
+        "no_speech_prob" : 0.06171906739473343
+      },
+      {
+        "id" : 45,
+        "seek" : 25222,
+        "start" : 270.14,
+        "end" : 274.94,
+        "text" : " I got the M&I chicken with couscous and vegetables.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5601010865803007,
+        "compression_ratio" : 1.5789473684210527,
+        "no_speech_prob" : 0.06171906739473343
+      },
+      {
+        "id" : 46,
+        "seek" : 25222,
+        "start" : 274.94,
+        "end" : 276.94,
+        "text" : " I have to say I'm a little jealous.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5601010865803007,
+        "compression_ratio" : 1.5789473684210527,
+        "no_speech_prob" : 0.06171906739473343
+      },
+      {
+        "id" : 47,
+        "seek" : 25222,
+        "start" : 276.94,
+        "end" : 279.58,
+        "text" : " I'm a little jealous of how Ela looks.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5601010865803007,
+        "compression_ratio" : 1.5789473684210527,
+        "no_speech_prob" : 0.06171906739473343
+      },
+      {
+        "id" : 48,
+        "seek" : 27958,
+        "start" : 279.58,
+        "end" : 284.06,
+        "text" : " Now if you're wondering how to eat this, you take the hot sauce.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 49,
+        "seek" : 27958,
+        "start" : 284.06,
+        "end" : 286.06,
+        "text" : " You go fucking see you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 50,
+        "seek" : 27958,
+        "start" : 286.06,
+        "end" : 287.62,
+        "text" : " Take the tahina.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 51,
+        "seek" : 27958,
+        "start" : 287.62,
+        "end" : 293.62,
+        "text" : " You say smelly a little.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 52,
+        "seek" : 27958,
+        "start" : 293.62,
+        "end" : 303.62,
+        "text" : " Here's the title.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 53,
+        "seek" : 27958,
+        "start" : 303.62,
+        "end" : 304.62,
+        "text" : " Today's vlog.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 54,
+        "seek" : 27958,
+        "start" : 304.62,
+        "end" : 306.58,
+        "text" : " Watch a fat man eat chicken.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 55,
+        "seek" : 27958,
+        "start" : 306.58,
+        "end" : 309.14,
+        "text" : " Watch a fat idiot freak out over chicken.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4606027974710836,
+        "compression_ratio" : 1.4935897435897436,
+        "no_speech_prob" : 0.03641519695520401
+      },
+      {
+        "id" : 56,
+        "seek" : 30914,
+        "start" : 310.14,
+        "end" : 314.14,
+        "text" : " Okay, you like your time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 57,
+        "seek" : 30914,
+        "start" : 314.14,
+        "end" : 317.98,
+        "text" : " Now Ela remember to express your love.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 58,
+        "seek" : 30914,
+        "start" : 317.98,
+        "end" : 322.98,
+        "text" : " Just embrace the feelings you're having inside.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 59,
+        "seek" : 30914,
+        "start" : 322.98,
+        "end" : 327.54,
+        "text" : " Okay, good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 60,
+        "seek" : 30914,
+        "start" : 327.54,
+        "end" : 328.54,
+        "text" : " You can do better.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 61,
+        "seek" : 30914,
+        "start" : 328.54,
+        "end" : 331.7,
+        "text" : " I feel I want more expression for me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 62,
+        "seek" : 30914,
+        "start" : 331.7,
+        "end" : 332.7,
+        "text" : " There you go.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 63,
+        "seek" : 30914,
+        "start" : 332.7,
+        "end" : 337.7,
+        "text" : " There she's feeling it now, bar.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.6143464784364443,
+        "compression_ratio" : 1.4339622641509433,
+        "no_speech_prob" : 0.08903961628675461
+      },
+      {
+        "id" : 64,
+        "seek" : 33770,
+        "start" : 337.86,
+        "end" : 340.26,
+        "text" : " There.",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.5965932210286455,
+        "compression_ratio" : 0.5789473684210527,
+        "no_speech_prob" : 0.13039419054985046
+      },
+      {
+        "id" : 65,
+        "seek" : 33770,
+        "start" : 363.14,
+        "end" : 365.34,
+        "text" : " You.",
+        "temperature" : 1.0,
+        "avg_logprob" : -4.5965932210286455,
+        "compression_ratio" : 0.5789473684210527,
+        "no_speech_prob" : 0.13039419054985046
+      }
+    ]
+  }
+}

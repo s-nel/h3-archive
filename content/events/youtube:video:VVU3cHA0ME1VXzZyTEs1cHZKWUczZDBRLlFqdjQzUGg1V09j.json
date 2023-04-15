@@ -1,0 +1,333 @@
+{
+  "event_id" : "youtube:video:VVU3cHA0ME1VXzZyTEs1cHZKWUczZDBRLlFqdjQzUGg1V09j",
+  "category" : "video",
+  "name" : "Patreon",
+  "description" : "https://www.patreon.com/h3h3productions",
+  "thumb" : "https://i.ytimg.com/vi/Qjv43Ph5WOc/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "Ethan and Hila"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/Qjv43Ph5WOc"
+    }
+  ],
+  "start_date" : 1421774837000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.52,
+        "text" : " We have a somewhat important announcement to make.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.52,
+        "end" : 4.2,
+        "text" : " Ela is pregnant.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 4.2,
+        "end" : 5.84,
+        "text" : " No, I'm just kidding.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 5.84,
+        "end" : 7.04,
+        "text" : " No, she's not pregnant.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 7.04,
+        "end" : 11.6,
+        "text" : " Fortunately, late last night, Sean did pass away from super-AIDS.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 11.6,
+        "end" : 14.48,
+        "text" : " And we were mourning his past thing right now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 14.48,
+        "end" : 16.48,
+        "text" : " Oh, sorry. Sean's okay.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 16.48,
+        "end" : 17.84,
+        "text" : " He doesn't have AIDS either.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 17.84,
+        "end" : 19.84,
+        "text" : " He has super-AIDS, but he's not dead yet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 9,
+        "seek" : 0,
+        "start" : 19.84,
+        "end" : 22.84,
+        "text" : " Actually, what we were talking about is Patreon.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 10,
+        "seek" : 0,
+        "start" : 22.84,
+        "end" : 26.84,
+        "text" : " We decided to set up a Patreon to try to help support us.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.38818455470427304,
+        "compression_ratio" : 1.5793357933579335,
+        "no_speech_prob" : 0.14278292655944824
+      },
+      {
+        "id" : 11,
+        "seek" : 2684,
+        "start" : 26.84,
+        "end" : 29.96,
+        "text" : " Just for you, superstars out there with a little extra pocket change.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 12,
+        "seek" : 2684,
+        "start" : 29.96,
+        "end" : 30.96,
+        "text" : " You're saying, you know what?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 13,
+        "seek" : 2684,
+        "start" : 30.96,
+        "end" : 39.08,
+        "text" : " I could part with two or three or $100 a month, you know, and give that to us, okay?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 14,
+        "seek" : 2684,
+        "start" : 39.08,
+        "end" : 40.4,
+        "text" : " It doesn't matter what amount.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 15,
+        "seek" : 2684,
+        "start" : 40.4,
+        "end" : 41.72,
+        "text" : " It's all good.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 16,
+        "seek" : 2684,
+        "start" : 41.72,
+        "end" : 42.72,
+        "text" : " Everybody gets an award.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 17,
+        "seek" : 2684,
+        "start" : 42.72,
+        "end" : 43.72,
+        "text" : " And that's what it's all about.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 18,
+        "seek" : 2684,
+        "start" : 43.72,
+        "end" : 50.64,
+        "text" : " Well, we've got a lot of great special incentives for you guys who do decide to support us on Patreon.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 19,
+        "seek" : 2684,
+        "start" : 50.64,
+        "end" : 54.68,
+        "text" : " For example, blippers, crazy wacky extra footage.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.25893738865852356,
+        "compression_ratio" : 1.5172413793103448,
+        "no_speech_prob" : 0.2714974880218506
+      },
+      {
+        "id" : 20,
+        "seek" : 5468,
+        "start" : 54.68,
+        "end" : 56.52,
+        "text" : " Like, get them there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      },
+      {
+        "id" : 21,
+        "seek" : 5468,
+        "start" : 56.52,
+        "end" : 57.52,
+        "text" : " Me scoffing forever.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      },
+      {
+        "id" : 22,
+        "seek" : 5468,
+        "start" : 57.52,
+        "end" : 61.24,
+        "text" : " Yeah, me just goofing up messing up a lot, a lot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      },
+      {
+        "id" : 23,
+        "seek" : 5468,
+        "start" : 61.24,
+        "end" : 62.24,
+        "text" : " We do a lot of shots.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      },
+      {
+        "id" : 24,
+        "seek" : 5468,
+        "start" : 62.24,
+        "end" : 63.24,
+        "text" : " A lot of shots in.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      },
+      {
+        "id" : 25,
+        "seek" : 5468,
+        "start" : 63.24,
+        "end" : 66.24,
+        "text" : " We don't use most of it, but you're going to get to see it now for the first time.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      },
+      {
+        "id" : 26,
+        "seek" : 5468,
+        "start" : 66.24,
+        "end" : 68.36,
+        "text" : " And you're going to realize how unflunny I actually am.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.3187790122083438,
+        "compression_ratio" : 1.5722543352601157,
+        "no_speech_prob" : 0.6164750456809998
+      }
+    ]
+  }
+}

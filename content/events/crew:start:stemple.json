@@ -1,0 +1,20 @@
+{
+  "event_id" : "crew:start:stemple",
+  "category" : "major",
+  "name" : "Sam joins the crew",
+  "description" : "",
+  "thumb" : null,
+  "tags" : [
+  ],
+  "links" : [
+  ],
+  "start_date" : 1623110400000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "subject"
+    }
+  ],
+  "transcription" : null
+}

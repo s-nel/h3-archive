@@ -1,0 +1,13 @@
+{
+  "person_id" : "eandre",
+  "category" : "guest",
+  "first_name" : "Eric",
+  "last_name" : "Andre",
+  "display_name" : "Eric Andre",
+  "thumb" : "/people/eandre.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

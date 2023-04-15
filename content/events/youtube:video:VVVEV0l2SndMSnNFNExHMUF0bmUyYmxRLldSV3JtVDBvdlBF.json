@@ -1,0 +1,707 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLldSV3JtVDBvdlBF",
+  "category" : "video",
+  "name" : "Ubuntu causes girl to drop out of college -- h3h3 reaction video",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/WRWrmT0ovPE/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/WRWrmT0ovPE"
+    }
+  ],
+  "start_date" : 1416502790000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 26.76,
+        "text" : " Wow, keep it up, proud of you.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.9983624730791364,
+        "compression_ratio" : 0.7894736842105263,
+        "no_speech_prob" : 0.3065407872200012
+      },
+      {
+        "id" : 1,
+        "seek" : 2676,
+        "start" : 26.76,
+        "end" : 37.76,
+        "text" : " That's what she called me. She thought her laptop was coming with windows. Instead, she got that thing called Ubuntu.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23705865918975516,
+        "compression_ratio" : 1.4980988593155893,
+        "no_speech_prob" : 0.2246788591146469
+      },
+      {
+        "id" : 2,
+        "seek" : 2676,
+        "start" : 37.76,
+        "end" : 40.76,
+        "text" : " Pronunciation was the least of her problems.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23705865918975516,
+        "compression_ratio" : 1.4980988593155893,
+        "no_speech_prob" : 0.2246788591146469
+      },
+      {
+        "id" : 3,
+        "seek" : 2676,
+        "start" : 40.76,
+        "end" : 44.76,
+        "text" : " Have you guys ever heard of Ubuntu?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23705865918975516,
+        "compression_ratio" : 1.4980988593155893,
+        "no_speech_prob" : 0.2246788591146469
+      },
+      {
+        "id" : 4,
+        "seek" : 2676,
+        "start" : 44.76,
+        "end" : 54.76,
+        "text" : " Well, I hadn't either until I saw this news report. Apparently, it's a Linux-based operating system that Dell's been just pawning off on people on their PC's and completely ruined in their lives.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23705865918975516,
+        "compression_ratio" : 1.4980988593155893,
+        "no_speech_prob" : 0.2246788591146469
+      },
+      {
+        "id" : 5,
+        "seek" : 5476,
+        "start" : 54.76,
+        "end" : 63.76,
+        "text" : " Well, odds are, you don't use the word Ubuntu very often or maybe not at all. It's a type of operating system for your computer similar to windows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13263190310934317,
+        "compression_ratio" : 1.6858638743455496,
+        "no_speech_prob" : 0.2950083017349243
+      },
+      {
+        "id" : 6,
+        "seek" : 5476,
+        "start" : 63.76,
+        "end" : 68.76,
+        "text" : " But it is not windows and what works on windows doesn't always work on Ubuntu.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13263190310934317,
+        "compression_ratio" : 1.6858638743455496,
+        "no_speech_prob" : 0.2950083017349243
+      },
+      {
+        "id" : 7,
+        "seek" : 5476,
+        "start" : 68.76,
+        "end" : 72.76,
+        "text" : " Well, odds are, you don't use the word Ubuntu very often.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13263190310934317,
+        "compression_ratio" : 1.6858638743455496,
+        "no_speech_prob" : 0.2950083017349243
+      },
+      {
+        "id" : 8,
+        "seek" : 5476,
+        "start" : 72.76,
+        "end" : 79.76,
+        "text" : " Ubuntu? What is that? Oh, it's Linux.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13263190310934317,
+        "compression_ratio" : 1.6858638743455496,
+        "no_speech_prob" : 0.2950083017349243
+      },
+      {
+        "id" : 9,
+        "seek" : 7976,
+        "start" : 79.76,
+        "end" : 84.76,
+        "text" : " Ubuntu? Please. Ubuntu?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20755451426786534,
+        "compression_ratio" : 1.4450261780104712,
+        "no_speech_prob" : 0.07799012959003448
+      },
+      {
+        "id" : 10,
+        "seek" : 7976,
+        "start" : 84.76,
+        "end" : 92.76,
+        "text" : " Abby Schubert's life was supposed to start getting easier with this new Dell laptop. But let's be clear. It's not.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20755451426786534,
+        "compression_ratio" : 1.4450261780104712,
+        "no_speech_prob" : 0.07799012959003448
+      },
+      {
+        "id" : 11,
+        "seek" : 7976,
+        "start" : 92.76,
+        "end" : 97.76,
+        "text" : " I'm on my computer. Whoa, what is this? It's not windows. Aaaaaah!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20755451426786534,
+        "compression_ratio" : 1.4450261780104712,
+        "no_speech_prob" : 0.07799012959003448
+      },
+      {
+        "id" : 12,
+        "seek" : 7976,
+        "start" : 97.76,
+        "end" : 102.76,
+        "text" : " Ubuntu might look a lot like windows, but it sure doesn't act like it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.20755451426786534,
+        "compression_ratio" : 1.4450261780104712,
+        "no_speech_prob" : 0.07799012959003448
+      },
+      {
+        "id" : 13,
+        "seek" : 10276,
+        "start" : 102.76,
+        "end" : 106.76,
+        "text" : " That's because her Verizon Internet CD won't load on Ubuntu.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 14,
+        "seek" : 10276,
+        "start" : 106.76,
+        "end" : 111.76,
+        "text" : " Holy fuck, man. She's trying to get... She didn't have the Internet! A BUNTO!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 15,
+        "seek" : 10276,
+        "start" : 111.76,
+        "end" : 113.76,
+        "text" : " Now the cat is gonna give her the Internet!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 16,
+        "seek" : 10276,
+        "start" : 113.76,
+        "end" : 116.76,
+        "text" : " They forgot to install the CD-ROM, the Internet.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 17,
+        "seek" : 10276,
+        "start" : 116.76,
+        "end" : 119.76,
+        "text" : " The entire Internet is located on this CD-ROM.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 18,
+        "seek" : 10276,
+        "start" : 119.76,
+        "end" : 125.76,
+        "text" : " I'm not one to judge a book by its cover, but that is a stupid, stupid, vacant face.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 19,
+        "seek" : 10276,
+        "start" : 125.76,
+        "end" : 130.76,
+        "text" : " I mean, there is not much behind there. I can tell just by looking at her. She's out to lunch.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.19612707811243393,
+        "compression_ratio" : 1.6298932384341638,
+        "no_speech_prob" : 0.25815078616142273
+      },
+      {
+        "id" : 20,
+        "seek" : 13076,
+        "start" : 130.76,
+        "end" : 135.76,
+        "text" : " She went out to lunch and she never came home. Okay. That is just an empty attic right there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1253651809692383,
+        "compression_ratio" : 1.6222222222222222,
+        "no_speech_prob" : 0.05122871696949005
+      },
+      {
+        "id" : 21,
+        "seek" : 13076,
+        "start" : 135.76,
+        "end" : 142.76,
+        "text" : " Boy, just a couple marbles and a couple cobwebs, a couple of tumbleweeds just blowing around in the dusty, dusty noon.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1253651809692383,
+        "compression_ratio" : 1.6222222222222222,
+        "no_speech_prob" : 0.05122871696949005
+      },
+      {
+        "id" : 22,
+        "seek" : 13076,
+        "start" : 142.76,
+        "end" : 148.76,
+        "text" : " They tried to get on the Internet on it, and that did not work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1253651809692383,
+        "compression_ratio" : 1.6222222222222222,
+        "no_speech_prob" : 0.05122871696949005
+      },
+      {
+        "id" : 23,
+        "seek" : 13076,
+        "start" : 148.76,
+        "end" : 154.76,
+        "text" : " Try again. She clearly did everything, guys. She opened up the Internet. It didn't work.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.1253651809692383,
+        "compression_ratio" : 1.6222222222222222,
+        "no_speech_prob" : 0.05122871696949005
+      },
+      {
+        "id" : 24,
+        "seek" : 15476,
+        "start" : 154.76,
+        "end" : 160.76,
+        "text" : " She clicked try again. She's clearly done everything. It's time to call the local news here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 25,
+        "seek" : 15476,
+        "start" : 160.76,
+        "end" : 164.76,
+        "text" : " Did you try clicking the try again button? Oh, yeah, I tried that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 26,
+        "seek" : 15476,
+        "start" : 164.76,
+        "end" : 167.76,
+        "text" : " Okay, well, I see you've exhausted all your options.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 27,
+        "seek" : 15476,
+        "start" : 167.76,
+        "end" : 172.76,
+        "text" : " So let me go ahead and just get you the white knight who's gonna take care of all your problems.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 28,
+        "seek" : 15476,
+        "start" : 172.76,
+        "end" : 175.76,
+        "text" : " A fine young man, 30 years old. He's virgin, by the way. Make some real go-getter.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 29,
+        "seek" : 15476,
+        "start" : 175.76,
+        "end" : 178.76,
+        "text" : " He's gonna come out to you. He's gonna help you out with all your problems.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 30,
+        "seek" : 15476,
+        "start" : 178.76,
+        "end" : 183.76,
+        "text" : " Oh, terrific. And I found out that Microsoft Word is not compatible.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.14625241305377032,
+        "compression_ratio" : 1.6677018633540373,
+        "no_speech_prob" : 0.7254654765129089
+      },
+      {
+        "id" : 31,
+        "seek" : 18376,
+        "start" : 183.76,
+        "end" : 191.76,
+        "text" : " And Ubuntu comes with open office and not Word. By the time she found all this out, Dell said it was too late to go back to Windows.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08661926709688626,
+        "compression_ratio" : 1.7216494845360826,
+        "no_speech_prob" : 0.22471782565116882
+      },
+      {
+        "id" : 32,
+        "seek" : 18376,
+        "start" : 191.76,
+        "end" : 196.76,
+        "text" : " That's because her Verizon Internet CD won't load on Ubuntu.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08661926709688626,
+        "compression_ratio" : 1.7216494845360826,
+        "no_speech_prob" : 0.22471782565116882
+      },
+      {
+        "id" : 33,
+        "seek" : 18376,
+        "start" : 196.76,
+        "end" : 200.76,
+        "text" : " And the Internet is simple to install.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08661926709688626,
+        "compression_ratio" : 1.7216494845360826,
+        "no_speech_prob" : 0.22471782565116882
+      },
+      {
+        "id" : 34,
+        "seek" : 18376,
+        "start" : 200.76,
+        "end" : 206.76,
+        "text" : " Dell said it was too late to go back to Windows. And this semester, it's too late to go back to MATC.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.08661926709688626,
+        "compression_ratio" : 1.7216494845360826,
+        "no_speech_prob" : 0.22471782565116882
+      },
+      {
+        "id" : 35,
+        "seek" : 20676,
+        "start" : 206.76,
+        "end" : 216.76,
+        "text" : " Extremely frustrated. I am sick of it. And I wanted to get back to school, but I need the computer to be able to do that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23375245391345414,
+        "compression_ratio" : 1.7640449438202248,
+        "no_speech_prob" : 0.3589121997356415
+      },
+      {
+        "id" : 36,
+        "seek" : 20676,
+        "start" : 216.76,
+        "end" : 222.76,
+        "text" : " Here, do you need to drop out of college because you got the different operating system? And you thought it doesn't matter. You could just call them.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23375245391345414,
+        "compression_ratio" : 1.7640449438202248,
+        "no_speech_prob" : 0.3589121997356415
+      },
+      {
+        "id" : 37,
+        "seek" : 20676,
+        "start" : 222.76,
+        "end" : 225.76,
+        "text" : " Enter your college and just do it by the telephone or go there.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23375245391345414,
+        "compression_ratio" : 1.7640449438202248,
+        "no_speech_prob" : 0.3589121997356415
+      },
+      {
+        "id" : 38,
+        "seek" : 20676,
+        "start" : 225.76,
+        "end" : 228.76,
+        "text" : " I need the computer to be able to do that.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23375245391345414,
+        "compression_ratio" : 1.7640449438202248,
+        "no_speech_prob" : 0.3589121997356415
+      },
+      {
+        "id" : 39,
+        "seek" : 20676,
+        "start" : 228.76,
+        "end" : 233.76,
+        "text" : " Or you can just on the store to reinstall Windows. That would be, that would work just fine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.23375245391345414,
+        "compression_ratio" : 1.7640449438202248,
+        "no_speech_prob" : 0.3589121997356415
+      },
+      {
+        "id" : 40,
+        "seek" : 23376,
+        "start" : 233.76,
+        "end" : 240.76,
+        "text" : " Can you have it? Can you have it? Please. I can help you. You don't need to go to the news for this. Please listen to me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13000447673182333,
+        "compression_ratio" : 1.7089337175792507,
+        "no_speech_prob" : 0.1726188063621521
+      },
+      {
+        "id" : 41,
+        "seek" : 23376,
+        "start" : 240.76,
+        "end" : 244.76,
+        "text" : " Well, that was of course before she called 27 News and we were able to help her.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13000447673182333,
+        "compression_ratio" : 1.7089337175792507,
+        "no_speech_prob" : 0.1726188063621521
+      },
+      {
+        "id" : 42,
+        "seek" : 23376,
+        "start" : 244.76,
+        "end" : 249.76,
+        "text" : " We're still waiting to hear from Dell to what they had to say about this. But we are going to be able to help Abby get back to school.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13000447673182333,
+        "compression_ratio" : 1.7089337175792507,
+        "no_speech_prob" : 0.1726188063621521
+      },
+      {
+        "id" : 43,
+        "seek" : 23376,
+        "start" : 249.76,
+        "end" : 254.76,
+        "text" : " Great. He's helping her get back to school. I guess you got her new laptop, right? That doesn't make sense.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13000447673182333,
+        "compression_ratio" : 1.7089337175792507,
+        "no_speech_prob" : 0.1726188063621521
+      },
+      {
+        "id" : 44,
+        "seek" : 23376,
+        "start" : 254.76,
+        "end" : 261.76,
+        "text" : " I called MATC this afternoon. They said no problem. She can enroll in any of their classes with what she's already gotten installed on her machine.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.13000447673182333,
+        "compression_ratio" : 1.7089337175792507,
+        "no_speech_prob" : 0.1726188063621521
+      },
+      {
+        "id" : 45,
+        "seek" : 26176,
+        "start" : 261.76,
+        "end" : 272.76,
+        "text" : " Then I called Verizon about that CD that wasn't working. They said the CD might not work but they will still be able to get a tech support crew to her house so she can start using the internet with her current machine Ubuntu.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12759545093446267,
+        "compression_ratio" : 1.6963696369636965,
+        "no_speech_prob" : 0.06710516661405563
+      },
+      {
+        "id" : 46,
+        "seek" : 26176,
+        "start" : 272.76,
+        "end" : 280.76,
+        "text" : " Well, of course, that was before she called out to the channel. Fuck me news. Well, I made a couple phone calls on behalf of her and I acted like an adult for her.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12759545093446267,
+        "compression_ratio" : 1.6963696369636965,
+        "no_speech_prob" : 0.06710516661405563
+      },
+      {
+        "id" : 47,
+        "seek" : 26176,
+        "start" : 280.76,
+        "end" : 285.76,
+        "text" : " What I did is I called the school. They said, of course, you don't need a laptop to enroll. What are you fucking brain dead?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12759545093446267,
+        "compression_ratio" : 1.6963696369636965,
+        "no_speech_prob" : 0.06710516661405563
+      },
+      {
+        "id" : 48,
+        "seek" : 28576,
+        "start" : 285.76,
+        "end" : 290.76,
+        "text" : " And then I called Verizon and they said, of course, you don't need to see you to install the internet. What are you fucking brain dead?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12964556767390326,
+        "compression_ratio" : 1.6973293768545994,
+        "no_speech_prob" : 0.8098711967468262
+      },
+      {
+        "id" : 49,
+        "seek" : 28576,
+        "start" : 290.76,
+        "end" : 296.76,
+        "text" : " And I was like, no, I'm just calling on behalf of a stupid young woman completely vacant brain dead in the head.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12964556767390326,
+        "compression_ratio" : 1.6973293768545994,
+        "no_speech_prob" : 0.8098711967468262
+      },
+      {
+        "id" : 50,
+        "seek" : 28576,
+        "start" : 296.76,
+        "end" : 306.76,
+        "text" : " And the hopes of me getting in her panties because I'm 30 years old and I've never had sex and my father got me this job and broadcasts and it's the only thing I can do to bargain to try to get some pussy because I'm just complete fucking wet towel.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12964556767390326,
+        "compression_ratio" : 1.6973293768545994,
+        "no_speech_prob" : 0.8098711967468262
+      },
+      {
+        "id" : 51,
+        "seek" : 28576,
+        "start" : 306.76,
+        "end" : 309.76,
+        "text" : " I mean, my life is completely worthless. This is what I can't believe it.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.12964556767390326,
+        "compression_ratio" : 1.6973293768545994,
+        "no_speech_prob" : 0.8098711967468262
+      },
+      {
+        "id" : 52,
+        "seek" : 30976,
+        "start" : 309.76,
+        "end" : 316.76,
+        "text" : " The pronunciation, she might have to work on that a little bit but at least she can get back to school and start doing what she wants to do. What a huge hassle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18536766539228725,
+        "compression_ratio" : 1.6056338028169015,
+        "no_speech_prob" : 0.41409626603126526
+      },
+      {
+        "id" : 53,
+        "seek" : 30976,
+        "start" : 316.76,
+        "end" : 321.76,
+        "text" : " What a huge hassle. Boy, boy, what a huge hassle.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18536766539228725,
+        "compression_ratio" : 1.6056338028169015,
+        "no_speech_prob" : 0.41409626603126526
+      },
+      {
+        "id" : 54,
+        "seek" : 30976,
+        "start" : 321.76,
+        "end" : 323.76,
+        "text" : " Ubuntu.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18536766539228725,
+        "compression_ratio" : 1.6056338028169015,
+        "no_speech_prob" : 0.41409626603126526
+      },
+      {
+        "id" : 55,
+        "seek" : 30976,
+        "start" : 326.76,
+        "end" : 336.76,
+        "text" : " A dumb girl lazy, not worthy of a college degree, unscrupulous reporting. 27 news is incompetent. A new low for local news.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.18536766539228725,
+        "compression_ratio" : 1.6056338028169015,
+        "no_speech_prob" : 0.41409626603126526
+      },
+      {
+        "id" : 56,
+        "seek" : 33676,
+        "start" : 336.76,
+        "end" : 339.76,
+        "text" : " Wow!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5101850146339053,
+        "compression_ratio" : 1.1142857142857143,
+        "no_speech_prob" : 0.26010915637016296
+      },
+      {
+        "id" : 57,
+        "seek" : 33676,
+        "start" : 339.76,
+        "end" : 342.76,
+        "text" : " Sometimes I get the feeling that nobody's really listening to me.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5101850146339053,
+        "compression_ratio" : 1.1142857142857143,
+        "no_speech_prob" : 0.26010915637016296
+      },
+      {
+        "id" : 58,
+        "seek" : 33676,
+        "start" : 342.76,
+        "end" : 344.76,
+        "text" : " An unoriginal...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5101850146339053,
+        "compression_ratio" : 1.1142857142857143,
+        "no_speech_prob" : 0.26010915637016296
+      },
+      {
+        "id" : 59,
+        "seek" : 33676,
+        "start" : 344.76,
+        "end" : 346.76,
+        "text" : " Fee-hee!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5101850146339053,
+        "compression_ratio" : 1.1142857142857143,
+        "no_speech_prob" : 0.26010915637016296
+      },
+      {
+        "id" : 60,
+        "seek" : 33676,
+        "start" : 346.76,
+        "end" : 348.76,
+        "text" : " Bro, that's a shame.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5101850146339053,
+        "compression_ratio" : 1.1142857142857143,
+        "no_speech_prob" : 0.26010915637016296
+      }
+    ]
+  }
+}

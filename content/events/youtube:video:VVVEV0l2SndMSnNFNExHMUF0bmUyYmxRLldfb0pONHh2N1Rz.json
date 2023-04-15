@@ -1,0 +1,76 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLldfb0pONHh2N1Rz",
+  "category" : "video",
+  "name" : "Guraffic Park",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/W_oJN4xv7Ts/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/W_oJN4xv7Ts"
+    }
+  ],
+  "start_date" : 1372167555000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.32,
+        "text" : " Come on, come on, come on, come on, we gotta get out of here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5173488616943359,
+        "compression_ratio" : 1.5512820512820513,
+        "no_speech_prob" : 0.26483142375946045
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.32,
+        "end" : 3.12,
+        "text" : " Gotta get out of here.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5173488616943359,
+        "compression_ratio" : 1.5512820512820513,
+        "no_speech_prob" : 0.26483142375946045
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 3.12,
+        "end" : 4.4,
+        "text" : " Now, now, right now.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5173488616943359,
+        "compression_ratio" : 1.5512820512820513,
+        "no_speech_prob" : 0.26483142375946045
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 6.32,
+        "end" : 7.32,
+        "text" : " Must go faster.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.5173488616943359,
+        "compression_ratio" : 1.5512820512820513,
+        "no_speech_prob" : 0.26483142375946045
+      }
+    ]
+  }
+}

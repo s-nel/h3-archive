@@ -1,0 +1,12 @@
+{
+  "person_id" : "jatkins",
+  "category" : "lore",
+  "first_name" : "Jeffrey",
+  "last_name" : "Atkins",
+  "display_name" : "Ja Rule",
+  "thumb" : "/people/jatkins.jpg",
+  "description" : "Alleged fraudster who allegedly defrauded many people with his affiliation with the Fyre Festival",
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

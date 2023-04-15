@@ -1,0 +1,13 @@
+{
+  "person_id" : "csorrenti",
+  "category" : "guest",
+  "first_name" : "Clara",
+  "last_name" : "Sorrenti",
+  "display_name" : "Keffals",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : true
+}

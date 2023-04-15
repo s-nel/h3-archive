@@ -1,0 +1,13 @@
+{
+  "person_id" : "rgosling",
+  "category" : "lore",
+  "first_name" : "Ryan",
+  "last_name" : "Gosling",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,13 @@
+{
+  "person_id" : "dfeitosa",
+  "category" : "lore",
+  "first_name" : "Dennis",
+  "last_name" : "Feitosa",
+  "display_name" : "Def Noodles",
+  "thumb" : "/people/dfeitosa.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : false,
+  "is_squashed_beef" : null
+}

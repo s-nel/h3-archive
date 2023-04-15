@@ -1,0 +1,13 @@
+{
+  "person_id" : "jadams",
+  "category" : "guest",
+  "first_name" : "Jidion",
+  "last_name" : "Adams",
+  "display_name" : "JiDion",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : true
+}

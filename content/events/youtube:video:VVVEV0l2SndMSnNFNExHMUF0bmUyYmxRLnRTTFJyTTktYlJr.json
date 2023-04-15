@@ -1,0 +1,80 @@
+{
+  "event_id" : "youtube:video:VVVEV0l2SndMSnNFNExHMUF0bmUyYmxRLnRTTFJyTTktYlJr",
+  "category" : "video",
+  "name" : "h3h3 productions Trailer ft. Big Man Tyrone",
+  "description" : "",
+  "thumb" : "https://i.ytimg.com/vi/tSLRrM9-bRk/default.jpg",
+  "tags" : [
+    {
+      "key" : "channel",
+      "value" : "h3h3Productions"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/tSLRrM9-bRk"
+    }
+  ],
+  "start_date" : 1400176407000,
+  "duration" : null,
+  "people" : [
+    {
+      "person_id" : "eklein",
+      "role" : "creator"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "crew"
+    }
+  ],
+  "transcription" : {
+    "text" : null,
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " Oi you there!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.647296633039202,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.10939635336399078
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 7.0,
+        "text" : " Are you subscribed to HETCH the HETCH the Productions?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.647296633039202,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.10939635336399078
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 22.0,
+        "text" : " Why not mate?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.647296633039202,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.10939635336399078
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 26.0,
+        "end" : 28.0,
+        "text" : " Why not?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.647296633039202,
+        "compression_ratio" : 1.1818181818181819,
+        "no_speech_prob" : 0.10939635336399078
+      }
+    ]
+  }
+}

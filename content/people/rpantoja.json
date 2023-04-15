@@ -1,0 +1,13 @@
+{
+  "person_id" : "rpantoja",
+  "category" : "guest",
+  "first_name" : "Rudy",
+  "last_name" : "Pantoja",
+  "display_name" : "Hugh Mungus",
+  "thumb" : "/people/rpantoja.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

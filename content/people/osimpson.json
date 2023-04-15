@@ -1,0 +1,13 @@
+{
+  "person_id" : "osimpson",
+  "category" : "lore",
+  "first_name" : "Orenthal",
+  "last_name" : "Simpson",
+  "display_name" : "O. J. Simpson",
+  "thumb" : "/people/osimpson.jpg",
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

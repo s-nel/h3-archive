@@ -1,0 +1,43 @@
+{
+  "steamy_id" : "wth-2022",
+  "people" : [
+    {
+      "person_id" : [
+        "ksiragusa"
+      ],
+      "name" : "Amourantch's abusive husband exposed",
+      "won" : true
+    },
+    {
+      "person_id" : [
+        "ghanna"
+      ],
+      "name" : "Somebody breaks into Gabbie Hanna's house while she's home",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "lpaul"
+      ],
+      "name" : "Logan Paul's pig maltreatment and neglect",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "achechik"
+      ],
+      "name" : "Adriana Chechik injures her back at TwitchCon",
+      "won" : false
+    },
+    {
+      "person_id" : [
+        "emiller"
+      ],
+      "name" : "Ezra Miller kidnaps child",
+      "won" : false
+    }
+  ],
+  "name" : "The \"What the Hell is Happening? Dear God Somebody Please do Something!\" Award",
+  "description" : null,
+  "year" : 2022
+}
