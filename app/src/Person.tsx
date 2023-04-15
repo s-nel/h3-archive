@@ -9,6 +9,7 @@ import {
   EuiBreadcrumb,
   EuiBreadcrumbs,
   EuiButton,
+  EuiButtonIcon,
   EuiFlexGroup,
   EuiFlexItem,
   EuiHorizontalRule,
@@ -42,20 +43,6 @@ const Person = ({
   const people = useSelector(state => state.people.value)
   const soundbites = useSelector(state => state.soundbites.value && state.soundbites.value.filter(s => s.person_id === personId))
   const [isLoading, setLoading] = React.useState(false)
-  // const events = useSelector(state => state.events.value && state.events.value
-  //   .map(e => {
-  //     const person = e.people.find(p => p.person_id === personId)
-  //     if (!person) {
-  //       return e
-  //     }
-  //     return Object.assign({
-  //       role: person.role,
-  //       roleLabel: roleLabels[person.role],
-  //       categoryLabel: categoryLabels[e.category],
-  //       categoryColor: categoryColors[e.category],
-  //     }, e)
-  //   })
-  //   .filter(e => e.role))
   const [events, setEvents] = React.useState(null)
   const steamies = useSelector(state => state.steamies.value && state.steamies.value.filter(s => personId && s.people.find(p => p.person_id.find(p2 => p2 === personId))))
   const navigate = useNavigate()
@@ -289,6 +276,7 @@ const Person = ({
       <EuiFlexGroup direction="column">
         {soundbites && soundbites.length > 0 && (<EuiFlexItem grow={false}>
           <EuiPanel grow={false}>
+            {!isMobile && <EditPersonButton personId={person.person_id} />}
             <EuiText>
               <h4>Soundbites</h4>
             </EuiText>
@@ -297,6 +285,7 @@ const Person = ({
         </EuiFlexItem>)}
         {person.aliases && person.aliases.length > 0 && (<EuiFlexItem grow={false}>
           <EuiPanel grow={false}>
+            {!isMobile && <EditPersonButton personId={person.person_id} />}
             <EuiText>
               <h4>Also Known As</h4>
             </EuiText>
@@ -305,6 +294,7 @@ const Person = ({
         </EuiFlexItem>)}
         {steamies && steamies.length > 0 && (<EuiFlexItem grow={false}>
           <EuiPanel grow={false}>
+            {!isMobile && <EditPersonButton personId={person.person_id} />}
             <EuiText>
               <h4>Steamies</h4>
             </EuiText>
@@ -322,8 +312,10 @@ const Person = ({
       <EuiFlexItem grow={3}>
         <EuiFlexGroup direction="column">
           <EuiFlexItem grow={false}>
+            <EditPersonButton personId={person.person_id} />
             <EuiFlexGroup alignItems="baseline" gutterSize="xl">
               {person.thumb && (<EuiFlexItem grow={false}>
+                <EditPersonImgButton personId={person.person_id} />
                 <EuiImage style={{width: imgWidth, height: imgWidth}} alt="thumbnail" src={person.thumb} />  
               </EuiFlexItem>)}
               <EuiFlexItem grow={false}>
@@ -379,5 +371,36 @@ const fetchEvents = async (personId, { pageIndex, pageSize, sortField, sortDirec
   setTotalEvents(response.data.total)
   setLoading(false)
 }
+
+const EditPersonButton = ({
+  personId,
+}) => {
+  const [hovering, setHovering] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  return (<div style={{ position: 'relative' }}>
+    <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
+      <EuiToolTip content="Suggest an edit">
+        <EuiButtonIcon aria-label="edit person" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/people/${personId}.json`} iconType="pencil" display="base" />
+      </EuiToolTip>
+    </div>
+  </div>)
+}
+
+const EditPersonImgButton = ({
+  personId,
+}) => {
+  const [hovering, setHovering] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  return (<div style={{ position: 'relative' }}>
+    <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
+      <EuiToolTip content="Suggest an edit">
+        <EuiButtonIcon aria-label="edit image" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/app/public/people/${personId}.jpg`} iconType="pencil" display="base" />
+      </EuiToolTip>
+    </div>
+  </div>)
+}
+
 
 export default Person

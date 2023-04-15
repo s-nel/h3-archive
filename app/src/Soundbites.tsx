@@ -1,6 +1,7 @@
 import React from 'react'
 import {
   EuiBadge,
+  EuiButtonIcon,
   EuiFlexGroup,
   EuiFlexItem,
   EuiImage,
@@ -122,6 +123,7 @@ const Soundbites = () => {
             }}
             paddingSize="s"
           >
+            {hovered === soundbite.soundbite_id && <EditSoundbiteButton soundbiteId={soundbite.soundbite_id} />}
             <EuiFlexGroup direction="column" style={{height: '100%'}} gutterSize="none">
               <EuiFlexItem grow>
                 <EuiFlexGroup gutterSize="s" justifyContent="center" alignItems="center" style={{height: '100%', maxHeight: `${maxTextHeight}px`}}>
@@ -248,6 +250,21 @@ const SoundbiteSearch = ({
 
 const onSearch = setQuery => query => {
   setQuery(query.query)
+}
+
+const EditSoundbiteButton = ({
+  soundbiteId,
+}) => {
+  const [hovering, setHovering] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  return (<div style={{ position: 'relative' }}>
+    <div style={{ position: 'absolute', top: '-3px', right: '-3px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
+      <EuiToolTip content="Suggest an edit">
+        <EuiButtonIcon aria-label="edit soundbite" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/soundbites/${soundbiteId}.json`} iconType="pencil" display="base" />
+      </EuiToolTip>
+    </div>
+  </div>)
 }
 
 export default Soundbites

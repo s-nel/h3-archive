@@ -1,4 +1,4 @@
-import { EuiBasicTable, EuiButton, EuiCard, EuiFlexGroup, EuiFlexItem, EuiHeader, EuiHorizontalRule, EuiImage, EuiPageHeader, EuiSkeletonRectangle, EuiSkeletonText, EuiSkeletonTitle, EuiSpacer, EuiText, EuiTextArea, EuiTitle, EuiToolTip, useIsWithinBreakpoints } from '@elastic/eui'
+import { EuiBasicTable, EuiButton, EuiButtonIcon, EuiCard, EuiFlexGroup, EuiFlexItem, EuiHeader, EuiHorizontalRule, EuiImage, EuiPageHeader, EuiSkeletonRectangle, EuiSkeletonText, EuiSkeletonTitle, EuiSpacer, EuiText, EuiTextArea, EuiTitle, EuiToolTip, useIsWithinBreakpoints } from '@elastic/eui'
 import React from 'react'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
@@ -128,6 +128,7 @@ const Steamies = ({isEditing}) => {
                 grow={false}
                 style={{ width: steamyWidth }}
               >
+                <EditSteamyButton steamyId={yearSteamy.steamy_id} />
                 <EuiCard paddingSize={isMobile ? 's' : undefined} title={yearSteamy.name}>
                   <EuiBasicTable
                     tableLayout="auto"
@@ -148,6 +149,21 @@ const Steamies = ({isEditing}) => {
 
 const onCreateSteamy = async steamyDoc => {
   await axios.put(`/api/steamies/${steamyDoc.steamy_id}`, steamyDoc)
+}
+
+const EditSteamyButton = ({
+  steamyId,
+}) => {
+  const [hovering, setHovering] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  return (<div style={{ position: 'relative' }}>
+    <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
+      <EuiToolTip content="Suggest an edit">
+        <EuiButtonIcon aria-label="edit steamy" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/steamies/${steamyId}.json`} iconType="pencil" display="base" />
+      </EuiToolTip>
+    </div>
+  </div>)
 }
 
 export default Steamies

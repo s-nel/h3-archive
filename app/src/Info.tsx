@@ -192,6 +192,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
       <EuiFlexGroup direction="column">
         <EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
+            <EditEventButton eventId={eventId} />
             <EuiFlexGroup alignItems="baseline">
               {info.thumb && (<EuiFlexItem grow={false}>
                 <EuiImage alt="thumbnail" src={info.thumb} />  
@@ -230,16 +231,17 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
         </EuiFlexItem>)}
         {!isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
-          <EuiAccordion 
-            forceState={isTranscriptShowing ? 'open' : 'closed'} 
-            onToggle={(isOpen) => {
-              setTranscriptShowing(isOpen)
-            }} 
-            buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
-          >
-            <EuiSpacer size="s" />
-            <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
-          </EuiAccordion>
+            <EditEventButton eventId={eventId} />
+            <EuiAccordion 
+              forceState={isTranscriptShowing ? 'open' : 'closed'} 
+              onToggle={(isOpen) => {
+                setTranscriptShowing(isOpen)
+              }} 
+              buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
+            >
+              <EuiSpacer size="s" />
+              <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+            </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
@@ -260,12 +262,14 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
       <br size="xl"/>
       <EuiFlexGroup direction="column">
         {info.people && info.people.length > 0 && (<EuiPanel grow={false}>
+          <EditEventButton eventId={eventId} />
           <EuiText>
             <h4>People</h4>
           </EuiText>
           <EuiBasicTable responsive={false} items={info.people ? [...info.people].sort(sortPeopleByRole) : []} columns={peopleColumns} />
         </EuiPanel>)}
         {links && links.length > 0 && (<EuiPanel grow={false}>
+          <EditEventButton eventId={eventId} />
           <EuiText>
             <h4>Links</h4>
           </EuiText>
@@ -273,6 +277,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
           <EuiListGroup listItems={links} color="primary" size="s" />
         </EuiPanel>)}
         {info.tags && info.tags.length > 0 && (<EuiPanel grow={false}>
+          <EditEventButton eventId={eventId} />
           <EuiText>
             <h4>Tags</h4>
           </EuiText>
@@ -314,6 +319,21 @@ export const categoryColor = {
   video: '#5bd9d9',
   major: '#e375eb',
   controversy: '#eb635b',
+}
+
+const EditEventButton = ({
+  eventId,
+}) => {
+  const [hovering, setHovering] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  return (<div style={{ position: 'relative' }}>
+    <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
+      <EuiToolTip content="Suggest an edit">
+        <EuiButtonIcon target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/events/${eventId}.json`} iconType="pencil" display="base" />
+      </EuiToolTip>
+    </div>
+  </div>)
 }
 
 export default Info;

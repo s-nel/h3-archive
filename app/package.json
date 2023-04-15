@@ -58,7 +58,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8080",
+  "proxy": "https://h3historian.com",
   "devDependencies": {
     "react-app-rewired": "^2.2.1"
   }
