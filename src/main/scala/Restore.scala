@@ -167,7 +167,7 @@ object Restore {
             .version(file.lastModified())
         }
       }
-      batches = ops.grouped(maybeBatchSize.getOrElse(500))
+      batches = ops.grouped(maybeBatchSize.getOrElse(50))
       results <- Future.traverse(batches) { batch =>
         client.execute(bulk(batch: _*))
       }

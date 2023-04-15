@@ -210,7 +210,7 @@ const EventList = ({
             <EuiFlexGroup responsive={false} alignItems="center">
               <EuiFlexItem grow>
                 <EuiText size="xs">
-                  <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
+                  <EuiTextColor color="subdued">{DateTime.fromMillis(e.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_SHORT)}</EuiTextColor>
                 </EuiText>
               </EuiFlexItem>
               <EuiFlexItem grow={false}>

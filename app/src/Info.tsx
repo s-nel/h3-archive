@@ -202,7 +202,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
                   <h2>{info.name}</h2>
                 </EuiTitle>
                 {info.start_date && (<EuiText>
-                  <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
+                  <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
                 </EuiText>)}
               </EuiFlexItem>
               <EuiFlexItem grow={false}>

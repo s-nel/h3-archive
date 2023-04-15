@@ -138,10 +138,10 @@ const Person = ({
       field: 'start_date',
       name: 'Date',
       sortable: true,
-      render: a => DateTime.fromMillis(a).toLocaleString(DateTime.DATE_HUGE),
+      render: a => DateTime.fromMillis(a, { zone: 'utc' }).toLocaleString(DateTime.DATE_HUGE),
       mobileOptions: {
         header: false,
-        render: a => <EuiText size="s" color="subdued">{DateTime.fromMillis(a.start_date).toLocaleString(DateTime.DATE_SHORT)}</EuiText>,
+        render: a => <EuiText size="s" color="subdued">{DateTime.fromMillis(a.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_SHORT)}</EuiText>,
       }
     },
     {
