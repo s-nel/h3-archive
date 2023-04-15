@@ -159,9 +159,10 @@ object Restore {
               Failure(t)
           })
         } yield {
+          val transformedDoc = transformer(doc)
           indexInto(index)
             .withId(id)
-            .doc(doc.asJson.noSpaces)
+            .doc(transformedDoc.asJson.noSpaces)
             .versionType(VersionType.EXTERNAL)
             .version(file.lastModified())
         }
