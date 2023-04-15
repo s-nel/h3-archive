@@ -43,11 +43,17 @@ object MassiveDumps {
       )
     )
 
-    def dumpEvents(): Future[Unit] = dump[EventDoc](elasticsearchClient, eventsIndex, "events")
-    def dumpPeople(): Future[Unit] = dump[PersonDoc](elasticsearchClient, peopleIndex, "people")
-    def dumpSteamies(): Future[Unit] = dump[SteamyDoc](elasticsearchClient, steamyIndex, "steamies")
+    def dumpEvents(): Future[Unit] =
+      dump[EventDoc](
+        elasticsearchClient,
+        eventsIndex,
+        "events",
+        e => e.copy(transcription = e.transcription.map(_.copy(text = None)))
+      )
+    def dumpPeople(): Future[Unit] = dump[PersonDoc](elasticsearchClient, peopleIndex, "people", identity)
+    def dumpSteamies(): Future[Unit] = dump[SteamyDoc](elasticsearchClient, steamyIndex, "steamies", identity)
     def dumpSoundbites(): Future[Unit] =
-      dump[SoundbiteDoc](elasticsearchClient, soundbitesIndex, "soundbites")
+      dump[SoundbiteDoc](elasticsearchClient, soundbitesIndex, "soundbites", identity)
 
     val fut = maybeKind match {
       case Some("events") => dumpEvents()
@@ -62,7 +68,12 @@ object MassiveDumps {
     Await.result(fut, Duration.Inf)
   }
 
-  def dump[Doc: Decoder: Encoder](client: ElasticClient, index: String, dir: String): Future[Unit] = Future {
+  def dump[Doc: Decoder: Encoder](
+      client: ElasticClient,
+      index: String,
+      dir: String,
+      transformer: Doc => Doc
+  ): Future[Unit] = Future {
     implicit val reader: HitReader[(String, Doc)] = new HitReader[(String, Doc)] {
       override def read(hit: Hit): Try[(String, Doc)] = decode[Doc](hit.sourceAsString).toTry.map(d => hit.id -> d)
     }
@@ -70,10 +81,11 @@ object MassiveDumps {
       SearchIterator.iterate[(String, Doc)](client, search(index).matchAllQuery().keepAlive("1m").size(50))
     iterator.foreach {
       case (id, doc) =>
+        val transformedDoc = transformer(doc)
         val file = new File(s"content/$dir/$id.json")
         println(s"Writing [$id] to [${file.getAbsolutePath}]...")
         Using(new FileWriter(file)) { writer =>
-          writer.write(doc.asJson.spaces2)
+          writer.write(transformedDoc.asJson.spaces2)
         }
         println(s"Finished writing [${id}] to [${file.getAbsolutePath}]")
     }

@@ -594,7 +594,7 @@ object Server extends FailFastCirceSupport {
         createIndex(peopleIndex).mapping(peopleIndexMapping)
       }
       _ <- readWriteClient.execute {
-        createIndex(eventsIndex).mapping(indexMapping)
+        createIndex(eventsIndex).mapping(eventsMapping)
       }
       _ <- readWriteClient.execute {
         createIndex(soundbitesIndex).mapping(soundbitesIndexMapping)
@@ -609,7 +609,7 @@ object Server extends FailFastCirceSupport {
         putMapping(peopleIndex).properties(peopleIndexMapping.properties)
       }
       _ <- readWriteClient.execute {
-        putMapping(eventsIndex).properties(indexMapping.properties)
+        putMapping(eventsIndex).properties(eventsMapping.properties)
       }
       _ <- readWriteClient.execute {
         putMapping(soundbitesIndex).properties(soundbitesIndexMapping.properties)

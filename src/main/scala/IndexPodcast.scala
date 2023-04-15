@@ -178,7 +178,7 @@ object IndexPodcast {
       episodes <- httpRequest[Episodes](showEpisodesRequest(tokenResponse.accessToken))
       _ = println(s"Found [${Integer.toString(episodes.total)}] episodes")
       _ <- elasticsearchClient.execute {
-        createIndex(eventsIndex).settings(indexSettings).mapping(indexMapping)
+        createIndex(eventsIndex).settings(indexSettings).mapping(eventsMapping)
       }
       _ <- recurseIndexEpisodes(tokenResponse, showEpisodesRequest(tokenResponse.accessToken))
     } yield {}
@@ -219,7 +219,7 @@ object IndexPodcast {
     )
   }
 
-  val indexMapping = properties(
+  val eventsMapping = properties(
     KeywordField("event_id"),
     KeywordField("category"),
     TextField("name"),
