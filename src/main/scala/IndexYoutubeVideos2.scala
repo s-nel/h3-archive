@@ -7,14 +7,10 @@ import akka.http.scaladsl.model.Uri.{Path, Query}
 import akka.http.scaladsl.model.{HttpMethods, HttpRequest, Uri}
 import akka.stream.Materializer
 import cats.implicits._
-import com.sksamuel.elastic4s.ElasticClient
-import com.sksamuel.elastic4s.ElasticDsl._
-import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.snacktrace.archive.model.{EventDoc, LinkDoc, PersonRef, TagDoc}
 import com.typesafe.config.ConfigFactory
 import io.circe.{Decoder, Encoder}
 import io.circe.derivation._
-import io.circe.syntax._
 
 import java.time.Instant
 import scala.concurrent.{Await, ExecutionContext, Future}
@@ -33,17 +29,6 @@ object IndexYoutubeVideos2 {
 
   def main(args: Array[String]): Unit = {
     val settings = Settings.fromConfig(ConfigFactory.load())
-
-    val elasticsearchClient = ElasticClient(
-      AkkaHttpClient(
-        AkkaHttpClientSettings.default.copy(
-          https = true,
-          hosts = Vector(settings.elasticsearch.host),
-          username = Some(settings.elasticsearch.writeUser),
-          password = Some(settings.elasticsearch.writePassword)
-        )
-      )
-    )
 
     val listVideosRequest = HttpRequest(
       method = HttpMethods.GET,
@@ -83,9 +68,7 @@ object IndexYoutubeVideos2 {
         }
         events = videos.items.map(toEventDoc)
         _ <- events.map { event =>
-          elasticsearchClient.execute {
-            indexInto(eventsIndex).createOnly(true).id(event.eventId).doc(event.asJson.toString())
-          }
+          IndexYoutubeVideos.persistToContent(event)
         }.sequence
         _ <- videos.nextPageToken.toList
           .map(next => recurseIndexVideos(listVideosRequestByPage(next)))

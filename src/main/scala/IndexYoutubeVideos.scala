@@ -5,16 +5,13 @@ import IndexPodcast._
 import akka.actor.ActorSystem
 import akka.http.scaladsl.model.{HttpMethods, HttpRequest, Uri}
 import cats.implicits._
-import com.sksamuel.elastic4s.ElasticClient
-import com.sksamuel.elastic4s.ElasticDsl._
-import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.snacktrace.archive.IndexYoutubeVideos2._
 import com.snacktrace.archive.model.{Category, LinkDoc, LinkType, TagDoc}
 import io.circe.syntax._
 import io.circe.parser.decode
 
 import java.io.{File, FileWriter}
-import scala.io.StdIn
+import scala.io.{Source, StdIn}
 import akka.http.scaladsl.model.Uri.{Path, Query}
 import akka.stream.Materializer
 import com.snacktrace.archive.model.EventDoc
@@ -22,8 +19,8 @@ import com.typesafe.config.ConfigFactory
 
 import java.time.Instant
 import scala.concurrent.duration._
-import scala.concurrent.{Await, ExecutionContext, Future}
-import scala.util.{Failure, Success}
+import scala.concurrent.{Await, ExecutionContext, Future, blocking}
+import scala.util.Using
 
 object IndexYoutubeVideos {
   implicit val system: ActorSystem = ActorSystem()
@@ -39,17 +36,6 @@ object IndexYoutubeVideos {
   def main(args: Array[String]): Unit = {
     val settings = Settings.fromConfig(ConfigFactory.load())
     val ignoreListWriter = new FileWriter(ignoreFile, true)
-
-    val elasticsearchClient = ElasticClient(
-      AkkaHttpClient(
-        AkkaHttpClientSettings.default.copy(
-          https = true,
-          hosts = Vector(settings.elasticsearch.host),
-          username = Some(settings.elasticsearch.writeUser),
-          password = Some(settings.elasticsearch.writePassword)
-        )
-      )
-    )
 
     val listVideosRequest = HttpRequest(
       method = HttpMethods.GET,
@@ -138,13 +124,7 @@ object IndexYoutubeVideos {
                       links = Some(foundEvent.links.getOrElse(Set.empty) ++ youTubeEventDoc.links.getOrElse(Set.empty)),
                       thumb = youTubeEventDoc.thumb
                     )
-                    println(updatedDoc)
-                    Future.successful(())
-                    elasticsearchClient
-                      .execute {
-                        indexInto(eventsIndex).withId(updatedDoc.eventId).doc(updatedDoc.asJson.toString())
-                      }
-                      .map(_ => ())
+                    persistToContent(updatedDoc)
                   }
                 } yield {}
               case Some(foundEvent) =>
@@ -158,12 +138,7 @@ object IndexYoutubeVideos {
                     links = Some(foundEvent.links.getOrElse(Set.empty) ++ youTubeEventDoc.links.getOrElse(Set.empty)),
                     thumb = youTubeEventDoc.thumb
                   )
-                  println(updatedDoc)
-                  elasticsearchClient
-                    .execute {
-                      indexInto(eventsIndex).withId(updatedDoc.eventId).doc(updatedDoc.asJson.toString())
-                    }
-                    .map(_ => ())
+                  persistToContent(updatedDoc)
                 } else {
                   println("No need to update")
                   Future.successful(())
@@ -181,23 +156,33 @@ object IndexYoutubeVideos {
       youtubeIgnoreList <- Future {
         scala.io.Source.fromFile(ignoreFile).getLines().toList
       }
-      _ = println(youtubeIgnoreList)
-      hits <- elasticsearchClient.execute {
-        search(eventsIndex).size(3000).sourceExclude(List("transcription.*"))
-      }
-      esEvents = hits.result.hits.hits.toList.flatMap { hit =>
-        decode[EventDoc](hit.sourceAsString).toTry match {
-          case Success(event) =>
-            List(event)
-          case Failure(exception) =>
-            println("Failed to deserialize doc")
-            exception.printStackTrace()
-            Nil
-        }
-      }
+      esEvents <- loadEventsFromContent(false)
       _ <- recurseIndexVideos(esEvents, youtubeIgnoreList.toSet, listVideosRequest)
     } yield ()
     Await.result(fut, 60.minute)
+  }
+
+  def loadEventsFromContent(withTranscript: Boolean): Future[List[EventDoc]] = {
+    Future.traverse(new File("content/events").listFiles().toList.filter(_.getName.endsWith(".json"))) { file =>
+      for {
+        text <- Future(blocking(Source.fromFile(file).getLines().mkString("\n")))
+        eventDoc <- Future.fromTry(decode[EventDoc](text).toTry)
+      } yield
+        (
+          if (withTranscript) {
+            eventDoc
+          } else {
+            eventDoc.copy(transcription = eventDoc.transcription.map(_.copy(text = None, segments = None)))
+          }
+        )
+    }
+  }
+
+  def persistToContent(eventDoc: EventDoc): Future[Unit] = {
+    val file = new File(s"content/events/${eventDoc.eventId}.json")
+    Future(blocking(Using(new FileWriter(file)) { writer =>
+      writer.write(eventDoc.asJson.spaces2)
+    }))
   }
 
   def toDoc(item: PlaylistItem): EventDoc = {

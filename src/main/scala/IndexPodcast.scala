@@ -7,9 +7,7 @@ import akka.http.scaladsl.model.headers.{Authorization, BasicHttpCredentials, OA
 import akka.http.scaladsl.model.{FormData, HttpMethods, HttpRequest, Uri}
 import akka.stream.Materializer
 import cats.implicits._
-import com.sksamuel.elastic4s.ElasticClient
 import com.sksamuel.elastic4s.ElasticDsl._
-import com.sksamuel.elastic4s.akka.{AkkaHttpClient, AkkaHttpClientSettings}
 import com.sksamuel.elastic4s.fields.{
   BooleanField,
   DateField,
@@ -30,9 +28,11 @@ import io.circe.derivation._
 import io.circe.syntax._
 import io.circe.parser.decode
 
+import java.io.{File, FileWriter}
 import java.time.{LocalDate, ZoneId}
 import scala.concurrent.duration._
-import scala.concurrent.{Await, ExecutionContext, Future}
+import scala.concurrent.{Await, ExecutionContext, Future, blocking}
+import scala.util.Using
 
 object IndexPodcast {
   implicit val system: ActorSystem = ActorSystem()
@@ -96,17 +96,6 @@ object IndexPodcast {
   def main(args: Array[String]): Unit = {
     val settings = Settings.fromConfig(ConfigFactory.load())
 
-    val elasticsearchClient = ElasticClient(
-      AkkaHttpClient(
-        AkkaHttpClientSettings.default.copy(
-          https = true,
-          hosts = Vector(settings.elasticsearch.host),
-          username = Some(settings.elasticsearch.writeUser),
-          password = Some(settings.elasticsearch.writePassword)
-        )
-      )
-    )
-
     val accessTokenRequest = HttpRequest(
       method = HttpMethods.POST,
       uri = spotifyAccountsUrl.withPath(Path.Empty / "api" / "token"),
@@ -132,7 +121,11 @@ object IndexPodcast {
         episodes <- httpRequest[Episodes](request)
         events = episodes.items.map(toDoc)
         _ <- events.map { eventDoc =>
-          elasticsearchClient.execute {
+          val file = new File(s"content/events/${eventDoc.eventId}.json")
+          if (file.exists()) {
+            println(s"File [${file.getName}] already exists. Skipping")
+            Future.successful(())
+          } else {
             val allEventPeople = Set(
               PersonRef("eklein", "host"),
               PersonRef("aayad", "crew"),
@@ -164,7 +157,14 @@ object IndexPodcast {
               Set.empty[TagDoc]
             }
             val transformedDoc = eventDoc.copy(people = Some(people), tags = Some(tags))
-            indexInto(eventsIndex).createOnly(true).id(eventDoc.eventId).doc(transformedDoc.asJson.toString())
+            Future {
+              blocking {
+                Using(new FileWriter(file)) { writer =>
+                  writer.write(transformedDoc.asJson.spaces2)
+                }
+                ()
+              }
+            }
           }
         }.sequence
         _ <- episodes.next.toList
@@ -177,9 +177,6 @@ object IndexPodcast {
       tokenResponse <- httpRequest[TokenResponse](accessTokenRequest)
       episodes <- httpRequest[Episodes](showEpisodesRequest(tokenResponse.accessToken))
       _ = println(s"Found [${Integer.toString(episodes.total)}] episodes")
-      _ <- elasticsearchClient.execute {
-        createIndex(eventsIndex).settings(indexSettings).mapping(eventsMapping)
-      }
       _ <- recurseIndexEpisodes(tokenResponse, showEpisodesRequest(tokenResponse.accessToken))
     } yield {}
 
