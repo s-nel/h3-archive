@@ -6,6 +6,7 @@ import Info, {categoryColor, categoryLabel} from './Info'
 import './App.css'
 import SearchBox from './SearchBox'
 import { useSelector } from 'react-redux'
+import { astToEsQueryDsl } from './astToQuery'
 import {
   EuiBadge,
   EuiBasicTable,
@@ -80,6 +81,8 @@ const Timeline = ({
   const [events, setEvents] = React.useState([])
 
   const eventId = searchParams.get('event_id')
+
+  console.log('query', query)
 
   if (!events && !isMobile) {
     return (<EuiFlexGroup
@@ -265,7 +268,7 @@ const GUTTER_SIZE = 5
 const fetchPage = (query, events, setEvents, setTotalEvents, setLoading, setEmpty, index, batchSize, sort) => {
   setLoading(true)
   return axios.post(`/api/events`, {
-    query: query ? Query.toESQuery(query) : {
+    query: query ? astToEsQueryDsl(query.ast, {}) : {
       match_all: {}
     },
     size: batchSize,
