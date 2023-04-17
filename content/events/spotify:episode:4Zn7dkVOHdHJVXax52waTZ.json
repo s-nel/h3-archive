@@ -64,6 +64,10 @@
       "role" : "crew"
     },
     {
+      "person_id" : "rwolff",
+      "role" : "guest"
+    },
+    {
       "person_id" : "islater",
       "role" : "crew"
     }

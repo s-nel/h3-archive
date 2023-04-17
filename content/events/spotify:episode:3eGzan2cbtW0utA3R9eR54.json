@@ -36,10 +36,6 @@
       "role" : "crew"
     },
     {
-      "person_id" : "aayad",
-      "role" : "crew"
-    },
-    {
       "person_id" : "love",
       "role" : "crew"
     },
@@ -65,6 +61,14 @@
     },
     {
       "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "jdonaldson",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "aayad",
       "role" : "crew"
     }
   ],

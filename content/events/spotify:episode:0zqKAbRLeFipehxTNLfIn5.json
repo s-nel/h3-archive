@@ -32,10 +32,6 @@
       "role" : "crew"
     },
     {
-      "person_id" : "olopes",
-      "role" : "crew"
-    },
-    {
       "person_id" : "aayad",
       "role" : "crew"
     },
@@ -62,6 +58,14 @@
     {
       "person_id" : "islater",
       "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "gpaltrow",
+      "role" : "guest"
     }
   ],
   "transcription" : {

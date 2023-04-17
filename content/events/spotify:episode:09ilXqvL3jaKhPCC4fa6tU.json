@@ -28,8 +28,8 @@
       "role" : "crew"
     },
     {
-      "person_id" : "dswerdlove",
-      "role" : "crew"
+      "person_id" : "mwalsh",
+      "role" : "topic"
     },
     {
       "person_id" : "olopes",
@@ -37,10 +37,6 @@
     },
     {
       "person_id" : "aayad",
-      "role" : "crew"
-    },
-    {
-      "person_id" : "love",
       "role" : "crew"
     },
     {
@@ -65,6 +61,22 @@
     },
     {
       "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dtrump",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "mlindell",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "love",
       "role" : "crew"
     }
   ],

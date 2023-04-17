@@ -22,6 +22,10 @@
     {
       "person_id" : "eklein",
       "role" : "host"
+    },
+    {
+      "person_id" : "srafati",
+      "role" : "topic"
     }
   ],
   "transcription" : {

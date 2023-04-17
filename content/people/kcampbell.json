@@ -1,0 +1,13 @@
+{
+  "person_id" : "kcampbell",
+  "category" : "guest",
+  "first_name" : "Kelon",
+  "last_name" : "Campbell",
+  "display_name" : "Terri Joe",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : false
+}

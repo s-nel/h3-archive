@@ -56,12 +56,24 @@
       "role" : "crew"
     },
     {
-      "person_id" : "zlouis",
-      "role" : "crew"
+      "person_id" : "hklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "srafati",
+      "role" : "topic"
     },
     {
       "person_id" : "islater",
       "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hmandel",
+      "role" : "topic"
     }
   ],
   "transcription" : {

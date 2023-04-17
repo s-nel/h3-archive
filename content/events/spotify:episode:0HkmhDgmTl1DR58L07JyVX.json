@@ -60,6 +60,10 @@
       "role" : "crew"
     },
     {
+      "person_id" : "srafati",
+      "role" : "topic"
+    },
+    {
       "person_id" : "islater",
       "role" : "crew"
     }

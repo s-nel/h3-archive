@@ -28,10 +28,6 @@
       "role" : "crew"
     },
     {
-      "person_id" : "olopes",
-      "role" : "crew"
-    },
-    {
       "person_id" : "aayad",
       "role" : "crew"
     },
@@ -48,15 +44,35 @@
       "role" : "host"
     },
     {
-      "person_id" : "cgrant",
-      "role" : "crew"
+      "person_id" : "amcbroom",
+      "role" : "topic"
     },
     {
       "person_id" : "zlouis",
       "role" : "crew"
     },
     {
+      "person_id" : "bhall",
+      "role" : "guest"
+    },
+    {
       "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "rkavanaugh",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "yerakat",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "cgrant",
       "role" : "crew"
     }
   ],

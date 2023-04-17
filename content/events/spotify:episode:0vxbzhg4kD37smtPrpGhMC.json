@@ -32,19 +32,7 @@
       "role" : "crew"
     },
     {
-      "person_id" : "olopes",
-      "role" : "crew"
-    },
-    {
-      "person_id" : "aayad",
-      "role" : "crew"
-    },
-    {
       "person_id" : "love",
-      "role" : "crew"
-    },
-    {
-      "person_id" : "layad",
       "role" : "crew"
     },
     {
@@ -56,12 +44,48 @@
       "role" : "crew"
     },
     {
-      "person_id" : "zlouis",
-      "role" : "crew"
+      "person_id" : "etate",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "areese",
+      "role" : "topic"
     },
     {
       "person_id" : "islater",
       "role" : "crew"
+    },
+    {
+      "person_id" : "sgomez2",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "jbieber",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "hbieber",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "nbalinthazy",
+      "role" : "topic"
     }
   ],
   "transcription" : {

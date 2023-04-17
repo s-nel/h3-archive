@@ -24,11 +24,11 @@
   "duration" : 13197740,
   "people" : [
     {
-      "person_id" : "dswerdlove",
+      "person_id" : "stemple",
       "role" : "crew"
     },
     {
-      "person_id" : "olopes",
+      "person_id" : "dswerdlove",
       "role" : "crew"
     },
     {
@@ -64,12 +64,12 @@
       "role" : "crew"
     },
     {
-      "person_id" : "stemple",
-      "role" : "crew"
+      "person_id" : "sgomez2",
+      "role" : "topic"
     },
     {
-      "person_id" : "sgomez",
-      "role" : "topic"
+      "person_id" : "olopes",
+      "role" : "crew"
     },
     {
       "person_id" : "hbieber",

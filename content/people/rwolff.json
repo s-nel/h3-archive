@@ -1,0 +1,13 @@
+{
+  "person_id" : "rwolff",
+  "category" : "guest",
+  "first_name" : "Richard",
+  "last_name" : "Wolff",
+  "display_name" : "Richard D. Wolff",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : false
+}

@@ -44,6 +44,10 @@
       "role" : "crew"
     },
     {
+      "person_id" : "kcampbell",
+      "role" : "guest"
+    },
+    {
       "person_id" : "eklein",
       "role" : "host"
     },

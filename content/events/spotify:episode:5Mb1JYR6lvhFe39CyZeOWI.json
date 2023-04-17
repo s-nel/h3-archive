@@ -40,8 +40,8 @@
       "role" : "crew"
     },
     {
-      "person_id" : "love",
-      "role" : "crew"
+      "person_id" : "cpersin",
+      "role" : "topic"
     },
     {
       "person_id" : "layad",
@@ -60,7 +60,19 @@
       "role" : "crew"
     },
     {
+      "person_id" : "etate",
+      "role" : "topic"
+    },
+    {
       "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aross",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "love",
       "role" : "crew"
     }
   ],
