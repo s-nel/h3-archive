@@ -40,8 +40,6 @@ object Restore {
   implicit val materializer: Materializer = Materializer.createMaterializer(system)
   implicit val timeout = 5.minutes
 
-  private val ignoreList = Set(".DS_Store")
-
   def main(args: Array[String]): Unit = {
     val maybeKind = args.lift(0)
     val maybeBatchSize = args.lift(1).flatMap(a => Try(Integer.parseInt(a)).toOption)
@@ -75,7 +73,8 @@ object Restore {
             transcription.copy(text = Some(fullTextBuilder.toString()))
           }
         })
-      }
+      },
+      markdownFields = Map.empty
     )
 
     def restorePeople(): Future[Unit] = restore[PersonDoc](
@@ -84,7 +83,8 @@ object Restore {
       mapping = peopleIndexMapping,
       dir = "people",
       maybeBatchSize = maybeBatchSize,
-      transformer = identity
+      transformer = identity,
+      markdownFields = Map("description" -> ((doc, desc) => doc.copy(description = Some(desc))))
     )
 
     def restoreSteamies(): Future[Unit] = restore[SteamyDoc](
@@ -93,7 +93,8 @@ object Restore {
       mapping = steamyIndexMapping,
       dir = "steamies",
       maybeBatchSize = maybeBatchSize,
-      transformer = identity
+      transformer = identity,
+      markdownFields = Map.empty
     )
 
     def restoreSoundbites(): Future[Unit] = restore[SoundbiteDoc](
@@ -102,7 +103,8 @@ object Restore {
       mapping = soundbitesIndexMapping,
       dir = "soundbites",
       maybeBatchSize = maybeBatchSize,
-      transformer = identity
+      transformer = identity,
+      markdownFields = Map.empty
     )
 
     val fut = maybeKind match {
@@ -124,7 +126,8 @@ object Restore {
       mapping: MappingDefinition,
       dir: String,
       maybeBatchSize: Option[Int],
-      transformer: Doc => Doc
+      transformer: Doc => Doc,
+      markdownFields: Map[String, (Doc, String) => Doc]
   ): Future[Unit] = {
     for {
       createIndexResponse <- client.execute(createIndex(index).mapping(mapping))
@@ -138,8 +141,8 @@ object Restore {
         case Right(a) => Future.successful(a)
         case Left(err) => Future.failed(err.asException)
       }
-      ops <- Future.traverse(new File(s"content/$dir").listFiles().toList.filterNot { f =>
-        ignoreList(f.getName)
+      ops <- Future.traverse(new File(s"content/$dir").listFiles().toList.filter { f =>
+        f.getName.endsWith(".json")
       }) { file =>
         val id = file.getName.substring(0, file.getName.lastIndexOf("."))
         implicit val codec: Codec = Codec.UTF8
@@ -158,8 +161,23 @@ object Restore {
               println(s"Failed decoding [${file.getAbsolutePath}]")
               Failure(t)
           })
+          updatedDoc <- markdownFields.foldLeft(Future.successful(doc)) {
+            case (docFut, (key, updateDocF)) =>
+              docFut.flatMap { doc =>
+                val mdFile = new File(s"content/$dir/$id.$key.md")
+                if (mdFile.exists()) {
+                  Future {
+                    val mdContents = Source.fromFile(mdFile).getLines().mkString("\n")
+                    println(s"mdContents = ${mdContents}")
+                    updateDocF(doc, mdContents)
+                  }
+                } else {
+                  Future.successful(doc)
+                }
+              }
+          }
         } yield {
-          val transformedDoc = transformer(doc)
+          val transformedDoc = transformer(updatedDoc)
           indexInto(index)
             .withId(id)
             .doc(transformedDoc.asJson.noSpaces)

@@ -1,0 +1,2 @@
+Keemstar is one of H3 podcast's biggest enemies. Keem was a guest on the fifth podcast and Ethan commented on the podcast that he hated Keem. This lead
+to a longstanding beef between the two which culminated in Ethan making the ["Content Nuke" series](/?q=category%3A%28video%29+people.person_id%3A%28dkeem%29) about Keemstar.

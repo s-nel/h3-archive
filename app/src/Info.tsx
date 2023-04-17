@@ -16,8 +16,11 @@ import {
   EuiImage,
   EuiListGroup,
   EuiPanel,
+  EuiSelect,
   EuiSkeletonText,
   EuiSpacer,
+  EuiSuggest,
+  EuiSuperSelect,
   EuiText,
   EuiTextColor,
   EuiTitle,
@@ -180,11 +183,31 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
     },
   ]
 
+  if (isEditing) {
+    peopleColumns.push({
+      width: '75px',
+      actions: [
+        {
+          description: 'Remove person',
+          icon: 'trash',
+          onClick: p => {
+            const updated = {
+              ...info,
+              people: info.people.filter(p2 => p.person_id !== p2.person_id),
+            }
+            onSaveDoc(updated)
+            setinfo(updated)
+          },
+        }
+      ]
+    })
+  }
+
   const editingControlsDom = modifiedDoc && (<div>
     <pre>
       <textarea cols={120} rows={30} value={modifiedDoc.jsonStr} onChange={e => setModifiedDoc({event_id: modifiedDoc.event_id, jsonStr: e.target.value})} />
     </pre>
-    <EuiButton onClick={() => onSaveDoc(dispatch, setInfo)(JSON.parse(modifiedDoc.jsonStr))}>Save</EuiButton>
+    <EuiButton onClick={() => onSaveDoc(JSON.parse(modifiedDoc.jsonStr))}>Save</EuiButton>
   </div>)
 
   const infoDom = (<EuiFlexGroup gutterSize={isMobile ? "s" : undefined}>
@@ -233,6 +256,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EditEventButton eventId={eventId} />
             <EuiAccordion 
+              id="transcript"
               forceState={isTranscriptShowing ? 'open' : 'closed'} 
               onToggle={(isOpen) => {
                 setTranscriptShowing(isOpen)
@@ -267,6 +291,8 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
             <h4>People</h4>
           </EuiText>
           <EuiBasicTable responsive={false} items={info.people ? [...info.people].sort(sortPeopleByRole) : []} columns={peopleColumns} />
+          {isEditing && <EuiSpacer size="s" />}
+          {isEditing && <AddPersonControl info={info} setinfo={setinfo} />}
         </EuiPanel>)}
         {links && links.length > 0 && (<EuiPanel grow={false}>
           <EditEventButton eventId={eventId} />
@@ -287,16 +313,16 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
     </EuiFlexItem>)}
   </EuiFlexGroup>)
 
-  return (<div>{infoDom}{isEditing && editingControlsDom}</div>)
+  //return (<div>{infoDom}{isEditing && editingControlsDom}</div>)
+  return (<div>{infoDom}</div>)
 }
 
-const onSaveDoc = (dispatch, setInfo) => async (event) => {
+const onSaveDoc = async (event) => {
   await axios.put(`/api/events/${event.event_id}`, event)
   // dispatch(addToast({
   //   title: 'Saved',
   //   color: 'success',
   // }))
-  dispatch(setEvent(event))
   //setInfo(event)
 }
 
@@ -330,10 +356,69 @@ const EditEventButton = ({
   return (<div style={{ position: 'relative' }}>
     <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
       <EuiToolTip content="Suggest an edit">
-        <EuiButtonIcon target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/events/${eventId}.json`} iconType="pencil" display="base" />
+        <EuiButtonIcon aria-label="edit event" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/events/${eventId}.json`} iconType="pencil" display="base" />
       </EuiToolTip>
     </div>
   </div>)
+}
+
+const AddPersonControl = ({
+  info,
+  setinfo,
+}) => {
+  const [newPerson, setNewPerson] = React.useState<string>()
+  const [newRole, setNewRole] = React.useState<string>()
+  const people = useSelector(state => state.people.value)
+
+  return (<EuiFlexGroup alignItems="center">
+    <EuiFlexItem grow={2}>
+      <EuiSuggest 
+        onChange={v => {setNewPerson(v)}}
+        value={newPerson}
+        suggestions={people ? people.map(p => {
+          return {
+            type: {
+              iconType: 'user'
+            },
+            label: p.display_name || `${p.first_name} ${p.last_name}`,
+            onClick: () => { setNewPerson(p.person_id) }
+          }
+        }): []}
+      />
+    </EuiFlexItem>
+    <EuiFlexItem grow={1}>
+      <EuiSuperSelect
+        onChange={r => {setNewRole(r)}}
+        valueOfSelected={newRole}
+        options={Object.keys(roleLabel).map(role => {
+          return {
+            value: role,
+            inputDisplay: <EuiText>{roleLabel[role]}</EuiText>,
+          }
+        })}
+      />
+    </EuiFlexItem>
+    <EuiFlexItem grow={false}>
+      <EuiButtonIcon 
+        iconType="plusInCircleFilled" 
+        aria-label="add person"
+        onClick={() => {
+          if (newPerson && newRole) {
+            const updated = {
+              ...info,
+              people: [
+                ...info.people,
+                {"person_id": newPerson, "role": newRole},
+              ],
+            }
+            onSaveDoc(updated)
+            setinfo(updated)
+            setNewPerson('')
+          }
+        }} 
+      />
+    </EuiFlexItem>
+  </EuiFlexGroup>)
 }
 
 export default Info;

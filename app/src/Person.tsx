@@ -313,7 +313,7 @@ const Person = ({
         <EuiFlexGroup direction="column">
           <EuiFlexItem grow={false}>
             <EditPersonButton personId={person.person_id} />
-            <EuiFlexGroup alignItems="baseline" gutterSize="xl">
+            <EuiFlexGroup alignItems="center" gutterSize="xl">
               {person.thumb && (<EuiFlexItem grow={false}>
                 {!isMobile && <EditPersonImgButton personId={person.person_id} />}
                 <EuiImage style={{width: imgWidth, height: imgWidth}} alt="thumbnail" src={person.thumb} />  

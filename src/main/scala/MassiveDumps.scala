@@ -43,17 +43,35 @@ object MassiveDumps {
       )
     )
 
-    def dumpEvents(): Future[Unit] =
-      dump[EventDoc](
-        elasticsearchClient,
-        eventsIndex,
-        "events",
-        e => e.copy(transcription = e.transcription.map(_.copy(text = None)))
-      )
-    def dumpPeople(): Future[Unit] = dump[PersonDoc](elasticsearchClient, peopleIndex, "people", identity)
-    def dumpSteamies(): Future[Unit] = dump[SteamyDoc](elasticsearchClient, steamyIndex, "steamies", identity)
-    def dumpSoundbites(): Future[Unit] =
-      dump[SoundbiteDoc](elasticsearchClient, soundbitesIndex, "soundbites", identity)
+    def dumpEvents(): Future[Unit] = dump[EventDoc](
+      client = elasticsearchClient,
+      index = eventsIndex,
+      dir = "events",
+      transformer = e => e.copy(transcription = e.transcription.map(_.copy(text = None))),
+      markdownFields = Map.empty
+    )
+    def dumpPeople(): Future[Unit] = dump[PersonDoc](
+      client = elasticsearchClient,
+      index = peopleIndex,
+      dir = "people",
+      transformer = identity,
+      markdownFields =
+        Map("description" -> (person => person.description.map(d => person.copy(description = None) -> d)))
+    )
+    def dumpSteamies(): Future[Unit] = dump[SteamyDoc](
+      client = elasticsearchClient,
+      index = steamyIndex,
+      dir = "steamies",
+      transformer = identity,
+      markdownFields = Map.empty
+    )
+    def dumpSoundbites(): Future[Unit] = dump[SoundbiteDoc](
+      client = elasticsearchClient,
+      index = soundbitesIndex,
+      dir = "soundbites",
+      transformer = identity,
+      markdownFields = Map.empty
+    )
 
     val fut = maybeKind match {
       case Some("events") => dumpEvents()
@@ -72,7 +90,8 @@ object MassiveDumps {
       client: ElasticClient,
       index: String,
       dir: String,
-      transformer: Doc => Doc
+      transformer: Doc => Doc,
+      markdownFields: Map[String, Doc => Option[(Doc, String)]]
   ): Future[Unit] = Future {
     implicit val reader: HitReader[(String, Doc)] = new HitReader[(String, Doc)] {
       override def read(hit: Hit): Try[(String, Doc)] = decode[Doc](hit.sourceAsString).toTry.map(d => hit.id -> d)
@@ -81,7 +100,24 @@ object MassiveDumps {
       SearchIterator.iterate[(String, Doc)](client, search(index).matchAllQuery().keepAlive("1m").size(50))
     iterator.foreach {
       case (id, doc) =>
-        val transformedDoc = transformer(doc)
+        val updatedDoc = markdownFields.foldLeft(doc) {
+          case (doc, (name, markdownF)) =>
+            markdownF(doc) match {
+              case Some((updatedDoc, markdown)) =>
+                val mdFile = new File(s"content/$dir/$id.$name.md")
+                println(s"Writing $name markdown to [${mdFile.getAbsolutePath}]")
+                Using(new FileWriter(mdFile)) { writer =>
+                  writer.write(markdown)
+                }
+                println(s"Finished writing $name markdown to [${mdFile.getAbsolutePath}]")
+                updatedDoc
+              case None =>
+                doc
+            }
+          case _ =>
+            doc
+        }
+        val transformedDoc = transformer(updatedDoc)
         val file = new File(s"content/$dir/$id.json")
         println(s"Writing [$id] to [${file.getAbsolutePath}]...")
         Using(new FileWriter(file)) { writer =>
