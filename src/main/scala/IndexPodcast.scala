@@ -204,6 +204,7 @@ object IndexPodcast {
           ""
         )
       ),
+      notes = None,
       category = Category.Content.Podcast.name,
       thumb = None,
       tags = None,
@@ -221,6 +222,7 @@ object IndexPodcast {
     KeywordField("category"),
     TextField("name"),
     TextField("description", analyzer = Some("htmlStripAnalyzer")),
+    TextField("notes"),
     KeywordField("thumb"),
     KeywordField("children_ids"),
     NestedField(

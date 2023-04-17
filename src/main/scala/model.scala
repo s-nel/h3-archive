@@ -30,6 +30,7 @@ object model {
       category: String,
       name: String,
       description: Option[String],
+      notes: Option[String],
       thumb: Option[String],
       tags: Option[Set[TagDoc]],
       links: Option[Set[LinkDoc]],

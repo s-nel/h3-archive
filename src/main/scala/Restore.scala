@@ -74,7 +74,7 @@ object Restore {
           }
         })
       },
-      markdownFields = Map.empty
+      markdownFields = Map("notes" -> ((doc, notes) => doc.copy(notes = Some(notes))))
     )
 
     def restorePeople(): Future[Unit] = restore[PersonDoc](
@@ -155,25 +155,26 @@ object Restore {
               println(s"Failed reading [${file.getAbsolutePath}]")
               Future.failed(t)
           }
+          maxLastModified = file.lastModified()
           doc <- Future.fromTry(decode[Doc](jsonStr).toTry match {
             case Success(a) => Success(a)
             case Failure(t) =>
               println(s"Failed decoding [${file.getAbsolutePath}]")
               Failure(t)
           })
-          updatedDoc <- markdownFields.foldLeft(Future.successful(doc)) {
+          (updatedDoc, maxLastModified) <- markdownFields.foldLeft(Future.successful(doc -> file.lastModified())) {
             case (docFut, (key, updateDocF)) =>
-              docFut.flatMap { doc =>
-                val mdFile = new File(s"content/$dir/$id.$key.md")
-                if (mdFile.exists()) {
-                  Future {
-                    val mdContents = Source.fromFile(mdFile).getLines().mkString("\n")
-                    println(s"mdContents = ${mdContents}")
-                    updateDocF(doc, mdContents)
+              docFut.flatMap {
+                case (doc, maxLastModified) =>
+                  val mdFile = new File(s"content/$dir/$id.$key.md")
+                  if (mdFile.exists()) {
+                    Future {
+                      val mdContents = Source.fromFile(mdFile).getLines().mkString("\n")
+                      updateDocF(doc, mdContents) -> Math.max(maxLastModified, mdFile.lastModified())
+                    }
+                  } else {
+                    Future.successful(doc -> maxLastModified)
                   }
-                } else {
-                  Future.successful(doc)
-                }
               }
           }
         } yield {
@@ -182,7 +183,7 @@ object Restore {
             .withId(id)
             .doc(transformedDoc.asJson.noSpaces)
             .versionType(VersionType.EXTERNAL)
-            .version(file.lastModified())
+            .version(maxLastModified)
         }
       }
       batches = ops.grouped(maybeBatchSize.getOrElse(50))

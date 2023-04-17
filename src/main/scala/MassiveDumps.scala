@@ -48,7 +48,7 @@ object MassiveDumps {
       index = eventsIndex,
       dir = "events",
       transformer = e => e.copy(transcription = e.transcription.map(_.copy(text = None))),
-      markdownFields = Map.empty
+      markdownFields = Map("notes" -> (event => event.notes.map(n => event.copy(notes = None) -> n)))
     )
     def dumpPeople(): Future[Unit] = dump[PersonDoc](
       client = elasticsearchClient,

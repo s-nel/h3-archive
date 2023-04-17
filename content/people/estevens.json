@@ -1,0 +1,13 @@
+{
+  "person_id" : "estevens",
+  "category" : "lore",
+  "first_name" : "Earl",
+  "last_name" : "Stevens",
+  "display_name" : "E-40",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

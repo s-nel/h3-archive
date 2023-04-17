@@ -138,6 +138,7 @@ object IndexYoutubeVideos2 {
       eventId = s"youtube:video:${item.id}",
       name = item.snippet.title,
       description = Some(item.snippet.description),
+      notes = None,
       category = "video",
       thumb = Some(item.snippet.thumbnails.default.url),
       tags = Some(Set(TagDoc("channel", item.snippet.channelTitle))),

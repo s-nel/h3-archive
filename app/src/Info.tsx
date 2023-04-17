@@ -15,6 +15,7 @@ import {
   EuiIcon,
   EuiImage,
   EuiListGroup,
+  EuiMarkdownFormat,
   EuiPanel,
   EuiSelect,
   EuiSkeletonText,
@@ -72,6 +73,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
   const location = useLocation()
   const highlights = overrideHighlights || (location && location.state && location.state.highlights)
   const [isTranscriptShowing, setTranscriptShowing] = React.useState(!!highlights)
+  const [showNotes, setShowNotes] = React.useState(true)
   const highlightTerms = highlights && highlights['transcription.text'] && highlights['transcription.text'].reduce((acc, h) => {
     Array.from(h.matchAll(/<em>([^<]+)<\/em>/g), m => {
       if (m.length >= 1) {
@@ -242,9 +244,22 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
             <EuiText key="2">
               <div dangerouslySetInnerHTML={{__html: info.description}}></div>
             </EuiText>]}
-            {isLoading && [<EuiHorizontalRule key="1" size="half" />, <EuiSkeletonText key="2" />]}
+            {isLoading && [<EuiHorizontalRule key="6" size="half" />, <EuiSkeletonText key="8" />]}
           </EuiPanel>
         </EuiFlexItem>
+        {info.notes && (<EuiFlexItem grow={false}>
+          <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
+            <EuiAccordion 
+              id="notes" 
+              buttonContent={<EuiText><h4>Notes</h4></EuiText>}
+              forceState={showNotes ? 'open' : 'closed'}
+              onToggle={() => setShowNotes(!showNotes)}
+            >
+              <EuiSpacer size="s" />
+              <EuiMarkdownFormat>{info.notes}</EuiMarkdownFormat>
+            </EuiAccordion>
+          </EuiPanel>
+        </EuiFlexItem>)}
         {!isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiTitle size="xs"><h4>Video</h4></EuiTitle>  

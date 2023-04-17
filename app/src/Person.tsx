@@ -15,6 +15,7 @@ import {
   EuiHorizontalRule,
   EuiImage,
   EuiLink,
+  EuiMarkdownFormat,
   EuiPageHeader,
   EuiPanel,
   EuiSpacer,
@@ -325,7 +326,7 @@ const Person = ({
                 </EuiText>)}
                 {person.description && <EuiFlexItem grow>
                   <EuiSpacer />
-                  <EuiText>{person.description}</EuiText>
+                  <EuiMarkdownFormat>{person.description}</EuiMarkdownFormat>
                 </EuiFlexItem>}
               </EuiFlexItem>
             </EuiFlexGroup>
