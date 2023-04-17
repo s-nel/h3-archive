@@ -34,7 +34,11 @@
     {
       "person_id" : "hklein",
       "role" : "host"
-    }
+    },
+    {
+      "person_id" : "bkreischer",
+      "role" : "guest"
+    },
   ],
   "transcription" : {
     "text" : null,
