@@ -248,6 +248,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
           </EuiPanel>
         </EuiFlexItem>
         {info.notes && (<EuiFlexItem grow={false}>
+          <EditNotesButton eventId={eventId} />
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiAccordion 
               id="notes" 
@@ -256,7 +257,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
               onToggle={() => setShowNotes(!showNotes)}
             >
               <EuiSpacer size="s" />
-              <EuiMarkdownFormat>{info.notes}</EuiMarkdownFormat>
+              <EuiMarkdownFormat textSize="s">{info.notes}</EuiMarkdownFormat>
             </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
@@ -372,6 +373,21 @@ const EditEventButton = ({
     <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
       <EuiToolTip content="Suggest an edit">
         <EuiButtonIcon aria-label="edit event" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/events/${eventId}.json`} iconType="pencil" display="base" />
+      </EuiToolTip>
+    </div>
+  </div>)
+}
+
+const EditNotesButton = ({
+  eventId,
+}) => {
+  const [hovering, setHovering] = React.useState(false)
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  return (<div style={{ position: 'relative' }}>
+    <div style={{ position: 'absolute', top: '0px', right: '0px', opacity: hovering || isMobile ? 1 : '.5' }} onMouseEnter={() => {setHovering(true)}} onMouseLeave={() => {setHovering(false)}}>
+      <EuiToolTip content="Suggest an edit">
+        <EuiButtonIcon aria-label="edit event" target="_blank" href={`https://github.com/s-nel/h3-archive/edit/main/content/events/${eventId}.notes.md`} iconType="pencil" display="base" />
       </EuiToolTip>
     </div>
   </div>)

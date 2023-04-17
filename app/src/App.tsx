@@ -217,7 +217,7 @@ const WithProvider = () => {
             <EuiFlexGroup gutterSize="s" alignItems="center" justifyContent="flexEnd" responsive={false}>
               <EuiFlexItem grow={false}>
                 <EuiText color="subdued" size="xs">
-                  Made in New Zealand
+                  <EuiLink href="https://github.com/s-nel/h3-archive/blob/main/CONTRIBUTORS.md" external={false} target="_blank">Made with peace and love by the community</EuiLink>
                 </EuiText>
               </EuiFlexItem>
               <EuiFlexItem grow={false}>
