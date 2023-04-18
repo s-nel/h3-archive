@@ -16,7 +16,7 @@ import akka.http.scaladsl.coding.Coders
 import akka.http.scaladsl.model.headers.{HttpChallenge, HttpCookie, `Set-Cookie`}
 import akka.http.scaladsl.server.{AuthenticationFailedRejection, Directive1}
 import com.redfin.sitemapgenerator.{ChangeFreq, GoogleMobileSitemapUrl, WebSitemapGenerator, WebSitemapUrl}
-import com.sksamuel.elastic4s.requests.searches.HighlightField
+import com.sksamuel.elastic4s.requests.searches.{HighlightField, SearchHit}
 import com.sksamuel.elastic4s.requests.searches.queries.{Query, RawQuery}
 import com.sksamuel.elastic4s.requests.searches.sort.{FieldSort, SortOrder}
 import com.snacktrace.archive.Settings.{ElasticsearchSettings, SessionSettings}
@@ -311,7 +311,7 @@ object Server extends FailFastCirceSupport {
         sort,
         sourceFiltering = Nil,
         highlight = false,
-        shards = Some(2)
+        shards = Some(3)
       )
     } yield results
   }
@@ -363,11 +363,9 @@ object Server extends FailFastCirceSupport {
               elasticClient.execute(withSort.slice(index, shards).scroll(15.seconds))
             }
             .map { rs =>
-              rs.headOption match {
-                case Some(head) =>
-                  rs.flatMap(_.result.hits.hits.toList) -> head.result.totalHits
-                case None =>
-                  Nil -> 0L
+              rs.foldLeft(List.empty[SearchHit] -> 0L) {
+                case ((hits, total), r) =>
+                  (hits ++ r.result.hits.hits.toList) -> (total + r.result.totalHits)
               }
             }
         case None =>

@@ -78,6 +78,22 @@
     {
       "person_id" : "aayad",
       "role" : "crew"
+    },
+    {
+      "person_id": "ctyson",
+      "role": "topic"
+    },
+    {
+      "person_id": "sghiorghiu",
+      "role": "topic"
+    },
+    {
+      "person_id": "aatlas",
+      "role": "topic"
+    },
+    {
+      "person_id": "eetienne",
+      "role": "topic"
     }
   ],
   "transcription" : {
