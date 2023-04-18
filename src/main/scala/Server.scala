@@ -34,6 +34,7 @@ import java.nio.file.Files
 import java.time.{Duration => JavaDuration}
 import java.util.concurrent.atomic.AtomicReference
 import java.util.{Date, Locale}
+import scala.concurrent.duration._
 import scala.concurrent.Future
 import scala.util.{Failure, Success}
 
@@ -47,6 +48,8 @@ object Server extends FailFastCirceSupport {
 
   private implicit val system = ActorSystem("my-system")
   private implicit val executionContext = system.dispatcher
+
+  private val matchAllQueryJson = decode[Json]("""{ "match_all": {} }""")
 
   private val url = "https://h3historian.com"
 
@@ -119,7 +122,10 @@ object Server extends FailFastCirceSupport {
                       from = search.from,
                       size = search.size,
                       sort = search.sort,
-                      sourceFiltering = List("transcription", "description", "people", "tags", "links", "thumb")
+                      sourceFiltering =
+                        List("transcription", "description", "people", "tags", "links", "thumb", "notes"),
+                      highlight = matchAllQueryJson.map(q => search.query != q).getOrElse(true),
+                      shards = Some(3)
                     )
                   )
                 }
@@ -303,7 +309,9 @@ object Server extends FailFastCirceSupport {
         from,
         size,
         sort,
-        sourceFiltering = Nil
+        sourceFiltering = Nil,
+        highlight = false,
+        shards = Some(2)
       )
     } yield results
   }
@@ -314,37 +322,60 @@ object Server extends FailFastCirceSupport {
       from: Option[Int],
       size: Option[Int],
       sort: Option[Map[String, String]],
-      sourceFiltering: List[String]
+      sourceFiltering: List[String],
+      highlight: Boolean,
+      shards: Option[Int]
   ): Future[EventsResults] = {
+    val start = System.currentTimeMillis()
+    val baseSearch = search(eventsIndex)
+      .query(RawQuery(searchBody.noSpaces))
+      .sourceExclude(sourceFiltering)
+      .size(size.getOrElse(2000))
+    val withHighlight = if (highlight) {
+      baseSearch.highlighting(
+        List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
+      )
+    } else {
+      baseSearch
+    }
+
+    val withFrom = from.map(f => withHighlight.from(f)).getOrElse(withHighlight)
+    val withSort = sort
+      .map(
+        s =>
+          withFrom.sortBy(s.map {
+            case (k, v) =>
+              val order = if (v.toLowerCase(Locale.US) === "asc") {
+                SortOrder.ASC
+              } else {
+                SortOrder.DESC
+              }
+              FieldSort(field = k, order = order)
+          })
+      )
+      .getOrElse(withFrom.sortBy(FieldSort("_doc")))
+
     for {
-      hits <- elasticClient.execute {
-        val baseSearch = search(eventsIndex)
-          .query(RawQuery(searchBody.noSpaces))
-          .highlighting(
-            List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
-          )
-          .sourceExclude(sourceFiltering)
-          .size(size.getOrElse(2000))
-        val withFrom = from.map(f => baseSearch.from(f)).getOrElse(baseSearch)
-        val withSort = sort
-          .map(
-            s =>
-              withFrom.sortBy(s.map {
-                case (k, v) =>
-                  val order = if (v.toLowerCase(Locale.US) === "asc") {
-                    SortOrder.ASC
-                  } else {
-                    SortOrder.DESC
-                  }
-                  FieldSort(field = k, order = order)
-              })
-          )
-          .getOrElse(withFrom)
-        withSort
+      (hits, totalHits) <- shards match {
+        case Some(shards) =>
+          Future
+            .traverse(0.until(shards).toList) { index =>
+              elasticClient.execute(withSort.slice(index, shards).scroll(15.seconds))
+            }
+            .map { rs =>
+              rs.headOption match {
+                case Some(head) =>
+                  rs.flatMap(_.result.hits.hits.toList) -> head.result.totalHits
+                case None =>
+                  Nil -> 0L
+              }
+            }
+        case None =>
+          elasticClient.execute(withSort).map(r => r.result.hits.hits.toList -> r.result.totalHits)
       }
     } yield {
-      //println(hits)
-      val events = hits.result.hits.hits.toList.flatMap { hit =>
+      println(s"Response from ES took [${(System.currentTimeMillis() - start).toString}]")
+      val events = hits.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {
           case Success(event) =>
             List(EventWithHighlight(event, hit.highlight))
@@ -354,7 +385,8 @@ object Server extends FailFastCirceSupport {
             Nil
         }
       }
-      EventsResults(results = events, total = hits.result.totalHits)
+      println(s"Fetching all events took [${(System.currentTimeMillis() - start).toString}]")
+      EventsResults(results = events, total = totalHits)
     }
   }
 

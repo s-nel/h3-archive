@@ -260,6 +260,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
               <EuiMarkdownFormat textSize="s">{info.notes}</EuiMarkdownFormat>
             </EuiAccordion>
           </EuiPanel>
+          <EuiSpacer size="s" />
         </EuiFlexItem>)}
         {!isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>

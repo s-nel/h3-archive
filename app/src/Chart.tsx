@@ -199,10 +199,7 @@ const fetchPage = (query, events, setEvents, setLoading, setEmpty, setEventsSize
     query: query ? astToEsQueryDsl(query.ast) : {
       match_all: {}
     },
-    sort: {
-      start_date: 'desc',
-    },
-    size: 3000,
+    size: 1000,
   }).then(response => {
     const allEvents = response.data.results.map(e => ({
       ...e.event,
