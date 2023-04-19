@@ -198,7 +198,8 @@ object IndexYoutubeVideos {
       startDate = Instant.parse(item.snippet.publishedAt).toEpochMilli,
       duration = None,
       people = None,
-      transcription = None
+      transcription = None,
+      metrics = None
     )
   }
 }

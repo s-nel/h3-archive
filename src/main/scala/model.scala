@@ -37,12 +37,24 @@ object model {
       startDate: Long,
       duration: Option[Long],
       people: Option[Set[PersonRef]],
-      transcription: Option[TranscriptionDoc]
+      transcription: Option[TranscriptionDoc],
+      metrics: Option[MetricsDoc]
   )
 
   object EventDoc {
     implicit val eventDocDecoderInstance: Decoder[EventDoc] = deriveDecoder(renaming.snakeCase)
     implicit val eventDocEncoderInstance: Encoder[EventDoc] = deriveEncoder(renaming.snakeCase)
+  }
+
+  final case class MetricsDoc(
+      views: Long,
+      likes: Long,
+      comments: Long
+  )
+
+  object MetricsDoc {
+    implicit val metricsDocDecoderInstance: Decoder[MetricsDoc] = deriveDecoder(renaming.snakeCase)
+    implicit val metricsDocEncoderInstance: Encoder[MetricsDoc] = deriveEncoder(renaming.snakeCase)
   }
 
   final case class TranscriptionResponse(transcription: TranscriptionDoc)

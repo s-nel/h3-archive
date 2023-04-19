@@ -214,7 +214,8 @@ object IndexPodcast {
         LocalDate.parse(episode.release_date).atStartOfDay(ZoneId.of("America/Los_Angeles")).toInstant.toEpochMilli,
       duration = Some(episode.durationMs),
       people = None,
-      transcription = None
+      transcription = None,
+      metrics = None
     )
   }
 
