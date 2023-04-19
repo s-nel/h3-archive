@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "100 LAYERS OF SHIRTS",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0Eq8gBI5riU/default.jpg",
   "tags" : [
     {
@@ -3893,5 +3894,10 @@
         "no_speech_prob" : 0.0804654061794281
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4364319,
+    "likes" : 292439,
+    "comments" : 14164
   }
 }

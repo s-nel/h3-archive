@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Diss Track Competition - H3TV #50",
   "description" : "<p>Today we host the Ryan Kavanaugh diss track competition! 100s of submissions, but only the cream of the crop will rise to the top. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5lfbwSHBOho/default.jpg",
   "tags" : [
     {
@@ -65885,5 +65886,10 @@
         "no_speech_prob" : 0.9755510091781616
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1116130,
+    "likes" : 28534,
+    "comments" : 3548
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Corpse Husband, Psycho Twitch Streamers, Joe Rogan Is Tiny Joker - H3 Podcast #233",
   "description" : "<p>On this episode of the H3 Podcast we talk about Corpse Husband&#39;s breathing, insane twitch streamers, Joe Rogan being a tiny little joker man, Ethan finds out about AB&#39;s livestreaming career, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vSkmUdAMm9I/default.jpg",
   "tags" : [
   ],
@@ -25008,5 +25009,10 @@
         "no_speech_prob" : 0.027968423441052437
       }
     ]
+  },
+  "metrics" : {
+    "views" : 930525,
+    "likes" : 27577,
+    "comments" : 6134
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Apologies if you were offended",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DK0Ej9T3vfY/default.jpg",
   "tags" : [
     {
@@ -868,5 +869,10 @@
         "no_speech_prob" : 0.0037919681053608656
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3688339,
+    "likes" : 306103,
+    "comments" : 33718
   }
 }

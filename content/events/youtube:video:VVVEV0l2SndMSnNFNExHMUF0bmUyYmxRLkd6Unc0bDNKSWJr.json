@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Extreme Pet Owners",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GzRw4l3JIbk/default.jpg",
   "tags" : [
     {
@@ -1682,5 +1683,10 @@
         "no_speech_prob" : 0.7169683575630188
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2523371,
+    "likes" : 138180,
+    "comments" : 11946
   }
 }

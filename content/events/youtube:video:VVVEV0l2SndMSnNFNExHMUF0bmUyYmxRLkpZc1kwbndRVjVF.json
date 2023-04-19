@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "You are NOT the father! Ft. Maury Povich [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JYsY0nwQV5E/default.jpg",
   "tags" : [
     {
@@ -131,5 +132,10 @@
         "no_speech_prob" : 0.4264031946659088
       }
     ]
+  },
+  "metrics" : {
+    "views" : 290776,
+    "likes" : 7752,
+    "comments" : 267
   }
 }

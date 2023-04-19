@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Finally Releasing The DMs - Off The Rails #11",
   "description" : "<p>Today, we reveal some SPICY DMs from a certain individual that might shock you....We also do a review of Taco Bell&#39;s Chicken Sandwich Taco, is it cursed or delicious? And speaking of cursed, we play the Cursed Tik Tok Game. Let&#39;s just jump right into it!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AFkY41u0LGA/default.jpg",
   "tags" : [
     {
@@ -17092,5 +17093,10 @@
         "no_speech_prob" : 0.005511245224624872
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1976968,
+    "likes" : 41632,
+    "comments" : 5709
   }
 }

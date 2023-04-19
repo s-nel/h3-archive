@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#125 - Oliver Tree",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LWRqCA1ir9k/default.jpg",
   "tags" : [
   ],
@@ -31057,5 +31058,10 @@
         "no_speech_prob" : 0.11275395005941391
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2037997,
+    "likes" : 66257,
+    "comments" : 6407
   }
 }

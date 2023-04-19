@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Interview with Actress from Prank Invasion",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Q7wwtmfBuew/default.jpg",
   "tags" : [
     {
@@ -1561,5 +1562,10 @@
         "no_speech_prob" : 0.3276175558567047
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6072444,
+    "likes" : 263368,
+    "comments" : 14514
   }
 }

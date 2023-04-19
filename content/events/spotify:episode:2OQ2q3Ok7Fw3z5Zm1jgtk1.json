@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#111 - MrBeast",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined in studio by YouTube megastar MrBeast! Together we discuss the perfect thumbnail, long hugs with your giant son, how he pulls off his stunts, NFL players being weird with their kids, his mom&#39;s financial savy, creative drive, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/t3pI3JLsdpA/default.jpg",
   "tags" : [
   ],
@@ -9453,5 +9454,10 @@
         "no_speech_prob" : 0.027025293558835983
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1701396,
+    "likes" : 49992,
+    "comments" : 3521
   }
 }

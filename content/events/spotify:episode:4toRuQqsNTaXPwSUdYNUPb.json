@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Play Cursed Beer Pong, Cardi B McDonalds Meal Taste Test - Off The Rails #60",
   "description" : "<p>Today, we play a CURSED game of beer pong where every cup contains a diabolical concoction cooked up by Sam! We also review the Cardi B McDonald&#39;s meal (along with some very experimental avant-garde McDonald&#39;s ASMR), cover the latest madness from Jordan Peterson, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2aC1bqe9oVk/default.jpg",
   "tags" : [
     {
@@ -62820,5 +62821,10 @@
         "no_speech_prob" : 0.9945411086082458
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1265451,
+    "likes" : 21847,
+    "comments" : 2328
   }
 }

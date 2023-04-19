@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Leave Ken Bone Alone!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_OG8tqbxLR0/default.jpg",
   "tags" : [
     {
@@ -1044,5 +1045,10 @@
         "no_speech_prob" : 0.2679556608200073
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4754524,
+    "likes" : 238457,
+    "comments" : 13302
   }
 }

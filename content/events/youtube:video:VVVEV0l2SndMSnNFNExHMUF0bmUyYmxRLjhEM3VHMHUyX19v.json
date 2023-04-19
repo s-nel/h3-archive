@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jake Paul Ruins Los Angeles",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8D3uG0u2__o/default.jpg",
   "tags" : [
     {
@@ -2672,5 +2673,10 @@
         "no_speech_prob" : 0.0028030918911099434
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7463198,
+    "likes" : 339142,
+    "comments" : 35290
   }
 }

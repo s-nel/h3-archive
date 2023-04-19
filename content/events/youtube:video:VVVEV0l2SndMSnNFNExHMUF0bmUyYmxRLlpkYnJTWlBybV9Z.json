@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "patrice wilson exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZdbrSZPrm_Y/default.jpg",
   "tags" : [
     {
@@ -98,5 +99,10 @@
         "no_speech_prob" : 0.12648221850395203
       }
     ]
+  },
+  "metrics" : {
+    "views" : 802878,
+    "likes" : 19653,
+    "comments" : 1079
   }
 }

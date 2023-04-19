@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Huge Announcement Massive Changes Coming To The Podcast - H3TV #70",
   "description" : "<p>Today we have some life-altering announcements when it comes to the future of the podcast. We also discuss the new trial to rock the world (Gwyneth Paltrow vs some skiing dude), Ethan being the new alpha overlord, Adin Ross having some unfortunate interactions with his sister on stream, Shazam vs Black Adam in real life, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/c3DrrRpa-Kg/default.jpg",
   "tags" : [
     {
@@ -18343,5 +18344,10 @@
         "no_speech_prob" : 0.006394615862518549
       }
     ]
+  },
+  "metrics" : {
+    "views" : 915277,
+    "likes" : 20194,
+    "comments" : 1856
   }
 }

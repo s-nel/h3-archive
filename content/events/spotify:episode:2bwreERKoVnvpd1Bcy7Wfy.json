@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#7 - Post Malone & Joji",
   "description" : "Post Malone and Joji came in to discuss everything, appreciate em.<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/l65hR94nfqY/default.jpg",
   "tags" : [
   ],
@@ -18564,5 +18565,10 @@
         "no_speech_prob" : 0.015859633684158325
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9631653,
+    "likes" : 294993,
+    "comments" : 27224
   }
 }

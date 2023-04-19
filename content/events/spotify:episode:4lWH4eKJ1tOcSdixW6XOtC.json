@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "NELK Attacked Hila, We’re Going To War & TwitchCon Cringe - Off The Rails #52",
   "description" : "<p>Today we go to war again, this time against Steve-Will-Do-It and his dog. We also discuss TwitchCon&#39;s various blunders, Logan Paul&#39;s incredible investment skills, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PyYWRkS7ZmA/default.jpg",
   "tags" : [
     {
@@ -58343,5 +58344,10 @@
         "no_speech_prob" : 0.48882243037223816
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1061696,
+    "likes" : 23593,
+    "comments" : 2502
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Becoming THE ZUCC (ft idubbbz)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OCjN_yBkyDk/default.jpg",
   "tags" : [
     {
@@ -5294,5 +5295,10 @@
         "no_speech_prob" : 0.19548077881336212
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3425499,
+    "likes" : 233676,
+    "comments" : 13847
   }
 }

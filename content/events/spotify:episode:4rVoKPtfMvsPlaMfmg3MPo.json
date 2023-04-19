@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Biggest Cancellation In YouTube History - Families # 3",
   "description" : "<p>On today&#39;s Families Donna &amp; Ethan do a deep dive on the Creepshow Art drama, Gary responds to hate comments, &amp; they do a haircut battle!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/L3XK1hC8KsM/default.jpg",
   "tags" : [
     {
@@ -11024,5 +11025,10 @@
         "no_speech_prob" : 0.0044427006505429745
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1891554,
+    "likes" : 71711,
+    "comments" : 13101
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#151 - Ninja Texting Scam & PewDiePie Banned In China",
   "description" : "<p>On this episode of The H3 Podcast Ethan Hila and the gang discuss feeding windows, Zach&#39;s massive weight loss, Kim Jong-Un&#39;s ride atop Shadowfax, trashy Brazilian singers, the death of the Bach3lor, the new Star Wars trailer, da incel Joker, China banning PewDiePie, weird celeb text message scams, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rrA1Wz5o_Hg/default.jpg",
   "tags" : [
   ],
@@ -16563,5 +16564,10 @@
         "no_speech_prob" : 0.0015563187189400196
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1537070,
+    "likes" : 25677,
+    "comments" : 6184
   }
 }

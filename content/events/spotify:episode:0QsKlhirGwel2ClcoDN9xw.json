@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Protecting MrBeast Chocolate Display Live At Walmart - H3TV #68",
   "description" : "<p>On this episode of the H3 Podcast we go to war for our lord and savior MrBeast, talk about The Quartering&#39;s latest meltdown, Kenneth Copeland being a literal demon, and a surprise call in from Jeff Wittek!</p>",
+  "notes" : null,
   "thumb" : null,
   "tags" : [
     {
@@ -62766,5 +62767,10 @@
         "no_speech_prob" : 0.9479987621307373
       }
     ]
+  },
+  "metrics" : {
+    "views" : 913941,
+    "likes" : 19530,
+    "comments" : 1839
   }
 }

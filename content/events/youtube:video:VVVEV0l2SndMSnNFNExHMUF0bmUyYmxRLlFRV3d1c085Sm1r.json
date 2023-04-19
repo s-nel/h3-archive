@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "forever rekt",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QQWwusO9Jmk/default.jpg",
   "tags" : [
     {
@@ -296,5 +297,10 @@
         "no_speech_prob" : 0.11094366014003754
       }
     ]
+  },
+  "metrics" : {
+    "views" : 488027,
+    "likes" : 14161,
+    "comments" : 1128
   }
 }

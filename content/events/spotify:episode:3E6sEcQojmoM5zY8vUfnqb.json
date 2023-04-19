@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Made The Only Honest Award Show - Introducing The Steamies - Frenemies #15",
   "description" : "<p>On the first epsiode of FRENEMIES of 2021 we present to you THE FIRST ANNUAL STREAMIES- the internets ONLY honest award show! So buckle up cause we&#39;re spillin tea like it&#39;s going out of style!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1gzsFgZ6_ds/default.jpg",
   "tags" : [
     {
@@ -31359,5 +31360,10 @@
         "no_speech_prob" : 0.09356481581926346
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4653340,
+    "likes" : 132351,
+    "comments" : 16624
   }
 }

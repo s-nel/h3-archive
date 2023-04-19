@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "windmill exe ft. Tim Henderson from Grand Illusions [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Pq9ncVyOuaM/default.jpg",
   "tags" : [
     {
@@ -142,5 +143,10 @@
         "no_speech_prob" : 0.43717160820961
       }
     ]
+  },
+  "metrics" : {
+    "views" : 867284,
+    "likes" : 14105,
+    "comments" : 613
   }
 }

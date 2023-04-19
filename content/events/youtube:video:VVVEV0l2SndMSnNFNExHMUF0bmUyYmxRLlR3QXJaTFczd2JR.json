@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "100 LAYERS OF BEANIES",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TwArZLW3wbQ/default.jpg",
   "tags" : [
     {
@@ -3123,5 +3124,10 @@
         "no_speech_prob" : 0.011940423399209976
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5412043,
+    "likes" : 230700,
+    "comments" : 18224
   }
 }

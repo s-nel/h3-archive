@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#96 - bill wurtz",
   "description" : "<p>On this episode of The H3 Podcast we are joined by the near mythical YouTuber Bill Wurtz! In his first public interview Bill shares some insights into his creative process, inspirations, his love of deadlines, and of course as always... Elon Musk.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/e_fMuWm5vVA/default.jpg",
   "tags" : [
   ],
@@ -12885,5 +12886,10 @@
         "no_speech_prob" : 0.6212964653968811
       }
     ]
+  },
+  "metrics" : {
+    "views" : 731163,
+    "likes" : 26200,
+    "comments" : 3206
   }
 }

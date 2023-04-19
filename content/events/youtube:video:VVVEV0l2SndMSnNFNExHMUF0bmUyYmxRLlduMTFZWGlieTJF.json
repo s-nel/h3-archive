@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : ".exe teaser trailer [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Wn11YXiby2E/default.jpg",
   "tags" : [
     {
@@ -109,5 +110,10 @@
         "no_speech_prob" : 0.029295874759554863
       }
     ]
+  },
+  "metrics" : {
+    "views" : 113782,
+    "likes" : 4049,
+    "comments" : 187
   }
 }

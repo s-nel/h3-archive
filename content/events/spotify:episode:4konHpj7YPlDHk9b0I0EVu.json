@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Kings of Clickbait - Off The Rails #10",
   "description" : "<p>Today we dig into the absolutely insane levels of clickbait by The Prince Family and the Ace Family, we psychoanalyze each other&#39;s fridges, the absurdly ridiculous Tik Tok &#34;hot arrest&#34; trend, and much much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZxzPBgRuPuI/default.jpg",
   "tags" : [
     {
@@ -34139,5 +34140,10 @@
         "no_speech_prob" : 0.3550884425640106
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1264570,
+    "likes" : 32761,
+    "comments" : 4257
   }
 }

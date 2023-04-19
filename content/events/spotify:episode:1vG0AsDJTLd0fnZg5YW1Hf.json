@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Whitney Cummings - H3 Podcast #253",
   "description" : "<p>On this episode of H3 Podcast we have the hilarious Whitney Cummings in the studio talking about boob jobs, saving German Shepherds, if HR is your friend or not, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4SsTW0Bzj2M/default.jpg",
   "tags" : [
   ],
@@ -59226,5 +59227,10 @@
         "no_speech_prob" : 0.638377845287323
       }
     ]
+  },
+  "metrics" : {
+    "views" : 870125,
+    "likes" : 19186,
+    "comments" : 3731
   }
 }

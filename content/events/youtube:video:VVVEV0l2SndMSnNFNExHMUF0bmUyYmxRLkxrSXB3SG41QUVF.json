@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Hand Model -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LkIpwHn5AEE/default.jpg",
   "tags" : [
     {
@@ -1763,5 +1764,10 @@
         "no_speech_prob" : 0.14392003417015076
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2983666,
+    "likes" : 66023,
+    "comments" : 2692
   }
 }

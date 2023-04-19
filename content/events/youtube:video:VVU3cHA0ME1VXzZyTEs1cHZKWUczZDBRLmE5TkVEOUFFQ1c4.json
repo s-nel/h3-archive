@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Logan Paul Cured my Colorblindness",
   "description" : "god bless you logan paul\n \n Thank you for helping my mom â–º https://goo.gl/44OroC\n \n Twitter......................â–ºhttps://twitter.com/h3h3productions\n Hila's Twitter............â–ºhttps://twitter.com/hilakleinh3\n Spreadshirt..............â–ºhttp://h3h3productions.spreadshirt.com\n Instagram................â–ºhttp://instagram.com/h3h3productions\n Hila's Instragram.....â–ºhttps://www.instagram.com/kleinhila\n Website....................â–ºhttp://h3h3productions.com\n Subreddit.................â–ºhttp://reddit.com/r/h3h3productions\n \n Music by Otis McDonald",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/a9NED9AECW8/default.jpg",
   "tags" : [
     {
@@ -2760,5 +2761,10 @@
         "no_speech_prob" : 0.6959794759750366
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1888453,
+    "likes" : 96107,
+    "comments" : 12769
   }
 }

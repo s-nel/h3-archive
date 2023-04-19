@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#127 - Belle Delphine Mailed Us A Shocking Package",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WJ2ymkDOjEE/default.jpg",
   "tags" : [
   ],
@@ -9057,5 +9058,10 @@
         "no_speech_prob" : 0.03016841411590576
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1169606,
+    "likes" : 37180,
+    "comments" : 6171
   }
 }

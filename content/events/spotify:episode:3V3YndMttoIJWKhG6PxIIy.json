@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#84 - Bill Burr",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined in the studio by Bill Burr! Together we discuss bad dog owners, being a dental assistant, parenting, Shari&#39;s Berries, podcasting, All Things Comedy, and a whole lot more. Bill Burr is a stand-up comedian and actor who will be performing at Madison Square Garden on November 7th</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4NyRkDfORlc/default.jpg",
   "tags" : [
   ],
@@ -25047,5 +25048,10 @@
         "no_speech_prob" : 0.9877260327339172
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2074811,
+    "likes" : 38723,
+    "comments" : 12336
   }
 }

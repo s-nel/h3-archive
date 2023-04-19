@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "rekt again",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/T7Fib7KNb0U/default.jpg",
   "tags" : [
     {
@@ -307,5 +308,10 @@
         "no_speech_prob" : 0.9577112197875977
       }
     ]
+  },
+  "metrics" : {
+    "views" : 407848,
+    "likes" : 9233,
+    "comments" : 694
   }
 }

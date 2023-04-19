@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Reading MEAN Comments",
   "description" : "Another reading your comments, appreciate ya\n\nWatch the Ethan and Hila Playlist --►https://goo.gl/rn5oht\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://goo.gl/901PGW\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://goo.gl/QKEsKJ\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.\n\nMusic:\nEarnest by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100248\nArtist: http://incompetech.com/",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3rTbVfgr4Ts/default.jpg",
   "tags" : [
     {
@@ -4003,5 +4004,10 @@
         "no_speech_prob" : 0.23986822366714478
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4116310,
+    "likes" : 117367,
+    "comments" : 8836
   }
 }

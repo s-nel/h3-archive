@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Backstage with Post Malone",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/APC3yUn77Ns/default.jpg",
   "tags" : [
     {
@@ -1517,5 +1518,10 @@
         "no_speech_prob" : 0.9873732924461365
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5024224,
+    "likes" : 323658,
+    "comments" : 14028
   }
 }

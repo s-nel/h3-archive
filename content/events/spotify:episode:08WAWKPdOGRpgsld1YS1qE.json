@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Ethan Becomes Alpha - H3TV #52",
   "description" : "<p>Today, Ethan proves to the audience once and for all that he is a TRUE ALPHA. We also discuss the new Twitch gambling drama, a doctor calls in to diagnose Jimmie Lee, Zach proves who the real Joker is, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qd6fwV2KnuM/default.jpg",
   "tags" : [
     {
@@ -15912,5 +15913,10 @@
         "no_speech_prob" : 0.3641056418418884
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1014560,
+    "likes" : 25160,
+    "comments" : 3483
   }
 }

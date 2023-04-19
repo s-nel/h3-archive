@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We're Still Being Sued",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/m40bWgWH8Ro/default.jpg",
   "tags" : [
     {
@@ -1605,5 +1606,10 @@
         "no_speech_prob" : 0.0010211425833404064
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4624679,
+    "likes" : 316205,
+    "comments" : 23726
   }
 }

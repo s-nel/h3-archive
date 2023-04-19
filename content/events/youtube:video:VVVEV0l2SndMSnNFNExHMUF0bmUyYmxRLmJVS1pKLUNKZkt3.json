@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How to kiss -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bUKZJ-CJfKw/default.jpg",
   "tags" : [
     {
@@ -28,5 +29,10 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "transcription" : null,
+  "metrics" : {
+    "views" : 1802196,
+    "likes" : 43222,
+    "comments" : 2327
+  }
 }

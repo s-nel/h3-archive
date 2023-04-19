@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "What Did My Mom Text Trisha - Families #9",
   "description" : "<p>On this episode of Families Donna starts WW3 by getting into her first real internet drama. Then the family unwinds by doing some long overdue childhood bonding experiences!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wRKR0BPlIZ8/default.jpg",
   "tags" : [
   ],
@@ -31095,5 +31096,10 @@
         "no_speech_prob" : 0.9919285774230957
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1767138,
+    "likes" : 71041,
+    "comments" : 15110
   }
 }

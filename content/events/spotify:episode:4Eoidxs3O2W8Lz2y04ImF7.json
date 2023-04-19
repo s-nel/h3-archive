@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Charles, Elon Musk, Jared Leto - Off The Rails #30",
   "description" : "<p>We do a little investigative journalism regarding Elon Musk&#39;s tweets, James Charles fresh cringe, a surprise call from a certain special guest, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DUID0Y2VwPw/default.jpg",
   "tags" : [
     {
@@ -22098,5 +22099,10 @@
         "no_speech_prob" : 0.004991538822650909
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1196497,
+    "likes" : 27295,
+    "comments" : 2822
   }
 }

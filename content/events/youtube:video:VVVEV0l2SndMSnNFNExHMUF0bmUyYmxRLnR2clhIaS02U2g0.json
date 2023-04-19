@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This Weird Toy Channel is Freaky",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tvrXHi-6Sh4/default.jpg",
   "tags" : [
     {
@@ -1484,5 +1485,10 @@
         "no_speech_prob" : 0.3987538516521454
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8756739,
+    "likes" : 335726,
+    "comments" : 25713
   }
 }

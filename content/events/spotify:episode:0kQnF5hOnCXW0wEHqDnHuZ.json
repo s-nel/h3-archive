@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#94 - No Meme Left Behind",
   "description" : "<p>On this episode of The H3 Podcast we delve into the H3 archives and go over a bunch of memes that we didn&#39;t have time to get to over the last year. Producer Dan and Ian the Intern help us in a journey through the fallen goofs and gaffs and make sure that no meme is left behind!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EQpmkVZQhqg/default.jpg",
   "tags" : [
   ],
@@ -30217,5 +30218,10 @@
         "no_speech_prob" : 0.10909924656152725
       }
     ]
+  },
+  "metrics" : {
+    "views" : 714334,
+    "likes" : 23257,
+    "comments" : 2205
   }
 }

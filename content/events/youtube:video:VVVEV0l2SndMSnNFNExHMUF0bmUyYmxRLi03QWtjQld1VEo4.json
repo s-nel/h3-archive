@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "I'm the Best. PERIOD.",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-7AkcBWuTJ8/default.jpg",
   "tags" : [
     {
@@ -351,5 +352,10 @@
         "no_speech_prob" : 0.04222023859620094
       }
     ]
+  },
+  "metrics" : {
+    "views" : 141762,
+    "likes" : 5144,
+    "comments" : 284
   }
 }

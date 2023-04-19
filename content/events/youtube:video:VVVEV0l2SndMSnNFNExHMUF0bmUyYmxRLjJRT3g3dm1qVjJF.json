@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "THE DJ KHALED DOCUMENTARY",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2QOx7vmjV2E/default.jpg",
   "tags" : [
     {
@@ -1323,5 +1324,10 @@
         "no_speech_prob" : 0.9837597608566284
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3951499,
+    "likes" : 140414,
+    "comments" : 5833
   }
 }

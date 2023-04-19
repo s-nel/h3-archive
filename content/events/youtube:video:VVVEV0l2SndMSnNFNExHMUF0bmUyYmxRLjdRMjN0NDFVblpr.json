@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Interview with Joey Salads",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7Q23t41UnZk/default.jpg",
   "tags" : [
     {
@@ -2331,5 +2332,10 @@
         "no_speech_prob" : 0.007110847160220146
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4533537,
+    "likes" : 198978,
+    "comments" : 37364
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#41 - JonTron",
   "description" : "<p>Thanks to JONTRON for coming and talking about EVERYTHING!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/irVe0wQkMXg/default.jpg",
   "tags" : [
   ],
@@ -16954,5 +16955,10 @@
         "no_speech_prob" : 0.005084055941551924
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3098979,
+    "likes" : 78081,
+    "comments" : 10879
   }
 }

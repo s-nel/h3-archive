@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Everyone Hates Me Again - H3TV #25",
   "description" : "<p>Today we discuss one of mankind&#39;s greatest evolutionary questions...which big animals could you take in a fist fight? Lion? Bear? Eagle? The philosophical debates are endless. We also respond to the controversy surrounding Ethan&#39;s latest cancellation, &amp; much much more. Jump on in yall</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pPEswfxt40o/default.jpg",
   "tags" : [
     {
@@ -13748,5 +13749,10 @@
         "no_speech_prob" : 0.30872854590415955
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1154787,
+    "likes" : 40804,
+    "comments" : 5279
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Charles Wears Diapers & The LaBrant Family - H3TV #31",
   "description" : "<p>Today we cover the latest gonzo documentary from The LaBrant Family regarding the issue of abortion, along with James Charles accidentally exposing some interesting items in his Amazon cart and one of the wildest shows to ever air on television. Tune in!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VWgVZRN7xLQ/default.jpg",
   "tags" : [
     {
@@ -55113,5 +55114,10 @@
         "no_speech_prob" : 0.05426732450723648
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1300185,
+    "likes" : 27624,
+    "comments" : 10149
   }
 }

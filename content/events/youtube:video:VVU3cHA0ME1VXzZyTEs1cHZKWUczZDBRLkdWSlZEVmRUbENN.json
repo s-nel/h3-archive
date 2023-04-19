@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Our First Fan Meet Up Was INSANE",
   "description" : "Our first fan meet up in Sweden was NUTS, thank you everyone so much for coming and seeing us, sorry to everyone we didn't have time to meet, appreciate ya all!\n\nMERCH......http://h3h3productions.spreadshirt.com\n\nH3 Podcast is available at:\nITUNES ► https://goo.gl/desgTE\nGOOGLE PLAY MUSIC ►https://goo.gl/EnllKV\n\nTwitter......................►https://twitter.com/h3h3productions\nHila's Twitter............►https://twitter.com/hilakleinh3\nSpreadshirt..............►http://h3h3productions.spreadshirt.com\nInstagram................►http://instagram.com/h3h3productions\nHila's Instragram.....►https://www.instagram.com/kleinhila\nWebsite....................►http://h3h3productions.com\nSubreddit.................►http://reddit.com/r/h3h3productions\n\nMusic:\n\n\"Love Struck\" by E's Jammy Jams",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GVJVDVdTlCM/default.jpg",
   "tags" : [
     {
@@ -1242,5 +1243,10 @@
         "no_speech_prob" : 0.6634020805358887
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1446101,
+    "likes" : 76796,
+    "comments" : 6329
   }
 }

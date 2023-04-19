@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#90 - Celebrity ASMR & Elon Musk Suspended From Twitter",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila continue their quest to determine life&#39;s most important questions via the most scientific method known to man: twitter polls. We also speak to Gibi ASMR and finally clear up some misconceptions about what ASMR is all about, watch a video about a man who can&#39;t stop burping, and talk about Elon Musk coming out of the weeb closet.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/El-AR39Wwr8/default.jpg",
   "tags" : [
   ],
@@ -19540,5 +19541,10 @@
         "no_speech_prob" : 0.0034352424554526806
       }
     ]
+  },
+  "metrics" : {
+    "views" : 623076,
+    "likes" : 15863,
+    "comments" : 2211
   }
 }

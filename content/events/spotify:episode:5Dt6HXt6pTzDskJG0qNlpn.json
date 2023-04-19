@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Charles’ Apology (aka Confession) - H3 After Dark # 30",
   "description" : "<p>On this episode of H3 After Dark Ethan Hila and the gang react to James Charles&#39; apology video, and we do a March madness style bracket to determine the best soundbyte in H3 Podcast history!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JIPKIuOZm9A/default.jpg",
   "tags" : [
     {
@@ -37262,5 +37263,10 @@
         "no_speech_prob" : 0.7089787721633911
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6642714,
+    "likes" : 74762,
+    "comments" : 8632
   }
 }

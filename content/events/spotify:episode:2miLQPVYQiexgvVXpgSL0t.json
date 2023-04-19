@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Spent $500,000 On Pokémon Cards - H3 Podcast #236",
   "description" : "<p>On this episode of The H3 Podcast the gang discuss Ethan&#39;s Nutrisystem diet, get an update on #FreeBritney, discuss the hottest old movie stars, and Ian gets swindled out of half a million dollars of Ethan&#39;s money for some &#34;Pokemon cards&#34;!</p> <p><a href=\"https://www.google.com/search?q&#61;jack&#43;nicholson&#43;eating&amp;sxsrf&#61;ALeKk02Tie2apTa0aqvDmH7Kv1Y22ccYpg:1613672618835&amp;source&#61;lnms&amp;tbm&#61;isch&amp;sa&#61;X&amp;ved&#61;2ahUKEwiKoOr5hvTuAhXWXM0KHTMXDvAQ_AUoAXoECCUQAw&amp;biw&#61;1560&amp;bih&#61;1175#imgrc&#61;OsCvfon6eA9lSM\" rel=\"nofollow\"> Jack Nicholson eating</a></p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6rXRoIA4EEc/default.jpg",
   "tags" : [
   ],
@@ -33232,5 +33233,10 @@
         "no_speech_prob" : 0.9509926438331604
       }
     ]
+  },
+  "metrics" : {
+    "views" : 884452,
+    "likes" : 26768,
+    "comments" : 7372
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Andrew Tate, Adin Ross, Logan Paul - H3TV #62",
   "description" : "<p>Today we are finally BACK! Ethan escapes the matrix and digs into all the things we missed while we were gone including the horrifying Andrew Tate updates, Adin Ross and his beef with Ethan, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lJNBlXTGSWk/default.jpg",
   "tags" : [
     {
@@ -60437,5 +60438,10 @@
         "no_speech_prob" : 0.9835487008094788
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1403472,
+    "likes" : 32490,
+    "comments" : 3609
   }
 }

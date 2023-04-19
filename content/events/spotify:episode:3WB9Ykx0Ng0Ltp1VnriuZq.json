@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Logan Paul Is Committing Fraud & It’s Disgusting - Off The Rails # 5",
   "description" : "<p>On this episode of Off The Rails Ethan and YouTube super detective Coffeezilla discuss Logan&#39;s latest scam: Dink Doink Coin, a crypto coin he definitely doesn&#39;t have anything to do with (beside creating) that he thinks you should buy NOW!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xamEkP8HLdA/default.jpg",
   "tags" : [
     {
@@ -16161,5 +16162,10 @@
         "no_speech_prob" : 0.003495427779853344
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2046697,
+    "likes" : 53804,
+    "comments" : 6071
   }
 }

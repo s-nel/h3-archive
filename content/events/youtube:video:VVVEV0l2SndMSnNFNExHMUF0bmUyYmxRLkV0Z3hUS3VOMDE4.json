@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "we're pregnant",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EtgxTKuN018/default.jpg",
   "tags" : [
     {
@@ -2848,5 +2849,10 @@
         "no_speech_prob" : 0.9411635994911194
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4416341,
+    "likes" : 379838,
+    "comments" : 43980
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The 700 Pound Kindergarten Teacher",
   "description" : "George Covington Is A Kindergarten teacher who weighs 700 pounds, he's also the sweetest man on Earth and I'm really rooting for him.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2fXm9tkc7Hk/default.jpg",
   "tags" : [
     {
@@ -7453,5 +7454,10 @@
         "no_speech_prob" : 0.04616169631481171
       }
     ]
+  },
+  "metrics" : {
+    "views" : 397844,
+    "likes" : 22607,
+    "comments" : 2475
   }
 }

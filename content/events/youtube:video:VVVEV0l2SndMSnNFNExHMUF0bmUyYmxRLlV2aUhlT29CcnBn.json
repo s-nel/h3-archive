@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "jerk that meat boy - ft. ainsley harriott [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UviHeOoBrpg/default.jpg",
   "tags" : [
     {
@@ -153,5 +154,10 @@
         "no_speech_prob" : 0.004177389666438103
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1992402,
+    "likes" : 33363,
+    "comments" : 777
   }
 }

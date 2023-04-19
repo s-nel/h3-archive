@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Cultural Appropriation Has Gone Too Far",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NvdDKjy-87w/default.jpg",
   "tags" : [
     {
@@ -1781,5 +1782,10 @@
         "no_speech_prob" : 0.004768171813338995
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3794421,
+    "likes" : 307588,
+    "comments" : 24438
   }
 }

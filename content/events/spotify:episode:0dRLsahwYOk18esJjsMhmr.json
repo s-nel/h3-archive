@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#15 - CNN Blackmails Redditor & SoFlo repays Joey Salads (Top Of The Month)",
   "description" : "CNN Blackmails a redditor, SoFlo repays Joey Salads, Mega church pastors use 200million to buy a private jet, Ellen humiliates a guest and MUCH more this week on Top of the Month.<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GSZYeL84t90/default.jpg",
   "tags" : [
     {
@@ -21032,5 +21033,10 @@
         "no_speech_prob" : 0.0026645208708941936
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1338803,
+    "likes" : 34469,
+    "comments" : 8892
   }
 }

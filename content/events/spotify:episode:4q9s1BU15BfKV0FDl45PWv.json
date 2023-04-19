@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Guess Who the D'Amelios Are Suing... - H3TV #7",
   "description" : "<p>Today we get a surprise caller regarding the latest D&#39;Amelio scandal, dig into the shocking clickbait of the LaBrant Family, react to some Cut Channel cringe, and much much more! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/d9Y0O-FtKvA/default.jpg",
   "tags" : [
     {
@@ -54204,5 +54205,10 @@
         "no_speech_prob" : 0.9917733073234558
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2013036,
+    "likes" : 36514,
+    "comments" : 4049
   }
 }

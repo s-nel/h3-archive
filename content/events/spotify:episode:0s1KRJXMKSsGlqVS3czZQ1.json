@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#153 - MrBeast Saves The Planet & Twitch Is Collapsing",
   "description" : "<p>On this episode of The H3 Podcast the gang debriefs on our Trisha Paytas episode, we discuss the fires burning down LA, Bobby Lee pops in for a surprise visit, Ethan&#39;s feeding window is working, MrBeast is planting trillions of trees, we taste test fast food salads, discuss Shroud destroying Twitch.tv, and a whole lot more!</p> <p> </p> <p>Here are some of the links from today&#39;s show:</p> <p>Podcast memes: <a href=\"https://imgur.com/a/goGFroW\" rel=\"nofollow\">https://imgur.com/a/goGFroW</a></p> <p>MrBeast&#39;s fundraiser: <a href=\"https://www.teamtrees.org/\" rel=\"nofollow\">https://www.teamtrees.org/</a></p> <p>Some r/freefolk memes: <a href=\"https://imgur.com/a/rSjUuce\" rel=\"nofollow\">https://imgur.com/a/rSjUuce</a></p> <p>Shroud&#39;s announcement video: <a href=\"https://twitter.com/shroud/status/1187413389582061568\" rel=\"nofollow\">https://twitter.com/shroud/status/1187413389582061568</a></p> <p> </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fNCRxWmL5qw/default.jpg",
   "tags" : [
     {
@@ -18998,5 +18999,10 @@
         "no_speech_prob" : 0.5176053643226624
       }
     ]
+  },
+  "metrics" : {
+    "views" : 852145,
+    "likes" : 21483,
+    "comments" : 4656
   }
 }

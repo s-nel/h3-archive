@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Making Music with Post Malone",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YTBJxZx3AZI/default.jpg",
   "tags" : [
     {
@@ -4432,5 +4433,10 @@
         "no_speech_prob" : 0.32820385694503784
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10347960,
+    "likes" : 586852,
+    "comments" : 20903
   }
 }

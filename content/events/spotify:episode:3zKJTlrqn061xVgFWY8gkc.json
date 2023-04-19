@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#52 - Shane Dawson",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined by OG YouTuber Shane Dawson to discuss conspiracy theories, ghost stories, body image and much more! Shane Dawson is an actor, singer, film director and YouTuber who has been active since 2008.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VXvblzAs6vM/default.jpg",
   "tags" : [
   ],
@@ -15499,5 +15500,10 @@
         "no_speech_prob" : 0.43295979499816895
       }
     ]
+  },
+  "metrics" : {
+    "views" : 12457800,
+    "likes" : 129399,
+    "comments" : 12352
   }
 }

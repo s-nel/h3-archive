@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We're Being Sued",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fEGVOysbC8w/default.jpg",
   "tags" : [
     {
@@ -2177,5 +2178,10 @@
         "no_speech_prob" : 0.0017127633327618241
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7227216,
+    "likes" : 250880,
+    "comments" : 25627
   }
 }

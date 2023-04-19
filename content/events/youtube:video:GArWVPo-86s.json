@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "QAnon Lunatics & Unusual Memes - H3TV #3",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GArWVPo-86s/default.jpg",
   "tags" : [
     {
@@ -31502,5 +31503,10 @@
         "no_speech_prob" : 0.2062612771987915
       }
     ]
+  },
+  "metrics" : {
+    "views" : 581376,
+    "likes" : 17546,
+    "comments" : 1974
   }
 }

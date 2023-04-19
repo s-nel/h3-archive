@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "At home",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Y9GjhqQWyNo/default.jpg",
   "tags" : [
     {
@@ -230,5 +231,10 @@
         "no_speech_prob" : 0.2295036017894745
       }
     ]
+  },
+  "metrics" : {
+    "views" : 263368,
+    "likes" : 8844,
+    "comments" : 314
   }
 }

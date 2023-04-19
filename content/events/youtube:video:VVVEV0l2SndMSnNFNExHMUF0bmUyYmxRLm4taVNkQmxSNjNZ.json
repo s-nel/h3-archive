@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "doritos and pepsi max [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/n-iSdBlR63Y/default.jpg",
   "tags" : [
     {
@@ -307,5 +308,10 @@
         "no_speech_prob" : 0.9950469732284546
       }
     ]
+  },
+  "metrics" : {
+    "views" : 379759,
+    "likes" : 8761,
+    "comments" : 740
   }
 }

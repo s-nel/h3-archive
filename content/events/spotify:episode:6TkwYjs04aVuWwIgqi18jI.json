@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Joe Rogan Is A Giant Hypocrite - H3 After Dark #49",
   "description" : "<p>Today we delve into the confusing mind of Toe Brogan, hash out the origin of the office fly problem, unveil a horrifying meat cake for Zach&#39;s anniversary, and give Ethan a haircut to commemorate the release of Drake&#39;s new album. Check it out!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jgrTGlQ_IG8/default.jpg",
   "tags" : [
     {
@@ -25889,5 +25890,10 @@
         "no_speech_prob" : 0.19870112836360931
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1838298,
+    "likes" : 39367,
+    "comments" : 6656
   }
 }

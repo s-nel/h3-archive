@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How We Met At The Holocaust Museum",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ec1syKOdlwo/default.jpg",
   "tags" : [
     {
@@ -3424,5 +3425,10 @@
         "no_speech_prob" : 0.29946258664131165
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7373405,
+    "likes" : 395080,
+    "comments" : 29141
   }
 }

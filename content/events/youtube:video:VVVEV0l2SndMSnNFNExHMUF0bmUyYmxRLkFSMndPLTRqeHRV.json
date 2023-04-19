@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Best Cure for Hemorrhoids",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AR2wO-4jxtU/default.jpg",
   "tags" : [
     {
@@ -197,5 +198,10 @@
         "no_speech_prob" : 0.0052038622088730335
       }
     ]
+  },
+  "metrics" : {
+    "views" : 129530,
+    "likes" : 2880,
+    "comments" : 115
   }
 }

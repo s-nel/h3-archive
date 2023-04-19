@@ -146,29 +146,32 @@ object IndexYoutubeMetrics {
     val fut = for {
       esEvents <- loadEventsFromContent(true)
       ytEsEvents = esEvents.filter(_.links.exists(_.exists(_.`type` === LinkType.YouTube.name)))
-      _ <- Future.traverse(ytEsEvents.grouped(batchSize)) { batch =>
-        val ytIdToEvent = batch.flatMap { event =>
-          event.links
-            .flatMap(_.find(_.`type` === LinkType.YouTube.name))
-            .flatMap(l => parseYtUrl(l.url))
-            .map(ytId => ytId -> event)
-        }.toMap
-        val request = listVideosRequest(ytIdToEvent.keys.toList)
-        for {
-          response <- httpRequest[VideoListResponse](request)
-          _ <- Future.traverse(response.items) { item =>
-            ytIdToEvent.get(item.id) match {
-              case Some(event) =>
-                val updated = event.copy(
-                  metrics =
-                    Some(MetricsDoc(item.statistics.viewCount, item.statistics.likeCount, item.statistics.commentCount))
-                )
-                persistToContent(updated)
-              case None =>
-                Future.successful(())
+      _ <- ytEsEvents.grouped(batchSize).foldLeft(Future.successful(())) {
+        case (fut, batch) =>
+          val ytIdToEvent = batch.flatMap { event =>
+            event.links
+              .flatMap(_.find(_.`type` === LinkType.YouTube.name))
+              .flatMap(l => parseYtUrl(l.url))
+              .map(ytId => ytId -> event)
+          }.toMap
+          val request = listVideosRequest(ytIdToEvent.keys.toList)
+          for {
+            _ <- fut
+            response <- httpRequest[VideoListResponse](request)
+            _ <- Future.traverse(response.items) { item =>
+              ytIdToEvent.get(item.id) match {
+                case Some(event) =>
+                  val updated = event.copy(
+                    metrics = Some(
+                      MetricsDoc(item.statistics.viewCount, item.statistics.likeCount, item.statistics.commentCount)
+                    )
+                  )
+                  persistToContent(updated)
+                case None =>
+                  Future.successful(())
+              }
             }
-          }
-        } yield {}
+          } yield {}
       }
     } yield ()
     Await.result(fut, 60.minute)

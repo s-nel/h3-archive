@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#214 - Bobby Lee & Khalyla",
   "description" : "<p>On this episode of the H3 Podcast we welcome back Bobby &amp; Khalyla of TigerBelly to the #27th podcast in the USA! Together we discuss the &#34;pandy&#34;, relationships, role playing, Bobby&#39;s ear discharge, staying up all night playing video games, using your platform for good, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/c8MLEkjLrPM/default.jpg",
   "tags" : [
   ],
@@ -16787,5 +16788,10 @@
         "no_speech_prob" : 0.05588440224528313
       }
     ]
+  },
+  "metrics" : {
+    "views" : 861480,
+    "likes" : 23574,
+    "comments" : 3921
   }
 }

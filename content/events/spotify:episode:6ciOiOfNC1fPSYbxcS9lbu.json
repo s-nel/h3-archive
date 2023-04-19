@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Hasan Got Called Out - Leftovers #25",
   "description" : "<p>Today we go over some newly uncovered information regarding the Trainwreck/XQC situation. We also discuss Ron DeSantis, MAGA rap taking over elections across the country, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bm_LAUxPI_U/default.jpg",
   "tags" : [
   ],
@@ -16337,5 +16338,10 @@
         "no_speech_prob" : 0.4182748794555664
       }
     ]
+  },
+  "metrics" : {
+    "views" : 814346,
+    "likes" : 20362,
+    "comments" : 1971
   }
 }

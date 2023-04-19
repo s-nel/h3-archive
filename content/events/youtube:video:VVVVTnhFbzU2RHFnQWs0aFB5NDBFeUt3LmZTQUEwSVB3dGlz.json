@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This Man Stole $10,000,000 From Tinder Dates - The Tinder Swindler",
   "description" : "The Tinder Swindler is the story about Simon Leviev / Shimon Hayut watch it on netflix, so good!",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fSAA0IPwtis/default.jpg",
   "tags" : [
     {
@@ -1634,5 +1635,10 @@
         "no_speech_prob" : 0.002751555060967803
       }
     ]
+  },
+  "metrics" : {
+    "views" : 445864,
+    "likes" : 19019,
+    "comments" : 1602
   }
 }

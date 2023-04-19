@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "sand that wood boy (edgy) [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VTb8RbQSwUQ/default.jpg",
   "tags" : [
     {
@@ -65,5 +66,10 @@
         "no_speech_prob" : 0.017966926097869873
       }
     ]
+  },
+  "metrics" : {
+    "views" : 119247,
+    "likes" : 2454,
+    "comments" : 48
   }
 }

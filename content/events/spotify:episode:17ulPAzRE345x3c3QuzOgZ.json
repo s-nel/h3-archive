@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Brendan Schaub Responds, Fresh & Fit Guest Calls In To Expose Them - Off The Rails #35",
   "description" : "<p>Today we have a very intense call with someone who had a personal run-in with Myron from Fresh &amp; Fit, full of many twists and turns. We also go over the latest developments in the ongoing Brendan Schaub/Bobby Lee saga, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cNiIRTDfch0/default.jpg",
   "tags" : [
     {
@@ -26561,5 +26562,10 @@
         "no_speech_prob" : 0.03492850810289383
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1260760,
+    "likes" : 27481,
+    "comments" : 7094
   }
 }

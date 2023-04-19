@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "this video is mildly interesting",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NmPcx3CM-9M/default.jpg",
   "tags" : [
     {
@@ -1099,5 +1100,10 @@
         "no_speech_prob" : 0.48847657442092896
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5712562,
+    "likes" : 265325,
+    "comments" : 13726
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "HYPOCRISY ON YOUTUBE",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/H3_LHq_kjnw/default.jpg",
   "tags" : [
     {
@@ -736,5 +737,10 @@
         "no_speech_prob" : 0.02417639084160328
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3044323,
+    "likes" : 93406,
+    "comments" : 2713
   }
 }

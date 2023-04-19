@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "First Asian Kiss (Hila Reaction) -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zBVHl3QjFWI/default.jpg",
   "tags" : [
     {
@@ -1011,5 +1012,10 @@
         "no_speech_prob" : 0.005340376868844032
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2288750,
+    "likes" : 56279,
+    "comments" : 2822
   }
 }

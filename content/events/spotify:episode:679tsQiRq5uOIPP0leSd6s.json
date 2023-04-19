@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "These Are My Enemies Now - H3 After Dark #20",
   "description" : "<p>On this episode of H3 After Dark the gang discuss Shane&#39;s continued fall from grace, Q-Anon people losing their mind&#39;s over Biden&#39;s inauguration, Zach&#39;s phobia of CCR, Soho Karen, DJ Khaled and Fat Joe&#39;s OnlyFans, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1G3nt39Fd0o/default.jpg",
   "tags" : [
     {
@@ -32782,5 +32783,10 @@
         "no_speech_prob" : 0.8632959723472595
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1924734,
+    "likes" : 41758,
+    "comments" : 7106
   }
 }

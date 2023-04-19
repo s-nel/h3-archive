@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#221 - Tom & Christina P",
   "description" : "<p>On this episode of the H3 Podcast friends of the show Tom Segura and Christina P zoom in to hang out! Together we talk about parenting, angry racist fathers, the debate, Vin Diesel of course, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1B8Ce6pR3sw/default.jpg",
   "tags" : [
   ],
@@ -22837,5 +22838,10 @@
         "no_speech_prob" : 0.1626731902360916
       }
     ]
+  },
+  "metrics" : {
+    "views" : 450054,
+    "likes" : 14320,
+    "comments" : 1797
   }
 }

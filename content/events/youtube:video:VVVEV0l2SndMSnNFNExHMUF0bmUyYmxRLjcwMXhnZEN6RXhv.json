@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This Video is for KIDS ONLY",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/701xgdCzExo/default.jpg",
   "tags" : [
     {
@@ -2265,5 +2266,10 @@
         "no_speech_prob" : 0.4932146668434143
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5972182,
+    "likes" : 233158,
+    "comments" : 17687
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Hila's Biggest Regret (#askh3)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/iL_wGOJAvC4/default.jpg",
   "tags" : [
     {
@@ -1341,5 +1342,10 @@
         "no_speech_prob" : 0.33350273966789246
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3074965,
+    "likes" : 149060,
+    "comments" : 6932
   }
 }

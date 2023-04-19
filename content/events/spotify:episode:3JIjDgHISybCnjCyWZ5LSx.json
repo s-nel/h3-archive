@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#21 - Was Joey Salads at the Rally? & More",
   "description" : "<p>Ethan and Hila discuss AI, Fupa Loss, and Joey Salads possibly being a Nazi</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MBZC4FxMQ_E/default.jpg",
   "tags" : [
     {
@@ -11572,5 +11573,10 @@
         "no_speech_prob" : 0.009682801552116871
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1016571,
+    "likes" : 27015,
+    "comments" : 5513
   }
 }

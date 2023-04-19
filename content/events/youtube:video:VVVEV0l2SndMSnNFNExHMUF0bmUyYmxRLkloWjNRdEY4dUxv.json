@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "pickles",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IhZ3QtF8uLo/default.jpg",
   "tags" : [
     {
@@ -50,5 +51,10 @@
         "no_speech_prob" : 0.09371456503868103
       }
     ]
+  },
+  "metrics" : {
+    "views" : 221586,
+    "likes" : 3687,
+    "comments" : 77
   }
 }

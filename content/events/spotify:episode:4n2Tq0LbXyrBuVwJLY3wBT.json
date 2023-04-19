@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#40 - The Madness of Black Friday",
   "description" : "<p>The madness and mayhem of black friday, stomp on a babies face to save $10 on a rice cooker.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0c0878tn4aw/default.jpg",
   "tags" : [
     {
@@ -12888,5 +12889,10 @@
         "no_speech_prob" : 0.002292792545631528
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1003367,
+    "likes" : 24802,
+    "comments" : 3370
   }
 }

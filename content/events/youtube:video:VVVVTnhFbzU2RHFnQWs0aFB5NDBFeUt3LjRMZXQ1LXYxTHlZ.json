@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Debunking Jordan Peterson's Transphobic rant w Joe Rogan",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4Let5-v1LyY/default.jpg",
   "tags" : [
     {
@@ -3009,5 +3010,10 @@
         "no_speech_prob" : 0.08781943470239639
       }
     ]
+  },
+  "metrics" : {
+    "views" : 192376,
+    "likes" : 9997,
+    "comments" : 2342
   }
 }

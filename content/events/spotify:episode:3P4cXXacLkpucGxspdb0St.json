@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Crew Gives Ethan A Makeover - Off The Rails #62",
   "description" : "<p>Today, the crew gives Ethan a thrift store makeover! We also have a discussion on Vitaly&#39;s recent comeback, BigNik&#39;s further descent into Christian fundamentalism, a Wendy Williams update, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XH6XCtQe4NI/default.jpg",
   "tags" : [
     {
@@ -64870,5 +64871,10 @@
         "no_speech_prob" : 0.004921899177134037
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1031071,
+    "likes" : 21074,
+    "comments" : 2179
   }
 }

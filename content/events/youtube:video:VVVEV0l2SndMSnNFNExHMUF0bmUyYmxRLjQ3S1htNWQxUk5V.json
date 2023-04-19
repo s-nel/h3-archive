@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Doctor Who - Season 86 Recap - Spoiler Alert",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/47KXm5d1RNU/default.jpg",
   "tags" : [
     {
@@ -571,5 +572,10 @@
         "no_speech_prob" : 0.2622229754924774
       }
     ]
+  },
+  "metrics" : {
+    "views" : 92330,
+    "likes" : 3248,
+    "comments" : 160
   }
 }

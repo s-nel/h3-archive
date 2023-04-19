@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Final Families Episode - Familes #10",
   "description" : "<p>Today, we bid goodbye to Families. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WOAWl_s0Kjs/default.jpg",
   "tags" : [
     {
@@ -30120,5 +30121,10 @@
         "no_speech_prob" : 0.6725943684577942
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1367941,
+    "likes" : 56387,
+    "comments" : 11303
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#16 - Net Neutrality",
   "description" : "We discuss Net Neutrality and many other topics in this slamming new episode.<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/N4k1gEC0800/default.jpg",
   "tags" : [
   ],
@@ -16521,5 +16522,10 @@
         "no_speech_prob" : 0.001079691108316183
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1104146,
+    "likes" : 30576,
+    "comments" : 5968
   }
 }

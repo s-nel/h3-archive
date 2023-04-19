@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Conservative Incels, Tucker Carlson, Omicron - Leftovers #10",
   "description" : "<p>On this episode of Leftovers Ethan &amp; Hasan bring back friend of the show Dr. Ding to talk omicrombie &amp; finch, Tucker&#39;s fear of bimbofication, Jordan Peterson being shockingly based, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/X_IAposyoTQ/default.jpg",
   "tags" : [
   ],
@@ -29812,5 +29813,10 @@
         "no_speech_prob" : 0.010767387226223946
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1454513,
+    "likes" : 35468,
+    "comments" : 6012
   }
 }

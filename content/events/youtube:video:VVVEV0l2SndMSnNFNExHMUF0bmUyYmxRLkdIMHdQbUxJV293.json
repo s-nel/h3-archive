@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Facebook Moms Against Dabbing",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GH0wPmLIWow/default.jpg",
   "tags" : [
     {
@@ -3222,5 +3223,10 @@
         "no_speech_prob" : 0.9362609386444092
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8180602,
+    "likes" : 256269,
+    "comments" : 12555
   }
 }

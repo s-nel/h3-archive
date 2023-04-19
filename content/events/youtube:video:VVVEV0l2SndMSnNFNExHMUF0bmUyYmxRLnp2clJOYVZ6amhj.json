@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "done with that exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zvrRNaVzjhc/default.jpg",
   "tags" : [
     {
@@ -61,5 +62,10 @@
         "no_speech_prob" : 0.8535500764846802
       }
     ]
+  },
+  "metrics" : {
+    "views" : 417334,
+    "likes" : 5013,
+    "comments" : 120
   }
 }

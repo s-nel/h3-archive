@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Storm Watch 2015",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_ALfCoCpru4/default.jpg",
   "tags" : [
     {
@@ -3409,5 +3410,10 @@
         "no_speech_prob" : 0.0012597475433722138
       }
     ]
+  },
+  "metrics" : {
+    "views" : 417567,
+    "likes" : 10931,
+    "comments" : 651
   }
 }

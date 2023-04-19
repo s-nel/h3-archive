@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#217 - Steve-O",
   "description" : "<p>On this episode of the H3 Podcast we welcome back after 3 long years comedian, stuntman and all around cool dude Steve-O! With him we discuss his new special, Gnarly, which is available at Steveo.com, as well as his animal rights activism, engagement, injuries, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/45JT5drL2wU/default.jpg",
   "tags" : [
   ],
@@ -7411,5 +7412,10 @@
         "no_speech_prob" : 0.09985611587762833
       }
     ]
+  },
+  "metrics" : {
+    "views" : 377456,
+    "likes" : 14307,
+    "comments" : 1350
   }
 }

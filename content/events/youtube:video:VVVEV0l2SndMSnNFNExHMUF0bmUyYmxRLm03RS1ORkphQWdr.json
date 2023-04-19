@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Everyone Needs to Stop Getting TRIGGERED",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/m7E-NFJaAgk/default.jpg",
   "tags" : [
     {
@@ -1077,5 +1078,10 @@
         "no_speech_prob" : 0.011066662147641182
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3915631,
+    "likes" : 242699,
+    "comments" : 30279
   }
 }

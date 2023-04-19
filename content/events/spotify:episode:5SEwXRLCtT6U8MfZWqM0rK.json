@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik Caught In A Crypto Scam - Off The Rails #29",
   "description" : "<p>Today we finally show the famed footage from our insane day with Jimmie Lee the Jersey Outlaw, and we debrief with a video interview w/the man himself. We also discuss David Dobrik&#39;s latest goof, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kWqTHAD8C0k/default.jpg",
   "tags" : [
     {
@@ -50474,5 +50475,10 @@
         "no_speech_prob" : 0.973435640335083
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1324225,
+    "likes" : 29649,
+    "comments" : 3127
   }
 }

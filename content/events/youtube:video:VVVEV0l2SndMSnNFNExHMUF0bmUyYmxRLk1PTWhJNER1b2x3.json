@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "america exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MOMhI4Duolw/default.jpg",
   "tags" : [
     {
@@ -527,5 +528,10 @@
         "no_speech_prob" : 0.013682604767382145
       }
     ]
+  },
+  "metrics" : {
+    "views" : 946179,
+    "likes" : 19092,
+    "comments" : 1266
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Content Court: Jared Leto",
   "description" : "<p>Court is back in session baby and this time it&#39;s our highest profile defendant yet- actor, musician, and cult leader Jared Leto! Will AB be able to mount a convincing defense? Or can AI Ian deploy sufficient legal judo to flip this case back around on the prosecution. Find out on Content Court: Jared Leto.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3FICW6WUBtQ/default.jpg",
   "tags" : [
   ],
@@ -11327,5 +11328,10 @@
         "no_speech_prob" : 0.21760770678520203
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1264117,
+    "likes" : 31555,
+    "comments" : 3708
   }
 }

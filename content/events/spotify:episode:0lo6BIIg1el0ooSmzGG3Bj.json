@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#105 - Logic",
   "description" : "<p>On this episode of The H3 Podcast we are joined by rapper/author/writer/cool dude Bobby Hall aka Logic!!! Together we discuss the pressures of fame, social media, tough childhoods, the nature of a piece of art, meeting Eminem and Jerry Seinfeld, and people creeping under the bathroom stall! Logic&#39;s book Supermarket will be on sale March 24th and is available for pre-order now!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FStiNMo4-Jk/default.jpg",
   "tags" : [
   ],
@@ -34511,5 +34512,10 @@
         "no_speech_prob" : 0.994163453578949
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1331358,
+    "likes" : 49240,
+    "comments" : 4955
   }
 }

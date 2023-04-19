@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Cringing at Rick & Morty Memes w/ The Show's Creator Justin Roiland",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jrHz8Bti6FY/default.jpg",
   "tags" : [
     {
@@ -6343,5 +6344,10 @@
         "no_speech_prob" : 0.6997761130332947
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9105650,
+    "likes" : 370178,
+    "comments" : 16948
   }
 }

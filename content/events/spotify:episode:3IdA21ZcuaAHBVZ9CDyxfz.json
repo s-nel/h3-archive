@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Andrew Callahan Of Channel 5 - Leftovers #30",
   "description" : "<p>On this episode of LEFTOVERS the boys are back and joined by Andrew of Channel 5 News fame! Together they discuss Andrew&#39;s upcoming HBO documentary, his live tour, drinking piss, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aoh2W_WiuN4/default.jpg",
   "tags" : [
   ],
@@ -16692,5 +16693,10 @@
         "no_speech_prob" : 0.002620628336444497
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1089296,
+    "likes" : 29531,
+    "comments" : 3397
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#194 - William & Chelsea Osman",
   "description" : "<p>On this episode of the H3 Podcast we are joined by YouTuber, inventor, beanie enthusiast and facial hair haver- William Osman and his incredibly caretaker Chelsea Osman! Together we discuss their brush with COVID, science and teaching, bones human or otherwise, and mountains of meat aka meat mountains, and a whole lot more!!!</p> <p> </p> <p> </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Gk6_697FGec/default.jpg",
   "tags" : [
   ],
@@ -26793,5 +26794,10 @@
         "no_speech_prob" : 0.33396410942077637
       }
     ]
+  },
+  "metrics" : {
+    "views" : 933322,
+    "likes" : 20911,
+    "comments" : 3249
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Wiping",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ymg0gFCpdDc/default.jpg",
   "tags" : [
     {
@@ -461,5 +462,10 @@
         "no_speech_prob" : 0.10707069933414459
       }
     ]
+  },
+  "metrics" : {
+    "views" : 730166,
+    "likes" : 28498,
+    "comments" : 3084
   }
 }

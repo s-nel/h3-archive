@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#30 - Responding To The Drama + Hila Calls In & More! (Top of the Week)",
   "description" : "<p>Lots to talk about</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CBBX14zotuI/default.jpg",
   "tags" : [
     {
@@ -23360,5 +23361,10 @@
         "no_speech_prob" : 0.02344370260834694
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1022577,
+    "likes" : 33761,
+    "comments" : 6572
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "nan took a tumble [official video]",
   "description" : "rip in peace nan, tumbled but not forgotten.\n\nJPNDTS, just pushed nan down the stairs.\n\nSound credit: http://CreatedByBrett.com/music.php",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NvDF6lev730/default.jpg",
   "tags" : [
     {
@@ -32,5 +33,10 @@
     "text" : null,
     "segments" : [
     ]
+  },
+  "metrics" : {
+    "views" : 118437,
+    "likes" : 2959,
+    "comments" : 282
   }
 }

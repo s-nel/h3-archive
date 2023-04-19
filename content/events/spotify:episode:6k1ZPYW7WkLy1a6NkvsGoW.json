@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Went To ACE Fest... WOW - H3TV #42",
   "description" : "<p>Today we finally recap our SHOCKING experience at ACE FEST. We also discuss some fresh Elon cringe, go over Rudy Giuliani&#39;s fresh sandal business, Toby Turner going full QAnon, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QpElkT_nkgY/default.jpg",
   "tags" : [
     {
@@ -67657,5 +67658,10 @@
         "no_speech_prob" : 0.9770062565803528
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1799948,
+    "likes" : 33632,
+    "comments" : 3129
   }
 }

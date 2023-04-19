@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Adin Ross Attacked My Wife And Threatened Me",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qPNbb_Ax4Vc/default.jpg",
   "tags" : [
     {
@@ -2151,5 +2152,10 @@
         "no_speech_prob" : 0.0028592252638190985
       }
     ]
+  },
+  "metrics" : {
+    "views" : 630502,
+    "likes" : 27314,
+    "comments" : 7449
   }
 }

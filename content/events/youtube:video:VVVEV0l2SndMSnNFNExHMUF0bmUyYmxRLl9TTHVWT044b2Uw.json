@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "PrankInvasion -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_SLuVON8oe0/default.jpg",
   "tags" : [
     {
@@ -1176,5 +1177,10 @@
         "no_speech_prob" : 0.0010333594400435686
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5850450,
+    "likes" : 140239,
+    "comments" : 7570
   }
 }

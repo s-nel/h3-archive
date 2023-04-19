@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#150 - Trisha Paytas Insults Hila & We Met Belle Delphine",
   "description" : "<p>On this episode of The H3 Podcast the Belle saga comes to a head as Ian the Intern made direct, in person contact. We also apologize sincerely to Trisha Paytas, talk plans for Halloween, Ian gets chewed out for cheating on The Bach3lor, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/021de75ZxPs/default.jpg",
   "tags" : [
   ],
@@ -33514,5 +33515,10 @@
         "no_speech_prob" : 0.9811677932739258
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1211208,
+    "likes" : 31087,
+    "comments" : 5508
   }
 }

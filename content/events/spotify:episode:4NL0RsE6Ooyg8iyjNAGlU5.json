@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#134 - Twitch Backstabs Ninja & Jeffery Epstein",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZhnYngYCipc/default.jpg",
   "tags" : [
   ],
@@ -12731,5 +12732,10 @@
         "no_speech_prob" : 0.4710692763328552
       }
     ]
+  },
+  "metrics" : {
+    "views" : 777354,
+    "likes" : 22263,
+    "comments" : 3728
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "LIVER KING'S HERE! - Leftovers #26",
   "description" : "<p>Today we are joined by the powerful primal Liver King. We discuss all things liver, Ethan and Hasan eat various raw meats (including penis), we test Liver King on what is primal vs subprimal (for example Queen Elizabeth - PRIMAL), and much more! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5XtLmCevyRU/default.jpg",
   "tags" : [
   ],
@@ -57832,5 +57833,10 @@
         "no_speech_prob" : 0.9913936257362366
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1237829,
+    "likes" : 34212,
+    "comments" : 8181
   }
 }

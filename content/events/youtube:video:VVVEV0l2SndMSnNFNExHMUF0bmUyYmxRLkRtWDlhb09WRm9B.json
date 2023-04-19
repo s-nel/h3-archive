@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "My Horrifying Proposal Story",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DmX9aoOVFoA/default.jpg",
   "tags" : [
     {
@@ -3002,5 +3003,10 @@
         "no_speech_prob" : 0.003713727928698063
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5068880,
+    "likes" : 268226,
+    "comments" : 14906
   }
 }

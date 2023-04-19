@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Hot Kitchen",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XD4witkTo6w/default.jpg",
   "tags" : [
     {
@@ -505,5 +506,10 @@
         "no_speech_prob" : 0.0247418861836195
       }
     ]
+  },
+  "metrics" : {
+    "views" : 267744,
+    "likes" : 9345,
+    "comments" : 465
   }
 }

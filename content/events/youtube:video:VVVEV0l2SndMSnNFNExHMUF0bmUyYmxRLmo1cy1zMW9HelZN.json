@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Take a DNA Test",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/j5s-s1oGzVM/default.jpg",
   "tags" : [
     {
@@ -4014,5 +4015,10 @@
         "no_speech_prob" : 0.016182247549295425
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6035699,
+    "likes" : 250856,
+    "comments" : 15335
   }
 }

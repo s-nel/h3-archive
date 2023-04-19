@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Healthy at Every Size [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lCdHP1BBR_c/default.jpg",
   "tags" : [
     {
@@ -681,5 +682,10 @@
         "no_speech_prob" : 0.2782819867134094
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1623438,
+    "likes" : 54809,
+    "comments" : 1947
   }
 }

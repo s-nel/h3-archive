@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Jokes - Midget Matzah",
   "description" : "Spotify: https://goo.gl/m1QodU\niTunes: https://goo.gl/kWDJwq\nBlast from da past tune I made for Hila back in 2008. It's from this video on h3h3 in case you missed it:\nhttps://www.youtube.com/watch?v=Ec1syKOdlwo\n\nLyrics:\n\nMet a girl some time ago, I call her midget matzah\nCutest thing that I've ever know'd\nShe's my little cutie\n\nComing to visit gonna grab that whale\nThey call him Shamu\nI'll grab his head and you grab his tail\nAnd we'll bring him to the ocean\n\nWoah-oh, I hope its not very far\n'cause whales are very heavy\nAnd woah-oh, we'll let him jump over you\nAnd pretend he's Free Willy\n\nWe'll be just like Bonnie and Clyde\nFor the 21st century\nDrive around in cars that run on vegetable oil\nAnd riding turtles to the ocean\n\nWoah-oh, bring a camera so the world can see\nThe cracks in the concrete \nAnd woah-oh, the cutest thing that ever be\nMy little cutie\n\nWoah-oh, bring a camera so the world can see\nThe cracks in the concrete \nAnd woah-oh, the cutest thing that ever be\nMy little cutie",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YZPsRvcsxRw/default.jpg",
   "tags" : [
     {
@@ -351,5 +352,10 @@
         "no_speech_prob" : 0.21147851645946503
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1330177,
+    "likes" : 74114,
+    "comments" : 5599
   }
 }

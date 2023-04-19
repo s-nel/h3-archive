@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Steven Crowder Banned From YouTube👋😘🎉 - Leftovers #22",
   "description" : "<p>Today we re-establish BFF status with friendship bracelets, try the new Papa John Papa Bowl, Hasan apologizes to cats, we look at an iconic channel where they eat Civil War army rations, discuss the best frozen pizza....oh and some politics</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3dsRmlGI25g/default.jpg",
   "tags" : [
   ],
@@ -41061,5 +41062,10 @@
         "no_speech_prob" : 0.03802415356040001
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1101677,
+    "likes" : 25023,
+    "comments" : 3329
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Were Banned From YouTube AGAIN - H3TV #38",
   "description" : "<p>Today we go over Ethan&#39;s comments last week that resulted in a 1-week ban from YouTube, and the ensuing chaos that followed! We also discuss Jeffree Star&#39;s yak situation, &amp; much more.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CGOWQwC1Amo/default.jpg",
   "tags" : [
     {
@@ -15589,5 +15590,10 @@
         "no_speech_prob" : 0.1569012701511383
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1091507,
+    "likes" : 32738,
+    "comments" : 3732
   }
 }

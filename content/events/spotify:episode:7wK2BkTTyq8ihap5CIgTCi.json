@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Andrew Tate Banned From Facebook, Instagram & Twitter 🎉🥰🥳 - After Dark #80",
   "description" : "<p>Today we discuss the W moment of Andrew Tate being banned from the M E T A V E R S E. We also crack open a can of fika fish with our mods visiting the studio on mod appreciation day, go over the Tesla self-driving cars slamming into child dummies, discuss the Addison Rae bikini controversy, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/K-hPcI9KA_0/default.jpg",
   "tags" : [
     {
@@ -66670,5 +66671,10 @@
         "no_speech_prob" : 0.13586361706256866
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1259268,
+    "likes" : 28891,
+    "comments" : 4872
   }
 }

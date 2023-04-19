@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Joe Rogan Trashed Hila On His Podcast - H3 After Dark # 37",
   "description" : "<p>On this episode of H3 After Dark Ethan Hila and the gang are LIVE from their brand new studio! Together they discuss Joe Brogan hating on Hila, our efforts to restore the king of wikifeet, Zach being snubbed by the mayo industrial complex, Kendall Jenner being awful at everything, and whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SaC97huq9Ss/default.jpg",
   "tags" : [
     {
@@ -42755,5 +42756,10 @@
         "no_speech_prob" : 0.6479616761207581
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1797174,
+    "likes" : 43646,
+    "comments" : 7941
   }
 }

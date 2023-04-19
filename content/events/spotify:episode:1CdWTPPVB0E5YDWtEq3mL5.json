@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Birds Aren't Real Founder Calls In, Amber Heard vs Johnny Depp, Avatar 2 - H3TV #35",
   "description" : "<p>Today we dig into the wild conspiracy world and have a call with the founder of the &#34;Birds Aren&#39;t Real&#34; movement! We also discuss the latest developments in the Amber/Johnny trial, debate the merits of Avatar as a franchise, discuss the fallout from the Bobby Lee episode, watch Cobra Tate&#39;s &#34;diss&#34; video on Ethan, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wzc8f4B--AU/default.jpg",
   "tags" : [
     {
@@ -30496,5 +30497,10 @@
         "no_speech_prob" : 0.9834200143814087
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1243682,
+    "likes" : 25095,
+    "comments" : 2802
   }
 }

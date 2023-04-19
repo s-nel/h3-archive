@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "How To Own Your MAGA Family This Christmas - Leftovers #35",
   "description" : "<p>Today we are welcomed by Ethan&#39;s alter-ego Nathaniel Klansman, who will debate Hasan in a series of topics you may encounter at this year&#39;s holiday gatherings with your right-wing family! We walk you through potential talking points to potentially help navigate the treacherous waters of Christmas dinner. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-ab1eSlYDuM/default.jpg",
   "tags" : [
   ],
@@ -35971,5 +35972,10 @@
         "no_speech_prob" : 0.9768220782279968
       }
     ]
+  },
+  "metrics" : {
+    "views" : 903095,
+    "likes" : 19274,
+    "comments" : 1444
   }
 }

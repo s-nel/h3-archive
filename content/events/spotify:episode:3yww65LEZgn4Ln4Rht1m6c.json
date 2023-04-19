@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Frenemies Is Back & Short Lived - Frenemies #40",
   "description" : "<p>We&#39;re back..............</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/t29lvnxG0L4/default.jpg",
   "tags" : [
   ],
@@ -24491,5 +24492,10 @@
         "no_speech_prob" : 0.9088686108589172
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1967236,
+    "likes" : 80509,
+    "comments" : 13140
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Nikocado Avocado Goes After Hila",
   "description" : "nik is gonna be our on podcast in two weeks hope yall can join us",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fiZ5dS6Qn6w/default.jpg",
   "tags" : [
     {
@@ -2712,5 +2713,10 @@
         "no_speech_prob" : 0.016856204718351364
       }
     ]
+  },
+  "metrics" : {
+    "views" : 446574,
+    "likes" : 21676,
+    "comments" : 2595
   }
 }

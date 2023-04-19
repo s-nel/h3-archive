@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#98 - Jacksfilms & Erik of Comment Etiquette",
   "description" : "<p>On this episode of The H3 Podcast... the boiz are back in tooooooooown. Ethan and Hila are joined in studio once again with Jacksfilms and Erik of Internet Comment Etiquette to discuss furrys, Christmas music, Mark Wahlberg&#39;s Calvin Klein&#39;s, YouTube Rewind, porn preferences, and so much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0oLt5qfxtxQ/default.jpg",
   "tags" : [
   ],
@@ -65777,5 +65778,10 @@
         "no_speech_prob" : 0.0672222301363945
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2313067,
+    "likes" : 25315,
+    "comments" : 2858
   }
 }

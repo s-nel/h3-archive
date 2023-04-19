@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Left Can't Meme? - Leftovers #13",
   "description" : "<p>Today we talk about Keemstar&#39;s SCORCHING takedown of Hasan, the wild and unparalleled genius show called &#34;The Left Can&#39;t Meme&#34;, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TIUUr78MS4I/default.jpg",
   "tags" : [
     {
@@ -33515,5 +33516,10 @@
         "no_speech_prob" : 0.6358777284622192
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1001026,
+    "likes" : 25761,
+    "comments" : 4163
   }
 }

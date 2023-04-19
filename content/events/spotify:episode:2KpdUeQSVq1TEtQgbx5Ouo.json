@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Fresh & Fit Cringe, M&M Controversy, Metaverse Fail - H3TV #22",
   "description" : "<p>Today we talk about the hot and steamy controversy surrounding the green sultry M&amp;M, the absurd hosts of the controversial Fresh &amp; Fit Podcast, the bold new world contained within Zucc&#39;s Metaverse, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Rni5vczZCjQ/default.jpg",
   "tags" : [
     {
@@ -58838,5 +58839,10 @@
         "no_speech_prob" : 0.9891468286514282
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2160285,
+    "likes" : 34289,
+    "comments" : 5199
   }
 }

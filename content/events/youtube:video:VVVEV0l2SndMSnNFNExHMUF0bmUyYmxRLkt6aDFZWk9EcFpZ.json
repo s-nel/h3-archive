@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "thank you youtube",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Kzh1YZODpZY/default.jpg",
   "tags" : [
     {
@@ -571,5 +572,10 @@
         "no_speech_prob" : 0.7677567601203918
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1751070,
+    "likes" : 116885,
+    "comments" : 6341
   }
 }

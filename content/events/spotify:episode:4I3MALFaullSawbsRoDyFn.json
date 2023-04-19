@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#42 - Philip DeFranco",
   "description" : "<p>Philip DeFranco joins us to discuss EVERYTHING!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ex_sBZXU6iU/default.jpg",
   "tags" : [
   ],
@@ -28259,5 +28260,10 @@
         "no_speech_prob" : 0.004637498874217272
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2453442,
+    "likes" : 42474,
+    "comments" : 5099
   }
 }

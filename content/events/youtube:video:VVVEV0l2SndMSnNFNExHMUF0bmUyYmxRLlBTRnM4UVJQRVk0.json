@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This 31 Year Old Slam Dunks On a 91 Year Old Grandma",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PSFs8QRPEY4/default.jpg",
   "tags" : [
     {
@@ -1242,5 +1243,10 @@
         "no_speech_prob" : 0.06517163664102554
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6359319,
+    "likes" : 244945,
+    "comments" : 24811
   }
 }

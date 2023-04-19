@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "RiceGum Digs A Hole And Jumps In It",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BuEgzFAM6Es/default.jpg",
   "tags" : [
     {
@@ -1583,5 +1584,10 @@
         "no_speech_prob" : 0.7026985883712769
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8656216,
+    "likes" : 539729,
+    "comments" : 41768
   }
 }

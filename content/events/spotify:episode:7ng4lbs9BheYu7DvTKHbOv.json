@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Travis Scott & Astroworld - H3TV #15",
   "description" : "<p>Today we dig into the Astroworld tragedy and the updates surrounding it.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IUzPQS-S9jg/default.jpg",
   "tags" : [
     {
@@ -44244,5 +44245,10 @@
         "no_speech_prob" : 0.9452966451644897
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1753950,
+    "likes" : 40977,
+    "comments" : 5380
   }
 }

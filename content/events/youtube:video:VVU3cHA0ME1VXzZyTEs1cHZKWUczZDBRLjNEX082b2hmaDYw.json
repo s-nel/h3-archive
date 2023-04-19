@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Day h3h3productions Changed Forever",
   "description" : "Rip to a dear old friend, never forgotten",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3D_O6ohfh60/default.jpg",
   "tags" : [
     {
@@ -2859,5 +2860,10 @@
         "no_speech_prob" : 0.013014168478548527
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1068683,
+    "likes" : 29209,
+    "comments" : 2225
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Punk Rocker",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TYX4L0ovJks/default.jpg",
   "tags" : [
     {
@@ -417,5 +418,10 @@
         "no_speech_prob" : 0.006151289213448763
       }
     ]
+  },
+  "metrics" : {
+    "views" : 111300,
+    "likes" : 4211,
+    "comments" : 266
   }
 }

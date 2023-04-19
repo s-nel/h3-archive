@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : ".exe teaser trailer #2 [Monetized]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Tjd4p8hPlJc/default.jpg",
   "tags" : [
     {
@@ -120,5 +121,10 @@
         "no_speech_prob" : 0.036041244864463806
       }
     ]
+  },
+  "metrics" : {
+    "views" : 68188,
+    "likes" : 2126,
+    "comments" : 110
   }
 }

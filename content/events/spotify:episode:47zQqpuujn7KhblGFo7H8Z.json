@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We DESTROY Ben Shapiro With FACTS & LOGIC - Leftovers #4",
   "description" : "<p>On this episode of Leftovers we&#39;re in Ben&#39;s walls- and he isn&#39;t happy about it. Also Ethan and Hasan continue their back and forth over what a socialist future might look like, and take a look at FlagTok- and examine the Civil War the hogs seem to be itching for.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EgwOxM_2CW8/default.jpg",
   "tags" : [
   ],
@@ -15020,5 +15021,10 @@
         "no_speech_prob" : 0.006746118422597647
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1585156,
+    "likes" : 43467,
+    "comments" : 6821
   }
 }

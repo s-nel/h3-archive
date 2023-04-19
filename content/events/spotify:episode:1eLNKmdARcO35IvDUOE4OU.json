@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#56 - Post Malone Live From The Improv",
   "description" : "<p>Rap god and friend of the show Post Malone joins us for our first episode done live in front of an audience! We sit down at the legendary Hollywood Improv for some old fashion goofs gaffs and even a few splaffs.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CU8q0rX0Y-Y/default.jpg",
   "tags" : [
     {
@@ -12188,5 +12189,10 @@
         "no_speech_prob" : 0.004035091958940029
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1765423,
+    "likes" : 55347,
+    "comments" : 4735
   }
 }

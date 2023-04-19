@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "It's Time to Stop Lance Stewart",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kNVf6_BjzjM/default.jpg",
   "tags" : [
     {
@@ -2441,5 +2442,10 @@
         "no_speech_prob" : 0.9908041954040527
       }
     ]
+  },
+  "metrics" : {
+    "views" : 11629256,
+    "likes" : 426930,
+    "comments" : 25005
   }
 }

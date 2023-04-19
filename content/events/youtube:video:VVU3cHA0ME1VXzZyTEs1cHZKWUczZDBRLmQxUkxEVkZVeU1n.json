@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Stealing Bell Peppers in Santa Cruz",
   "description" : "Thanks for watching our Santa Cruz vlog 🤗\n\nMerch... http://h3h3shop.com",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/d1RLDVFUyMg/default.jpg",
   "tags" : [
     {
@@ -659,5 +660,10 @@
         "no_speech_prob" : 0.025617429986596107
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1338202,
+    "likes" : 74814,
+    "comments" : 7041
   }
 }

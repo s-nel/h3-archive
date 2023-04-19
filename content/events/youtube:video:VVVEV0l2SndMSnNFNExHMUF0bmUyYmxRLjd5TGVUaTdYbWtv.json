@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Hila Gets ROASTED",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7yLeTi7Xmko/default.jpg",
   "tags" : [
     {
@@ -1957,5 +1958,10 @@
         "no_speech_prob" : 0.04741564765572548
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5972083,
+    "likes" : 204787,
+    "comments" : 11977
   }
 }

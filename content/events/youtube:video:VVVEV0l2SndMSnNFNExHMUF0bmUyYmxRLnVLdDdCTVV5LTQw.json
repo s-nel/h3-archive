@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This Baby Syringe Channel is DISTURBING",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uKt7BMUy-40/default.jpg",
   "tags" : [
     {
@@ -1011,5 +1012,10 @@
         "no_speech_prob" : 0.5786958336830139
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4647730,
+    "likes" : 161579,
+    "comments" : 13708
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Cracker Extravaganza - Leftovers LIVE #11",
   "description" : "<p>One of our cohosts made an oopsie and said the word cracker....So today we debrief and dig into all things of the baked snack variety</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Uj2UXQ0jOy4/default.jpg",
   "tags" : [
   ],
@@ -52801,5 +52802,10 @@
         "no_speech_prob" : 0.8966463208198547
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1236229,
+    "likes" : 37428,
+    "comments" : 5168
   }
 }

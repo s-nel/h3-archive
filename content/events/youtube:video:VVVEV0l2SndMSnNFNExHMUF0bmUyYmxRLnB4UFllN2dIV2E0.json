@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Got Roasted",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pxPYe7gHWa4/default.jpg",
   "tags" : [
     {
@@ -846,5 +847,10 @@
         "no_speech_prob" : 0.2788332998752594
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4238770,
+    "likes" : 158185,
+    "comments" : 10009
   }
 }

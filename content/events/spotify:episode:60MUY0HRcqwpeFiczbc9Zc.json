@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Huge Announcement About The Future Of H3 - Off The Rails #34",
   "description" : "<p>We&#39;ve got HUGE news about the future of the H3 Podcast that you will NOT want to miss. Earth shattering, life changing, paradigm shifting- whatever you want to call it this is BIG!!!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MlmBHFH_CEg/default.jpg",
   "tags" : [
     {
@@ -21151,5 +21152,10 @@
         "no_speech_prob" : 0.36285316944122314
       }
     ]
+  },
+  "metrics" : {
+    "views" : 975131,
+    "likes" : 29100,
+    "comments" : 2325
   }
 }

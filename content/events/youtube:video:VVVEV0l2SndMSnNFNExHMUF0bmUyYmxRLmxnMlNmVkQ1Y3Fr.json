@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Return of Patrice Wilson -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lg2SfVD5cqk/default.jpg",
   "tags" : [
     {
@@ -1059,5 +1060,10 @@
         "no_speech_prob" : 0.5907482504844666
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4261215,
+    "likes" : 106911,
+    "comments" : 6950
   }
 }

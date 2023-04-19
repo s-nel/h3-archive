@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Ethan & Trisha Do An Athletics Competition - Frenemies #22",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha discuss her Adam Sandler obsession, Ethan&#39;s diet, Bryce Hall being douche of the month- and Ethan &amp; Trisha do a fitness challenge with a surprise twist!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gAYjmSVKWd8/default.jpg",
   "tags" : [
   ],
@@ -44672,5 +44673,10 @@
         "no_speech_prob" : 0.9646542072296143
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4194161,
+    "likes" : 135196,
+    "comments" : 24690
   }
 }

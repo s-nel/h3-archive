@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Content Nuke - Keemstar",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/w3gXcIifc3o/default.jpg",
   "tags" : [
     {
@@ -6390,5 +6391,10 @@
         "no_speech_prob" : 0.08200686424970627
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8201239,
+    "likes" : 664708,
+    "comments" : 78372
   }
 }

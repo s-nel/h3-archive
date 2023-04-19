@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Real Life 34 Year Old Virgin",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WXEdJX78L0I/default.jpg",
   "tags" : [
     {
@@ -3259,5 +3260,10 @@
         "no_speech_prob" : 0.9710260033607483
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10076431,
+    "likes" : 329910,
+    "comments" : 36347
   }
 }

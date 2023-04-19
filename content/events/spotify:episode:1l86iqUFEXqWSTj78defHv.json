@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Couples Therapy With Dr. Drew - Frenemies #7",
   "description" : "<p>On this episode of Frenemies we are joined by the legendary Dr. Drew to have him help get to the bottom of why Ethan &amp; Trisha keep fighting. This one gets pretty heavy.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JnLGwc4wivw/default.jpg",
   "tags" : [
   ],
@@ -21429,5 +21430,10 @@
         "no_speech_prob" : 0.06169664487242699
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3361727,
+    "likes" : 122260,
+    "comments" : 20787
   }
 }

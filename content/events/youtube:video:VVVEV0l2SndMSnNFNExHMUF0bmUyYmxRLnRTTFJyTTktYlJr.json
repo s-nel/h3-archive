@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "h3h3 productions Trailer ft. Big Man Tyrone",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tSLRrM9-bRk/default.jpg",
   "tags" : [
     {
@@ -76,5 +77,10 @@
         "no_speech_prob" : 0.10939635336399078
       }
     ]
+  },
+  "metrics" : {
+    "views" : 785397,
+    "likes" : 36037,
+    "comments" : 739
   }
 }

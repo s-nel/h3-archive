@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Urgent Message To Adin Ross",
   "description" : "Adin Ross was recently banned on twitch and I actually know the real story, it’s very urgent that he sees this",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/84ftOZhBjrk/default.jpg",
   "tags" : [
     {
@@ -611,5 +612,10 @@
         "no_speech_prob" : 0.0068918620236217976
       }
     ]
+  },
+  "metrics" : {
+    "views" : 262688,
+    "likes" : 16696,
+    "comments" : 2603
   }
 }

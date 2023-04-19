@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Glad We Tried",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0Tbn_pRG07E/default.jpg",
   "tags" : [
     {
@@ -1902,5 +1903,10 @@
         "no_speech_prob" : 0.9826441407203674
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4003262,
+    "likes" : 295992,
+    "comments" : 33526
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#206 - Ellen DeGeneres, Cardi B, Ben Shapiro, Smash Mouth",
   "description" : "<p>On this episode of the H3 Podcast the gang discuss a whole lot of spice! Together we cover Ellen being a dick, Cardi B&#39;s WAP, lil Benny Shaprio&#39;s hot take on rap music, Smash Mouth killing their fans with corona, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IgTdy9DElWU/default.jpg",
   "tags" : [
   ],
@@ -14466,5 +14467,10 @@
         "no_speech_prob" : 0.08910252898931503
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1075422,
+    "likes" : 23374,
+    "comments" : 7269
   }
 }

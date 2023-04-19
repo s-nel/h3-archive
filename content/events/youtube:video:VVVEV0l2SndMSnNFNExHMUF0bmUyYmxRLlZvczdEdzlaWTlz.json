@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "lime exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Vos7Dw9ZY9s/default.jpg",
   "tags" : [
     {
@@ -50,5 +51,10 @@
         "no_speech_prob" : 0.010158944875001907
       }
     ]
+  },
+  "metrics" : {
+    "views" : 881449,
+    "likes" : 12164,
+    "comments" : 281
   }
 }

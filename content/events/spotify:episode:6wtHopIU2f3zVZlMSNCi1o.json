@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Worst Pain Of My Life - After Dark #86",
   "description" : "<p>Today Ethan shares with us why he is in some of the worst pain of his life. We also discuss the Lizzo flute controversy, a recap of the Liver King situation, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xoP9afQOW3M/default.jpg",
   "tags" : [
     {
@@ -56312,5 +56313,10 @@
         "no_speech_prob" : 0.6782881617546082
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1161926,
+    "likes" : 25336,
+    "comments" : 3294
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Infowars Attacks Ethan - H3 Podcast # 243",
   "description" : "<p>On this episode of the H3 Podcast Ethan assembles the foot soldiers once again to take on the haters- this time the goons at Infowars! Also Usher is issuing his own currency and tipping people with it, and Dan &amp; Zach have an epic Rock Trivia showdown!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0Os_vIpQXg4/default.jpg",
   "tags" : [
   ],
@@ -10862,5 +10863,10 @@
         "no_speech_prob" : 0.002115643583238125
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1069904,
+    "likes" : 27752,
+    "comments" : 7037
   }
 }

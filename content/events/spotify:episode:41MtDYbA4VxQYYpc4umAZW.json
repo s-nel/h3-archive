@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Ethan Was In The Hospital (Not Clickbait This Time) - H3TV #30",
   "description" : "<p>On this episode of H3TV Ethan talks about his health scare which put him in the hospital last Friday, the wars on r/place, AB&#39;s boxing match, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ulmY5h0M4co/default.jpg",
   "tags" : [
     {
@@ -42924,5 +42925,10 @@
         "no_speech_prob" : 0.004769598133862019
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1194823,
+    "likes" : 29302,
+    "comments" : 3208
   }
 }

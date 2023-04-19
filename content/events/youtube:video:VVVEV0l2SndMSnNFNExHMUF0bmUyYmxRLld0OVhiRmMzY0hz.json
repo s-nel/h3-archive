@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Save Marina Joyce Parody",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Wt9XbFc3cHs/default.jpg",
   "tags" : [
     {
@@ -296,5 +297,10 @@
         "no_speech_prob" : 0.5473503470420837
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2159906,
+    "likes" : 130313,
+    "comments" : 9612
   }
 }

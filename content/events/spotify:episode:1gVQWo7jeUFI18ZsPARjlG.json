@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#47 - MKBHD (Marques Brownlee)",
   "description" : "<p>Marques Brownlee aka MKBHD joins us on The H3 Podcast to discuss tech, Tesla, and total annihilation by our AI overlords. Marques is YouTube&#39;s leading tech reviewer and journalist with nearly 6 million subscribers. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fj-KlZIyZ_k/default.jpg",
   "tags" : [
   ],
@@ -21791,5 +21792,10 @@
         "no_speech_prob" : 0.989180326461792
       }
     ]
+  },
+  "metrics" : {
+    "views" : 930874,
+    "likes" : 29352,
+    "comments" : 2856
   }
 }

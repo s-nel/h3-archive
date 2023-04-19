@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "TWO MILLION SUBSCRIBERS SPECIAL!!!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hmNs9_kyHB0/default.jpg",
   "tags" : [
     {
@@ -3651,5 +3652,10 @@
         "no_speech_prob" : 0.9781517386436462
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2576346,
+    "likes" : 145875,
+    "comments" : 11810
   }
 }

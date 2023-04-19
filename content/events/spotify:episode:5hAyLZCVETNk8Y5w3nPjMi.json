@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Great Podcast Debate, Britney Spears Wedding Disaster, Kevin Spacey Arrested - H3TV #39",
   "description" : "<p>Today we go over the many different types of water with a professional water sommelier! We also debate a highly contentious TikTok video where the crew is split on the matter, along with much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wJl5O7XCkOc/default.jpg",
   "tags" : [
     {
@@ -55406,5 +55407,10 @@
         "no_speech_prob" : 0.02578883059322834
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1070395,
+    "likes" : 27903,
+    "comments" : 3147
   }
 }

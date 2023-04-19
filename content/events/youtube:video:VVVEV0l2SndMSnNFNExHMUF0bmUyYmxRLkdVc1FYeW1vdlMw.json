@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Worst Movie Ever Made (Part 1) -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GUsQXymovS0/default.jpg",
   "tags" : [
     {
@@ -3149,5 +3150,10 @@
         "no_speech_prob" : 0.2363051325082779
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3760586,
+    "likes" : 66391,
+    "comments" : 3447
   }
 }

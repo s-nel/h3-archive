@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik Blames Jeff Wittek In New Court Filing - H3TV #53",
   "description" : "<p>Today we discuss David Dobrik responding to Jeff Wittek&#39;s lawsuit, the great Howie Mandel kidnapping conspiracy of 2020, new developments in the Adam Levine drama, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FF7NpY8cuWA/default.jpg",
   "tags" : [
     {
@@ -51795,5 +51796,10 @@
         "no_speech_prob" : 0.9077199101448059
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1026241,
+    "likes" : 24055,
+    "comments" : 2477
   }
 }

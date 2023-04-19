@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Roe vs Wade Ended, David Dobrik Hires Johnny Depp's Lawyer - After Dark #75",
   "description" : "<p>Today we discuss the utterly tragic news regarding Roe vs Wade. We also find some energy after such a heavy topic to celebrate Ethan&#39;s birthday with a special surprise, a potential defamation lawsuit from David Dobrik incoming, the Bored Apes creator contacts us to clear their name, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZUU3_vd1Oos/default.jpg",
   "tags" : [
     {
@@ -42748,5 +42749,10 @@
         "no_speech_prob" : 0.9680037498474121
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1962290,
+    "likes" : 32253,
+    "comments" : 4074
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#14 - SoFlo Antonio",
   "description" : "SoFlo Antonio joins us to talk about EVERYTHING!<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7PZSOFsjJRo/default.jpg",
   "tags" : [
   ],
@@ -13742,5 +13743,10 @@
         "no_speech_prob" : 0.004599743522703648
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1746707,
+    "likes" : 50500,
+    "comments" : 9446
   }
 }

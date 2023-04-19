@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Sea Monsters of YouTube - H3H3",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yRXWYrgoHg8/default.jpg",
   "tags" : [
     {
@@ -1620,5 +1621,10 @@
         "no_speech_prob" : 0.5689980983734131
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6531417,
+    "likes" : 289138,
+    "comments" : 60809
   }
 }

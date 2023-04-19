@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "In Love With A Car",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gim3d1qlZog/default.jpg",
   "tags" : [
     {
@@ -4080,5 +4081,10 @@
         "no_speech_prob" : 0.0013838742161169648
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5510760,
+    "likes" : 213380,
+    "comments" : 21954
   }
 }

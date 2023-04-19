@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#3 - Vsauce (Michael Stevens)",
   "description" : "<p>Michael is one of the most popular science entertainers in the world.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xnm7VO8Fsh4/default.jpg",
   "tags" : [
     {
@@ -10446,5 +10447,10 @@
         "no_speech_prob" : 0.09950519353151321
       }
     ]
+  },
+  "metrics" : {
+    "views" : 358967,
+    "likes" : 11876,
+    "comments" : 630
   }
 }

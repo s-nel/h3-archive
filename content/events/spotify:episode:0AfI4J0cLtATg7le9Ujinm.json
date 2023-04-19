@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Our Police Have Failed Us - Leftovers #15",
   "description" : "<p>On this episode of LEFTOVERS Ethan &amp; Hasan unpack the unhinged right wing response to the tragic events in Texas this week, and how the police were less than useless in protecting the innocent victims and their families.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sztFyRQ643o/default.jpg",
   "tags" : [
   ],
@@ -15808,5 +15809,10 @@
         "no_speech_prob" : 0.5250036716461182
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1115673,
+    "likes" : 28714,
+    "comments" : 6075
   }
 }

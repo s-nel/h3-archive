@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Oliver Tree - H3 Podcast #248",
   "description" : "<p>On this episode of the H3 Podcast Oliver Tree comes back for his third appearence and it is an umitigated disaster. Apologies in advance, but this is the worst episode we&#39;ve ever made.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ez_bTUjWG5Y/default.jpg",
   "tags" : [
   ],
@@ -44548,5 +44549,10 @@
         "no_speech_prob" : 0.9885510802268982
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2318314,
+    "likes" : 89854,
+    "comments" : 12431
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Meet DJ Khaled",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DdobS107uxU/default.jpg",
   "tags" : [
     {
@@ -2650,5 +2651,10 @@
         "no_speech_prob" : 9.701046510599554E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6535144,
+    "likes" : 281798,
+    "comments" : 19385
   }
 }

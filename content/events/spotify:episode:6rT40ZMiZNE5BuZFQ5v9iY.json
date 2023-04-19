@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha’s Epic Passover Dinner At Ethan’s - Frenemies # 29",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha discuss her first epic Passover this past weekend, qualifying for the vaccine due to weight, David possibly being a cuck, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/46oesaefwP4/default.jpg",
   "tags" : [
   ],
@@ -16780,5 +16781,10 @@
         "no_speech_prob" : 0.008100276812911034
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5523748,
+    "likes" : 116619,
+    "comments" : 17808
   }
 }

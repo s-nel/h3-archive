@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Hila's Final Episode - H3 After Dark # 44",
   "description" : "<p>There&#39;s No Such Thing As A Coincidence today on After Dark, when the man behind the meme calls in! We also discuss Twitch&#39;s crazy gambling problem, Wendy Williams going rogue, the growing chaos surrounding the Ace Family &amp; of course.....Hila&#39;s final episode?!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/s2FpIS2ywlE/default.jpg",
   "tags" : [
     {
@@ -46639,5 +46640,10 @@
         "no_speech_prob" : 0.9903258681297302
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2205869,
+    "likes" : 54979,
+    "comments" : 8613
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik Lights His Friend On Fire & Ethan Squashes Another Beef - Off The Rails #46",
   "description" : "<p>Today is an odyssey of an episode! We squash TWO beefs, one with Bradley Martyn and one with a surprise call with Jidion. We also discuss Ethan&#39;s biggest hater, try and guess which parent belongs to which crew member in the Families Photo Game, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JEJi68zv1EQ/default.jpg",
   "tags" : [
     {
@@ -34884,5 +34885,10 @@
         "no_speech_prob" : 0.3624906837940216
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1470249,
+    "likes" : 30227,
+    "comments" : 3949
   }
 }

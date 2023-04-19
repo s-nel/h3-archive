@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ryan Kavanaugh Is Starting To Scare Me (After Losing The Lawsuit)",
   "description" : "kavkav is not taking the L well",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LfU9fk6R7Uk/default.jpg",
   "tags" : [
     {
@@ -3713,5 +3714,10 @@
         "no_speech_prob" : 0.0033618309535086155
       }
     ]
+  },
+  "metrics" : {
+    "views" : 382502,
+    "likes" : 16950,
+    "comments" : 2013
   }
 }

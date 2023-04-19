@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "VitalyzdTv -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DWxDidlOGyg/default.jpg",
   "tags" : [
     {
@@ -1363,5 +1364,10 @@
         "no_speech_prob" : 0.02602216973900795
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5030473,
+    "likes" : 116138,
+    "comments" : 3311
   }
 }

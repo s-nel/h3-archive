@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We're at an Important Crossroad in our Lives",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Tn46t8NksX0/default.jpg",
   "tags" : [
     {
@@ -1297,5 +1298,10 @@
         "no_speech_prob" : 0.9275690317153931
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4027142,
+    "likes" : 254938,
+    "comments" : 26026
   }
 }

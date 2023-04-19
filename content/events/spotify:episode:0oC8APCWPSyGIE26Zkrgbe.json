@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Charles Returns & Baby Update - H3 After Dark # 43",
   "description" : "<p>It&#39;s Friday baby, and we&#39;ve got a LOT to talk about. We dig into the James Charles return, Tim Pool having a temper tantrum, a baby update, Zach&#39;s fear of a certain 3-word band, Triller&#39;s 1 star-quality app and much more! Let&#39;s just jump right into it. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lw8E6x_tiQE/default.jpg",
   "tags" : [
     {
@@ -47460,5 +47461,10 @@
         "no_speech_prob" : 0.785144567489624
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2073135,
+    "likes" : 54282,
+    "comments" : 6234
   }
 }

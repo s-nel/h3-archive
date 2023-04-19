@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Reading Mean Comments with my Parents",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ti1ar3HAyic/default.jpg",
   "tags" : [
     {
@@ -3717,5 +3718,10 @@
         "no_speech_prob" : 0.020295467227697372
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4625457,
+    "likes" : 201193,
+    "comments" : 17071
   }
 }

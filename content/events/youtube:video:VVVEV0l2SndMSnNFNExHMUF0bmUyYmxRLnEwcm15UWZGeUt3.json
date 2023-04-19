@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Meme Themed Disser Slam Dunks Ex, CNN reports -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/q0rmyQfFyKw/default.jpg",
   "tags" : [
     {
@@ -2166,5 +2167,10 @@
         "no_speech_prob" : 0.09005242586135864
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2907522,
+    "likes" : 56087,
+    "comments" : 2962
   }
 }

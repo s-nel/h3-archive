@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "To Catch a Cheater, A New LOW on YouTube",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/u0FE_iXC-OA/default.jpg",
   "tags" : [
     {
@@ -4949,5 +4950,10 @@
         "no_speech_prob" : 0.1495257169008255
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9913707,
+    "likes" : 275571,
+    "comments" : 20151
   }
 }

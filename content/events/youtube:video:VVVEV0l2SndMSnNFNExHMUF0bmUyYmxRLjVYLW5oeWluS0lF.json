@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "What is h3h3productions?",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5X-nhyinKIE/default.jpg",
   "tags" : [
     {
@@ -98,5 +99,10 @@
         "no_speech_prob" : 0.08693815767765045
       }
     ]
+  },
+  "metrics" : {
+    "views" : 333482,
+    "likes" : 11774,
+    "comments" : 419
   }
 }

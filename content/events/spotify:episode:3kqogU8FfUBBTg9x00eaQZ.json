@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#81 - Logan Paul vs KSI",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila cover the top of the week including the long awaited Logan Paul vs KSI fight (and Logan&#39;s forever overshadowed baby brother Jake Paul&#39;s fight with Deji), Alex Jone&#39;s newly revealed love of t-porn, SavePapaJohns.com, Prank Invasion&#39;s challenge, sex doll brothels, John McCain, forest fires, pot sentencing, and so much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-k4NQJx2b24/default.jpg",
   "tags" : [
   ],
@@ -28021,5 +28022,10 @@
         "no_speech_prob" : 0.8362462520599365
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1327023,
+    "likes" : 29540,
+    "comments" : 3253
   }
 }

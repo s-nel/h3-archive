@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "WEARING 200 SHIRTS IN THE GROCERY STORE",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PRl1zMUKTxQ/default.jpg",
   "tags" : [
     {
@@ -1807,5 +1808,10 @@
         "no_speech_prob" : 0.9887479543685913
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6577859,
+    "likes" : 347037,
+    "comments" : 18776
   }
 }

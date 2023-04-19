@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This Influencer Stole $500,000 From His Most Loyal Fans",
   "description" : "Ice Poseidon totally busted\nGo watch Coffeezilla.. https://www.youtube.com/watch?v=A7MaoD4tJuc",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OahC8VSIraM/default.jpg",
   "tags" : [
     {
@@ -2591,5 +2592,10 @@
         "no_speech_prob" : 0.542018711566925
       }
     ]
+  },
+  "metrics" : {
+    "views" : 393446,
+    "likes" : 19846,
+    "comments" : 1508
   }
 }

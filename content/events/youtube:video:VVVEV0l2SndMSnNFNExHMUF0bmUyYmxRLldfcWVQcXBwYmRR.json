@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Feeding the Homeless -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/W_qePqppbdQ/default.jpg",
   "tags" : [
     {
@@ -3094,5 +3095,10 @@
         "no_speech_prob" : 0.035600315779447556
       }
     ]
+  },
+  "metrics" : {
+    "views" : 14552144,
+    "likes" : 402134,
+    "comments" : 18005
   }
 }

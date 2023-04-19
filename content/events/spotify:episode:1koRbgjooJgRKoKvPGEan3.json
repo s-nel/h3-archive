@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#126 - Chris D'Elia",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tWBLVHqEHxM/default.jpg",
   "tags" : [
   ],
@@ -16372,5 +16373,10 @@
         "no_speech_prob" : 0.37830525636672974
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1354070,
+    "likes" : 29594,
+    "comments" : 3562
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Is Trisha Smarter Than A 5th Grader? - Frenemies #4",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha play a little game of Trivia with some real $$$ on the line... and things don&#39;t go exactly as expected for Ethan...</p> <ul><li><a href=\"https://youtu.be/6fDiRL6xADs?t&#61;122\" rel=\"nofollow\">James Charles Lie Detector Video</a></li><li><a href=\"https://imgur.com/a/OzX3HpS\" rel=\"nofollow\">Trisha/Moses Photoshoot (Censored)</a></li></ul> <p> </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/B6hF6w_sMlw/default.jpg",
   "tags" : [
   ],
@@ -10073,5 +10074,10 @@
         "no_speech_prob" : 0.34411683678627014
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5309126,
+    "likes" : 155613,
+    "comments" : 27221
   }
 }

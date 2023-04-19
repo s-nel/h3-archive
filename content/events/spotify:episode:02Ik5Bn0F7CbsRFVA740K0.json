@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#32 - Moe & Ethan Bradberry",
   "description" : "<p>It&#39;s finally happening, the bradberry boys are in the house. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GUdGWhfpuoY/default.jpg",
   "tags" : [
   ],
@@ -12375,5 +12376,10 @@
         "no_speech_prob" : 0.02439093217253685
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2290307,
+    "likes" : 70691,
+    "comments" : 8859
   }
 }

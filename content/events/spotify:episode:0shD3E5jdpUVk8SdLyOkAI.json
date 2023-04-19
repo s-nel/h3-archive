@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Conservative Tears & Midterm Elections Results - Leftovers #31",
   "description" : "<p>Today we recap the election! We also talk about Ethan going thru the woods trying to find dirty magazines, Steven Crowder going mask off yet again, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pOO1bTkPIc8/default.jpg",
   "tags" : [
   ],
@@ -16182,5 +16183,10 @@
         "no_speech_prob" : 0.42298245429992676
       }
     ]
+  },
+  "metrics" : {
+    "views" : 908131,
+    "likes" : 19085,
+    "comments" : 1467
   }
 }

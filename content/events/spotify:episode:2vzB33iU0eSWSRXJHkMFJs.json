@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#67 - Drake vs Pusha T & Skippy vs Kyle",
   "description" : "<p>On this episode of the H3 Podcast we have the clash of not one but TWO sets of titans! Hila is back from her trip to Israel and just in time for Ian the Intern to give a detailed breakdown of the recent Pusha T/Drake beef. Additionally, Ethan moderates a meeting of memes as Kyle the Cougar Champ tries unsuccessfully to coach Skippy the Virgin. It&#39;s a genuine hoot, holler, a romp, AND a riot.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Vx85Bx5tpVw/default.jpg",
   "tags" : [
   ],
@@ -47326,5 +47327,10 @@
         "no_speech_prob" : 0.986823320388794
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1308007,
+    "likes" : 24578,
+    "comments" : 3350
   }
 }

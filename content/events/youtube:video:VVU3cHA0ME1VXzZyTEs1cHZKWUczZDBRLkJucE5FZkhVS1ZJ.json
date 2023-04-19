@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Our new studio!",
   "description" : "Thank you so much everyone on Patreon. We thought it would be more fun to make a video newsletter than to write one, let us know what you think.\n\nPatreon →  https://www.patreon.com/h3h3productions",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BnpNEfHUKVI/default.jpg",
   "tags" : [
     {
@@ -2353,5 +2354,10 @@
         "no_speech_prob" : 0.005172267090529203
       }
     ]
+  },
+  "metrics" : {
+    "views" : 259998,
+    "likes" : 7522,
+    "comments" : 353
   }
 }

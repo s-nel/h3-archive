@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Insider Article Could End David Dobrik's Career - H3 Podcast # 240",
   "description" : "<p>On this episode of the H3 Podcast we discuss the extremely serious allegations that just dropped via Insider.com about the vlog squad. Warning that this discussion gets pretty dark... but it&#39;s an important story that deserves to be heard.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jrDi9gDSVu4/default.jpg",
   "tags" : [
   ],
@@ -22815,5 +22816,10 @@
         "no_speech_prob" : 0.7615705728530884
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1970428,
+    "likes" : 61443,
+    "comments" : 8776
   }
 }

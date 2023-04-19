@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Hila's First Thanksgiving Dinner",
   "description" : "I went all out to treat Hila to her first Thanksgiving dinner ever. \n\nWatch the Ethan and Hila Playlist --► https://goo.gl/6WKvpS\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWhen we post our new (h3h3production, main channel) videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AlqyKZpZHac/default.jpg",
   "tags" : [
     {
@@ -6456,5 +6457,10 @@
         "no_speech_prob" : 0.1752769947052002
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2270123,
+    "likes" : 51862,
+    "comments" : 4544
   }
 }

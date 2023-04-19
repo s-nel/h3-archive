@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "ainsley harriott exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WXQCo9fLYWI/default.jpg",
   "tags" : [
     {
@@ -142,5 +143,10 @@
         "no_speech_prob" : 0.06062418967485428
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6885479,
+    "likes" : 143886,
+    "comments" : 5541
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Shane Dawson Did WHAT With His Cat?!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AU4fXUVd3o0/default.jpg",
   "tags" : [
     {
@@ -2177,5 +2178,10 @@
         "no_speech_prob" : 0.2848716676235199
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4064734,
+    "likes" : 205186,
+    "comments" : 10397
   }
 }

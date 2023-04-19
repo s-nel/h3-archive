@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Anthony Fantano - H3 Podcast #263",
   "description" : "<p>On this episode of the H3 Podcast we are joined by music critic Anthony Fantano of The Needle Drop! Together we discuss his beef with drake, grunge, R Kelly&#39;s passport song, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2PqE7QhzyXM/default.jpg",
   "tags" : [
   ],
@@ -41150,5 +41151,10 @@
         "no_speech_prob" : 0.43438953161239624
       }
     ]
+  },
+  "metrics" : {
+    "views" : 790801,
+    "likes" : 21806,
+    "comments" : 1654
   }
 }

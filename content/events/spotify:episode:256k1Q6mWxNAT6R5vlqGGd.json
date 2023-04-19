@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#88 - Is La Croix Poison? BetterHelp & Kanye Meets Trump",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila address the BetterHelp controversy, drill into if La Croix is poison or not, examine Kanye&#39;s bizarre trip to the white house, talk about fat people riding donkeys, and smelling your own farts.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/a2DrjY_YdZI/default.jpg",
   "tags" : [
   ],
@@ -16079,5 +16080,10 @@
         "no_speech_prob" : 0.004511426668614149
       }
     ]
+  },
+  "metrics" : {
+    "views" : 775974,
+    "likes" : 18703,
+    "comments" : 4239
   }
 }

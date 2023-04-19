@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Andrew Tate Is Suing Me (Ft. Pokimane) - After Dark #82",
   "description" : "<p>Today we&#39;re joined in-studio by the wonderful Pokimane! We talk Nelk Boys, Love being Pokimane&#39;s biggest fan, &amp; of course...Andrew Tate sending Ethan a cease-and-desist letter. Jump into it!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Mx9j5GHn21o/default.jpg",
   "tags" : [
     {
@@ -24177,5 +24178,10 @@
         "no_speech_prob" : 0.13001738488674164
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1396695,
+    "likes" : 35718,
+    "comments" : 4661
   }
 }

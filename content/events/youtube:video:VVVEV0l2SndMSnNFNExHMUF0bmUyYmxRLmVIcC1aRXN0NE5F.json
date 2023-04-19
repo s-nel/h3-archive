@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jontron and Ethan share a Papa John Pizza",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eHp-ZEst4NE/default.jpg",
   "tags" : [
     {
@@ -2298,5 +2299,10 @@
         "no_speech_prob" : 0.7593069672584534
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4758852,
+    "likes" : 108682,
+    "comments" : 6458
   }
 }

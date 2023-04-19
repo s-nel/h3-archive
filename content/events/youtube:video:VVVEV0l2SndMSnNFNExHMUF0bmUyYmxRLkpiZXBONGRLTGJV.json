@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "warm it up exe That's a 10! [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JbepN4dKLbU/default.jpg",
   "tags" : [
     {
@@ -127,5 +128,10 @@
         "no_speech_prob" : 0.06582647562026978
       }
     ]
+  },
+  "metrics" : {
+    "views" : 14271422,
+    "likes" : 253644,
+    "comments" : 4616
   }
 }

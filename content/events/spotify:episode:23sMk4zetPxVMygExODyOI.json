@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Erased David Dobrik Footage Proves Trisha Was Right All Along - Frenemies #21",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha go over some unearthed footage that basically proves Trisha was right about David and Jason all along! They also give their thoughts on Gay Burger, Trisha&#39;s upcoming magazine feature, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-XDwa_Uym1I/default.jpg",
   "tags" : [
   ],
@@ -45424,5 +45425,10 @@
         "no_speech_prob" : 0.3670623004436493
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5387927,
+    "likes" : 122365,
+    "comments" : 22607
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "When SJWs fight cyberbullys no one wins",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cyIftAPf7kM/default.jpg",
   "tags" : [
     {
@@ -1165,5 +1166,10 @@
         "no_speech_prob" : 0.9692574143409729
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4846417,
+    "likes" : 250989,
+    "comments" : 17309
   }
 }

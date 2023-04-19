@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "WE WON OUR LAWSUIT!!!!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Wz13LQiGeBs/default.jpg",
   "tags" : [
     {
@@ -5605,5 +5606,10 @@
         "no_speech_prob" : 0.002633271273225546
       }
     ]
+  },
+  "metrics" : {
+    "views" : 723953,
+    "likes" : 51356,
+    "comments" : 5180
   }
 }

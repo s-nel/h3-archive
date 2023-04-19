@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We didn't start the fire",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Yv_PUus5I5U/default.jpg",
   "tags" : [
     {
@@ -1187,5 +1188,10 @@
         "no_speech_prob" : 0.0213096234947443
       }
     ]
+  },
+  "metrics" : {
+    "views" : 498914,
+    "likes" : 13474,
+    "comments" : 656
   }
 }

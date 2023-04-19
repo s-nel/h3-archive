@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Green Screen Tournament - After Dark #96",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Nc92nXVNDLg/default.jpg",
   "tags" : [
     {
@@ -70574,5 +70575,10 @@
         "no_speech_prob" : 0.9697583913803101
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1041503,
+    "likes" : 23724,
+    "comments" : 1668
   }
 }

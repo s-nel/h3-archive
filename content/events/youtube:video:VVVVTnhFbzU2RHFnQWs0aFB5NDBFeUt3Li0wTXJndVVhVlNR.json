@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Gang Members React To Their Tattoos Being Photoshopped Out",
   "description" : "Really amazing project by Steven Burton and the Skin Deep Project. If you want to watch more videos and longer interviews definitely check them out\nhttps://www.youtube.com/channel/UCpEtLE7wJ9R3DG-iG5xTt2w",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-0MrguUaVSQ/default.jpg",
   "tags" : [
     {
@@ -3449,5 +3450,10 @@
         "no_speech_prob" : 0.0012276474153622985
       }
     ]
+  },
+  "metrics" : {
+    "views" : 248609,
+    "likes" : 14669,
+    "comments" : 1289
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Charles Is Losing It, Smell My Funger Game, MrBeast Protégé Gets Cancelled - Off The Rails #43",
   "description" : "<p>Today we have a Keemstar/FouseyTube beef jerky ceremony, react to James Charles losing his mind, play the hottest new game show Smell My Funger, and react to Mr Beast II. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sJw_z60GrCM/default.jpg",
   "tags" : [
     {
@@ -67283,5 +67284,10 @@
         "no_speech_prob" : 0.9768424034118652
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1297940,
+    "likes" : 24480,
+    "comments" : 2815
   }
 }

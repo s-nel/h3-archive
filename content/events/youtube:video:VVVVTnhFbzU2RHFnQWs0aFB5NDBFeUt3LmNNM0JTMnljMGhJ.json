@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Why Did Logan Paul Shoot This Coyote?",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cM3BS2yc0hI/default.jpg",
   "tags" : [
     {
@@ -1579,5 +1580,10 @@
         "no_speech_prob" : 0.001919649774208665
       }
     ]
+  },
+  "metrics" : {
+    "views" : 312998,
+    "likes" : 13535,
+    "comments" : 2662
   }
 }

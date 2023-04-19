@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "I Won't Lie This is Definitely Me (h3h3 2016 Song) by Schmoyoho",
   "description" : "Full song of Schmoyoho's hit single for our h3h3 2016 best of video entitled \"thank you\"\n\nSubscribe to Schmoyoho �м https://goo.gl/IgtV4a",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2s4xAf0hSCQ/default.jpg",
   "tags" : [
     {
@@ -329,5 +330,10 @@
         "no_speech_prob" : 0.06321893632411957
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2061654,
+    "likes" : 114704,
+    "comments" : 5676
   }
 }

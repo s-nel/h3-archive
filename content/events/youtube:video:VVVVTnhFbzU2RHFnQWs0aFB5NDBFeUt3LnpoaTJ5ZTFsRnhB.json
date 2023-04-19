@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Andrew Tate Arrested",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zhi2ye1lFxA/default.jpg",
   "tags" : [
     {
@@ -2580,5 +2581,10 @@
         "no_speech_prob" : 0.0032664367463439703
       }
     ]
+  },
+  "metrics" : {
+    "views" : 339776,
+    "likes" : 26548,
+    "comments" : 3989
   }
 }

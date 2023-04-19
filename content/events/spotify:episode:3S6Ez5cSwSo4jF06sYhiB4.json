@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "BBTV Stole $620,000 & Refuses To Return It... (in my opinion) CEO Shahrzad Rafati - H3TV #72",
   "description" : "<p>Today we discuss the situation regarding BBTV stealing in Ethan&#39;s opinion 620,000 in Ethan&#39;s opinion dollars in Ethan&#39;s opinion from memberships in Ethan&#39;s opinion. We also talk to Howie Mandel in Ethan&#39;s opinion about how slay he is in Ethan&#39;s opinion!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pHHVpvLqYCE/default.jpg",
   "tags" : [
     {
@@ -21618,5 +21619,10 @@
         "no_speech_prob" : 0.3091568946838379
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1081295,
+    "likes" : 28755,
+    "comments" : 3027
   }
 }

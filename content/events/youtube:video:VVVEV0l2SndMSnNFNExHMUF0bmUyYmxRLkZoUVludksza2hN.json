@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Cya Israel [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FhQYnvK3khM/default.jpg",
   "tags" : [
     {
@@ -1077,5 +1078,10 @@
         "no_speech_prob" : 0.41118133068084717
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1010439,
+    "likes" : 31124,
+    "comments" : 2653
   }
 }

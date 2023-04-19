@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Confronting NXIVM Cult Member Featured In The Vow - H3TV #66",
   "description" : "<p>Today we have a VERY interesting conversation with a NXIVM cult member that gets a bit heated...we also talk about a Twitch SCANDAL, and more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ro8kiM7Dg1Y/default.jpg",
   "tags" : [
     {
@@ -29677,5 +29678,10 @@
         "no_speech_prob" : 0.9723740816116333
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1091818,
+    "likes" : 27824,
+    "comments" : 5127
   }
 }

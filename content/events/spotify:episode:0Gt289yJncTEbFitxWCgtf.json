@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "It's Frenemies All Over Again - After Dark #87",
   "description" : "<p>Today we discuss a new situation that reminds Ethan of Frenemies...we also finish our cheater tier list, review the Dad chair, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Cjv07aA7WFw/default.jpg",
   "tags" : [
     {
@@ -76,5 +77,10 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "transcription" : null,
+  "metrics" : {
+    "views" : 1290330,
+    "likes" : 24110,
+    "comments" : 2750
+  }
 }

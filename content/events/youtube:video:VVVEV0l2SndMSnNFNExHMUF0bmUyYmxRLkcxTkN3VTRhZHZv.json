@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Happy Video #1",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/G1NCwU4advo/default.jpg",
   "tags" : [
     {
@@ -2210,5 +2211,10 @@
         "no_speech_prob" : 0.9297077655792236
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2646556,
+    "likes" : 132728,
+    "comments" : 8863
   }
 }

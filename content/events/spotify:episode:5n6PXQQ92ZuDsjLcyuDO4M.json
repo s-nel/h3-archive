@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Charles Enablers & Keemstar Is Obsessed With Me - After Dark #55",
   "description" : "<p>On this episode of H3 After Dark the gang have a call in from the Flesh Light artist, speak with a TikTok moderator to figure out why Ethan keeps getting censored, talk about Keemstar&#39;s obsession, The Bachelor, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/R63J0T2cK8w/default.jpg",
   "tags" : [
     {
@@ -44241,5 +44242,10 @@
         "no_speech_prob" : 0.9829181432723999
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1853924,
+    "likes" : 35405,
+    "comments" : 3940
   }
 }

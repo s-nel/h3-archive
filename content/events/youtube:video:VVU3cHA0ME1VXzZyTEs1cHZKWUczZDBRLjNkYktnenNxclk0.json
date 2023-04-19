@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Best Spaceheater Review - 2014",
   "description" : "We just found this video that we never posted and thought it was a nice little nostalgic touch.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3dbKgzsqrY4/default.jpg",
   "tags" : [
     {
@@ -186,5 +187,10 @@
         "no_speech_prob" : 0.013783162459731102
       }
     ]
+  },
+  "metrics" : {
+    "views" : 108244,
+    "likes" : 2903,
+    "comments" : 113
   }
 }

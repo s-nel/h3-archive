@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "THE PEWDIEPIE ROAST",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VDPStT65l5A/default.jpg",
   "tags" : [
     {
@@ -2280,5 +2281,10 @@
         "no_speech_prob" : 0.0020352709107100964
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3748525,
+    "likes" : 231816,
+    "comments" : 9478
   }
 }

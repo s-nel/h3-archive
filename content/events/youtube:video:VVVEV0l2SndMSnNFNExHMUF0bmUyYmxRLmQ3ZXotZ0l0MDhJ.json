@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "HOW TO MAKE MODERN ART",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/d7ez-gIt08I/default.jpg",
   "tags" : [
     {
@@ -1110,5 +1111,10 @@
         "no_speech_prob" : 0.990170419216156
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5799453,
+    "likes" : 196037,
+    "comments" : 20083
   }
 }

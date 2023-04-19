@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Howdy",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FxbzqM2-2mU/default.jpg",
   "tags" : [
     {
@@ -43,5 +44,10 @@
         "no_speech_prob" : 0.5764690041542053
       }
     ]
+  },
+  "metrics" : {
+    "views" : 246544,
+    "likes" : 9387,
+    "comments" : 319
   }
 }

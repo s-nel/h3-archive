@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Coming Clean About Hila's Feet Pics - After Dark #59",
   "description" : "<p>This is one of the most action-packed episodes of After Dark to date as we unveil Ethan&#39;s latest limb-lengthening procedure results, an invigorating call with the legendary C-Man as he reviews all of our feet, the results of our Bathroom Makeover contest, and more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wtlYFLAEQKw/default.jpg",
   "tags" : [
     {
@@ -61283,5 +61284,10 @@
         "no_speech_prob" : 0.9464461803436279
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1643558,
+    "likes" : 36536,
+    "comments" : 4056
   }
 }

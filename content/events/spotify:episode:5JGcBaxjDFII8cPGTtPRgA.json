@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#87 - Shane & Logan + Kanye vs The World",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila discuss the latest episode of Shane&#39;s documentary, the definition of boofing, and Ian the Intern presents a power point on Kanye West&#39;s recent antics, and oh yeah... HILA IS PREGNANT!!!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LqtzYKm9k7I/default.jpg",
   "tags" : [
     {
@@ -31113,5 +31114,10 @@
         "no_speech_prob" : 0.9961591958999634
       }
     ]
+  },
+  "metrics" : {
+    "views" : 829517,
+    "likes" : 25124,
+    "comments" : 3742
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik Kicked Out Of Lollapalooza Party - H3TV # 4",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QhA1sdISvME/default.jpg",
   "tags" : [
     {
@@ -33493,5 +33494,10 @@
         "no_speech_prob" : 0.9520723819732666
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1046092,
+    "likes" : 26233,
+    "comments" : 3204
   }
 }

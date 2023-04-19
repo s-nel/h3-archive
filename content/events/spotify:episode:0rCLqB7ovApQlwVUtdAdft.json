@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Stavros Halkias - H3 Podcast #262",
   "description" : "<p>Today we welcome the unparalleled comedy talent, Stavros Halkias!  We host a Jimmie Lee comedy workshop, discuss the Helen Keller fraud conspiracy, we show Stavros the prolapse, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5J1FoJhOkwg/default.jpg",
   "tags" : [
   ],
@@ -72445,5 +72446,10 @@
         "no_speech_prob" : 0.7172449231147766
       }
     ]
+  },
+  "metrics" : {
+    "views" : 999798,
+    "likes" : 24856,
+    "comments" : 2382
   }
 }

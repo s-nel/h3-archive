@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "sexy playboys exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sw0T0iV8Vd8/default.jpg",
   "tags" : [
     {
@@ -230,5 +231,10 @@
         "no_speech_prob" : 0.20341557264328003
       }
     ]
+  },
+  "metrics" : {
+    "views" : 345165,
+    "likes" : 6164,
+    "comments" : 384
   }
 }

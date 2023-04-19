@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Baby Gender Reveal!!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Cylt4QXHuaI/default.jpg",
   "tags" : [
     {
@@ -1869,5 +1870,10 @@
         "no_speech_prob" : 0.38966313004493713
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4001721,
+    "likes" : 315950,
+    "comments" : 40055
   }
 }

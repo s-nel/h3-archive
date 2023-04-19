@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ethan and Hila Live Stream Q&A",
   "description" : "Ethan and Hila live Stream Q&A",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cZ-ETZEo6QQ/default.jpg",
   "tags" : [
     {
@@ -14673,5 +14674,10 @@
         "no_speech_prob" : 0.006082124076783657
       }
     ]
+  },
+  "metrics" : {
+    "views" : 634153,
+    "likes" : 21994,
+    "comments" : 1338
   }
 }

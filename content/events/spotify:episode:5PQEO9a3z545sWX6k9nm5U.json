@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik & James Charles Drama Apocalypse - Frenemies #23",
   "description" : "<p>On this episode of Frenemies is the Drama Apocalypse of both David and James! It&#39;s coming tumbling down for these two as more and more evidence keeps popping up. Also Ethan and Trish debate if Ethan is fat-phobic, and the crew surprises Trisha with a special treat!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tvFlQW3vmrk/default.jpg",
   "tags" : [
   ],
@@ -21624,5 +21625,10 @@
         "no_speech_prob" : 0.293331503868103
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6933213,
+    "likes" : 148174,
+    "comments" : 38008
   }
 }

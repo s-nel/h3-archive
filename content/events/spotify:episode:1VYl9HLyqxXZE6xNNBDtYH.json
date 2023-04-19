@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Tucker Is Trumps #1 Hater - Leftovers #40",
   "description" : "<p>Today we&#39;re finally back! Hasan tells us about his trip to Japan, we discuss the latest January 6th footage, some insane rhetoric about the eradication of transgenderism from Michael Knowles &amp; the Daily Wire, plus much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OFqDYq7jtCM/default.jpg",
   "tags" : [
     {
@@ -21754,5 +21755,10 @@
         "no_speech_prob" : 0.29634666442871094
       }
     ]
+  },
+  "metrics" : {
+    "views" : 918469,
+    "likes" : 15758,
+    "comments" : 1547
   }
 }

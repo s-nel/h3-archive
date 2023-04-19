@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Guraffic Park",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/W_oJN4xv7Ts/default.jpg",
   "tags" : [
     {
@@ -72,5 +73,10 @@
         "no_speech_prob" : 0.26483142375946045
       }
     ]
+  },
+  "metrics" : {
+    "views" : 180944,
+    "likes" : 4096,
+    "comments" : 79
   }
 }

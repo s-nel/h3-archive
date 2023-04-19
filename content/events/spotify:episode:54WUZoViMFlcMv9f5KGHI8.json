@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#77 - Alex Jones Stream Shut Down",
   "description" : "<p>On this episode of The H3 Podcast we TRY to discuss Alex Jones- but are abruptly kicked off of YouTube mid stream and have a strike added to our account! Lovely! So instead we discuss THAT, as well as Ajit Pai&#39;s big lie, Ethan&#39;s trip to the fertility clinic, and Ian the Intern presents a power point on Lil Uzi Vert&#39;s legal trouble with the survivors of The Heaven&#39;s Gate cult!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fA8eOB91-fY/default.jpg",
   "tags" : [
   ],
@@ -27929,5 +27930,10 @@
         "no_speech_prob" : 0.053563766181468964
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1184699,
+    "likes" : 33023,
+    "comments" : 8454
   }
 }

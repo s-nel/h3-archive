@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Last Episode of Ethan and Hila???",
   "description" : "We hope you guys can understand our decision to merge our channels a little better now. Thank you guys for all the love and support, we love you guys! \nENTER THE GIVE AWAY HERE:\nhttps://gleam.io/63L19/dunnie-giveaway\n\nOUR MAIN CHANNEL!\nhttps://www.youtube.com/user/h3h3Productions\n\nFacebook..................►https://facebook.com/H3h3productions\nHila's Twitter..............►https://twitter.com/hilakleinh3\nEthan's Twitter..........►https://twitter.com/h3h3productions\nInstagram.................►http://instagram.com/h3h3productions\nHila's Instragram....►https://www.instagram.com/kleinhila\nSpreadshirt...............►http://h3h3productions.spreadshirt.com\nHila's Art....................►http://hilaklein.com\nSubreddit..................►http://reddit.com/r/h3h3productions",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rxC1c_aE3Bg/default.jpg",
   "tags" : [
     {
@@ -3024,5 +3025,10 @@
         "no_speech_prob" : 0.00745623093098402
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1211880,
+    "likes" : 63882,
+    "comments" : 9119
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Cameron Carpenter, the Organ God -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/idY1boBrzso/default.jpg",
   "tags" : [
     {
@@ -2137,5 +2138,10 @@
         "no_speech_prob" : 0.7070905566215515
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3136140,
+    "likes" : 60184,
+    "comments" : 3547
   }
 }

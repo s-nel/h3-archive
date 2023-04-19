@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "THESE GLASSES CURED OUR COLOR BLINDNESS! FT. iDubbbzTV",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/q7Gh_-KDXAk/default.jpg",
   "tags" : [
     {
@@ -5217,5 +5218,10 @@
         "no_speech_prob" : 0.9141860008239746
       }
     ]
+  },
+  "metrics" : {
+    "views" : 22365474,
+    "likes" : 1855999,
+    "comments" : 53385
   }
 }

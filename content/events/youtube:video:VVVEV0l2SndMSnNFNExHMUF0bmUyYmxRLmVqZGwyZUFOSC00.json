@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "h3h3productions Q&A 2015 (appreciate ya!)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ejdl2eANH-4/default.jpg",
   "tags" : [
     {
@@ -3233,5 +3234,10 @@
         "no_speech_prob" : 0.37654680013656616
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1445440,
+    "likes" : 48405,
+    "comments" : 3786
   }
 }

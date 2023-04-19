@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Prank Invasion Starts WW3",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lfvkbZ1tLOM/default.jpg",
   "tags" : [
     {
@@ -1407,5 +1408,10 @@
         "no_speech_prob" : 0.27148541808128357
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8677023,
+    "likes" : 232381,
+    "comments" : 21567
   }
 }

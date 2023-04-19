@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "will.i.am -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Prv5q84-Ebg/default.jpg",
   "tags" : [
     {
@@ -736,5 +737,10 @@
         "no_speech_prob" : 0.40620288252830505
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3506678,
+    "likes" : 76193,
+    "comments" : 2676
   }
 }

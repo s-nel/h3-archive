@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#72 - The TanaCon Con & Logan Paul vs KSI",
   "description" : "<p>On this episode of The H3 Podcast Ethan is flying solo while Hila is visiting family back home. Ethan dissects the TanaCon fiasco, the Logan Paul vs KSI fight, Jimmy Lee&#39;s view botting, a Canadian crackhead falling through a ceiling, and most importantly gives an update on the grand Metamucil experiment!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bk3dD0hECOk/default.jpg",
   "tags" : [
     {
@@ -25418,5 +25419,10 @@
         "no_speech_prob" : 0.9910435676574707
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1683229,
+    "likes" : 43984,
+    "comments" : 6126
   }
 }

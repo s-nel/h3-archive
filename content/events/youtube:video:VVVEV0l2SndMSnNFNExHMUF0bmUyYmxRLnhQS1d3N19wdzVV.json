@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jeff Dunnie Funny Money",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xPKWw7_pw5U/default.jpg",
   "tags" : [
     {
@@ -1429,5 +1430,10 @@
         "no_speech_prob" : 0.04391445592045784
       }
     ]
+  },
+  "metrics" : {
+    "views" : 353720,
+    "likes" : 9713,
+    "comments" : 879
   }
 }

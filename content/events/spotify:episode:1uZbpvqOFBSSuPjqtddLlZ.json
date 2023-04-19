@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Ethan Is TikTok's New Alpha God, Men Guess What Women's Beauty Products Do - After Dark #99",
   "description" : "<p>Today Ethan declares himself the ultimate alpha male. We also review a bunch of feminine beauty products, a presentation on buccal fat, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FkTrjT_PDDc/default.jpg",
   "tags" : [
     {
@@ -23073,5 +23074,10 @@
         "no_speech_prob" : 0.005937316920608282
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1275198,
+    "likes" : 22879,
+    "comments" : 2539
   }
 }

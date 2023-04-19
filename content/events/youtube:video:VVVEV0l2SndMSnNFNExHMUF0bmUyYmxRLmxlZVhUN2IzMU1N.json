@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Update",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/leeXT7b31MM/default.jpg",
   "tags" : [
     {
@@ -1022,5 +1023,10 @@
         "no_speech_prob" : 0.0013579153455793858
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3828241,
+    "likes" : 255101,
+    "comments" : 32474
   }
 }

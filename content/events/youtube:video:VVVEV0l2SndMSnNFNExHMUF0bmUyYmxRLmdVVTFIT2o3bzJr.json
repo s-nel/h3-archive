@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "H3H3 Prankster Tier List",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gUU1HOj7o2k/default.jpg",
   "tags" : [
     {
@@ -28,5 +29,10 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "transcription" : null,
+  "metrics" : {
+    "views" : 2813989,
+    "likes" : 129555,
+    "comments" : 8375
+  }
 }

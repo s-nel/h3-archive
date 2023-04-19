@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#118 - James Charles ENDS Tati & Jeffree Star",
   "description" : "<p>On this episode of the H-Tea Podcast we discuss James Charles complete evisceration of his foes, Jeffree Star being a psycho, the Tfue/Faze lawsuit situation, the god awful ending of Game Of Thrones, and a guys unreal wiping technique!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mPxQxw-gZEk/default.jpg",
   "tags" : [
   ],
@@ -34090,5 +34091,10 @@
         "no_speech_prob" : 0.9431310892105103
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1550985,
+    "likes" : 36108,
+    "comments" : 4888
   }
 }

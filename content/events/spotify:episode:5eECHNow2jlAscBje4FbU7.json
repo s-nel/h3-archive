@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#192 - The Death Of H3H3 By Gokanaru",
   "description" : "<p>On this episode of the H3 Podcast Ethan addresses the infamous &#34;Death of H3h3&#34; video by YouTuber Gokanaru. People have been demanding Ethan respond to this video for years now so- here we are. Enjoy.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zH7MMY3Nvw8/default.jpg",
   "tags" : [
     {
@@ -19566,5 +19567,10 @@
         "no_speech_prob" : 0.12592713534832
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2451727,
+    "likes" : 69797,
+    "comments" : 16048
   }
 }

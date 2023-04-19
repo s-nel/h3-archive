@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "H3 After Dark (Defending Trisha From The Wicked David Portnoy) - #17",
   "description" : "<p>On this FINAL episode of 2020 the gang take some time to look back on another year of goofs gaffs and splaffs, take a call from our old bud ShoeNice who has some explaning to do- AB and Love have a SIMP off, and Ian hosts the first annual Craigsmas! Thanks for listening everyone and see you all in 2021!!!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rSXkw0z2CIk/default.jpg",
   "tags" : [
     {
@@ -39532,5 +39533,10 @@
         "no_speech_prob" : 0.25184643268585205
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1394126,
+    "likes" : 45406,
+    "comments" : 5624
   }
 }

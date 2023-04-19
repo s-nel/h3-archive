@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "War Horn On New Hater, World Cup in Qatar, Elon Unbans Trump - H3TV #58",
   "description" : "<p>Today we go to WAR with a new challenger approaching...we also cover the insanity around the world cup, more Elon Musk Twitter meltdowns, the most absurd chemical peels, &amp; more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/oWro0ianAgI/default.jpg",
   "tags" : [
     {
@@ -27638,5 +27639,10 @@
         "no_speech_prob" : 0.43805474042892456
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1035556,
+    "likes" : 20403,
+    "comments" : 2628
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ethan's Corner - Facebook",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vb97DrNDSfM/default.jpg",
   "tags" : [
     {
@@ -406,5 +407,10 @@
         "no_speech_prob" : 0.009827577508985996
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2526585,
+    "likes" : 169508,
+    "comments" : 8899
   }
 }

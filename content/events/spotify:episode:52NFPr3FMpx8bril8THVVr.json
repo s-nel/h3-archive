@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik vs Casey Neistat - H3TV #27",
   "description" : "<p>We discuss the bombshell Casey Neistat documentary on David Dobrik that premiered this week, along with a MrBeast chocolate review with a twist and MUCH more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LB2vHBIFc1o/default.jpg",
   "tags" : [
     {
@@ -46837,5 +46838,10 @@
         "no_speech_prob" : 0.9778537154197693
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1716976,
+    "likes" : 36507,
+    "comments" : 3367
   }
 }

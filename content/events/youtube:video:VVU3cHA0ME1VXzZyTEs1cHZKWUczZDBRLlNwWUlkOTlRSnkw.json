@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Our last day at Yosemite",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SpYId99QJy0/default.jpg",
   "tags" : [
     {
@@ -1055,5 +1056,10 @@
         "no_speech_prob" : 0.12176340818405151
       }
     ]
+  },
+  "metrics" : {
+    "views" : 371884,
+    "likes" : 9889,
+    "comments" : 392
   }
 }

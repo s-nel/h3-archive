@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#130 - Did Lil Nas X Steal Old Town Road?",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VgsrRXDlq94/default.jpg",
   "tags" : [
   ],
@@ -13904,5 +13905,10 @@
         "no_speech_prob" : 0.4664901793003082
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1033714,
+    "likes" : 25824,
+    "comments" : 4241
   }
 }

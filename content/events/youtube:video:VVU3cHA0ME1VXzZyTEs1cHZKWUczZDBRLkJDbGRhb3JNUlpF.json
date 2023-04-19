@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Big Game, Little Penis (Cecil the Lion)",
   "description" : "Dr. Walter J. Palmer is the ULTIMATE HUNTER, he killed Zimbabwe's national treasure, Cecil the Lion. Good work bud.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BCldaorMRZE/default.jpg",
   "tags" : [
     {
@@ -857,5 +858,10 @@
         "no_speech_prob" : 0.02484910562634468
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1021523,
+    "likes" : 32304,
+    "comments" : 2125
   }
 }

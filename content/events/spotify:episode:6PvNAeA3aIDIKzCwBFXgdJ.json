@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#73 - Bo Burnham",
   "description" : "<p>On this episode of The H3 Podcast (experience) we are joined in studio by the world&#39;s second most successful YouTuber: Bo Burnham! Together Bo and Ethan discuss his feature film debut- Eighth Grade, as well as the state of the internet, videos from the depth of YouTube, anxiety, and a little kid named Beau. Bo Burnham is a stand-up comedian, actor, director and all around great guy. His film, Eighth Grade, is in select theaters starting July 13th!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NV7IN4HzvCI/default.jpg",
   "tags" : [
   ],
@@ -36916,5 +36917,10 @@
         "no_speech_prob" : 0.9421806931495667
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2708176,
+    "likes" : 81001,
+    "comments" : 6586
   }
 }

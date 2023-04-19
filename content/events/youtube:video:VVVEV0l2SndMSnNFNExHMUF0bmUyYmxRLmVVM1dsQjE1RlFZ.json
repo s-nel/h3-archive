@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Sold to the Highest Bidder",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eU3WlB15FQY/default.jpg",
   "tags" : [
     {
@@ -1202,5 +1203,10 @@
         "no_speech_prob" : 0.027649838477373123
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2497905,
+    "likes" : 187894,
+    "comments" : 15183
   }
 }

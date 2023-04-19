@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "A New Chapter for Fair Use on YouTube",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ix4mTekl3MM/default.jpg",
   "tags" : [
     {
@@ -428,5 +429,10 @@
         "no_speech_prob" : 0.5912152528762817
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2635785,
+    "likes" : 178825,
+    "comments" : 15245
   }
 }

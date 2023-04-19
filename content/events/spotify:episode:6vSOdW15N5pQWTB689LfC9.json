@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Jeff Wittek, Mr. Beast, ACE Family - H3TV #26",
   "description" : "<p>Today we discuss the latest updates regarding the Jeff Wittek situation, Mr Beast&#39;s &#34;chocolate factory&#34;, the ACE Family&#39;s house being ransacked, a controversial review of The Batman movie, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/J19qOeSWn6A/default.jpg",
   "tags" : [
     {
@@ -49679,5 +49680,10 @@
         "no_speech_prob" : 0.9767217636108398
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1286075,
+    "likes" : 30329,
+    "comments" : 4059
   }
 }

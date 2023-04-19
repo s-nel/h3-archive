@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha Paytas vs Gabbie Hanna Explained By My Mom - Families # 2",
   "description" : "<p>Donna is BACK on the pod and this time we&#39;re talking YouTube Drama, old actors, and the long awaited advice segment!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_SdeGi-8rZ8/default.jpg",
   "tags" : [
   ],
@@ -30791,5 +30792,10 @@
         "no_speech_prob" : 0.10044696182012558
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2474113,
+    "likes" : 102284,
+    "comments" : 17283
   }
 }

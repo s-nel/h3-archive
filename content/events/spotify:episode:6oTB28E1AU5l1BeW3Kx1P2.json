@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Twitch Bans Gambling Ft. Yung Gravy - Off The Rails #49",
   "description" : "<p>Today we wade into the absolute mess going on with Twitch right now. We are then joined by Yung Gravy! We chat about the Addison Rae/Monty situation, Ethan shows him some of his favorite videos, they share a passionate moment, dig into the Adam Levine situation, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vroig7CeMuw/default.jpg",
   "tags" : [
     {
@@ -28523,5 +28524,10 @@
         "no_speech_prob" : 0.48022404313087463
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1013320,
+    "likes" : 27454,
+    "comments" : 2618
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Triller Owner Messed Up Big Time",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/U2f8JL10VlQ/default.jpg",
   "tags" : [
     {
@@ -3163,5 +3164,10 @@
         "no_speech_prob" : 0.03372406214475632
       }
     ]
+  },
+  "metrics" : {
+    "views" : 243171,
+    "likes" : 13860,
+    "comments" : 1221
   }
 }

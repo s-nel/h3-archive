@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "And The Gender Is... - H3 After Dark #51",
   "description" : "<p>Today we&#39;re talkin&#39; the Mario movie, Drake vs Michael Jackson, can Ethan throw a perfect pitch? And of course....BABY GENDER REVEAL!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GRJLngUhhno/default.jpg",
   "tags" : [
     {
@@ -50214,5 +50215,10 @@
         "no_speech_prob" : 0.7495231628417969
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1794197,
+    "likes" : 36993,
+    "comments" : 4345
   }
 }

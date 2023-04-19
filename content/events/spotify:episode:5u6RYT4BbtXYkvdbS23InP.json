@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Kurtis Conner - Off The Rails #54",
   "description" : "<p>Today we have the very talented Kurtis Connor in the studio! We discuss his newfound married life, calling out &#34;the manosphere&#34;, Hasan gets cucked, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WwSmgbQR9PA/default.jpg",
   "tags" : [
     {
@@ -37289,5 +37290,10 @@
         "no_speech_prob" : 0.03618995100259781
       }
     ]
+  },
+  "metrics" : {
+    "views" : 698052,
+    "likes" : 24880,
+    "comments" : 2373
   }
 }

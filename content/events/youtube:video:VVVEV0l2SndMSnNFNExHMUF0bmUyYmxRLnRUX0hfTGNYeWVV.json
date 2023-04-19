@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "YOU WILL BE AMAZED Ft. Dude Perfect",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tT_H_LcXyeU/default.jpg",
   "tags" : [
     {
@@ -3497,5 +3498,10 @@
         "no_speech_prob" : 0.011240090243518353
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9132649,
+    "likes" : 265984,
+    "comments" : 18638
   }
 }

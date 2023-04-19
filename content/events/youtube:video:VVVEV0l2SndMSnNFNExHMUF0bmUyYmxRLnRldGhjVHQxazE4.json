@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Owe you Guys an Explanation...",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tethcTt1k18/default.jpg",
   "tags" : [
     {
@@ -2991,5 +2992,10 @@
         "no_speech_prob" : 0.7074413299560547
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3852349,
+    "likes" : 175080,
+    "comments" : 22823
   }
 }

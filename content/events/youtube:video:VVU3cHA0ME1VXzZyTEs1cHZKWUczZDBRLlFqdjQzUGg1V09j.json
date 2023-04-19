@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Patreon",
   "description" : "https://www.patreon.com/h3h3productions",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Qjv43Ph5WOc/default.jpg",
   "tags" : [
     {
@@ -329,5 +330,10 @@
         "no_speech_prob" : 0.6164750456809998
       }
     ]
+  },
+  "metrics" : {
+    "views" : 104602,
+    "likes" : 2893,
+    "comments" : 214
   }
 }

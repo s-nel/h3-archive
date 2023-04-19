@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Morphe & YouTube Finally Drop James Charles - H3 After Dark # 32",
   "description" : "<p>On this episode of H3 After Dark we discuss the continued downfall of James, Joe Rogan vs Trisha, White Claw Gabe, Dan &amp; Zach settle the Rock Trivia competition, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8WbHKJenAnw/default.jpg",
   "tags" : [
     {
@@ -55145,5 +55146,10 @@
         "no_speech_prob" : 0.31315019726753235
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2354444,
+    "likes" : 41435,
+    "comments" : 6258
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Huge James Charles Drama",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wV559XeT-dM/default.jpg",
   "tags" : [
     {
@@ -2129,5 +2130,10 @@
         "no_speech_prob" : 0.001244332641363144
       }
     ]
+  },
+  "metrics" : {
+    "views" : 478976,
+    "likes" : 24852,
+    "comments" : 2265
   }
 }

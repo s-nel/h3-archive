@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Sit Down Jake Paul (It's Every Day Bro)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ybCeaYsrM6s/default.jpg",
   "tags" : [
     {
@@ -3607,5 +3608,10 @@
         "no_speech_prob" : 0.6334330439567566
       }
     ]
+  },
+  "metrics" : {
+    "views" : 12272822,
+    "likes" : 476017,
+    "comments" : 32422
   }
 }

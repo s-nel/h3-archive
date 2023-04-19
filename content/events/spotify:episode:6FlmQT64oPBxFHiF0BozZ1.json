@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#146 - Casey Neistat",
   "description" : "<p>On this episode of The H3 Podcast we are joined by YouTuber, Vlogger, surfer, filmmaker, entrepreneur, and all around swell dude Casey Neistat! Together we discuss the election, YouTube burnout, flat earth, Beme, balancing work and family, moving to Los Angeles, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/N_79rnT_Etc/default.jpg",
   "tags" : [
   ],
@@ -31651,5 +31652,10 @@
         "no_speech_prob" : 0.4377986788749695
       }
     ]
+  },
+  "metrics" : {
+    "views" : 945929,
+    "likes" : 22856,
+    "comments" : 3321
   }
 }

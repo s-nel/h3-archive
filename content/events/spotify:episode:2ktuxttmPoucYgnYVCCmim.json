@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "My Mom Calls In To Explain Selena Gomez vs. Hailey Bieber Drama - H3TV #67",
   "description" : "<p>Today we are joined by Shirtless Eddie! He is the cohost for the day, and regales us all with his incredible tales of Hollywood. Donna also calls in for a deep dive into the Selena Gomez/Hailey Bieber drama, the destruction of Dilbert, Jake Paul&#39;s first L, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gxRUEWE2_D4/default.jpg",
   "tags" : [
     {
@@ -22557,5 +22558,10 @@
         "no_speech_prob" : 0.34869998693466187
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1233123,
+    "likes" : 25810,
+    "comments" : 5711
   }
 }

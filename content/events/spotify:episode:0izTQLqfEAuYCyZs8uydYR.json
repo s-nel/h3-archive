@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#39 - Post Malone",
   "description" : "<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tr1Loa7r7sY/default.jpg",
   "tags" : [
   ],
@@ -56690,5 +56691,10 @@
         "no_speech_prob" : 0.9851255416870117
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9208187,
+    "likes" : 136970,
+    "comments" : 12692
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The God of Cringe",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BZ0jMJ4jEYE/default.jpg",
   "tags" : [
     {
@@ -1565,5 +1566,10 @@
         "no_speech_prob" : 0.5937194228172302
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8922876,
+    "likes" : 397302,
+    "comments" : 17982
   }
 }

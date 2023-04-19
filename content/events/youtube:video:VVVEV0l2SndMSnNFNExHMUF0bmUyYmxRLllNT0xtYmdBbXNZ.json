@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "YouTube Might Make Your Favorite Channel Disappear",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YMOLmbgAmsY/default.jpg",
   "tags" : [
     {
@@ -868,5 +869,10 @@
         "no_speech_prob" : 0.6422687768936157
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2042736,
+    "likes" : 120124,
+    "comments" : 11364
   }
 }

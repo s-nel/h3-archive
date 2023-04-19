@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "This Judge Was Caught On Zoom Doing The Worst Thing",
   "description" : "Judge Alexis Krot Rot",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uxquvoYdQqw/default.jpg",
   "tags" : [
     {
@@ -2140,5 +2141,10 @@
         "no_speech_prob" : 0.28835248947143555
       }
     ]
+  },
+  "metrics" : {
+    "views" : 321699,
+    "likes" : 18940,
+    "comments" : 2907
   }
 }

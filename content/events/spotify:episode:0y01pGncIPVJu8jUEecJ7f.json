@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Spicy Food Competition - H3TV #51",
   "description" : "<p>Today we all try the hottest chip in the world for a spice contest! Whoever can go the longest without water or milk wins. We also chat about </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1Z4LTCCodeg/default.jpg",
   "tags" : [
     {
@@ -64132,5 +64133,10 @@
         "no_speech_prob" : 0.9946640729904175
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1219170,
+    "likes" : 28530,
+    "comments" : 3374
   }
 }

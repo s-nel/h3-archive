@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#86 - Shane Dawson vs Jake Paul & Drake + Millie Bobby Brown",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila express how they feel about the absolute BETRAYAL that Shane Dawson committed against the H3 fam, they go over Bill Cosby&#39;s really really bad day, Rep. Gosar&#39;s savage siblings, and put Papa Johns on suicide watch.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ExiLfQ_RyAA/default.jpg",
   "tags" : [
   ],
@@ -27028,5 +27029,10 @@
         "no_speech_prob" : 0.9467359781265259
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1162509,
+    "likes" : 24940,
+    "comments" : 3257
   }
 }

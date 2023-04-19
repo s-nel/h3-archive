@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "FAQ with Ethan and Hila [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Td7TvlveSEE/default.jpg",
   "tags" : [
     {
@@ -3420,5 +3421,10 @@
         "no_speech_prob" : 0.0073326099663972855
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1757097,
+    "likes" : 51753,
+    "comments" : 4296
   }
 }

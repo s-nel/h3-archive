@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The FBI Raided My House This Morning - After Dark #63",
   "description" : "<p>Ethan has possibly the most unhinged Kavanaugh update yet...We also dig into some Jake Paul goofs, Melania&#39;s wild NFT situation, and much more. Jumpintoitrightnow</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DhaAWAIHXJY/default.jpg",
   "tags" : [
     {
@@ -10772,5 +10773,10 @@
         "no_speech_prob" : 0.24915078282356262
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1571180,
+    "likes" : 36878,
+    "comments" : 6104
   }
 }

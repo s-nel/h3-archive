@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#120 - The Birth Of Our Son Theodore",
   "description" : "<p>On this VERY special episode of The H3 Podcast ya boi Papa Klein pops into the studio to tell the story of his past week... aka the birth of Theodore! So won&#39;t you please join us on the birthing gazebo on this most blessed of days for the story of Hila the warrior princess birthing baby Theodore into the world! Papa bless!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kP8ho4WL0mU/default.jpg",
   "tags" : [
     {
@@ -12500,5 +12501,10 @@
         "no_speech_prob" : 0.46316272020339966
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2979851,
+    "likes" : 138133,
+    "comments" : 15230
   }
 }

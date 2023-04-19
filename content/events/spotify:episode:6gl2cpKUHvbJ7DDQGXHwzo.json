@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#6 - Philip DeFranco",
   "description" : "Philip DeFranco is host of the most popular news program on YouTube. Today he shares some unbelievable stories about his past.<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sImnKoiMEiI/default.jpg",
   "tags" : [
   ],
@@ -7813,5 +7814,10 @@
         "no_speech_prob" : 0.08904694020748138
       }
     ]
+  },
+  "metrics" : {
+    "views" : 281476,
+    "likes" : 9598,
+    "comments" : 341
   }
 }

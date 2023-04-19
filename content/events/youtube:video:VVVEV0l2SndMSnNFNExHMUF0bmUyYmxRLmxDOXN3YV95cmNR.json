@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "h3h3 prank call: Flowers.com helps me pick out flowers",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lC9swa_yrcQ/default.jpg",
   "tags" : [
     {
@@ -285,5 +286,10 @@
         "no_speech_prob" : 0.06233784928917885
       }
     ]
+  },
+  "metrics" : {
+    "views" : 189306,
+    "likes" : 7651,
+    "comments" : 257
   }
 }

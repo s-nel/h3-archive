@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "A Closer Look At Kenneth Copeland - H3 Podcast #232",
   "description" : "<p>On this episode we take a much closer look at a frequent meme on the podcast- the televangelist king himself Kenneth Copeland. Join us as we take a look at what runs beneath everything Kenneth does (spoiler alert: it&#39;s money).</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MHYpRIt7o_k/default.jpg",
   "tags" : [
   ],
@@ -14312,5 +14313,10 @@
         "no_speech_prob" : 0.0023521999828517437
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1324345,
+    "likes" : 29710,
+    "comments" : 5193
   }
 }

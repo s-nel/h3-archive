@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "What is this AMAZING Tech Product?",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qwVwPBKiZns/default.jpg",
   "tags" : [
     {
@@ -2232,5 +2233,10 @@
         "no_speech_prob" : 0.1326391100883484
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5924575,
+    "likes" : 221872,
+    "comments" : 10727
   }
 }

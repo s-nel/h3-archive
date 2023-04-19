@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Taking Trisha To Meme School - Frenemies # 37",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trish take a break from drama to just kick it and have some fun. Also they play the MEME GAME where Ethan educates Trisha on some famous memes then compete making their own!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eMV9_HIAQGI/default.jpg",
   "tags" : [
   ],
@@ -58092,5 +58093,10 @@
         "no_speech_prob" : 0.9905473589897156
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4447732,
+    "likes" : 92807,
+    "comments" : 16262
   }
 }

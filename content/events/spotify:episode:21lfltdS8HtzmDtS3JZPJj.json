@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Fresh & Fit Are Panicking, New Kendrick Album, TikTok Lawyer Calls In - Afterdark #72",
   "description" : "<p>We have the infamous real life-Saul Goodman TikTok Lawyer call in! We also discuss Fresh &amp; Fit&#39;s meltdown over our recent episode, eulogize the iPod discontinuing, Dan unveils a deep conspiracy revolving around Joe Biden&#39;s clone, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/E-KsoC8FDtA/default.jpg",
   "tags" : [
   ],
@@ -40098,5 +40099,10 @@
         "no_speech_prob" : 0.26140522956848145
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1060991,
+    "likes" : 25722,
+    "comments" : 3167
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Psychics, Mediums, and Gurus -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EBbLPnQ-CEw/default.jpg",
   "tags" : [
     {
@@ -6445,5 +6446,10 @@
         "no_speech_prob" : 0.5564579963684082
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7779477,
+    "likes" : 197894,
+    "comments" : 16645
   }
 }

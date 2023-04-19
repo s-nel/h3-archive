@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Shame Dawson IS BACK - H3 After Dark #53",
   "description" : "<p>It&#39;s Friday baybee! Today on After Dark we talk about the baby name controversy, YouTube&#39;s decision to end YouTube Rewind (AGHH *Will Smith voice*), and the return of SHAME DAWSON.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Uef9uFE0Ifw/default.jpg",
   "tags" : [
     {
@@ -38913,5 +38914,10 @@
         "no_speech_prob" : 0.9818374514579773
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1418245,
+    "likes" : 35667,
+    "comments" : 5076
   }
 }

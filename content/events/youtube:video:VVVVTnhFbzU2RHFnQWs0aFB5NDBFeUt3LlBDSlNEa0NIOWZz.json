@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "I missed my son’s birth.",
   "description" : ":)",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PCJSDkCH9fs/default.jpg",
   "tags" : [
     {
@@ -9532,5 +9533,10 @@
         "no_speech_prob" : 0.01939970999956131
       }
     ]
+  },
+  "metrics" : {
+    "views" : 891846,
+    "likes" : 61739,
+    "comments" : 7422
   }
 }

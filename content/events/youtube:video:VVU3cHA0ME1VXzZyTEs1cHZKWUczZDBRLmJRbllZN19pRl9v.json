@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "A country for sociopaths by sociopaths",
   "description" : "Thank you everyone on Patreon for another amazing month of support\nhttps://www.patreon.com/h3h3productions",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bQnYY7_iF_o/default.jpg",
   "tags" : [
     {
@@ -2892,5 +2893,10 @@
         "no_speech_prob" : 0.00614632572978735
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3492598,
+    "likes" : 97040,
+    "comments" : 10369
   }
 }

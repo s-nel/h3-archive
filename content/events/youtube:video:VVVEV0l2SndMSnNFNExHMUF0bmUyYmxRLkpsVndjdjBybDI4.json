@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How to pick up girls -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JlVwcv0rl28/default.jpg",
   "tags" : [
     {
@@ -1506,5 +1507,10 @@
         "no_speech_prob" : 0.03582977503538132
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5995659,
+    "likes" : 130368,
+    "comments" : 7581
   }
 }

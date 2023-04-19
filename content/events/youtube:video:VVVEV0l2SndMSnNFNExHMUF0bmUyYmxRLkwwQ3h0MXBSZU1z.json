@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Two Handed Great Sword -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/L0Cxt1pReMs/default.jpg",
   "tags" : [
     {
@@ -2045,5 +2046,10 @@
         "no_speech_prob" : 0.012059327214956284
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5544625,
+    "likes" : 104898,
+    "comments" : 7591
   }
 }

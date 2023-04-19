@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Your Privacy is at Risk",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/caVEiitI2vg/default.jpg",
   "tags" : [
     {
@@ -1033,5 +1034,10 @@
         "no_speech_prob" : 0.23229347169399261
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4663765,
+    "likes" : 188157,
+    "comments" : 15397
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha & Ethan Have A Huge Fight & She Storms Out - Frenemies #5",
   "description" : "<p>Well it was nice while it lasted...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9xVGBL0_crc/default.jpg",
   "tags" : [
   ],
@@ -37177,5 +37178,10 @@
         "no_speech_prob" : 0.054334674030542374
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4364412,
+    "likes" : 122625,
+    "comments" : 38139
   }
 }

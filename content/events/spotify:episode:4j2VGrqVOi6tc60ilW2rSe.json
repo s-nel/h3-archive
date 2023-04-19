@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Worst Thing We Did As Kids, Donna Calls In - H3TV #41",
   "description" : "<p>Today we go over Ethan&#39;s new friendship with Mike Majlak, Donna calls in to play a high intensity game of butterfly trivia, we share the worst things we did as rambunctious youth, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/I5Gop05e3ps/default.jpg",
   "tags" : [
     {
@@ -21856,5 +21857,10 @@
         "no_speech_prob" : 0.2173682451248169
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1431060,
+    "likes" : 27875,
+    "comments" : 3233
   }
 }

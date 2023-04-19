@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha & Ethan Got Bullied - Frenemies # 36",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha fight back against a bunch of mean ol&#39; internet cyber bullies who have a lot to say about our favorite duo! We also discuss Ethan&#39;s trip to Vegas, Robin Williams, and a whole lot more!!!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IUGvnECknlI/default.jpg",
   "tags" : [
   ],
@@ -44445,5 +44446,10 @@
         "no_speech_prob" : 0.9543710947036743
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4755684,
+    "likes" : 104944,
+    "comments" : 16502
   }
 }

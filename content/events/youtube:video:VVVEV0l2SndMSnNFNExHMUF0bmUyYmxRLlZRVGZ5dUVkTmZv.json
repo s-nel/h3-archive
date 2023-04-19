@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Meet Tai Lopez",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VQTfyuEdNfo/default.jpg",
   "tags" : [
     {
@@ -7369,5 +7370,10 @@
         "no_speech_prob" : 0.4949730932712555
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5156237,
+    "likes" : 235377,
+    "comments" : 22979
   }
 }

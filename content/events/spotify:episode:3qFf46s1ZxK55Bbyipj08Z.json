@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Content Court: The ACE Family",
   "description" : "<p>The content court is back in session and this time the family vlog channel &#34;The ACE Family&#34; is on the docket!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/RdC75IoAQoo/default.jpg",
   "tags" : [
     {
@@ -28770,5 +28771,10 @@
         "no_speech_prob" : 0.9535959362983704
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1984867,
+    "likes" : 44239,
+    "comments" : 5329
   }
 }

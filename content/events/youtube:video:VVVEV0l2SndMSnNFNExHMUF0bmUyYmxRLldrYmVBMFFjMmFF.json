@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Trying Weird Gold Products",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WkbeA0Qc2aE/default.jpg",
   "tags" : [
     {
@@ -3343,5 +3344,10 @@
         "no_speech_prob" : 0.9604328870773315
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4759346,
+    "likes" : 134534,
+    "comments" : 9298
   }
 }

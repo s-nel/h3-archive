@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Why Doesn't YouTube Explain Anything?!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UUkj4h_Tq-0/default.jpg",
   "tags" : [
     {
@@ -714,5 +715,10 @@
         "no_speech_prob" : 0.006892868783324957
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2728220,
+    "likes" : 123145,
+    "comments" : 7263
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Play Silent Library 2 And Regret It - Off the Rails #57",
   "description" : "<p>Today is the return of the dreadfully unpredictable Silent Library!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yuFRPrkB5lU/default.jpg",
   "tags" : [
     {
@@ -25412,5 +25413,10 @@
         "no_speech_prob" : 0.9617726802825928
       }
     ]
+  },
+  "metrics" : {
+    "views" : 824471,
+    "likes" : 24061,
+    "comments" : 3611
   }
 }

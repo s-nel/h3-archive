@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "If YouTube Does This It's Doomed",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XdkMrDmODtw/default.jpg",
   "tags" : [
     {
@@ -626,5 +627,10 @@
         "no_speech_prob" : 0.5248790383338928
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3355477,
+    "likes" : 257496,
+    "comments" : 18370
   }
 }

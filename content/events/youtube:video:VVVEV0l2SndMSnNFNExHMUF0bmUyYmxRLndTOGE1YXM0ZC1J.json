@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Revolutionary A.I. Vape",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wS8a5as4d-I/default.jpg",
   "tags" : [
     {
@@ -1081,5 +1082,10 @@
         "no_speech_prob" : 0.1501607596874237
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4846944,
+    "likes" : 325246,
+    "comments" : 25812
   }
 }

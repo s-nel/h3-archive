@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#95 - Man Wants To Legally Change Age & Black Friday Deals No One Wants",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila talk crappy Black Friday deals, Walmart riots, missionaries getting bow and arrowed by native tribes, a man who wants to legally lower his age by 20 years, Ethan&#39;s terrible hair, and 95 year old Nazi&#39;s getting deported!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MI6nQh7rwYo/default.jpg",
   "tags" : [
   ],
@@ -8404,5 +8405,10 @@
         "no_speech_prob" : 0.4128339886665344
       }
     ]
+  },
+  "metrics" : {
+    "views" : 524464,
+    "likes" : 13515,
+    "comments" : 2287
   }
 }

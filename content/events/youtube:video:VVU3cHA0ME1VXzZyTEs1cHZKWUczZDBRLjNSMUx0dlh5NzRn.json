@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Disc golf with Sean",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3R1LtvXy74g/default.jpg",
   "tags" : [
     {
@@ -670,5 +671,10 @@
         "no_speech_prob" : 0.4647960960865021
       }
     ]
+  },
+  "metrics" : {
+    "views" : 393243,
+    "likes" : 8712,
+    "comments" : 554
   }
 }

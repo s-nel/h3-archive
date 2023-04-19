@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "THE FINE BROS RANT",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dwcmWhPcTk8/default.jpg",
   "tags" : [
     {
@@ -1290,5 +1291,10 @@
         "no_speech_prob" : 0.5184824466705322
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7253738,
+    "likes" : 239615,
+    "comments" : 11350
   }
 }

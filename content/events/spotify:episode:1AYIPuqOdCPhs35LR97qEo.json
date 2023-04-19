@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#43 - Vsauce",
   "description" : "<p>Thanks so much to Vsauce for comin and slammin with us!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hS4XXstzocY/default.jpg",
   "tags" : [
   ],
@@ -19525,5 +19526,10 @@
         "no_speech_prob" : 0.0013350944500416517
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3181792,
+    "likes" : 61960,
+    "comments" : 4914
   }
 }

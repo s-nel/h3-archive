@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Need To Talk (VERY Urgent and VERY IMPORTANT!!!) - H3TV #19",
   "description" : "<p>It&#39;s Monday baybee, and we&#39;ve got some goofs to go over. We&#39;re talkin&#39; the Ariana Grande controversy, dolphin love, the new Beatles doc, Keemstar&#39;s latest flub, a juicy Kavanaugh tweet &amp; much more! UwU</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ev37IedFjMU/default.jpg",
   "tags" : [
     {
@@ -55219,5 +55220,10 @@
         "no_speech_prob" : 0.05334993824362755
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1781633,
+    "likes" : 32101,
+    "comments" : 3446
   }
 }

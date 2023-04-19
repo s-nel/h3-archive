@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ethan Fights a Blind Guy",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3nYOErXbzcw/default.jpg",
   "tags" : [
     {
@@ -1165,5 +1166,10 @@
         "no_speech_prob" : 0.026986880227923393
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3881458,
+    "likes" : 277813,
+    "comments" : 14608
   }
 }

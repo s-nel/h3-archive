@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Joe Rogan & Jordan Peterson Stans Cancelled Me On Twitter",
   "description" : "http://teddyfresh.com",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nqz-gIUFzWQ/default.jpg",
   "tags" : [
     {
@@ -8058,5 +8059,10 @@
         "no_speech_prob" : 0.0016066713724285364
       }
     ]
+  },
+  "metrics" : {
+    "views" : 399661,
+    "likes" : 15898,
+    "comments" : 4801
   }
 }

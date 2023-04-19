@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Ace Family's House Story Analyzed - H3TV #18",
   "description" : "<p>Today we take the deepest of deep dives into the latest Ace Family house drama, strap in for a closer look!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/KXQNGLzhep4/default.jpg",
   "tags" : [
     {
@@ -67572,5 +67573,10 @@
         "no_speech_prob" : 0.9779760241508484
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1636062,
+    "likes" : 38081,
+    "comments" : 5189
   }
 }

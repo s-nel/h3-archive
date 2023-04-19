@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "YouTube's New Program is Horrible",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/25wZoyULlcI/default.jpg",
   "tags" : [
     {
@@ -648,5 +649,10 @@
         "no_speech_prob" : 0.20133155584335327
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3971395,
+    "likes" : 198236,
+    "comments" : 14665
   }
 }

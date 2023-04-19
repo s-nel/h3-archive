@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Drunk Girl vs. IRL Streamer - Cringe Curator",
   "description" : "if you guys like this for a series lmk!",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NmyifyKasSk/default.jpg",
   "tags" : [
     {
@@ -2756,5 +2757,10 @@
         "no_speech_prob" : 0.08122394979000092
       }
     ]
+  },
+  "metrics" : {
+    "views" : 333928,
+    "likes" : 21472,
+    "comments" : 2106
   }
 }

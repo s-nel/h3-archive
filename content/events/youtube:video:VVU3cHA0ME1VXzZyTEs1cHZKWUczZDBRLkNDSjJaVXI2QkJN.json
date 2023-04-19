@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "hania gets rekt [surprise ending]",
   "description" : "From Dr. Klein: https://www.youtube.com/watch?v=NOB2CLEdzyY\n\ncredit to majorleaguewobs on dat sick cory trap: \nhttps://soundcloud.com/majorleaguewobs/cory-in-the-house-trap-remix-4krequest\nhttps://www.youtube.com/user/strangeholder",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CCJ2ZUr6BBM/default.jpg",
   "tags" : [
     {
@@ -296,5 +297,10 @@
         "no_speech_prob" : 0.0789853036403656
       }
     ]
+  },
+  "metrics" : {
+    "views" : 104429,
+    "likes" : 4030,
+    "comments" : 181
   }
 }

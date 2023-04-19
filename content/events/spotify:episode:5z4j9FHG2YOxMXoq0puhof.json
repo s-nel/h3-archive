@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#177 - Trisha Paytas Returns With An Exciting Announcement",
   "description" : "<p>Trisha Paytas is BACK and we have a big announcement...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QDgsVCz4bV4/default.jpg",
   "tags" : [
   ],
@@ -13094,5 +13095,10 @@
         "no_speech_prob" : 0.01292719878256321
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2049777,
+    "likes" : 46440,
+    "comments" : 7915
   }
 }

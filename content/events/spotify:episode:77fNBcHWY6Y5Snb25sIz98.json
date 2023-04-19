@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#91 - Media Slams Post Malone & Teacher Sues Over YouTube Comment",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila stand up for their friend Austin aka Post Malone from the vicious slander of the pitchfork blogosphere, Ian the Intern gives us the latest on Kanye&#39;s never ending stream of drama, we examine the story of a middle school teacher suing over a mean YouTube comment, and we play Know Your Meme with Run For The Cube!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NRxciudxGOI/default.jpg",
   "tags" : [
   ],
@@ -36227,5 +36228,10 @@
         "no_speech_prob" : 0.013242706656455994
       }
     ]
+  },
+  "metrics" : {
+    "views" : 831948,
+    "likes" : 20519,
+    "comments" : 3022
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Let's Talk About It [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JelFc1oxKHQ/default.jpg",
   "tags" : [
     {
@@ -758,5 +759,10 @@
         "no_speech_prob" : 0.397004097700119
       }
     ]
+  },
+  "metrics" : {
+    "views" : 219766,
+    "likes" : 5056,
+    "comments" : 273
   }
 }

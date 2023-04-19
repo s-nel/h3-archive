@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#62 - Another YouTuber Goes to Prison & Amazon Slavelike Conditions",
   "description" : "<p>On this VERY special episode of The H3 Podcast Ethan and Hila have a good old fashion top of the month with a #420 blaze it twist (not really). Together we discuss fat cat billionaires, being sucked out of an airplane windows, feeding toothpaste oreos to homeless people, and- of course- the M-word.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/RkKajp0H1Fc/default.jpg",
   "tags" : [
   ],
@@ -25362,5 +25363,10 @@
         "no_speech_prob" : 0.26288145780563354
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1026022,
+    "likes" : 23582,
+    "comments" : 4652
   }
 }

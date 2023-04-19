@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#50 - Logan Paul Demonetized & Idiot YouTuber's Channel Erased",
   "description" : "<p>Ethan and Hila are joined by Zach aka Psychicpebbles to discuss Logan Paul&#39;s corpse desecration, acid attack pranks, Ethan Slamberry, and, of course, Elon Musk in the latest edition of Top Of The Month!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yVeGBT7X-pY/default.jpg",
   "tags" : [
   ],
@@ -16636,5 +16637,10 @@
         "no_speech_prob" : 0.006855406798422337
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1667226,
+    "likes" : 39047,
+    "comments" : 6095
   }
 }

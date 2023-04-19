@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "utub 2 - in luv",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9bvo4XgA6Bk/default.jpg",
   "tags" : [
     {
@@ -65,5 +66,10 @@
         "no_speech_prob" : 0.13824856281280518
       }
     ]
+  },
+  "metrics" : {
+    "views" : 144177,
+    "likes" : 2230,
+    "comments" : 136
   }
 }

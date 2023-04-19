@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Logan Paul’s pet pig was abandoned in a field & left for dead",
   "description" : "https://www.tiktok.com/@thegentlebarn",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/f9JRKtQbz64/default.jpg",
   "tags" : [
     {
@@ -2261,5 +2262,10 @@
         "no_speech_prob" : 0.06232738867402077
       }
     ]
+  },
+  "metrics" : {
+    "views" : 374705,
+    "likes" : 22520,
+    "comments" : 3729
   }
 }

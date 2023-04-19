@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Misogyny In Gaming & Pokimane",
   "description" : "its about time we call it what it is and call out the people responsible",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kt3y7cUtogM/default.jpg",
   "tags" : [
     {
@@ -2195,5 +2196,10 @@
         "no_speech_prob" : 0.040622737258672714
       }
     ]
+  },
+  "metrics" : {
+    "views" : 300585,
+    "likes" : 18251,
+    "comments" : 2748
   }
 }

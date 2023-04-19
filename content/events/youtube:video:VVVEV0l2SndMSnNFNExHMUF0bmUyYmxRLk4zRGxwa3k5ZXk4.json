@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Logan Paul Odyssey",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/N3Dlpky9ey8/default.jpg",
   "tags" : [
     {
@@ -3501,5 +3502,10 @@
         "no_speech_prob" : 0.7963393330574036
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10188380,
+    "likes" : 482022,
+    "comments" : 38877
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "it's so great",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yChUYxcyGsg/default.jpg",
   "tags" : [
     {
@@ -373,5 +374,10 @@
         "no_speech_prob" : 0.016738316044211388
       }
     ]
+  },
+  "metrics" : {
+    "views" : 555205,
+    "likes" : 16876,
+    "comments" : 501
   }
 }

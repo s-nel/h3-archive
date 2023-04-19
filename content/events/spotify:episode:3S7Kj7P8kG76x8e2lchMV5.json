@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Newlywed Game (Trish & Moses vs Ethan & Hila) - Frenemies #20",
   "description" : "<p>On this episode of Frenemies the spouses are here for a special Valentine&#39;s day episode where we play the Newlywed game! Will the young love of Trisha and Moses prevail? Or will the 14 years of Ethan and Hila win out in the end?</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dbeuZGzg5_E/default.jpg",
   "tags" : [
   ],
@@ -42014,5 +42015,10 @@
         "no_speech_prob" : 0.025894351303577423
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4266387,
+    "likes" : 118777,
+    "comments" : 17703
   }
 }

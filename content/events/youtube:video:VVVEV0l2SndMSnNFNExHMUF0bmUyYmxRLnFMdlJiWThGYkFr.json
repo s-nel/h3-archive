@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "michael rosen exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qLvRbY8FbAk/default.jpg",
   "tags" : [
     {
@@ -186,5 +187,10 @@
         "no_speech_prob" : 0.020908279344439507
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1111591,
+    "likes" : 22427,
+    "comments" : 1135
   }
 }

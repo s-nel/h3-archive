@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Content Court: The NELK Boys",
   "description" : "<p>Hear ye, hear ye, court is back in SESSION. Put on your jury hats y&#39;all because the Honorable Judge Klein is HERE for those rascal NELK Boys&#xfeff;</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZPt1p_KeTEE/default.jpg",
   "tags" : [
     {
@@ -29423,5 +29424,10 @@
         "no_speech_prob" : 0.5449216365814209
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1402383,
+    "likes" : 42450,
+    "comments" : 6472
   }
 }

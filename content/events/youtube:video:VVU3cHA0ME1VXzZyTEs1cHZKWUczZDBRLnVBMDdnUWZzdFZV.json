@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Hila's family",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uA07gQfstVU/default.jpg",
   "tags" : [
     {
@@ -989,5 +990,10 @@
         "no_speech_prob" : 0.028322231024503708
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1745732,
+    "likes" : 40834,
+    "comments" : 2615
   }
 }

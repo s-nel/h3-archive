@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#26 - Justin Roiland & Alex Hirsch Charity Special",
   "description" : "<p>We prank call Joel Osteen&#39;s Mega Church as Rick Sachenz and pepper spray Joey Salads in the face, all in the name of charity. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jnwzb6DkCLM/default.jpg",
   "tags" : [
   ],
@@ -131435,5 +131436,10 @@
         "no_speech_prob" : 0.048254985362291336
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1962822,
+    "likes" : 57880,
+    "comments" : 7735
   }
 }

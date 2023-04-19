@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "I'm Being Targeted",
   "description" : "DarkViperAU has written a 14 page meticulous essay about me",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Mk3LuoJKSdg/default.jpg",
   "tags" : [
     {
@@ -3240,5 +3241,10 @@
         "no_speech_prob" : 0.015830272808670998
       }
     ]
+  },
+  "metrics" : {
+    "views" : 472701,
+    "likes" : 21365,
+    "comments" : 3417
   }
 }

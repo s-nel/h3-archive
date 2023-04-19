@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#109 - Theo Von",
   "description" : "<p>On this episode of The H3 Podcast we are joined by comedian, actor, and all around funny dude Theo Von! Together we discuss Einstein, small quantities, gay time travel, The Bachelor, loving yourself, taking a compliment, Issac Newton, and SO much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PafIrG4WJHU/default.jpg",
   "tags" : [
   ],
@@ -16394,5 +16395,10 @@
         "no_speech_prob" : 0.4633125066757202
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1844982,
+    "likes" : 41128,
+    "comments" : 4664
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#89 - Enter The Gazebo Zone",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila discuss a wide range of hard hitting issues such as men in burrito costumes being assaulted by heavyweight boxers, killer parkour robots, giant fat-bergs of wet-wipes and excrement, Kanye West clothing Ugandan children, and smelling your own farts.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xGO-1E0LwhA/default.jpg",
   "tags" : [
     {
@@ -30731,5 +30732,10 @@
         "no_speech_prob" : 0.02720574475824833
       }
     ]
+  },
+  "metrics" : {
+    "views" : 920668,
+    "likes" : 20661,
+    "comments" : 2345
   }
 }

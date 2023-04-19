@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#70 - Boogie2988 (Steven Williams)",
   "description" : "<p>On this episode of The H3 Podcast Steven Williams better known as Boogie2988 returns to the studio for a heartfelt chat with Ethan and Hila. Together we discuss his weight loss surgery, divorce, YouTube content, VidCon, E3, and so much more! Boogie2988 is a vlogger and comedian and one of the longest lived channels on YouTube.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/C00igZTktfc/default.jpg",
   "tags" : [
   ],
@@ -15235,5 +15236,10 @@
         "no_speech_prob" : 0.035248517990112305
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2142333,
+    "likes" : 68951,
+    "comments" : 5660
   }
 }

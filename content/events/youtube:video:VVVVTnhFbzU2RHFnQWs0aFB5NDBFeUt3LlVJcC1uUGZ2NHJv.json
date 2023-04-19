@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "ukraine",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UIp-nPfv4ro/default.jpg",
   "tags" : [
     {
@@ -3471,5 +3472,10 @@
         "no_speech_prob" : 0.9749215245246887
       }
     ]
+  },
+  "metrics" : {
+    "views" : 460024,
+    "likes" : 26080,
+    "comments" : 4173
   }
 }

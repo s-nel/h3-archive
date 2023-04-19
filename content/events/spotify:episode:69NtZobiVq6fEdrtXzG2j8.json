@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#22 - Jake Paul & KTLA Reporter Chris Wolfe",
   "description" : "<p>Jake Paul joins us along with Chris Wolfe who broke the original story</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/q_faWNnWhcw/default.jpg",
   "tags" : [
   ],
@@ -30290,5 +30291,10 @@
         "no_speech_prob" : 0.0701618641614914
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4021549,
+    "likes" : 113888,
+    "comments" : 17697
   }
 }

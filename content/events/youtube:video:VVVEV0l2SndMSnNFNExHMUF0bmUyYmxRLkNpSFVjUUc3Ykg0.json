@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Must Stop This Millionaire Content Thief",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CiHUcQG7bH4/default.jpg",
   "tags" : [
     {
@@ -1913,5 +1914,10 @@
         "no_speech_prob" : 0.025110483169555664
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4370050,
+    "likes" : 237130,
+    "comments" : 11541
   }
 }

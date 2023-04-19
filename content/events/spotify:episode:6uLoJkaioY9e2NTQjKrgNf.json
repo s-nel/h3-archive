@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "My Greatest Fear Came True... - After Dark #67",
   "description" : "<p>We all share our biggest fears, Ethan&#39;s Elden Ring obsession getting out of hand, farts in a jar being sold for 1000 dollars, and much more! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ytxfQ8kxNAE/default.jpg",
   "tags" : [
     {
@@ -50081,5 +50082,10 @@
         "no_speech_prob" : 0.41441383957862854
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1404919,
+    "likes" : 31983,
+    "comments" : 3315
   }
 }

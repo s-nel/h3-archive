@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "KFC Blocks Our Video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/S9rw7H6Guc0/default.jpg",
   "tags" : [
     {
@@ -879,5 +880,10 @@
         "no_speech_prob" : 0.007380734663456678
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3099849,
+    "likes" : 185945,
+    "comments" : 9070
   }
 }

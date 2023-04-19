@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "James Corden Harassed Me & Addison Rae Proves God Doesn't Exist - H3TV #6",
   "description" : "<p>Today we&#39;re talkin&#39; the cinematic masterpiece known as He&#39;s All That, James Corden&#39;s nefarious street dancing that strikes fear in the heart of humankind, we react to the Cut classic &#34;7 High Schoolers Decide Who Wins $1000&#34; and one of the students surprise calls in!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jkdccC2G4pA/default.jpg",
   "tags" : [
     {
@@ -59164,5 +59165,10 @@
         "no_speech_prob" : 0.9840331673622131
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2369698,
+    "likes" : 35718,
+    "comments" : 5604
   }
 }

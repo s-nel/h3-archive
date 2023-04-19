@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Polish Guru Fakes Being on the Ellen Show",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NgZM-05i6kQ/default.jpg",
   "tags" : [
     {
@@ -4282,5 +4283,10 @@
         "no_speech_prob" : 0.989522397518158
       }
     ]
+  },
+  "metrics" : {
+    "views" : 11862391,
+    "likes" : 345905,
+    "comments" : 30770
   }
 }

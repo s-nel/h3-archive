@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Grapefruit Your Man -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xM_8OVMYZRI/default.jpg",
   "tags" : [
     {
@@ -28,5 +29,10 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "transcription" : null,
+  "metrics" : {
+    "views" : 3686457,
+    "likes" : 73257,
+    "comments" : 1936
+  }
 }

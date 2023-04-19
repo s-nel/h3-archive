@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "iDubbbz & Anisa - H3 Podcast #265",
   "description" : "<p>Today we&#39;re joined by iDubbbz &amp; Anisa! We talk about the upcoming Creator Clash 2, Dad calls in and discusses the fight with AB, we review the Dave Portnoy pizza, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VNzCkCq2f4E/default.jpg",
   "tags" : [
   ],
@@ -18725,5 +18726,10 @@
         "no_speech_prob" : 0.013849291019141674
       }
     ]
+  },
+  "metrics" : {
+    "views" : 751174,
+    "likes" : 17266,
+    "comments" : 2171
   }
 }

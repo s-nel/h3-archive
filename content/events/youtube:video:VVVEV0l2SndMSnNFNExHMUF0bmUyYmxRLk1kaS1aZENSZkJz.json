@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Viner Invasion of 2017",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Mdi-ZdCRfBs/default.jpg",
   "tags" : [
     {
@@ -1466,5 +1467,10 @@
         "no_speech_prob" : 0.29916447401046753
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6573793,
+    "likes" : 283469,
+    "comments" : 17809
   }
 }

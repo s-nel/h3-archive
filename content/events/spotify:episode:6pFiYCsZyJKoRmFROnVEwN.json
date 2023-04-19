@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#231 - Does YouTube Have A Predator Problem?",
   "description" : "<p>On this episode of the H3 Podcast Ethan &amp; Hila cover the Tony Lopez &amp; CallMeCarson situations and the wider issue of YouTubers using their fame to exploit fans. Also we get a couple of call ins from NYC Mayor candidate Andrew Yang &amp; our old friend ShoeNice. Finally we pay tribute to the fallen- Trump&#39;s deleted twitter account.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PUMB9LNlEhM/default.jpg",
   "tags" : [
   ],
@@ -25614,5 +25615,10 @@
         "no_speech_prob" : 0.32986101508140564
       }
     ]
+  },
+  "metrics" : {
+    "views" : 983840,
+    "likes" : 25988,
+    "comments" : 4538
   }
 }

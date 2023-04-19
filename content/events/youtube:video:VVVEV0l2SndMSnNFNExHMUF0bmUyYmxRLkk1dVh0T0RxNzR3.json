@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Where have we been?",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/I5uXtODq74w/default.jpg",
   "tags" : [
     {
@@ -1231,5 +1232,10 @@
         "no_speech_prob" : 0.29703888297080994
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3965199,
+    "likes" : 292445,
+    "comments" : 29274
   }
 }

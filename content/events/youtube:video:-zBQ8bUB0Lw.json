@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Trisha & Ethan Hijack A Hollywood Tour Bus - Frenemies Vlog #2",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-zBQ8bUB0Lw/default.jpg",
   "tags" : [
   ],
@@ -11030,5 +11031,10 @@
         "no_speech_prob" : 0.810368537902832
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1860384,
+    "likes" : 91929,
+    "comments" : 10031
   }
 }

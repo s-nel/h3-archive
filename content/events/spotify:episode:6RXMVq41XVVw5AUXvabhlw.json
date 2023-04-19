@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#58 - Sean Evans of Hot Ones",
   "description" : "<p>On this episode of The H3 Podcast we are joined by the host of the smash hit series Hot Ones- Sean Evans! Together we discuss how he prepares for his interviews, Taco Gate, tragic guests, his iron-clad b-hole, and the whole H3 Podcast crew tries the spiciest hot sauce in the world- The Last Dab with Pepper-X!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ecrM2MqNlAM/default.jpg",
   "tags" : [
   ],
@@ -15840,5 +15841,10 @@
         "no_speech_prob" : 0.007645404897630215
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1921949,
+    "likes" : 43599,
+    "comments" : 3580
   }
 }

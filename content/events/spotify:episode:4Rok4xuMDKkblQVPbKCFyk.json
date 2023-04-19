@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Need To Talk... - H3 After Dark #50",
   "description" : "<p>After Dark 50! We debate on whether Dan should get a Mad Max Fury Road car, we filmed our own version of the Matrix trailer, took a look at the wild world of alpha coaching, the insanity of mobile game ads, and much more! Plug into The H3trix. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HnLJNxkS_AE/default.jpg",
   "tags" : [
     {
@@ -48255,5 +48256,10 @@
         "no_speech_prob" : 0.7156131267547607
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1838191,
+    "likes" : 36018,
+    "comments" : 4408
   }
 }

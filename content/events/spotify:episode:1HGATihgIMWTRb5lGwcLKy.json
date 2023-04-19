@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#28 - PewDiePie Drops the \"N\" Bomb (Top Of The Week)",
   "description" : "<p>Pewdiepie gets into hot water yet again. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_UZbgH3pOBA/default.jpg",
   "tags" : [
     {
@@ -7953,5 +7954,10 @@
         "no_speech_prob" : 0.013966497033834457
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2103972,
+    "likes" : 45141,
+    "comments" : 19505
   }
 }

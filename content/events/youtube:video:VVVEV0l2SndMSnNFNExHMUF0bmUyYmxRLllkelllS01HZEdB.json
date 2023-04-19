@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Best of 2014 -- h3h3productions",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YdzYeKMGdGA/default.jpg",
   "tags" : [
     {
@@ -3002,5 +3003,10 @@
         "no_speech_prob" : 0.03997350484132767
       }
     ]
+  },
+  "metrics" : {
+    "views" : 627284,
+    "likes" : 16710,
+    "comments" : 899
   }
 }

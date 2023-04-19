@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Real Reason Frenemies Broke Up - H3 After Dark # 41",
   "description" : "<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8aCfvBnOcnU/default.jpg",
   "tags" : [
     {
@@ -47566,5 +47567,10 @@
         "no_speech_prob" : 0.9265896677970886
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3736581,
+    "likes" : 115321,
+    "comments" : 14728
   }
 }

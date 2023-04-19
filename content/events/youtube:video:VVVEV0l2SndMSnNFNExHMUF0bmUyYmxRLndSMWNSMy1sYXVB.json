@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Pepsi Saves the World",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wR1cR3-lauA/default.jpg",
   "tags" : [
     {
@@ -2720,5 +2721,10 @@
         "no_speech_prob" : 0.9852649569511414
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8391308,
+    "likes" : 341924,
+    "comments" : 27342
   }
 }

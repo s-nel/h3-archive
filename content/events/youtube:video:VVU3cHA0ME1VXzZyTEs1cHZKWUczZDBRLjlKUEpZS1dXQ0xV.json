@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Keemstar - Full Song (Official)",
   "description" : "Our boy ZACH! Wrote this song watch him play more music here\nhttps://www.instagram.com/z_vinyl/?hl=en",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9JPJYKWWCLU/default.jpg",
   "tags" : [
     {
@@ -164,5 +165,10 @@
         "no_speech_prob" : 0.28029170632362366
       }
     ]
+  },
+  "metrics" : {
+    "views" : 477548,
+    "likes" : 35832,
+    "comments" : 2485
   }
 }

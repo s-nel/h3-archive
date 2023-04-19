@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Interview with Ken Bone",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WWPxoj9CrsE/default.jpg",
   "tags" : [
     {
@@ -2639,5 +2640,10 @@
         "no_speech_prob" : 0.46188226342201233
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2350623,
+    "likes" : 149335,
+    "comments" : 9888
   }
 }

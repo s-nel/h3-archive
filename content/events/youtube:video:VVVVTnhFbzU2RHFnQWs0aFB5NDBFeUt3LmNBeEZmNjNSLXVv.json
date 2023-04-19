@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Nikocado Avocado Made An Apology Video",
   "description" : "Nikocado Avocado grand finale season 1",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cAxFf63R-uo/default.jpg",
   "tags" : [
     {
@@ -3306,5 +3307,10 @@
         "no_speech_prob" : 0.12429314106702805
       }
     ]
+  },
+  "metrics" : {
+    "views" : 412837,
+    "likes" : 21218,
+    "comments" : 2537
   }
 }

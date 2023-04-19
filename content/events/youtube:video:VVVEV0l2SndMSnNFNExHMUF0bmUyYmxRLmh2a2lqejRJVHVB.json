@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Driving 450 mph in a Lamborghini",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hvkijz4ITuA/default.jpg",
   "tags" : [
     {
@@ -934,5 +935,10 @@
         "no_speech_prob" : 0.79389488697052
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2864996,
+    "likes" : 114473,
+    "comments" : 8224
   }
 }

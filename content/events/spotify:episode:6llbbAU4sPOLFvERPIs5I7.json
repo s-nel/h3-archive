@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Hila Breaks Her Silence, Overwatch 2 Release A Disaster! - After Dark #88",
   "description" : "<p>Today, Hila addresses her haters. We also discuss Overwatch 2 (wink wink), build our own wax figures of Ethan, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OQOw4EDREDk/default.jpg",
   "tags" : [
     {
@@ -61393,5 +61394,10 @@
         "no_speech_prob" : 0.7382463812828064
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1287445,
+    "likes" : 28201,
+    "comments" : 3111
   }
 }

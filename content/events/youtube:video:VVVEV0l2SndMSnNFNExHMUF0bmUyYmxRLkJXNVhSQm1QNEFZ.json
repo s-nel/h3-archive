@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "DJ Khaled - How Many Times ft. Chris Brown, Lil Wayne -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BW5XRBmP4AY/default.jpg",
   "tags" : [
     {
@@ -2771,5 +2772,10 @@
         "no_speech_prob" : 0.1700475513935089
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2768153,
+    "likes" : 58607,
+    "comments" : 2659
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Addressing The Controversy - Families #8",
   "description" : "<p>On this episode of Families Ethan pays his dues to the Donnarch- queen of the butterflies herself Donna. They also give some much needed advice to some viewers, and Gary is challenged to stab as many beach balls as he can to help Ethan work through his childhood Baseball trauma!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SoZSaJHD8RM/default.jpg",
   "tags" : [
     {
@@ -8267,5 +8268,10 @@
         "no_speech_prob" : 0.042855240404605865
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1291946,
+    "likes" : 47121,
+    "comments" : 8660
   }
 }

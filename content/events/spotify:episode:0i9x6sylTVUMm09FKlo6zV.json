@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Our Cooking Competition & New David Dobrik Bombshell - Frenemies # 25",
   "description" : "<p>On this episode of Frenemies Ethan Exotic and Trisha Baskin discuss the latests happenings with James, David, and the rest of the usual suspects. Also- Hila Moses and celebrity guest judge Mac DeMarco join us to judge the first annual Frenemies COOKING COMPETITION! Hear who emerges victorious as Ethan and Trisha battle in the kitchen with eggs, potatoes, pasta, and steak! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/elFvrO4Y8yY/default.jpg",
   "tags" : [
   ],
@@ -32676,5 +32677,10 @@
         "no_speech_prob" : 0.01005538273602724
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4076992,
+    "likes" : 122868,
+    "comments" : 19836
   }
 }

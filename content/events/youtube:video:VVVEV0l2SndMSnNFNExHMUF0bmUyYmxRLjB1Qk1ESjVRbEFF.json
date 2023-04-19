@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "hiphop exe has stopped��� working [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0uBMDJ5QlAE/default.jpg",
   "tags" : [
     {
@@ -61,5 +62,10 @@
         "no_speech_prob" : 0.1544390469789505
       }
     ]
+  },
+  "metrics" : {
+    "views" : 731427,
+    "likes" : 14667,
+    "comments" : 363
   }
 }

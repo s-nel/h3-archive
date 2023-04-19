@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "CNN Broadcasts Hardcore Porn for 30 Minutes Straight",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mIJ167wCUgM/default.jpg",
   "tags" : [
     {
@@ -1528,5 +1529,10 @@
         "no_speech_prob" : 0.2333923876285553
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3753908,
+    "likes" : 161128,
+    "comments" : 10235
   }
 }

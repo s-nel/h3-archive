@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "You've got a big one",
   "description" : "Patreon Newsletter for June, thank you, we love you.\nhttp://patreon.com/h3h3productions",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CCw5D9M6p0g/default.jpg",
   "tags" : [
     {
@@ -681,5 +682,10 @@
         "no_speech_prob" : 0.006820893380790949
       }
     ]
+  },
+  "metrics" : {
+    "views" : 543432,
+    "likes" : 14300,
+    "comments" : 871
   }
 }

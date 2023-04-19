@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Khloe Kardashian Photo Drama & Pizza Eating Contest - Frenemies # 31",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha face off on who can slam the most pizza, discuss Khloe Kardashian&#39;s big oopsie, Jake Paul allegations, and a whole lot more! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/R3XpjB3P9WU/default.jpg",
   "tags" : [
   ],
@@ -43294,5 +43295,10 @@
         "no_speech_prob" : 0.05246601998806
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4719170,
+    "likes" : 99877,
+    "comments" : 20780
   }
 }

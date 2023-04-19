@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We're Not Done With James Charles - H3 Podcast # 242",
   "description" : "<p>On this episode of the H3 Podcast Ethan and the boys get down with Dick Tips, discover a new sleep paralysis demon, react to Crazy Rudy freaking out about Lil Nas X&#39;s music video, and explore the LA Craigslist&#39;s &#34;Missed Connections&#34; page!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PcDqarjl4w0/default.jpg",
   "tags" : [
   ],
@@ -16288,5 +16289,10 @@
         "no_speech_prob" : 0.021967872977256775
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1515876,
+    "likes" : 42178,
+    "comments" : 6789
   }
 }

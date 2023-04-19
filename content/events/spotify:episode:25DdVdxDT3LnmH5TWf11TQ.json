@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#78 - Jacksepticeye",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined by YouTuber Jacksepticeye! Together we discuss therapy, Hunter x Hunter and other anime, YouTuber burnout, taxes, positive mental attitude, and of course.. wiping technique. Jacksepticeye is one of the world&#39;s biggest YouTubers who just recently hit the 20 million subscriber mark!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ywo26KHMYwQ/default.jpg",
   "tags" : [
   ],
@@ -34364,5 +34365,10 @@
         "no_speech_prob" : 0.9960426092147827
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1427963,
+    "likes" : 52370,
+    "comments" : 5650
   }
 }

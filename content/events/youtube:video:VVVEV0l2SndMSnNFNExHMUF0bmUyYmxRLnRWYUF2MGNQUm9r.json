@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Pranks in the Hood -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tVaAv0cPRok/default.jpg",
   "tags" : [
     {
@@ -1917,5 +1918,10 @@
         "no_speech_prob" : 0.8209356069564819
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8347185,
+    "likes" : 194111,
+    "comments" : 8169
   }
 }

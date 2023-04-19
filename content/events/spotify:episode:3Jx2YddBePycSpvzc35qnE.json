@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#69 - Tom Segura",
   "description" : "<p>On this episode of The H3 Podcast we are joined by comedian and fellow podcaster- Tom Segura! Together we discuss words you can&#39;t say anymore, Netflix, Jared Fogle&#39;s fat brother, weight loss, bidets (of course), and learn that Tom isn&#39;t about them ghost stories. Tom Segura latest comedy special &#34;Disgraceful&#34; is on Netflix and he is going on tour in the US starting this August.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/O2P5WuxppOA/default.jpg",
   "tags" : [
   ],
@@ -28149,5 +28150,10 @@
         "no_speech_prob" : 0.9711496233940125
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1370280,
+    "likes" : 32592,
+    "comments" : 3195
   }
 }

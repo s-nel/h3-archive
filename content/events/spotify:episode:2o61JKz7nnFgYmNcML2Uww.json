@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#49 - Captain Disillusion",
   "description" : "<p>On this episode of The H3 Podcast we are joined by the hero of skeptics around the world- Captain Disillusion! We discuss how to sort reality from fiction, deepfakes, and we take a call from an angry Logan Paul fan. Captain Disillusion, aka Alan Melikdjanian, is a very talented YouTube content creator who puts out videos that deconstruct fake videos and memes.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/S5Q-s-C-q6I/default.jpg",
   "tags" : [
   ],
@@ -30305,5 +30306,10 @@
         "no_speech_prob" : 0.023106489330530167
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1180896,
+    "likes" : 31451,
+    "comments" : 3437
   }
 }

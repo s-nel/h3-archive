@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#187 - I'm Over Trisha Paytas & Papa John Calls In",
   "description" : "<p>On this episode of The H3 Podcast the gang return to talk about all the drama that&#39;s gone down over the past two weeks- SomeOrdinaryGamers, Trisha &amp; Moses, and various other dweebs. Then we are joined by the god-Papa himself to bring you a very special announcement... Papa bless!</p> <p> </p> <p> </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/s4sPpzSWtEw/default.jpg",
   "tags" : [
   ],
@@ -11126,5 +11127,10 @@
         "no_speech_prob" : 0.01803417317569256
       }
     ]
+  },
+  "metrics" : {
+    "views" : 945982,
+    "likes" : 29923,
+    "comments" : 4937
   }
 }

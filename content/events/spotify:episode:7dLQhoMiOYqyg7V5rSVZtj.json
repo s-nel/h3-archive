@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#196 - Shane Dawson, Dr Disrespect, Tati Westbrook, Chris D'Elia",
   "description" : "<p>On this episode of the H3 Podcast the gang recap one of the most dramatic couple of weeks ever in the creator sphere- from Shane Dawson&#39;s rapid fall from grace, Tati Westbrook shiving him while he was already down, Dr Disrespect being disappeared by agents of the NWO, Chris D&#39;Elia being exposed as a sex fiend, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/O57888ccAls/default.jpg",
   "tags" : [
   ],
@@ -33280,5 +33281,10 @@
         "no_speech_prob" : 0.2328118532896042
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1794376,
+    "likes" : 31842,
+    "comments" : 6430
   }
 }

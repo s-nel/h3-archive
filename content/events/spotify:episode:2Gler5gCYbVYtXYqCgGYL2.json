@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#205 - We Open Belle Delphine's Mystery Box And... WOW",
   "description" : "<p>On this episode of the H3 Podcast we finally open the long prophesied packages from Belle Delphine! We also discuss Jake Paul getting raided by the FBI, Trader Joes getting cancelled, the Stoke Twins getting charged with a felony, Ringo Starr being a weirdo, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sVlTKQueUSE/default.jpg",
   "tags" : [
   ],
@@ -35707,5 +35708,10 @@
         "no_speech_prob" : 0.003617125330492854
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1013904,
+    "likes" : 29761,
+    "comments" : 4412
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#79 - Post Malone & Grandma Taken Out",
   "description" : "<p>On this episode of the H3 Podcast Ethan and Hila run down the top of the week! Together they discuss bulletproof backpacks for kids, the Catholic Church scandal, Post Malone&#39;s VMA win and scrape with death, will.i.am cringe, nairing your butt hole, and so so much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mSmhbFr9zO8/default.jpg",
   "tags" : [
   ],
@@ -33418,5 +33419,10 @@
         "no_speech_prob" : 0.954813539981842
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1093593,
+    "likes" : 29341,
+    "comments" : 3995
   }
 }

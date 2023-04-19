@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "True Animal Love -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/17rZTpoXVzw/default.jpg",
   "tags" : [
     {
@@ -2100,5 +2101,10 @@
         "no_speech_prob" : 0.6545447111129761
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4663024,
+    "likes" : 91622,
+    "comments" : 5314
   }
 }

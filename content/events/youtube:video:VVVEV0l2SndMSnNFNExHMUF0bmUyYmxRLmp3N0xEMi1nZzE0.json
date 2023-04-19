@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "RiceGum Is Caught Snitching (Mystery Box Part 2)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jw7LD2-gg14/default.jpg",
   "tags" : [
     {
@@ -2408,5 +2409,10 @@
         "no_speech_prob" : 0.9604074954986572
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6542256,
+    "likes" : 326456,
+    "comments" : 22526
   }
 }

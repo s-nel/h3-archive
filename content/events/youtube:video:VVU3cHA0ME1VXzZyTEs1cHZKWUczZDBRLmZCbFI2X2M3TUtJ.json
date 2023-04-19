@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ethan and Hila Playing Drawful Live with Fans",
   "description" : "Had a lot of fun playing Drawful with you guys, see ya next week! Let us know how you enjoyed the stream, appreciate ya.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fBlR6_c7MKI/default.jpg",
   "tags" : [
     {
@@ -20261,5 +20262,10 @@
         "no_speech_prob" : 0.018447771668434143
       }
     ]
+  },
+  "metrics" : {
+    "views" : 810609,
+    "likes" : 26689,
+    "comments" : 1628
   }
 }

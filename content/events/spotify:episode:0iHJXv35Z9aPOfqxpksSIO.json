@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#117 - James Charles & Tati Westbrook",
   "description" : "<p>On this episode of The H3 Podcast we talk all about James Charles stealing ProJared&#39;s thunder last week, why Game of Thrones is now garbage, Burger King&#39;s depression meal, and brands being extra (cringey) on social media!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/iT-d2t3ptqE/default.jpg",
   "tags" : [
   ],
@@ -24527,5 +24528,10 @@
         "no_speech_prob" : 0.7566554546356201
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1416630,
+    "likes" : 29498,
+    "comments" : 5706
   }
 }

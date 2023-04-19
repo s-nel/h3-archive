@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Angering Ghosts At The Most Haunted Place In America - Halloween Special",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2ddZ71IAjE4/default.jpg",
   "tags" : [
     {
@@ -15189,5 +15190,10 @@
         "no_speech_prob" : 0.9227285981178284
       }
     ]
+  },
+  "metrics" : {
+    "views" : 673172,
+    "likes" : 39100,
+    "comments" : 4912
   }
 }

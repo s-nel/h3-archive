@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Why is Facebook Content SO Bad?!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LDE5SRVyxFs/default.jpg",
   "tags" : [
     {
@@ -1418,5 +1419,10 @@
         "no_speech_prob" : 0.007802552543580532
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6273768,
+    "likes" : 275827,
+    "comments" : 22093
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Fitness Crunch Time [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VYn9MTO-iac/default.jpg",
   "tags" : [
     {
@@ -1143,5 +1144,10 @@
         "no_speech_prob" : 0.9849346876144409
       }
     ]
+  },
+  "metrics" : {
+    "views" : 204771,
+    "likes" : 6227,
+    "comments" : 551
   }
 }

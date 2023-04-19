@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Fat Idiot Gets Lost in the Mojave Desert",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Jyge6fuXjbc/default.jpg",
   "tags" : [
     {
@@ -4524,5 +4525,10 @@
         "no_speech_prob" : 0.9033294320106506
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3966232,
+    "likes" : 138859,
+    "comments" : 11236
   }
 }

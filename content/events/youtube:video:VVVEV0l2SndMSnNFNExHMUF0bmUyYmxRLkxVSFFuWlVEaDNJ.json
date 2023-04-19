@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Nature Valley Rediscover Nature -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LUHQnZUDh3I/default.jpg",
   "tags" : [
     {
@@ -978,5 +979,10 @@
         "no_speech_prob" : 0.3567434251308441
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4477536,
+    "likes" : 107775,
+    "comments" : 6675
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "It's Time To Stop YouTube Rewind",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8o12WrHBhU0/default.jpg",
   "tags" : [
     {
@@ -1770,5 +1771,10 @@
         "no_speech_prob" : 0.46060729026794434
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6597109,
+    "likes" : 387664,
+    "comments" : 24235
   }
 }

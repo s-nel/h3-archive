@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Vlog Squad Responds - H3 After Dark #26",
   "description" : "<p>On this episode of H3 After Dark Ethan &amp; Hila address Scott Sire&#39;s PR video running interference for David. Later in the episode we have some goofs and light hearted gaffs talking about crazy Christian TikTok, R Kelly, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xliblinydqE/default.jpg",
   "tags" : [
     {
@@ -20048,5 +20049,10 @@
         "no_speech_prob" : 0.031652163714170456
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1842599,
+    "likes" : 48648,
+    "comments" : 9713
   }
 }

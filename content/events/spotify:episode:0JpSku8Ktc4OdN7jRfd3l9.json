@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#13 - Boogie2988 (Steven Williams)",
   "description" : "Boogie2988 join us to talk about EVERYTHING.<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eX1vs8Zt8Ss/default.jpg",
   "tags" : [
   ],
@@ -21981,5 +21982,10 @@
         "no_speech_prob" : 0.008512945845723152
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2991424,
+    "likes" : 78447,
+    "comments" : 8200
   }
 }

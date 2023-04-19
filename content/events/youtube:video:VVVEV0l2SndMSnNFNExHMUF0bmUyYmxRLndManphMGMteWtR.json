@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Dumbest Products Of All Time",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wLjza0c-ykQ/default.jpg",
   "tags" : [
     {
@@ -3919,5 +3920,10 @@
         "no_speech_prob" : 0.014224269427359104
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7957307,
+    "likes" : 257060,
+    "comments" : 14172
   }
 }

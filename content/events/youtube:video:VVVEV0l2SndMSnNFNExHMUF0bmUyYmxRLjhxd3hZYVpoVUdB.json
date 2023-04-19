@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "THE SOFLO FACEBOOK RANT",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8qwxYaZhUGA/default.jpg",
   "tags" : [
     {
@@ -1466,5 +1467,10 @@
         "no_speech_prob" : 0.6343334913253784
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5947772,
+    "likes" : 210575,
+    "comments" : 11191
   }
 }

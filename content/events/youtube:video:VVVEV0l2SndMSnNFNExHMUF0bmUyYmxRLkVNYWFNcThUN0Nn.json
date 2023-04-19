@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "rekt together",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EMaaMq8T7Cg/default.jpg",
   "tags" : [
     {
@@ -318,5 +319,10 @@
         "no_speech_prob" : 0.2909517288208008
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3502353,
+    "likes" : 134197,
+    "comments" : 8559
   }
 }

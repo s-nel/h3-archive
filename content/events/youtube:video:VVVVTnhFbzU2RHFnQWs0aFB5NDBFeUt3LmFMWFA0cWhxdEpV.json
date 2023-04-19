@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Unearthed Keemstar Clip May End His Career",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aLXP4qhqtJU/default.jpg",
   "tags" : [
     {
@@ -974,5 +975,10 @@
         "no_speech_prob" : 0.0770265981554985
       }
     ]
+  },
+  "metrics" : {
+    "views" : 483334,
+    "likes" : 27994,
+    "comments" : 4418
   }
 }

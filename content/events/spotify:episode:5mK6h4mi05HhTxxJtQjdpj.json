@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#46 - Jacksfilms and Erik of Internet Comment Etiquette",
   "description" : "<p>Erik and Jack return for the first show of 2018! The gang discuss Pitbull, The Pauls, Bugchasing, and take a call from President Donald Trump!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3wV4TxJ8dA8/default.jpg",
   "tags" : [
   ],
@@ -19815,5 +19816,10 @@
         "no_speech_prob" : 0.022051692008972168
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2552594,
+    "likes" : 49920,
+    "comments" : 6202
   }
 }

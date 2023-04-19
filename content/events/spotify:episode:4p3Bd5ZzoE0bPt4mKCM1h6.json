@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#124 - Belle Delphine Responds & Free A$AP Rocky",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UA34AS9XtbU/default.jpg",
   "tags" : [
   ],
@@ -24127,5 +24128,10 @@
         "no_speech_prob" : 0.21566009521484375
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1130015,
+    "likes" : 26833,
+    "comments" : 5516
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "curling exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-0jeolifQPk/default.jpg",
   "tags" : [
     {
@@ -142,5 +143,10 @@
         "no_speech_prob" : 0.541000247001648
       }
     ]
+  },
+  "metrics" : {
+    "views" : 399576,
+    "likes" : 5842,
+    "comments" : 256
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Thank You",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9HMzwFl5OLY/default.jpg",
   "tags" : [
     {
@@ -3904,5 +3905,10 @@
         "no_speech_prob" : 0.4877414107322693
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2439189,
+    "likes" : 189706,
+    "comments" : 10262
   }
 }

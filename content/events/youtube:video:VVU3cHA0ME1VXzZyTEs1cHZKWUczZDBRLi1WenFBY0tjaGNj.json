@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Thank you for helping my mom",
   "description" : "Cant thank the amazing people who helped my mom enough\n\nWe Found The Beanie God �м https://goo.gl/VRkBLn\n\nTwitter......................�мhttps://twitter.com/h3h3productions\nHila's Twitter............�мhttps://twitter.com/hilakleinh3\nSpreadshirt..............�мhttp://h3h3productions.spreadshirt.com\nInstagram................�мhttp://instagram.com/h3h3productions\nHila's Instragram.....�мhttps://www.instagram.com/kleinhila\nWebsite....................�мhttp://h3h3productions.com\nSubreddit.................�мhttp://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\nMusic by Otis McDonald",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-VzqAcKchcc/default.jpg",
   "tags" : [
     {
@@ -4729,5 +4730,10 @@
         "no_speech_prob" : 0.0430668368935585
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1136614,
+    "likes" : 52840,
+    "comments" : 5077
   }
 }

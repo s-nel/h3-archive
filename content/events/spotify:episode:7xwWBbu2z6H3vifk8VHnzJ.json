@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#103 - Chris D'Elia",
   "description" : "<p>On this episode The H3 Podcast we are joined once again by standup comedian/podcaster Chris D&#39;Elia. Together we discuss offensive movies about midgets, Eminem impressions, bad Mathew McConaughey commercials, thicc otters, pop n&#39; lockin for Jesus, and R. Kelly songs about getting your vaccinations!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hWauSy4epQM/default.jpg",
   "tags" : [
   ],
@@ -26958,5 +26959,10 @@
         "no_speech_prob" : 0.9956705570220947
       }
     ]
+  },
+  "metrics" : {
+    "views" : 879246,
+    "likes" : 20066,
+    "comments" : 2066
   }
 }

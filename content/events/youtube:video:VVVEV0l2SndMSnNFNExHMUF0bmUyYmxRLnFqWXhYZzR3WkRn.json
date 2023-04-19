@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "My Epic Collab With Pewdiepie!!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qjYxXg4wZDg/default.jpg",
   "tags" : [
     {
@@ -3882,5 +3883,10 @@
         "no_speech_prob" : 0.02471364103257656
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7915356,
+    "likes" : 359405,
+    "comments" : 19852
   }
 }

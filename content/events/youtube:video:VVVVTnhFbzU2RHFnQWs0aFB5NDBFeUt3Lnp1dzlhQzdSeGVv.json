@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "ive done something unforgivable",
   "description" : "im sorry",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zuw9aC7Rxeo/default.jpg",
   "tags" : [
     {
@@ -512,5 +513,10 @@
         "no_speech_prob" : 0.08401791006326675
       }
     ]
+  },
+  "metrics" : {
+    "views" : 598929,
+    "likes" : 36568,
+    "comments" : 3183
   }
 }

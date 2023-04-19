@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jake Paul Corrects Our Grammar",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aGAxKpNWIA0/default.jpg",
   "tags" : [
     {
@@ -2595,5 +2596,10 @@
         "no_speech_prob" : 0.05712568759918213
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10104792,
+    "likes" : 418080,
+    "comments" : 24751
   }
 }

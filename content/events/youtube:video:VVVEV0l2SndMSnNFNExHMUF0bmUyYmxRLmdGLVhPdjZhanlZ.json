@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Nuclear Winter - Keemstar",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gF-XOv6ajyY/default.jpg",
   "tags" : [
     {
@@ -549,5 +550,10 @@
         "no_speech_prob" : 0.9834783673286438
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4549930,
+    "likes" : 400230,
+    "comments" : 34661
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#33 - Tai Lopez",
   "description" : "<p>Tai Lopez joins us outside of his garage to chat.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xdrWU77ugqg/default.jpg",
   "tags" : [
   ],
@@ -13724,5 +13725,10 @@
         "no_speech_prob" : 0.0229532178491354
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1437317,
+    "likes" : 40990,
+    "comments" : 5000
   }
 }

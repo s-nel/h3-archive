@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Interview w Casey King Of 600 Pound Life!",
   "description" : "Let's Help Casey Get His Skin Removal Surgery!\nhttps://www.gofundme.com/help-casey-fund-his-skin-removal-surgery\n\nCasey's Social Media:\nhttps://www.instagram.com/_caseyking_/\nhttps://youtube.com/channel/UCIB9HK5-O6xzvUmEZDnUrbA",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_w5AKQsqjbw/default.jpg",
   "tags" : [
     {
@@ -7112,5 +7113,10 @@
         "no_speech_prob" : 0.0017606808105483651
       }
     ]
+  },
+  "metrics" : {
+    "views" : 370063,
+    "likes" : 19922,
+    "comments" : 1693
   }
 }

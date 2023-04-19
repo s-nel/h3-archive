@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "why nan tumbles",
   "description" : "http://www.twitch.tv/h3h3productions\n\nSound credit: http://CreatedByBrett.com/music.php",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Dhp6hYOx0p8/default.jpg",
   "tags" : [
     {
@@ -230,5 +231,10 @@
         "no_speech_prob" : 0.8626694679260254
       }
     ]
+  },
+  "metrics" : {
+    "views" : 106001,
+    "likes" : 2938,
+    "comments" : 144
   }
 }

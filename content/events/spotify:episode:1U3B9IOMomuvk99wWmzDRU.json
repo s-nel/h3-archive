@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Finally Landed Our Dream Guest... - Off The Rails #38",
   "description" : "<p>Today may be the most Off the Rails episode of Off the Rails we&#39;ve ever done. First, we FINALLY have a call with the incomparable Wali P! Then the train completely leaves the tracks when Jimmie Lee the Jersey Outlaw calls in with the most deranged interaction imaginable. Jump into it!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Xo3-r7mhb1c/default.jpg",
   "tags" : [
     {
@@ -48692,5 +48693,10 @@
         "no_speech_prob" : 0.581386148929596
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1428900,
+    "likes" : 30722,
+    "comments" : 3281
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Shrek",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JbsDYF6RTnw/default.jpg",
   "tags" : [
     {
@@ -281,5 +282,10 @@
         "no_speech_prob" : 0.1028849259018898
       }
     ]
+  },
+  "metrics" : {
+    "views" : 549887,
+    "likes" : 14695,
+    "comments" : 973
   }
 }

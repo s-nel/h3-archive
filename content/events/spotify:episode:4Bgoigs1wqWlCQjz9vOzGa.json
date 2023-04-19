@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "WE’RE BACK!! Banned For A Week & Candy Tier List - H3TV #55",
   "description" : "<p>WE&#39;RE BAAAAAAAAAAAAAAAAAAAAACK!!!!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AlcD8_dyVvQ/default.jpg",
   "tags" : [
     {
@@ -21485,5 +21486,10 @@
         "no_speech_prob" : 0.39497455954551697
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1066596,
+    "likes" : 29676,
+    "comments" : 4125
   }
 }

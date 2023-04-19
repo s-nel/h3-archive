@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "DJ Khaled exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VMaRHLMjGws/default.jpg",
   "tags" : [
     {
@@ -28,5 +29,10 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "transcription" : null,
+  "metrics" : {
+    "views" : 1591474,
+    "likes" : 30293,
+    "comments" : 1267
+  }
 }

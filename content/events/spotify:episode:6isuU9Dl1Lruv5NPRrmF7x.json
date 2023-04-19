@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Make Ethan Laugh - Episode #1",
   "description" : "<p>Introducing MAKE ETHAN LAUGH- the HOTTEST new game show from h3h3productions. Do you have a goof gaff or splaff that can make Ethan laugh? There is $100 big ones on the line if you can- come see how our first round of contestants did on MAKE ETHAN LAUGH!!!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5xIfQkrbgdM/default.jpg",
   "tags" : [
   ],
@@ -35402,5 +35403,10 @@
         "no_speech_prob" : 0.9762676358222961
       }
     ]
+  },
+  "metrics" : {
+    "views" : 652490,
+    "likes" : 19183,
+    "comments" : 2474
   }
 }

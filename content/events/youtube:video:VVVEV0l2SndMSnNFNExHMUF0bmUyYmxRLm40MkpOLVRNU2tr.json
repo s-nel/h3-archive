@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Why is this Video on the TRENDING Tab???",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/n42JN-TMSkk/default.jpg",
   "tags" : [
     {
@@ -1774,5 +1775,10 @@
         "no_speech_prob" : 0.01234898529946804
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9314042,
+    "likes" : 1092679,
+    "comments" : 30775
   }
 }

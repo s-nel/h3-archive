@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Is PewDiePie a Racist?",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JLNSiFrS3n4/default.jpg",
   "tags" : [
     {
@@ -1726,5 +1727,10 @@
         "no_speech_prob" : 0.042664624750614166
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7318436,
+    "likes" : 454796,
+    "comments" : 23772
   }
 }

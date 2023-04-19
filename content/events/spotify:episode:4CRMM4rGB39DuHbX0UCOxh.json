@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Jeff Wittek Cancels David Dobrik - H3TV #24",
   "description" : "<p>It&#39;s MONDAY baybee, and we&#39;re talkin the latest piping hot news regarding the downfall of Dobrik &amp; Jeff Wittek&#39;s alliance. We also discuss the future of crypto, Trump&#39;s new social media platform, and much much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WmcJ_kZGVvE/default.jpg",
   "tags" : [
     {
@@ -39995,5 +39996,10 @@
         "no_speech_prob" : 0.9869555830955505
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1296158,
+    "likes" : 30238,
+    "comments" : 3841
   }
 }

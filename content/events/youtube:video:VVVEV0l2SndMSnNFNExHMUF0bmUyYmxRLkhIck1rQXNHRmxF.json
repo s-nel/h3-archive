@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "get rekt",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HHrMkAsGFlE/default.jpg",
   "tags" : [
     {
@@ -43,5 +44,10 @@
         "no_speech_prob" : 0.5200895071029663
       }
     ]
+  },
+  "metrics" : {
+    "views" : 604164,
+    "likes" : 12402,
+    "comments" : 584
   }
 }

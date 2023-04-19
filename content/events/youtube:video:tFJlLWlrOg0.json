@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "David Dobrik Says He Did Nothing Wrong",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tFJlLWlrOg0/default.jpg",
   "tags" : [
     {
@@ -2154,5 +2155,10 @@
         "no_speech_prob" : 7.935542380437255E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 850245,
+    "likes" : 29772,
+    "comments" : 3866
   }
 }

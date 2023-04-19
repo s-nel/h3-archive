@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Cameron Carpenter exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aS9TgoMfnQ4/default.jpg",
   "tags" : [
     {
@@ -219,5 +220,10 @@
         "no_speech_prob" : 0.04591834172606468
       }
     ]
+  },
+  "metrics" : {
+    "views" : 382626,
+    "likes" : 7148,
+    "comments" : 519
   }
 }

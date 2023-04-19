@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "And The New Host Is... - Leftovers #1",
   "description" : "<p>Welcome to Leftovers! This is our new podcast with co-host Hasan Piker! Together he &amp; Ethan will be goofing and gaffing every week on some of the dumbest, most vile scumbags in the world of American politics!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uASzNUFT5Dk/default.jpg",
   "tags" : [
     {
@@ -43840,5 +43841,10 @@
         "no_speech_prob" : 0.004322729539126158
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2062694,
+    "likes" : 99155,
+    "comments" : 20876
   }
 }

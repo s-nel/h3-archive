@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Try Guys Try Infidelity - Off The Rails #50",
   "description" : "<p>Today we dig into The Try Guys trying to have a mistress. We also have a call-in with Big Brother finalist Turner to talk about the competition plus his experience with Mr Beast, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/L65RJqFZrfk/default.jpg",
   "tags" : [
     {
@@ -20669,5 +20670,10 @@
         "no_speech_prob" : 0.026312028989195824
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1332601,
+    "likes" : 27431,
+    "comments" : 2474
   }
 }

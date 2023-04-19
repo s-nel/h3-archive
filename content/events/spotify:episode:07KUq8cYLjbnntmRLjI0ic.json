@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#202 - All Gas No Brakes (Andrew Callaghan)",
   "description" : "<p>On this episode of the H3 Podcast we are joined by gonzo journalist and emerging legend Andrew Callaghan of All Gas No Brakes! Together we discuss his experiences on the road, furries, Florida, his TV deal with Absolutely, and a whole lot more!</p> <p><a href=\"https://www.youtube.com/channel/UCtqxG9IrHFU_ID1khGvx9sA\" rel=\"nofollow\">All Gas No Brakes YouTube Channel</a></p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lxt6virxkio/default.jpg",
   "tags" : [
   ],
@@ -31948,5 +31949,10 @@
         "no_speech_prob" : 0.1971352994441986
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1451391,
+    "likes" : 44419,
+    "comments" : 4108
   }
 }

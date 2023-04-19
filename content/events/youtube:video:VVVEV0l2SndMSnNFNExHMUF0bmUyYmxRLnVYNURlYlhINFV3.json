@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "John Sakars -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uX5DebXH4Uw/default.jpg",
   "tags" : [
     {
@@ -28,5 +29,10 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "transcription" : null,
+  "metrics" : {
+    "views" : 1711545,
+    "likes" : 42601,
+    "comments" : 4488
+  }
 }

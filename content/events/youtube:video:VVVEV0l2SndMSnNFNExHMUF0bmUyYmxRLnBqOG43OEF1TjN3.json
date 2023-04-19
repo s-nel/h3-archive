@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "YouTube's Rules Don't Apply to Everyone",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pj8n78AuN3w/default.jpg",
   "tags" : [
     {
@@ -780,5 +781,10 @@
         "no_speech_prob" : 0.06410720944404602
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8252021,
+    "likes" : 591941,
+    "comments" : 23994
   }
 }

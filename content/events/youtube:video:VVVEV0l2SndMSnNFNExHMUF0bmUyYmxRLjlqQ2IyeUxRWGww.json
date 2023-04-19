@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "goats exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9jCb2yLQXl0/default.jpg",
   "tags" : [
     {
@@ -138,5 +139,10 @@
         "no_speech_prob" : 0.38402530550956726
       }
     ]
+  },
+  "metrics" : {
+    "views" : 363881,
+    "likes" : 7408,
+    "comments" : 161
   }
 }

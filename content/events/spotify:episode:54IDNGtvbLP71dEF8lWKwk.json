@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "AB's Creator Clash Fight Debrief, Johnny Depp & Amber Heard Trial - H3TV #36",
   "description" : "<p>Today AB returns from his great boxing journey, &amp; we&#39;re joined by a very special guest to discuss the Creator Clash! We also recap the latest events from the Amber/Johnny trial, review clips of the worst pickup artist ever, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wMQHxxO7ets/default.jpg",
   "tags" : [
     {
@@ -58009,5 +58010,10 @@
         "no_speech_prob" : 0.5870636701583862
       }
     ]
+  },
+  "metrics" : {
+    "views" : 976978,
+    "likes" : 32367,
+    "comments" : 3159
   }
 }

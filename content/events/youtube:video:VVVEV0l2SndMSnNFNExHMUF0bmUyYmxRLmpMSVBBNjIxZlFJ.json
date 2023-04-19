@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Morons Of Coronavirus",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jLIPA621fQI/default.jpg",
   "tags" : [
     {
@@ -1730,5 +1731,10 @@
         "no_speech_prob" : 0.016556691378355026
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4945909,
+    "likes" : 310751,
+    "comments" : 31386
   }
 }

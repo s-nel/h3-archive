@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Used to be Drug Dealers",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XRXr7zB5M2A/default.jpg",
   "tags" : [
     {
@@ -3640,5 +3641,10 @@
         "no_speech_prob" : 0.013908669352531433
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8374004,
+    "likes" : 478456,
+    "comments" : 31438
   }
 }

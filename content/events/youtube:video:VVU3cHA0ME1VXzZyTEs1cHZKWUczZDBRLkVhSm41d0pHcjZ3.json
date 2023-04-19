@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Reacting to our first video",
   "description" : "Thanks so much for 300,000 we appreciate ya all! \n\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EaJn5wJGr6w/default.jpg",
   "tags" : [
     {
@@ -1396,5 +1397,10 @@
         "no_speech_prob" : 0.03286762163043022
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2774325,
+    "likes" : 82267,
+    "comments" : 4235
   }
 }

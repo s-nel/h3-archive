@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "RIP Queen Elizabeth, Keffals vs Kiwi Farms, Harry Styles vs Chris Pine - After Dark #83",
   "description" : "<p>Today we mourn the unfortunate passing of her royal majesty Queen Elizabeth II. We also dig into the absolute chaos of the Harry Styles Chris Pine drama with a powerpoint from AB, SuperMega sends us a gift, we try to recreate the motions from the viral Reddit post about the ultimate lovemaking song, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kCJyv-fbGHE/default.jpg",
   "tags" : [
     {
@@ -51799,5 +51800,10 @@
         "no_speech_prob" : 0.5960220694541931
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1174837,
+    "likes" : 25598,
+    "comments" : 4887
   }
 }

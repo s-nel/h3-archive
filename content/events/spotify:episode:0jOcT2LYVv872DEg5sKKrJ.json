@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#123 - Belle Delphine Farts In A Jar And Sends It To Me & JayStation",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gzFnlFgrE2E/default.jpg",
   "tags" : [
   ],
@@ -14253,5 +14254,10 @@
         "no_speech_prob" : 0.005026313941925764
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1213594,
+    "likes" : 28042,
+    "comments" : 4074
   }
 }

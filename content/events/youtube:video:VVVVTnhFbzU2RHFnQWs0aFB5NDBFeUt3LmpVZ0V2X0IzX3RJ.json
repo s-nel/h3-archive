@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "What is wrong with me? Apology to QTCinderella",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jUgEv_B3_tI/default.jpg",
   "tags" : [
     {
@@ -1150,5 +1151,10 @@
         "no_speech_prob" : 3.183845547027886E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 288550,
+    "likes" : 14882,
+    "comments" : 4119
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Big big huge announcement massive announcement - After Dark #92",
   "description" : "<p>Today we have a MASSIVE announcement you will want to miss! We also discuss MascaraGATE, the Austin Butler accent drama, a new alpha influencer approaches, Jay Leno&#39;s glass bones, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_-TUf6tyhPI/default.jpg",
   "tags" : [
     {
@@ -50533,5 +50534,10 @@
         "no_speech_prob" : 0.9849997162818909
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1045013,
+    "likes" : 19593,
+    "comments" : 2085
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Our Lives Are About To Change Forever",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JNpKUp5FTeY/default.jpg",
   "tags" : [
     {
@@ -1330,5 +1331,10 @@
         "no_speech_prob" : 0.007640338037163019
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3979353,
+    "likes" : 250167,
+    "comments" : 21903
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "I'm Going To Adin Ross' House, MILF Manor - H3TV #63",
   "description" : "<p>Today Ethan makes a declaration...he will be going to Adin Ross&#39; house to become his new Morpheus. We also discuss the most unhinged reality show ever, </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PeeWhjhvC7I/default.jpg",
   "tags" : [
     {
@@ -59934,5 +59935,10 @@
         "no_speech_prob" : 0.9834099411964417
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1233981,
+    "likes" : 21197,
+    "comments" : 2343
   }
 }

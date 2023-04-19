@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "President Trump Calls - H3 After Dark #28",
   "description" : "<p>On this episode of H3 After Dark we get a call in from our illustrious former president, Donald J Trump. We also speak with the CEO of Kraken, a crypto exchange, and collector of NFTs who is trying to complete the H3 Podcast Exodia. We also check out some insane TikToks including Ethan&#39;s new favorite guy- Whiteclaw Gabe! Also fartgate 2.0 with Windy Williams, guys this is a jam packed episode you won&#39;t want to miss!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/iKpd0ZTpkp8/default.jpg",
   "tags" : [
     {
@@ -29387,5 +29388,10 @@
         "no_speech_prob" : 0.06993511319160461
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2050185,
+    "likes" : 33239,
+    "comments" : 4163
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Post Malone Dresses Me Like a Watermelon",
   "description" : "Make sure to visit our twitch page for our upcoming streams!\nhttps://www.twitch.tv/h3h3productions/\n\nMERCH.....http://h3h3productions.spreadshirt.com\n\nTwitter......................►https://twitter.com/h3h3productions\nHila's Twitter............►https://twitter.com/hilakleinh3\nSpreadshirt..............►http://h3h3productions.spreadshirt.com\nInstagram................►http://instagram.com/h3h3productions\nHila's Instragram.....►https://www.instagram.com/kleinhila\nWebsite....................►http://h3h3productions.com\nSubreddit.................►http://reddit.com/r/h3h3productions",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LqEm4q1oxPA/default.jpg",
   "tags" : [
     {
@@ -3662,5 +3663,10 @@
         "no_speech_prob" : 0.9724299907684326
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3309941,
+    "likes" : 115021,
+    "comments" : 6887
   }
 }

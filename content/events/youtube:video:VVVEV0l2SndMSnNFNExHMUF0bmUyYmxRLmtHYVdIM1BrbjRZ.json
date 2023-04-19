@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "years ago exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kGaWH3Pkn4Y/default.jpg",
   "tags" : [
     {
@@ -72,5 +73,10 @@
         "no_speech_prob" : 0.0034664259292185307
       }
     ]
+  },
+  "metrics" : {
+    "views" : 721101,
+    "likes" : 12799,
+    "comments" : 445
   }
 }

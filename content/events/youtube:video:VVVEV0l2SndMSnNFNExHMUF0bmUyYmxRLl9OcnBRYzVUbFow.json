@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How to Make a YouTube Vlog (ft. iDubbbz)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_NrpQc5TlZ0/default.jpg",
   "tags" : [
     {
@@ -2423,5 +2424,10 @@
         "no_speech_prob" : 0.9362298250198364
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6678246,
+    "likes" : 242432,
+    "comments" : 10899
   }
 }

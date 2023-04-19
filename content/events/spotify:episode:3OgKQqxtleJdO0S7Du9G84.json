@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Snuck Into The Oscars, Cr1tikal vs Sneako - Off The Rails #64",
   "description" : "<p>Today we discuss the ongoing feud between Critikal and Sneako that is heating up. We also chat about the Oscars, the Jared Fogle documentary, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ax2LvM4I3d8/default.jpg",
   "tags" : [
     {
@@ -53782,5 +53783,10 @@
         "no_speech_prob" : 0.9871250987052917
       }
     ]
+  },
+  "metrics" : {
+    "views" : 874337,
+    "likes" : 18744,
+    "comments" : 1858
   }
 }

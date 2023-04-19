@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Reading the Good Looking Loser's Comments",
   "description" : "If you guys are out of the loop on this one, these guys are commenting on this video we made a while ago:\nhttps://www.youtube.com/watch?v=JlVwcv0rl28\n\nHere are their comments:\nhttp://www.goodlookingloser.com/forums/the-lastest-from-good-looking-loser/128218-this-what-our-haters-look-like-who-saw-this?start=24\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Vl_eILs66ZQ/default.jpg",
   "tags" : [
     {
@@ -1528,5 +1529,10 @@
         "no_speech_prob" : 0.014864585362374783
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3619242,
+    "likes" : 74084,
+    "comments" : 5075
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Joey Salads -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/H2ganadAS-4/default.jpg",
   "tags" : [
     {
@@ -1935,5 +1936,10 @@
         "no_speech_prob" : 0.06897278130054474
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6033706,
+    "likes" : 159524,
+    "comments" : 6666
   }
 }

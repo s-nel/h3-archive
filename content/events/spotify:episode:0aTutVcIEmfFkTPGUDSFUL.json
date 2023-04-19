@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#38 - Hila Klein",
   "description" : "<p>Thanks to the original HILA KLEINER for slammin with us </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cTBnDJ77kr0/default.jpg",
   "tags" : [
   ],
@@ -21904,5 +21905,10 @@
         "no_speech_prob" : 0.027845414355397224
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2164886,
+    "likes" : 64292,
+    "comments" : 6515
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Veterans Day DEALS and FREEBIES!!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/czpyiqUvfiQ/default.jpg",
   "tags" : [
     {
@@ -934,5 +935,10 @@
         "no_speech_prob" : 0.9433924555778503
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3190488,
+    "likes" : 161611,
+    "comments" : 8941
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Post office adventure",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EiBx-UNMdNg/default.jpg",
   "tags" : [
     {
@@ -890,5 +891,10 @@
         "no_speech_prob" : 0.3441973328590393
       }
     ]
+  },
+  "metrics" : {
+    "views" : 629896,
+    "likes" : 13920,
+    "comments" : 1029
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Break 9 Different Guinness World Records & Creator Clash Announced RIP AB - Off The Rails #58",
   "description" : "<p>Today we take on 9 world records! Every crew member steps up to the plate and shows their skills. We also discuss Nikocado Avocado, the best version of Chestnuts Roasting On An Open Fire ever seen by the world, and the Creator Clash 2 announcement featuring AB!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/y19qnDm2tDs/default.jpg",
   "tags" : [
     {
@@ -61885,5 +61886,10 @@
         "no_speech_prob" : 0.5578449368476868
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1140257,
+    "likes" : 19806,
+    "comments" : 2309
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "WHAT ARE THESE PRANKSTERS DOING?!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ipTJNNvW-Gw/default.jpg",
   "tags" : [
     {
@@ -1297,5 +1298,10 @@
         "no_speech_prob" : 0.8139662146568298
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6095300,
+    "likes" : 209274,
+    "comments" : 12643
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#8 - Markiplier & Ian Hecox (Smosh)",
   "description" : "Markiplier &amp; Ian Hecox from Smosh join us, bless em.<p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hrEFpGiETu8/default.jpg",
   "tags" : [
   ],
@@ -42709,5 +42710,10 @@
         "no_speech_prob" : 0.006524588912725449
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2767024,
+    "likes" : 86332,
+    "comments" : 9684
   }
 }

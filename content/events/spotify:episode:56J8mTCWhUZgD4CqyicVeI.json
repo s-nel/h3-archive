@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "David Dobrik Is Being Sued By Jeff Wittek & James Charles Hasn't Changed At All - Off The Rails #40",
   "description" : "<p>Today it&#39;s a blast from the past, with a James Charles/David Dobrik double-banger episode! James is back and sliding in the DMs yet again, David is officially being sued, we have a call-in from one of Ethan&#39;s favorite TikTok accounts, discuss the Ninja/Keemstar drama, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ue2zpTPkthg/default.jpg",
   "tags" : [
     {
@@ -53016,5 +53017,10 @@
         "no_speech_prob" : 0.6295233964920044
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1231802,
+    "likes" : 29018,
+    "comments" : 2085
   }
 }

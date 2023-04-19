@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#59 - Deadmau5",
   "description" : "<p>On this episode of The H3 Podcast we are joined by Joel Zimmerman aka Deadmau5! Together we discuss his new orchestral album &#34;Where&#39;s The Drop?&#34;, near death experiences, the state of EDM, and beefing on twitter. Joel (not George) is a legendary DJ, producer, label head and entrepreneur. His new album, &#34;Where&#39;s The Drop?&#34;, is out March 30th as a timed exclusive on Tidal.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WEMAvnkHA9U/default.jpg",
   "tags" : [
   ],
@@ -14344,5 +14345,10 @@
         "no_speech_prob" : 0.01014032680541277
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1195473,
+    "likes" : 32959,
+    "comments" : 4452
   }
 }

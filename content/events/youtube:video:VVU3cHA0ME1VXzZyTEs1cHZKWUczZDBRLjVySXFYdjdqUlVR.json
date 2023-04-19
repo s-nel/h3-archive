@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Dodger Stadium",
   "description" : "Baseball is pretty dope, got to eat some cheese and powder my balls.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5rIqXv7jRUQ/default.jpg",
   "tags" : [
     {
@@ -538,5 +539,10 @@
         "no_speech_prob" : 0.625396192073822
       }
     ]
+  },
+  "metrics" : {
+    "views" : 191580,
+    "likes" : 4673,
+    "comments" : 220
   }
 }

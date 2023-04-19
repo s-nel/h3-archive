@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "jesus exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CwOLcab9Zmk/default.jpg",
   "tags" : [
     {
@@ -252,5 +253,10 @@
         "no_speech_prob" : 0.14371292293071747
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1079756,
+    "likes" : 25368,
+    "comments" : 1284
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "THE TAI LOPEZ CONSPIRACY",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XRBkS-QWo6w/default.jpg",
   "tags" : [
     {
@@ -1257,5 +1258,10 @@
         "no_speech_prob" : 0.00364235183224082
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6780037,
+    "likes" : 167256,
+    "comments" : 11109
   }
 }

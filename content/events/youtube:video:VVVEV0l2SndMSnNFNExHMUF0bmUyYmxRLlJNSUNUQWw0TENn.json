@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "VAPE NAYSH YALL",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/RMICTAl4LCg/default.jpg",
   "tags" : [
     {
@@ -285,5 +286,10 @@
         "no_speech_prob" : 0.009633059613406658
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5102772,
+    "likes" : 184054,
+    "comments" : 9007
   }
 }

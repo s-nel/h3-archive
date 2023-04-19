@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Game Crazy Training Video -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YJJN-8Y0BP4/default.jpg",
   "tags" : [
     {
@@ -2386,5 +2387,10 @@
         "no_speech_prob" : 0.2697610557079315
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4799349,
+    "likes" : 129428,
+    "comments" : 7949
   }
 }

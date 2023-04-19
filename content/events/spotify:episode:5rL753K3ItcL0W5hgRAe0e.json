@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Sound The Warhorns - BFFs Is Over - H3TV #46",
   "description" : "<p>Today we go to war with the BFFs. We also discuss a war between Adin Ross &amp; Love, Keemstar latest round of attacks on Ethan/Teddy Fresh accusations, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XTU2hHPXVos/default.jpg",
   "tags" : [
     {
@@ -26799,5 +26800,10 @@
         "no_speech_prob" : 0.10043361783027649
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1207809,
+    "likes" : 27085,
+    "comments" : 2500
   }
 }

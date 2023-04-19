@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "DONT JUDGE ME CHALLENGE IS STUPID  -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2Jrk7-1YPis/default.jpg",
   "tags" : [
     {
@@ -1484,5 +1485,10 @@
         "no_speech_prob" : 0.33924031257629395
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6371414,
+    "likes" : 176810,
+    "comments" : 6905
   }
 }

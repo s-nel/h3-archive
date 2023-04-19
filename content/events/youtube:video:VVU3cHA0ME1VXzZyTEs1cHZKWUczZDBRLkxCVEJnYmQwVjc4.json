@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ethan Klein Calls Out Cameo For Ripping Him Off",
   "description" : "Ok I was having a positive experience with cameo but now I'm totally fricked off after they banned my account, I honestly dont know what to do because I have tons of bills to pay and I was completely dependent on that income and now its just gone - if you guys want a personal cameo message please email or dm and i will give you a huge discount thank you",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LBTBgbd0V78/default.jpg",
   "tags" : [
     {
@@ -978,5 +979,10 @@
         "no_speech_prob" : 0.335022509098053
       }
     ]
+  },
+  "metrics" : {
+    "views" : 600330,
+    "likes" : 25565,
+    "comments" : 1919
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Kanye West Villain Arc, Elon Musk Talks With Putin - Leftovers #28",
   "description" : "<p>Today we dig into the complex situation regarding the last week of Kanye West&#39;s public feuds. We also discuss Alex Jones being on the hook for a billion dollars, Elon Musk gabbing with Putin, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/RO6LOJj_p2g/default.jpg",
   "tags" : [
   ],
@@ -37061,5 +37062,10 @@
         "no_speech_prob" : 0.021355587989091873
       }
     ]
+  },
+  "metrics" : {
+    "views" : 942412,
+    "likes" : 19966,
+    "comments" : 1636
   }
 }

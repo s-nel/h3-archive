@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Ethan Embarrassed Himself In Front Of Trisha's Family - Frenemies # 35",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trish recap the week of birthday festivities for Trisha, talk cringey TikTokers, argue about Tourette&#39;s, and a heck of a lot more! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ru5D83BKNbE/default.jpg",
   "tags" : [
   ],
@@ -49292,5 +49293,10 @@
         "no_speech_prob" : 0.5207072496414185
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4618353,
+    "likes" : 111660,
+    "comments" : 15403
   }
 }

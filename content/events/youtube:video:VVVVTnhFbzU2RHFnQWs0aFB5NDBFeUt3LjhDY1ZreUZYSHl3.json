@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "MoistCritikal Is Destroying YouTube",
   "description" : "14 page meticulous magnum opus by DarkViper: https://docs.google.com/document/d/150ojYEfnZVjY1Ro27aEFJG5FCAQD5u9KTH0GD-qmZ1A/edit \nDarkViper's video: https://www.youtube.com/watch?v=cqWNmXYC76A\nMoistCritikal's video: https://www.youtube.com/watch?v=3raLgXC0czs",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8CcVkyFXHyw/default.jpg",
   "tags" : [
     {
@@ -5924,5 +5925,10 @@
         "no_speech_prob" : 0.35154715180397034
       }
     ]
+  },
+  "metrics" : {
+    "views" : 670928,
+    "likes" : 21123,
+    "comments" : 7504
   }
 }

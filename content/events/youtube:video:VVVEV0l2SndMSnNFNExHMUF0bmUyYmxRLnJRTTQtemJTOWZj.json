@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Fine Bros Have Gone Too Far",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rQM4-zbS9fc/default.jpg",
   "tags" : [
     {
@@ -3897,5 +3898,10 @@
         "no_speech_prob" : 0.44685718417167664
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5689777,
+    "likes" : 319285,
+    "comments" : 36835
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "They don't want you to get healthy",
   "description" : "Fupa loss day one let's get em!\nTHANKS to CHRISTOPHER BANUELOS for the cool ass metal remix! Check him out:\nhttps://www.youtube.com/watch?v=5-wQg8O9SHs",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SYi0FN2U3Bc/default.jpg",
   "tags" : [
     {
@@ -538,5 +539,10 @@
         "no_speech_prob" : 0.17808324098587036
       }
     ]
+  },
+  "metrics" : {
+    "views" : 354326,
+    "likes" : 9461,
+    "comments" : 536
   }
 }

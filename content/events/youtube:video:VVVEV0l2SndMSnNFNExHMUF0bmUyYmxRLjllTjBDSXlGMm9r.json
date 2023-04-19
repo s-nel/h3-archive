@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "WE WON THE LAWSUIT!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9eN0CIyF2ok/default.jpg",
   "tags" : [
     {
@@ -2027,5 +2028,10 @@
         "no_speech_prob" : 0.5115941166877747
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10349923,
+    "likes" : 736628,
+    "comments" : 50698
   }
 }

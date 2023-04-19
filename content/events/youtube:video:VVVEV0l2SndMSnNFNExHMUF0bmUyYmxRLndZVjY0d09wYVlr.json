@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Fat Idiot has a Heat Stroke in Yosemite",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wYV64wOpaYk/default.jpg",
   "tags" : [
     {
@@ -1671,5 +1672,10 @@
         "no_speech_prob" : 0.4786035418510437
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2002526,
+    "likes" : 56523,
+    "comments" : 2213
   }
 }

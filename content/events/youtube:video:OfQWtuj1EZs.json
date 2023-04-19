@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Confronting Adin Ross On Twitch Gambling",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OfQWtuj1EZs/default.jpg",
   "tags" : [
     {
@@ -15442,5 +15443,10 @@
         "no_speech_prob" : 0.4838440418243408
       }
     ]
+  },
+  "metrics" : {
+    "views" : 639192,
+    "likes" : 25472,
+    "comments" : 5119
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "h3h3productions Reacts to Mean Comments on Reddit",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YbbPeliN4tU/default.jpg",
   "tags" : [
     {
@@ -1484,5 +1485,10 @@
         "no_speech_prob" : 0.1440524309873581
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8697184,
+    "likes" : 286189,
+    "comments" : 12504
   }
 }

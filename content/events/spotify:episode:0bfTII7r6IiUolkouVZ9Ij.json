@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#115 - Boogie2988",
   "description" : "<p>On this episode of The H3 Podcast we are joined by THREE TIME H3 PODCAST CHAMP Boogie2988! Together we discuss his new set of chompers, weight loss, the state of the video game industry, the state of his mental health, vitriol on social media, overweight sex, good puppies, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_w6cw_OlUmM/default.jpg",
   "tags" : [
   ],
@@ -38053,5 +38054,10 @@
         "no_speech_prob" : 0.7170948386192322
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1450504,
+    "likes" : 33566,
+    "comments" : 6006
   }
 }

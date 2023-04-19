@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Daddy of Five ft. Steve-O",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IP4F4p_fDrM/default.jpg",
   "tags" : [
     {
@@ -5213,5 +5214,10 @@
         "no_speech_prob" : 0.0824282169342041
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8828832,
+    "likes" : 1047233,
+    "comments" : 33400
   }
 }

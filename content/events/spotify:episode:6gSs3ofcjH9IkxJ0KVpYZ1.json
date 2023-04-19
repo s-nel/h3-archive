@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Watching Trump's Arrest LIVE!!! - Leftovers #42",
   "description" : "<p>Today we are reporting LIVE from Mar-a-Lago. We cover the impending 100%-happening Trump arrest, the ongoing saga of Meatball Ron vs Trump, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pddvEbES808/default.jpg",
   "tags" : [
     {
@@ -33535,5 +33536,10 @@
         "no_speech_prob" : 0.11199789494276047
       }
     ]
+  },
+  "metrics" : {
+    "views" : 806105,
+    "likes" : 17558,
+    "comments" : 1120
   }
 }

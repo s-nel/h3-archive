@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "PREGNANCY ANNOUNCEMENT! - Frenemies # 38",
   "description" : "<p>On this episode of Frenemies Ethan and Trisha discuss LGBTQ&#43; Pride Month, Ethan having a second child with Hila, Eugenia Cooney, Hank Green vs Tom Hanks, and play a little bit of the Guess That Superhero game! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_d5QneG6oF8/default.jpg",
   "tags" : [
   ],
@@ -50195,5 +50196,10 @@
         "no_speech_prob" : 0.8210468888282776
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4117157,
+    "likes" : 96653,
+    "comments" : 16367
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Eviction I (Part 2 of 3)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dQZfFysRp54/default.jpg",
   "tags" : [
     {
@@ -197,5 +198,10 @@
         "no_speech_prob" : 0.5847867727279663
       }
     ]
+  },
+  "metrics" : {
+    "views" : 123082,
+    "likes" : 3100,
+    "comments" : 189
   }
 }

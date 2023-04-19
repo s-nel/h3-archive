@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The 3rd Annual Steamies Awards! Ft. Jeff Wittek & Tana Mongeau",
   "description" : "<p>Today we host the 3rd annual Steamies! This year we are joined by two very special cohosts, Jeff Wittek &amp; Tana Mongeau! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tMg0kf-Q0A8/default.jpg",
   "tags" : [
     {
@@ -40006,5 +40007,10 @@
         "no_speech_prob" : 0.866929829120636
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1404826,
+    "likes" : 42308,
+    "comments" : 3211
   }
 }

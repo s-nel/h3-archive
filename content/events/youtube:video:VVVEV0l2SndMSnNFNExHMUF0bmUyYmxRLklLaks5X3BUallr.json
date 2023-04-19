@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Lesbians Try Kissing Men - H3H3",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IKjK9_pTjYk/default.jpg",
   "tags" : [
     {
@@ -4630,5 +4631,10 @@
         "no_speech_prob" : 0.022615017369389534
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5728353,
+    "likes" : 255209,
+    "comments" : 15738
   }
 }

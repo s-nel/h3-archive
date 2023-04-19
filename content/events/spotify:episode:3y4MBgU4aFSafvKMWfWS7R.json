@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Big Bird Is A Commie - Leftovers #7",
   "description" : "<p>On this episode of Leftovers Hasan and Ethan discuss how every political ad follows the exact same format, taking HGH, weird political anime memes, and ask the important question of our age- is Big Bird a Marxist-Leninist infiltrator?</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Gzl1Px4_ndg/default.jpg",
   "tags" : [
   ],
@@ -34398,5 +34399,10 @@
         "no_speech_prob" : 0.07267424464225769
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1051453,
+    "likes" : 32236,
+    "comments" : 3488
   }
 }

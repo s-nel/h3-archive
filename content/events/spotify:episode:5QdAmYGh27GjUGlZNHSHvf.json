@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Fortnite MLK Disaster, Mr Verified Winner - H3 After Dark #48",
   "description" : "<p>Today we discuss Fortnite&#39;s massive Martin Luther King Jr blunder, milk crate crashes, the latest Kanye news, and of course....we reveal the winner of Mr Verified!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Vvn4QiTRqQw/default.jpg",
   "tags" : [
     {
@@ -49172,5 +49173,10 @@
         "no_speech_prob" : 0.42320188879966736
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1822051,
+    "likes" : 38790,
+    "comments" : 4744
   }
 }

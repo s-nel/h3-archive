@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Is Mario Spreading The Woke Mind Virus? The Debate Of The Century - Leftovers #45",
   "description" : "<p>Today we debate the WOKENESS taking over the Mario movie, Mr Beast Chris coming out as nonbinary and the absurd reactions, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wBrO8-PrLEk/default.jpg",
   "tags" : [
     {
@@ -17313,5 +17314,10 @@
         "no_speech_prob" : 0.5116046071052551
       }
     ]
+  },
+  "metrics" : {
+    "views" : 571722,
+    "likes" : 14329,
+    "comments" : 1305
   }
 }

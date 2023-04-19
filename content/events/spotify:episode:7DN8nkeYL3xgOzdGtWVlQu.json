@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#159 - Shoenice",
   "description" : "<p>On this episode of The H3 podcast we are joined via Skype by YouTube legend- SHOENICE! Together we discuss his childhood, head injuries, eating large quantities of things, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EZojNTrG2Xc/default.jpg",
   "tags" : [
   ],
@@ -27064,5 +27065,10 @@
         "no_speech_prob" : 0.15064486861228943
       }
     ]
+  },
+  "metrics" : {
+    "views" : 984824,
+    "likes" : 29472,
+    "comments" : 10228
   }
 }

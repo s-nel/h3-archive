@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "YouTuber House Tours, Make Ethan Laugh, Twitch Gambling Finale | H3TV Full Episode #2",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/b9BRDiQPD-U/default.jpg",
   "tags" : [
     {
@@ -24451,5 +24452,10 @@
         "no_speech_prob" : 0.9370715022087097
       }
     ]
+  },
+  "metrics" : {
+    "views" : 560479,
+    "likes" : 12047,
+    "comments" : 1933
   }
 }

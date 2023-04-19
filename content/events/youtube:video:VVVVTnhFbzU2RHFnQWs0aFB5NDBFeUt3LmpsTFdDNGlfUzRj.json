@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Cringiest Break Up Couple Is BACK!",
   "description" : "okbaby brake up video part two",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jlLWC4i_S4c/default.jpg",
   "tags" : [
     {
@@ -7640,5 +7641,10 @@
         "no_speech_prob" : 0.45893803238868713
       }
     ]
+  },
+  "metrics" : {
+    "views" : 693911,
+    "likes" : 26487,
+    "comments" : 5737
   }
 }

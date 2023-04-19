@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha & Ethan Do Goat Yoga & Carpool Karaoke - Frenemies #11",
   "description" : "<p>On this episode of Frenemies Trisha &amp; Ethan hit up some goat yoga, and on the way home belt some tunes together in the car. Afterward Trisha has a big announcement to share...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6rLUkQDU-wY/default.jpg",
   "tags" : [
   ],
@@ -21656,5 +21657,10 @@
         "no_speech_prob" : 0.9832214117050171
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2089873,
+    "likes" : 69361,
+    "comments" : 11945
   }
 }

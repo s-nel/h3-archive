@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Dr. Klein [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NOB2CLEdzyY/default.jpg",
   "tags" : [
     {
@@ -1528,5 +1529,10 @@
         "no_speech_prob" : 0.052751071751117706
       }
     ]
+  },
+  "metrics" : {
+    "views" : 540292,
+    "likes" : 14405,
+    "comments" : 805
   }
 }

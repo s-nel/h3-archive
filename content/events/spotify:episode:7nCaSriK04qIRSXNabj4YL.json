@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "It Keeps Getting Worse For David Dobrik - H3 After Dark #25",
   "description" : "<p>On this episode of H3 After Dark the gang talk about some resurfaced damning audio from David&#39;s podcast about the Seth situation, Zack Snyder&#39;s terrible Justice League movie, the worlds worst teacher yelling at a deaf student on zoom, Sia&#39;s cringetastic new movie &#34;Music&#34; and a whole lot more!</p> <ul><li><a href=\"https://youtu.be/6dHQCDhXBkg?t&#61;192\" rel=\"nofollow\">Trisha with the shirt</a></li><li><a href=\"https://youtu.be/R_TU14YE-1A\" rel=\"nofollow\">Video of the deaf student incident </a></li></ul><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ugF3erryCls/default.jpg",
   "tags" : [
     {
@@ -22329,5 +22330,10 @@
         "no_speech_prob" : 0.015786096453666687
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2031957,
+    "likes" : 38942,
+    "comments" : 9479
   }
 }

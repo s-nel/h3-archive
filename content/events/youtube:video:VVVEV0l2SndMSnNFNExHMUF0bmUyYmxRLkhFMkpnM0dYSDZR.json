@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Fortnite Is Ruining Society",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HE2Jg3GXH6Q/default.jpg",
   "tags" : [
     {
@@ -1572,5 +1573,10 @@
         "no_speech_prob" : 0.8508606553077698
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4448601,
+    "likes" : 227352,
+    "comments" : 21672
   }
 }

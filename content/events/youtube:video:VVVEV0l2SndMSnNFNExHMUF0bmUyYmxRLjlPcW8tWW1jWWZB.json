@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Beach Pranks with Ethan Slamberry -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9Oqo-YmcYfA/default.jpg",
   "tags" : [
     {
@@ -747,5 +748,10 @@
         "no_speech_prob" : 0.03687215968966484
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5889804,
+    "likes" : 218516,
+    "comments" : 9769
   }
 }

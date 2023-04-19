@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#174 - Papa John",
   "description" : "<p>On this episode of the H3 Podcast we interview Papa John. Yep. Papa bless.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XGtMMYWhdUU/default.jpg",
   "tags" : [
   ],
@@ -13413,5 +13414,10 @@
         "no_speech_prob" : 0.004659187514334917
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2110706,
+    "likes" : 96477,
+    "comments" : 16815
   }
 }

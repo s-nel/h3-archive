@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Who I'm Voting for President re: Casey Neistat",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PjTc-EiwHqc/default.jpg",
   "tags" : [
     {
@@ -813,5 +814,10 @@
         "no_speech_prob" : 0.004231428727507591
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3857065,
+    "likes" : 214854,
+    "comments" : 32989
   }
 }

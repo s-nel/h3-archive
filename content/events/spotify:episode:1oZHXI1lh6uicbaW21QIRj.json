@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Our Channel May Be Deleted - H3TV #49",
   "description" : "<p>Today our friends, may be the end of the H3 Podcast. We explain why, along with a deep dive into Fousey vs Deji, Addison Rae vs her family and Yung Gravy, Sydney Sweeney vs the world, &amp; much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rCMQxhWYEEo/default.jpg",
   "tags" : [
     {
@@ -57479,5 +57480,10 @@
         "no_speech_prob" : 0.41845616698265076
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1092145,
+    "likes" : 26893,
+    "comments" : 3199
   }
 }

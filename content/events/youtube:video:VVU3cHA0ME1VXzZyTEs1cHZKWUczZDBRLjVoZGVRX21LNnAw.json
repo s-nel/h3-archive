@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "sean refuses to bring us more lube",
   "description" : "sean showing his true colors",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5hdeQ_mK6p0/default.jpg",
   "tags" : [
     {
@@ -164,5 +165,10 @@
         "no_speech_prob" : 0.004143863916397095
       }
     ]
+  },
+  "metrics" : {
+    "views" : 105257,
+    "likes" : 3379,
+    "comments" : 158
   }
 }

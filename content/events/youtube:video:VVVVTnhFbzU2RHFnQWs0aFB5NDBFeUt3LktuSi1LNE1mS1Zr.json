@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "A Look At Jordan Peterson's Twitter Account (It’s Bad)",
   "description" : "Jordan Peterson is the darling of the right, the greatest intellectual thinker of our time, yet his twitter takes are questionable to put it mildly.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/KnJ-K4MfKVk/default.jpg",
   "tags" : [
     {
@@ -2745,5 +2746,10 @@
         "no_speech_prob" : 0.09376002103090286
       }
     ]
+  },
+  "metrics" : {
+    "views" : 264322,
+    "likes" : 13284,
+    "comments" : 2133
   }
 }

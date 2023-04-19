@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "MattyB Juicy -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/c4dvhxrsffI/default.jpg",
   "tags" : [
     {
@@ -571,5 +572,10 @@
         "no_speech_prob" : 0.002020821673795581
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7245537,
+    "likes" : 172127,
+    "comments" : 7939
   }
 }

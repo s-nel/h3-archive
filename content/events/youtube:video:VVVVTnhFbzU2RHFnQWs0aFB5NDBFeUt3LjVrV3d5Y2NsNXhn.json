@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jack Wright & Sienna Mae",
   "description" : "Not an easy topic to discuss but I think its important to break a situation like this down as it's beyond drama. I think its worth mentioning that Sienna denies his claims and says they were in fact together at the time.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5kWwyccl5xg/default.jpg",
   "tags" : [
     {
@@ -3449,5 +3450,10 @@
         "no_speech_prob" : 9.544475469738245E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 835003,
+    "likes" : 31562,
+    "comments" : 2917
   }
 }

@@ -29,10 +29,6 @@
       "role" : "crew"
     },
     {
-      "person_id" : "dswerdlove",
-      "role" : "crew"
-    },
-    {
       "person_id" : "olopes",
       "role" : "crew"
     },
@@ -43,6 +39,10 @@
     {
       "person_id" : "love",
       "role" : "crew"
+    },
+    {
+      "person_id" : "nbarnett",
+      "role" : "topic"
     },
     {
       "person_id" : "layad",
@@ -65,12 +65,12 @@
       "role" : "crew"
     },
     {
-      "person_id": "nbarnett",
-      "role": "topic"
+      "person_id" : "cocean",
+      "role" : "topic"
     },
     {
-      "person_id": "cocean",
-      "role": "topic" 
+      "person_id" : "dswerdlove",
+      "role" : "crew"
     }
   ],
   "transcription" : {
@@ -49610,5 +49610,10 @@
         "no_speech_prob" : 0.235840305685997
       }
     ]
+  },
+  "metrics" : {
+    "views" : 622161,
+    "likes" : 16310,
+    "comments" : 1469
   }
 }

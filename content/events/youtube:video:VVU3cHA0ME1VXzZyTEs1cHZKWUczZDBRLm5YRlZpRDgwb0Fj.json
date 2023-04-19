@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Boxed Water is Better",
   "description" : "If you liked the music at the end check out this cool dude Otis Mcdonald:\nhttps://www.youtube.com/watch?v=8yOskhDn468",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nXFViD80oAc/default.jpg",
   "tags" : [
     {
@@ -494,5 +495,10 @@
         "no_speech_prob" : 0.45638787746429443
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1004562,
+    "likes" : 25757,
+    "comments" : 1451
   }
 }

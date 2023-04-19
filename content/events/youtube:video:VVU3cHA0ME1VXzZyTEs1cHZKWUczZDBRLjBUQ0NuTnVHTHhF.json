@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How many cantaloupes can you fit in your ass? (FAQ)",
   "description" : "Thank you everyone on Patreon, we love you and appreciate ya!\nhttps://www.patreon.com/h3h3productions\nPO BOX:\nEthan Klein\n5158 CLARETON DR.\nPO BOX 941\nAgoura Hills, CA 91376-0941",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0TCCnNuGLxE/default.jpg",
   "tags" : [
     {
@@ -1308,5 +1309,10 @@
         "no_speech_prob" : 0.0012662869412451982
       }
     ]
+  },
+  "metrics" : {
+    "views" : 781614,
+    "likes" : 22337,
+    "comments" : 1380
   }
 }

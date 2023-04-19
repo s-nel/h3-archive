@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "hot kitchen",
   "description" : "a little video we made last year but sean ruined it",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3kcZsoHAphE/default.jpg",
   "tags" : [
     {
@@ -384,5 +385,10 @@
         "no_speech_prob" : 0.03782200440764427
       }
     ]
+  },
+  "metrics" : {
+    "views" : 88059,
+    "likes" : 4778,
+    "comments" : 194
   }
 }

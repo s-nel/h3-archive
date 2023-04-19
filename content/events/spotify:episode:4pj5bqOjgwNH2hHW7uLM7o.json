@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#143 - Bill Burr Returns",
   "description" : "<p>On this episode of The H3 Podcast... Bill Burr joins us once again! Together we discuss his new special, Paper Tiger, his experience being in the new Star Wars TV show, being a first time parent, and he big time fat shames Ethan!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ljhMGEITegw/default.jpg",
   "tags" : [
   ],
@@ -10080,5 +10081,10 @@
         "no_speech_prob" : 0.4348587989807129
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1169350,
+    "likes" : 30526,
+    "comments" : 3706
   }
 }

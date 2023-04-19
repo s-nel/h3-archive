@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Pewdiepie DEFENDS me, Nikocado Update, Ace Family NEW Mansion Tour - After Dark #62",
   "description" : "<p>We have some interesting news regarding our Nikocado saga, along with a bombshell Pewdiepie update, a new Ace Family house tour (somehow), and much more! Dig in y&#39;all.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3qlTtGDQTi4/default.jpg",
   "tags" : [
     {
@@ -36380,5 +36381,10 @@
         "no_speech_prob" : 0.22689147293567657
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1710858,
+    "likes" : 33137,
+    "comments" : 3109
   }
 }

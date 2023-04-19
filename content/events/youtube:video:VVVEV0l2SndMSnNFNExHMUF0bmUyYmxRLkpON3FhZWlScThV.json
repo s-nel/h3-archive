@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "H3H3 BALL RIDER",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JN7qaeiRq8U/default.jpg",
   "tags" : [
     {
@@ -494,5 +495,10 @@
         "no_speech_prob" : 0.15188954770565033
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1771579,
+    "likes" : 85771,
+    "comments" : 11597
   }
 }

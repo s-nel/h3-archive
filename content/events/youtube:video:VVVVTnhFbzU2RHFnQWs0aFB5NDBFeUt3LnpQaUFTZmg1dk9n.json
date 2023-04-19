@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Craziest Thing That Has Ever Happened To Me",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zPiASfh5vOg/default.jpg",
   "tags" : [
     {
@@ -5891,5 +5892,10 @@
         "no_speech_prob" : 6.75029878038913E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 432827,
+    "likes" : 27737,
+    "comments" : 4040
   }
 }

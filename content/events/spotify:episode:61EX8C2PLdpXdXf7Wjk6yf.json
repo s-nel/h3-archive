@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#218 - Content Court: JayStation",
   "description" : "<p>On this episode of CONTENT COURT, the Honorable Judge Ethan Klein and Officer Hila take a close look at YouTube legend JayStation&#39;s spooky content. You know the legend of JayStation, the man who faked his girlfriend&#39;s death for views and subs, but are you aware of the REAL JayStation? Find out more than you ever wanted to know on this edition of Content Court!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VQ6bqvWmHoo/default.jpg",
   "tags" : [
   ],
@@ -11195,5 +11196,10 @@
         "no_speech_prob" : 0.0024214296136051416
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1022012,
+    "likes" : 30582,
+    "comments" : 3877
   }
 }

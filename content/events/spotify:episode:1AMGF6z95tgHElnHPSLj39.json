@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Why We Disappeared For A Week - H3TV #8",
   "description" : "<p>We return after an unexpected break to play the hits - Kavanaugh, Keemstar, James Charles...the vibes are back baby! Jump right into it</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DvKzxrX3MMg/default.jpg",
   "tags" : [
     {
@@ -36992,5 +36993,10 @@
         "no_speech_prob" : 0.9849531650543213
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1666667,
+    "likes" : 40354,
+    "comments" : 4422
   }
 }

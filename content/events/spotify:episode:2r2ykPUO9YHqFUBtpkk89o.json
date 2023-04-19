@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "I'm Done With Trisha Paytas - Off The Rails #8",
   "description" : "<p>Trisha Paytas and Keemstar did a podcast together. Ethan ain&#39;t happy about it.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jFG57UkVvx8/default.jpg",
   "tags" : [
     {
@@ -23887,5 +23888,10 @@
         "no_speech_prob" : 0.0016373565886169672
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4319825,
+    "likes" : 155321,
+    "comments" : 30536
   }
 }

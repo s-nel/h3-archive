@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha & Ethan Reconcile... Kind Of - Frenemies #6",
   "description" : "<p>On this episode of Frenemies Trisha comes back and Ethan and her hash things out... sort of...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7E6SuDyDUos/default.jpg",
   "tags" : [
   ],
@@ -34636,5 +34637,10 @@
         "no_speech_prob" : 0.014339949935674667
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3425305,
+    "likes" : 93811,
+    "comments" : 20347
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "10 Billion Dollar Telescope May Confirm Alien Life Exists",
   "description" : "The James Webb Telescope is the most exciting technological achievement in decades - I am so excited to follow the updates and photos that come from this!",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sG4tasrfliE/default.jpg",
   "tags" : [
     {
@@ -2459,5 +2460,10 @@
         "no_speech_prob" : 0.01204239297658205
       }
     ]
+  },
+  "metrics" : {
+    "views" : 204698,
+    "likes" : 14750,
+    "comments" : 1708
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Logan Paul Ends His Career & CodeMiko Calls In - H3 Podcast #234",
   "description" : "<p>On this episode of the H3 Podcast we talk about the phenomenon of Vtubers, and have a call in from one of the most interesting vtubers who is currently blowing up: CodeMiko! Also we follow up on Logan Paul getting stomped out, examine the most embarrassing tweet of all time, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4LbemPA5lEo/default.jpg",
   "tags" : [
   ],
@@ -15218,5 +15219,10 @@
         "no_speech_prob" : 0.0067124143242836
       }
     ]
+  },
+  "metrics" : {
+    "views" : 966946,
+    "likes" : 29413,
+    "comments" : 4949
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#228 - ContraPoints",
   "description" : "<p>On this episode of the H3 Podcast we are joined by YouTube commentator ContraPoints! Together her and Ethan discuss the election, the fallout, living as a trans woman, Jordan Peterson and all meat diets, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kdIPAsPzFRQ/default.jpg",
   "tags" : [
   ],
@@ -12134,5 +12135,10 @@
         "no_speech_prob" : 0.5339719653129578
       }
     ]
+  },
+  "metrics" : {
+    "views" : 700378,
+    "likes" : 32688,
+    "comments" : 6900
   }
 }

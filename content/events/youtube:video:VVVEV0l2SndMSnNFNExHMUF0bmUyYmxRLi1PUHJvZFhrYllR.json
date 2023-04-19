@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "WE'RE IN PAYDAY 2!!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-OProdXkbYQ/default.jpg",
   "tags" : [
     {
@@ -1935,5 +1936,10 @@
         "no_speech_prob" : 0.03659029304981232
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3554665,
+    "likes" : 173258,
+    "comments" : 9154
   }
 }

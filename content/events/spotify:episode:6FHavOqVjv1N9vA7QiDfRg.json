@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Jeff Wittek, David Dobrik, & TRIVIA! - Frenemies # 33",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trish discuss Jeff&#39;s documentary, Keemstar&#39;s response to Jake&#39;s allegations, and we once again duke it out on the battlefield of the mind with the next round of trivia!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gkbn7Zv0MsU/default.jpg",
   "tags" : [
   ],
@@ -15252,5 +15253,10 @@
         "no_speech_prob" : 0.009189456701278687
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5076885,
+    "likes" : 116649,
+    "comments" : 20501
   }
 }

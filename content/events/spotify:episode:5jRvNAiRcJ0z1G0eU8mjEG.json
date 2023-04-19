@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Crazy Things We Believed As Kids, Fresh & Fit Cringe - Afterdark #71",
   "description" : "<p>Today we discuss a great debate: Do you use a wash cloth? We also dig into the latest Fresh &amp; Fit cringe regarding their attack on Pokimane, share our stupid kid stories, discuss how common it is to pee in the pool, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cztc_OXvqJI/default.jpg",
   "tags" : [
   ],
@@ -21599,5 +21600,10 @@
         "no_speech_prob" : 0.15317551791667938
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1469011,
+    "likes" : 28117,
+    "comments" : 3917
   }
 }

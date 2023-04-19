@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Twitch Hot Tubs & Bitconnect Carlos Calls In - H3 After Dark # 34",
   "description" : "<p>On this episode of H3 After Dark we get a call in from the meme legend Carlos Matos from Bitconnect, discuss hot tub streamers on twitch, Ben Shapeeno calls in to voice his opinion, and we break down the H3 soundbyte laugh tier list!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ISvqL4D7SL4/default.jpg",
   "tags" : [
     {
@@ -49531,5 +49532,10 @@
         "no_speech_prob" : 0.9941052198410034
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1645082,
+    "likes" : 35594,
+    "comments" : 5421
   }
 }

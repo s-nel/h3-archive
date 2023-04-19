@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#227 - 2 GIRLS ONE...MONOLITH?!?! 😳🥵👅💦💦",
   "description" : "<p>On this episode of the H3 Podcast the whole gangs here for and old school &#34;trad&#34; style H3 Podcast. Together we discuss Jake Paul&#39;s incredible interview where he goes full COVID denier, his fight, Belle Delphine&#39;s newest auction item, Addison Rae shutting down a COVID testing site, and a mysterious monolith in the desert...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pvGrqiHky5k/default.jpg",
   "tags" : [
   ],
@@ -23325,5 +23326,10 @@
         "no_speech_prob" : 0.05129512399435043
       }
     ]
+  },
+  "metrics" : {
+    "views" : 572578,
+    "likes" : 17480,
+    "comments" : 3322
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "h3h3 prank call: Oops, tumbled ya! [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LxwgNcDjsCQ/default.jpg",
   "tags" : [
     {
@@ -780,5 +781,10 @@
         "no_speech_prob" : 0.001683677895925939
       }
     ]
+  },
+  "metrics" : {
+    "views" : 345209,
+    "likes" : 10992,
+    "comments" : 518
   }
 }

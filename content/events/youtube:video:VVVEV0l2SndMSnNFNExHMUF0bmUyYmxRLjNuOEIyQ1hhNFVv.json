@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "I'm Sorry PewDiePie (YouTube Sub Glitch)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3n8B2CXa4Uo/default.jpg",
   "tags" : [
     {
@@ -582,5 +583,10 @@
         "no_speech_prob" : 0.551347553730011
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7230475,
+    "likes" : 256156,
+    "comments" : 13831
   }
 }

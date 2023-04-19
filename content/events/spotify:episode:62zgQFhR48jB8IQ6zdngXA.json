@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Frenemies #2 - Trisha's Obsession With Jewish People",
   "description" : "<p>Welcome back for episode #2 of Frenemies! People (unironically this time) said we wouldn&#39;t be back, but we&#39;ve defied the odds. Together Ethan and Trisha recap her visit to Ethan&#39;s house for a Jewish Holiday, plastic surgery, drugs, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FwLnl2T5z4A/default.jpg",
   "tags" : [
   ],
@@ -10359,5 +10360,10 @@
         "no_speech_prob" : 0.0011753279250115156
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3271133,
+    "likes" : 91656,
+    "comments" : 14031
   }
 }

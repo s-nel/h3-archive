@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Got Another Strike - Off The Rails #44",
   "description" : "<p>Today we discuss some horrible news- we got another strike. We also have a soda expert call in to debate the merits of diet cola, and we apologize to some enemies of the show.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ADeQ9CPU8SA/default.jpg",
   "tags" : [
     {
@@ -49227,5 +49228,10 @@
         "no_speech_prob" : 0.9945017099380493
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1228169,
+    "likes" : 25916,
+    "comments" : 2433
   }
 }

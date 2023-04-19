@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "I Barely Made It Through This Episode - Off The Rails #12",
   "description" : "<p>Today is a tough episode of the H3 Podcast. It was a difficult decision to put this one out but...the show must go on.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/14GDTiQ-_pE/default.jpg",
   "tags" : [
     {
@@ -17532,5 +17533,10 @@
         "no_speech_prob" : 0.7818334102630615
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1036824,
+    "likes" : 32078,
+    "comments" : 4518
   }
 }

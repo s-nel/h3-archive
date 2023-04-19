@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Alison Gold - Chinese Food -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ArEugWw5IQ8/default.jpg",
   "tags" : [
     {
@@ -3519,5 +3520,10 @@
         "no_speech_prob" : 0.08163152635097504
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4213874,
+    "likes" : 82145,
+    "comments" : 5019
   }
 }

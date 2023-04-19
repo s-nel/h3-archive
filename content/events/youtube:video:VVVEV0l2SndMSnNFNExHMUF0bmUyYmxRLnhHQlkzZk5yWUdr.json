@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "It's Time to Stop TechRax",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xGBY3fNrYGk/default.jpg",
   "tags" : [
     {
@@ -3013,5 +3014,10 @@
         "no_speech_prob" : 0.019388064742088318
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10272002,
+    "likes" : 353672,
+    "comments" : 37311
   }
 }

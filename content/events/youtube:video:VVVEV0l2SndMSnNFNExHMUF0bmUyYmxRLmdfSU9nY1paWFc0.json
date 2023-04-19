@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "20k exe [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/g_IOgcZZXW4/default.jpg",
   "tags" : [
     {
@@ -274,5 +275,10 @@
         "no_speech_prob" : 0.023434510454535484
       }
     ]
+  },
+  "metrics" : {
+    "views" : 262196,
+    "likes" : 5496,
+    "comments" : 510
   }
 }

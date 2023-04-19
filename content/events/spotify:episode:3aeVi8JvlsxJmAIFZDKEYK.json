@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Terri Joe - H3 Podcast #268",
   "description" : "<p>Today we have the incredibly talented TikTok superstar, Terri Joe! She joins us to discuss the holiness vs blasphemy of various things, and after she leaves we are joined by the mind behind the character, Kelon! He tells us all about his upbringing, conducting interviews with celebs, transitioning from a 9-5 to a full-time TikTok creator, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/iq9a-cP0T2g/default.jpg",
   "tags" : [
   ],
@@ -59589,5 +59590,10 @@
         "no_speech_prob" : 0.9956250786781311
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1196864,
+    "likes" : 43524,
+    "comments" : 3406
   }
 }

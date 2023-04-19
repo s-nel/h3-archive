@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "AI Wrote This Episode - After Dark #97",
   "description" : "<p>Today we take a trip into cyberspace and have ChatGPT automate our jobs. We also discuss a new Jimmie Lee conspiracy (his life is a movie), a TikTokker&#39;s insane post that resulted in CPS taking their child away, a new sport called combat juggling, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gaxp3_rnmWU/default.jpg",
   "tags" : [
     {
@@ -53855,5 +53856,10 @@
         "no_speech_prob" : 0.0754266157746315
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1102199,
+    "likes" : 18607,
+    "comments" : 2118
   }
 }

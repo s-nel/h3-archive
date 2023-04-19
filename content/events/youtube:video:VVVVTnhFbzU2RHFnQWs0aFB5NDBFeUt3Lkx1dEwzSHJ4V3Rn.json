@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "I’m sorry guys, but this needs to stop",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LutL3HrxWtg/default.jpg",
   "tags" : [
     {
@@ -1590,5 +1591,10 @@
         "no_speech_prob" : 0.005441425833851099
       }
     ]
+  },
+  "metrics" : {
+    "views" : 302359,
+    "likes" : 25192,
+    "comments" : 5206
   }
 }

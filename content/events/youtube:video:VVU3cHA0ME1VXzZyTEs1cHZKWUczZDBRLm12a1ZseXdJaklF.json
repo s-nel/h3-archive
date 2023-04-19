@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "h3h3productions full theme song -- Prod. MajorLeagueWobs",
   "description" : "Music by MajorLeagueWobs: \nhttps://soundcloud.com/majorleaguewobs/h3h3productions-theme-song\nhttps://www.youtube.com/user/strangeholder",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mvkVlywIjIE/default.jpg",
   "tags" : [
     {
@@ -76,5 +77,10 @@
         "no_speech_prob" : 0.4473045766353607
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2834321,
+    "likes" : 83559,
+    "comments" : 7111
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Joe Rogan Posted Cringe, Jordan Peterson, Lauren Boebert - Leftovers #9",
   "description" : "<p>On this episode of Leftovers Ethan Hasan and the gang take a look at Joe Rogan&#39;s hot new meme game, Jordan Peterson is about to bust, Lauren Boebert is a genocidal psychopath, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AG7iuZnNLYE/default.jpg",
   "tags" : [
   ],
@@ -37468,5 +37469,10 @@
         "no_speech_prob" : 0.09943948686122894
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1450481,
+    "likes" : 36116,
+    "comments" : 4428
   }
 }

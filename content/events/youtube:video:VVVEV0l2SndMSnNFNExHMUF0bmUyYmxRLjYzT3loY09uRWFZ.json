@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "4 Looks You Need This Summer",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/63OyhcOnEaY/default.jpg",
   "tags" : [
     {
@@ -329,5 +330,10 @@
         "no_speech_prob" : 0.33158445358276367
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3629530,
+    "likes" : 280037,
+    "comments" : 20837
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How Can a Cooking Show be this Sad?!",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Xtrsh4U_GCY/default.jpg",
   "tags" : [
     {
@@ -1506,5 +1507,10 @@
         "no_speech_prob" : 0.005858627147972584
       }
     ]
+  },
+  "metrics" : {
+    "views" : 8321798,
+    "likes" : 276122,
+    "comments" : 25039
   }
 }

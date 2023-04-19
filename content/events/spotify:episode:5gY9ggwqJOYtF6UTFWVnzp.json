@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#45 - Jake & Logan Paul's Predatory Merch Machine",
   "description" : "<p>On this episode of The H3 Podcast we examine in detail the unstoppable juggernaut that is the Paul brother&#39;s merch machine. Link in bio!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hOLCEvGO-SU/default.jpg",
   "tags" : [
   ],
@@ -21850,5 +21851,10 @@
         "no_speech_prob" : 0.029823381453752518
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1730855,
+    "likes" : 45395,
+    "comments" : 6338
   }
 }

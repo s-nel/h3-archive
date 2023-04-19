@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "ASMR Has Gone Way Too Far",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Gld72uZeKAc/default.jpg",
   "tags" : [
     {
@@ -1682,5 +1683,10 @@
         "no_speech_prob" : 0.7629924416542053
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3070074,
+    "likes" : 186721,
+    "comments" : 39448
   }
 }

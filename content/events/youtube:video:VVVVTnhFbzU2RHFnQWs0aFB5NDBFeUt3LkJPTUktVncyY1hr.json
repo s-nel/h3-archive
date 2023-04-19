@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Pokimane Permanently Banned on Twitch",
   "description" : "Imane Anys, better known as Pokimane, is a popular twitch streamer who was recently banned for streaming episodes of The Last Avatar. This happened when Nickelodeon issued a DMCA take down on her stream.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BOMI-Vw2cXk/default.jpg",
   "tags" : [
     {
@@ -2470,5 +2471,10 @@
         "no_speech_prob" : 0.05659916624426842
       }
     ]
+  },
+  "metrics" : {
+    "views" : 320197,
+    "likes" : 21347,
+    "comments" : 2438
   }
 }

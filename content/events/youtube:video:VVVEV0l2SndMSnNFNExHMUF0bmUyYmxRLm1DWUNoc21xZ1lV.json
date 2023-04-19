@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Rapper -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mCYChsmqgYU/default.jpg",
   "tags" : [
     {
@@ -1400,5 +1401,10 @@
         "no_speech_prob" : 0.003919883165508509
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6454388,
+    "likes" : 125070,
+    "comments" : 5145
   }
 }

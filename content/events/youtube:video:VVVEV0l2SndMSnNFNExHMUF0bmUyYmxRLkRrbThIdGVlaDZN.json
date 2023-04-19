@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "VAPE NATION",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Dkm8Hteeh6M/default.jpg",
   "tags" : [
     {
@@ -791,5 +792,10 @@
         "no_speech_prob" : 0.9777072668075562
       }
     ]
+  },
+  "metrics" : {
+    "views" : 29078815,
+    "likes" : 775505,
+    "comments" : 51890
   }
 }

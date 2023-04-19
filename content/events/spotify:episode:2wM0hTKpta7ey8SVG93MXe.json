@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "ACE Family, Ryan Kavanaugh, SteveWillDoIt - After Dark #61",
   "description" : "<p>We have some scandalous Ace Family updates to discuss, along with some Ryan Kavanaugh chaos &amp; a SCATHING comment from Mr Steve-Will-Do-It. Jump right into it!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/E3MQh8Z6g3I/default.jpg",
   "tags" : [
     {
@@ -19011,5 +19012,10 @@
         "no_speech_prob" : 0.27384161949157715
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1987189,
+    "likes" : 33090,
+    "comments" : 3162
   }
 }

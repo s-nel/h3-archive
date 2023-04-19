@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We messed up",
   "description" : "<p>We made a grave mistake that resulted in no guest today. We go over that along with a recap of Drake vs Fantano, a part 2 of our HR segment with beefs between Zach and Ethan/Hila, we talk Nick Cannon&#39;s growing family, a beef with Dad, and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ADAzc3jrxIY/default.jpg",
   "tags" : [
   ],
@@ -60741,5 +60742,10 @@
         "no_speech_prob" : 0.05752376466989517
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1212118,
+    "likes" : 25015,
+    "comments" : 3908
   }
 }

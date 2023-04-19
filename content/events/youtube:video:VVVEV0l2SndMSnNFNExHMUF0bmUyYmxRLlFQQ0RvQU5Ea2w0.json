@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "How to Clean Your Gamer Gear -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QPCDoANDkl4/default.jpg",
   "tags" : [
     {
@@ -2793,5 +2794,10 @@
         "no_speech_prob" : 0.05663125962018967
       }
     ]
+  },
+  "metrics" : {
+    "views" : 11934077,
+    "likes" : 281362,
+    "comments" : 17752
   }
 }

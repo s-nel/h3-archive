@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#106 - Filthy Frank Hysteria & Adpocalypse 2.0",
   "description" : "<p>On this episode of The H3 Podcast we discuss the current wave of outrage causing the second coming of the Adpocalypse, Ethan and Hila show off their fur suits, Ethan explains his legal weed buying experience, and SO much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-WGeIEK1yY4/default.jpg",
   "tags" : [
   ],
@@ -21509,5 +21510,10 @@
         "no_speech_prob" : 0.9957420229911804
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1046760,
+    "likes" : 25745,
+    "comments" : 2796
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#25 Jenna Marbles and Julien Solomita",
   "description" : "<p>Jenna Marbles &amp; Julien Solomita join us today to discuss aliens, conspiracies and everything else! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4Ol18tycCU8/default.jpg",
   "tags" : [
   ],
@@ -15455,5 +15456,10 @@
         "no_speech_prob" : 0.6737112998962402
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2628906,
+    "likes" : 60109,
+    "comments" : 9004
   }
 }

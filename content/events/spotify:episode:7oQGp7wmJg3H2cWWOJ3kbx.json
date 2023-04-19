@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Doja Cat vs Stranger Things Kids & Bobby Lee Hates Ethan - After Dark #76",
   "description" : "<p>Today we play the &#34; which celebrity is getting into hot water for texting an underage Stranger Things cast member?&#34; game! We also go over the latest in the neverending saga of Keemstar cringe, try the Sprite challenge, &amp;...hmm, trying to think if I&#39;m missing anything important.....eh, no story is really coming to mind...if it was that important I probably would&#39;ve said it by now. Oh...we had a call with that Oliver Tree guy. But whatever</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bWy_SijFG1w/default.jpg",
   "tags" : [
     {
@@ -24434,5 +24435,10 @@
         "no_speech_prob" : 0.2937624156475067
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1101875,
+    "likes" : 27878,
+    "comments" : 2997
   }
 }

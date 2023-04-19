@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The High Life (Monetized)",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/a_4vrEGT3sA/default.jpg",
   "tags" : [
     {
@@ -201,5 +202,10 @@
         "no_speech_prob" : 0.603929877281189
       }
     ]
+  },
+  "metrics" : {
+    "views" : 92569,
+    "likes" : 2974,
+    "comments" : 94
   }
 }

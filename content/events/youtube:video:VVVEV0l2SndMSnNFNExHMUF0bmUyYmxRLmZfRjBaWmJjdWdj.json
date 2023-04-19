@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "\"Educational\" Videos on YouTube",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/f_F0ZZbcugc/default.jpg",
   "tags" : [
     {
@@ -2595,5 +2596,10 @@
         "no_speech_prob" : 0.14528048038482666
       }
     ]
+  },
+  "metrics" : {
+    "views" : 10043616,
+    "likes" : 382064,
+    "comments" : 19784
   }
 }

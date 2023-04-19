@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "How To Own Your MAGA Family This Thanksgiving - Leftovers #8",
   "description" : "<p>On this week&#39;s Leftovers Ethan &amp; Hasan give you the TOOLS and KNOWLEDGE to OWN your MAGA family members with FACTS and LOGIC this Thanksgiving!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AUNkyV4YAoU/default.jpg",
   "tags" : [
   ],
@@ -17590,5 +17591,10 @@
         "no_speech_prob" : 0.014661329798400402
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1006711,
+    "likes" : 30947,
+    "comments" : 3922
   }
 }

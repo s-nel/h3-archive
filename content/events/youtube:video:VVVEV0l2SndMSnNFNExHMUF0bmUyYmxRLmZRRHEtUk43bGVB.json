@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Face Yoga Lube Time [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fQDq-RN7leA/default.jpg",
   "tags" : [
     {
@@ -318,5 +319,10 @@
         "no_speech_prob" : 0.02740337699651718
       }
     ]
+  },
+  "metrics" : {
+    "views" : 245774,
+    "likes" : 7554,
+    "comments" : 437
   }
 }

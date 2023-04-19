@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#4 - iDubbbzTV",
   "description" : "<p>iDubbbz is a popular YouTuber who has blown up in the past year for his controversial and hilarious style.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7khgBDQR-WQ/default.jpg",
   "tags" : [
   ],
@@ -16481,5 +16482,10 @@
         "no_speech_prob" : 0.04309302940964699
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1260293,
+    "likes" : 32969,
+    "comments" : 1515
   }
 }

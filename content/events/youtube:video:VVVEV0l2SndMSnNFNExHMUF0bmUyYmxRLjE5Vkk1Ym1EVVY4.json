@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Wake Up Sheeple - An internet poetry parody [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/19VI5bmDUV8/default.jpg",
   "tags" : [
     {
@@ -538,5 +539,10 @@
         "no_speech_prob" : 0.9710322618484497
       }
     ]
+  },
+  "metrics" : {
+    "views" : 909521,
+    "likes" : 39446,
+    "comments" : 1960
   }
 }

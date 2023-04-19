@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#203 - TikTok Ban & Ethan Bodyslams Mike",
   "description" : "<p>On this episode of the H3 Podcast the gang discuss the impending doom of TikTok in the USA (maybe...), Ethan fires a SALVO back at Mike from Impaulsive who got big mad about last week&#39;s episode, LA Mansion parties during a pandemic, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GSw5YvHhGUg/default.jpg",
   "tags" : [
   ],
@@ -21069,5 +21070,10 @@
         "no_speech_prob" : 0.1293109953403473
       }
     ]
+  },
+  "metrics" : {
+    "views" : 492203,
+    "likes" : 16043,
+    "comments" : 2288
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Return of Whiteface Man",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zlAqizx7Lf0/default.jpg",
   "tags" : [
     {
@@ -1488,5 +1489,10 @@
         "no_speech_prob" : 0.5965860486030579
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5664529,
+    "likes" : 293187,
+    "comments" : 20264
   }
 }

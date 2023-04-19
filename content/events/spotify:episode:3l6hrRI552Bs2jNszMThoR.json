@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#108 - Logan Paul Rips Off Shane Dawson & New Jake Paul Song Is Awful",
   "description" : "<p>On this episode of The H3 Podcast we discuss the college admissions scandal, Shaq being everywhere and in everything, the Bradberries visit to Salt Bae&#39;s restaurant, Jake Paul&#39;s awful new song, Logan Paul&#39;s flat earth documentary... and SO much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qejmBpzCXOE/default.jpg",
   "tags" : [
     {
@@ -21928,5 +21929,10 @@
         "no_speech_prob" : 0.3430035710334778
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1779050,
+    "likes" : 24394,
+    "comments" : 3041
   }
 }

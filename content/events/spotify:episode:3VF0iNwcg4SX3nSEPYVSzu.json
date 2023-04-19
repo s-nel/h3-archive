@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Responding To Jeff Wittek & New David Dobrik Footage - Frenemies # 26",
   "description" : "<p>On this EMERGENCY LIVE EPISODE of Frenemies- Ethan &amp; Trisha convene to discuss and interview Vlog Squad member Jeff Whittek in regards to his response video!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0XCZ-t5e-fI/default.jpg",
   "tags" : [
   ],
@@ -38773,5 +38774,10 @@
         "no_speech_prob" : 0.03235951066017151
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6910806,
+    "likes" : 176985,
+    "comments" : 43873
   }
 }

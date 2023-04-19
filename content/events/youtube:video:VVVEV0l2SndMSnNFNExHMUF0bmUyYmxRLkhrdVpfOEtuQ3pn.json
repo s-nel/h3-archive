@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "YouTube is Not Being Honest with Us",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HkuZ_8KnCzg/default.jpg",
   "tags" : [
     {
@@ -1077,5 +1078,10 @@
         "no_speech_prob" : 0.7928465008735657
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3347811,
+    "likes" : 604309,
+    "comments" : 65793
   }
 }

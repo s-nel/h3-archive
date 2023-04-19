@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "BBTV Stole $620,000 From Me (...in my opinion)",
   "description" : "BroadbandTV and ceo Shahrzad Rafati stole $620,000 from me, in my opinion of course. This is what happened.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nG4B8qMwvfE/default.jpg",
   "tags" : [
     {
@@ -2826,5 +2827,10 @@
         "no_speech_prob" : 7.646059966646135E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 458427,
+    "likes" : 21657,
+    "comments" : 3847
   }
 }

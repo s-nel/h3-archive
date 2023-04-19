@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "ExpertVillage - h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JV9XUp5Rmws/default.jpg",
   "tags" : [
     {
@@ -3057,5 +3058,10 @@
         "no_speech_prob" : 0.4036598205566406
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5233673,
+    "likes" : 110589,
+    "comments" : 4983
   }
 }

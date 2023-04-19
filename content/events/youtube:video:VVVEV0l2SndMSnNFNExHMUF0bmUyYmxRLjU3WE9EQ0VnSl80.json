@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Coughs 'n Flops [h3h3productions]",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/57XODCEgJ_4/default.jpg",
   "tags" : [
     {
@@ -1638,5 +1639,10 @@
         "no_speech_prob" : 0.6204031705856323
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1367193,
+    "likes" : 33498,
+    "comments" : 1080
   }
 }

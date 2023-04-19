@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Lube Up",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Rtc8KN7_OGU/default.jpg",
   "tags" : [
     {
@@ -1473,5 +1474,10 @@
         "no_speech_prob" : 0.008825928904116154
       }
     ]
+  },
+  "metrics" : {
+    "views" : 273227,
+    "likes" : 8489,
+    "comments" : 494
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "My Experience With The Police",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nbHGAu9Kn_c/default.jpg",
   "tags" : [
     {
@@ -1363,5 +1364,10 @@
         "no_speech_prob" : 0.013817647472023964
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2818142,
+    "likes" : 248209,
+    "comments" : 29674
   }
 }

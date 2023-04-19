@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Girl Who Pretended To Lose Her Child",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kykfP6T09xA/default.jpg",
   "tags" : [
     {
@@ -1334,5 +1335,10 @@
         "no_speech_prob" : 0.00756204454228282
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3634111,
+    "likes" : 284724,
+    "comments" : 11796
   }
 }

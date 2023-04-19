@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Solving Your Problems With Therapy Gecko - H3TV #64",
   "description" : "<p>Today we are joined by the therapy gecko! We take calls from viewers to solve all sorts of issues, from micropenis disagreements to boyfriends disapproving of their partner participating in sex work, to serious topics involving grief, we run the whole range!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Kh08ByUfO9c/default.jpg",
   "tags" : [
     {
@@ -42587,5 +42588,10 @@
         "no_speech_prob" : 0.05425422266125679
       }
     ]
+  },
+  "metrics" : {
+    "views" : 838625,
+    "likes" : 20759,
+    "comments" : 2817
   }
 }

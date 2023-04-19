@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Crushing Cars in a Tank",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/e1mz3HRpNh0/default.jpg",
   "tags" : [
     {
@@ -1704,5 +1705,10 @@
         "no_speech_prob" : 0.7478696703910828
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2638224,
+    "likes" : 138401,
+    "comments" : 11223
   }
 }

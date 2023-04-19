@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#61 - Harley Morenstein (Epic Meal Time)",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined by the purveyor of the most epic meals known to man- Harley Morenstein! Together we discuss K-Pop fans, nazi dogs, wasting food, and of course ghost stories! Harley Morenstein is the creator of the hugely successful YouTube channel &#34;Epic Meal Time&#34; and a warrior jew.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pY6NGsmzIUg/default.jpg",
   "tags" : [
   ],
@@ -19767,5 +19768,10 @@
         "no_speech_prob" : 0.0029143434949219227
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1638934,
+    "likes" : 27157,
+    "comments" : 3717
   }
 }

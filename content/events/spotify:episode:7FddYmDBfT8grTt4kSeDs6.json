@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Humanity Is Doomed - H3 Podcast # 245",
   "description" : "<p>On this episode of the H3 Podcast OFF THE RAILS Ethan and the boys discuss Carl Tuck-da-dick&#39;s call to harass children, Joe Rogan&#39;s call for people not to get the vaccine, Caitlin Jenner running for office, and things get heated as the crew debates &#34;Chair-Gate&#34;!</p> <p> </p> <p>New H3 theme song by the amazing Otis McDonald available on YouTube and Spotify!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Htq468essmM/default.jpg",
   "tags" : [
   ],
@@ -12527,5 +12528,10 @@
         "no_speech_prob" : 0.6598800420761108
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1136042,
+    "likes" : 31590,
+    "comments" : 11404
   }
 }

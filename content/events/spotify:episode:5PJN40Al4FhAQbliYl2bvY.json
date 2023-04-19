@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Hasan Banned From Twitch, Kanye West Still Hatin - Leftovers #34",
   "description" : "<p>Today we recap Hasan&#39;s tragic banning from Twitch. We also cover the rapid deteriorating situation regarding Kanye and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mZDKKqeA6fI/default.jpg",
   "tags" : [
   ],
@@ -12710,5 +12711,10 @@
         "no_speech_prob" : 0.02066272683441639
       }
     ]
+  },
+  "metrics" : {
+    "views" : 626797,
+    "likes" : 17361,
+    "comments" : 1241
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Not Talking About Trisha Paytas - H3 After Dark #47",
   "description" : "<p>AFTER DARK IS BACK AND ITS FRIDAY BABY WOOOOOOOOOOOOO!! The gang discuss the crew&#39;s adventures on Cameo, trolling on TikTok, take the Myers-Briggs test, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Xvasys6EONM/default.jpg",
   "tags" : [
     {
@@ -55306,5 +55307,10 @@
         "no_speech_prob" : 0.13231714069843292
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2403681,
+    "likes" : 47143,
+    "comments" : 4954
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We're Back! - H3TV #21",
   "description" : "<p>After a lengthy hiatus, the H3 Podcast is BACK BAYBEE. And we have a LOT to recap...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sHrEyuHHM9U/default.jpg",
   "tags" : [
     {
@@ -27344,5 +27345,10 @@
         "no_speech_prob" : 0.42867422103881836
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1782616,
+    "likes" : 51436,
+    "comments" : 6555
   }
 }

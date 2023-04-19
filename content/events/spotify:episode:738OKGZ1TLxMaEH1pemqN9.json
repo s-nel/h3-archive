@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Ethan Klein Debates Steven Crowder (Ft. Sam Seder) - H3 Podcast # 248",
   "description" : "<p>The moment everyone has been waiting for... the debate between Ethan and Steven Crowder with special &#34;guest&#34; Sam Seder...</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Fvg5RTrFLfI/default.jpg",
   "tags" : [
   ],
@@ -4959,5 +4960,10 @@
         "no_speech_prob" : 0.014101488515734673
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3164569,
+    "likes" : 169991,
+    "comments" : 139943
   }
 }

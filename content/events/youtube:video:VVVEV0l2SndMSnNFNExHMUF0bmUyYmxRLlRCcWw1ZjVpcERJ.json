@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Awful Products That Shouldn't Exist",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TBql5f5ipDI/default.jpg",
   "tags" : [
     {
@@ -4289,5 +4290,10 @@
         "no_speech_prob" : 0.21130375564098358
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2917558,
+    "likes" : 143969,
+    "comments" : 9865
   }
 }

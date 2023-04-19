@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Klein Family Dynasty (Healthy At Every Size BTS)",
   "description" : "Meet the family as they ruin our video.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FpjbHKDz2HM/default.jpg",
   "tags" : [
     {
@@ -2848,5 +2849,10 @@
         "no_speech_prob" : 0.016546882688999176
       }
     ]
+  },
+  "metrics" : {
+    "views" : 661547,
+    "likes" : 19815,
+    "comments" : 1192
   }
 }

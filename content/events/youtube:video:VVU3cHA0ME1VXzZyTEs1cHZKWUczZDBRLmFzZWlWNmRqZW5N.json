@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Tear down this pizza, ft. JonTron",
   "description" : "Part two of the papa john series",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aseiV6djenM/default.jpg",
   "tags" : [
     {
@@ -1143,5 +1144,10 @@
         "no_speech_prob" : 0.2445153146982193
       }
     ]
+  },
+  "metrics" : {
+    "views" : 563814,
+    "likes" : 13770,
+    "comments" : 491
   }
 }

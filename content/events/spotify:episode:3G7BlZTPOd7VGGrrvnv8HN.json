@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Avi Loeb - Aliens, Black Holes & The End of the Universe - H3 Podcast #257",
   "description" : "<p>Today we are joined by astrophysicist Avi Loeb! We discuss all things space so strap in and blast off. </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gyBnTFJo7PM/default.jpg",
   "tags" : [
     {
@@ -11611,5 +11612,10 @@
         "no_speech_prob" : 0.011410573497414589
       }
     ]
+  },
+  "metrics" : {
+    "views" : 503005,
+    "likes" : 21087,
+    "comments" : 1999
   }
 }

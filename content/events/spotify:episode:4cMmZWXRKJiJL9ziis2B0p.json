@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "FaZe Banks, Jeff Wittek, James Charles, David Dobrik - H3 After Dark # 29",
   "description" : "<p>On this episode of H3 After Dark the gang discuss Jeff&#39;s new and improved apology video, Jame Charle&#39;s &#34;Fresh &amp; Young&#34; podcast, and Ethan sides with Keem on something for the first time ever.</p> <p> </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ze3pzXECLzY/default.jpg",
   "tags" : [
     {
@@ -19436,5 +19437,10 @@
         "no_speech_prob" : 0.03578418120741844
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2139088,
+    "likes" : 48771,
+    "comments" : 6223
   }
 }

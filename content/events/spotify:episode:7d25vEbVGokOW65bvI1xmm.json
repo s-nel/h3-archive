@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "iDubbbz & Anisa - H3 Podcast #250",
   "description" : "<p>Today we discuss iDubbbz &amp; Anisa&#39;s Creator Clash event! </p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/68UMkX4Z08c/default.jpg",
   "tags" : [
   ],
@@ -23454,5 +23455,10 @@
         "no_speech_prob" : 0.24208849668502808
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1459630,
+    "likes" : 37638,
+    "comments" : 4290
   }
 }

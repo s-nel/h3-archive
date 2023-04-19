@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Fat Idiot Gains 100 Pounds At Costco",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/r1SyxNgtgBM/default.jpg",
   "tags" : [
     {
@@ -659,5 +660,10 @@
         "no_speech_prob" : 0.7132622003555298
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7022847,
+    "likes" : 195217,
+    "comments" : 10395
   }
 }

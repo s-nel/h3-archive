@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Deception, Lies, and CSGO",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_8fU2QG-lV0/default.jpg",
   "tags" : [
     {
@@ -2122,5 +2123,10 @@
         "no_speech_prob" : 0.610494077205658
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9827927,
+    "likes" : 426962,
+    "comments" : 42174
   }
 }

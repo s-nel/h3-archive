@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Newt Gingrich is really puzzled -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gu3U-pmuqPU/default.jpg",
   "tags" : [
     {
@@ -670,5 +671,10 @@
         "no_speech_prob" : 0.14862124621868134
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1675707,
+    "likes" : 36377,
+    "comments" : 1475
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Jewish Trivia Contest, David Dobrik & Scotty Sire - Frenemies #24",
   "description" : "<p>On this episode of Frenemies Ethan and Trish discuss the fallout from Scotty Sire&#39;s goofy Dobrik defense vid, secret DM&#39;s from influencers, Trisha being too hard on Dixie, and they have a contest on who is the true king of all Jews!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jReGxvVvb5o/default.jpg",
   "tags" : [
   ],
@@ -15398,5 +15399,10 @@
         "no_speech_prob" : 0.49565985798835754
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4776709,
+    "likes" : 111184,
+    "comments" : 24804
   }
 }

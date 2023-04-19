@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#186 - We Speak With An Epidemiologist About Coronavirus",
   "description" : "<p>Newest episode of the podcast is up! This one is a little different- we spoke via Zoom to Dr. Eric Ding, an epidemiologist we&#39;ve mentioned on the show before about where we are with Coronavirus and what we can do it beat this thing! Stay safe everyone!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/iyYucZkfIkA/default.jpg",
   "tags" : [
   ],
@@ -14898,5 +14899,10 @@
         "no_speech_prob" : 0.49216872453689575
       }
     ]
+  },
+  "metrics" : {
+    "views" : 436079,
+    "likes" : 13051,
+    "comments" : 2349
   }
 }

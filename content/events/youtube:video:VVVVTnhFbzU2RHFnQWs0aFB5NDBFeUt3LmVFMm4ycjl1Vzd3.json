@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "MoistCr1TiKaL Is Cancelled",
   "description" : "critical aka Cr1TiKaL aka MoistCr1TiKaL aka charlie was called out by fellow youtuber DarkViperAU - I'm going to weigh in on it. DarkVipers Essay can be read here:\nhttps://docs.google.com/document/d/150ojYEfnZVjY1Ro27aEFJG5FCAQD5u9KTH0GD-qmZ1A/edit",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eE2n2r9uW7w/default.jpg",
   "tags" : [
     {
@@ -1920,5 +1921,10 @@
         "no_speech_prob" : 0.029943669214844704
       }
     ]
+  },
+  "metrics" : {
+    "views" : 430956,
+    "likes" : 18032,
+    "comments" : 2500
   }
 }

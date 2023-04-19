@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Return of SOFLO",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Li3_oyp4eJ4/default.jpg",
   "tags" : [
     {
@@ -2808,5 +2809,10 @@
         "no_speech_prob" : 0.0049537718296051025
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5207563,
+    "likes" : 164038,
+    "comments" : 10604
   }
 }

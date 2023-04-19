@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jake Paul Doxes Post Malone",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/RcRsHhsuhHw/default.jpg",
   "tags" : [
     {
@@ -4575,5 +4576,10 @@
         "no_speech_prob" : 0.7668460607528687
       }
     ]
+  },
+  "metrics" : {
+    "views" : 11240828,
+    "likes" : 484132,
+    "comments" : 42059
   }
 }

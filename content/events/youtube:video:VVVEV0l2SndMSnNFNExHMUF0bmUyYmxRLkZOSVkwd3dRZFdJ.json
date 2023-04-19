@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Here in My Garage with Tai Lopez -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FNIY0wwQdWI/default.jpg",
   "tags" : [
     {
@@ -1913,5 +1914,10 @@
         "no_speech_prob" : 0.004613935016095638
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5905836,
+    "likes" : 117604,
+    "comments" : 7044
   }
 }

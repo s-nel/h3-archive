@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#144 - Hila Becomes An American Citizen",
   "description" : "<p>On this EXTRAORDINARY episode of The H3 Podcast we have a lot to celebrate! Hila became a US Citizen, Zach has been with us for 1 year (and it&#39;s his birthday) and we have tons of goofs and gaffs to JUMP RIGHT INTO so, please... enjoy.</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rYY8X9Un0CM/default.jpg",
   "tags" : [
   ],
@@ -9097,5 +9098,10 @@
         "no_speech_prob" : 0.3371812105178833
       }
     ]
+  },
+  "metrics" : {
+    "views" : 708570,
+    "likes" : 26442,
+    "comments" : 3329
   }
 }

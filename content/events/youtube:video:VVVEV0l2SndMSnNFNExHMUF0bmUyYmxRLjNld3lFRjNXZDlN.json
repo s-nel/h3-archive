@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Jake Paul & RiceGum Promote Gambling To Kids",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3ewyEF3Wd9M/default.jpg",
   "tags" : [
     {
@@ -4201,5 +4202,10 @@
         "no_speech_prob" : 0.03549446538090706
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7789329,
+    "likes" : 381256,
+    "comments" : 21324
   }
 }

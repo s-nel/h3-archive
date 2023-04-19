@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "We Squashed the Beef",
   "description" : "We squashed the beef with our boy Chris and also got some Anthrax\n\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TmKF5Ej03yc/default.jpg",
   "tags" : [
     {
@@ -3332,5 +3333,10 @@
         "no_speech_prob" : 0.5756030678749084
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2327088,
+    "likes" : 44761,
+    "comments" : 1926
   }
 }

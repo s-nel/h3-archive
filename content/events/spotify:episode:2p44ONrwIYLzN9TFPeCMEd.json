@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "#167 - Andrew Yang Returns",
   "description" : "<p>On this episode of The H3 Podcast Andrew Yang comes back for an interview on the morning after his debate appearance! Together we talk about the debate, China, AI, Hillary, opioids, and a whole lot more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2HXVws8ZQRc/default.jpg",
   "tags" : [
   ],
@@ -12918,5 +12919,10 @@
         "no_speech_prob" : 0.0010885150404646993
       }
     ]
+  },
+  "metrics" : {
+    "views" : 934557,
+    "likes" : 45763,
+    "comments" : 11028
   }
 }

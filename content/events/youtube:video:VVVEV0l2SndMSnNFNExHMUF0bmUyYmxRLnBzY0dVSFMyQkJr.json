@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "It's Time to Stop",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pscGUHS2BBk/default.jpg",
   "tags" : [
     {
@@ -2287,5 +2288,10 @@
         "no_speech_prob" : 0.02652173675596714
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9737863,
+    "likes" : 331485,
+    "comments" : 25880
   }
 }

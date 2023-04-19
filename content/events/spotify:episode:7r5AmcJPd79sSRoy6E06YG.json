@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "The Podcast Is Ending - Off The Rails #28",
   "description" : "<p>Today we discuss the finale of a certain podcast you might know...we also recap our insane day with Jimmie Lee the Jersey Outlaw and much more!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3g9YwEd2mRw/default.jpg",
   "tags" : [
     {
@@ -18020,5 +18021,10 @@
         "no_speech_prob" : 0.24917909502983093
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1641568,
+    "likes" : 43708,
+    "comments" : 4301
   }
 }

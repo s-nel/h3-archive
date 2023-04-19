@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Instagram vs. Reality",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OX_Bini29kU/default.jpg",
   "tags" : [
     {
@@ -2309,5 +2310,10 @@
         "no_speech_prob" : 0.03160914033651352
       }
     ]
+  },
+  "metrics" : {
+    "views" : 13005134,
+    "likes" : 620038,
+    "comments" : 40216
   }
 }

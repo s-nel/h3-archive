@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Shootin' With iDubbbz",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JfsxLhPn-oA/default.jpg",
   "tags" : [
     {
@@ -2467,5 +2468,10 @@
         "no_speech_prob" : 0.49363863468170166
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6789688,
+    "likes" : 318133,
+    "comments" : 28180
   }
 }

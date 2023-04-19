@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Trisha vs Charli & Dixie D'Amelio (Dramageddon 2.0) - Frenemies #10",
   "description" : "<p>On this episode of Frenemies it&#39;s Dramageddon 2.0 as Trisha and Ethan discuss Trisha&#39;s war with the D&#39;Amelio sisters, James Charles, and just about everyone else on the internet!</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bGXN5_YkiEE/default.jpg",
   "tags" : [
   ],
@@ -13128,5 +13129,10 @@
         "no_speech_prob" : 0.12091731280088425
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3735634,
+    "likes" : 89514,
+    "comments" : 16143
   }
 }

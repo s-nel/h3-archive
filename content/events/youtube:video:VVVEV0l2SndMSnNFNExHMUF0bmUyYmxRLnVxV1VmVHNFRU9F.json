@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "MY GIRL IS LEAVING ME FOR THIS GUY",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uqWUfTsEEOE/default.jpg",
   "tags" : [
     {
@@ -3486,5 +3487,10 @@
         "no_speech_prob" : 0.43850627541542053
       }
     ]
+  },
+  "metrics" : {
+    "views" : 9356661,
+    "likes" : 292512,
+    "comments" : 22266
   }
 }

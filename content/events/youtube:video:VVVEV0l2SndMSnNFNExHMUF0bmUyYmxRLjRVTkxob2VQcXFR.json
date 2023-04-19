@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "SoFloAntonio's Facebook Page -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4UNLhoePqqQ/default.jpg",
   "tags" : [
     {
@@ -989,5 +990,10 @@
         "no_speech_prob" : 0.012805908918380737
       }
     ]
+  },
+  "metrics" : {
+    "views" : 5541667,
+    "likes" : 145108,
+    "comments" : 7053
   }
 }

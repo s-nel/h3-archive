@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "FUNNIEST MOMENTS",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CrKkjXMYFzs/default.jpg",
   "tags" : [
     {
@@ -2298,5 +2299,10 @@
         "no_speech_prob" : 0.04097490385174751
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3217663,
+    "likes" : 88520,
+    "comments" : 3938
   }
 }

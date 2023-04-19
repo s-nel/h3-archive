@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Everybody Loves Ethan",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/i3H136iSDu8/default.jpg",
   "tags" : [
     {
@@ -7952,5 +7953,10 @@
         "no_speech_prob" : 0.4090065658092499
       }
     ]
+  },
+  "metrics" : {
+    "views" : 4564941,
+    "likes" : 374856,
+    "comments" : 67954
   }
 }

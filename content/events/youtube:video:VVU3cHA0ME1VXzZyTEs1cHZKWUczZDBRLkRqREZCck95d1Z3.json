@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Ethan and Hila in Disneyland",
   "description" : "Disneyland is magical, we didn't even mind mortgaging our house to pay for it.",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DjDFBrOywVw/default.jpg",
   "tags" : [
     {
@@ -769,5 +770,10 @@
         "no_speech_prob" : 0.06141699105501175
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1824585,
+    "likes" : 51968,
+    "comments" : 2005
   }
 }

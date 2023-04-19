@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "H3 Podcast #29 - Jacksfilms & Erik of Internet Comment Etiquette",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ey7zaPv00fo/default.jpg",
   "tags" : [
   ],
@@ -77374,5 +77375,10 @@
         "no_speech_prob" : 0.46858519315719604
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2696797,
+    "likes" : 51390,
+    "comments" : 14047
   }
 }

@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "We Get Trashed On St. Paddy's Day - After Dark #98",
   "description" : "<p>Today we get DRUNK. That&#39;s it.. Ethan transforms into a goblin like a werewolf under the light of the full moon. We ring in St Patrick&#39;s day with cursed drinks and it&#39;s all rolling from there. We talk about everything from Shakira to...shit I don&#39;t remember bruther</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dZyrcG7auic/default.jpg",
   "tags" : [
     {
@@ -50951,5 +50952,10 @@
         "no_speech_prob" : 0.4280012249946594
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1135380,
+    "likes" : 26416,
+    "comments" : 3233
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Reading MEAN Comments with my Mom",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JjqjrxKPc7s/default.jpg",
   "tags" : [
     {
@@ -3277,5 +3278,10 @@
         "no_speech_prob" : 0.1498330980539322
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6137704,
+    "likes" : 293126,
+    "comments" : 25048
   }
 }

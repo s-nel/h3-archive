@@ -3,6 +3,7 @@
   "category" : "podcast",
   "name" : "Euphoria, Kanye, Tinder Swindler - After Dark #65",
   "description" : "<p>We&#39;re talkin&#39; Ye, we&#39;re talkin&#39; Tinder Swindler, we&#39;re talkin&#39; Wendy Williams &amp; much more! Jump on in ya hear</p><p> </p>",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_mfxcipuqq0/default.jpg",
   "tags" : [
     {
@@ -35976,5 +35977,10 @@
         "no_speech_prob" : 0.26966193318367004
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1219449,
+    "likes" : 27659,
+    "comments" : 2746
   }
 }

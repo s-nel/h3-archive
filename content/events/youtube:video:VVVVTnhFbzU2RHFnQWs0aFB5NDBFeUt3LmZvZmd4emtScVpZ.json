@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Sienna Mae Made An Apology Dance Video",
   "description" : "sienna made made this dance apology video and i think its actually very innovative",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fofgxzkRqZY/default.jpg",
   "tags" : [
     {
@@ -1150,5 +1151,10 @@
         "no_speech_prob" : 0.008633498102426529
       }
     ]
+  },
+  "metrics" : {
+    "views" : 458662,
+    "likes" : 20914,
+    "comments" : 2183
   }
 }

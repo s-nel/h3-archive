@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Interview with Casey Neistat",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ElKIiwNqpxQ/default.jpg",
   "tags" : [
     {
@@ -1253,5 +1254,10 @@
         "no_speech_prob" : 0.5028478503227234
       }
     ]
+  },
+  "metrics" : {
+    "views" : 3249880,
+    "likes" : 157299,
+    "comments" : 10834
   }
 }

@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "About To Give Birth",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9fQKicFkt04/default.jpg",
   "tags" : [
     {
@@ -2514,5 +2515,10 @@
         "no_speech_prob" : 0.9821678400039673
       }
     ]
+  },
+  "metrics" : {
+    "views" : 460700,
+    "likes" : 34106,
+    "comments" : 3921
   }
 }

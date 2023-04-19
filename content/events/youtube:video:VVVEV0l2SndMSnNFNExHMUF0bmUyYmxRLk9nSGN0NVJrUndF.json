@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "The Honest Gold Digger",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OgHct5RkRwE/default.jpg",
   "tags" : [
     {
@@ -3754,5 +3755,10 @@
         "no_speech_prob" : 0.003715325379744172
       }
     ]
+  },
+  "metrics" : {
+    "views" : 11394943,
+    "likes" : 399205,
+    "comments" : 23200
   }
 }

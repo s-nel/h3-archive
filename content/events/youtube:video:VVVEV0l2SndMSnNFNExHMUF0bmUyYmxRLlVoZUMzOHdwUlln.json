@@ -3,6 +3,7 @@
   "category" : "video",
   "name" : "Girl virtually assaulted in GTA V -- h3h3 reaction video",
   "description" : "",
+  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UheC38wpRYg/default.jpg",
   "tags" : [
     {
@@ -1616,5 +1617,10 @@
         "no_speech_prob" : 0.045445479452610016
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7732434,
+    "likes" : 207492,
+    "comments" : 11034
   }
 }
