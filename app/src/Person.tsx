@@ -221,8 +221,6 @@ const Person = ({
     setTableProps(newTableProps)
   }
 
-  console.log('totalEvents', totalEvents, pageIndex)
-
   // let sortedEvents
   // if (sortField) {
   //   sortedEvents = events && events.slice(0).sort(Comparators.property(sortField, (a, b) => {

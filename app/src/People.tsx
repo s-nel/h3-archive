@@ -345,7 +345,6 @@ const onSearch = setQuery => query => {
 
 const fetchEventCounts = async setEventCounts => {
   const response = await axios.get('/api/events/counts')
-  console.log(response)
   setEventCounts(response.data)
 }
 

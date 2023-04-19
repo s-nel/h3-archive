@@ -87,8 +87,6 @@ const Timeline = ({
 
   const eventId = locationParams && locationParams.eventId
 
-  console.log('query + eventId', query, eventId, locationParams)
-
   if (isMobile && eventId) {
     return <Event />
   }
