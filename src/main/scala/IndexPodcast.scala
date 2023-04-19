@@ -43,6 +43,7 @@ object IndexPodcast {
   val spotifyWebApiUrl = Uri("https://api.spotify.com")
   val h3id = "7ydBWzs9BSRh97tsCjOhby"
   val eventsIndex = "events"
+  val transcriptIndex = "transcripts"
   val peopleIndex = "people"
   val soundbitesIndex = "soundbites"
   val steamyIndex = "steamies"

@@ -33,6 +33,7 @@ import axios from 'axios'
 import { add as addToast } from './data/toastsSlice'
 import Transcript from './Transcript'
 import Video from './Video'
+import { setTitle } from './util'
 
 export const roleLabel = {
   creator: 'Creator',
@@ -63,7 +64,10 @@ export const linkTypeDescription = {
 const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {    
   const [info, setinfo] = React.useState(null)
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
+  const [transcriptAbortController, setTranscriptAbortController] = React.useState(new AbortController())
+  const [transcript, setTranscript] = React.useState(null)
   const [isLoading, setLoading] = React.useState(false)
+  const [isTranscriptLoading, setTranscriptLoading] = React.useState(false)
   const [modifiedDoc, setModifiedDoc] = React.useState(null)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
@@ -97,9 +101,15 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
   React.useEffect(() => {
     if (eventId) {
       fetchEvent(eventId, setinfo, setLoading, setSearchAbortController, searchAbortController)
+      setTranscript(null)
+      fetchTranscript(eventId, setTranscript, setTranscriptLoading, setTranscriptAbortController, transcriptAbortController)
       setTranscriptShowing(!!highlights)
     }
   }, [eventId])
+
+  React.useEffect(() => {
+    setTitle(info && info.name)
+  }, [info])
 
   if (isLoading) {
     return <div><EuiSpacer size="xl" /><EuiSkeletonText /></div>
@@ -269,7 +279,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
             <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
           </EuiPanel>
         </EuiFlexItem>)}
-        {!isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
+        {!isMobile && transcript && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EditEventButton eventId={eventId} />
             <EuiAccordion 
@@ -281,7 +291,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
               buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
             >
               <EuiSpacer size="s" />
-              <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+              {isTranscriptShowing && <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />}
             </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
@@ -292,11 +302,11 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
         <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
       </EuiPanel>
     </EuiFlexItem>)}
-    {isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
+    {isMobile && transcript && (<EuiFlexItem grow={false}>
       <EuiPanel>
         <EuiText><h4>Transcript</h4></EuiText>
         <EuiSpacer size="s" />
-        <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+        <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
       </EuiPanel>
     </EuiFlexItem>)}
     {((links && links.length > 0) || (info.tags && info.tags.length > 0) || (info.people && info.people.length > 0)) && (<EuiFlexItem grow={1}>
@@ -350,11 +360,25 @@ const fetchEvent = async (eventId, setEvent, setFetching, setSearchAbortControll
     searchAbortController.abort()
   }
   setSearchAbortController(newSearchAbortController)
-  const event = await axios.get(`/api/events/${eventId}?with_transcript=true`, {
+  const event = await axios.get(`/api/events/${eventId}`, {
     signal: newSearchAbortController.signal,
   })
   setEvent(event.data)
   setFetching(false)
+}
+
+const fetchTranscript = async (eventId, setTranscript, setFetchingTranscript, setTranscriptAbortController, transcriptAbortController) => {
+  setFetchingTranscript(true)
+  const newTranscriptAbortController = new AbortController()
+  if (transcriptAbortController) {
+    transcriptAbortController.abort()
+  }
+  setTranscriptAbortController(newTranscriptAbortController)
+  const response = await axios.get(`/api/events/${eventId}/transcript`, {
+    signal: newTranscriptAbortController.signal,
+  })
+  setTranscript(response.data)
+  setFetchingTranscript(false)
 }
 
 export const categoryColor = {

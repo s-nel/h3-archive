@@ -17,6 +17,7 @@ import {
 } from '@elastic/eui'
 import { useSelector } from 'react-redux'
 import { BsPerson } from 'react-icons/bs'
+import { setTitle } from './util'
 
 const Soundbites = () => {
   const soundbites = useSelector(state => state.soundbites.value)
@@ -71,6 +72,10 @@ const Soundbites = () => {
       })))
     }
   }, [soundbites])
+
+  React.useEffect(() => {
+    setTitle('Soundbites')
+  }, [soundbites && soundbites.length])
 
   if (!soundbites) {
     return (<div>

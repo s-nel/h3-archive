@@ -88,7 +88,10 @@ object Server extends FailFastCirceSupport {
           get {
             pathPrefix("^.+$".r) { eventId =>
               get {
-                complete(getEvent(readonlyClient, eventId))
+                pathPrefix("transcript") {
+                  complete(getTranscript(readonlyClient, eventId))
+                } ~
+                  complete(getEvent(readonlyClient, eventId))
               }
             } ~
               parameters("q".optional) { maybeQuery =>
@@ -227,6 +230,17 @@ object Server extends FailFastCirceSupport {
     }
   }
 
+  private def getTranscript(elasticClient: ElasticClient, eventId: String): Future[TranscriptionResponse] = {
+    for {
+      hit <- elasticClient.execute {
+        getDoc(transcriptIndex, eventId)
+      }
+      decoded <- Future.fromTry(decode[TranscriptionResponse](hit.result.sourceAsString).toTry)
+    } yield {
+      decoded
+    }
+  }
+
   private def getEvent(elasticClient: ElasticClient, eventId: String): Future[EventDoc] = {
     for {
       hit <- elasticClient.execute {
@@ -311,7 +325,7 @@ object Server extends FailFastCirceSupport {
         sort,
         sourceFiltering = Nil,
         highlight = false,
-        shards = Some(3)
+        shards = None
       )
     } yield results
   }

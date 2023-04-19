@@ -21,6 +21,7 @@ import { useNavigate } from 'react-router-dom'
 import { useContainerDimensions } from './useContainerDimensions'
 import { filter } from 'd3'
 import axios from 'axios'
+import { setTitle } from './util'
 
 const categoryLabel = {
   creator: 'Creator',
@@ -67,6 +68,10 @@ const People = ({
   }, [eventCounts])
 
   const { width: peopleParentWidth } = useContainerDimensions(peopleParentRef)
+
+  React.useEffect(() => {
+    setTitle('People')
+  }, [people && people.length])
 
   const itemWidth = i => {
     const imgWidth = {

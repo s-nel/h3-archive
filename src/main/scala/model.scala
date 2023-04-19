@@ -45,6 +45,17 @@ object model {
     implicit val eventDocEncoderInstance: Encoder[EventDoc] = deriveEncoder(renaming.snakeCase)
   }
 
+  final case class TranscriptionResponse(transcription: TranscriptionDoc)
+
+  object TranscriptionResponse {
+    implicit val transcriptionResponseDecoderInstance: Decoder[TranscriptionResponse] = deriveDecoder(
+      renaming.snakeCase
+    )
+    implicit val transcriptionResponseEncoderInstance: Encoder[TranscriptionResponse] = deriveEncoder(
+      renaming.snakeCase
+    )
+  }
+
   final case class TranscriptionDoc(text: Option[String], segments: Option[List[SegmentDoc]])
 
   object TranscriptionDoc {

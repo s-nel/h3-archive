@@ -234,6 +234,7 @@ const WithProvider = () => {
 const App = () => {
 
   const [isEditing] = React.useState(!!Cookies.get('session'))
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
 
   const router = createBrowserRouter([
     {
@@ -246,7 +247,7 @@ const App = () => {
         },
         {
           path: "/events/:eventId",
-          element: <Event />
+          element: <Timeline isEditing={isEditing} />
         },
         {
           path: "/people",

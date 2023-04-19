@@ -4,12 +4,17 @@ import axios from 'axios'
 import { useSelector } from 'react-redux'
 import { BsPerson } from 'react-icons/bs'
 import { Link } from 'react-router-dom'
+import { setTitle } from './util'
 
 const Steamies = ({isEditing}) => {
   const [steamyDoc, setSteamyDoc] = React.useState('')
   const steamies = useSelector(state => state.steamies.value)
   const people = useSelector(state => state.people.value)
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
+
+  React.useEffect(() => {
+    setTitle('Steamies')
+  }, [steamies && steamies.length])
 
   const orgByYear = steamies && steamies.reduce((a, b) => {
     if (a[b.year]) {

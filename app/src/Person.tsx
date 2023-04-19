@@ -34,6 +34,7 @@ import {
   linkTypeIcons,
   linkTypeDescription,
 } from './Info'
+import { setTitle } from './util'
 
 const Person = ({
   isEditing,
@@ -75,6 +76,12 @@ const Person = ({
   React.useEffect(() => {
     fetchEvents(personId, tableProps, setEvents, setTotalEvents, setLoading)
   }, [tableProps])
+
+  React.useEffect(() => {
+    if (person) {
+      setTitle(person.display_name || `${person.first_name} ${person.last_name}`)
+    }
+  }, [person])
 
   if (!person) {
     return null
@@ -127,13 +134,19 @@ const Person = ({
   const eventsColumns: Array<EuiBasicTableColumn<any>> = [
     {
       field: 'name',
-      sortable: true,
+      sortable: false,
       name: 'Name',
       render: (a, b) => <Link to={isMobile ? `/events/${b.event_id}` : `/?event_id=${b.event_id}`}>{a}</Link>,
       mobileOptions: {
         width: '100%',
         header: false,
       }
+    },
+    {
+      field: 'roleLabel',
+      name: 'Role',
+      sortable: false,
+      render: a => a,
     },
     {
       field: 'start_date',
@@ -207,6 +220,9 @@ const Person = ({
     }
     setTableProps(newTableProps)
   }
+
+  console.log('totalEvents', totalEvents, pageIndex)
+
   // let sortedEvents
   // if (sortField) {
   //   sortedEvents = events && events.slice(0).sort(Comparators.property(sortField, (a, b) => {
@@ -248,7 +264,7 @@ const Person = ({
         columns={eventsColumns}
         items={events}
         loading={isLoading}
-        pagination={events.length < 10 ? undefined : {
+        pagination={totalEvents <= 10 ? undefined : {
           pageIndex,
           pageSize,
           totalItemCount: totalEvents,
@@ -357,7 +373,7 @@ const fetchEvents = async (personId, { pageIndex, pageSize, sortField, sortDirec
     sort: { [sortField] : sortDirection },
     from: pageIndex * pageSize,
   })
-  setEvents(response.data.results.map(e => e.event).map(e => {
+  const extraFields = response.data.results.map(e => e.event).map(e => {
     const person = e.people.find(p => p.person_id === personId)
     if (!person) {
       return e
@@ -368,7 +384,27 @@ const fetchEvents = async (personId, { pageIndex, pageSize, sortField, sortDirec
       categoryLabel: categoryLabels[e.category],
       categoryColor: categoryColors[e.category],
     }, e)
-  }))
+  }).slice(0, Math.min(response.data.results.length, pageSize))
+  if (sortField) {
+    const sortedEvents = extraFields && extraFields.slice(0).sort(Comparators.property(sortField, (a, b) => {
+      if (typeof a === 'string' || a instanceof String) {
+        if (sortDirection === 'asc') {
+          return a.localeCompare(b)
+        } else {
+          return b.localeCompare(a)
+        }
+      } else {
+        if (sortDirection === 'asc') {
+          return a - b
+        } else {
+          return b - a
+        }
+      }
+    }))
+    setEvents(sortedEvents)
+  } else {
+    setEvents(extraFields)
+  }
   setTotalEvents(response.data.total)
   setLoading(false)
 }
