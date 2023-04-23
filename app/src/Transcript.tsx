@@ -8,6 +8,7 @@ const Transcript = ({
   ytVideo,
   ytVideoRef,
   highlightTerms,
+  plain,
 }) => {
   const isMobile = useIsWithinBreakpoints(['xs', 's'])
   const firstMatchRef = React.useRef(null)
@@ -26,6 +27,10 @@ const Transcript = ({
   let lastSegment = null
   let firstMatch = null
   const ytLink = event.links.find(l => l.type === 'youtube')
+
+  if (plain) {
+    return (<EuiText>{transcript.transcription.text}</EuiText>)
+  }
 
   return (<EuiCodeBlock className="transcript" paddingSize={isMobile ? 's' : undefined} overflowHeight={isMobile ? 300 : 400}>
     {transcript.transcription.segments.map((segment, i) => {

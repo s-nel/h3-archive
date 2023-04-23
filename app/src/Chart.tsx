@@ -21,6 +21,10 @@ export const height = 300
 //   simulation.force("collide").initialize(data)
 // }, 50)
 
+const debouncedSetEvent = _.debounce((eventId, setEventId) => {
+  setEventId(eventId)
+}, 500)
+
 const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLoading }) => {
   //console.log(unfilteredEvents, query)
   const width = 2000
@@ -28,8 +32,9 @@ const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLo
   const marginRight = 20
   const marginBottom = 30
   const marginLeft = 20
-  const hoverRadius = 14
+  //const hoverRadius = 14
 
+  const [tempEventId, setTempEventId] = React.useState(eventId)
   const [isEmpty, setEmpty] = React.useState(false)
   const [fixed, setFixed] = React.useState(!!eventId)
   const rootRef = React.useRef(null)
@@ -47,6 +52,14 @@ const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLo
     fetchPage(query, events, setEvents, setLoading, setEmpty, setEventsSize)
   }, [query && query.text])
 
+  React.useEffect(() => {
+    debouncedSetEvent(tempEventId, setEventId)
+  }, [tempEventId])
+
+  React.useEffect(() => {
+    setTempEventId(eventId)
+  }, [eventId])
+
   const ticked = () => {
     if (Date.now() % 3 === 0) {
       svg.selectAll(".circ")
@@ -60,14 +73,31 @@ const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLo
 
   const xDomain = [domainMin, DateTime.now().toMillis()]
   const xRange = [marginLeft, width - marginRight]
+  const viewsMin = 0 
+  const viewsMax = events.reduce((acc, e) => {
+    if (e.metrics) {
+      return Math.max(e.metrics.views, acc)
+    }
+    return acc
+  }, 0)
   const xTickFormat = d => DateTime.fromMillis(d).toLocaleString(DateTime.DATE_SHORT)
+
+  const size = e => {
+    if (e.category === 'podcast' || e.category === 'video') {
+      if (e.metrics) {
+        return radiuses[e.category][0] + (radiuses[e.category][1] - radiuses[e.category][0]) * (e.metrics.views / viewsMax)
+      }
+      return radiuses[e.category][0]
+    }
+    return radiuses[e.category]
+  }
 
   const [simulation, data] = React.useMemo(() => {
     const data = events && events.map(e => {
       const datum = {
         time: e.start_date,
         color: categoryColor[e.category],
-        size: radiuses[e.category] + 2,
+        size: size(e) + 1,
         event: e,
       }
       return datum
@@ -113,11 +143,7 @@ const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLo
       .style("stroke", "#555")
 
     data.forEach(d => {
-      if (d.event.event_id === eventId) {
-        d.size = hoverRadius + 3
-      } else {
-        d.size = radiuses[d.event.category] + 1
-      }
+      d.size = size(d.event) + 1
     })
     svg.append("g")
       .selectAll(".circ")
@@ -126,31 +152,32 @@ const Chart = ({ setEventId, eventId, query, events, setEvents, isLoading, setLo
       .append("circle") 
         .attr("class", "circ")
         .attr("stroke", "white")
-        .attr("stroke-width", d => d.event.event_id === eventId ? 3 : 1)
-        .attr("fill", d => d.color)
-        .attr("r", d => d.event.event_id === eventId ? hoverRadius : radiuses[d.event.category])
+        .attr("stroke-width", d => d.event.event_id === tempEventId ? 4 : 0)
+        .attr("fill", d => d.event.event_id === tempEventId ? '#eddc6d' : d.color)
+        .attr("opacity", d => d.event.event_id === tempEventId ? '1' : '0.9')
+        .attr("r", d => size(d.event))
         .attr("cx", d => d.x)
         .attr("cy", d => d.y)
         .on('mouseenter', function(e, d) {
           e.preventDefault()
-          if (d.event.event_id === eventId) {
+          if (d.event.event_id === tempEventId) {
             d3.select(this).raise()
           }
           if (!fixed) {
             d3.select(this).raise()
-            hover(setEventId, fixed)(d.event)
+            hover(setTempEventId, fixed)(d.event)
           }
         })
         .on('click', (e, d) => {
           e.stopPropagation()
-          toggleSelected(setFixed, setEventId, fixed)(d.event)
+          toggleSelected(setFixed, setTempEventId, fixed)(d.event)
         })
   }
 
   React.useEffect(() => {
       const rootEl = d3.select(rootRef.current)
       rootEl.append(() => svg.node())
-  }, [eventsSize, events, fixed, eventId])
+  }, [eventsSize, events, fixed, tempEventId])
 
   if (isLoading) {
     return (<EuiFlexGroup
@@ -187,8 +214,8 @@ const weights = {
 }
 
 const radiuses = {
-  podcast: 5,
-  video: 5,
+  podcast: [4.5, 18],
+  video: [4.5, 18],
   major: 8,
   controversy: 8,
 }

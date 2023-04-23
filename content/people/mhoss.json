@@ -1,0 +1,14 @@
+{
+  "person_id" : "mhosseinzadeh",
+  "category" : "lore",
+  "first_name" : "Matt",
+  "last_name" : "Hosseinzadeh",
+  "display_name" : "Matt Hoss",
+  "thumb" : "/people/mhosseinzadeh.jpg",
+  "description" : null,
+  "aliases" : [
+    "The Bold Guy"
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

@@ -1,0 +1,12 @@
+{
+  "person_id" : "jseinfeld",
+  "category" : "lore",
+  "first_name" : "Jerome",
+  "last_name" : "Seinfeld",
+  "display_name" : "Jerry Seinfeld",
+  "thumb" : null,
+  "description" : null,
+  "aliases" : null,
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

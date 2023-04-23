@@ -48,8 +48,7 @@ const Timeline = ({
   const setEventId = (eventId, highlights) => {
     const existingEventId = locationParams && locationParams.eventId
     if (existingEventId !== eventId) {
-      const query = window.location.search && `?${window.location.search}`
-      navigate(`/events/${eventId}${query}`, {
+      navigate(`/events/${eventId}${window.location.search}`, {
         replace: true,
       })
       setHighlights(highlights || null)
@@ -64,6 +63,7 @@ const Timeline = ({
       } else {
         existingParams.set('q', query.text)
       }
+      console.log(existingParams.toString())
       const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
       window.history.replaceState({path:newurl},'',newurl)
       setForce(force + 1)
@@ -131,6 +131,27 @@ const Timeline = ({
                   key: '_score',
                   onSort: () => setSort('_score', sort && sort.field === '_score' && sort.direction === 'desc' ? 'asc' : 'desc'),
                   isSorted: sort && sort.field === '_score',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Views',
+                  key: 'metrics.views',
+                  onSort: () => setSort('metrics.views', sort && sort.field === 'metrics.views' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === 'metrics.views',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Likes',
+                  key: 'metrics.likes',
+                  onSort: () => setSort('metrics.likes', sort && sort.field === 'metrics.likes' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === 'metrics.likes',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Comments',
+                  key: 'metrics.comments',
+                  onSort: () => setSort('metrics.comments', sort && sort.field === 'metrics.comments' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === 'metrics.comments',
                   isSortAscending: sort && sort.direction === 'asc'
                 }
               ]} /></EuiFlexItem>)}

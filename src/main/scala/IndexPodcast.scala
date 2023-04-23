@@ -21,6 +21,7 @@ import com.sksamuel.elastic4s.fields.{
   ObjectField,
   TextField
 }
+import com.sksamuel.elastic4s.requests.mappings.dynamictemplate.DynamicMapping
 import com.snacktrace.archive.model.{Category, EventDoc, LinkDoc, LinkType, PersonRef, TagDoc}
 import com.typesafe.config.ConfigFactory
 import io.circe.{Decoder, Encoder}
@@ -247,6 +248,15 @@ object IndexPodcast {
     ObjectField(
       "transcription",
       properties = Seq[ElasticField](
+        TextField("text")
+      )
+    )
+  ).dynamic(DynamicMapping.Strict)
+
+  val transcriptMapping = properties(
+    ObjectField(
+      "transcription",
+      properties = Seq[ElasticField](
         TextField("text"),
         ObjectField(
           "segments",
@@ -265,7 +275,7 @@ object IndexPodcast {
         )
       )
     )
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val peopleIndexMapping = properties(
     KeywordField("person_id"),
@@ -277,7 +287,7 @@ object IndexPodcast {
     TextField("aliases"),
     BooleanField("is_beefing"),
     BooleanField("is_squashed_beef")
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val soundbitesIndexMapping = properties(
     KeywordField("soundbite_id"),
@@ -288,7 +298,7 @@ object IndexPodcast {
     IntegerField("winning_year"),
     IntegerField("nominated_year"),
     TextField("alt")
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val steamyIndexMapping = properties(
     KeywordField("steamy_id"),
@@ -300,10 +310,11 @@ object IndexPodcast {
     TextField("name"),
     TextField("description"),
     IntegerField("year")
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val pollIndexMapping =
     properties(KeywordField("poll_id"), TextField("question"), TextField("answer"), BooleanField("ignore_order"))
+      .dynamic(DynamicMapping.Strict)
 
   val indexSettings: Map[String, Any] = Map(
     "analysis" -> Map[String, Any](

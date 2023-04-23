@@ -33,8 +33,12 @@
       "role" : "crew"
     },
     {
+      "person_id": "islater",
+      "role": "crew"
+    },
+    {
       "person_id" : "hklein",
-      "role" : "host"
+      "role" : "guest"
     }
   ],
   "transcription" : {
@@ -23363,7 +23367,7 @@
     ]
   },
   "metrics" : {
-    "views" : 1022577,
+    "views" : 1022581,
     "likes" : 33761,
     "comments" : 6572
   }

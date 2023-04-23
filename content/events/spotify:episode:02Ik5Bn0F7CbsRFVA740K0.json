@@ -25,6 +25,10 @@
       "role" : "crew"
     },
     {
+      "person_id": "islater",
+      "role": "crew"
+    },
+    {
       "person_id" : "mbradberry",
       "role" : "guest"
     },
@@ -12378,7 +12382,7 @@
     ]
   },
   "metrics" : {
-    "views" : 2290307,
+    "views" : 2290321,
     "likes" : 70691,
     "comments" : 8859
   }

@@ -39,6 +39,10 @@
     {
       "person_id" : "fkjellberg",
       "role" : "topic"
+    },
+    {
+      "person_id": "deason",
+      "role": "guest"
     }
   ],
   "transcription" : {
@@ -7956,8 +7960,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2103972,
+    "views" : 2103978,
     "likes" : 45141,
-    "comments" : 19505
+    "comments" : 19492
   }
 }

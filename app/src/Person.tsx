@@ -136,7 +136,7 @@ const Person = ({
       field: 'name',
       sortable: false,
       name: 'Name',
-      render: (a, b) => <Link to={isMobile ? `/events/${b.event_id}` : `/?event_id=${b.event_id}`}>{a}</Link>,
+      render: (a, b) => <Link to={`/events/${b.event_id}`}>{a}</Link>,
       mobileOptions: {
         width: '100%',
         header: false,
@@ -333,7 +333,7 @@ const Person = ({
                 {!isMobile && <EditPersonImgButton personId={person.person_id} />}
                 <EuiImage style={{width: imgWidth, height: imgWidth}} alt="thumbnail" src={person.thumb} />  
               </EuiFlexItem>)}
-              <EuiFlexItem grow={false}>
+              <EuiFlexItem grow>
                 <EuiPageHeader pageTitle={person.display_name || `${person.first_name} ${person.last_name}`} />
                 {isDisplayNameDifferent && (<EuiText>
                   <EuiTextColor color="subdued">{`${person.first_name} ${person.last_name}`}</EuiTextColor>

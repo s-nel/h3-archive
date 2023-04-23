@@ -1,0 +1,3 @@
+* During this episode of the podcast Ethan states that he “want[s] to get a soundboard” so that they can play iconic sounds during the show. This would ultimately lead to the creation of [Zach](/people/zlouis)’s position within the crew.
+* Ethan plays the infamous clip of [Bill Cosby](/people/wcosby) yelling “Hey, hey, hey” as he exits a courthouse. This would go on to become a very popular soundbite on the show.
+* Ethan plays the infamous clip of Prosperity Gospel Preacher [Kenneth Copeland](/people/kcopeland) in which he says “Get in a long tube with a bunch of demons”. The “bunch of demons” part would be clipped and used as a soundbite in the future.

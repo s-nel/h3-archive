@@ -25,6 +25,10 @@
       "role" : "crew"
     },
     {
+      "person_id": "islater",
+      "role": "crew"
+    },
+    {
       "person_id" : "wwilliams",
       "role" : "topic"
     },

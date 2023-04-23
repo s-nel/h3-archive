@@ -28,8 +28,6 @@ import cats.implicits.catsSyntaxEq
 import pdi.jwt.{Jwt, JwtAlgorithm}
 
 import java.io.File
-import java.net.URLEncoder
-import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.time.{Duration => JavaDuration}
 import java.util.concurrent.atomic.AtomicReference
@@ -370,8 +368,8 @@ object Server extends FailFastCirceSupport {
       .getOrElse(withFrom.sortBy(FieldSort("_doc")))
 
     for {
-      (hits, totalHits) <- shards match {
-        case Some(shards) =>
+      (hits, totalHits) <- (shards, sort) match {
+        case (Some(shards), None) =>
           Future
             .traverse(0.until(shards).toList) { index =>
               elasticClient.execute(withSort.slice(index, shards).scroll(15.seconds))
@@ -382,7 +380,7 @@ object Server extends FailFastCirceSupport {
                   (hits ++ r.result.hits.hits.toList) -> (total + r.result.totalHits)
               }
             }
-        case None =>
+        case _ =>
           elasticClient.execute(withSort).map(r => r.result.hits.hits.toList -> r.result.totalHits)
       }
     } yield {
@@ -451,7 +449,7 @@ object Server extends FailFastCirceSupport {
           events <- getEvents(readonlyClient, None)
           _ = events.map { event =>
             val webSitemapUrl = new WebSitemapUrl(
-              new WebSitemapUrl.Options(s"$url/?event_id=${URLEncoder.encode(event.eventId, StandardCharsets.UTF_8)}")
+              new WebSitemapUrl.Options(s"$url/events/${event.eventId}")
                 .lastMod(new Date(event.startDate))
                 .changeFreq(ChangeFreq.MONTHLY)
                 .priority(.5d)

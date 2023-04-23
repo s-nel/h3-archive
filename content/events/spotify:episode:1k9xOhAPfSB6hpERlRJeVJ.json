@@ -35,6 +35,14 @@
     {
       "person_id" : "jpaul",
       "role" : "topic"
+    },
+    {
+      "person_id": "jseinfeld",
+      "role": "topic"
+    },
+    {
+      "person_id": "apost",
+      "role": "host"
     }
   ],
   "transcription" : {
@@ -28500,8 +28508,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7271723,
-    "likes" : 82776,
+    "views" : 7271747,
+    "likes" : 82777,
     "comments" : 12245
   }
 }

@@ -27,6 +27,7 @@ object IndexTranscriptions {
         .filter(_.links.exists(_.exists(_.`type` === LinkType.YouTube.name)))
         .sortBy(e => e.startDate)
       paralleEc = ExecutionContext.fromExecutorService(new java.util.concurrent.ForkJoinPool(6))
+      _ = println(filteredEvents.map(_.eventId))
       _ <- filteredEvents.map(ev => transcribe(settings)(ev)(paralleEc).attempt).sequence
     } yield ()
     Await.result(fut, 60.hours)

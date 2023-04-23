@@ -72,7 +72,8 @@ object model {
 
   object TranscriptionDoc {
     implicit val transcriptionDocDecoderInstance: Decoder[TranscriptionDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val transcriptionDocEncoderInstance: Encoder[TranscriptionDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val transcriptionDocEncoderInstance: Encoder[TranscriptionDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class SegmentDoc(

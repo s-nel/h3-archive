@@ -28,7 +28,7 @@ import {
   EuiToolTip,
   useIsWithinBreakpoints,
 } from '@elastic/eui'
-import { BsSpotify, BsYoutube, BsPerson } from 'react-icons/bs'
+import { BsSpotify, BsYoutube, BsPerson, BsFillEyeFill, BsFillHandThumbsUpFill, BsFillChatLeftTextFill } from 'react-icons/bs'
 import axios from 'axios'
 import { add as addToast } from './data/toastsSlice'
 import Transcript from './Transcript'
@@ -61,7 +61,7 @@ export const linkTypeDescription = {
   youtube: "Watch on YouTube",
 }
 
-const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {    
+const Info = ({ eventId, isEditing, highlights: overrideHighlights, plain }) => {    
   const [info, setinfo] = React.useState(null)
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
   const [transcriptAbortController, setTranscriptAbortController] = React.useState(new AbortController())
@@ -233,12 +233,50 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
                 <EuiImage alt="thumbnail" src={info.thumb} />  
               </EuiFlexItem>)}
               <EuiFlexItem grow={false}>
-                <EuiTitle size="m">
-                  <h2>{info.name}</h2>
-                </EuiTitle>
-                {info.start_date && (<EuiText>
-                  <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
-                </EuiText>)}
+                <EuiFlexGroup direction="column" gutterSize="xs">
+                  <EuiFlexItem grow={false}>
+                    <EuiTitle size="m">
+                      <h2>{info.name}</h2>
+                    </EuiTitle>
+                  </EuiFlexItem>
+                  <EuiFlexItem grow={false}>
+                    <EuiFlexGroup>
+                      <EuiFlexItem grow>
+                        {info.start_date && (<EuiText>
+                          <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
+                        </EuiText>)}
+                      </EuiFlexItem>
+                      {info && info.metrics && (<EuiFlexItem grow={false}>
+                        <EuiFlexGroup responsive={false} alignItems="center" gutterSize="m">
+                          <EuiFlexItem grow={false}>
+                            <EuiToolTip content="Views">
+                              <EuiFlexGroup responsive={false} gutterSize="xs" alignItems="center">
+                                <EuiFlexItem grow={false}><BsFillEyeFill style={{ width: "12px", height: "12px" }} color="#81858f" /></EuiFlexItem>
+                                <EuiFlexItem grow={false}><EuiText size="s" color="#81858f">{info.metrics.views.toLocaleString()}</EuiText></EuiFlexItem>
+                              </EuiFlexGroup>
+                            </EuiToolTip>
+                          </EuiFlexItem>
+                          <EuiFlexItem grow={false}>
+                            <EuiToolTip content="Likes">
+                              <EuiFlexGroup responsive={false} gutterSize="xs" alignItems="center">
+                                <EuiFlexItem grow={false}><BsFillHandThumbsUpFill style={{ width: "12px", height: "12px" }} color="#81858f" /></EuiFlexItem>
+                                <EuiFlexItem grow={false}><EuiText size="s" color="#81858f">{info.metrics.likes.toLocaleString()}</EuiText></EuiFlexItem>
+                              </EuiFlexGroup>
+                            </EuiToolTip>
+                          </EuiFlexItem>
+                          <EuiFlexItem grow={false}>
+                            <EuiToolTip content="Comments">
+                              <EuiFlexGroup responsive={false} gutterSize="xs" alignItems="center">
+                                <EuiFlexItem grow={false}><BsFillChatLeftTextFill style={{ width: "12px", height: "12px" }} color="#81858f" /></EuiFlexItem>
+                                <EuiFlexItem grow={false}><EuiText size="s" color="#81858f">{info.metrics.comments.toLocaleString()}</EuiText></EuiFlexItem>
+                              </EuiFlexGroup>
+                            </EuiToolTip>
+                          </EuiFlexItem>
+                        </EuiFlexGroup>
+                      </EuiFlexItem>)}
+                    </EuiFlexGroup>
+                  </EuiFlexItem>
+                </EuiFlexGroup>
               </EuiFlexItem>
               <EuiFlexItem grow={false}>
                 <EuiFlexGroup responsive={false}>
@@ -291,7 +329,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
               buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
             >
               <EuiSpacer size="s" />
-              {isTranscriptShowing && <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />}
+              <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} plain={!isTranscriptShowing} />
             </EuiAccordion>
           </EuiPanel>
         </EuiFlexItem>)}
