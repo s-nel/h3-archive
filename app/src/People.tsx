@@ -21,6 +21,7 @@ import { useNavigate } from 'react-router-dom'
 import { useContainerDimensions } from './useContainerDimensions'
 import { filter } from 'd3'
 import axios from 'axios'
+import { setTitle } from './util'
 
 const categoryLabel = {
   creator: 'Creator',
@@ -67,6 +68,10 @@ const People = ({
   }, [eventCounts])
 
   const { width: peopleParentWidth } = useContainerDimensions(peopleParentRef)
+
+  React.useEffect(() => {
+    setTitle('People')
+  }, [people && people.length])
 
   const itemWidth = i => {
     const imgWidth = {
@@ -340,7 +345,6 @@ const onSearch = setQuery => query => {
 
 const fetchEventCounts = async setEventCounts => {
   const response = await axios.get('/api/events/counts')
-  console.log(response)
   setEventCounts(response.data)
 }
 

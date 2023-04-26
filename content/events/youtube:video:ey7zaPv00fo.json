@@ -1,8 +1,8 @@
 {
   "event_id" : "youtube:video:ey7zaPv00fo",
   "category" : "podcast",
-  "name" : "H3 Podcast #29 - Jacksfilms & Erik of Internet Comment Etiquette",
-  "description" : "",
+  "name" : "#29 Jackfilms & Erik of Internet Comment Etiquette",
+  "description" : "<p>Jackfilms and Erik from Internet Comment Etiquette join us once again to talk about EVERYTHING!</p><p> </p>",
   "thumb" : "https://i.ytimg.com/vi/ey7zaPv00fo/default.jpg",
   "tags" : [
   ],
@@ -17,7 +17,6 @@
     }
   ],
   "start_date" : 1505693585000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "dswerdlove",
@@ -38,10 +37,13 @@
     {
       "person_id" : "hklein",
       "role" : "host"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -77374,5 +77376,10 @@
         "no_speech_prob" : 0.46858519315719604
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2697336,
+    "likes" : 51390,
+    "comments" : 14049
   }
 }

@@ -31,14 +31,15 @@ import axios from 'axios'
 const GUTTER_SIZE = 5
 
 const DesktopEventList = ({
-  sort,
-  events,
+  events: unsortedEvents,
   setEventId,
   eventId,
   isLoading,
 }) => {
   const listRef = React.createRef()
   const rowHeights = React.useRef({})
+
+  const events = unsortedEvents && unsortedEvents.sort((a, b) => b.start_date - a.start_date)
 
   React.useEffect(() => {
     if (listRef.current) {

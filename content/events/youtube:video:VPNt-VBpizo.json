@@ -13,7 +13,6 @@
     }
   ],
   "start_date" : 1604362385000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "aayad",
@@ -41,7 +40,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -8602,5 +8600,10 @@
         "no_speech_prob" : 0.3768407702445984
       }
     ]
+  },
+  "metrics" : {
+    "views" : 487295,
+    "likes" : 19294,
+    "comments" : 1646
   }
 }

@@ -24,16 +24,20 @@
   "duration" : 4697887,
   "people" : [
     {
-      "person_id" : "eklein",
-      "role" : "host"
-    },
-    {
       "person_id" : "dswerdlove",
       "role" : "crew"
     },
     {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
       "person_id" : "hklein",
       "role" : "host"
+    },
+    {
+      "person_id" : "deason",
+      "role" : "guest"
     },
     {
       "person_id" : "fkjellberg",
@@ -41,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -7953,5 +7956,10 @@
         "no_speech_prob" : 0.013966497033834457
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2104069,
+    "likes" : 45144,
+    "comments" : 19493
   }
 }

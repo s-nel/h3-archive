@@ -146,7 +146,8 @@ object IndexYoutubeVideos2 {
       startDate = Instant.parse(item.snippet.publishedAt).toEpochMilli,
       duration = None,
       people = Some(Set(PersonRef("eklein", "host"), PersonRef("hklein", "host"))),
-      transcription = None
+      transcription = None,
+      metrics = None
     )
   }
 }

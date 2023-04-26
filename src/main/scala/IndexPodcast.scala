@@ -21,6 +21,7 @@ import com.sksamuel.elastic4s.fields.{
   ObjectField,
   TextField
 }
+import com.sksamuel.elastic4s.requests.mappings.dynamictemplate.DynamicMapping
 import com.snacktrace.archive.model.{Category, EventDoc, LinkDoc, LinkType, PersonRef, TagDoc}
 import com.typesafe.config.ConfigFactory
 import io.circe.{Decoder, Encoder}
@@ -43,6 +44,7 @@ object IndexPodcast {
   val spotifyWebApiUrl = Uri("https://api.spotify.com")
   val h3id = "7ydBWzs9BSRh97tsCjOhby"
   val eventsIndex = "events"
+  val transcriptIndex = "transcripts"
   val peopleIndex = "people"
   val soundbitesIndex = "soundbites"
   val steamyIndex = "steamies"
@@ -119,11 +121,17 @@ object IndexPodcast {
       println(s"Fetching episodes [${request.uri.toString()}]")
       for {
         episodes <- httpRequest[Episodes](request)
+        existingEvents <- IndexYoutubeVideos.loadEventsFromContent(false)
         events = episodes.items.map(toDoc)
         _ <- events.map { eventDoc =>
           val file = new File(s"content/events/${eventDoc.eventId}.json")
           if (file.exists()) {
             println(s"File [${file.getName}] already exists. Skipping")
+            Future.successful(())
+          } else if (existingEvents.exists(
+              e => e.links.exists(_.exists(ld1 => eventDoc.links.exists(_.exists(ld2 => ld1.url === ld2.url))))
+            )) {
+            println(s"Found existing event with link to this podcast. Skipping")
             Future.successful(())
           } else {
             val allEventPeople = Set(
@@ -213,7 +221,8 @@ object IndexPodcast {
         LocalDate.parse(episode.release_date).atStartOfDay(ZoneId.of("America/Los_Angeles")).toInstant.toEpochMilli,
       duration = Some(episode.durationMs),
       people = None,
-      transcription = None
+      transcription = None,
+      metrics = None
     )
   }
 
@@ -245,6 +254,15 @@ object IndexPodcast {
     ObjectField(
       "transcription",
       properties = Seq[ElasticField](
+        TextField("text")
+      )
+    )
+  ).dynamic(DynamicMapping.Strict)
+
+  val transcriptMapping = properties(
+    ObjectField(
+      "transcription",
+      properties = Seq[ElasticField](
         TextField("text"),
         ObjectField(
           "segments",
@@ -258,12 +276,14 @@ object IndexPodcast {
             DoubleField("temperature"),
             DoubleField("avg_logprob"),
             DoubleField("compression_ratio"),
-            DoubleField("no_speech_prob")
+            DoubleField("no_speech_prob"),
+            KeywordField("speaker"),
+            BooleanField("is_soundbite")
           )
         )
       )
     )
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val peopleIndexMapping = properties(
     KeywordField("person_id"),
@@ -275,7 +295,7 @@ object IndexPodcast {
     TextField("aliases"),
     BooleanField("is_beefing"),
     BooleanField("is_squashed_beef")
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val soundbitesIndexMapping = properties(
     KeywordField("soundbite_id"),
@@ -286,7 +306,7 @@ object IndexPodcast {
     IntegerField("winning_year"),
     IntegerField("nominated_year"),
     TextField("alt")
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val steamyIndexMapping = properties(
     KeywordField("steamy_id"),
@@ -298,10 +318,11 @@ object IndexPodcast {
     TextField("name"),
     TextField("description"),
     IntegerField("year")
-  )
+  ).dynamic(DynamicMapping.Strict)
 
   val pollIndexMapping =
     properties(KeywordField("poll_id"), TextField("question"), TextField("answer"), BooleanField("ignore_order"))
+      .dynamic(DynamicMapping.Strict)
 
   val indexSettings: Map[String, Any] = Map(
     "analysis" -> Map[String, Any](

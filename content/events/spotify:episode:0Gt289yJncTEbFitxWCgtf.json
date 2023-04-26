@@ -76,5 +76,9 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "metrics" : {
+    "views" : 1290988,
+    "likes" : 24113,
+    "comments" : 2744
+  }
 }

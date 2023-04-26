@@ -1,0 +1,2 @@
+* During this episode Ethan and Post are discussing dominance within nature. Ethan states “In a natural setting women are meant to be conquered.” which causes Joji to visibly cringe behind Ethan on camera. This became the very well-known “Joji incident”.
+* Post recounts spooky instances that occurred to him while he was young. This turns into a recurring segment of Ethan and Hila asking if their guests have experienced anything paranormal.

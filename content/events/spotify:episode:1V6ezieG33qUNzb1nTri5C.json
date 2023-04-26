@@ -26,14 +26,9 @@
     {
       "person_id" : "fkjellberg",
       "role" : "guest"
-    },
-    {
-      "person_id" : "hklein",
-      "role" : "host"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16536,5 +16531,10 @@
         "no_speech_prob" : 0.003551628440618515
       }
     ]
+  },
+  "metrics" : {
+    "views" : 553532,
+    "likes" : 18571,
+    "comments" : 799
   }
 }

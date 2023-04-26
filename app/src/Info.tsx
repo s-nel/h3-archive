@@ -28,11 +28,14 @@ import {
   EuiToolTip,
   useIsWithinBreakpoints,
 } from '@elastic/eui'
-import { BsSpotify, BsYoutube, BsPerson } from 'react-icons/bs'
+import { BsSpotify, BsYoutube, BsPerson, BsFillEyeFill, BsFillHandThumbsUpFill, BsFillChatLeftTextFill } from 'react-icons/bs'
 import axios from 'axios'
 import { add as addToast } from './data/toastsSlice'
 import Transcript from './Transcript'
 import Video from './Video'
+import { setTitle } from './util'
+import TranscriptEditor from './TranscriptEditor'
+import PersonPicker from './PersonPicker'
 
 export const roleLabel = {
   creator: 'Creator',
@@ -60,10 +63,13 @@ export const linkTypeDescription = {
   youtube: "Watch on YouTube",
 }
 
-const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {    
+const Info = ({ eventId, isEditing, highlights: overrideHighlights, plain }) => {    
   const [info, setinfo] = React.useState(null)
   const [searchAbortController, setSearchAbortController] = React.useState(new AbortController())
+  const [transcriptAbortController, setTranscriptAbortController] = React.useState(new AbortController())
+  const [transcript, setTranscript] = React.useState(null)
   const [isLoading, setLoading] = React.useState(false)
+  const [isTranscriptLoading, setTranscriptLoading] = React.useState(false)
   const [modifiedDoc, setModifiedDoc] = React.useState(null)
   const dispatch = useDispatch()
   const people = useSelector(state => state.people.value)
@@ -83,6 +89,13 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
     return acc
   }, {})
 
+  const ytLink = info && info.links.find(l => l.type === 'youtube')
+  const [ytPlayer, setYtPlayer] = React.useState(null)
+
+  var regExp = /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/
+  const match = ytLink && ytLink.url && ytLink.url.match(regExp)
+  const ytId = match && match[2].length === 11 && match[2]
+
   React.useEffect(() => {
     if ((info && !modifiedDoc) || (info && info.event_id !== modifiedDoc.event_id)) {
       setModifiedDoc({
@@ -97,9 +110,15 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
   React.useEffect(() => {
     if (eventId) {
       fetchEvent(eventId, setinfo, setLoading, setSearchAbortController, searchAbortController)
+      setTranscript(null)
+      fetchTranscript(eventId, setTranscript, setTranscriptLoading, setTranscriptAbortController, transcriptAbortController)
       setTranscriptShowing(!!highlights)
     }
   }, [eventId])
+
+  React.useEffect(() => {
+    setTitle(info && info.name)
+  }, [info])
 
   if (isLoading) {
     return <div><EuiSpacer size="xl" /><EuiSkeletonText /></div>
@@ -223,12 +242,50 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
                 <EuiImage alt="thumbnail" src={info.thumb} />  
               </EuiFlexItem>)}
               <EuiFlexItem grow={false}>
-                <EuiTitle size="m">
-                  <h2>{info.name}</h2>
-                </EuiTitle>
-                {info.start_date && (<EuiText>
-                  <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
-                </EuiText>)}
+                <EuiFlexGroup direction="column" gutterSize="xs">
+                  <EuiFlexItem grow={false}>
+                    <EuiTitle size="m">
+                      <h2>{info.name}</h2>
+                    </EuiTitle>
+                  </EuiFlexItem>
+                  <EuiFlexItem grow={false}>
+                    <EuiFlexGroup>
+                      <EuiFlexItem grow>
+                        {info.start_date && (<EuiText>
+                          <EuiTextColor color="subdued">{DateTime.fromMillis(info.start_date, { zone: 'utc' }).toLocaleString(DateTime.DATE_HUGE)}</EuiTextColor>
+                        </EuiText>)}
+                      </EuiFlexItem>
+                      {info && info.metrics && (<EuiFlexItem grow={false}>
+                        <EuiFlexGroup responsive={false} alignItems="center" gutterSize="m">
+                          <EuiFlexItem grow={false}>
+                            <EuiToolTip content="Views">
+                              <EuiFlexGroup responsive={false} gutterSize="xs" alignItems="center">
+                                <EuiFlexItem grow={false}><BsFillEyeFill style={{ width: "12px", height: "12px" }} color="#81858f" /></EuiFlexItem>
+                                <EuiFlexItem grow={false}><EuiText size="s" color="#81858f">{info.metrics.views.toLocaleString()}</EuiText></EuiFlexItem>
+                              </EuiFlexGroup>
+                            </EuiToolTip>
+                          </EuiFlexItem>
+                          <EuiFlexItem grow={false}>
+                            <EuiToolTip content="Likes">
+                              <EuiFlexGroup responsive={false} gutterSize="xs" alignItems="center">
+                                <EuiFlexItem grow={false}><BsFillHandThumbsUpFill style={{ width: "12px", height: "12px" }} color="#81858f" /></EuiFlexItem>
+                                <EuiFlexItem grow={false}><EuiText size="s" color="#81858f">{info.metrics.likes.toLocaleString()}</EuiText></EuiFlexItem>
+                              </EuiFlexGroup>
+                            </EuiToolTip>
+                          </EuiFlexItem>
+                          <EuiFlexItem grow={false}>
+                            <EuiToolTip content="Comments">
+                              <EuiFlexGroup responsive={false} gutterSize="xs" alignItems="center">
+                                <EuiFlexItem grow={false}><BsFillChatLeftTextFill style={{ width: "12px", height: "12px" }} color="#81858f" /></EuiFlexItem>
+                                <EuiFlexItem grow={false}><EuiText size="s" color="#81858f">{info.metrics.comments.toLocaleString()}</EuiText></EuiFlexItem>
+                              </EuiFlexGroup>
+                            </EuiToolTip>
+                          </EuiFlexItem>
+                        </EuiFlexGroup>
+                      </EuiFlexItem>)}
+                    </EuiFlexGroup>
+                  </EuiFlexItem>
+                </EuiFlexGroup>
               </EuiFlexItem>
               <EuiFlexItem grow={false}>
                 <EuiFlexGroup responsive={false}>
@@ -260,15 +317,16 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
               <EuiMarkdownFormat textSize="s">{info.notes}</EuiMarkdownFormat>
             </EuiAccordion>
           </EuiPanel>
+          <EuiSpacer size="s" />
         </EuiFlexItem>)}
         {!isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiTitle size="xs"><h4>Video</h4></EuiTitle>  
             <EuiSpacer size="s" />
-            <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
+            <Video ytVideoRef={ytVideoRef} ytId={ytId} onVideoReady={e => setYtVideo(e.target)} />
           </EuiPanel>
         </EuiFlexItem>)}
-        {!isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
+        {!isMobile && transcript && (<EuiFlexItem grow={false}>
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EditEventButton eventId={eventId} />
             <EuiAccordion 
@@ -280,22 +338,31 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, }) => {
               buttonContent={<EuiText><h4>Transcript</h4></EuiText>}
             >
               <EuiSpacer size="s" />
-              <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+              <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} plain={!isTranscriptShowing} />
             </EuiAccordion>
+            {isEditing && ([<EuiHorizontalRule />, <TranscriptEditor 
+                segments={transcript.transcription.segments} 
+                ytId={ytId} 
+                speakers={people.map(p => ({
+                  id: p.person_id,
+                  thumb: p.thumb,
+                  displayName: p.display_name || `${p.first_name} ${p.last_name}`
+                }))} 
+              />])}
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
     </EuiFlexItem>
     {isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
       <EuiPanel paddingSize="none">
-        <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
+        <Video ytVideoRef={ytVideoRef} ytId={ytId} onVideoReady={e => setYtVideo(e.target)} />
       </EuiPanel>
     </EuiFlexItem>)}
-    {isMobile && info && info.transcription && (<EuiFlexItem grow={false}>
+    {isMobile && transcript && (<EuiFlexItem grow={false}>
       <EuiPanel>
         <EuiText><h4>Transcript</h4></EuiText>
         <EuiSpacer size="s" />
-        <Transcript event={info} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
+        <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} />
       </EuiPanel>
     </EuiFlexItem>)}
     {((links && links.length > 0) || (info.tags && info.tags.length > 0) || (info.people && info.people.length > 0)) && (<EuiFlexItem grow={1}>
@@ -349,11 +416,25 @@ const fetchEvent = async (eventId, setEvent, setFetching, setSearchAbortControll
     searchAbortController.abort()
   }
   setSearchAbortController(newSearchAbortController)
-  const event = await axios.get(`/api/events/${eventId}?with_transcript=true`, {
+  const event = await axios.get(`/api/events/${eventId}`, {
     signal: newSearchAbortController.signal,
   })
   setEvent(event.data)
   setFetching(false)
+}
+
+const fetchTranscript = async (eventId, setTranscript, setFetchingTranscript, setTranscriptAbortController, transcriptAbortController) => {
+  setFetchingTranscript(true)
+  const newTranscriptAbortController = new AbortController()
+  if (transcriptAbortController) {
+    transcriptAbortController.abort()
+  }
+  setTranscriptAbortController(newTranscriptAbortController)
+  const response = await axios.get(`/api/events/${eventId}/transcript`, {
+    signal: newTranscriptAbortController.signal,
+  })
+  setTranscript(response.data)
+  setFetchingTranscript(false)
 }
 
 export const categoryColor = {
@@ -403,18 +484,14 @@ const AddPersonControl = ({
 
   return (<EuiFlexGroup alignItems="center">
     <EuiFlexItem grow={2}>
-      <EuiSuggest 
-        onChange={v => {setNewPerson(v)}}
-        value={newPerson}
-        suggestions={people ? people.map(p => {
-          return {
-            type: {
-              iconType: 'user'
-            },
-            label: p.display_name || `${p.first_name} ${p.last_name}`,
-            onClick: () => { setNewPerson(p.person_id) }
-          }
-        }): []}
+      <PersonPicker
+        onPersonPicked={setNewPerson}
+        person={newPerson}
+        people={people ? people.map(p => ({
+          id: p.person_id,
+          displayName: p.display_name || `${p.first_name} ${p.last_name}`,
+          thumb: p.thumb,
+        })): []}
       />
     </EuiFlexItem>
     <EuiFlexItem grow={1}>

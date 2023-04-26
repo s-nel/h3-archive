@@ -1,0 +1,13 @@
+{
+  "person_id" : "sklein",
+  "category" : "lore",
+  "first_name" : "Sean",
+  "last_name" : "Klein",
+  "display_name" : null,
+  "thumb" : null,
+  "description" : "Ethan's brother. Works as a teacher",
+  "aliases" : [
+  ],
+  "is_beefing" : null,
+  "is_squashed_beef" : null
+}

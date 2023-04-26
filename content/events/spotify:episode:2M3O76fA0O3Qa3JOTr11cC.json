@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate Says Trans Rights, Nick Cannon's Disturbing New Show, Elon Musk - Off The Rails #63",
   "description" : "<p>Today we talk Elon Musk&#39;s latest very embarrassing Twitter meltdown, Andrew Tate&#39;s resurfaced clip discussing the ways sexuality is a spectrum, a scientific analysis over the ways zoomer kinetic sand and subway surfer clips perform better than others, BOBA TIME, and we debut the MAGIC DUMP BUTTON.</p>",
-  "thumb" : null,
   "tags" : [
     {
       "key" : "Series",
@@ -77,7 +76,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28911,5 +28909,10 @@
         "no_speech_prob" : 0.16033846139907837
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1503097,
+    "likes" : 20370,
+    "comments" : 1932
   }
 }

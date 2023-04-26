@@ -16,7 +16,7 @@ import akka.http.scaladsl.coding.Coders
 import akka.http.scaladsl.model.headers.{HttpChallenge, HttpCookie, `Set-Cookie`}
 import akka.http.scaladsl.server.{AuthenticationFailedRejection, Directive1}
 import com.redfin.sitemapgenerator.{ChangeFreq, GoogleMobileSitemapUrl, WebSitemapGenerator, WebSitemapUrl}
-import com.sksamuel.elastic4s.requests.searches.HighlightField
+import com.sksamuel.elastic4s.requests.searches.{HighlightField, SearchHit}
 import com.sksamuel.elastic4s.requests.searches.queries.{Query, RawQuery}
 import com.sksamuel.elastic4s.requests.searches.sort.{FieldSort, SortOrder}
 import com.snacktrace.archive.Settings.{ElasticsearchSettings, SessionSettings}
@@ -28,12 +28,11 @@ import cats.implicits.catsSyntaxEq
 import pdi.jwt.{Jwt, JwtAlgorithm}
 
 import java.io.File
-import java.net.URLEncoder
-import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.time.{Duration => JavaDuration}
 import java.util.concurrent.atomic.AtomicReference
 import java.util.{Date, Locale}
+import scala.concurrent.duration._
 import scala.concurrent.Future
 import scala.util.{Failure, Success}
 
@@ -47,6 +46,8 @@ object Server extends FailFastCirceSupport {
 
   private implicit val system = ActorSystem("my-system")
   private implicit val executionContext = system.dispatcher
+
+  private val matchAllQueryJson = decode[Json]("""{ "match_all": {} }""")
 
   private val url = "https://h3historian.com"
 
@@ -76,65 +77,89 @@ object Server extends FailFastCirceSupport {
 
   private val route = {
     pathPrefix("api") {
-      pathPrefix("events") {
-        pathPrefix("counts") {
-          get {
-            complete(getEventCounts(readonlyClient))
+      pathPrefix("local") {
+        pathPrefix("events") {
+          pathPrefix("^.+$".r) { eventId =>
+            get {
+              complete(getFileEvent(eventId))
+            } ~
+              pathPrefix("transcript") {
+                put {
+                  entity(as[TranscriptionDoc]) { transcription =>
+                    complete(for {
+                      event <- getFileEvent(eventId)
+                      _ <- updateFileEvent(
+                        eventId,
+                        event.copy(eventId = eventId, transcription = Some(transcription.copy(text = None)))
+                      )
+                    } yield {})
+                  }
+                }
+              }
           }
-        } ~
-          get {
-            pathPrefix("^.+$".r) { eventId =>
-              get {
-                complete(getEvent(readonlyClient, eventId))
-              }
-            } ~
-              parameters("q".optional) { maybeQuery =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(getEvents(readonlyClient, maybeQuery))
-                }
-              }
+        }
+      } ~
+        pathPrefix("events") {
+          pathPrefix("counts") {
+            get {
+              complete(getEventCounts(readonlyClient))
+            }
           } ~
-          post {
-            parameters("person") { personId =>
-              entity(as[PartialSearchRequest]) { search =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(
-                    getPersonEvents(
-                      elasticClient = readonlyClient,
-                      personId = personId,
-                      from = search.from,
-                      size = search.size,
-                      sort = search.sort
-                    )
-                  )
+            get {
+              pathPrefix("^.+$".r) { eventId =>
+                pathPrefix("transcript") {
+                  complete(getTranscript(readonlyClient, eventId))
+                } ~
+                  complete(getEvent(readonlyClient, eventId))
+              } ~
+                parameters("q".optional) { maybeQuery =>
+                  encodeResponseWith(Coders.Gzip) {
+                    complete(getEvents(readonlyClient, maybeQuery))
+                  }
                 }
-              }
             } ~
-              entity(as[SearchRequest]) { search =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(
-                    searchEvents(
-                      elasticClient = readonlyClient,
-                      searchBody = search.query,
-                      from = search.from,
-                      size = search.size,
-                      sort = search.sort,
-                      sourceFiltering = List("transcription", "description", "people", "tags", "links", "thumb")
+            post {
+              parameters("person") { personId =>
+                entity(as[PartialSearchRequest]) { search =>
+                  encodeResponseWith(Coders.Gzip) {
+                    complete(
+                      getPersonEvents(
+                        elasticClient = readonlyClient,
+                        personId = personId,
+                        from = search.from,
+                        size = search.size,
+                        sort = search.sort
+                      )
                     )
-                  )
+                  }
                 }
-              }
-          } ~
-          validateCredentials(settings.session) { client =>
+              } ~
+                entity(as[SearchRequest]) { search =>
+                  encodeResponseWith(Coders.Gzip) {
+                    complete(
+                      searchEvents(
+                        elasticClient = readonlyClient,
+                        searchBody = search.query,
+                        from = search.from,
+                        size = search.size,
+                        sort = search.sort,
+                        sourceFiltering =
+                          List("transcription", "description", "people", "tags", "links", "thumb", "notes"),
+                        highlight = matchAllQueryJson.map(q => search.query != q).getOrElse(true),
+                        shards = Some(3)
+                      )
+                    )
+                  }
+                }
+            } ~
             pathPrefix("^.+$".r) { eventId =>
               entity(as[EventDoc]) { event =>
                 put {
-                  complete(updateEvent(client, eventId, event))
+                  complete(updateFileEvent(eventId, event))
                 }
               }
             }
-          }
-      } ~
+        } ~
         pathPrefix("people") {
           get {
             complete(getPeople(readonlyClient, None))
@@ -221,6 +246,17 @@ object Server extends FailFastCirceSupport {
     }
   }
 
+  private def getTranscript(elasticClient: ElasticClient, eventId: String): Future[TranscriptionResponse] = {
+    for {
+      hit <- elasticClient.execute {
+        getDoc(transcriptIndex, eventId)
+      }
+      decoded <- Future.fromTry(decode[TranscriptionResponse](hit.result.sourceAsString).toTry)
+    } yield {
+      decoded
+    }
+  }
+
   private def getEvent(elasticClient: ElasticClient, eventId: String): Future[EventDoc] = {
     for {
       hit <- elasticClient.execute {
@@ -231,6 +267,8 @@ object Server extends FailFastCirceSupport {
       decoded
     }
   }
+
+  private def getFileEvent(eventId: String): Future[EventDoc] = IndexYoutubeVideos.loadEventFromContent(eventId)
 
   private def getEvents(elasticsearchClient: ElasticClient, maybeQueryStr: Option[String]): Future[List[EventDoc]] = {
     val query: Query = maybeQueryStr match {
@@ -303,7 +341,9 @@ object Server extends FailFastCirceSupport {
         from,
         size,
         sort,
-        sourceFiltering = Nil
+        sourceFiltering = Nil,
+        highlight = false,
+        shards = None
       )
     } yield results
   }
@@ -314,37 +354,58 @@ object Server extends FailFastCirceSupport {
       from: Option[Int],
       size: Option[Int],
       sort: Option[Map[String, String]],
-      sourceFiltering: List[String]
+      sourceFiltering: List[String],
+      highlight: Boolean,
+      shards: Option[Int]
   ): Future[EventsResults] = {
+    val start = System.currentTimeMillis()
+    val baseSearch = search(eventsIndex)
+      .query(RawQuery(searchBody.noSpaces))
+      .sourceExclude(sourceFiltering)
+      .size(size.getOrElse(2000))
+    val withHighlight = if (highlight) {
+      baseSearch.highlighting(
+        List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
+      )
+    } else {
+      baseSearch
+    }
+
+    val withFrom = from.map(f => withHighlight.from(f)).getOrElse(withHighlight)
+    val withSort = sort
+      .map(
+        s =>
+          withFrom.sortBy(s.map {
+            case (k, v) =>
+              val order = if (v.toLowerCase(Locale.US) === "asc") {
+                SortOrder.ASC
+              } else {
+                SortOrder.DESC
+              }
+              FieldSort(field = k, order = order)
+          })
+      )
+      .getOrElse(withFrom.sortBy(FieldSort("_doc")))
+
     for {
-      hits <- elasticClient.execute {
-        val baseSearch = search(eventsIndex)
-          .query(RawQuery(searchBody.noSpaces))
-          .highlighting(
-            List(HighlightField("name"), HighlightField("description"), HighlightField("transcription.text"))
-          )
-          .sourceExclude(sourceFiltering)
-          .size(size.getOrElse(2000))
-        val withFrom = from.map(f => baseSearch.from(f)).getOrElse(baseSearch)
-        val withSort = sort
-          .map(
-            s =>
-              withFrom.sortBy(s.map {
-                case (k, v) =>
-                  val order = if (v.toLowerCase(Locale.US) === "asc") {
-                    SortOrder.ASC
-                  } else {
-                    SortOrder.DESC
-                  }
-                  FieldSort(field = k, order = order)
-              })
-          )
-          .getOrElse(withFrom)
-        withSort
+      (hits, totalHits) <- (shards, sort) match {
+        case (Some(shards), None) =>
+          Future
+            .traverse(0.until(shards).toList) { index =>
+              elasticClient.execute(withSort.slice(index, shards).scroll(15.seconds))
+            }
+            .map { rs =>
+              rs.foldLeft(List.empty[SearchHit] -> 0L) {
+                case ((hits, total), r) =>
+                  (hits ++ r.result.hits.hits.toList) -> (total + r.result.totalHits)
+              }
+            }
+        case _ =>
+          elasticClient.execute(withSort).map(r => r.result.hits.hits.toList -> r.result.totalHits)
       }
     } yield {
-      //println(hits)
-      val events = hits.result.hits.hits.toList.flatMap { hit =>
+      println(s"Response from ES took [${(System.currentTimeMillis() - start).toString}]")
+      val events = hits.flatMap { hit =>
         decode[EventDoc](hit.sourceAsString).toTry match {
           case Success(event) =>
             List(EventWithHighlight(event, hit.highlight))
@@ -354,7 +415,8 @@ object Server extends FailFastCirceSupport {
             Nil
         }
       }
-      EventsResults(results = events, total = hits.result.totalHits)
+      println(s"Fetching all events took [${(System.currentTimeMillis() - start).toString}]")
+      EventsResults(results = events, total = totalHits)
     }
   }
 
@@ -407,7 +469,7 @@ object Server extends FailFastCirceSupport {
           events <- getEvents(readonlyClient, None)
           _ = events.map { event =>
             val webSitemapUrl = new WebSitemapUrl(
-              new WebSitemapUrl.Options(s"$url/?event_id=${URLEncoder.encode(event.eventId, StandardCharsets.UTF_8)}")
+              new WebSitemapUrl.Options(s"$url/events/${event.eventId}")
                 .lastMod(new Date(event.startDate))
                 .changeFreq(ChangeFreq.MONTHLY)
                 .priority(.5d)
@@ -480,12 +542,8 @@ object Server extends FailFastCirceSupport {
     }
   }
 
-  private def updateEvent(elasticsearchClient: ElasticClient, eventId: String, event: EventDoc): Future[Unit] = {
-    elasticsearchClient
-      .execute {
-        indexInto(eventsIndex).withId(eventId).doc(event.asJson.toString())
-      }
-      .map(_ => ())
+  private def updateFileEvent(eventId: String, event: EventDoc): Future[Unit] = {
+    IndexYoutubeVideos.persistToContent(event)
   }
 
   private def createPerson(elasticClient: ElasticClient, personDoc: PersonDoc): Future[Unit] = {

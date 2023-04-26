@@ -21,7 +21,6 @@
     }
   ],
   "start_date" : 1496211287000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -32,5 +31,9 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null
+  "metrics" : {
+    "views" : 1,
+    "likes" : 73,
+    "comments" : 0
+  }
 }

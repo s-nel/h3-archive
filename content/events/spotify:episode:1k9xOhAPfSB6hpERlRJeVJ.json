@@ -24,6 +24,14 @@
   "duration" : 11859095,
   "people" : [
     {
+      "person_id" : "apost",
+      "role" : "host"
+    },
+    {
+      "person_id" : "jseinfeld",
+      "role" : "topic"
+    },
+    {
       "person_id" : "eklein",
       "role" : "host"
     },
@@ -37,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28497,5 +28504,10 @@
         "no_speech_prob" : 0.017954545095562935
       }
     ]
+  },
+  "metrics" : {
+    "views" : 7271887,
+    "likes" : 82775,
+    "comments" : 12244
   }
 }

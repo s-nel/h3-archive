@@ -56,6 +56,7 @@ import { setAll as setAllSteamies } from './data/steamiesSlice'
 import { remove as removeToast } from './data/toastsSlice'
 import Login from './Login'
 import ScrollToTop from './ScrollToTop';
+import EditTranscript from './EditTranscript';
 
 const Root = () => {
   const [hasFetchedData, setFetchedData] = React.useState(false)
@@ -234,6 +235,7 @@ const WithProvider = () => {
 const App = () => {
 
   const [isEditing] = React.useState(!!Cookies.get('session'))
+  const isMobile = useIsWithinBreakpoints(['xs', 's'])
 
   const router = createBrowserRouter([
     {
@@ -246,7 +248,7 @@ const App = () => {
         },
         {
           path: "/events/:eventId",
-          element: <Event />
+          element: <Timeline isEditing={isEditing} />
         },
         {
           path: "/people",
@@ -271,6 +273,10 @@ const App = () => {
         {
           path: "/login",
           element: <Login />
+        },
+        {
+          path: "/events/:eventId/transcript",
+          element: <EditTranscript />
         }
       ],
     },

@@ -16,7 +16,9 @@ import com.snacktrace.archive.IndexPodcast.{
   soundbitesIndex,
   soundbitesIndexMapping,
   steamyIndex,
-  steamyIndexMapping
+  steamyIndexMapping,
+  transcriptIndex,
+  transcriptMapping
 }
 import com.snacktrace.archive.model._
 import com.typesafe.config.ConfigFactory
@@ -57,53 +59,73 @@ object Restore {
       )
     )
 
-    def restoreEvents(): Future[Unit] = restore[EventDoc](
+    def restoreEvents(): Future[Unit] = restore[EventDoc, EventDoc](
       client = elasticsearchClient,
       index = eventsIndex,
       mapping = eventsMapping,
       dir = "events",
       maybeBatchSize = maybeBatchSize,
       transformer = eventDoc => {
-        eventDoc.copy(transcription = eventDoc.transcription.flatMap { transcription =>
+        Some(eventDoc.copy(transcription = eventDoc.transcription.flatMap { transcription =>
           transcription.segments.map { segments =>
             val fullTextBuilder = new StringBuilder()
             segments.foreach { segment =>
               fullTextBuilder.append(segment.text)
             }
-            transcription.copy(text = Some(fullTextBuilder.toString()))
+            TranscriptionDoc(text = Some(fullTextBuilder.toString()), segments = None)
           }
-        })
+        }))
       },
       markdownFields = Map("notes" -> ((doc, notes) => doc.copy(notes = Some(notes))))
     )
 
-    def restorePeople(): Future[Unit] = restore[PersonDoc](
+    def restoreTranscripts(): Future[Unit] = restore[EventDoc, TranscriptionResponse](
+      client = elasticsearchClient,
+      index = transcriptIndex,
+      mapping = transcriptMapping,
+      dir = "events",
+      maybeBatchSize = maybeBatchSize,
+      transformer = eventDoc => {
+        eventDoc.transcription.flatMap { transcription =>
+          transcription.segments.map { segments =>
+            val fullTextBuilder = new StringBuilder()
+            segments.foreach { segment =>
+              fullTextBuilder.append(segment.text)
+            }
+            TranscriptionResponse(TranscriptionDoc(text = Some(fullTextBuilder.toString()), segments = Some(segments)))
+          }
+        }
+      },
+      Map.empty
+    )
+
+    def restorePeople(): Future[Unit] = restore[PersonDoc, PersonDoc](
       client = elasticsearchClient,
       index = peopleIndex,
       mapping = peopleIndexMapping,
       dir = "people",
       maybeBatchSize = maybeBatchSize,
-      transformer = identity,
+      transformer = a => Some(a),
       markdownFields = Map("description" -> ((doc, desc) => doc.copy(description = Some(desc))))
     )
 
-    def restoreSteamies(): Future[Unit] = restore[SteamyDoc](
+    def restoreSteamies(): Future[Unit] = restore[SteamyDoc, SteamyDoc](
       client = elasticsearchClient,
       index = steamyIndex,
       mapping = steamyIndexMapping,
       dir = "steamies",
       maybeBatchSize = maybeBatchSize,
-      transformer = identity,
+      transformer = a => Some(a),
       markdownFields = Map.empty
     )
 
-    def restoreSoundbites(): Future[Unit] = restore[SoundbiteDoc](
+    def restoreSoundbites(): Future[Unit] = restore[SoundbiteDoc, SoundbiteDoc](
       client = elasticsearchClient,
       index = soundbitesIndex,
       mapping = soundbitesIndexMapping,
       dir = "soundbites",
       maybeBatchSize = maybeBatchSize,
-      transformer = identity,
+      transformer = a => Some(a),
       markdownFields = Map.empty
     )
 
@@ -112,21 +134,24 @@ object Restore {
       case Some("people") => restorePeople()
       case Some("steamies") => restoreSteamies()
       case Some("soundbites") => restoreSoundbites()
+      case Some("transcripts") => restoreTranscripts()
       case None =>
-        Future.sequence(List(restoreEvents(), restorePeople(), restoreSteamies(), restoreSoundbites()))
+        Future.sequence(
+          List(restoreEvents(), restorePeople(), restoreSteamies(), restoreSoundbites(), restoreTranscripts())
+        )
       case Some(other) => Future.failed(new Exception(s"Unsupported kind [$other]"))
     }
 
     Await.result(fut, Duration.Inf)
   }
 
-  def restore[Doc: Decoder: Encoder](
+  def restore[Doc: Decoder, Doc2: Encoder](
       client: ElasticClient,
       index: String,
       mapping: MappingDefinition,
       dir: String,
       maybeBatchSize: Option[Int],
-      transformer: Doc => Doc,
+      transformer: Doc => Option[Doc2],
       markdownFields: Map[String, (Doc, String) => Doc]
   ): Future[Unit] = {
     for {
@@ -155,7 +180,6 @@ object Restore {
               println(s"Failed reading [${file.getAbsolutePath}]")
               Future.failed(t)
           }
-          maxLastModified = file.lastModified()
           doc <- Future.fromTry(decode[Doc](jsonStr).toTry match {
             case Success(a) => Success(a)
             case Failure(t) =>
@@ -178,18 +202,22 @@ object Restore {
               }
           }
         } yield {
-          val transformedDoc = transformer(updatedDoc)
-          indexInto(index)
-            .withId(id)
-            .doc(transformedDoc.asJson.noSpaces)
-            .versionType(VersionType.EXTERNAL)
-            .version(maxLastModified)
+          val maybeTransformedDoc = transformer(updatedDoc)
+          maybeTransformedDoc.map { transformedDoc =>
+            println(s"Indexing [${id}] into [${index}] with version [${maxLastModified.toString}]")
+            indexInto(index)
+              .withId(id)
+              .doc(transformedDoc.asJson.noSpaces)
+              .versionType(VersionType.EXTERNAL)
+              .version(maxLastModified)
+          }
         }
       }
-      batches = ops.grouped(maybeBatchSize.getOrElse(50))
+      batches = ops.flatten.grouped(maybeBatchSize.getOrElse(50))
       results <- Future.traverse(batches) { batch =>
         client.execute(bulk(batch: _*))
       }
+      _ = println(s"results = ${results.toList.toString}")
       successes = results.toList.flatMap(_.result.successes.toList)
       failures = results.toList.flatMap(_.result.failures.toList)
       unchanged = successes.foldLeft(0) {

@@ -1,0 +1,2 @@
+* We see [Sean](/people/sklein) for the first time.
+* Ethan does a "Hot Ones"-style buffalo wing bit on the Podcast and this would mark the first food segment. Food segments become a very popular recurring bit on the show.

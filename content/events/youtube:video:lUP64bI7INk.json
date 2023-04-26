@@ -17,7 +17,6 @@
     }
   ],
   "start_date" : 1669421585000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "stemple",
@@ -61,7 +60,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -18170,5 +18168,10 @@
         "no_speech_prob" : 1.6716677055228502E-4
       }
     ]
+  },
+  "metrics" : {
+    "views" : 1038056,
+    "likes" : 27321,
+    "comments" : 3796
   }
 }

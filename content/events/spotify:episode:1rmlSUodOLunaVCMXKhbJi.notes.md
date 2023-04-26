@@ -1,0 +1,1 @@
+* In this episode, we are introduced to [Jimmy Lee](/people/jlee) for the first time. Jimmy would go on to become a very polarising yet popular figure within the fanbase and would return as a guest appearance many times.

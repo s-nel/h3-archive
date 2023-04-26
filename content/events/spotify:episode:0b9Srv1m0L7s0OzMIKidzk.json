@@ -65,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19857,5 +19856,10 @@
         "no_speech_prob" : 0.42395806312561035
       }
     ]
+  },
+  "metrics" : {
+    "views" : 911618,
+    "likes" : 23047,
+    "comments" : 2178
   }
 }

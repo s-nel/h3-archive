@@ -32,6 +32,10 @@
       "role" : "host"
     },
     {
+      "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
       "person_id" : "ebradberry",
       "role" : "guest"
     },
@@ -41,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -12375,5 +12378,10 @@
         "no_speech_prob" : 0.02439093217253685
       }
     ]
+  },
+  "metrics" : {
+    "views" : 2290488,
+    "likes" : 70694,
+    "comments" : 8859
   }
 }

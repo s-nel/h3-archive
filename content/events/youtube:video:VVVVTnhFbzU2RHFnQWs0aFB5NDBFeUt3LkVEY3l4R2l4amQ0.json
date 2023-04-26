@@ -17,12 +17,15 @@
     }
   ],
   "start_date" : 1643590174000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
       "role" : "host"
     }
   ],
-  "transcription" : null
+  "metrics" : {
+    "views" : 270479,
+    "likes" : 16544,
+    "comments" : 1500
+  }
 }

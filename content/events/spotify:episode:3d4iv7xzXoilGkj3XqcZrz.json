@@ -44,6 +44,10 @@
       "role" : "crew"
     },
     {
+      "person_id" : "ctyson",
+      "role" : "topic"
+    },
+    {
       "person_id" : "nbarnett",
       "role" : "topic"
     },
@@ -68,20 +72,31 @@
       "role" : "host"
     },
     {
-      "person_id" : "islater",
-      "role" : "crew"
+      "person_id" : "eetienne",
+      "role" : "topic"
     },
     {
       "person_id" : "jdonaldson",
       "role" : "topic"
     },
     {
+      "person_id" : "aatlas",
+      "role" : "topic"
+    },
+    {
       "person_id" : "aayad",
       "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "sghiorghiu",
+      "role" : "topic"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30796,5 +30811,10 @@
         "no_speech_prob" : 0.795759916305542
       }
     ]
+  },
+  "metrics" : {
+    "views" : 993162,
+    "likes" : 21056,
+    "comments" : 3326
   }
 }

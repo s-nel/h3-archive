@@ -17,7 +17,6 @@
     }
   ],
   "start_date" : 1627776785000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "dswerdlove",
@@ -61,7 +60,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31502,5 +31500,10 @@
         "no_speech_prob" : 0.2062612771987915
       }
     ]
+  },
+  "metrics" : {
+    "views" : 581486,
+    "likes" : 17545,
+    "comments" : 1969
   }
 }

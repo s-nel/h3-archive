@@ -42,10 +42,13 @@
     {
       "person_id" : "hklein",
       "role" : "host"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -8166,5 +8169,10 @@
         "no_speech_prob" : 0.0027984532061964273
       }
     ]
+  },
+  "metrics" : {
+    "views" : 644801,
+    "likes" : 17921,
+    "comments" : 2065
   }
 }

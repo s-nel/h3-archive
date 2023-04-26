@@ -8,21 +8,22 @@ object model {
 
   object LinkDoc {
     implicit val linkDocDecoderInstance: Decoder[LinkDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val linkDocEncoderInstance: Encoder[LinkDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val linkDocEncoderInstance: Encoder[LinkDoc] = deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class TagDoc(key: String, value: String)
 
   object TagDoc {
     implicit val tagDocDecoderInstance: Decoder[TagDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val tagDocEncoderInstance: Encoder[TagDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val tagDocEncoderInstance: Encoder[TagDoc] = deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class PersonRef(personId: String, role: String)
 
   object PersonRef {
     implicit val personRefDecoderInstance: Decoder[PersonRef] = deriveDecoder(renaming.snakeCase)
-    implicit val personRefEncoderInstance: Encoder[PersonRef] = deriveEncoder(renaming.snakeCase)
+    implicit val personRefEncoderInstance: Encoder[PersonRef] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class EventDoc(
@@ -37,19 +38,45 @@ object model {
       startDate: Long,
       duration: Option[Long],
       people: Option[Set[PersonRef]],
-      transcription: Option[TranscriptionDoc]
+      transcription: Option[TranscriptionDoc],
+      metrics: Option[MetricsDoc]
   )
 
   object EventDoc {
     implicit val eventDocDecoderInstance: Decoder[EventDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val eventDocEncoderInstance: Encoder[EventDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val eventDocEncoderInstance: Encoder[EventDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
+  }
+
+  final case class MetricsDoc(
+      views: Long,
+      likes: Long,
+      comments: Long
+  )
+
+  object MetricsDoc {
+    implicit val metricsDocDecoderInstance: Decoder[MetricsDoc] = deriveDecoder(renaming.snakeCase)
+    implicit val metricsDocEncoderInstance: Encoder[MetricsDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
+  }
+
+  final case class TranscriptionResponse(transcription: TranscriptionDoc)
+
+  object TranscriptionResponse {
+    implicit val transcriptionResponseDecoderInstance: Decoder[TranscriptionResponse] = deriveDecoder(
+      renaming.snakeCase
+    )
+    implicit val transcriptionResponseEncoderInstance: Encoder[TranscriptionResponse] = deriveEncoder(
+      renaming.snakeCase
+    ).mapJson(_.dropNullValues)
   }
 
   final case class TranscriptionDoc(text: Option[String], segments: Option[List[SegmentDoc]])
 
   object TranscriptionDoc {
     implicit val transcriptionDocDecoderInstance: Decoder[TranscriptionDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val transcriptionDocEncoderInstance: Encoder[TranscriptionDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val transcriptionDocEncoderInstance: Encoder[TranscriptionDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class SegmentDoc(
@@ -61,12 +88,15 @@ object model {
       temperature: Double,
       avgLogprob: Double,
       compressionRatio: Double,
-      noSpeechProb: Double
+      noSpeechProb: Double,
+      speaker: Option[String],
+      isSoundbite: Option[Boolean]
   )
 
   object SegmentDoc {
     implicit val segmentDocDecoderInstance: Decoder[SegmentDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val segmentDocEncoderInstance: Encoder[SegmentDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val segmentDocEncoderInstance: Encoder[SegmentDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class PersonDoc(
@@ -84,7 +114,8 @@ object model {
 
   object PersonDoc {
     implicit val personDocDecoderInstance: Decoder[PersonDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val personDocEncoderInstance: Encoder[PersonDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val personDocEncoderInstance: Encoder[PersonDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class SoundbiteDoc(
@@ -100,14 +131,16 @@ object model {
 
   object SoundbiteDoc {
     implicit val soundbiteDocDecoderInstance: Decoder[SoundbiteDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val soundbiteDocEncoderInstance: Encoder[SoundbiteDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val soundbiteDocEncoderInstance: Encoder[SoundbiteDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class SteamyPerson(personId: Set[String], name: Option[String], won: Boolean)
 
   object SteamyPerson {
     implicit val steamyPersonDecoderInstance: Decoder[SteamyPerson] = deriveDecoder(renaming.snakeCase)
-    implicit val steamyPersonEncoderInstance: Encoder[SteamyPerson] = deriveEncoder(renaming.snakeCase)
+    implicit val steamyPersonEncoderInstance: Encoder[SteamyPerson] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class SteamyDoc(
@@ -119,27 +152,31 @@ object model {
   )
   object SteamyDoc {
     implicit val steamyDocDecoderInstance: Decoder[SteamyDoc] = deriveDecoder(renaming.snakeCase)
-    implicit val steamyDocEncoderInstance: Encoder[SteamyDoc] = deriveEncoder(renaming.snakeCase)
+    implicit val steamyDocEncoderInstance: Encoder[SteamyDoc] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class Credentials(user: String, password: String)
   object Credentials {
     implicit val credentialsDecoderInstance: Decoder[Credentials] = deriveDecoder(renaming.snakeCase)
-    implicit val credentialsEncoderInstance: Encoder[Credentials] = deriveEncoder(renaming.snakeCase)
+    implicit val credentialsEncoderInstance: Encoder[Credentials] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class EventWithHighlight(event: EventDoc, highlight: Map[String, Seq[String]])
 
   object EventWithHighlight {
     implicit val eventWithHighlightDecoderInstance: Decoder[EventWithHighlight] = deriveDecoder(renaming.snakeCase)
-    implicit val eventWithHighlightEncoderInstance: Encoder[EventWithHighlight] = deriveEncoder(renaming.snakeCase)
+    implicit val eventWithHighlightEncoderInstance: Encoder[EventWithHighlight] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class EventsResults(results: List[EventWithHighlight], total: Long)
 
   object EventsResults {
     implicit val eventsResultsDecoderInstance: Decoder[EventsResults] = deriveDecoder(renaming.snakeCase)
-    implicit val eventsResultsEncoderInstance: Encoder[EventsResults] = deriveEncoder(renaming.snakeCase)
+    implicit val eventsResultsEncoderInstance: Encoder[EventsResults] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class SearchRequest(
@@ -151,7 +188,8 @@ object model {
 
   object SearchRequest {
     implicit val searchRequestDecoderInstance: Decoder[SearchRequest] = deriveDecoder(renaming.snakeCase)
-    implicit val searchRequestEncoderInstance: Encoder[SearchRequest] = deriveEncoder(renaming.snakeCase)
+    implicit val searchRequestEncoderInstance: Encoder[SearchRequest] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   final case class PartialSearchRequest(
@@ -162,7 +200,8 @@ object model {
 
   object PartialSearchRequest {
     implicit val partialSearchRequestDecoderInstance: Decoder[PartialSearchRequest] = deriveDecoder(renaming.snakeCase)
-    implicit val partialSearchRequestEncoderInstance: Encoder[PartialSearchRequest] = deriveEncoder(renaming.snakeCase)
+    implicit val partialSearchRequestEncoderInstance: Encoder[PartialSearchRequest] =
+      deriveEncoder(renaming.snakeCase).mapJson(_.dropNullValues)
   }
 
   sealed trait LinkType {

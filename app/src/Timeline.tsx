@@ -22,13 +22,14 @@ import {
   Query,
   useIsWithinBreakpoints,
 } from '@elastic/eui'
-import { Link } from 'react-router-dom'
+import { Link, useLocation, useNavigate, useParams } from 'react-router-dom'
 import { VariableSizeList as List } from 'react-window'
 //import { CellMeasurer, CellMeasurerCache, List } from 'react-virtualized'
 import AutoSizer from 'react-virtualized-auto-sizer'
 import InfiniteLoader from 'react-window-infinite-loader'
 import axios from 'axios'
 import DesktopEventList from './DesktopEventList'
+import Event from './Event'
 
 const BATCH_SIZE = 50
 
@@ -41,12 +42,15 @@ const Timeline = ({
   const [isLoading, setLoading] = React.useState(false)
   const [highlights, setHighlights] = React.useState(null)
 
+  const locationParams = useParams()
+  const navigate = useNavigate()
+
   const setEventId = (eventId, highlights) => {
-    const existingParams = new URLSearchParams(window.location.search)
-    if (existingParams.get('event_id') !== eventId) {
-      existingParams.set('event_id', eventId)
-      const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
-      window.history.replaceState({path:newurl},'',newurl)
+    const existingEventId = locationParams && locationParams.eventId
+    if (existingEventId !== eventId) {
+      navigate(`/events/${eventId}${window.location.search}`, {
+        replace: true,
+      })
       setHighlights(highlights || null)
       setForce(force + 1)
     }
@@ -59,6 +63,7 @@ const Timeline = ({
       } else {
         existingParams.set('q', query.text)
       }
+      console.log(existingParams.toString())
       const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?${existingParams.toString()}`
       window.history.replaceState({path:newurl},'',newurl)
       setForce(force + 1)
@@ -80,9 +85,11 @@ const Timeline = ({
   }
   const [events, setEvents] = React.useState([])
 
-  const eventId = searchParams.get('event_id')
+  const eventId = locationParams && locationParams.eventId
 
-  console.log('query', query)
+  if (isMobile && eventId) {
+    return <Event />
+  }
 
   if (!events && !isMobile) {
     return (<EuiFlexGroup
@@ -124,6 +131,27 @@ const Timeline = ({
                   key: '_score',
                   onSort: () => setSort('_score', sort && sort.field === '_score' && sort.direction === 'desc' ? 'asc' : 'desc'),
                   isSorted: sort && sort.field === '_score',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Views',
+                  key: 'metrics.views',
+                  onSort: () => setSort('metrics.views', sort && sort.field === 'metrics.views' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === 'metrics.views',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Likes',
+                  key: 'metrics.likes',
+                  onSort: () => setSort('metrics.likes', sort && sort.field === 'metrics.likes' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === 'metrics.likes',
+                  isSortAscending: sort && sort.direction === 'asc'
+                },
+                {
+                  name: 'Comments',
+                  key: 'metrics.comments',
+                  onSort: () => setSort('metrics.comments', sort && sort.field === 'metrics.comments' && sort.direction === 'desc' ? 'asc' : 'desc'),
+                  isSorted: sort && sort.field === 'metrics.comments',
                   isSortAscending: sort && sort.direction === 'asc'
                 }
               ]} /></EuiFlexItem>)}

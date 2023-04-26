@@ -17,7 +17,6 @@
     }
   ],
   "start_date" : 1461443441000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -29,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3442,5 +3440,10 @@
         "no_speech_prob" : 0.06475309282541275
       }
     ]
+  },
+  "metrics" : {
+    "views" : 6422251,
+    "likes" : 142127,
+    "comments" : 9800
   }
 }
