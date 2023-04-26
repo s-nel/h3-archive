@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "CENSORSHIP ON YOUTUBE",
   "description" : "Thanks to Fullscreen for the claim and strike on our kissing pranks video, appreciate ya!",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fh1wlSb2H04/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1438711487000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -783,8 +780,8 @@
     ]
   },
   "metrics" : {
-    "views" : 982771,
+    "views" : 982801,
     "likes" : 43295,
-    "comments" : 1929
+    "comments" : 1928
   }
 }

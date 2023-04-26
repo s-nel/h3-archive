@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Storm Watch 2015",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_ALfCoCpru4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1420750772000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3412,8 +3409,8 @@
     ]
   },
   "metrics" : {
-    "views" : 417572,
-    "likes" : 10931,
-    "comments" : 651
+    "views" : 417628,
+    "likes" : 10932,
+    "comments" : 652
   }
 }

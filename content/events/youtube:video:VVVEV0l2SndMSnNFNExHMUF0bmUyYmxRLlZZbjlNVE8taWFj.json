@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Fitness Crunch Time [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VYn9MTO-iac/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1407166354000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1146,7 +1143,7 @@
     ]
   },
   "metrics" : {
-    "views" : 204771,
+    "views" : 204772,
     "likes" : 6227,
     "comments" : 551
   }

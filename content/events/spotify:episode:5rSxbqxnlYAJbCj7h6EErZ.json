@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Brittany Broski",
   "description" : "<p>Today we interview the all-around hilarious Brittany Broski! We talk e-boys, pickup artists, review some strange beers and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ppyW70czRqU/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -22474,8 +22472,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3303331,
-    "likes" : 84820,
-    "comments" : 7943
+    "views" : 3331195,
+    "likes" : 84907,
+    "comments" : 7935
   }
 }

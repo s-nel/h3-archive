@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "pickles",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IhZ3QtF8uLo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1384003371000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53,8 +50,8 @@
     ]
   },
   "metrics" : {
-    "views" : 221588,
-    "likes" : 3687,
+    "views" : 221607,
+    "likes" : 3688,
     "comments" : 77
   }
 }

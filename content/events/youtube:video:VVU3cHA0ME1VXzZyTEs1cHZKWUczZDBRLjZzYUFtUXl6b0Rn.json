@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ethan and Hila Live Stream",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6saAmQyzoDg/default_live.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1511742568000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -29,7 +27,6 @@
       "role" : "host"
     }
   ],
-  "transcription" : null,
   "metrics" : {
     "views" : 0,
     "likes" : 23,

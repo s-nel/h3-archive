@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "lime exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Vos7Dw9ZY9s/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1381528338000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53,7 +50,7 @@
     ]
   },
   "metrics" : {
-    "views" : 881456,
+    "views" : 881537,
     "likes" : 12164,
     "comments" : 281
   }

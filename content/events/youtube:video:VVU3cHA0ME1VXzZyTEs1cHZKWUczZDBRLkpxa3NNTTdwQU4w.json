@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Jokes - Wolves",
   "description" : "Follow us on spotify or itunes:\nhttps://open.spotify.com/artist/1IVtEk1unpWvTPgPHxBQd0\nhttps://music.apple.com/us/artist/the-jokes/1410466746\n\nLyrics:\n\nWolves wake hungry in the moonlight\nWolves don't tell no lies\nI'm going back to Angeles \nAnd I'm going back tonight\n\nI've never had a use for god\nOr the wise man on hill\nLord, if you can hear me now\nThe wolves come for their kill\n\nMoon moon moon \nTo lighten up the way\nJust enough to see my feet\nTo stumble 'til the day\nPraying for the Sun, to come and shine on me\nCause this nights has got begging me on my knees\n\nThe wolves are howling in the moonlight\nI guess they got their fill\nI still haven't seen the holy ghost\nAnd I guess I never will\n\nI lay my head on the empty track\nLord take this pain away\nI hear the wolves closing in\nAnd I see the break of day\n\nMoon moon moon \nTo lighten up the way\nJust enough to see my feet\nTo stumble 'til the day\nPraying for the Sun, to come and shine on me\nCause this nights has got begging me on my knees",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JqksMM7pAN0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1652838111000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -255,8 +252,8 @@
     ]
   },
   "metrics" : {
-    "views" : 149148,
-    "likes" : 11462,
-    "comments" : 1649
+    "views" : 149578,
+    "likes" : 11472,
+    "comments" : 1648
   }
 }

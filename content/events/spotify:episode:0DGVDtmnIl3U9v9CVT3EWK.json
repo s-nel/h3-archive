@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#36 - Dr Disrespect",
   "description" : "<p>The Prolific twitch streamer known as Dr Disrespect joins us today to talk about EVERYTHING!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/I9hL4zQy0UI/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9360,8 +9358,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3452292,
-    "likes" : 82474,
-    "comments" : 6792
+    "views" : 3453305,
+    "likes" : 82497,
+    "comments" : 6793
   }
 }

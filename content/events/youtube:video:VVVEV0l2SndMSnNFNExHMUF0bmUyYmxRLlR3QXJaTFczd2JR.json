@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "100 LAYERS OF BEANIES",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TwArZLW3wbQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1473622487000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3126,8 +3123,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5412067,
-    "likes" : 230699,
-    "comments" : 18223
+    "views" : 5412311,
+    "likes" : 230708,
+    "comments" : 18220
   }
 }

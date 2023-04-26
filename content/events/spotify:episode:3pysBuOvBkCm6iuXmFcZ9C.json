@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Kanye, MGK Cringe, Jordan Peterson's Family Comes For Me - Off The Rails #24",
   "description" : "<p>Today we discuss the ridiculous Lord of the Rings TV show controversy, Zach&#39;s Joker Brain Twitter, Fresh &amp; Fit wanting to debate us, &amp; we try a new delicacy involving a little too much butter...</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lXyGJVWafH8/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -43559,8 +43557,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1248822,
-    "likes" : 29898,
-    "comments" : 3176
+    "views" : 1249000,
+    "likes" : 29899,
+    "comments" : 3164
   }
 }

@@ -34,6 +34,8 @@ import { add as addToast } from './data/toastsSlice'
 import Transcript from './Transcript'
 import Video from './Video'
 import { setTitle } from './util'
+import TranscriptEditor from './TranscriptEditor'
+import PersonPicker from './PersonPicker'
 
 export const roleLabel = {
   creator: 'Creator',
@@ -86,6 +88,13 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, plain }) => 
     })
     return acc
   }, {})
+
+  const ytLink = info && info.links.find(l => l.type === 'youtube')
+  const [ytPlayer, setYtPlayer] = React.useState(null)
+
+  var regExp = /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/
+  const match = ytLink && ytLink.url && ytLink.url.match(regExp)
+  const ytId = match && match[2].length === 11 && match[2]
 
   React.useEffect(() => {
     if ((info && !modifiedDoc) || (info && info.event_id !== modifiedDoc.event_id)) {
@@ -314,7 +323,7 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, plain }) => 
           <EuiPanel paddingSize="xs" color="transparent" hasShadow={false}>
             <EuiTitle size="xs"><h4>Video</h4></EuiTitle>  
             <EuiSpacer size="s" />
-            <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
+            <Video ytVideoRef={ytVideoRef} ytId={ytId} onVideoReady={e => setYtVideo(e.target)} />
           </EuiPanel>
         </EuiFlexItem>)}
         {!isMobile && transcript && (<EuiFlexItem grow={false}>
@@ -331,13 +340,22 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, plain }) => 
               <EuiSpacer size="s" />
               <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} plain={!isTranscriptShowing} />
             </EuiAccordion>
+            {isEditing && ([<EuiHorizontalRule />, <TranscriptEditor 
+                segments={transcript.transcription.segments} 
+                ytId={ytId} 
+                speakers={people.map(p => ({
+                  id: p.person_id,
+                  thumb: p.thumb,
+                  displayName: p.display_name || `${p.first_name} ${p.last_name}`
+                }))} 
+              />])}
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
     </EuiFlexItem>
     {isMobile && info && info.links && info.links.some(l => l.type === 'youtube') && (<EuiFlexItem grow={false}>
       <EuiPanel paddingSize="none">
-        <Video ytVideoRef={ytVideoRef} event={info} onVideoReady={e => setYtVideo(e.target)} />
+        <Video ytVideoRef={ytVideoRef} ytId={ytId} onVideoReady={e => setYtVideo(e.target)} />
       </EuiPanel>
     </EuiFlexItem>)}
     {isMobile && transcript && (<EuiFlexItem grow={false}>
@@ -466,18 +484,14 @@ const AddPersonControl = ({
 
   return (<EuiFlexGroup alignItems="center">
     <EuiFlexItem grow={2}>
-      <EuiSuggest 
-        onChange={v => {setNewPerson(v)}}
-        value={newPerson}
-        suggestions={people ? people.map(p => {
-          return {
-            type: {
-              iconType: 'user'
-            },
-            label: p.display_name || `${p.first_name} ${p.last_name}`,
-            onClick: () => { setNewPerson(p.person_id) }
-          }
-        }): []}
+      <PersonPicker
+        onPersonPicked={setNewPerson}
+        person={newPerson}
+        people={people ? people.map(p => ({
+          id: p.person_id,
+          displayName: p.display_name || `${p.first_name} ${p.last_name}`,
+          thumb: p.thumb,
+        })): []}
       />
     </EuiFlexItem>
     <EuiFlexItem grow={1}>

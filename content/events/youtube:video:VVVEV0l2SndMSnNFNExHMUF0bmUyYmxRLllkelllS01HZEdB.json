@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Best of 2014 -- h3h3productions",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YdzYeKMGdGA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1419973689000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3005,7 +3002,7 @@
     ]
   },
   "metrics" : {
-    "views" : 627294,
+    "views" : 627333,
     "likes" : 16710,
     "comments" : 899
   }

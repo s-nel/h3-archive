@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ethan and Hila in Las Vegas",
   "description" : "We try our luck in Vegas, homeless or millionaire.",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Z0MJiWEYUBc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1432188326000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -651,8 +648,8 @@
     ]
   },
   "metrics" : {
-    "views" : 563728,
-    "likes" : 16341,
+    "views" : 563769,
+    "likes" : 16344,
     "comments" : 582
   }
 }

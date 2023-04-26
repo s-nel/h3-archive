@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "MrBeast Drama, Ron DeStinky Attacks Trump, Shocking Steven Crowder Revelation - Leftovers #38",
   "description" : "<p>Today we dig into the Mr Beast eye drama &amp; Ethan has a suggestion for a new business venture...we also get into the brewing Trump/DeSantis war, Steven Crowder&#39;s unearthed admission, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/oDKnIEgvt3Q/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28477,8 +28475,8 @@
     ]
   },
   "metrics" : {
-    "views" : 730205,
-    "likes" : 15798,
-    "comments" : 1859
+    "views" : 731087,
+    "likes" : 15813,
+    "comments" : 1829
   }
 }

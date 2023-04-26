@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "This Cringe Rapper Stole $4.5 BILLION In Bitcoin",
   "description" : "Heather Morgan aka Razzlekahn turned out to be the BIGGEST theft of all time",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bxFVtipNydo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1644408836000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -933,8 +930,8 @@
     ]
   },
   "metrics" : {
-    "views" : 330365,
-    "likes" : 15789,
-    "comments" : 1712
+    "views" : 330381,
+    "likes" : 15788,
+    "comments" : 1702
   }
 }

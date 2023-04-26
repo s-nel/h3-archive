@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate Debate With Bradley Martyn Of NELK - Leftovers #36",
   "description" : "<p>LEFTOVERS IS BACK BABY! On this ep we talk Trump returning to twitter- the civil war brewing between Crowder and Shapiro, and Bradley Martyn of NELK calls in to debate the unearthed footage of Tate detailing all his various crimes!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uVGTNLaAPnU/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34065,8 +34063,8 @@
     ]
   },
   "metrics" : {
-    "views" : 996334,
-    "likes" : 22240,
-    "comments" : 5785
+    "views" : 1001829,
+    "likes" : 22282,
+    "comments" : 5775
   }
 }

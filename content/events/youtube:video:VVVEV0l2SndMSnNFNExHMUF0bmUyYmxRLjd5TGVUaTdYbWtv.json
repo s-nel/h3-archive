@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Hila Gets ROASTED",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7yLeTi7Xmko/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1479177420000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1960,8 +1957,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5972114,
-    "likes" : 204786,
-    "comments" : 11977
+    "views" : 5972445,
+    "likes" : 204783,
+    "comments" : 11975
   }
 }

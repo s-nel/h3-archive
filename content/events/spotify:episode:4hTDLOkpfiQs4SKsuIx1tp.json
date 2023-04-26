@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#198 - Oliver Tree",
   "description" : "<p>On this episode of the H3 Podcast we are joined once again but musican, artist, scooter champ and perpetual calamity Oliver Tree!</p> <p>Together we have an extremely hostile interview where we discuss his recent accident, his new album Ugly Is Beautiful (out now!) and a whole lot more!</p> <p><a href=\"https://youtu.be/0D2nCEv_9tY\" rel=\"nofollow\">Oliver Tree Crashes The World&#39;s Biggest Scooter</a></p> <p><a href=\"https://youtu.be/kSsEiPtEstc\" rel=\"nofollow\">Cash Machine Music Video</a></p> <p><a href=\"https://youtu.be/FxG-7AsbjeI\" rel=\"nofollow\">Let Me Down Music Video</a></p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tnCV_5QVp4s/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -26506,8 +26504,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1102501,
-    "likes" : 41877,
-    "comments" : 4756
+    "views" : 1103042,
+    "likes" : 41888,
+    "comments" : 4752
   }
 }

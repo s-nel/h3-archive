@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "PrankInvasion -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_SLuVON8oe0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1446605760000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1179,8 +1176,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5850488,
-    "likes" : 140240,
-    "comments" : 7570
+    "views" : 5850978,
+    "likes" : 140242,
+    "comments" : 7564
   }
 }

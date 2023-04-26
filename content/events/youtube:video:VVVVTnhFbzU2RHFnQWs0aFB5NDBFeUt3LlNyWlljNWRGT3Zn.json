@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Adin Ross Sent Me Anthrax In the Mail",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SrZYc5dFOvg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1673289750000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5245,8 +5242,8 @@
     ]
   },
   "metrics" : {
-    "views" : 533403,
+    "views" : 533472,
     "likes" : 26639,
-    "comments" : 4523
+    "comments" : 4521
   }
 }

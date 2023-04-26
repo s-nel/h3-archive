@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Interview with Actress from Prank Invasion",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Q7wwtmfBuew/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1490727815000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1564,8 +1561,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6072477,
-    "likes" : 263367,
+    "views" : 6072989,
+    "likes" : 263371,
     "comments" : 14514
   }
 }

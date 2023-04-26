@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Bradley Martyn - H3 Podcast #260",
   "description" : "<p>Today we have Bradley Martyn in the studio! We squash the beef, have a fitness competition, and challenge Bradley to a spicy chip SHOWDOWN.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/c-mX7u5UKm8/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31777,8 +31775,8 @@
     ]
   },
   "metrics" : {
-    "views" : 937620,
-    "likes" : 31829,
-    "comments" : 4083
+    "views" : 939992,
+    "likes" : 31848,
+    "comments" : 4073
   }
 }

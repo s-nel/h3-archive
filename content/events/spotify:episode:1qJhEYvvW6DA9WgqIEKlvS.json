@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#34 - VideoGameDunkey and Leah",
   "description" : "<p>The great DUNKEY AND LEAH join us to talk about everything!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ph5FR-RFhbg/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17317,8 +17315,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4394548,
-    "likes" : 117372,
-    "comments" : 13117
+    "views" : 4395834,
+    "likes" : 117397,
+    "comments" : 13110
   }
 }

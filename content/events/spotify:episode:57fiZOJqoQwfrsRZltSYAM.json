@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Content Court: TheQuartering",
   "description" : "<p>The court is BACK IN SESSION and this time the indictment is against Jeremy Hambly aka TheQuartering. Join us as we take a deep dive on the bumbling antics of one of the internet&#39;s biggest oafs on this edition of CONTENT COURT!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pMW3hfX7Z_s/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -10923,8 +10921,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1843598,
-    "likes" : 51153,
-    "comments" : 19589
+    "views" : 1846433,
+    "likes" : 51187,
+    "comments" : 19584
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Newt Gingrich is really puzzled -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gu3U-pmuqPU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1418836508000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -673,8 +670,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1675724,
+    "views" : 1675849,
     "likes" : 36377,
-    "comments" : 1475
+    "comments" : 1474
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "And The Number Of Babies Is... - H3 After Dark # 40",
   "description" : "<p>On this episode of H3 After Dark we talk about the world of Jail Tok, share our cringiest stories, and of course...BABY UPDATE!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uvc-dX0fG3s/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25202,8 +25200,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2822413,
-    "likes" : 76510,
-    "comments" : 9165
+    "views" : 2822686,
+    "likes" : 76514,
+    "comments" : 9155
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Become a Living God -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Dl6sPqdeaTM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1443296739000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1586,8 +1583,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3745241,
-    "likes" : 82153,
-    "comments" : 4004
+    "views" : 3745592,
+    "likes" : 82162,
+    "comments" : 4003
   }
 }

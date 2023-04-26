@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#29 Jackfilms & Erik of Internet Comment Etiquette",
   "description" : "<p>Jackfilms and Erik from Internet Comment Etiquette join us once again to talk about EVERYTHING!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ey7zaPv00fo/default.jpg",
   "tags" : [
   ],
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1505693585000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "dswerdlove",
@@ -27,10 +25,6 @@
     {
       "person_id" : "jdouglass",
       "role" : "guest"
-    },
-    {
-      "person_id": "islater",
-      "role": "crew"
     },
     {
       "person_id" : "eklein",
@@ -43,10 +37,13 @@
     {
       "person_id" : "hklein",
       "role" : "host"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -77381,8 +77378,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2696830,
+    "views" : 2697336,
     "likes" : 51390,
-    "comments" : 14048
+    "comments" : 14049
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Elon, SuperMega vs. Dad, Beans On Toast - H3TV #33",
   "description" : "<p>Today we discuss the next chapter for Twitter after being purchased by The Musk, along with an update to the beans on toast debacle, a call with Dad (Nathan Barnett) &amp; Matt Watson to discuss their heated boxing match coming up, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kSHwZvMmhww/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49601,8 +49599,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1108585,
-    "likes" : 25663,
-    "comments" : 3151
+    "views" : 1108958,
+    "likes" : 25664,
+    "comments" : 3141
   }
 }

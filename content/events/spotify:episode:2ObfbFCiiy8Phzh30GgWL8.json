@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#148 - Bobby Lee & Khalyla",
   "description" : "<p>On this episode of The H3 Podcast we are joined by the TigerBelly duo- Bobby and Khalyla! Together we discuss strokes (of various types), having a baby, Shane Gillis, dads, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NK-_XJBYv-c/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23309,8 +23307,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1397475,
-    "likes" : 36430,
-    "comments" : 4539
+    "views" : 1397708,
+    "likes" : 36431,
+    "comments" : 4535
   }
 }

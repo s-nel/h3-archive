@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "WE'RE BACK! - Leftovers #12",
   "description" : "<p>After a lengthy hiatus, Leftovers is BACK! Today we go over the insane Roe vs Wade situation, Tucker Carlson cooking his balls, the suspicious flood of dirt surrounding Madison Cawthorne, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jqgROSZVLUA/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35762,8 +35760,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1077067,
-    "likes" : 33902,
-    "comments" : 2747
+    "views" : 1077730,
+    "likes" : 33910,
+    "comments" : 2742
   }
 }

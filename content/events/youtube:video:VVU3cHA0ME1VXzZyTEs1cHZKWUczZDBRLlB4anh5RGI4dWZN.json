@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Jerusalem",
   "description" : "Behind the scenes of our trip to Jerusalem to pay our respects to Biggie.",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PxjxyDb8ufM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1426447607000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3005,8 +3002,8 @@
     ]
   },
   "metrics" : {
-    "views" : 995242,
-    "likes" : 25292,
-    "comments" : 2173
+    "views" : 995421,
+    "likes" : 25296,
+    "comments" : 2175
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Happy Video #1",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/G1NCwU4advo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1493498122000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2213,8 +2210,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2646562,
-    "likes" : 132728,
-    "comments" : 8863
+    "views" : 2646616,
+    "likes" : 132729,
+    "comments" : 8855
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#112 - Gus Johnson",
   "description" : "<p>On this episode of The H3 Podcast we are joined by funny-man Gus &#34;Danger&#34; Johnson! Together we discuss delivering pizza to meth heads, the YouTube Haiku subreddit, anxiety attacks, preachers &#39;n sneakers, the pizza to cucumber quality scale, and Gus hits 1 million subscribers on his channel live during the show!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/T72kZUx18Yo/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20566,8 +20564,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1438767,
+    "views" : 1438803,
     "likes" : 28569,
-    "comments" : 2367
+    "comments" : 2366
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Rapper -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mCYChsmqgYU/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1425581334000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1403,8 +1400,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6454487,
-    "likes" : 125073,
+    "views" : 6455393,
+    "likes" : 125078,
     "comments" : 5145
   }
 }

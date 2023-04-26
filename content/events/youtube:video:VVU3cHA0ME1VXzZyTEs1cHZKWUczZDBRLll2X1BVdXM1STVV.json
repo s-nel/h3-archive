@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We didn't start the fire",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Yv_PUus5I5U/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1435341896000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1190,8 +1187,8 @@
     ]
   },
   "metrics" : {
-    "views" : 498921,
-    "likes" : 13474,
+    "views" : 498949,
+    "likes" : 13475,
     "comments" : 656
   }
 }

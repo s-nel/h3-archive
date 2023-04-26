@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Made Our Own High Fashion Runway Show - H3 Podcast #237",
   "description" : "<p>On this episode of the H3 Podcast IT&#39;S FASHION WEEK... or day, or whatever. Ian takes us on a journey through the world of high fashion concept pieces, and the crew goes ahead and presents their own high fashion pitch for Teddy Fresh!</p> <p><a href=\"https://imgur.com/a/DLeZvbY\" rel=\"nofollow\">High Fashion Imgur Album</a></p> <p><a href=\"https://www.youtube.com/watch?v&#61;haP3nw7Aupc\" rel=\"nofollow\">H3 Fashion Show</a></p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/C8aNuscqVig/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9944,8 +9942,8 @@
     ]
   },
   "metrics" : {
-    "views" : 887430,
-    "likes" : 25668,
-    "comments" : 4930
+    "views" : 887606,
+    "likes" : 25671,
+    "comments" : 4929
   }
 }

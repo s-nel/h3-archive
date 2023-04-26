@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Jeff Wittek, Tana Mongeau, Mike Majlak - H3 Podcast #254",
   "description" : "<p>Today is the day at last: Ethan finds his new bestie.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/580pXApZj-U/default.jpg",
   "tags" : [
   ],
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -65639,8 +65637,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2512957,
-    "likes" : 69351,
-    "comments" : 10773
+    "views" : 2516973,
+    "likes" : 69389,
+    "comments" : 10756
   }
 }

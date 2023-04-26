@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#128 - Ethan ANNIHILATES Manspreading With Facts & Logic",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4DK_6yMgUfc/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29835,8 +29833,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1264071,
-    "likes" : 30483,
-    "comments" : 4021
+    "views" : 1264163,
+    "likes" : 30482,
+    "comments" : 4019
   }
 }

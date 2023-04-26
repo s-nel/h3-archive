@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#92 - Tom Segura and Christina P",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined in studio by dynamic husband and wife duo Tom Segura and Christina P! Together we discuss no nut November, Garth Brooks, home birth, metamucil, parenting tips, students getting beat up by their teachers, and SO much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/M6NpaiiHiaQ/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29293,8 +29291,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1332990,
-    "likes" : 30094,
+    "views" : 1333313,
+    "likes" : 30097,
     "comments" : 3377
   }
 }

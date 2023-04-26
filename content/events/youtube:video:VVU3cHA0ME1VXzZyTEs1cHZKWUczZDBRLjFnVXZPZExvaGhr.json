@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Jokes - Everybody Knows",
   "description" : "Dedicated to Yochanan Hakmon (1950-2018) and Deborah Zimmett Becker (1955-2018).\n\nLyrics:\n\nEveryone can say hello\nEveryone knows how to say hello\nTo leave you is to say goodbye\nI'll see you other side\nEverybody knows\n\nThe place were all bound to go\nNobody knows nobody knows\nHow to say goodbye\nI'll see you on other side\nEverybody knows\n\nEveryone knows today is just a day\nBuried in the blanket of time\nYou taught me how to say hello\nDidn't teach me how to say goodbye\nGoodbye is just a pile of stones\n\nI walk along a row of stones\nEveryone knows a row of stones\nTo see you and to say goodbye\nLaid across the moonlit sky\nEverybody knows\n\nI see you when I close my eyes\nNobody knows nobody knows\nWhen the dream will fade away\nI’ll walk along the roads you've paved\nEverybody knows\n\nEveryone knows today is just a day\nBuried in the blanket of time\nYou taught me how to say hello\nDidn't teach me how to say goodbye\nGoodbye is just a pile of stones\nGoodbye is just a pile of stones",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1gUvOdLohhk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1532129031000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -387,8 +384,8 @@
     ]
   },
   "metrics" : {
-    "views" : 939528,
-    "likes" : 64318,
-    "comments" : 5091
+    "views" : 939912,
+    "likes" : 64321,
+    "comments" : 5089
   }
 }

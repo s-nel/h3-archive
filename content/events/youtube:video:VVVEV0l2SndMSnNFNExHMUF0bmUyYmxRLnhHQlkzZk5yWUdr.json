@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "It's Time to Stop TechRax",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xGBY3fNrYGk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1473984621000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3016,8 +3013,8 @@
     ]
   },
   "metrics" : {
-    "views" : 10272099,
-    "likes" : 353673,
-    "comments" : 37311
+    "views" : 10273127,
+    "likes" : 353679,
+    "comments" : 37306
   }
 }

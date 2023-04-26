@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#1 - Justin Roiland (Co-Creator of Rick & Morty)",
   "description" : "<p>First episode of The H3 Podcast, guest starring Justin Roiland, co-creator of Adult Swim&#39;s #1 show Rick and Morty.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SRmlVgbspvM/default.jpg",
   "tags" : [
   ],
@@ -34,7 +33,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19322,8 +19320,8 @@
     ]
   },
   "metrics" : {
-    "views" : 773460,
-    "likes" : 22015,
+    "views" : 773719,
+    "likes" : 22017,
     "comments" : 1064
   }
 }

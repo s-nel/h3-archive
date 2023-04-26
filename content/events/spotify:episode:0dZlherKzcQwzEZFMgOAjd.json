@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Shane Dawson, Jason Nash, Britney Freed - H3 After Dark #52",
   "description" : "<p>We&#39;re talking the secret Shane Dawson track on Spotify, Jason Nash &amp; Faze Blanks talking smack, &amp; Britney FREED! Also, an unexpected baby update...</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/76kbmmPzVwo/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -51728,8 +51726,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1549085,
-    "likes" : 34131,
-    "comments" : 4166
+    "views" : 1549247,
+    "likes" : 34130,
+    "comments" : 4153
   }
 }

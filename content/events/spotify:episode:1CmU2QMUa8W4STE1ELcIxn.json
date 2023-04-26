@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#12 - Steve-O",
   "description" : "Steve-O joins us today to talk about everything.<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mtDOr9UY-yk/default.jpg",
   "tags" : [
   ],
@@ -34,7 +33,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -26263,8 +26261,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8477219,
-    "likes" : 99100,
-    "comments" : 8638
+    "views" : 8479363,
+    "likes" : 99103,
+    "comments" : 8634
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Daddy of Five ft. Steve-O",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IP4F4p_fDrM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1492641520000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5216,8 +5213,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8828906,
-    "likes" : 1047230,
-    "comments" : 33401
+    "views" : 8829767,
+    "likes" : 1047246,
+    "comments" : 33394
   }
 }

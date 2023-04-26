@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#2 - PewDiePie (Felix Kjellberg)",
   "description" : "<p>Guest starring the biggest YouTuber in the world by far, PewDiePie, with over 50 million subscribers.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Lq2H2Dne5Wc/default.jpg",
   "tags" : [
   ],
@@ -30,7 +29,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16535,8 +16533,8 @@
     ]
   },
   "metrics" : {
-    "views" : 553322,
-    "likes" : 18568,
-    "comments" : 798
+    "views" : 553532,
+    "likes" : 18571,
+    "comments" : 799
   }
 }

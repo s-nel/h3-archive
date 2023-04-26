@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Insane VAPE MOD w/ 150 BATTERIES!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3C2OUQL6_yQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1509127512000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -29,10 +27,9 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null,
   "metrics" : {
-    "views" : 8043078,
-    "likes" : 428538,
-    "comments" : 18130
+    "views" : 8043876,
+    "likes" : 428544,
+    "comments" : 18122
   }
 }

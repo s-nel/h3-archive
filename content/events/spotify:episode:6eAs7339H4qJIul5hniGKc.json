@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Joe Rogan Opens Anti-Woke Comedy Club, Did Jordan Peterson Relapse? - Leftovers #41",
   "description" : "<p>Today we discuss the facescanning 1984 George Orwellian comedy club opened by Joe Rogan, Jordan Peterson becoming obsessed with the Looney Tunes, Ron DeSantis&#39; baseball career taking off, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PaLM1Teaw80/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35826,8 +35824,8 @@
     ]
   },
   "metrics" : {
-    "views" : 828734,
-    "likes" : 15914,
-    "comments" : 1501
+    "views" : 834152,
+    "likes" : 15973,
+    "comments" : 1502
   }
 }

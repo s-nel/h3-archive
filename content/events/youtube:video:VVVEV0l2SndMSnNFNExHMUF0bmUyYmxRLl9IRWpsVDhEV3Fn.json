@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Mark Zuckerberg's VR Safari Through Puerto Rico",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_HEjlT8DWqg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1517260576000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1850,8 +1847,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3289682,
-    "likes" : 194221,
+    "views" : 3289838,
+    "likes" : 194219,
     "comments" : 12484
   }
 }

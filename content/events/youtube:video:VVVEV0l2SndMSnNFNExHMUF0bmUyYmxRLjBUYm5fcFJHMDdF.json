@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Glad We Tried",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0Tbn_pRG07E/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1497478826000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1905,8 +1902,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4003267,
-    "likes" : 295992,
-    "comments" : 33526
+    "views" : 4003335,
+    "likes" : 295989,
+    "comments" : 33522
   }
 }

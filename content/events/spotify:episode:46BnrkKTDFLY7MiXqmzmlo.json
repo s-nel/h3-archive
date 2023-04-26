@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Well, it happened. He’s finally banned. - H3TV #44",
   "description" : "<p>Today we dig into a YouTube ban that rocked the world. We also discuss the latest chapter in the Jeff Wittek/Mike Majlak/Tana Mongeau friendship saga, Ian &amp; Sam getting on the news, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3tiiER1zHfE/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -55248,8 +55246,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1231811,
-    "likes" : 26378,
-    "comments" : 2671
+    "views" : 1235405,
+    "likes" : 26395,
+    "comments" : 2660
   }
 }

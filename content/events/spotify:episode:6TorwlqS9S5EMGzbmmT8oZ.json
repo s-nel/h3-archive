@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "hila, if youre watching",
   "description" : "<p>Today, Ethan has a message for Hila. We also have a special call-in from the legendary C-Man, we go over our greatest clickbait titles, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Id-zvt05B_M/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -60659,8 +60657,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1217551,
-    "likes" : 27702,
-    "comments" : 2808
+    "views" : 1218487,
+    "likes" : 27708,
+    "comments" : 2793
   }
 }

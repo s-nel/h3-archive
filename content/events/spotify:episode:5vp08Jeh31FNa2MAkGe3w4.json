@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#35 - TotalBiscuit",
   "description" : "<p>TotalBiscuit joins us to discuss video games, esports, cancer &amp; more.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZhhXku2Pj5E/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35573,8 +35571,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1014848,
-    "likes" : 28293,
+    "views" : 1014909,
+    "likes" : 28292,
     "comments" : 4541
   }
 }

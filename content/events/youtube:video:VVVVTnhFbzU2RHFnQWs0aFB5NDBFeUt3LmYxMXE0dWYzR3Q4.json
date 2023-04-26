@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "YouTuber Faked His Death For Views",
   "description" : "Dobre Brothers went for it",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/f11q4uf3Gt8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1642885093000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -7566,8 +7563,8 @@
     ]
   },
   "metrics" : {
-    "views" : 403851,
+    "views" : 403895,
     "likes" : 18033,
-    "comments" : 2215
+    "comments" : 2211
   }
 }

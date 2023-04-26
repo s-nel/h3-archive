@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Law & Order SVU on Gamers -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UEg7qjFcGXw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1424280887000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1289,8 +1286,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5069162,
-    "likes" : 126580,
+    "views" : 5069790,
+    "likes" : 126586,
     "comments" : 10626
   }
 }

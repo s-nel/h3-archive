@@ -77,71 +77,89 @@ object Server extends FailFastCirceSupport {
 
   private val route = {
     pathPrefix("api") {
-      pathPrefix("events") {
-        pathPrefix("counts") {
-          get {
-            complete(getEventCounts(readonlyClient))
+      pathPrefix("local") {
+        pathPrefix("events") {
+          pathPrefix("^.+$".r) { eventId =>
+            get {
+              complete(getFileEvent(eventId))
+            } ~
+              pathPrefix("transcript") {
+                put {
+                  entity(as[TranscriptionDoc]) { transcription =>
+                    complete(for {
+                      event <- getFileEvent(eventId)
+                      _ <- updateFileEvent(
+                        eventId,
+                        event.copy(eventId = eventId, transcription = Some(transcription.copy(text = None)))
+                      )
+                    } yield {})
+                  }
+                }
+              }
           }
-        } ~
-          get {
-            pathPrefix("^.+$".r) { eventId =>
-              get {
+        }
+      } ~
+        pathPrefix("events") {
+          pathPrefix("counts") {
+            get {
+              complete(getEventCounts(readonlyClient))
+            }
+          } ~
+            get {
+              pathPrefix("^.+$".r) { eventId =>
                 pathPrefix("transcript") {
                   complete(getTranscript(readonlyClient, eventId))
                 } ~
                   complete(getEvent(readonlyClient, eventId))
-              }
+              } ~
+                parameters("q".optional) { maybeQuery =>
+                  encodeResponseWith(Coders.Gzip) {
+                    complete(getEvents(readonlyClient, maybeQuery))
+                  }
+                }
             } ~
-              parameters("q".optional) { maybeQuery =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(getEvents(readonlyClient, maybeQuery))
-                }
-              }
-          } ~
-          post {
-            parameters("person") { personId =>
-              entity(as[PartialSearchRequest]) { search =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(
-                    getPersonEvents(
-                      elasticClient = readonlyClient,
-                      personId = personId,
-                      from = search.from,
-                      size = search.size,
-                      sort = search.sort
+            post {
+              parameters("person") { personId =>
+                entity(as[PartialSearchRequest]) { search =>
+                  encodeResponseWith(Coders.Gzip) {
+                    complete(
+                      getPersonEvents(
+                        elasticClient = readonlyClient,
+                        personId = personId,
+                        from = search.from,
+                        size = search.size,
+                        sort = search.sort
+                      )
                     )
-                  )
+                  }
                 }
-              }
+              } ~
+                entity(as[SearchRequest]) { search =>
+                  encodeResponseWith(Coders.Gzip) {
+                    complete(
+                      searchEvents(
+                        elasticClient = readonlyClient,
+                        searchBody = search.query,
+                        from = search.from,
+                        size = search.size,
+                        sort = search.sort,
+                        sourceFiltering =
+                          List("transcription", "description", "people", "tags", "links", "thumb", "notes"),
+                        highlight = matchAllQueryJson.map(q => search.query != q).getOrElse(true),
+                        shards = Some(3)
+                      )
+                    )
+                  }
+                }
             } ~
-              entity(as[SearchRequest]) { search =>
-                encodeResponseWith(Coders.Gzip) {
-                  complete(
-                    searchEvents(
-                      elasticClient = readonlyClient,
-                      searchBody = search.query,
-                      from = search.from,
-                      size = search.size,
-                      sort = search.sort,
-                      sourceFiltering =
-                        List("transcription", "description", "people", "tags", "links", "thumb", "notes"),
-                      highlight = matchAllQueryJson.map(q => search.query != q).getOrElse(true),
-                      shards = Some(3)
-                    )
-                  )
-                }
-              }
-          } ~
-          validateCredentials(settings.session) { client =>
             pathPrefix("^.+$".r) { eventId =>
               entity(as[EventDoc]) { event =>
                 put {
-                  complete(updateEvent(client, eventId, event))
+                  complete(updateFileEvent(eventId, event))
                 }
               }
             }
-          }
-      } ~
+        } ~
         pathPrefix("people") {
           get {
             complete(getPeople(readonlyClient, None))
@@ -249,6 +267,8 @@ object Server extends FailFastCirceSupport {
       decoded
     }
   }
+
+  private def getFileEvent(eventId: String): Future[EventDoc] = IndexYoutubeVideos.loadEventFromContent(eventId)
 
   private def getEvents(elasticsearchClient: ElasticClient, maybeQueryStr: Option[String]): Future[List[EventDoc]] = {
     val query: Query = maybeQueryStr match {
@@ -522,12 +542,8 @@ object Server extends FailFastCirceSupport {
     }
   }
 
-  private def updateEvent(elasticsearchClient: ElasticClient, eventId: String, event: EventDoc): Future[Unit] = {
-    elasticsearchClient
-      .execute {
-        indexInto(eventsIndex).withId(eventId).doc(event.asJson.toString())
-      }
-      .map(_ => ())
+  private def updateFileEvent(eventId: String, event: EventDoc): Future[Unit] = {
+    IndexYoutubeVideos.persistToContent(event)
   }
 
   private def createPerson(elasticClient: ElasticClient, personDoc: PersonDoc): Future[Unit] = {

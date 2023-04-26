@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#18 - Hugh Mungus",
   "description" : "Today we meet with the legendary Rudy Pantoja Jr. aka HUGH MUNGUS!<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qbIPL8ll3sg/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23055,8 +23053,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3219228,
-    "likes" : 79857,
+    "views" : 3219588,
+    "likes" : 79855,
     "comments" : 9330
   }
 }

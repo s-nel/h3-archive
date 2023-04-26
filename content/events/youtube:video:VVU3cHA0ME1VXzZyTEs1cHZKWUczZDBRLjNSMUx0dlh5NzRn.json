@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Disc golf with Sean",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3R1LtvXy74g/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1417992905000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -673,8 +670,8 @@
     ]
   },
   "metrics" : {
-    "views" : 393245,
-    "likes" : 8712,
-    "comments" : 554
+    "views" : 393296,
+    "likes" : 8713,
+    "comments" : 555
   }
 }

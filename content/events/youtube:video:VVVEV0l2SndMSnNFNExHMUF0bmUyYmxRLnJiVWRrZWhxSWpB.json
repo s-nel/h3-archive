@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Bleeding Edge of Cheese Elevator Technology | h3h3 productions presents",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rbUdkehqIjA/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1387239572000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -310,7 +307,7 @@
     ]
   },
   "metrics" : {
-    "views" : 165395,
+    "views" : 165413,
     "likes" : 5250,
     "comments" : 281
   }

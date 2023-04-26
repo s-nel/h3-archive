@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#229 - Someone On The Crew Is A Psychopath & Papa John Calls In",
   "description" : "<p>On this episode of the H3 Podcast we are joined once again by Dr. Drew and Dr. Mark Young to analyze the results of the crew&#39;s personality tests. There are some big surprises... including one of us that literally set a record on the test. After that we can a drop in call from the big papa himself- Papa John, to update us on his ongoing battle to bring about the day of reckoning!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4IyqvZzmH3U/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11837,8 +11835,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1105086,
-    "likes" : 33311,
-    "comments" : 5955
+    "views" : 1105393,
+    "likes" : 33317,
+    "comments" : 5951
   }
 }

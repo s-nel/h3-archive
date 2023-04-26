@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "How We Scammed Logan Paul - Off The Rails #23",
   "description" : "<p>On the first episode of OFF THE RAILS of 2022 Ethan and the crew go over Vanilla Ice&#39;s new MAGA rap career, Pokimane &amp; Ninja&#39;s bra-less wife drama, and Logan Paul steals our content by getting scammed out of $3.5 dollars!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xnCJkzvMEy0/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17221,8 +17219,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1099802,
-    "likes" : 29803,
-    "comments" : 3834
+    "views" : 1100148,
+    "likes" : 29806,
+    "comments" : 3827
   }
 }

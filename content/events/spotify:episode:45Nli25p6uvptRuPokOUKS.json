@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#185 - Is iDubbbz A Simp?",
   "description" : "<p>On this episode of the H3 Podcast tha bois in tha back return via Zoom! Together with Ethan &amp; Hila they unpack the Idubbbz &#34;drama&#34;, debate about Andrew Cuomo&#39;s nips, update on the Moses Trisha situation, say hello to twitter world with OJ, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7W2bnrdiJzo/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20127,8 +20125,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1308575,
-    "likes" : 34176,
-    "comments" : 8007
+    "views" : 1308657,
+    "likes" : 34174,
+    "comments" : 7997
   }
 }

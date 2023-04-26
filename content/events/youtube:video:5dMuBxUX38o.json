@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Trisha & Ethan Go To Disneyland For Her Birthday - Frenemies Vlog #1",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5dMuBxUX38o/default.jpg",
   "tags" : [
   ],
@@ -14,7 +13,6 @@
     }
   ],
   "start_date" : 1620519185000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "dswerdlove",
@@ -50,7 +48,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -13893,8 +13890,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2460308,
-    "likes" : 137975,
-    "comments" : 16422
+    "views" : 2462662,
+    "likes" : 137988,
+    "comments" : 16405
   }
 }

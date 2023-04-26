@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "A Bunch of Sweaty Dudes",
   "description" : "Check out our subreddit if you want to make suggestions for future videos: http://reddit.com/r/h3h3productions\n\nWatch the Ethan and Hila Playlist --► https://goo.gl/4Z89MI\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.\n\nSource Videos:\nTrap Queen:\nhttps://www.youtube.com/watch?v=Zvo0Vm_3XIQ\n\nWrestlers:\nhttps://www.youtube.com/watch?v=ipfT0QhzRSI",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hcK0Y2IEyUA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1452007296000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1344,8 +1341,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1864747,
-    "likes" : 41422,
+    "views" : 1864916,
+    "likes" : 41424,
     "comments" : 2079
   }
 }

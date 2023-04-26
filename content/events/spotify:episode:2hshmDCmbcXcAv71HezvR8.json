@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I Need To Step Away For A Bit - H3TV #59",
   "description" : "<p>Today is a Keemstar spectacular! We recap an unearthed Keemstar stream of cringe that takes the H3 Podcast by storm.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LY0H8sBnbZY/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49234,8 +49232,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1001544,
-    "likes" : 22085,
-    "comments" : 1670
+    "views" : 1002454,
+    "likes" : 22092,
+    "comments" : 1668
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Human Mail Challenge is Stupid",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XvYDPHEJ9Rg/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1506289701000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2360,8 +2357,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7756743,
-    "likes" : 306636,
-    "comments" : 15181
+    "views" : 7757528,
+    "likes" : 306638,
+    "comments" : 15178
   }
 }

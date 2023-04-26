@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "About AB's Fight At Creator Clash... - H3TV #73",
   "description" : "<p>Today it&#39;s time to discuss the insane Creator Clash fight with Dad and AB! We have a lot to discuss, and AB flies in from Florida to give the debrief. We also discuss Ian&#39;s trip to Coachella, the science of categorizing food (everything is either pizza, a ravioli, or a burger), and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SasopDoAz14/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49612,8 +49610,8 @@
     ]
   },
   "metrics" : {
-    "views" : 698432,
-    "likes" : 17346,
-    "comments" : 1577
+    "views" : 849404,
+    "likes" : 18988,
+    "comments" : 1699
   }
 }

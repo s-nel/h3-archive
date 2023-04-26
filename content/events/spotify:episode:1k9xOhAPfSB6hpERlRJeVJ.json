@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#10 - Top of the Month (Talking About Jake Paul, Lance Stewart, Jerry Seinfeld)",
   "description" : "Today we open up a new format called &#34;Top of the Month&#34;, where we discuss all the best stories and videos that propped up during the month. Today we talk about Jake Paul Live Show, Lance stewart&#39;s new videos and Jerry Seinfeld being a dick (or not).<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Z9U9TJ4W26k/default.jpg",
   "tags" : [
     {
@@ -25,6 +24,14 @@
   "duration" : 11859095,
   "people" : [
     {
+      "person_id" : "apost",
+      "role" : "host"
+    },
+    {
+      "person_id" : "jseinfeld",
+      "role" : "topic"
+    },
+    {
       "person_id" : "eklein",
       "role" : "host"
     },
@@ -35,18 +42,9 @@
     {
       "person_id" : "jpaul",
       "role" : "topic"
-    },
-    {
-      "person_id": "jseinfeld",
-      "role": "topic"
-    },
-    {
-      "person_id": "apost",
-      "role": "host"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28508,8 +28506,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7271747,
-    "likes" : 82777,
-    "comments" : 12245
+    "views" : 7271887,
+    "likes" : 82775,
+    "comments" : 12244
   }
 }

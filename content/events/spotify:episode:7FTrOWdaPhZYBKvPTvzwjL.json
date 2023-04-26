@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#9 - Joey Salads",
   "description" : "Joey Salads the notorious YouTube prankster joins us to discuss EVERYTHING<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IHL6HazIfQ0/default.jpg",
   "tags" : [
   ],
@@ -34,7 +33,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17342,8 +17340,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2074124,
+    "views" : 2074233,
     "likes" : 57675,
-    "comments" : 12380
+    "comments" : 12379
   }
 }

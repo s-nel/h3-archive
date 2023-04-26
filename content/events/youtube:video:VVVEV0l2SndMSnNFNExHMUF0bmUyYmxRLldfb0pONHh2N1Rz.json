@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Guraffic Park",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/W_oJN4xv7Ts/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1372167555000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -75,8 +72,8 @@
     ]
   },
   "metrics" : {
-    "views" : 180949,
-    "likes" : 4096,
+    "views" : 180967,
+    "likes" : 4098,
     "comments" : 79
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The REAL Reason Nikocado Avocado Flaked - After Dark #64",
   "description" : "<p>Today we are gathered here to celebrate Jerry Trainor&#39;s birthday. in our action-packed Christmas Special! It&#39;s Craigsmas time, we take bets for 2022 predictions, a special guest drops in for a mukbang, and we go over the latest developments with Nikocado....let&#39;s just JUMP RIGHT IN</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/auPJ1GsFOSg/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -63450,8 +63448,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1675484,
+    "views" : 1675762,
     "likes" : 44460,
-    "comments" : 5257
+    "comments" : 5250
   }
 }

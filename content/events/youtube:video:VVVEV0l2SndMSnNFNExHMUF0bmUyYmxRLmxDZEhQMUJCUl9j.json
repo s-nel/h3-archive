@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Healthy at Every Size [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lCdHP1BBR_c/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1431113655000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -684,8 +681,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1623444,
-    "likes" : 54809,
+    "views" : 1623542,
+    "likes" : 54810,
     "comments" : 1947
   }
 }

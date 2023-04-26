@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "My Family Is Being Torn Apart - Families # 7",
   "description" : "<p>Today tensions run high when Ethan&#39;s whole family comes to town for a game of FAMILIES FEUDS. </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IcHJNW2zxkM/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -33331,8 +33329,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1460390,
-    "likes" : 55400,
-    "comments" : 23832
+    "views" : 1461391,
+    "likes" : 55414,
+    "comments" : 23818
   }
 }

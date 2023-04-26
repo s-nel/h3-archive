@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Broke Up - Off the Rails #17",
   "description" : "<p>Hey all, we have some bad news regarding Ethan &amp; Hila&#39;s marriage...(not clickbait) (trust us)</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/oHU006rCb2c/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35025,8 +35023,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1744982,
-    "likes" : 50078,
-    "comments" : 8864
+    "views" : 1745870,
+    "likes" : 50082,
+    "comments" : 8859
   }
 }

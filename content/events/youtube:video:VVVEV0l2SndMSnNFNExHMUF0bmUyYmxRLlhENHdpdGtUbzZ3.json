@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Hot Kitchen",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XD4witkTo6w/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1409355733000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -508,8 +505,8 @@
     ]
   },
   "metrics" : {
-    "views" : 267748,
-    "likes" : 9345,
+    "views" : 267774,
+    "likes" : 9346,
     "comments" : 465
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#11 - Ethan's Parents",
   "description" : "Today Ethan&#39;s parents, Donna and Gary, join us to discuss EVERYTHING<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nEP_YdWei0Y/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -36794,8 +36792,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3863394,
-    "likes" : 72562,
-    "comments" : 9126
+    "views" : 3863942,
+    "likes" : 72570,
+    "comments" : 9122
   }
 }

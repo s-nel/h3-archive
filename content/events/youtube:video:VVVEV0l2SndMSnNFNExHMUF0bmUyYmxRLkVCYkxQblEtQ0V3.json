@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Psychics, Mediums, and Gurus -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EBbLPnQ-CEw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1462040087000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -6448,8 +6445,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7779647,
-    "likes" : 197896,
+    "views" : 7781208,
+    "likes" : 197914,
     "comments" : 16645
   }
 }

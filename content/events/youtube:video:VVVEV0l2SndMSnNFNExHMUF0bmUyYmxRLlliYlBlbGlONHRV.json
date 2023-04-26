@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "h3h3productions Reacts to Mean Comments on Reddit",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YbbPeliN4tU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1485028576000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1487,8 +1484,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8697266,
-    "likes" : 286189,
-    "comments" : 12504
+    "views" : 8698201,
+    "likes" : 286191,
+    "comments" : 12503
   }
 }

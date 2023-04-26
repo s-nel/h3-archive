@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Update",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/leeXT7b31MM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1537131264000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1025,8 +1022,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3828249,
-    "likes" : 255101,
-    "comments" : 32474
+    "views" : 3828291,
+    "likes" : 255092,
+    "comments" : 32458
   }
 }

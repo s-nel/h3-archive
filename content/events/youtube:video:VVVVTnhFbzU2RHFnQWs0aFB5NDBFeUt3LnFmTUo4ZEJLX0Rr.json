@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Jeff Wittek Is 100% Done With David Dobrik",
   "description" : "jeff wittek is finally opening up about david",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qfMJ8dBK_Dk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1645580212000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1890,8 +1887,8 @@
     ]
   },
   "metrics" : {
-    "views" : 512229,
+    "views" : 512241,
     "likes" : 22279,
-    "comments" : 2504
+    "comments" : 2503
   }
 }

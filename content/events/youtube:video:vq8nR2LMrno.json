@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Got Each Other The Worst Holiday Gifts (Live Audience!) - H3 Podcast #263",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vq8nR2LMrno/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1671581585000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "stemple",
@@ -62,7 +60,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -60534,8 +60531,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1156464,
-    "likes" : 37543,
-    "comments" : 3972
+    "views" : 1157539,
+    "likes" : 37554,
+    "comments" : 3966
   }
 }

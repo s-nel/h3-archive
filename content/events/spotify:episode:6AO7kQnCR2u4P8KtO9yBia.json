@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#100 - The End of an Era",
   "description" : "<p>On this episode of The H3 Podcast we celebrate reaching our 100th episode, coincidentally the last episode of 2018! We take a look back at the first 100 episodes and explore some of the best, and worst, moments on the show. Ethan Hila Dan and Ian all share their favorites, as well as have some new goofs along the way. Thank you to everyone who&#39;s stuck with us so far and here&#39;s to the next 100! We&#39;ll see you all in 2019. Papa bless!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/s0Wrup6Hxak/default.jpg",
   "tags" : [
     {
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16606,8 +16604,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1643333,
-    "likes" : 25953,
+    "views" : 1643442,
+    "likes" : 25952,
     "comments" : 1869
   }
 }

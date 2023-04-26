@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Power of Diamond Water -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pDkIl3WF3sc/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1414437801000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2778,8 +2775,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3346234,
-    "likes" : 68550,
+    "views" : 3346666,
+    "likes" : 68557,
     "comments" : 3288
   }
 }

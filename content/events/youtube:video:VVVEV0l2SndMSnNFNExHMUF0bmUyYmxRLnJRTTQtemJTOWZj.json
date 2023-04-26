@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Fine Bros Have Gone Too Far",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rQM4-zbS9fc/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1544810164000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3900,8 +3897,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5689847,
-    "likes" : 319286,
-    "comments" : 36835
+    "views" : 5690430,
+    "likes" : 319291,
+    "comments" : 36834
   }
 }

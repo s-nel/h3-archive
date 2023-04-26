@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Why I Panicked & Deleted A Ton Of Videos - After Dark #69",
   "description" : "<p>Today we rank our biggest foes in an Enemies of the Podcast tier-list, along with the absurd conclusion to the Durte Dom Tesla-jumping story, Travis &amp; Kylie&#39;s new baby name, we sniff a few of Amouranth&#39;s fart jars, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EIMMcdMMufI/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -39650,8 +39648,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1188811,
-    "likes" : 32028,
-    "comments" : 3025
+    "views" : 1189129,
+    "likes" : 32029,
+    "comments" : 3016
   }
 }

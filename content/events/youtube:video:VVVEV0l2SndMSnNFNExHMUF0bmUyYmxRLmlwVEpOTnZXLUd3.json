@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "WHAT ARE THESE PRANKSTERS DOING?!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ipTJNNvW-Gw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1479261168000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1300,8 +1297,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6095368,
-    "likes" : 209275,
-    "comments" : 12643
+    "views" : 6096192,
+    "likes" : 209278,
+    "comments" : 12648
   }
 }

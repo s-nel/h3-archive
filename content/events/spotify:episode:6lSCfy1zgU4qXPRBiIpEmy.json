@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Review Influencer Products, Liver King Exposed - Off The Rails #56",
   "description" : "<p>Today we&#39;re reviewing all the latest influencer products! We also cover the liver king situation and we make a VERY special purchase at the end of the show...</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/0TyXVP4OYNM/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -58672,8 +58670,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1029023,
-    "likes" : 24505,
-    "comments" : 2607
+    "views" : 1030880,
+    "likes" : 24524,
+    "comments" : 2603
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#149 - Belle Delphine Mugshot & Trisha Paytas Is A Mess",
   "description" : "<p>On this extremely focused episode of The H3 Podcast a very exhausted gang rambles incoherently for about two hours about Belle Delphine&#39;s apparent arrest, Trisha Paytas being a man, Blizzard joining the PRC, scooter vargrants destroying nanas, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IEgddxjVqzA/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -24981,8 +24979,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1049754,
+    "views" : 1049829,
     "likes" : 25197,
-    "comments" : 4610
+    "comments" : 4609
   }
 }

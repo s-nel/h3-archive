@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "David Dobrik Is About To Lose Everything - After Dark #66",
   "description" : "<p>On this episode we talk about Jeff going nuclear on Dobrik, Wendy Williams saying goodbye to television, Putin being a big bully, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UzU3uMgmm-0/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -52718,8 +52716,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1708002,
-    "likes" : 42370,
-    "comments" : 4699
+    "views" : 1710449,
+    "likes" : 42381,
+    "comments" : 4691
   }
 }

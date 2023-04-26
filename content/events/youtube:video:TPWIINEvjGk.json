@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Hila The Gamer Girl Destroys Us In Among Us",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TPWIINEvjGk/default.jpg",
   "tags" : [
   ],
@@ -14,7 +13,6 @@
     }
   ],
   "start_date" : 1602893585000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "aayad",
@@ -42,7 +40,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3292,8 +3289,8 @@
     ]
   },
   "metrics" : {
-    "views" : 801833,
-    "likes" : 42842,
-    "comments" : 3845
+    "views" : 802496,
+    "likes" : 42858,
+    "comments" : 3842
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#133 - The Biggest Fail in YouTube History",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pKt615DRnV4/default.jpg",
   "tags" : [
     {
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15638,8 +15636,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1072449,
+    "views" : 1072495,
     "likes" : 27297,
-    "comments" : 7326
+    "comments" : 7322
   }
 }

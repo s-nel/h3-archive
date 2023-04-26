@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Crushing Cars in a Tank",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/e1mz3HRpNh0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1493592676000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1707,8 +1704,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2638229,
+    "views" : 2638288,
     "likes" : 138401,
-    "comments" : 11223
+    "comments" : 11210
   }
 }

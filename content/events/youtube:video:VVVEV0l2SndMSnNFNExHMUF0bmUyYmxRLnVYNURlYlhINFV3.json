@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "John Sakars -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uX5DebXH4Uw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1406640376000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -29,10 +27,9 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null,
   "metrics" : {
-    "views" : 1711562,
-    "likes" : 42601,
-    "comments" : 4488
+    "views" : 1711735,
+    "likes" : 42602,
+    "comments" : 4490
   }
 }

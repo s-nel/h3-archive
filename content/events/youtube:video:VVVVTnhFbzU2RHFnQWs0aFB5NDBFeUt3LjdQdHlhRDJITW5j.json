@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Keemstar Needs To Leave Hila Alone",
   "description" : "keemstar, even as hila is awaiting the birth of our son, continues",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7PtyaD2HMnc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1643680620000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2594,8 +2591,8 @@
     ]
   },
   "metrics" : {
-    "views" : 579520,
+    "views" : 579557,
     "likes" : 30474,
-    "comments" : 3935
+    "comments" : 3934
   }
 }

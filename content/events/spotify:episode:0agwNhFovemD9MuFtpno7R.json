@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate & Fresh & Fit Want To Debate Us - Leftovers #20",
   "description" : "<p>Today we recap Hasan&#39;s viral dunking on Andrew Tate and address Fresh&amp;Fit demanding to get in on the action with a 4-way debate. We also cover the geriatric workforce running the country, celebrate Hasan&#39;s birthday, discuss Pewdiepie&#39;s &#34;cancellation&#34;, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AXchq9Ge0jE/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31414,8 +31412,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1185220,
-    "likes" : 27484,
-    "comments" : 3259
+    "views" : 1186254,
+    "likes" : 27490,
+    "comments" : 3256
   }
 }

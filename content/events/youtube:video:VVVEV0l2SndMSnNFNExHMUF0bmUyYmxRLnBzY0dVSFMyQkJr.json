@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "It's Time to Stop",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pscGUHS2BBk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1468974261000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2290,8 +2287,8 @@
     ]
   },
   "metrics" : {
-    "views" : 9737958,
-    "likes" : 331487,
-    "comments" : 25880
+    "views" : 9738941,
+    "likes" : 331493,
+    "comments" : 25873
   }
 }

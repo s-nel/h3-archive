@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I Sent An Impersonator To The Streamys - H3TV #60",
   "description" : "<p>Today Ethan discusses his incredible trip to the Streamys! Well, he didn&#39;t actually go. But we sent an impersonator, so we discuss his incredible trip to the Streamys instead. We also discuss the Balenciaga controversy, a surprise call in from adult entertainer Morgpie, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YaiCPHTOnsc/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -63670,8 +63668,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1203492,
-    "likes" : 24293,
-    "comments" : 2390
+    "views" : 1204795,
+    "likes" : 24306,
+    "comments" : 2384
   }
 }

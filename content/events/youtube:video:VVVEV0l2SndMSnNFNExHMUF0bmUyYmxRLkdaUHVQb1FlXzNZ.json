@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Zucc Gets Roasted",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GZPuPoQe_3Y/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1523567817000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1179,8 +1176,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5531256,
-    "likes" : 258553,
-    "comments" : 11975
+    "views" : 5531558,
+    "likes" : 258552,
+    "comments" : 11971
   }
 }

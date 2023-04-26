@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Steven Crowder vs Ben Shapiro, George Santos Is A Weasley Little Liar Dude - Leftovers #37",
   "description" : "<p>Today Ethan and Hasan compare nipple sizes, bond over Milf Manor, dig into the unhinged world of slap fights, the Crowder vs Daily Wire saga, George Santos&#39; Pinocchioan adventure into politics, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/T_40N3lacuw/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -32686,8 +32684,8 @@
     ]
   },
   "metrics" : {
-    "views" : 818494,
-    "likes" : 16720,
-    "comments" : 1220
+    "views" : 819711,
+    "likes" : 16732,
+    "comments" : 1217
   }
 }

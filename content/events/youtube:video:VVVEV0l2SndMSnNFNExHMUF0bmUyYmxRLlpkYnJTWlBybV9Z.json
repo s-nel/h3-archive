@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "patrice wilson exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZdbrSZPrm_Y/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1420912151000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -101,7 +98,7 @@
     ]
   },
   "metrics" : {
-    "views" : 802885,
+    "views" : 802956,
     "likes" : 19653,
     "comments" : 1079
   }

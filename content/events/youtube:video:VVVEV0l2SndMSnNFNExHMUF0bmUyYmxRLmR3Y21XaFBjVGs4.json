@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "THE FINE BROS RANT",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dwcmWhPcTk8/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1454429226000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1293,8 +1290,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7253779,
-    "likes" : 239615,
-    "comments" : 11350
+    "views" : 7254201,
+    "likes" : 239619,
+    "comments" : 11349
   }
 }

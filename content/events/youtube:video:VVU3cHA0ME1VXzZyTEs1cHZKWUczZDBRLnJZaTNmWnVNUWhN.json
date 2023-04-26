@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Jokes - The Worst Of Me",
   "description" : "Lyrics:\n\nI get the best of you\nYou get the worst of me\nBaby I don't know how you're good all the time\nI give you misery\n\nI got a baby she's an angel on this Earth\nI got a baby full of loving and care\nI got a baby sees a man I never knew \nA man full of love and charm\nHe's a man of dedication and heart\nHe's a man I never knew but in the eyes of you, girl\n\nI get the best of you\nYou get the worst of me\nBaby I don't know how you're good all the time \nI give you misery\n\nI got a baby she's worth better than she's got\nI got a baby says I'm all that she wants\nI ask you baby do you really know your man?\nA man who's unworthy of you\nHe's a man I’ve always known and fought\nA man renewed in the eyes of you, girl\nBaby gonna break your heart\nBaby gonna break your\nheart, heart, heart, heart\n\nI get the best of you\nYou get the worst of me\nBaby I don't know how your'e good all the time\nI give you misery\n\nSo baby tell me are you happy with your choice\nYou say you love me I can hear it in your voice\nYou know I love you but i'm just so black and blue\nA women who's as true as you\nSent by the grace of God\nYou think I'm the man I'm not\nBaby gonna break your heart\nBaby gonna break your\nheart, heart, heart, heart\n\nI get the best of you\nYou get the worst of me",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rYi3fZuMQhM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1601261470000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -431,8 +428,8 @@
     ]
   },
   "metrics" : {
-    "views" : 442846,
-    "likes" : 31003,
-    "comments" : 2475
+    "views" : 443175,
+    "likes" : 31006,
+    "comments" : 2474
   }
 }

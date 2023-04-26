@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Vogue's 73 Questions is Stupid (Ft. Kim Kardashian & Kanye West)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Mtl-Lc1y4YU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1555617447000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2807,8 +2804,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4397342,
-    "likes" : 192564,
-    "comments" : 12152
+    "views" : 4397749,
+    "likes" : 192565,
+    "comments" : 12151
   }
 }

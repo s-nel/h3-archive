@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#136 - PewDiePie Gets Married & YouTube Sues Copyright Troll",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ulfHGdz6KB8/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25087,7 +25085,7 @@
     ]
   },
   "metrics" : {
-    "views" : 1184231,
+    "views" : 1184287,
     "likes" : 31278,
     "comments" : 3927
   }

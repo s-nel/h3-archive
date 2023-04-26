@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Why Doesn't YouTube Explain Anything?!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UUkj4h_Tq-0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1472754164000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -717,8 +714,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2728228,
+    "views" : 2728264,
     "likes" : 123145,
-    "comments" : 7263
+    "comments" : 7262
   }
 }

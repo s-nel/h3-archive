@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "My Horrifying Proposal Story",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DmX9aoOVFoA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1480028282000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3005,8 +3002,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5068915,
-    "likes" : 268226,
-    "comments" : 14906
+    "views" : 5069272,
+    "likes" : 268230,
+    "comments" : 14903
   }
 }

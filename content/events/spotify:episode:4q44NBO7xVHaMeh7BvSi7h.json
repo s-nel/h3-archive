@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#80 - Bert Kreischer",
   "description" : "<p>On this episode of The H3 Podcast we are joined by comedian Bert Kreischer! Together we discuss ASMR videos, quicksand porn, Tony Robbins&#39; servants, triathlons, Paul Flart, and of course wiping from the front vs. the back. Bert Kreischer is a comedian and story teller who&#39;s new Netflix special &#34;Secret Time&#34; is out now!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SrpzwHCsNIA/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53173,8 +53171,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1440241,
-    "likes" : 29700,
-    "comments" : 3130
+    "views" : 1440513,
+    "likes" : 29703,
+    "comments" : 3134
   }
 }

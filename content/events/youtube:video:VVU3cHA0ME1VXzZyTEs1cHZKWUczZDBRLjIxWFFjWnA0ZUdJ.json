@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Cya Israel",
   "description" : "Pretty wild trip from Israel to USA, 35 hours of traveling, but we finally made it to the god blessed United States!",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/21XQcZp4eGI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1430465313000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1443,7 +1440,7 @@
     ]
   },
   "metrics" : {
-    "views" : 568467,
+    "views" : 568528,
     "likes" : 12789,
     "comments" : 819
   }

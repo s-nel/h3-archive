@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "sexy playboys exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sw0T0iV8Vd8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1404841805000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -233,7 +230,7 @@
     ]
   },
   "metrics" : {
-    "views" : 345165,
+    "views" : 345199,
     "likes" : 6164,
     "comments" : 384
   }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#63 - Ninja",
   "description" : "<p>On this episode of The H3 Podcast we are joined by twitch streamer/pro-gamer/Drake&#39;s BFF- Tyler Blevins aka Ninja! Together we discuss Fortnite, Drake, E-Sports, home defense with katanas, and bidets. Ninja is the current biggest star on twitch, streaming Fortnite to his over 6 millions followers.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/s12qaVEyW14/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -10068,8 +10066,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2455083,
-    "likes" : 69538,
+    "views" : 2455138,
+    "likes" : 69539,
     "comments" : 7656
   }
 }

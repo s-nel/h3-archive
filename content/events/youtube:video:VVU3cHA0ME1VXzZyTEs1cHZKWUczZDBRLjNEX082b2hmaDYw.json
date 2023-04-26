@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Day h3h3productions Changed Forever",
   "description" : "Rip to a dear old friend, never forgotten",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3D_O6ohfh60/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1444263147000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2862,7 +2859,7 @@
     ]
   },
   "metrics" : {
-    "views" : 1068686,
+    "views" : 1068741,
     "likes" : 29209,
     "comments" : 2225
   }

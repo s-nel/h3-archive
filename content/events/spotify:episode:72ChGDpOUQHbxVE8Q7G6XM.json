@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The David Dobrik & Jason Nash Episode - Frenemies #19",
   "description" : "<p>On this edition of FRENEMIES Ethan &amp; Trisha dive into the depths of her days with the vlog squad and relationship with Jason. Watch as Ethan discovers depths of cringe he didn&#39;t yet know existed. Also Ethan &amp; Trisha have a bake off!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wTZVPoHp_Jk/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17876,8 +17874,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5640054,
-    "likes" : 140325,
-    "comments" : 28462
+    "views" : 5650613,
+    "likes" : 140374,
+    "comments" : 28453
   }
 }

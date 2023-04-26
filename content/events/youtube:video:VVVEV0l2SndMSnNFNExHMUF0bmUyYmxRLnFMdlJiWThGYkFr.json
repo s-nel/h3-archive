@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "michael rosen exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qLvRbY8FbAk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1402012476000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -189,8 +186,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1111604,
-    "likes" : 22428,
+    "views" : 1111751,
+    "likes" : 22426,
     "comments" : 1135
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Girl Who Pretended To Lose Her Child",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kykfP6T09xA/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1544036745000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1337,8 +1334,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3634145,
-    "likes" : 284724,
-    "comments" : 11796
+    "views" : 3634425,
+    "likes" : 284719,
+    "comments" : 11795
   }
 }

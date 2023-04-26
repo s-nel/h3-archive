@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha Was Kidnapped At Gunpoint - Frenemies #12",
   "description" : "<p>On this episode of Frenemies Trisha and Ethan discuss a huge range of topics, including Trisha getting kidnapped, Addison Rae&#39;s TikToks, arabs and Palestinians, squirting, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hBOsrbiA1XM/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -33829,8 +33827,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3435083,
-    "likes" : 82193,
-    "comments" : 14903
+    "views" : 3441689,
+    "likes" : 82239,
+    "comments" : 14898
   }
 }

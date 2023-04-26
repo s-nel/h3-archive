@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Pete Davidson & Kim Kardashian Must Be Stopped - H3TV #14",
   "description" : "<p>Today we&#39;re digging into the foreboding sign of apocalypse known as the Pete Davidson-Kim K connection. We also discuss some piping hot Quartering cringe, an ACE Family update, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TcS05DPojIU/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -18061,8 +18059,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1606804,
-    "likes" : 33988,
-    "comments" : 4679
+    "views" : 1606963,
+    "likes" : 33990,
+    "comments" : 4666
   }
 }

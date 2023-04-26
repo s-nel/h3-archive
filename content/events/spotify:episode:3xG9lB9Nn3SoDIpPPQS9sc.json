@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Comedy Is LEGAL Again! - Leftovers #39",
   "description" : "<p>Today we discuss the Daily Wire&#39;s heroic efforts to revive comedy! First up: Roseanne Barr. We also dig into the differences between a leftist and a liberal, Meatball Ron, Jordan Peterson potentially coming on Leftovers, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3yTR5DUT0Jg/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19035,8 +19033,8 @@
     ]
   },
   "metrics" : {
-    "views" : 911766,
-    "likes" : 16894,
-    "comments" : 1657
+    "views" : 934875,
+    "likes" : 17008,
+    "comments" : 1666
   }
 }

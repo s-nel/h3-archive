@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Our new studio!",
   "description" : "Thank you so much everyone on Patreon. We thought it would be more fun to make a video newsletter than to write one, let us know what you think.\n\nPatreon →  https://www.patreon.com/h3h3productions",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BnpNEfHUKVI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1434245407000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2356,7 +2353,7 @@
     ]
   },
   "metrics" : {
-    "views" : 259999,
+    "views" : 260018,
     "likes" : 7522,
     "comments" : 353
   }

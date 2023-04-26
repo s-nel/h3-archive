@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Leave Ken Bone Alone!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_OG8tqbxLR0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1477091264000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1047,8 +1044,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4754537,
-    "likes" : 238457,
-    "comments" : 13302
+    "views" : 4754751,
+    "likes" : 238458,
+    "comments" : 13299
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "rekt again",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/T7Fib7KNb0U/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1407493799000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -310,8 +307,8 @@
     ]
   },
   "metrics" : {
-    "views" : 407855,
-    "likes" : 9233,
+    "views" : 407915,
+    "likes" : 9236,
     "comments" : 694
   }
 }

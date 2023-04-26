@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "David Dobrik's New App & Wendy Williams Continues To Be The Worst - H3 Podcast #238",
   "description" : "<p>On this episode of the H3 Podcast Ethan is OFF THE RAILS without Hila. Together with the crew we discuss David&#39;s new app, Windy Williams being an covidiot, genital mutilation, 2 girls 1 cup, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6woMi_8VjJw/default.jpg",
   "tags" : [
     {
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -13395,8 +13393,8 @@
     ]
   },
   "metrics" : {
-    "views" : 985472,
-    "likes" : 28343,
-    "comments" : 7316
+    "views" : 985535,
+    "likes" : 28344,
+    "comments" : 7311
   }
 }

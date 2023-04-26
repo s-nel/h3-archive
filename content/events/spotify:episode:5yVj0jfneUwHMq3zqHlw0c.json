@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I Got Cancelled Again AGAIN - Off The Rails #31",
   "description" : "<p>Today we go over the controversy surrounding Monday&#39;s episode. We also cover notorious pick-up artist Cobra Tate being arrested, an on-field report from DJ Khaled&#39;s Hollywood Walk of Fame Star Ceremony, and the longest Jordan Peterson impression in the history of the planet.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Hkf7qPCSvLE/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34883,8 +34881,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1173489,
-    "likes" : 33071,
-    "comments" : 7814
+    "views" : 1173789,
+    "likes" : 33074,
+    "comments" : 7801
   }
 }

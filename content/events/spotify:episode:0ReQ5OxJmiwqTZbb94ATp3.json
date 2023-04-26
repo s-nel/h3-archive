@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I Lost My Lawsuit - Off The Rails #59",
   "description" : "<p>Today, Ethan has some bad news regarding his lawsuit...We also discuss the Dhar Mann controversy surrounding his working conditions, Leonardo DiCaprio&#39;s alleged new girlfriend, XQC friendship arc, &amp; the crew has an Avatar mutiny!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wj-SQVepazg/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -61049,8 +61047,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1391889,
-    "likes" : 23076,
-    "comments" : 2290
+    "views" : 1393737,
+    "likes" : 23090,
+    "comments" : 2279
   }
 }

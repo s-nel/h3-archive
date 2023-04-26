@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Huge James Charles Drama",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wV559XeT-dM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1672997346000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2132,7 +2129,7 @@
     ]
   },
   "metrics" : {
-    "views" : 478989,
+    "views" : 479061,
     "likes" : 24852,
     "comments" : 2265
   }

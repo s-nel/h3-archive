@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The Birthday Roast Of Ethan Klein - H3 After Dark # 42",
   "description" : "<p>We delve into the Stephen Crowder the Coward response, a Free Britney update, and...it&#39;s the roast of Ethan Klein! (With many special guests)</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-I_xmrcEAdU/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -42010,8 +42008,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2474111,
-    "likes" : 76288,
-    "comments" : 9503
+    "views" : 2475028,
+    "likes" : 76296,
+    "comments" : 9498
   }
 }

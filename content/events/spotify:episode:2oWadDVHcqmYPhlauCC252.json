@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#51 - Rhett And Link (Good Mythical Morning)",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila are joined by Rhett and Link! Together they discuss local commercials, hot peppers, and playing the YouTube game. Rhett and Link are the creators and stars of Good Mythical Morning, Buddy System, and Earbiscuits.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZxLex9d5Rek/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19202,8 +19200,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2063042,
-    "likes" : 41100,
+    "views" : 2063192,
+    "likes" : 41103,
     "comments" : 4215
   }
 }

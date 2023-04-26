@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Will Smith, Chris Rock & Academy Awards - H3TV #29",
   "description" : "<p>Today we discuss the slap heard &#39;round the world...Will Smith vs Chris Rock. We dig in deep on this one! We also discuss our exciting weekend trip to Vegas, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yH6GnXkHZOA/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35715,8 +35713,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1285896,
-    "likes" : 33331,
-    "comments" : 12336
+    "views" : 1286053,
+    "likes" : 33335,
+    "comments" : 12320
   }
 }

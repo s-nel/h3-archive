@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Interview with Casey Neistat",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ElKIiwNqpxQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1487548563000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1256,8 +1253,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3249880,
+    "views" : 3249922,
     "likes" : 157298,
-    "comments" : 10834
+    "comments" : 10835
   }
 }

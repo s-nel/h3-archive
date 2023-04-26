@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#83 - Meme Royale & PewDiePie vs T-Series",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila cover a lot of ground regarding the upcoming event of the century- Meme Royale 2018. Ethan wants to put up 100k of his own money to see Joey Salads fight Prank invasion, and possibly have ShoeNice fight Ethan Bradberry? Time will tell. We also cover plus sized models, T-Series&#39; meteoric rise in subscriber count, Michael Cohen&#39;s gofundme, Pitbull&#39;s new video, Ariana Grande&#39;s uncomfortable appearance at Aretha Franklin&#39;s funeral, and we play Know Your Meme - ShoeNice edition!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HJAIRO53zOs/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27140,8 +27138,8 @@
     ]
   },
   "metrics" : {
-    "views" : 883578,
+    "views" : 883601,
     "likes" : 20964,
-    "comments" : 2484
+    "comments" : 2482
   }
 }

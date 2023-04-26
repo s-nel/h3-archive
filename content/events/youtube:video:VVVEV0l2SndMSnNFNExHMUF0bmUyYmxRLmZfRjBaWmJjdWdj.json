@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "\"Educational\" Videos on YouTube",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/f_F0ZZbcugc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1510857691000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2598,8 +2595,8 @@
     ]
   },
   "metrics" : {
-    "views" : 10043719,
-    "likes" : 382065,
-    "comments" : 19784
+    "views" : 10044582,
+    "likes" : 382071,
+    "comments" : 19783
   }
 }

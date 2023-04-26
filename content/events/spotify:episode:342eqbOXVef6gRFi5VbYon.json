@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#132 - Andrew Yang",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/otEbT0l_Hbg/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9841,8 +9839,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1942202,
-    "likes" : 90296,
-    "comments" : 17947
+    "views" : 1942222,
+    "likes" : 90294,
+    "comments" : 17946
   }
 }

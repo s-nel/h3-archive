@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Curing 1,000 People of Their Tourette's - Off The Rails #61",
   "description" : "<p>Today we process the wild NXIVM interview from Monday and ensuing fallout. Ethan also responds to Philip DeFranco&#39;s callout, we dig into some cringey Brent Rivera drama, an interview with Shirtless Eddie, a deep dive into the Nikocado vs Candace Owens beef, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vRkstheL1DE/default.jpg",
   "tags" : [
     {
@@ -90,7 +89,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30400,8 +30398,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1105533,
-    "likes" : 20833,
-    "comments" : 2876
+    "views" : 1112288,
+    "likes" : 20862,
+    "comments" : 2864
   }
 }

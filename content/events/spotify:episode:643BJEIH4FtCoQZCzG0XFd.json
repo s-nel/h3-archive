@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "A New Low For Family Channels, Cart Narcs Calls In - H3TV #40",
   "description" : "<p>Today we dig into the latest LaBrant Family insanity, the Cart Narc calls in, we discuss thirst traps in all their various forms (including sexy wood chopping), discuss Drake&#39;s new album/Zach debuts a Drake collab, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PbuUz7yw9SA/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -22237,8 +22235,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1328547,
-    "likes" : 25451,
-    "comments" : 3181
+    "views" : 1328976,
+    "likes" : 25453,
+    "comments" : 3171
   }
 }

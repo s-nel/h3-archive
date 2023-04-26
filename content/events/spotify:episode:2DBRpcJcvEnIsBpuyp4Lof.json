@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Bobby Lee & Khalyla Kuhn - H3 Podcast #251",
   "description" : "<p>Today we have the lovely Bobby Lee &amp; Khalyla on today&#39;s episode! </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NlPCUpYrMis/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20656,8 +20654,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1525124,
-    "likes" : 48609,
-    "comments" : 7941
+    "views" : 1527597,
+    "likes" : 48635,
+    "comments" : 7931
   }
 }

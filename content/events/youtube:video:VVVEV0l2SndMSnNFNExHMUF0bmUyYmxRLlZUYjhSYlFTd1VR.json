@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "sand that wood boy (edgy) [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VTb8RbQSwUQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1395089330000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -68,7 +65,7 @@
     ]
   },
   "metrics" : {
-    "views" : 119248,
+    "views" : 119260,
     "likes" : 2454,
     "comments" : 48
   }

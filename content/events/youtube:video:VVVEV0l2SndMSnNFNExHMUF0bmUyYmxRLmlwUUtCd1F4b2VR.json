@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ethan Becomes an Inventor -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ipQKBwQxoeQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1495497730000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2785,8 +2782,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5437547,
-    "likes" : 241364,
-    "comments" : 12890
+    "views" : 5438215,
+    "likes" : 241369,
+    "comments" : 12889
   }
 }

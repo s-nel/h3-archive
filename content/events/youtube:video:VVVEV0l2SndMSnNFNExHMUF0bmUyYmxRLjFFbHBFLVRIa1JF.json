@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Papa John -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1ElpE-THkRE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1417103507000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1883,8 +1880,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6019871,
-    "likes" : 116424,
+    "views" : 6020624,
+    "likes" : 116429,
     "comments" : 5206
   }
 }

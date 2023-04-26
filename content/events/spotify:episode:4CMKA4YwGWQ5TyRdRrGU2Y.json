@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#93 - Why Does Everyone Hate H3H3?",
   "description" : "<p>On this episode of The H3 Podcast Ethan addresses some of the criticism that has been getting sent his way over the past few months. We also talk about the California wildfires, The Vape God getting on Fox News, why bearded men are hot, Taylor Swift being transported around in a suitcase, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/oO95NQb-DcU/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -10849,8 +10847,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1402753,
-    "likes" : 34633,
-    "comments" : 12936
+    "views" : 1402810,
+    "likes" : 34634,
+    "comments" : 12930
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "KFC Blocks Our Video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/S9rw7H6Guc0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1555797949000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -882,8 +879,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3099857,
-    "likes" : 185945,
-    "comments" : 9070
+    "views" : 3099983,
+    "likes" : 185942,
+    "comments" : 9069
   }
 }

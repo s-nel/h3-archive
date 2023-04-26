@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#20 - One Fricked Up Dentist (Jimmie Lee)",
   "description" : "<p>Jimmie Lee causes chaos in our studio</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rq8HL3jVy-M/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -26608,8 +26606,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1030101,
-    "likes" : 25058,
-    "comments" : 9702
+    "views" : 1030292,
+    "likes" : 25059,
+    "comments" : 9703
   }
 }

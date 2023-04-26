@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Patreon",
   "description" : "https://www.patreon.com/h3h3productions",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Qjv43Ph5WOc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1421774837000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -332,7 +329,7 @@
     ]
   },
   "metrics" : {
-    "views" : 104602,
+    "views" : 104612,
     "likes" : 2893,
     "comments" : 214
   }

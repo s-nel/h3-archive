@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "doritos and pepsi max [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/n-iSdBlR63Y/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1401578504000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -310,7 +307,7 @@
     ]
   },
   "metrics" : {
-    "views" : 379770,
+    "views" : 379810,
     "likes" : 8761,
     "comments" : 740
   }

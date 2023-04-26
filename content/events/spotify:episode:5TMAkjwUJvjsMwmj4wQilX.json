@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#135 - YouTube Ends Copyright Abuse",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lYeKevWNU0g/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34147,8 +34145,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1127609,
+    "views" : 1127668,
     "likes" : 27323,
-    "comments" : 5394
+    "comments" : 5380
   }
 }

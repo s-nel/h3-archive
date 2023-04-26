@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "house cleaning tips - cleaning up the schmutz",
   "description" : "Original Video: \nhttps://www.youtube.com/watch?v=toO7wLvFoP4",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hFz_H8n1_Oo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1408639241000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -112,7 +109,7 @@
     ]
   },
   "metrics" : {
-    "views" : 87100,
+    "views" : 87122,
     "likes" : 3604,
     "comments" : 82
   }

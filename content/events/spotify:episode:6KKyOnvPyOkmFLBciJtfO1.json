@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#31 - Streamer finds my parents in Spain, Who is Wendy Williams? Payday 2 DLC",
   "description" : "<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HE_NhKiCZpI/default.jpg",
   "tags" : [
   ],
@@ -25,10 +24,6 @@
       "role" : "crew"
     },
     {
-      "person_id": "islater",
-      "role": "crew"
-    },
-    {
       "person_id" : "wwilliams",
       "role" : "topic"
     },
@@ -47,10 +42,13 @@
     {
       "person_id" : "hklein",
       "role" : "host"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -8173,7 +8171,7 @@
     ]
   },
   "metrics" : {
-    "views" : 644778,
+    "views" : 644801,
     "likes" : 17921,
     "comments" : 2065
   }

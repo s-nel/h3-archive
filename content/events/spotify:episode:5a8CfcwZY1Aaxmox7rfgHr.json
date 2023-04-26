@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#19 - Jesse Wellens + Phone Interview w/ Martin Shkreli",
   "description" : "Jesse shares the story about how and Snoop Dogg were interrogated by the secret service and Martin Skhreli jumps on jumps on the phone to discuss his trial.<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AYWcC1fcMQw/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -62164,8 +62162,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2187012,
-    "likes" : 44987,
-    "comments" : 7829
+    "views" : 2187091,
+    "likes" : 44989,
+    "comments" : 7824
   }
 }

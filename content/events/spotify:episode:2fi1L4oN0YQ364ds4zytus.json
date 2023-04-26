@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Went To A Crypto NFT Convention, Trump Is Trying To Sell Nuclear Secrets - After Dark #79",
   "description" : "<p>Today we discuss the latest news regarding Trump and the nuclear secrets, AB &amp; Ian report from an NFT convention, we call out Addison Rae&#39;s dad, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PeIdksdVTA4/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46081,8 +46079,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1055585,
-    "likes" : 24760,
-    "comments" : 2939
+    "views" : 1056251,
+    "likes" : 24769,
+    "comments" : 2937
   }
 }

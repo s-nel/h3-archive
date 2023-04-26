@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Joe Biden Forgives Student Debt, Frozen Pizza Taste Test - Leftovers #23",
   "description" : "<p>Today, our resident pizza sommelier Ethan Klein tries to teach Hasan how to improve his frozen pizza palette. We also discuss Joe Brandon&#39;s loan forgiveness program, Ron DeSantis&#39; cringey Top Gun ad, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TgVWYKpkCSA/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14301,8 +14299,8 @@
     ]
   },
   "metrics" : {
-    "views" : 872586,
-    "likes" : 22047,
-    "comments" : 2429
+    "views" : 873110,
+    "likes" : 22059,
+    "comments" : 2424
   }
 }

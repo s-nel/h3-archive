@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#209 - Andrew Yang",
   "description" : "<p>On this episode of the H3 Podcast we are joined by forward thinker, former presidential candidate, and futurist Andrew Yang! Together we discuss UBI (of course), but also the pandemic response, reviviing the library, the postal service, raising kids, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VMFUMRv9DaU/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -10204,8 +10202,8 @@
     ]
   },
   "metrics" : {
-    "views" : 301608,
+    "views" : 301622,
     "likes" : 12920,
-    "comments" : 2182
+    "comments" : 2179
   }
 }

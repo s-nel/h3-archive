@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Johnny Depp vs. Amber Heard, Kim Kardashian vs. Roblox - Afterdark #70",
   "description" : "<p>Today we dig into the Johnny Dump vs Amber Turd story, Kim Karshartian&#39;s beef with Roblox, Tim Stool&#39;s latest beef with Ethan, and a beans on toast review. Jump in!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Q_GoixIfwoY/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -60674,8 +60672,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1929317,
-    "likes" : 30495,
-    "comments" : 3904
+    "views" : 1929975,
+    "likes" : 30497,
+    "comments" : 3898
   }
 }

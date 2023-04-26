@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Nikocado Calls Out Ethan, Elon Gets Booed At Chapelle Show - H3TV #61",
   "description" : "<p>Today we recap what might be the cringiest moment of Elon Musk&#39;s life, Nikocado coming for Ethan and reigniting the war horns, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Jw8hmuc39kM/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -44347,8 +44345,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1040823,
-    "likes" : 22466,
-    "comments" : 2248
+    "views" : 1041640,
+    "likes" : 22478,
+    "comments" : 2232
   }
 }

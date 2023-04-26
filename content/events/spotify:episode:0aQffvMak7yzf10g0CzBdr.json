@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#53 - Top Of The Week With Ian Hecox",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined by Ian Hecox of Smosh for another round of Top Of The Week! Together we discuss Papa John&#39;s fall from grace, Barbara Streisand cloning her dog, and the threat of thermonuclear annihilation! Ian Hecox is the co-creator of the sketch comedy YouTube channel Smosh.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sUyR_nz-JsA/default.jpg",
   "tags" : [
     {
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19250,8 +19248,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2154832,
+    "views" : 2154875,
     "likes" : 29125,
-    "comments" : 4530
+    "comments" : 4523
   }
 }

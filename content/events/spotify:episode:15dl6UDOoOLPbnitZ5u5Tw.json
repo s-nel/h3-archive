@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#5 - Keemstar",
   "description" : "Keemstar is a controversial YouTuber widely considered to be one of the most hated internet personalities.<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8CYAwhTI5vs/default.jpg",
   "tags" : [
   ],
@@ -34,7 +33,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2910,8 +2908,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1750184,
-    "likes" : 45466,
+    "views" : 1750502,
+    "likes" : 45467,
     "comments" : 5352
   }
 }

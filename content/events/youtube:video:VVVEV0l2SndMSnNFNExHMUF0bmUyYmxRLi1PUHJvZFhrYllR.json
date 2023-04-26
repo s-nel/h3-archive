@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "WE'RE IN PAYDAY 2!!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-OProdXkbYQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1511808642000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1938,8 +1935,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3554679,
-    "likes" : 173258,
-    "comments" : 9154
+    "views" : 3554822,
+    "likes" : 173259,
+    "comments" : 9151
   }
 }

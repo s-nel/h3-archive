@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#158 - Whitney Cummings",
   "description" : "<p>On this episode of The H3 Podcast Ethan &amp; Hila are joined by comedian, actress, writer, producer and all around bad ass Whitney Cummings! Together they discuss confidence, bidets, eating habits, dick picks, gold diggers, Ethan&#39;s terrifying cough, gender reveals, nipples, deepfakes, sex robots, and a whole lot more!</p> <p>Big thanks to Whitney for joining us!</p> <p>Whitney&#39;s new podcast &#34;Good For You&#34; is now available everywhere where podcasts can be watched/listened to!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qEscYSTCk68/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46955,8 +46953,8 @@
     ]
   },
   "metrics" : {
-    "views" : 874707,
-    "likes" : 22708,
-    "comments" : 4171
+    "views" : 874756,
+    "likes" : 22707,
+    "comments" : 4169
   }
 }

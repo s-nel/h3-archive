@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Elon Musk Cringe, Pete Davidson Cringe, Cobra Tate Cringe - H3TV #34",
   "description" : "<p>Today we go over Elon Musk&#39;s unhinged Twitter activity, Pete Davidson&#39;s questionable new tattoo, Cobra Tate responds to us, fresh new Fresh &amp; Fit cringe, Zach&#39;s live show, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/T5uYYBnwdH0/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15410,8 +15408,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1017740,
-    "likes" : 26996,
-    "comments" : 3818
+    "views" : 1017914,
+    "likes" : 26997,
+    "comments" : 3811
   }
 }

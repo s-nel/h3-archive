@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Revisiting John Sakars",
   "description" : "Today we re-visit another classic, John Sakars, the male version of Rain Florence. \n\nWatch the Ethan and Hila Playlist --► https://goo.gl/Wzr3bo\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/G0OWH95YUII/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1446403405000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4006,8 +4003,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2274968,
-    "likes" : 42414,
+    "views" : 2275186,
+    "likes" : 42416,
     "comments" : 2903
   }
 }

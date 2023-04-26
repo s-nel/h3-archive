@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#226 - Belle Delphine",
   "description" : "<p>On this episode of the H3 Podcast we are joined by long-time subject of discussion on the podcast... the internet legend Belle Delphine! Together we discuss life, love, growing up in South Africa, crazy stalkers, simps, leaving social media, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uutn8Lob_ek/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -13266,8 +13264,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2085686,
-    "likes" : 79106,
-    "comments" : 11126
+    "views" : 2086413,
+    "likes" : 79119,
+    "comments" : 11122
   }
 }

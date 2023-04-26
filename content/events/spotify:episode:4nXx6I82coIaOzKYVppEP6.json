@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Permanently Banned From Twitter - H3TV #56",
   "description" : "<p>Today we talk about the war between Elon Musk &amp; Ethan (he got banned from Twitter). We also dig into some Jordan Peterson memes, AB defends himself from clout goblin allegations, we have Jessenia from Bachelor In Paradise joining us, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mUSioSGBigU/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30212,8 +30210,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1149506,
-    "likes" : 26973,
-    "comments" : 3930
+    "views" : 1154675,
+    "likes" : 26983,
+    "comments" : 3928
   }
 }

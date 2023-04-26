@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "This Baby Syringe Channel is DISTURBING",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uKt7BMUy-40/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1483985100000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1014,8 +1011,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4647747,
-    "likes" : 161579,
-    "comments" : 13708
+    "views" : 4648043,
+    "likes" : 161577,
+    "comments" : 13707
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#207 - Hasan Piker",
   "description" : "<p>On this episode of the H3 Podcast Ethan and Hila are joined by twitch streamer, leftist political commentator, and member of the globalist vampire cabal, Hasan Piker! Together they discuss the election, getting canceled by Fox News and Alex Jones, Keemstar, having 100 billion dollars, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TpimNx4PJoY/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20200,8 +20198,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2024061,
-    "likes" : 44969,
-    "comments" : 8698
+    "views" : 2025751,
+    "likes" : 44988,
+    "comments" : 8682
   }
 }

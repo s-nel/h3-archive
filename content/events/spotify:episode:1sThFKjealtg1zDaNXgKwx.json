@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I'm Retiring - After Dark #56",
   "description" : "<p>Today we dig deep into the Keemstar rabbit hole &amp; his latest retirement announcement. We also cover an update to the foot war, &amp; a breakdown of the Idubbbz vs Ricegum situation.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lmD0bxtBGxs/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -56971,8 +56969,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1877589,
-    "likes" : 42166,
-    "comments" : 5032
+    "views" : 1883691,
+    "likes" : 42177,
+    "comments" : 5003
   }
 }

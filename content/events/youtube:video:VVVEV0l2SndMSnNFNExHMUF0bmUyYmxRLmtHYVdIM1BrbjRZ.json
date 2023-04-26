@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "years ago exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kGaWH3Pkn4Y/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1381003460000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -75,8 +72,8 @@
     ]
   },
   "metrics" : {
-    "views" : 721134,
-    "likes" : 12800,
+    "views" : 721409,
+    "likes" : 12804,
     "comments" : 445
   }
 }

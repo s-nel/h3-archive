@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We're Having A Third Baby & Greenscreen Tournament - After Dark #95",
   "description" : "<p>Today Ethan and Hila discuss their journey towards a 3rd baby! We also provide an update on Dhar Mann, we review Jay Shetty&#39;s $20 smoothie, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/O8cVG4I7yjA/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -58973,8 +58971,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1102444,
-    "likes" : 21122,
-    "comments" : 2140
+    "views" : 1103745,
+    "likes" : 21141,
+    "comments" : 2138
   }
 }

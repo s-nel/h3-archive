@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "YouTube is Not Being Honest with Us",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HkuZ_8KnCzg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1480451534000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1080,8 +1077,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3347823,
-    "likes" : 604303,
-    "comments" : 65793
+    "views" : 3347889,
+    "likes" : 604276,
+    "comments" : 65786
   }
 }

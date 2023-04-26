@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trump's Waco Standoff, Professor Richard Wolff Calls In - Leftovers #43",
   "description" : "<p>Today we host the one and only Richard Wolff! We talk to him about economic policy, the Ukraine war, why Americans seem to have a complacency issue, and many other topics. We also discuss Trump&#39;s Waco rally, Adin Ross&#39; insane new comments on pronouns, and more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JtkHbfP7yto/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27139,8 +27137,8 @@
     ]
   },
   "metrics" : {
-    "views" : 716534,
-    "likes" : 19166,
-    "comments" : 2389
+    "views" : 759195,
+    "likes" : 19404,
+    "comments" : 2406
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#44 - PUBG Creator Brendan Greene",
   "description" : "<p>Creator of the wildly popular PUBG comes on to talk about everything!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5pnni35Rmag/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30374,8 +30372,8 @@
     ]
   },
   "metrics" : {
-    "views" : 938888,
-    "likes" : 25655,
-    "comments" : 4084
+    "views" : 938930,
+    "likes" : 25657,
+    "comments" : 4080
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "h3h3 prank call: Stinked ya!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SGLd2OOb_Hs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1403043492000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1465,7 +1462,7 @@
     ]
   },
   "metrics" : {
-    "views" : 846319,
+    "views" : 846326,
     "likes" : 27060,
     "comments" : 1584
   }

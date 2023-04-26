@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Totally Obsessed with Pac-Man & Bronies",
   "description" : "Thanks to Audible for supporting our channel! Get a free 30 day trial at http://www.audible.com/ethanandhila.\n\nWatch the Ethan and Hila Playlist --► https://goo.gl/sMlEB4\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9...\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeh...\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.\n\nSource Videos:\nPac-Man\nhttps://www.youtube.com/watch?v=5C_99...\n\nBronie:\nhttps://www.youtube.com/watch?v=KbX2P...",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hFeGOlXuDrk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1452527770000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2939,8 +2936,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5144976,
-    "likes" : 111892,
-    "comments" : 8127
+    "views" : 5146118,
+    "likes" : 111902,
+    "comments" : 8134
   }
 }

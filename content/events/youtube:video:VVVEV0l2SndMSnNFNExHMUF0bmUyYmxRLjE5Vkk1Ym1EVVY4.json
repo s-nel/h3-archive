@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Wake Up Sheeple - An internet poetry parody [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/19VI5bmDUV8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1429214879000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -541,7 +538,7 @@
     ]
   },
   "metrics" : {
-    "views" : 909528,
+    "views" : 909578,
     "likes" : 39446,
     "comments" : 1960
   }

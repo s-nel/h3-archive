@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Soundbite Of The Year Tournament 2021 - Off The Rails LIVE #22",
   "description" : "<p>We host a RUTHLESS tournament of audio drop warriors, as voted on by YOU, to determine who reigns soundbite supreme.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tI_5oCeF_g4/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -22342,8 +22340,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2291121,
-    "likes" : 43879,
-    "comments" : 5864
+    "views" : 2296807,
+    "likes" : 43890,
+    "comments" : 5853
   }
 }

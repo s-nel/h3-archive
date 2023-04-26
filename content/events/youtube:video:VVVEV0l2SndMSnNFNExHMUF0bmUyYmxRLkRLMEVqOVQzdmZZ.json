@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Apologies if you were offended",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DK0Ej9T3vfY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1523391403000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -871,8 +868,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3688362,
-    "likes" : 306103,
-    "comments" : 33716
+    "views" : 3688507,
+    "likes" : 306099,
+    "comments" : 33705
   }
 }

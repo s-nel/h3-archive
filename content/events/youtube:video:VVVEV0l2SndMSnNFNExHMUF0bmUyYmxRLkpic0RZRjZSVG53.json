@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Shrek",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JbsDYF6RTnw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1379087640000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -284,8 +281,8 @@
     ]
   },
   "metrics" : {
-    "views" : 549894,
-    "likes" : 14695,
+    "views" : 549946,
+    "likes" : 14697,
     "comments" : 973
   }
 }

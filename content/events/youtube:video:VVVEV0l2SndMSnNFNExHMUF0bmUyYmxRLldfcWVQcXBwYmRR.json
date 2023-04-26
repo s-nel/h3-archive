@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Feeding the Homeless -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/W_qePqppbdQ/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1444092062000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3097,8 +3094,8 @@
     ]
   },
   "metrics" : {
-    "views" : 14552647,
-    "likes" : 402142,
-    "comments" : 18004
+    "views" : 14558286,
+    "likes" : 402204,
+    "comments" : 18006
   }
 }

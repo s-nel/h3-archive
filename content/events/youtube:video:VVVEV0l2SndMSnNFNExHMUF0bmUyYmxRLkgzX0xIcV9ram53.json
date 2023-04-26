@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "HYPOCRISY ON YOUTUBE",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/H3_LHq_kjnw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1442883064000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -739,7 +736,7 @@
     ]
   },
   "metrics" : {
-    "views" : 3044341,
+    "views" : 3044450,
     "likes" : 93406,
     "comments" : 2713
   }

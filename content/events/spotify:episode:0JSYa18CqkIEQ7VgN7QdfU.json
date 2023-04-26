@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Guesses Who’s High - Off The Rails #15",
   "description" : "<p>On this episode of OFF THE RAILS some of the crew gets stoned and Ethan does his best to guess who&#39;s the square and who&#39;s cool. Also a video of Trisha mocking Ethan goes viral, and Triller finally admits IN COURT that THEIR APP IS FLIPPED!!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/A2sQZ8G_h3U/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -18555,8 +18553,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1526082,
-    "likes" : 43055,
-    "comments" : 5783
+    "views" : 1534068,
+    "likes" : 43113,
+    "comments" : 5791
   }
 }

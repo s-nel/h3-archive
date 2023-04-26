@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Our new set up!",
   "description" : "We FINALLY upgraded with a big thanks to the Holy Moses!\n\nWatch the Ethan and Hila Playlist --► https://goo.gl/ZPdi7n\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uZIbVCISaD8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1446131917000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1146,7 +1143,7 @@
     ]
   },
   "metrics" : {
-    "views" : 601786,
+    "views" : 601830,
     "likes" : 17864,
     "comments" : 1414
   }

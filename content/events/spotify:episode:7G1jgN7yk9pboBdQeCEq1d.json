@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#224 - Tim Dillon",
   "description" : "<p>On this episode of the H3 Podcast we are joined by comedian and commentator Tim Dillon! Together we discuss the election, moving to LA, Hillary Clinton, Ellen, Jeffery Epstein, other Hollywood sickos, Q Anon, and a whole lot more!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/N00yvYq5Wmw/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19877,8 +19875,8 @@
     ]
   },
   "metrics" : {
-    "views" : 437717,
+    "views" : 437768,
     "likes" : 12300,
-    "comments" : 2535
+    "comments" : 2529
   }
 }

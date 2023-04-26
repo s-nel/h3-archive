@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Hila Got Banned On Twitter - After Dark #90",
   "description" : "<p>Today we debrief Hila&#39;s DEPLATFORMING from Twitter. We also discuss Ian&#39;s Kanye mod status reaching international news, a Howie Mandel recap, our worst moments as servers, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QvGqpAcXNqo/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27865,8 +27863,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1047104,
-    "likes" : 22305,
-    "comments" : 2089
+    "views" : 1051681,
+    "likes" : 22320,
+    "comments" : 2083
   }
 }

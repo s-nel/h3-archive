@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Got A Wet & Reckless - H3TV #69",
   "description" : "<p>Today we have some unfortunate news; Ethan got dangerously drunk over the weekend and law enforcement got involved. We also have a referendum on whether Jimmie Lee will be allowed back in the studio, we take a look at the disturbing world of animal chiropractors, is wiping optional, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/j00WFejWTqQ/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -60454,8 +60452,8 @@
     ]
   },
   "metrics" : {
-    "views" : 881460,
-    "likes" : 18926,
-    "comments" : 1756
+    "views" : 886057,
+    "likes" : 18976,
+    "comments" : 1749
   }
 }

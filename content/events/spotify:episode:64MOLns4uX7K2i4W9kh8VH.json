@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#166 - YouTube Removes iDubbbz Content Cop",
   "description" : "<p>On this episode of The H3 Podcast the gang discuss YouTube&#39;s big new policy announcement (spoiler: it&#39;s confusing and pleasing to absolutely no one)! We also discuss Harvey Weinstein faking an injury, debate if Hila is a POC, dunk on Keemstar, look a giant penis fish, and a whole lot more!</p> <p><a href=\"https://youtube.googleblog.com/2019/12/an-update-to-our-harassment-policy.html\" rel=\"nofollow\"> YouTube blog about the policy change</a></p> <p><a href=\"https://twitter.com/h3h3productions/status/1204903918246883328\" rel=\"nofollow\"> Clownstar</a></p> <p><a href=\"https://i.guim.co.uk/img/media/1ce5335926ded0d0e4f2abb0668b29002dd88f7b/0_227_5400_3240/master/5400.jpg?width&#61;620&amp;quality&#61;45&amp;auto&#61;format&amp;fit&#61;max&amp;dpr&#61;2&amp;s&#61;e78b9042604a54ba37ad93523ce61613\" rel=\"nofollow\"> Picture of Weinstein with a walker</a></p> <p><a href=\"https://www.theguardian.com/us-news/2019/dec/12/penis-fish-fat-inkeeper-worms-california-beach\" rel=\"nofollow\"> Penis Fish</a></p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UE-6zvdRapY/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21751,8 +21749,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1027251,
-    "likes" : 24247,
-    "comments" : 4915
+    "views" : 1027329,
+    "likes" : 24249,
+    "comments" : 4910
   }
 }

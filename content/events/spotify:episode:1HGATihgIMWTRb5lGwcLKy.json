@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#28 - PewDiePie Drops the \"N\" Bomb (Top Of The Week)",
   "description" : "<p>Pewdiepie gets into hot water yet again. </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_UZbgH3pOBA/default.jpg",
   "tags" : [
     {
@@ -25,28 +24,27 @@
   "duration" : 4697887,
   "people" : [
     {
-      "person_id" : "eklein",
-      "role" : "host"
-    },
-    {
       "person_id" : "dswerdlove",
       "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
     },
     {
       "person_id" : "hklein",
       "role" : "host"
     },
     {
-      "person_id" : "fkjellberg",
-      "role" : "topic"
+      "person_id" : "deason",
+      "role" : "guest"
     },
     {
-      "person_id": "deason",
-      "role": "guest"
+      "person_id" : "fkjellberg",
+      "role" : "topic"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -7960,8 +7958,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2103978,
-    "likes" : 45141,
-    "comments" : 19492
+    "views" : 2104069,
+    "likes" : 45144,
+    "comments" : 19493
   }
 }

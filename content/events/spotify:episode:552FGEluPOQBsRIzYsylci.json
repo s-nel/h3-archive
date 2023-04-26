@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Office Drama: We Had To Call HR, Austin McBroom KO’d, Durte Dom Called Me Out - Off The Rails #48",
   "description" : "<p>Today we take a few office beefs to the HR office for resolution. We also recap the brutal Austin McBroom fight, Durte Dom calling Ethan out, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bRu6UR5lzeE/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -32573,8 +32571,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1489304,
-    "likes" : 27790,
-    "comments" : 3283
+    "views" : 1489884,
+    "likes" : 27794,
+    "comments" : 3278
   }
 }

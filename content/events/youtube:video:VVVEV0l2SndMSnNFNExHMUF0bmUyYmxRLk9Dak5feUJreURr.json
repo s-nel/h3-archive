@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Becoming THE ZUCC (ft idubbbz)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OCjN_yBkyDk/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1596654326000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5297,8 +5294,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3425754,
-    "likes" : 233677,
+    "views" : 3428246,
+    "likes" : 233711,
     "comments" : 13847
   }
 }

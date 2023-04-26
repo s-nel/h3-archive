@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Lube Up 2 -- 2 lubed 4 u [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gN9QfAGzM8E/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1405015599000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1487,8 +1484,8 @@
     ]
   },
   "metrics" : {
-    "views" : 341752,
-    "likes" : 9004,
+    "views" : 341797,
+    "likes" : 9003,
     "comments" : 691
   }
 }

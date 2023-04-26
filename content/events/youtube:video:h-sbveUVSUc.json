@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "James Charles IS GOING TO JAIL! says my mom - Families # 5",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/h-sbveUVSUc/default.jpg",
   "tags" : [
   ],
@@ -14,7 +13,6 @@
     }
   ],
   "start_date" : 1626912785000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "stemple",
@@ -54,7 +52,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16944,8 +16941,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1905110,
-    "likes" : 57747,
-    "comments" : 11260
+    "views" : 1906230,
+    "likes" : 57752,
+    "comments" : 11233
   }
 }

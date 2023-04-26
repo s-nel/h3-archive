@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Def Noodles Sues Keemstar For Defamation, Elon Musk Allegations - Afterdark #73",
   "description" : "<p>Today we take a look at the newly filed defamation lawsuit against Keemstar by friend of the show Def Noodles. We also discuss the latest allegations made against Elon Musk as reported by Insider, we have a call-in with the creator of Dogecoin, Ethan discusses his brewing boxing feud with Philip DeFranco, &amp; more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eZYbxWxDG3I/default.jpg",
   "tags" : [
   ],
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -52949,8 +52947,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1449400,
-    "likes" : 28164,
-    "comments" : 2776
+    "views" : 1450227,
+    "likes" : 28165,
+    "comments" : 2771
   }
 }

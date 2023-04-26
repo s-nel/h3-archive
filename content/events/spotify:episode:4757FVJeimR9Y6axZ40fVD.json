@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "R. Kelly, Keemstar, My Mom Exposed - H3TV #9",
   "description" : "<p>On this fantastic Monday, we debate...did Ethan pass gas at a Denny&#39;s? We also discuss the R Kelly situation, Keemstar&#39;s latest hijinks, &amp;...the H3 Podcast Movie?!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bVwGr98HYqQ/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -18885,8 +18883,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1832381,
-    "likes" : 30966,
-    "comments" : 3652
+    "views" : 1832744,
+    "likes" : 30976,
+    "comments" : 3643
   }
 }

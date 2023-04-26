@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "HOW TO MAKE MODERN ART",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/d7ez-gIt08I/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1456072483000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1113,8 +1110,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5799483,
-    "likes" : 196036,
-    "comments" : 20082
+    "views" : 5799763,
+    "likes" : 196040,
+    "comments" : 20076
   }
 }

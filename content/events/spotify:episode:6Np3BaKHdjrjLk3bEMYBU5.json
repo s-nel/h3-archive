@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Dan Eats The World's Hottest Chip, Elon Musk Is Ruining Twitter, Defending Andrew Tate - OTR #54",
   "description" : "<p>Today, the day of reckoning has come...Dan eats the spicy chip. We also discuss the latest dumpster fire going on at Twitter, Quartering redemption arc(?), Andrew Tate&#39;s newest surprising character evolution, Ethan takes on the Taylor Swift fatphobia drama, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BraYUdc3YRo/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -67858,8 +67856,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1536351,
-    "likes" : 24533,
-    "comments" : 3209
+    "views" : 1540698,
+    "likes" : 24552,
+    "comments" : 3201
   }
 }

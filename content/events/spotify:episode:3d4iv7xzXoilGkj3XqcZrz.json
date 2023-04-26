@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Chris, MrBeast, and H3 are SunnyV2's Worst Nightmare - After Dark #101",
   "description" : "<p>On this episode of H3 After Dark we take a deep dive on SunnyV2&#39;s controversial MrBeast video, watch Bumble and Reach stumble their way through trying to stan Sebastian, Oliver Tree calls in begging for money, AB weighs in against Dad, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/r6vG1VKGnOo/default.jpg",
   "tags" : [
     {
@@ -98,7 +97,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30815,8 +30813,8 @@
     ]
   },
   "metrics" : {
-    "views" : 923292,
-    "likes" : 20198,
-    "comments" : 3209
+    "views" : 993162,
+    "likes" : 21056,
+    "comments" : 3326
   }
 }

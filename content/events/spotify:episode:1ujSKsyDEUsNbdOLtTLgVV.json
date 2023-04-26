@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Jake Paul Exposed By Bombshell New York Times Article - H3 After Dark # 33",
   "description" : "<p>On this episode of H3 After Dark Ethan, Hila and the gang talk about the new Jake Paul expose in the New York Times and speak to the article&#39;s author, Taylor Lorenz! We also talk about Benny Shapeeno&#39;s wood, Japanese social media stars using Face App to change genders, and a civil war breaks out amongst the crew over Ethan&#39;s wikifeet score coming close to being toppled!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MjDYycK6n7M/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -50847,8 +50845,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2134347,
-    "likes" : 41799,
-    "comments" : 7484
+    "views" : 2134435,
+    "likes" : 41800,
+    "comments" : 7478
   }
 }

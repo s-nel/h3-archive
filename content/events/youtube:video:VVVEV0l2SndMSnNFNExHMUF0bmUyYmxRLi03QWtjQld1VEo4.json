@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "I'm the Best. PERIOD.",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-7AkcBWuTJ8/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1373752390000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -354,7 +351,7 @@
     ]
   },
   "metrics" : {
-    "views" : 141762,
+    "views" : 141767,
     "likes" : 5144,
     "comments" : 284
   }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Dr. Klein [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NOB2CLEdzyY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1408815795000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1531,7 +1528,7 @@
     ]
   },
   "metrics" : {
-    "views" : 540296,
+    "views" : 540326,
     "likes" : 14405,
     "comments" : 805
   }

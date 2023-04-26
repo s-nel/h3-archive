@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The High Life (Monetized)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/a_4vrEGT3sA/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1384126925000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -204,7 +201,7 @@
     ]
   },
   "metrics" : {
-    "views" : 92569,
+    "views" : 92570,
     "likes" : 2974,
     "comments" : 94
   }

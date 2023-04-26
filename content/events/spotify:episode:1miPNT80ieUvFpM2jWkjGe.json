@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#208 - Logic",
   "description" : "<p>On this episode of the H3 Podcast we are joined again by our friend Bobby, aka Logic! Together we discuss life post-retirement, his final album, becoming a father, anxiety, leaving Los Angles, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eaPzLbMWzgY/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -22700,8 +22698,8 @@
     ]
   },
   "metrics" : {
-    "views" : 617539,
-    "likes" : 18284,
-    "comments" : 2595
+    "views" : 617604,
+    "likes" : 18285,
+    "comments" : 2590
   }
 }

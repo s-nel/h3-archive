@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#110 - Surviving Cardi B & Jesse Smollett Explained",
   "description" : "<p>On this episode of The H3 Podcast we discuss Jussie Smollett&#39;s case, Ethan getting suggested gay butt videos, boiling steak in butter, Surviving Cardi B, Hila&#39;s hair, a new R. Kelly video, and a WHOLE lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/X89jKnxlqwU/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31144,8 +31142,8 @@
     ]
   },
   "metrics" : {
-    "views" : 837617,
-    "likes" : 16527,
+    "views" : 837672,
+    "likes" : 16528,
     "comments" : 2245
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I've Got Terrible News - H3TV #43",
   "description" : "<p>Today we have some terrible news to share. We also discuss Cobra Tate&#39;s rap career, Keemstar having a meltdown over maple syrup, a long overdue Triller update and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MrMIZ4QUSOE/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -66501,8 +66499,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1807001,
-    "likes" : 24615,
-    "comments" : 4414
+    "views" : 1807647,
+    "likes" : 24618,
+    "comments" : 4401
   }
 }

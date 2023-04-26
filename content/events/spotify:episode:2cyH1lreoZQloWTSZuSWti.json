@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "James Charles Is Being Sued & Bill Gates Calls In - H3 After Dark # 36",
   "description" : "<p>On this episode of H3 After Dark we have a BANGER of an episode as we talk Triller lawsuit with YouTube law expert Emily D. Baker, Keemstar being a fuck, James Charles flailing, and we make our pitch for Zach to become the official spokesperson for Kraft Mayo!!! </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4CP_nl037_c/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53209,8 +53207,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2866704,
-    "likes" : 43971,
-    "comments" : 6035
+    "views" : 2867060,
+    "likes" : 43976,
+    "comments" : 6031
   }
 }

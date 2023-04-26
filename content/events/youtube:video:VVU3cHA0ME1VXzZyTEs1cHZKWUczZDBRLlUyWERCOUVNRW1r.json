@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Don't go to the fair",
   "description" : "Go to Costco for the thrills guys, stay away from the fair.",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/U2XDB9EMEmk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1436733038000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1322,8 +1319,8 @@
     ]
   },
   "metrics" : {
-    "views" : 785885,
-    "likes" : 21912,
+    "views" : 785940,
+    "likes" : 21915,
     "comments" : 880
   }
 }

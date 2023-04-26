@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Craziest Pastor In America",
   "description" : "Pastor Greg Locke wildin",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mB7gW6_Mr9g/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1645545632000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1560,8 +1557,8 @@
     ]
   },
   "metrics" : {
-    "views" : 280037,
-    "likes" : 15013,
-    "comments" : 1983
+    "views" : 280062,
+    "likes" : 15012,
+    "comments" : 1982
   }
 }

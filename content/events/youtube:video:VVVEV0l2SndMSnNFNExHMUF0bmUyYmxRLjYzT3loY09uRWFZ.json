@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "4 Looks You Need This Summer",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/63OyhcOnEaY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1501189443000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -332,8 +329,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3629544,
-    "likes" : 280038,
-    "comments" : 20836
+    "views" : 3629632,
+    "likes" : 280033,
+    "comments" : 20834
   }
 }

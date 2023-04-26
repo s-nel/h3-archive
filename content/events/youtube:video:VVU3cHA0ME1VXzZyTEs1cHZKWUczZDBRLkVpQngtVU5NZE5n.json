@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Post office adventure",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EiBx-UNMdNg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1419016853000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -893,8 +890,8 @@
     ]
   },
   "metrics" : {
-    "views" : 629899,
-    "likes" : 13920,
+    "views" : 629965,
+    "likes" : 13922,
     "comments" : 1029
   }
 }

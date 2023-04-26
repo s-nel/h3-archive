@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Crazy Lady Gets Triggered by Lyft Driver",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LNmvEkikg1k/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1474246833000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1476,8 +1473,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8829361,
+    "views" : 8829844,
     "likes" : 309898,
-    "comments" : 30060
+    "comments" : 30055
   }
 }

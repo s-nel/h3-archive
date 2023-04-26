@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Banned On TikTok & Jeffree Starr Is Dating Tom Brady Power Point - After Dark #94",
   "description" : "<p>Today we bid farewell to Ethan&#39;s TikTok. We also have a very heated debate regarding Jeffree Star and his mystery NFL sweetheart, a call-in from the fantastically puzzling Infrabren, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gBqepGXLnos/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23964,8 +23962,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1030970,
-    "likes" : 22051,
+    "views" : 1032341,
+    "likes" : 22069,
     "comments" : 2680
   }
 }

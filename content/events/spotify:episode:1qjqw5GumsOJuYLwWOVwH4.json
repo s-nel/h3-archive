@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#139 - ProJared Finally Responds & Dave Chappelle Cancelled",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-03ge_8Uf9Y/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34580,8 +34578,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1200201,
+    "views" : 1200233,
     "likes" : 27133,
-    "comments" : 7984
+    "comments" : 7979
   }
 }

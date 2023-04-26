@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate Released, Donald Trump Arrested , Gwyneth Paltrow Acquitted -  After Dark #100",
   "description" : "<p>On this episode of the podcast we talk about Tate&#39;s sudden release from jail, Trump GOING to jail, Gwyneth winning the trial of the century, and revisit a long neglected but exhaustively studied debate of front to back or back to front wiping.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MgwMZS-9MBg/default.jpg",
   "tags" : [
     {
@@ -86,7 +85,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -73736,8 +73734,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1190266,
-    "likes" : 20785,
+    "views" : 1205585,
+    "likes" : 20919,
     "comments" : 2686
   }
 }

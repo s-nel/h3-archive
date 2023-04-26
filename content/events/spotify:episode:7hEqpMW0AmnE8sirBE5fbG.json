@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Jordan Peterson, Kanye West, Island Boys - H3TV #12",
   "description" : "<p>It&#39;s Monday y&#39;all, so it&#39;s time to add a little pep in your step with the latest H3TV! We&#39;re talkin&#39; Ye (the artist formerly known as Kanye West), the Island Boys phenomenon, Jordan Peterson&#39;s heartfelt plea to start loving men more, &amp; much much more! TAP IN</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_QK5EmPCd9g/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -22633,8 +22631,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1271455,
-    "likes" : 32247,
-    "comments" : 9298
+    "views" : 1271794,
+    "likes" : 32252,
+    "comments" : 9289
   }
 }

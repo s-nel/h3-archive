@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "In search of the holy pope",
   "description" : "el pope please guide us\n\nMusic:\nParting Glass by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://audionautix.com/",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/W4G6MNmhXRA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1443493490000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -519,8 +516,8 @@
     ]
   },
   "metrics" : {
-    "views" : 378500,
-    "likes" : 11592,
+    "views" : 378524,
+    "likes" : 11593,
     "comments" : 678
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Donald Trump Announced He's Running For President!- Leftovers #32",
   "description" : "<p>Today we welcome back the return of the legend himself, as Trump has announced he&#39;s running in 2024 (SHOCKING). We also discuss shaving balls and many other high level political discussions, this isn&#39;t your parents&#39; news channel folks</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZeUeDjX4fJk/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11954,8 +11952,8 @@
     ]
   },
   "metrics" : {
-    "views" : 684898,
-    "likes" : 17307,
+    "views" : 685395,
+    "likes" : 17317,
     "comments" : 1273
   }
 }

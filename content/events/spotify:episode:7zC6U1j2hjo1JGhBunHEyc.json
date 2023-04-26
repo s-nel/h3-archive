@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#195 - Eric Andre",
   "description" : "<p>On this episode of the H3 Podcast we are joined in the second half by comedian, prankster, and all around goof Eric Andre! But first we catch up on the state of the naysh, Jenna Marble&#39;s quitting YouTube, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/H28q3GpraK8/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9258,8 +9256,8 @@
     ]
   },
   "metrics" : {
-    "views" : 943543,
+    "views" : 943694,
     "likes" : 30449,
-    "comments" : 4513
+    "comments" : 4510
   }
 }

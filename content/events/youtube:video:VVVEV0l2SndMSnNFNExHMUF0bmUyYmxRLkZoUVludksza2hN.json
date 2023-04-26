@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Cya Israel [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FhQYnvK3khM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1430498605000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1080,8 +1077,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1010453,
-    "likes" : 31124,
+    "views" : 1010524,
+    "likes" : 31127,
     "comments" : 2653
   }
 }

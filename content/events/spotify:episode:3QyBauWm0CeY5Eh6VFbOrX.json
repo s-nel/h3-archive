@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#68 - Booty Doctor Films Patients & Coughing Beanie",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila chat with YouTuber William Osman. William made an amazing robotic coughing beanie for Ethan that we play around with. Additionally we review some seriously top notch grade-A quality cringe.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/m04abAVI3Vk/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19693,8 +19691,8 @@
     ]
   },
   "metrics" : {
-    "views" : 899329,
-    "likes" : 24652,
-    "comments" : 3032
+    "views" : 899358,
+    "likes" : 24653,
+    "comments" : 3030
   }
 }

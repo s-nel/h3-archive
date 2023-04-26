@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Dangers of Social Media -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HPYvLlNiN1I/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1440108739000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1788,8 +1785,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6237607,
-    "likes" : 144508,
-    "comments" : 7263
+    "views" : 6238692,
+    "likes" : 144514,
+    "comments" : 7262
   }
 }

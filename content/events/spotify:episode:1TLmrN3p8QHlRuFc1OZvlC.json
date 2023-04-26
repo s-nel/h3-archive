@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The Biggest Scam In YouTube History -  Off The Rails # 4",
   "description" : "<p>On this episode of the H3 Podcast OFF THE RAILS we&#39;re talking influencer crypto scams, we&#39;re talking Ringo Starr&#39;s birthday, we&#39;re talking CCR curses, and the bois face off in an epic compliment battle!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/iBXtS72EGcM/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15357,8 +15355,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1423528,
-    "likes" : 40255,
-    "comments" : 5279
+    "views" : 1424101,
+    "likes" : 40263,
+    "comments" : 5277
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "this video is mildly interesting",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NmPcx3CM-9M/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1489010192000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1102,8 +1099,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5712593,
-    "likes" : 265325,
-    "comments" : 13726
+    "views" : 5712879,
+    "likes" : 265323,
+    "comments" : 13721
   }
 }

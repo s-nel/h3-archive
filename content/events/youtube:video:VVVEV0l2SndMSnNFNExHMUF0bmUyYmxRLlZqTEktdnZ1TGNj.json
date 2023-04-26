@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Greatest YouTuber of ALL TIME -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VjLI-vvuLcc/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1465145883000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1931,8 +1928,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7923366,
-    "likes" : 215750,
-    "comments" : 13809
+    "views" : 7924603,
+    "likes" : 215762,
+    "comments" : 13805
   }
 }

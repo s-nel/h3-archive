@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#74 - FouseyTube Meltdown & RIP DaddyOFive",
   "description" : "<p>On this episode of The H3 Podcast Ethan examines the &#34;FouseyCon&#34; controversy, the return and ban of DaddyOFive, and pays tribute to Hila&#39;s father, who unfortunately passed away this week. Rest in peace Yochanan Hakmon (1950-2018)</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2MJLPgGbyY0/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16052,8 +16050,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1448557,
+    "views" : 1448604,
     "likes" : 45738,
-    "comments" : 5380
+    "comments" : 5379
   }
 }

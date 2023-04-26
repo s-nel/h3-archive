@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate Cries And Begs For Forgiveness, Ethan Enters The Metaverse - After Dark #81",
   "description" : "<p>Today is the last time we talk about Andrew Tate (probably allegedly most likely don&#39;t take our word for it but just trust us). We also send Ethan to the METAVERSE, take a look at the Michigan slide of chaos, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zWfAxwGyS0U/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17745,8 +17743,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1158579,
-    "likes" : 27073,
-    "comments" : 4089
+    "views" : 1159045,
+    "likes" : 27077,
+    "comments" : 4087
   }
 }

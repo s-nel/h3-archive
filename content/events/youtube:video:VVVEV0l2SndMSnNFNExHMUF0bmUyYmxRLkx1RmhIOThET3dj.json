@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ravioli Hungry Gold Digger Prank!! Ft. FilthyFrank",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LuFhH98DOwc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1453506738000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -387,8 +384,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4489358,
-    "likes" : 212679,
-    "comments" : 7378
+    "views" : 4490155,
+    "likes" : 212699,
+    "comments" : 7377
   }
 }

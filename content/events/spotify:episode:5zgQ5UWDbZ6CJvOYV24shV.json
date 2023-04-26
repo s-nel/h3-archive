@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "David Dobrik Is A Bully & Gorilla Glue Gone Wrong - H3 After Dark #22",
   "description" : "<p>On this episode of H3 After Dark we take a look at some wild ass videos from TikTok, get a call in from former Vlog Squad-er BigNik, China&#39;s new COVID test, a new mobility video, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pTo6FA6i6PM/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34299,8 +34297,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1367206,
-    "likes" : 29751,
-    "comments" : 5607
+    "views" : 1367333,
+    "likes" : 29753,
+    "comments" : 5603
   }
 }

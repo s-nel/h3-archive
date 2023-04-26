@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "I’m Sick Of Kanye West",
   "description" : "billie eilish, kanye west, travis scott",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UwTGCtgsmqQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1644660725000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2440,8 +2437,8 @@
     ]
   },
   "metrics" : {
-    "views" : 443696,
+    "views" : 443711,
     "likes" : 23403,
-    "comments" : 2971
+    "comments" : 2970
   }
 }

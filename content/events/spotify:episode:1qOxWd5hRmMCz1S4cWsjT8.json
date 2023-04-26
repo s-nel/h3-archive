@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#122 - Boycott UMG & OJ Gets Even On Twitter 🧤",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/m5_ye2jGKdk/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -26506,8 +26504,8 @@
     ]
   },
   "metrics" : {
-    "views" : 829728,
-    "likes" : 25253,
-    "comments" : 3712
+    "views" : 829768,
+    "likes" : 25254,
+    "comments" : 3711
   }
 }

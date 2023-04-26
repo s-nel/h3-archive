@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "OUR THOUGHTS ON SAM PEPPER",
   "description" : "Is it or is it not Pepper time? We can't decide anymore. \n\nWatch the Ethan and Hila Playlist --► https://goo.gl/rGFTcP\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://goo.gl/901PGW\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://goo.gl/QKEsKJ\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.\n\nSam's Video:\nhttps://goo.gl/KVF1YR",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mHZh3SCNjqw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1456437313000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2939,8 +2936,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2836508,
-    "likes" : 82496,
-    "comments" : 7105
+    "views" : 2836671,
+    "likes" : 82498,
+    "comments" : 7103
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Keemstar vs The Quartering 🍿 - H3TV #17",
   "description" : "<p>Today we discuss the clash of titans, Keemstar vs TheQuartering! We also dig into the latest classic video from Channel 5 and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OY934DPbmrc/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53290,8 +53288,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1594154,
-    "likes" : 31461,
-    "comments" : 3930
+    "views" : 1607283,
+    "likes" : 31506,
+    "comments" : 3916
   }
 }

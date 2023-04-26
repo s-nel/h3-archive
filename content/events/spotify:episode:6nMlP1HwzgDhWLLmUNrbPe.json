@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#182 - Trisha Paytas (The BacH3lorette Round 2)",
   "description" : "<p>On this episode of the H3 Podcast we are joined again by Trisha to go over the lovely candidates&#39; submissions for The Bach3lorette! A lot of twists and turns in this one people...</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7OYtxY6d4MU/default.jpg",
   "tags" : [
     {
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49863,8 +49861,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2759431,
-    "likes" : 51446,
-    "comments" : 10964
+    "views" : 2762158,
+    "likes" : 51460,
+    "comments" : 10972
   }
 }

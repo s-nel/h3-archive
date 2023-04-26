@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "I Love Showering with my Dad",
   "description" : "When was the last time YOU showered with your dad?!\n\nWatch the Ethan and Hila Playlist --►https://goo.gl/rn5oht\n\nFacebook..................►https://facebook.com/H3h3productions\nHila's Twitter..............►https://twitter.com/hilakleinh3\nEthan's Twitter..........►https://twitter.com/h3h3productions\nInstagram.................►http://instagram.com/h3h3productions\nHila's Instragram....►https://www.instagram.com/kleinhila\nSpreadshirt...............►http://h3h3productions.spreadshirt.com\nHila's Art....................►http://hilaklein.com\nSubreddit..................►http://reddit.com/r/h3h3productions\n\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=jmpQaCPFV7g\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XLpsgSUcr2Y/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1470160069000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4226,8 +4223,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1710505,
-    "likes" : 60846,
-    "comments" : 3959
+    "views" : 1710616,
+    "likes" : 60850,
+    "comments" : 3958
   }
 }

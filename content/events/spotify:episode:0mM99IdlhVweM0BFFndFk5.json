@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Keemstar's Channel Is Dying & Couch Guy Controversy - H3TV #10",
   "description" : "<p>On this episode of H3TV the gang discuss if pizza is pie, the TikTok &#34;Couch Guy&#34; controversy, if someone can tell when you&#39;re high, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Rs9bSkstX9s/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49879,8 +49877,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1305726,
-    "likes" : 32656,
-    "comments" : 4296
+    "views" : 1305946,
+    "likes" : 32657,
+    "comments" : 4287
   }
 }

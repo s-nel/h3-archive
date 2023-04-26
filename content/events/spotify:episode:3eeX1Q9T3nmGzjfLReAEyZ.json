@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Logan Paul Says Ethan Is Scum Of The Internet - H3 After Dark #21",
   "description" : "<p>On this episode of H3 After Dark the foot soldiers of the H3 army go to WAR!!! We take a trip down memory lane and see who the real scum of the internet is... We also have plenty of goofs and gaffs along the way- something is about to BUST!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bvbyHrJtjDo/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19218,8 +19216,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1484026,
+    "views" : 1484188,
     "likes" : 36940,
-    "comments" : 5182
+    "comments" : 5183
   }
 }

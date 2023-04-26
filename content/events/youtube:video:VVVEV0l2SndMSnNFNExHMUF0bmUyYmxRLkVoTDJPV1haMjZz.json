@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How To Lose Your Life's Savings w Cryptocurrency",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EhL2OWXZ26s/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1516746538000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2543,8 +2540,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6744540,
-    "likes" : 267740,
-    "comments" : 24331
+    "views" : 6745620,
+    "likes" : 267756,
+    "comments" : 24327
   }
 }

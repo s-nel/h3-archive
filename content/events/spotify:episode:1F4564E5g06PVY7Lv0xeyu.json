@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I Had To Get Emergency Surgery - Off The Rails #18",
   "description" : "<p>Buckle up buckos, we&#39;re going OFF THE TRACKS. We talk tomato tossing, a Travis Scott update, Gary Vee&#39;s NFT masterpieces, &amp; much more. Let&#39;s just jumprightintoit</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EkXUAzDP7kk/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34395,8 +34393,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1238078,
-    "likes" : 42263,
-    "comments" : 4212
+    "views" : 1238593,
+    "likes" : 42268,
+    "comments" : 4202
   }
 }

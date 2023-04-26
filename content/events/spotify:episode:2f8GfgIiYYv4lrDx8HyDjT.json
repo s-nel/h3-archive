@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Having A Civil Conversation With A TikTok Alpha Male - Off The Rails #65",
   "description" : "<p>Today we host a very civil healthy debate with sigma social media guru Sebastian Ghiorghiu about all things masculine. We also have reformed Jimmie Lee cohosting the show as his real identity Dr James Wiener. He&#39;s not allowed to crack any offensive jokes, and he has three strikes otherwise he&#39;s tossed out of the studio. </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_7pONVxRvDQ/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23025,8 +23023,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1289582,
-    "likes" : 40063,
-    "comments" : 12379
+    "views" : 1305988,
+    "likes" : 40272,
+    "comments" : 12525
   }
 }

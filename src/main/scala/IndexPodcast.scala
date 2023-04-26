@@ -121,11 +121,17 @@ object IndexPodcast {
       println(s"Fetching episodes [${request.uri.toString()}]")
       for {
         episodes <- httpRequest[Episodes](request)
+        existingEvents <- IndexYoutubeVideos.loadEventsFromContent(false)
         events = episodes.items.map(toDoc)
         _ <- events.map { eventDoc =>
           val file = new File(s"content/events/${eventDoc.eventId}.json")
           if (file.exists()) {
             println(s"File [${file.getName}] already exists. Skipping")
+            Future.successful(())
+          } else if (existingEvents.exists(
+              e => e.links.exists(_.exists(ld1 => eventDoc.links.exists(_.exists(ld2 => ld1.url === ld2.url))))
+            )) {
+            println(s"Found existing event with link to this podcast. Skipping")
             Future.successful(())
           } else {
             val allEventPeople = Set(
@@ -270,7 +276,9 @@ object IndexPodcast {
             DoubleField("temperature"),
             DoubleField("avg_logprob"),
             DoubleField("compression_ratio"),
-            DoubleField("no_speech_prob")
+            DoubleField("no_speech_prob"),
+            KeywordField("speaker"),
+            BooleanField("is_soundbite")
           )
         )
       )

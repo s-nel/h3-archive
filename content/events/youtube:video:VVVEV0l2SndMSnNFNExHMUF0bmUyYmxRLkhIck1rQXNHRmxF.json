@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "get rekt",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HHrMkAsGFlE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1404850647000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46,8 +43,8 @@
     ]
   },
   "metrics" : {
-    "views" : 604175,
-    "likes" : 12402,
+    "views" : 604328,
+    "likes" : 12407,
     "comments" : 584
   }
 }

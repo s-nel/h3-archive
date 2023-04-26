@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#71 - Chris D'Elia",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined in the studio by actor and comedian Chris D&#39;Elia! Together we discuss Logan Paul, Garth Brooks, La Croix, wiping techniques, and podcasting! Chris D&#39;Elia is currently on his &#34;Follow The Leader&#34; national tour, and hosts the weekly &#34;Congratulations Podcast with Chris D&#39;Elia&#34;.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ecLCI0JhyW4/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -38111,8 +38109,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1426885,
+    "views" : 1426927,
     "likes" : 33447,
-    "comments" : 3251
+    "comments" : 3247
   }
 }

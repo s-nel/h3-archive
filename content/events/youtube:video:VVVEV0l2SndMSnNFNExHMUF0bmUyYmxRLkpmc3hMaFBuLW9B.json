@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Shootin' With iDubbbz",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JfsxLhPn-oA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1528497020000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2470,8 +2467,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6789791,
-    "likes" : 318132,
-    "comments" : 28180
+    "views" : 6790631,
+    "likes" : 318144,
+    "comments" : 28171
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Mr. Beast Sued By Netflix & Nikocado Responds To Us - After Dark #60",
   "description" : "<p>Today we discuss the latest Mr Beast Squid Game video, black friday deals, the week&#39;s best fashion looks as reviewed by Hila, &amp; Nikocado Avocado responded to our show!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kwDJN1CQzJY/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17983,8 +17981,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1618987,
-    "likes" : 33125,
-    "comments" : 4036
+    "views" : 1619423,
+    "likes" : 33127,
+    "comments" : 4024
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Toy Channels are Ruining Society",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fBWf6Zvn0jQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1485373883000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2213,8 +2210,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6607428,
-    "likes" : 211146,
-    "comments" : 17875
+    "views" : 6607927,
+    "likes" : 211150,
+    "comments" : 17874
   }
 }

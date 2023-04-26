@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#60 - Bobby Lee",
   "description" : "<p>On this episode of The H3 Podcast we are joined by comedian and fellow podcaster Bobby Lee! Together we discuss open mics, Stardew Valley, manifesting your dreams, eating boogers, and of course... ghost stories! Bobby Lee is a comedian and actor who rose to prominence as a cast member of MadTV. He now stars as part of the ABC sitcom &#34;Splitting Up Together&#34; and hosts his own podcast with longtime girlfriend Khalyla Kuhn called Tiger Belly!</p> <p> </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gTV5B1lBG_M/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -47545,8 +47543,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2096684,
-    "likes" : 45242,
-    "comments" : 6017
+    "views" : 2097982,
+    "likes" : 45251,
+    "comments" : 6016
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Don't Go To VidCon (Ft. Logan Paul & Instagram Model)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/j39XXH-hCYk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1498424605000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2488,8 +2485,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6641155,
-    "likes" : 289007,
-    "comments" : 33734
+    "views" : 6641531,
+    "likes" : 289001,
+    "comments" : 33733
   }
 }

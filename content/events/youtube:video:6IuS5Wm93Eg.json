@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Santino - H3 Podcast #219",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6IuS5Wm93Eg/default.jpg",
   "tags" : [
   ],
@@ -14,7 +13,6 @@
     }
   ],
   "start_date" : 1601511185000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "dswerdlove",
@@ -46,7 +44,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11601,8 +11598,8 @@
     ]
   },
   "metrics" : {
-    "views" : 399001,
-    "likes" : 13416,
-    "comments" : 1639
+    "views" : 399101,
+    "likes" : 13418,
+    "comments" : 1637
   }
 }

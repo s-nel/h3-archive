@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Reddit Mod Gets Destroyed In TV Interview",
   "description" : "the antiwork subreddit had a meltdown over this interview",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9n5Ag1K-D9M/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1643378404000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2022,8 +2019,8 @@
     ]
   },
   "metrics" : {
-    "views" : 281387,
-    "likes" : 13116,
-    "comments" : 1820
+    "views" : 281398,
+    "likes" : 13115,
+    "comments" : 1819
   }
 }

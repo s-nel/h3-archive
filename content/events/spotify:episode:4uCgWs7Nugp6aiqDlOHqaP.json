@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Kanye West, Tim Pool, Alex Jones, Nick Fuentes - Leftovers #33",
   "description" : "<p>Today we react to the wild Alex Jones/Kanye West interview LIVE. We also discuss Ben Shapiro and Tim Pool&#39;s reaction to the situation and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YuTB_yBfZ1A/default.jpg",
   "tags" : [
   ],
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20110,8 +20108,8 @@
     ]
   },
   "metrics" : {
-    "views" : 890340,
-    "likes" : 18870,
-    "comments" : 2539
+    "views" : 890923,
+    "likes" : 18876,
+    "comments" : 2533
   }
 }

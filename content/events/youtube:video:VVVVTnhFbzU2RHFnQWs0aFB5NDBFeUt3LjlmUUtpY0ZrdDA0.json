@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "About To Give Birth",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9fQKicFkt04/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1643503926000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2517,8 +2514,8 @@
     ]
   },
   "metrics" : {
-    "views" : 460712,
-    "likes" : 34105,
-    "comments" : 3920
+    "views" : 460792,
+    "likes" : 34104,
+    "comments" : 3918
   }
 }

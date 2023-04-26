@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#210 - Leafy Banned, Keemstar Is Suing Us, Karen Tier List",
   "description" : "<p>On this episode of the H3 Podcast Leafy is NOT here anymore cause he got his ass banned from YouTube! Also our good friend Keemstar is threatening to sue us, and we create the definitive Karen tier list!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OhWlHJ6BSEU/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -33550,8 +33548,8 @@
     ]
   },
   "metrics" : {
-    "views" : 747725,
-    "likes" : 25491,
-    "comments" : 5292
+    "views" : 747811,
+    "likes" : 25492,
+    "comments" : 5270
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "we're pregnant",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EtgxTKuN018/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1545951826000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2851,8 +2848,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4416361,
-    "likes" : 379838,
-    "comments" : 43980
+    "views" : 4416605,
+    "likes" : 379835,
+    "comments" : 43973
   }
 }

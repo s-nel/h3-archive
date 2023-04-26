@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Rebecca Black - H3 Podcast #264",
   "description" : "<p>Today we are joined by the superbly talented Rebecca Black! We discuss her early rise to fame, her long-awaited debut album, and much more! After she departs we stick around for a post-interview chat about Mr Beast, and Ethan goes off the rails. </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Yz7snltT1ek/default.jpg",
   "tags" : [
   ],
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21716,8 +21714,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1923906,
-    "likes" : 25508,
-    "comments" : 6671
+    "views" : 1931190,
+    "likes" : 25519,
+    "comments" : 6659
   }
 }

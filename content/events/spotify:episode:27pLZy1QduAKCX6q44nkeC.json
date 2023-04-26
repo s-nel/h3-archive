@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#204 - Chad Goes Deep (The Party Bros)",
   "description" : "<p>On this episode of the H3 Podcast we&#39;re joined by Chad &amp; J.T. of Chad Goes Deep, aka the Party Bros! Together we discuss getting stoked, small dong pride, kindness in the face of aggression, the value of house parties, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WeeOkvkEYUU/default.jpg",
   "tags" : [
     {
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23929,8 +23927,8 @@
     ]
   },
   "metrics" : {
-    "views" : 253821,
-    "likes" : 9376,
-    "comments" : 1164
+    "views" : 253853,
+    "likes" : 9378,
+    "comments" : 1161
   }
 }

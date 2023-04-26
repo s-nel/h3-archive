@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "curling exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-0jeolifQPk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1394050180000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -145,8 +142,8 @@
     ]
   },
   "metrics" : {
-    "views" : 399582,
+    "views" : 399615,
     "likes" : 5842,
-    "comments" : 256
+    "comments" : 255
   }
 }

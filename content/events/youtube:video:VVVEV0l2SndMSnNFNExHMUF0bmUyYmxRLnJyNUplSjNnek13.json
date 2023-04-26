@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "get rekt tutorial",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rr5JeJ3gzMw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1410972568000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1641,8 +1638,8 @@
     ]
   },
   "metrics" : {
-    "views" : 532510,
+    "views" : 532557,
     "likes" : 14867,
-    "comments" : 950
+    "comments" : 949
   }
 }

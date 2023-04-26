@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We're Being Sued",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/fEGVOysbC8w/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1464137225000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2180,8 +2177,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7227227,
-    "likes" : 250879,
-    "comments" : 25627
+    "views" : 7227369,
+    "likes" : 250882,
+    "comments" : 25623
   }
 }

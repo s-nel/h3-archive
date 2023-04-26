@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ryan Kavanaugh Is Trying To Ruin Me",
   "description" : "Ryan Kavanaugh of triller and proximity media is on a quest to ruin my life, he is now suing me four times.",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3CL5_BequEM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1641975420000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3947,8 +3944,8 @@
     ]
   },
   "metrics" : {
-    "views" : 294505,
-    "likes" : 19163,
+    "views" : 294531,
+    "likes" : 19161,
     "comments" : 2295
   }
 }

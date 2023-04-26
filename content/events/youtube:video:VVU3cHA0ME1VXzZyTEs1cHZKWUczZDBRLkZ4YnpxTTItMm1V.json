@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Howdy",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FxbzqM2-2mU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1407265122000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46,7 +43,7 @@
     ]
   },
   "metrics" : {
-    "views" : 246545,
+    "views" : 246584,
     "likes" : 9387,
     "comments" : 319
   }

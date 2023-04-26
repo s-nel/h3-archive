@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Prank Invasion: A Closer Look",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SV1ho61qaG4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1519517247000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2257,8 +2254,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5839674,
-    "likes" : 337398,
-    "comments" : 20157
+    "views" : 5840408,
+    "likes" : 337406,
+    "comments" : 20154
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Tim Dillon - H3 Podcast #256",
   "description" : "<p>Today we host the very funny Tim Dillon! We discuss hot dog straws, P&amp;P Firm&#39;s greatest hits (Let&#39;s Go), the Andrew Tate ban, Alex Jones, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ZemA9Yi0tQQ/default.jpg",
   "tags" : [
   ],
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -48351,8 +48349,8 @@
     ]
   },
   "metrics" : {
-    "views" : 743689,
-    "likes" : 19679,
-    "comments" : 6002
+    "views" : 744117,
+    "likes" : 19682,
+    "comments" : 5983
   }
 }

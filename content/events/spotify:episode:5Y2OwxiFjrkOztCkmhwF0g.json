@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#129 - Twitch Double Standard & Analyzing Belle Delphine's Spit",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1owweBRXABQ/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16562,8 +16560,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1239950,
-    "likes" : 29855,
+    "views" : 1239981,
+    "likes" : 29856,
     "comments" : 5883
   }
 }

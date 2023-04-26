@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Birth Of Our Son & Valentine's Day Special - H3TV #23",
   "description" : "<p>We play the newlywed game with the entire crew and their partners! We also discuss terrible Superbowl ads, Kanye&#39;s war on Pete Davidson, &amp; much much more</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JZP7g-9ANRc/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25804,8 +25802,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1139139,
-    "likes" : 36690,
-    "comments" : 3739
+    "views" : 1139759,
+    "likes" : 36696,
+    "comments" : 3730
   }
 }

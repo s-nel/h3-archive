@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "To Catch a Cheater, A New LOW on YouTube",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/u0FE_iXC-OA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1479942410000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4952,8 +4949,8 @@
     ]
   },
   "metrics" : {
-    "views" : 9913805,
-    "likes" : 275573,
-    "comments" : 20151
+    "views" : 9914623,
+    "likes" : 275576,
+    "comments" : 20147
   }
 }

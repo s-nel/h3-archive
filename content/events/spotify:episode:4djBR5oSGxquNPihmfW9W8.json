@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ace Fest Fallout, Jeff Wittek & Mike Majlak Fight For Ethan's Love - Off The Rails #42",
   "description" : "<p>People are coming for the Ace Family and we ready the war horns. We also discuss who deserves to be Ethan&#39;s BFF in a very hotly contested race between Mike Majlak/Jeff Wittek/Faze Banks and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Hg5SSg4A74g/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -37872,8 +37870,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1462457,
-    "likes" : 26031,
-    "comments" : 2827
+    "views" : 1469755,
+    "likes" : 26058,
+    "comments" : 2826
   }
 }

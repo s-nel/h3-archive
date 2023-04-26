@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Let's Get Social 2014 -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/S34_19FASHc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1429846837000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1773,8 +1770,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3690850,
-    "likes" : 81786,
-    "comments" : 4784
+    "views" : 3691315,
+    "likes" : 81795,
+    "comments" : 4783
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Destroys The New Office - Off The Rails # 1",
   "description" : "<p>On this GROUND SHAKING episode of H3 OFF THE RAILS Ethan and the boys get to work on demolishing all the hard work building the studio over the last few weeks as Ethan goes rogue on the Gatsby- we fool around with Love&#39;s new robot, try out the BTS McDonald&#39;s meal, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JHGs0juAZX4/default.jpg",
   "tags" : [
     {
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14711,8 +14709,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1220778,
-    "likes" : 41767,
-    "comments" : 7379
+    "views" : 1221345,
+    "likes" : 41775,
+    "comments" : 7371
   }
 }

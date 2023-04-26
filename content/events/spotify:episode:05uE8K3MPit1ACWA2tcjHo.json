@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Pop Culture Trivia War & Friendship With Shane Is Over - Frenemies #18",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trish have a battle of wits as we finally get to our pop culture trivia competition (with grilled cheese, of course). We also talk a bit about Shane &amp; Rylan&#39;s snakeishness, and Trisha&#39;s new music video!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ieFw_2kCdLY/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -37573,8 +37571,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5053511,
-    "likes" : 108539,
-    "comments" : 19393
+    "views" : 5060729,
+    "likes" : 108571,
+    "comments" : 19377
   }
 }

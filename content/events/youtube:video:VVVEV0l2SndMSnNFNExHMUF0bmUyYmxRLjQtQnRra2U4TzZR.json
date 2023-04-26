@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Kissing Pranks -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4-Btkke8O6Q/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1417626010000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -29,10 +27,9 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null,
   "metrics" : {
-    "views" : 15420918,
-    "likes" : 204084,
-    "comments" : 11273
+    "views" : 15422746,
+    "likes" : 204101,
+    "comments" : 11274
   }
 }

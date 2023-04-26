@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Biden Got Covid, Jordan Peterson's Obsession, Right Wing \"Comedy\" - Leftovers #19",
   "description" : "<p>We&#39;re back in the multi-billion dollar compound, reporting on the breaking Biden news! Mans got covid. We also watch Jordan Peterson have yet another Batman villain-esque meltdown, talk about Tate, Matt Walsh wanting to get climate changed, and much more.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Yb4bqqyH8_Y/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31744,8 +31742,8 @@
     ]
   },
   "metrics" : {
-    "views" : 969850,
-    "likes" : 23560,
-    "comments" : 2168
+    "views" : 970906,
+    "likes" : 23583,
+    "comments" : 2161
   }
 }

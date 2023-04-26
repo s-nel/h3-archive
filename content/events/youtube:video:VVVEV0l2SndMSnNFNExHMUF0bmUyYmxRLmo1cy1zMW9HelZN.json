@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Take a DNA Test",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/j5s-s1oGzVM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1525891055000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4017,8 +4014,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6035744,
-    "likes" : 250858,
+    "views" : 6036266,
+    "likes" : 250872,
     "comments" : 15335
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "If YouTube Does This It's Doomed",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XdkMrDmODtw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1527147007000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -629,8 +626,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3355478,
-    "likes" : 257496,
-    "comments" : 18367
+    "views" : 3355540,
+    "likes" : 257494,
+    "comments" : 18353
   }
 }

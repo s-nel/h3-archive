@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#30 - Responding To The Drama + Hila Calls In & More! (Top of the Week)",
   "description" : "<p>Lots to talk about</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CBBX14zotuI/default.jpg",
   "tags" : [
     {
@@ -33,8 +32,8 @@
       "role" : "crew"
     },
     {
-      "person_id": "islater",
-      "role": "crew"
+      "person_id" : "islater",
+      "role" : "crew"
     },
     {
       "person_id" : "hklein",
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23367,8 +23365,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1022581,
+    "views" : 1022613,
     "likes" : 33761,
-    "comments" : 6572
+    "comments" : 6571
   }
 }

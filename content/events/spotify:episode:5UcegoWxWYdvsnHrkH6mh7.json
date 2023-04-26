@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#223 - Whitney Cummings",
   "description" : "<p>On this episode we are joined once again by H3 Podcast alum Whitney Cummings! Together we discuss quarantine sex, pee fetishes, doing standup in front of a wall of honking cars, Veterinarians being fake Doctors, and AI Ian finds love with AI Whitney!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QfPoQGlsNwU/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35948,8 +35946,8 @@
     ]
   },
   "metrics" : {
-    "views" : 513660,
+    "views" : 513737,
     "likes" : 15074,
-    "comments" : 2238
+    "comments" : 2236
   }
 }

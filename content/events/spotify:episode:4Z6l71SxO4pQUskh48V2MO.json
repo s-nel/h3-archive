@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#24 We Won The Lawsuit! & Skippy Gets Dating Advice from Ryan Jaunzemis",
   "description" : "<p>We WON! Now we discuss what happens next -- What happens if Matt appeals, and should we counter-sue for attorneys fees? ALSO:We get Skippy the Virgin on the phone with Ryan Juanzemis to receive dating advice. </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Ek5crC9HvQY/default.jpg",
   "tags" : [
     {
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -12800,8 +12798,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1508410,
-    "likes" : 41785,
-    "comments" : 6153
+    "views" : 1508440,
+    "likes" : 41787,
+    "comments" : 6151
   }
 }

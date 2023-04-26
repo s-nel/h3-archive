@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We're Pregnant! - H3 After Dark # 38",
   "description" : "<p>On this episode of H3 After Dark we get some amazing news live on air! Also we discuss Harry Potter reality shifters, Cold Feet Steven Crowder being a dumb ass, celebrate James Charles&#39; birthday, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BUHxXNxEUYc/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49919,8 +49917,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2239466,
-    "likes" : 77418,
-    "comments" : 9725
+    "views" : 2239687,
+    "likes" : 77421,
+    "comments" : 9707
   }
 }

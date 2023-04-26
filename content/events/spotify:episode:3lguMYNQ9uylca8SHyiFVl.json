@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#55 - How To Save a Life",
   "description" : "<p>On this special episode of The H3 Podcast Ethan and Hila are joined by a brave young man named Chris Betancourt and his best friend Dillon Hill. Chris has been diagnosed with a rare form of leukemia and was given one year to live. So he and Dillon set out on a mission to check off as many items from his bucket list as they can. One item was to meet Ethan- another was to meet Philip DeFranco. On this episode of The H3 Podcast, he does both! We are humbled by Chris&#39;s story and his attitude and humor in the face of death and it was a pleasure to have him on the podcast.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/RUQ-ePEqeTs/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15176,8 +15174,8 @@
     ]
   },
   "metrics" : {
-    "views" : 586292,
+    "views" : 586304,
     "likes" : 23328,
-    "comments" : 2064
+    "comments" : 2060
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "MoistCr1TiKaL, I didn't want to go to war, but... - Off The Rails #55",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wLZaQAqSdNI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1669248785000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "stemple",
@@ -62,7 +60,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -44870,8 +44867,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1077820,
-    "likes" : 20639,
-    "comments" : 5008
+    "views" : 1079790,
+    "likes" : 20666,
+    "comments" : 4995
   }
 }

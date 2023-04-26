@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "It's Time To Stop James Charles - H3 Podcast # 241",
   "description" : "<p>On this episode of the H3 Podcast Ethan breaks down the ever growing list of children accusing James Charles of grooming them, we debate the pros and cons of Chet Hank&#39;s white boy summer, and Ethan brings himself to tears with his most brilliant idea ever!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ABT5w_LNtx8/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15133,8 +15131,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1658604,
-    "likes" : 47389,
-    "comments" : 9000
+    "views" : 1658831,
+    "likes" : 47390,
+    "comments" : 8989
   }
 }

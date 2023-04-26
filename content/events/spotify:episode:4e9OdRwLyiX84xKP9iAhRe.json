@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Responding To David's Apology - Frenemies # 28",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha try and close the book on the David Dobrik saga by live reacting to his apology video, bringing some form of closure to what has been a wild past month on Frenemies.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/-QLJROolYas/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35479,8 +35477,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5834936,
-    "likes" : 158009,
-    "comments" : 21044
+    "views" : 5842817,
+    "likes" : 158037,
+    "comments" : 20974
   }
 }

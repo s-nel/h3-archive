@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#142 - Our $3500 Scooter Has Arrived & Pizza Taste Test Catastrophe",
   "description" : "<p>On this episode of The H3 Podcast THE GATSBY HAS ARRIVED!!!! We have some fun with the new ride, do a taste test of the big boy pizza chains to crown a champion, we do round two of The Bach3lor with Ian the Intern... oh and also Ethan and Hila are getting a divorce.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_IS3dVekCXw/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9815,8 +9813,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1003834,
-    "likes" : 32348,
-    "comments" : 9140
+    "views" : 1003978,
+    "likes" : 32349,
+    "comments" : 9136
   }
 }

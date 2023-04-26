@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "You've got a big one",
   "description" : "Patreon Newsletter for June, thank you, we love you.\nhttp://patreon.com/h3h3productions",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CCw5D9M6p0g/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1436985302000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -684,7 +681,7 @@
     ]
   },
   "metrics" : {
-    "views" : 543435,
+    "views" : 543457,
     "likes" : 14300,
     "comments" : 871
   }

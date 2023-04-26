@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "ainsley harriott exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WXQCo9fLYWI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1399219522000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -145,8 +142,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6885698,
-    "likes" : 143893,
-    "comments" : 5541
+    "views" : 6887540,
+    "likes" : 143933,
+    "comments" : 5540
   }
 }

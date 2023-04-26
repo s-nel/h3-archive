@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Jake Paul Fight Was A Disaster - H3 Podcast # 244",
   "description" : "<p>On this episode of the H3 Podcast Ethan and tha boys discuss Jake&#39;s lame-o fight, weirdos freaking out over the Chauvin verdict, EDP445 being a mega creep, and Mike Lindell aka Mr. My Pillow live streaming his psychotic break on his new website!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bfKPts4BJkA/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17803,8 +17801,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1145960,
-    "likes" : 29790,
-    "comments" : 5796
+    "views" : 1146094,
+    "likes" : 29794,
+    "comments" : 5776
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "This Weird City is Freaking Me Out",
   "description" : "Thanks for watching, appreciate ya!\n\nHila's Dad Approves �мhttps://goo.gl/lKtBDf\n\nFacebook..................�мhttps://facebook.com/H3h3productions\nHila's Twitter..............�мhttps://twitter.com/hilakleinh3\nEthan's Twitter..........�мhttps://twitter.com/h3h3productions\nInstagram.................�мhttp://instagram.com/h3h3productions\nHila's Instragram....�мhttps://www.instagram.com/kleinhila\nSpreadshirt...............�мhttp://h3h3productions.spreadshirt.com\nSubreddit..................�мhttp://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\nMusic by Otis McDonald\n&\nTopher Mohr and Alex Elena",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eS68bt8CKR4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1484944655000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1982,8 +1979,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1669242,
-    "likes" : 54255,
+    "views" : 1669408,
+    "likes" : 54258,
     "comments" : 6468
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "rekt together",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EMaaMq8T7Cg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1414780389000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -321,8 +318,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3502408,
-    "likes" : 134198,
-    "comments" : 8559
+    "views" : 3503165,
+    "likes" : 134209,
+    "comments" : 8561
   }
 }

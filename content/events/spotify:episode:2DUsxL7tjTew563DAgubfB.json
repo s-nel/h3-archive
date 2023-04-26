@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Did Google Create Sentient AI? Ft Whistleblower Blake Lemoine - H3 Podcast #255",
   "description" : "<p>Today we talk to Blake Lemoine, an expert on AI and former Google employee, about the dangers of artificial intelligence and sentient robots!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xsR4GezN3j8/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31527,8 +31525,8 @@
     ]
   },
   "metrics" : {
-    "views" : 810055,
-    "likes" : 27723,
-    "comments" : 3716
+    "views" : 810734,
+    "likes" : 27731,
+    "comments" : 3701
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate Nelk Podcast Disaster, Ethan's Dad Meets Jimmie Lee - H3TV #45",
   "description" : "<p>Today we break down the Andrew Tate Nelk Podcast dumpster fire, debut the first and last episode of the Elderlies podcast with Jimmie Lee &amp; Gary Klein, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/C6jBBUEx6fQ/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -38022,8 +38020,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1122315,
-    "likes" : 25315,
-    "comments" : 3682
+    "views" : 1122926,
+    "likes" : 25318,
+    "comments" : 3678
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "YOU LAUGH, YOU LOSE! (Thanksgiving Special) - Off The Rails #20",
   "description" : "<p>On this episode of OFF THE RAILS it&#39;s a THANKGIVING SPECIAL edition of YOU LAUGH, YOU LOSE! Our queen of the kitchen Sam has cooked up 6 absolutely cursed Thanksgiving dishes for the crew and if they laugh at one of the various videos it&#39;s going down the hatch! This one is heavily visual so you&#39;ll want to see this on YouTube: https://youtu.be/lD1Z7NYUXjc</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lD1Z7NYUXjc/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35597,8 +35595,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1454572,
-    "likes" : 34085,
-    "comments" : 3667
+    "views" : 1455311,
+    "likes" : 34099,
+    "comments" : 3657
   }
 }

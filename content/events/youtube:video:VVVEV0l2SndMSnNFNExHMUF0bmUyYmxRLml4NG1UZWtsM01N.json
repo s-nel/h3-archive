@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "A New Chapter for Fair Use on YouTube",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ix4mTekl3MM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1464318188000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -431,8 +428,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2635787,
-    "likes" : 178825,
-    "comments" : 15245
+    "views" : 2635806,
+    "likes" : 178821,
+    "comments" : 15241
   }
 }

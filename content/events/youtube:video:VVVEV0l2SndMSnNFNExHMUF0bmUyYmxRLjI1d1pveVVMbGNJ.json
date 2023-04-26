@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "YouTube's New Program is Horrible",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/25wZoyULlcI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1474584074000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -651,8 +648,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3971408,
-    "likes" : 198235,
-    "comments" : 14665
+    "views" : 3971524,
+    "likes" : 198234,
+    "comments" : 14663
   }
 }

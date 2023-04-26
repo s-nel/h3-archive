@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Trying Weird Gold Products",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WkbeA0Qc2aE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1476228839000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3346,8 +3343,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4759369,
-    "likes" : 134535,
+    "views" : 4759642,
+    "likes" : 134537,
     "comments" : 9298
   }
 }

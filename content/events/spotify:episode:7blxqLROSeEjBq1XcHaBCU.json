@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Arby's Taste Test Nightmare & Spider-Man Fired From MCU - H3 Podcast #137",
   "description" : "On this episode of The H3 Podcast Ethan and Hila talk about their new mobility scooter, taste test a bunch of garbage food from Arby's, the Amazon forest being on fire, Spider-man getting fired from the MCU, celeberties falling for your grandma's chain emails, and a whole lot more!",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Fjh5elcj0hA/default.jpg",
   "tags" : [
     {
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16529,8 +16527,8 @@
     ]
   },
   "metrics" : {
-    "views" : 876091,
+    "views" : 876174,
     "likes" : 20298,
-    "comments" : 4458
+    "comments" : 4457
   }
 }

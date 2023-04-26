@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Craziest Thing That Has Ever Happened To Me",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zPiASfh5vOg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1645193061000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5894,8 +5891,8 @@
     ]
   },
   "metrics" : {
-    "views" : 432846,
-    "likes" : 27737,
+    "views" : 432941,
+    "likes" : 27740,
     "comments" : 4037
   }
 }

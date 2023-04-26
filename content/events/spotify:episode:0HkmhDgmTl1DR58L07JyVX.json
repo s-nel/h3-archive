@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "BBTV Is Paying Us Back - Off The Rails #67",
   "description" : "<p>IN ONE OF THE GREATEST TWISTS OF ALL TIME BBTV IS PAYING US BACK!!! BIG NEWS!!! OHHHH BOY!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hLMJZkI9Afc/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -55350,8 +55348,8 @@
     ]
   },
   "metrics" : {
-    "views" : 861820,
-    "likes" : 21077,
-    "comments" : 2520
+    "views" : 902236,
+    "likes" : 21528,
+    "comments" : 2535
   }
 }

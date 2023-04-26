@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#27 - We Raised $170,000! + Shoenice Hates Us",
   "description" : "<p>Following up with our charity stream and getting cursed by shoenice.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/st9FW7BaEV8/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25937,8 +25935,8 @@
     ]
   },
   "metrics" : {
-    "views" : 826896,
-    "likes" : 20973,
+    "views" : 826920,
+    "likes" : 20974,
     "comments" : 4005
   }
 }

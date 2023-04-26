@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "i got cancelled on twitter (will smith & chris rock)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nigokS9fHDo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1648602290000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3078,8 +3075,8 @@
     ]
   },
   "metrics" : {
-    "views" : 543081,
-    "likes" : 34462,
-    "comments" : 8332
+    "views" : 543122,
+    "likes" : 34461,
+    "comments" : 8329
   }
 }

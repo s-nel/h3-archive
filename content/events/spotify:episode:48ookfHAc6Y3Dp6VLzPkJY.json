@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Marc Rebillet, Reggie Watts, Flying Lotus LIVE!",
   "description" : "<p>A special musical episode of The H3 Podcast, featuring the improvisations of Reggie Watts, Marc Rebillet &amp; Flying Lotus!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/u3ninsiw5f4/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -8317,8 +8315,8 @@
     ]
   },
   "metrics" : {
-    "views" : 697742,
-    "likes" : 46319,
-    "comments" : 4831
+    "views" : 699547,
+    "likes" : 46355,
+    "comments" : 4833
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Watching Disney Movies by Myself",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dIkO1eWFbuo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1364927182000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,13 +28,12 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
     ]
   },
   "metrics" : {
-    "views" : 883751,
-    "likes" : 19741,
-    "comments" : 505
+    "views" : 883924,
+    "likes" : 19742,
+    "comments" : 503
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Why Is James Charles On The Trending Page?",
   "description" : "Do you think its okay for youtube to trend James Charles after everything that has come out about him in the last two years?",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_XciU-3v5Eo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1641800496000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1109,7 +1106,7 @@
     ]
   },
   "metrics" : {
-    "views" : 343132,
+    "views" : 343144,
     "likes" : 17042,
     "comments" : 1180
   }

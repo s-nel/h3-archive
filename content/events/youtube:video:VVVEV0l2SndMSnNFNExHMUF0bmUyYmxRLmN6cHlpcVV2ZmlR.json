@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Veterans Day DEALS and FREEBIES!!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/czpyiqUvfiQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1479004990000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -937,8 +934,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3190497,
+    "views" : 3190582,
     "likes" : 161611,
-    "comments" : 8941
+    "comments" : 8938
   }
 }

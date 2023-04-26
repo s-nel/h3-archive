@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "WE WON OUR LAWSUIT!!!!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Wz13LQiGeBs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1642126017000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5608,8 +5605,8 @@
     ]
   },
   "metrics" : {
-    "views" : 723957,
-    "likes" : 51355,
-    "comments" : 5180
+    "views" : 724001,
+    "likes" : 51352,
+    "comments" : 5175
   }
 }

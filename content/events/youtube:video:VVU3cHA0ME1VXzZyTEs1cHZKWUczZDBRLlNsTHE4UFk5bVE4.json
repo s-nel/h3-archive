@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Pope is coming to town",
   "description" : "el pope is coming and hes got a big fucking sign",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SlLq8PY9mQ8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1441848915000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1575,8 +1572,8 @@
     ]
   },
   "metrics" : {
-    "views" : 701994,
-    "likes" : 15919,
+    "views" : 702048,
+    "likes" : 15920,
     "comments" : 932
   }
 }

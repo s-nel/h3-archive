@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Instagram vs. Reality",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OX_Bini29kU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1557355796000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2312,8 +2309,8 @@
     ]
   },
   "metrics" : {
-    "views" : 13005303,
-    "likes" : 620037,
-    "comments" : 40216
+    "views" : 13006977,
+    "likes" : 620041,
+    "comments" : 40212
   }
 }

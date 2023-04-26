@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#147 - Belle Delphine Arrested By British Authorities & Fousey vs Slim",
   "description" : "<p>On this episode of The H3 Podcast we look into what happened to gamer bathwater girl Belle Delphine, take a look at Fousey&#39;s boxing match, the TANK scooter, three beat slide DMCAing us, wearable chairs, Terryology, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/m11ipFCl8EE/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19998,8 +19996,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1171556,
+    "views" : 1171587,
     "likes" : 23977,
-    "comments" : 4180
+    "comments" : 4177
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The Podcast Is Moving To Spotify - H3TV #71",
   "description" : "<p>Today we have a big announcement regarding the future of the podcast. We also discuss some Andrew Tate updates, a deep dive on what Coby Persin has been up to (he&#39;s a scientist now), the lie detector guy&#39;s dark secrets, Adin Ross going mask off and claiming to quit the internet, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bVCmTR9UumY/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -55006,8 +55004,8 @@
     ]
   },
   "metrics" : {
-    "views" : 917444,
-    "likes" : 20469,
-    "comments" : 2017
+    "views" : 958854,
+    "likes" : 20667,
+    "comments" : 2011
   }
 }

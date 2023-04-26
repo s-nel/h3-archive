@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We're Still Being Sued",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/m40bWgWH8Ro/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1488225103000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1608,8 +1605,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4624691,
-    "likes" : 316204,
-    "comments" : 23725
+    "views" : 4624837,
+    "likes" : 316203,
+    "comments" : 23716
   }
 }

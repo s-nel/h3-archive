@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "My Experience With The Police",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nbHGAu9Kn_c/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1591402820000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1366,8 +1363,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2818233,
-    "likes" : 248207,
-    "comments" : 29670
+    "views" : 2819149,
+    "likes" : 248214,
+    "comments" : 29666
   }
 }

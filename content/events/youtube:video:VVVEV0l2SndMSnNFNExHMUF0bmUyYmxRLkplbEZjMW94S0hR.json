@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Let's Talk About It [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JelFc1oxKHQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1398629935000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -761,7 +758,7 @@
     ]
   },
   "metrics" : {
-    "views" : 219770,
+    "views" : 219794,
     "likes" : 5056,
     "comments" : 273
   }

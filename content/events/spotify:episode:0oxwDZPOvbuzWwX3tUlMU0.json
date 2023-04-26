@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Went To Britney Spears Conservator Trial & David Dobrik Busted Again - After Dark #58",
   "description" : "<p>Today we send our own reporters to the Britney Spears trial LIVE. We also dig into the latest David DOOBRIK controversy, share our worst roommate stories, &amp; Ethan has a bit of an unexpected medical meltdown during the show.........................</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ADjcxhKgfp0/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -54712,8 +54710,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1760876,
-    "likes" : 48848,
-    "comments" : 3547
+    "views" : 1761466,
+    "likes" : 48854,
+    "comments" : 3542
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "THE SOFLO FACEBOOK RANT",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/8qwxYaZhUGA/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1455035173000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1469,8 +1466,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5947845,
-    "likes" : 210577,
-    "comments" : 11191
+    "views" : 5948400,
+    "likes" : 210575,
+    "comments" : 11190
   }
 }

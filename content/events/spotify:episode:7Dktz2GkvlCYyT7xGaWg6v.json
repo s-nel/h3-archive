@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha Paytas, Jeffree Star, Hair By Jay, D'Angelo Wallace, Cr1TiKaL - H3 After Dark #19",
   "description" : "<p>On this episode of H3 After Dark we squash TWO beefs- with a call in from D&#39;Angelo Wallace &amp; a reaction to Charlie&#39;s butt candle review. Also we get into some serious tea with Trisha going to war with Jeffree Star and Hair By Jay. Lots of goofs along the way in this super sized ep of H3 After Dark!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QBmlIdXpGeU/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -52380,8 +52378,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3351592,
-    "likes" : 48600,
-    "comments" : 7056
+    "views" : 3351985,
+    "likes" : 48597,
+    "comments" : 7053
   }
 }

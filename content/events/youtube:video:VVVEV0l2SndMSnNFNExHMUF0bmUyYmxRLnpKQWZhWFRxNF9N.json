@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The H3 Report Live -- Bill Nye, Techrax, Ethan Bradberry",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zJAfaXTq4_M/default_live.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1496211287000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -33,7 +31,6 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null,
   "metrics" : {
     "views" : 1,
     "likes" : 73,

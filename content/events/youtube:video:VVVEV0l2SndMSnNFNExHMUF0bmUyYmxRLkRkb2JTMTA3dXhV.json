@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Meet DJ Khaled",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DdobS107uxU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1468620870000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2653,8 +2650,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6535171,
-    "likes" : 281799,
-    "comments" : 19385
+    "views" : 6535532,
+    "likes" : 281800,
+    "comments" : 19378
   }
 }

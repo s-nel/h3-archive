@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#172 - Sean Evans",
   "description" : "<p>On this episode of the H3 Podcast we are joined once again by interview king Sean Evans, host of Hot Ones! Together we discuss presidential candidates eating spicy wings, who owns the Hot Ones IP, Bill Burr episodes, Coronavirus, &#34;Wing Gate&#34;, the redemption of DJ Khaled, being star struck by guests, if Ethan could replace Sean, online hate, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MPeas866vs8/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21861,8 +21859,8 @@
     ]
   },
   "metrics" : {
-    "views" : 882383,
-    "likes" : 22113,
-    "comments" : 3476
+    "views" : 883176,
+    "likes" : 22117,
+    "comments" : 3474
   }
 }

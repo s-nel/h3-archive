@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ethan's Corner - Facebook",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vb97DrNDSfM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1522866737000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -409,8 +406,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2526593,
+    "views" : 2526675,
     "likes" : 169508,
-    "comments" : 8899
+    "comments" : 8898
   }
 }

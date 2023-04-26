@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Cringiest Break Up Video",
   "description" : "break up video by okbaby",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/u4n9JLfUSK4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1642397494000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -6576,8 +6573,8 @@
     ]
   },
   "metrics" : {
-    "views" : 730301,
-    "likes" : 30403,
-    "comments" : 6258
+    "views" : 730504,
+    "likes" : 30405,
+    "comments" : 6256
   }
 }

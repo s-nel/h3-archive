@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "JonTron Ruins our Day",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/rrk9s0Rmrls/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1469207525000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1982,8 +1979,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3619542,
-    "likes" : 118542,
-    "comments" : 8201
+    "views" : 3619680,
+    "likes" : 118540,
+    "comments" : 8200
   }
 }

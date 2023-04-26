@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Howie Mandel - H3 Podcast #259",
   "description" : "<p>Today we finally have the sensational Howie Mandel on the podcast! We talk about prolapses, and...well yeah that&#39;s about it</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LW2r-Ta5vVk/default.jpg",
   "tags" : [
   ],
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -12373,8 +12371,8 @@
     ]
   },
   "metrics" : {
-    "views" : 927666,
-    "likes" : 37340,
-    "comments" : 5019
+    "views" : 929056,
+    "likes" : 37358,
+    "comments" : 5016
   }
 }

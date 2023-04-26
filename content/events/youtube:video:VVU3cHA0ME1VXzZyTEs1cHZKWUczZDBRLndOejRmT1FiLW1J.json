@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Spying on Baby Pandas in San Diego",
   "description" : "We travel to San Diego to peep Pandas! appreciate ya\n\nMERCH... http://h3h3shop.com\n\nTwitter......................►https://twitter.com/h3h3productions\nHila's Twitter............►https://twitter.com/hilakleinh3\nSpreadshirt..............►http://h3h3productions.spreadshirt.com\nInstagram................►http://instagram.com/h3h3productions\nHila's Instragram.....►https://www.instagram.com/kleinhila\nWebsite....................►http://h3h3productions.com\nSubreddit.................►http://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wNz4fOQb-mI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1510174198000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1740,8 +1737,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1104197,
-    "likes" : 53530,
-    "comments" : 4175
+    "views" : 1104305,
+    "likes" : 53533,
+    "comments" : 4172
   }
 }

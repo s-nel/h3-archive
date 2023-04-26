@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "20k exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/g_IOgcZZXW4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1403547638000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -277,7 +274,7 @@
     ]
   },
   "metrics" : {
-    "views" : 262199,
+    "views" : 262224,
     "likes" : 5496,
     "comments" : 510
   }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Begging Hila To Take Me Back - After Dark #57",
   "description" : "<p>Today we unveil Dan&#39;s NEW CHAIR!!! We also host an invigorating debate between C-Man the Foot King of New York &amp; someone criticizing his Foot Kingdom, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Qgrev_fH9zM/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21103,8 +21101,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1317092,
-    "likes" : 38011,
-    "comments" : 4368
+    "views" : 1317451,
+    "likes" : 38015,
+    "comments" : 4344
   }
 }

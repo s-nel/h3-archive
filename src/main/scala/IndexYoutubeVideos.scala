@@ -162,6 +162,15 @@ object IndexYoutubeVideos {
     Await.result(fut, 60.minute)
   }
 
+  def loadEventFromContent(eventId: String): Future[EventDoc] = {
+    for {
+      src <- Future(blocking(Source.fromFile(new File(s"content/events/${eventId}.json")).getLines().mkString("\n")))
+      event <- Future.fromTry(decode[EventDoc](src).toTry)
+    } yield {
+      event
+    }
+  }
+
   def loadEventsFromContent(withTranscript: Boolean): Future[List[EventDoc]] = {
     Future.traverse(new File("content/events").listFiles().toList.filter(_.getName.endsWith(".json"))) { file =>
       for {

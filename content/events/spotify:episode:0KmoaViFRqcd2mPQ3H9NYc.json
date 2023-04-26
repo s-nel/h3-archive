@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#141 - YouTube Demonetizes Every Kids Video",
   "description" : "<p>On this episode of The H3 Podcast we discuss Kanye eating his earwax, Jeremy Renner&#39;s weird self-centered app, and YouTube slamming kids channels in the next wave of the adpocalypse!  </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mz-PQIfakGM/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -26913,8 +26911,8 @@
     ]
   },
   "metrics" : {
-    "views" : 771102,
-    "likes" : 19074,
+    "views" : 771135,
+    "likes" : 19076,
     "comments" : 3047
   }
 }

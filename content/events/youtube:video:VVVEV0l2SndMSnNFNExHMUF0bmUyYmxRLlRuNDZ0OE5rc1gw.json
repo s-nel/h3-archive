@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We're at an Important Crossroad in our Lives",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Tn46t8NksX0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1493080612000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1300,8 +1297,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4027147,
-    "likes" : 254936,
-    "comments" : 26025
+    "views" : 4027174,
+    "likes" : 254931,
+    "comments" : 26022
   }
 }

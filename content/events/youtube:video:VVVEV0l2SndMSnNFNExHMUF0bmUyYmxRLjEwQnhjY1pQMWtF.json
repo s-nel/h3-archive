@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Goodbye New York",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/10BxccZP1kE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1471200250000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2994,8 +2991,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2203600,
-    "likes" : 105660,
-    "comments" : 10097
+    "views" : 2203682,
+    "likes" : 105662,
+    "comments" : 10095
   }
 }

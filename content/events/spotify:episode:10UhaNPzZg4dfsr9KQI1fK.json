@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Chelsea Manning - H3 Podcast #252",
   "description" : "<p>On this episode of the H3 Podcast we joined by American hero Chelsea Manning! Together we discuss her incredible life journey, what she&#39;s up to now, her upcoming book, and most importantly what her favorite anime&#39;s are!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SI9jHA2pDMQ/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20978,8 +20976,8 @@
     ]
   },
   "metrics" : {
-    "views" : 780617,
-    "likes" : 26743,
-    "comments" : 2996
+    "views" : 780833,
+    "likes" : 26747,
+    "comments" : 2991
   }
 }

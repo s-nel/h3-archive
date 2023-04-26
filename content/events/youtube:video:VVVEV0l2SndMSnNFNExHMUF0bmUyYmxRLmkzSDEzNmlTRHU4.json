@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Everybody Loves Ethan",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/i3H136iSDu8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1587257253000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -7955,8 +7952,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4565109,
-    "likes" : 374855,
-    "comments" : 67935
+    "views" : 4566649,
+    "likes" : 374865,
+    "comments" : 67907
   }
 }

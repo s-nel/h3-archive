@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#101 - Vsauce (Michael Stevens)",
   "description" : "<p>On this episode of The H3 Podcast we are once again joined by longtime friend of the show- Michael Stevens aka Vsauce! Together we discuss corn, when it&#39;s safe to eat poop, hyper-smart chimps, beards, The Stanford Prison Experiment, robots, hyperspace, multiverse theory, and making babies (among other things). Michael&#39;s show Mind Field just finished it&#39;s 3rd season which you can catch on YouTube Premium!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/HU1_KTNSj7k/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30686,8 +30684,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1556545,
-    "likes" : 40674,
+    "views" : 1556801,
+    "likes" : 40677,
     "comments" : 3849
   }
 }

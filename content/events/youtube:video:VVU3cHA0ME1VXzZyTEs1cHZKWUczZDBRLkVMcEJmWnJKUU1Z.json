@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "My Epic Coachella Vlog 2019",
   "description" : "We actually made it out to #Coachella 2019 this year and it was totally nuts! Surpassed all of our expectations, wow! I hope this helped bring this unbelievable event to life for you because its truly impossible to appreciate the scope and incredibleness of the event without actually being there yourself. So I want to say one more time for the record that coachella rules!!!",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ELpBfZrJQMY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1555349402000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -673,8 +670,8 @@
     ]
   },
   "metrics" : {
-    "views" : 468415,
-    "likes" : 32920,
+    "views" : 468463,
+    "likes" : 32921,
     "comments" : 2353
   }
 }

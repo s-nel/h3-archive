@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Revisiting Rain Florence",
   "description" : "Have you ever considered putting coffee up ya stinker?\n\nCheck out our original reaction video to Rain: https://goo.gl/5iCGQk\n\nTHANKS TO PIDGY FOR THE AMAZING INTRO: \nhttps://www.youtube.com/user/PidgyEdits\n\nCool h3h3 remix song by The Notorious T.A.F.T.:\nhttps://www.youtube.com/watch?v=kVLE9HCkZo8\n\nOriginal theme song by Holder:\nhttps://www.youtube.com/user/strangeholder",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FyxNrC_7syE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1445983892000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3170,8 +3167,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2396864,
-    "likes" : 49258,
+    "views" : 2397099,
+    "likes" : 49261,
     "comments" : 2888
   }
 }

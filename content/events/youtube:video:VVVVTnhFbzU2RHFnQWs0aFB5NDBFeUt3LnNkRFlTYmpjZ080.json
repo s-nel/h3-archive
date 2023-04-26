@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Blaire White Is a Liar",
   "description" : "blaire white made a video about me and so lets talk about it",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sdDYSbjcgO4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1643240398000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -6972,8 +6969,8 @@
     ]
   },
   "metrics" : {
-    "views" : 645167,
-    "likes" : 31610,
-    "comments" : 7553
+    "views" : 645295,
+    "likes" : 31612,
+    "comments" : 7550
   }
 }

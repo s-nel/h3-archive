@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Sold to the Highest Bidder",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eU3WlB15FQY/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1490394215000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1205,8 +1202,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2497906,
-    "likes" : 187894,
-    "comments" : 15181
+    "views" : 2497933,
+    "likes" : 187892,
+    "comments" : 15180
   }
 }

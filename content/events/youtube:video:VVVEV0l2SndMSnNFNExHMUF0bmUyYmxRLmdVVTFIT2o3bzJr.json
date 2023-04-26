@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "H3H3 Prankster Tier List",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gUU1HOj7o2k/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1556991248000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -29,10 +27,9 @@
       "role" : "crew"
     }
   ],
-  "transcription" : null,
   "metrics" : {
-    "views" : 2814000,
-    "likes" : 129555,
+    "views" : 2814160,
+    "likes" : 129558,
     "comments" : 8375
   }
 }

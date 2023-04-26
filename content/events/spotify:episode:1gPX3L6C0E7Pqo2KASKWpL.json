@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#107 - Leaving Neverland & R. Kelly Breakdown",
   "description" : "<p>On this episode of The H3 Podcast we discuss slapping your baby with slices of cheese, more bad instagram chefs, R. Kelly&#39;s crazy interview, the Leaving Neverland documentary, vape nation in extreme places... and SO much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/q73TtQLC-W4/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14934,8 +14932,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1222002,
-    "likes" : 26596,
+    "views" : 1222149,
+    "likes" : 26600,
     "comments" : 4741
   }
 }

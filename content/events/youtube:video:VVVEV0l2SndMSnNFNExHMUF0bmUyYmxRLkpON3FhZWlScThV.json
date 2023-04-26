@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "H3H3 BALL RIDER",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JN7qaeiRq8U/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1536258826000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -497,8 +494,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1771588,
-    "likes" : 85771,
-    "comments" : 11597
+    "views" : 1771656,
+    "likes" : 85768,
+    "comments" : 11600
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#76 - Dunkey & Leah",
   "description" : "<p>On this episode of The H3 Podcast Dunkey, Leah... and of course Hila Klein return to the show! Together with Ethan they discuss DJ Khaled&#39;s performance at the Overwatch League Finals, indifference toward Apple, what&#39;s for dinner, and play Know Your Meme with Dunkey live in the studio providing answers! Dunkey is a well known and loved YouTuber, and more recently rapper, that makes content around video games.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VQQ1hb8ABzM/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34096,8 +34094,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1305841,
-    "likes" : 35699,
-    "comments" : 4621
+    "views" : 1306134,
+    "likes" : 35708,
+    "comments" : 4622
   }
 }

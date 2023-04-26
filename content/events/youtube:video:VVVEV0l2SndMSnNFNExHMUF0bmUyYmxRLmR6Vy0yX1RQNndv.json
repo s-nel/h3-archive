@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Pok̩mon GO Will Kill Your Children",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dzW-2_TP6wo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1469311858000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1674,8 +1671,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5579369,
-    "likes" : 218182,
-    "comments" : 15753
+    "views" : 5579881,
+    "likes" : 218190,
+    "comments" : 15750
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#121 - Beauty Gurus Caught Selling Poison",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/D0WcBOTLVPA/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16404,7 +16402,7 @@
     ]
   },
   "metrics" : {
-    "views" : 1119711,
+    "views" : 1119777,
     "likes" : 30095,
     "comments" : 3747
   }

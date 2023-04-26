@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "peanut buttah exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CnBbQwW0fNA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1378482503000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -185,8 +182,8 @@
     ]
   },
   "metrics" : {
-    "views" : 302242,
-    "likes" : 5245,
+    "views" : 302282,
+    "likes" : 5247,
     "comments" : 162
   }
 }

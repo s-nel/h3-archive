@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Try A Period Pain Simulator, Hasan Owns Andrew Tate, Ace Family Friendship Over - After Dark #78",
   "description" : "<p>Today we all try a period pain simulator and Ethan has a meltdown. We also discuss the virgin Tate vs the chad Hasan, ACE redemption arc potentially being over, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/M3NLg8ZTigQ/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -61456,8 +61454,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1258223,
-    "likes" : 26779,
-    "comments" : 3634
+    "views" : 1258946,
+    "likes" : 26787,
+    "comments" : 3620
   }
 }

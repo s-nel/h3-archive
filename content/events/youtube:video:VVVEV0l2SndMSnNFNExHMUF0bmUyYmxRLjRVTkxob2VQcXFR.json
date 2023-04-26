@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "SoFloAntonio's Facebook Page -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/4UNLhoePqqQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1447454177000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -992,8 +989,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5541732,
-    "likes" : 145109,
-    "comments" : 7053
+    "views" : 5542261,
+    "likes" : 145118,
+    "comments" : 7047
   }
 }

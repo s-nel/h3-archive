@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "This Video is for KIDS ONLY",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/701xgdCzExo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1489275402000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2268,8 +2265,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5972234,
-    "likes" : 233158,
-    "comments" : 17687
+    "views" : 5972678,
+    "likes" : 233162,
+    "comments" : 17682
   }
 }

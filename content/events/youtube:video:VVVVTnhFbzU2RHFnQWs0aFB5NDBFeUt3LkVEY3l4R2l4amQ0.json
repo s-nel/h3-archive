@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Jake Paul Made A New Diss Track",
   "description" : "Jake Paul is back with a diss track on Dana White, what year is it?!",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EDcyxGixjd4/default.jpg",
   "tags" : [
     {
@@ -18,17 +17,15 @@
     }
   ],
   "start_date" : 1643590174000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
       "role" : "host"
     }
   ],
-  "transcription" : null,
   "metrics" : {
-    "views" : 270475,
-    "likes" : 16545,
-    "comments" : 1501
+    "views" : 270479,
+    "likes" : 16544,
+    "comments" : 1500
   }
 }

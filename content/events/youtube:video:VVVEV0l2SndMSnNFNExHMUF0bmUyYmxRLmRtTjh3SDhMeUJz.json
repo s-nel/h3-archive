@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Dangers of Social Media (Boys Edition!) -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dmN8wH8LyBs/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1445727358000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3185,8 +3182,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5763424,
-    "likes" : 145442,
-    "comments" : 7738
+    "views" : 5764408,
+    "likes" : 145445,
+    "comments" : 7732
   }
 }

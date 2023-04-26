@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Your Privacy is at Risk",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/caVEiitI2vg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1467989195000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1036,8 +1033,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4663768,
-    "likes" : 188157,
-    "comments" : 15397
+    "views" : 4663837,
+    "likes" : 188152,
+    "comments" : 15396
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Playing Rick & Morty VR with Justin Roiland",
   "description" : "Rick and Morty is a great show by the great Justin Roiland although the VR is slightly overpriced\n\nPost Malone Dresses me like a Watermelon ►https://goo.gl/nd751N \n\nTwitter......................►https://twitter.com/h3h3productions\nHila's Twitter............►https://twitter.com/hilakleinh3\nSpreadshirt..............►http://h3h3productions.spreadshirt.com\nInstagram................►http://instagram.com/h3h3productions\nHila's Instragram.....►https://www.instagram.com/kleinhila\nWebsite....................►http://h3h3productions.com\nSubreddit.................►http://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1UQlnT9qZvs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1492995720000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1685,8 +1682,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2638528,
-    "likes" : 101423,
-    "comments" : 6464
+    "views" : 2638594,
+    "likes" : 101422,
+    "comments" : 6463
   }
 }

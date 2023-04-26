@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "I Catfished My Kid On TLC",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/e2SUGfXVy4A/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1539290171000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1949,8 +1946,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8509781,
-    "likes" : 479270,
-    "comments" : 47752
+    "views" : 8511851,
+    "likes" : 479295,
+    "comments" : 47750
   }
 }

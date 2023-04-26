@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#188 - When Thotting Goes Wrong & Evidence Of SoFlo Scam Uncovered",
   "description" : "<p>On this episode of the H3 Podcast we have an H3 EXCLUSIVE- will SoFlo&#39;s biggest prank ever result in 10-20 years in federal prison? The gang discuss! Also a twitch &#34;thot&#34; goes Mommy-Dom on her viewers and it&#39;s hilarious. Those stories and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tVe5E05gCqc/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9731,8 +9729,8 @@
     ]
   },
   "metrics" : {
-    "views" : 881154,
-    "likes" : 24295,
-    "comments" : 3609
+    "views" : 881233,
+    "likes" : 24300,
+    "comments" : 3604
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#222 - Content Court: James Charles",
   "description" : "<p>On this edition of CONTENT COURT- Judge Klein goes after his arch nemesis- James Charles! Will he be able to stay unbiased and avoid having to recuse himself? Will AI Ian be able to mount a plausible defense for James&#39; many crimes? Find out now on Content Court: JAMES CHARLES!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_kGTf6LfuJo/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16738,8 +16736,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1300701,
-    "likes" : 37311,
+    "views" : 1303063,
+    "likes" : 37337,
     "comments" : 4360
   }
 }

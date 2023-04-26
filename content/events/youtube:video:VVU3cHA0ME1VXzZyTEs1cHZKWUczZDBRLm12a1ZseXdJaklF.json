@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "h3h3productions full theme song -- Prod. MajorLeagueWobs",
   "description" : "Music by MajorLeagueWobs: \nhttps://soundcloud.com/majorleaguewobs/h3h3productions-theme-song\nhttps://www.youtube.com/user/strangeholder",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mvkVlywIjIE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1409268662000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -79,8 +76,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2834403,
-    "likes" : 83562,
-    "comments" : 7111
+    "views" : 2835262,
+    "likes" : 83573,
+    "comments" : 7106
   }
 }

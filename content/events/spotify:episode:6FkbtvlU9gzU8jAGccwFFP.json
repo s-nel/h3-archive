@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We're Having Twins Or Triplets! - H3 After Dark # 39",
   "description" : "<p>On this episode of H3 After Dark Ethan &amp; Hila get pitched on baby names from the crew, watch some mega cringe TikTok POVs, get a call from the dark professor Jordan Peterson, Triller lying about everything and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Cn2xlYd5oCc/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -37511,8 +37509,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1667684,
-    "likes" : 46211,
-    "comments" : 7611
+    "views" : 1667794,
+    "likes" : 46212,
+    "comments" : 7599
   }
 }

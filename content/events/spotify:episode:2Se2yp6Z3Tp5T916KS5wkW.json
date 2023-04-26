@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha’s Apology & Ace Family Scam - Off The Rails # 3",
   "description" : "<p>Today we discuss the long history of Austin McBroom scams (allegedly), a Britney Spears update, and respond to Trisha Paytas&#39; latest apology video. </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6kNZujESbNI/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25676,8 +25674,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2614194,
-    "likes" : 79116,
-    "comments" : 13059
+    "views" : 2615383,
+    "likes" : 79125,
+    "comments" : 13049
   }
 }

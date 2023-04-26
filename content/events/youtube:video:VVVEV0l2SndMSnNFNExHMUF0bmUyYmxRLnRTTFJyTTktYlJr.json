@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "h3h3 productions Trailer ft. Big Man Tyrone",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tSLRrM9-bRk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1400176407000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -79,8 +76,8 @@
     ]
   },
   "metrics" : {
-    "views" : 785411,
-    "likes" : 36037,
+    "views" : 785483,
+    "likes" : 36036,
     "comments" : 739
   }
 }

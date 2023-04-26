@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Andrew Tate Banned On YouTube & TikTok - H3TV #48",
   "description" : "<p>Today we do a postmortem on Andrew Tate being snapped from the internet (banned on TikTok, YouTube, Twitch, Instagram, Facebook). We also give Triller updates, Kanye selling clothes in trash bags, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/FnZ2MLYKacc/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -60825,8 +60823,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1419131,
-    "likes" : 27044,
-    "comments" : 6323
+    "views" : 1419701,
+    "likes" : 27047,
+    "comments" : 6315
   }
 }

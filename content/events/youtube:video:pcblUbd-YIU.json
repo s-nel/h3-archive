@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Taking The Channel In A New Direction - H3TV #5",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pcblUbd-YIU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1628554385000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "stemple",
@@ -66,7 +64,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30574,8 +30571,8 @@
     ]
   },
   "metrics" : {
-    "views" : 961995,
-    "likes" : 32986,
-    "comments" : 5214
+    "views" : 962152,
+    "likes" : 32988,
+    "comments" : 5207
   }
 }

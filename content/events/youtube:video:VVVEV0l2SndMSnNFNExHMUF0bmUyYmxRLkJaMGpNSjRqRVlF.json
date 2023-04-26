@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The God of Cringe",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/BZ0jMJ4jEYE/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1469749173000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1568,8 +1565,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8922994,
-    "likes" : 397306,
-    "comments" : 17982
+    "views" : 8924020,
+    "likes" : 397309,
+    "comments" : 17976
   }
 }

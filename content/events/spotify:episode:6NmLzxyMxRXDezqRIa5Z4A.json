@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "David Dobrik Blames Jeff Wittek For The Accident - Off The Rails #27",
   "description" : "<p>David Dobrik is finally speaking out regarding the Jeff Wittek accident, and we are going to break it down piece by piece. Also, Love is reporting to us LIVE on the field at the Swedish Embassy AKA Ikea Furniture Store</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9oj17cM1UPQ/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -44889,8 +44887,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1594521,
-    "likes" : 36841,
-    "comments" : 4779
+    "views" : 1595956,
+    "likes" : 36848,
+    "comments" : 4758
   }
 }

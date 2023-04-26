@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : ".exe teaser trailer [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Wn11YXiby2E/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1389560699000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -112,8 +109,8 @@
     ]
   },
   "metrics" : {
-    "views" : 113784,
-    "likes" : 4049,
+    "views" : 113812,
+    "likes" : 4051,
     "comments" : 187
   }
 }

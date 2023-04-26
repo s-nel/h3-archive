@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Blizzard Watch 2016",
   "description" : "Thanks to JonTron for being in our lil video here! https://youtube.com/user/jontronshow\n\nWatch the Ethan and Hila Playlist --► https://goo.gl/79mA9H\n\n\n ***ULTIMATE DUNNIE GIVEAWAY RULES***\nEvery month, we give away one unique, beautiful and luscious dunnie. Here is how to win: \n\nWe post our new videos on Facebook and Twitter, all you need to do is LIKE AND SHARE/RETWEET each video to be eligible to win. At the end of the month we will randomly select one post from either Facebook or Twitter and then choose one random person who liked and shared that chosen post to win. The more you like/share, the higher chance you have of winning.\n\nAt the end of every month we will announce the winner on the \"Ethan and Hila\" channel and message you on Facebook or Twitter.",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6YVSgwhm8zM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1453661517000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1201,8 +1198,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1123745,
-    "likes" : 37297,
+    "views" : 1123862,
+    "likes" : 37298,
     "comments" : 3473
   }
 }

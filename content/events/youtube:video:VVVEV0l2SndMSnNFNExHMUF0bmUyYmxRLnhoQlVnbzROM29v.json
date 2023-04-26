@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Enema Tutorial -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xhBUgo4N3oo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1402780839000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1091,8 +1088,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3964249,
-    "likes" : 78804,
+    "views" : 3964613,
+    "likes" : 78808,
     "comments" : 3608
   }
 }

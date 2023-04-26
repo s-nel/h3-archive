@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#131 - Ninja And The End Of Twitch",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AH4m_aTgsFQ/default.jpg",
   "tags" : [
     {
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25245,8 +25243,8 @@
     ]
   },
   "metrics" : {
-    "views" : 934409,
-    "likes" : 23359,
-    "comments" : 4339
+    "views" : 934439,
+    "likes" : 23360,
+    "comments" : 4340
   }
 }

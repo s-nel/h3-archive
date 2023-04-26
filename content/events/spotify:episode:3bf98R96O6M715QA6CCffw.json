@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Possibily Our Last Episode - Frenemies #3",
   "description" : "<p>On this episode of Frenemies Trisha explains that Ethan annoyed her enough that she is thinking about quitting. Also we talk about her music video shoot, Anthony Padilla, Gabbie Hanna, Ethan&#39;s milkers, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/b35iUxkPazY/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11495,8 +11493,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2962530,
-    "likes" : 77320,
-    "comments" : 15711
+    "views" : 2967334,
+    "likes" : 77366,
+    "comments" : 15705
   }
 }

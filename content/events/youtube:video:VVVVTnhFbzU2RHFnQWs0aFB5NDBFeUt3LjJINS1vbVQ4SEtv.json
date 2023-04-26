@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Nikocado Avocado Is Scaring Me",
   "description" : "Nikocado Avocado reacts to me reacting to him reacting to me reacting to him",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2H5-omT8HKo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1642600800000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5124,8 +5121,8 @@
     ]
   },
   "metrics" : {
-    "views" : 396326,
-    "likes" : 17535,
+    "views" : 396348,
+    "likes" : 17536,
     "comments" : 3412
   }
 }

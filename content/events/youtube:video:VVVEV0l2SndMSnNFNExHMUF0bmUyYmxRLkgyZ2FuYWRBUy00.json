@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Joey Salads -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/H2ganadAS-4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1461868491000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1938,8 +1935,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6033837,
-    "likes" : 159524,
-    "comments" : 6665
+    "views" : 6035067,
+    "likes" : 159533,
+    "comments" : 6666
   }
 }

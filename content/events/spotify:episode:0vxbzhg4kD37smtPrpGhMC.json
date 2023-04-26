@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Olivia Explains Selena Gomez Drama To A Room Full Of Haters - Off The Rails #66",
   "description" : "<p>Today we take the biggest deep dive into the Justin Bieber/Hailey Bieber/Selena Gomez dramapocalypse with the powerpoint to end all powerpoints. We also discuss the Angel Reese basketball drama, Sneako calling out Ethan, Andrew Tate&#39;s big L after leaving prison, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Hqsy1PmeO1o/default.jpg",
   "tags" : [
     {
@@ -90,7 +89,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53489,8 +53487,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1273865,
-    "likes" : 26997,
-    "comments" : 3403
+    "views" : 1463261,
+    "likes" : 27723,
+    "comments" : 3422
   }
 }

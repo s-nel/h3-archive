@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Kim K Confronted Me In NY This Weekend - H3TV #11",
   "description" : "<p>Today we dig into wild chiropractor stories, testing Zach&#39;s ability to determine if a noise is a fart based purely on the waveform, and...Kim Kardashian confronted Ethan?!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CONlQOBiHq8/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23754,8 +23752,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1406963,
-    "likes" : 29066,
-    "comments" : 3790
+    "views" : 1407358,
+    "likes" : 29070,
+    "comments" : 3782
   }
 }

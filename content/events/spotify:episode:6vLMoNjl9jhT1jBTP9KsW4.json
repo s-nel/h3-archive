@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Mr. Verified Contest - Off the Rails #9",
   "description" : "<p>On today&#39;s episode, we decide who is the biggest clout fiend with MR VERIFIED! A competition of wit, style, and performance as the crew all vie to determine who deserves to receive the coveted blue checkmark on social media. You&#39;re not gonna want to miss this one!</p><p><br /></p><p>VOTE HERE: https://www.easypolls.net/poll.html?p&#61;6126aa4fe4b0edb4ef70e4bd</p><p><br /></p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/btR1WbNWzKc/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15588,8 +15586,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1069624,
-    "likes" : 34679,
-    "comments" : 5676
+    "views" : 1070241,
+    "likes" : 34688,
+    "comments" : 5671
   }
 }

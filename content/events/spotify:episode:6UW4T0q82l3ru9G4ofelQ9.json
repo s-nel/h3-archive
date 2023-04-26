@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#64 - Jacksfilms and Erik",
   "description" : "<p>On this extremely special episode of The H3 Podcast the boiz are back in the studio with us to discuss EVERYTHING. We talk about Jack&#39;s wedding, the Kanye controversy, Cosby&#39;s sentencing, detoxing from social media, watch lots of cringe videos... and have a phone interview with Kyle The Cougar Champ from our recent h3h3 video &#34;This 31 Year Old Slam Dunks On A 91 Year Old Grandma&#34;.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OcQl2ra57ME/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -71815,8 +71813,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6033925,
-    "likes" : 40243,
-    "comments" : 4935
+    "views" : 6034038,
+    "likes" : 40244,
+    "comments" : 4934
   }
 }

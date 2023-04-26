@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Our Lives Are About To Change Forever",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JNpKUp5FTeY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1558468583000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1333,8 +1330,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3979367,
-    "likes" : 250167,
-    "comments" : 21902
+    "views" : 3979608,
+    "likes" : 250164,
+    "comments" : 21899
   }
 }

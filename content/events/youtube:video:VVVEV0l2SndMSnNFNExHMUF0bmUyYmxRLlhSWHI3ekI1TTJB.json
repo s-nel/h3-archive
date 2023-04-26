@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Used to be Drug Dealers",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/XRXr7zB5M2A/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1486860385000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3643,8 +3640,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8374062,
-    "likes" : 478456,
-    "comments" : 31438
+    "views" : 8374631,
+    "likes" : 478473,
+    "comments" : 31435
   }
 }

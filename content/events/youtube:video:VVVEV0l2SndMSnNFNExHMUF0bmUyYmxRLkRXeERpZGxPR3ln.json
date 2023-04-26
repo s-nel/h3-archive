@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "VitalyzdTv -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DWxDidlOGyg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1427225722000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1366,8 +1363,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5030514,
-    "likes" : 116139,
-    "comments" : 3311
+    "views" : 5030858,
+    "likes" : 116143,
+    "comments" : 3310
   }
 }

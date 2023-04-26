@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Morons Of Coronavirus",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jLIPA621fQI/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1585085322000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1733,8 +1730,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4945966,
-    "likes" : 310751,
-    "comments" : 31386
+    "views" : 4946556,
+    "likes" : 310750,
+    "comments" : 31373
   }
 }

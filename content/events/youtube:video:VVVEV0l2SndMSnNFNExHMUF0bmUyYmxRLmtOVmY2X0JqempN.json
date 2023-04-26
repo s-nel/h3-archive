@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "It's Time to Stop Lance Stewart",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kNVf6_BjzjM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1497036358000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2444,8 +2441,8 @@
     ]
   },
   "metrics" : {
-    "views" : 11629387,
-    "likes" : 426932,
-    "comments" : 25005
+    "views" : 11630442,
+    "likes" : 426934,
+    "comments" : 24994
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Interview with Joey Salads",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/7Q23t41UnZk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1476992500000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2334,8 +2331,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4533546,
-    "likes" : 198979,
-    "comments" : 37364
+    "views" : 4533749,
+    "likes" : 198982,
+    "comments" : 37365
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Cultural Appropriation Has Gone Too Far",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NvdDKjy-87w/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1525050029000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1784,8 +1781,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3794431,
-    "likes" : 307588,
-    "comments" : 24438
+    "views" : 3794555,
+    "likes" : 307585,
+    "comments" : 24437
   }
 }

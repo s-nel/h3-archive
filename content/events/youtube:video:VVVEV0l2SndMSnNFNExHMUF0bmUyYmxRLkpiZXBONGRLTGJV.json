@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "warm it up exe That's a 10! [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JbepN4dKLbU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1368396501000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -130,8 +127,8 @@
     ]
   },
   "metrics" : {
-    "views" : 14271687,
-    "likes" : 253647,
-    "comments" : 4616
+    "views" : 14276123,
+    "likes" : 253713,
+    "comments" : 4621
   }
 }

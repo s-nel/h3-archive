@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "jesus exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CwOLcab9Zmk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1433444628000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -255,8 +252,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1079763,
-    "likes" : 25369,
-    "comments" : 1284
+    "views" : 1079817,
+    "likes" : 25370,
+    "comments" : 1283
   }
 }

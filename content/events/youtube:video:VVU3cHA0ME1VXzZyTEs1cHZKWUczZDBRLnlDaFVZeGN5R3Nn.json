@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "it's so great",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yChUYxcyGsg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1407416695000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -376,8 +373,8 @@
     ]
   },
   "metrics" : {
-    "views" : 555209,
-    "likes" : 16876,
+    "views" : 555266,
+    "likes" : 16878,
     "comments" : 501
   }
 }

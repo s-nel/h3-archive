@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Shane Dawson, Jeffree Star, Emma Chamberlain - Off The Rails #26",
   "description" : "<p>Today we discuss Emma Chamberlain&#39;s YouTube announcement, the long-awaited reunion of Jeffree Star &amp; Shane Dawson the dynamic duo, we make our own cringe POVs, and our latest beef with Rollo Tony Brown Town starts heating up.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AoBAiEK2Hug/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -53048,8 +53046,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1882990,
-    "likes" : 44685,
-    "comments" : 3060
+    "views" : 1884162,
+    "likes" : 44687,
+    "comments" : 3052
   }
 }

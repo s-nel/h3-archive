@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The New Host Of Frenemies Is…",
   "description" : "<p>...</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3CEMfve0fb8/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34662,8 +34660,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2990467,
-    "likes" : 172735,
-    "comments" : 26964
+    "views" : 2991037,
+    "likes" : 172731,
+    "comments" : 26947
   }
 }

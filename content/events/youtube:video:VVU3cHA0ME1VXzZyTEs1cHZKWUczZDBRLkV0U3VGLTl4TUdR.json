@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Trapped in Israel",
   "description" : "Hey we're back missed you guys\n\nSean's Channel ► https://goo.gl/BfjstB\n\nFacebook..................►https://facebook.com/H3h3productions\nHila's Twitter..............►https://twitter.com/hilakleinh3\nEthan's Twitter..........►https://twitter.com/h3h3productions\nInstagram.................►http://instagram.com/h3h3productions\nHila's Instragram....►https://www.instagram.com/kleinhila\nSpreadshirt...............►http://h3h3productions.spreadshirt.com\nHila's Art....................►http://hilaklein.com\nSubreddit..................►http://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\nMusic by Otis McDonald",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/EtSuF-9xMGQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1484073724000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4138,8 +4135,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2036582,
-    "likes" : 70395,
-    "comments" : 8203
+    "views" : 2036788,
+    "likes" : 70398,
+    "comments" : 8201
   }
 }

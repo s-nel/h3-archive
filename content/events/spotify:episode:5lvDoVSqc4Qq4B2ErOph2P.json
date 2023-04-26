@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#169 - The End Of An Era",
   "description" : "<p>On this extremely special episode of The H3 Podcast we take a look at all the best and worst moments of the podcast in the year 2019 (and one in 2018 because Ethan doesn&#39;t play by anyone&#39;s rules but his own). Come take a journey through the past with us and reexperience the many highs and lows of the greatest podcast in the world (the H3 Podcast).</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DzjVGrSyPP0/default.jpg",
   "tags" : [
     {
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -26066,8 +26064,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1169818,
-    "likes" : 23594,
-    "comments" : 3279
+    "views" : 1169918,
+    "likes" : 23593,
+    "comments" : 3270
   }
 }

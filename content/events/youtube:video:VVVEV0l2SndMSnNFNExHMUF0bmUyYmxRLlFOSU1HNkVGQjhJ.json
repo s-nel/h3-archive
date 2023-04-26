@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "When Texting turns to Sexting, A News Report -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QNIMG6EFB8I/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1409859395000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3104,8 +3101,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4706640,
-    "likes" : 106447,
-    "comments" : 7069
+    "views" : 4707200,
+    "likes" : 106456,
+    "comments" : 7068
   }
 }

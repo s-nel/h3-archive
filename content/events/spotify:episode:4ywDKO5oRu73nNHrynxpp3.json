@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Cheese Mukbang Disaster - Frenemies #9",
   "description" : "<p>On this episode of Frenemies Ethan and Trish return after a week off due to Ethan&#39;s COVID scare- and they celebrate with one of both of their favorite activities- EATING! Over food they discuss what they&#39;ve been up to lately, if cow&#39;s milk is pus, jews, Trisha and Moses&#39; relationship, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Jc4IqcoNN60/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -36887,8 +36885,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3179962,
-    "likes" : 80440,
-    "comments" : 16639
+    "views" : 3185030,
+    "likes" : 80479,
+    "comments" : 16630
   }
 }

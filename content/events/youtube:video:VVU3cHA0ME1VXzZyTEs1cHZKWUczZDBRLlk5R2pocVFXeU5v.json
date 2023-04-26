@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "At home",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Y9GjhqQWyNo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1423518302000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -233,8 +230,8 @@
     ]
   },
   "metrics" : {
-    "views" : 263370,
-    "likes" : 8844,
-    "comments" : 314
+    "views" : 263418,
+    "likes" : 8846,
+    "comments" : 316
   }
 }

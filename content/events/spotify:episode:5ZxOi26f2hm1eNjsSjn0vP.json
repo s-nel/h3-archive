@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Jake Paul & Triller Are Suing Me - H3 After Dark # 35",
   "description" : "<p>On this episode of H3 After Dark Ethan Hila and the gang discuss Ethan&#39;s new lawsuit, Former President Trump calls in to discuss his budding friendship with Jake Paul, an end comes to the saga of the chair... with a twist, and White Claw Gabe calls in!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uw0c45OwQV0/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -58232,8 +58230,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2077408,
-    "likes" : 47073,
-    "comments" : 6350
+    "views" : 2077517,
+    "likes" : 47072,
+    "comments" : 6344
   }
 }

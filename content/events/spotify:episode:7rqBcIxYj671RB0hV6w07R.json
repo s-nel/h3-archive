@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Surprise Reunion For 2nd Annual Steamies",
   "description" : "<p>You asked- we delivered. Folks... it is time for the 2nd annual STEAMIES, featuring a VERY special surprise guest... &#x1f440;</p><p><br /></p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/daxr0SkHQm0/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -32165,8 +32163,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1535414,
-    "likes" : 58529,
-    "comments" : 7220
+    "views" : 1535804,
+    "likes" : 58531,
+    "comments" : 7212
   }
 }

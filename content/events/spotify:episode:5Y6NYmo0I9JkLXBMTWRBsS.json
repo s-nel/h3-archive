@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "xQc Returns To Gamba, Jordan Peterson, Elon Musk - Leftovers #14",
   "description" : "<p>Today we dig into xQc&#39;s return to gamba, Jordan Peterson getting ratio&#39;d off Twitter, Elon Musk coming out as Republican, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/spxzJiAnzBI/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -13733,8 +13731,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1035947,
-    "likes" : 24637,
-    "comments" : 1977
+    "views" : 1036348,
+    "likes" : 24645,
+    "comments" : 1972
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I Got Hand Enlargement Surgery - Off The Rails #19",
   "description" : "<p>Ethan has big hands now, or at least bigger than what they were because his hands have always been large and proportional. We also discuss our worst breakup stories, &amp; play Extreme Makeover: BATHROOM EDITION where we pitch our ultimate bathroom experience!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hY0x8d3QWDA/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -36818,8 +36816,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1026955,
-    "likes" : 30227,
-    "comments" : 3596
+    "views" : 1027513,
+    "likes" : 30237,
+    "comments" : 3590
   }
 }

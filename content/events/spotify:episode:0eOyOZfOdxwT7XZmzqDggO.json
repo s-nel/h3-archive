@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#113 - Prank Invasion Gets DUNKED On & Dj Khaled Returns",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila talk about Prank Invasion&#39;s cringey twitter tirade, home defense fantasies, Dj Colonel Sanders, DJ Khaled&#39;s return, the French Papa John&#39;s resistance, Lil Xan drooling on himself, Kim Kardashian&#39;s sink, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PdRHWOp-aq4/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29367,8 +29365,8 @@
     ]
   },
   "metrics" : {
-    "views" : 778606,
-    "likes" : 17622,
-    "comments" : 2046
+    "views" : 778664,
+    "likes" : 17623,
+    "comments" : 2043
   }
 }

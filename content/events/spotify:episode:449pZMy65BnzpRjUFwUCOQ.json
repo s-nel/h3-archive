@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha Quits the Podcast & Storms Out - Frenemies #13",
   "description" : "<p>Trisha &amp; Ethan try some celebrity beauty tips for a few minutes before getting into a giant fight and ending the show early.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9XLd81tC-uQ/default.jpg",
   "tags" : [
     {
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21333,8 +21331,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4464901,
-    "likes" : 118220,
-    "comments" : 61647
+    "views" : 4472724,
+    "likes" : 118292,
+    "comments" : 61635
   }
 }

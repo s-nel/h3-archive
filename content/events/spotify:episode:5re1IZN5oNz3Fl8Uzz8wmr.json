@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Tried The Nastiest Food On Earth - Off The Rails #13",
   "description" : "<p>On this episode of H3 Off The Rails Ethan tries the Lil Huddy meal (aka Chase Hudson, the least famous person on TiKTok&#39;s meal), and bust Ethan&#39;s chops with some epic dunks from the subreddit.</p><p>On this episode we decided not to include our main segment, the Silent Library, as there is really nothing of value to be gained from listening to the audio as it is a mainly visual segment. If you&#39;d like to watch the silent library, it&#39;s available on YouTube at: https://youtu.be/r3TZwHQMND8?t&#61;2748</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/r3TZwHQMND8/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17693,8 +17691,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1474746,
-    "likes" : 52619,
-    "comments" : 7640
+    "views" : 1475509,
+    "likes" : 52629,
+    "comments" : 7633
   }
 }

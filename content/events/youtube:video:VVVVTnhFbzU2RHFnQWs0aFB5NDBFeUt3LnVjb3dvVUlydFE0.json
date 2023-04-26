@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Goodwill Creeper - Cringe Curator",
   "description" : "http://teddyfresh.com/\n\nOriginal video: https://www.tiktok.com/@jaycie444/video/7010917399721463046",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ucowoUIrtQ4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1644929854000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1142,8 +1139,8 @@
     ]
   },
   "metrics" : {
-    "views" : 316976,
-    "likes" : 18915,
-    "comments" : 2213
+    "views" : 317084,
+    "likes" : 18916,
+    "comments" : 2212
   }
 }

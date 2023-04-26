@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Financial Gurus Of Tiktok Are Giving HORRIBLE Advice",
   "description" : "the finance bro is a new breed on tiktok giving out horrible advice and simping for billionaires",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SqxrwkPs52Y/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1641958904000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -8919,8 +8916,8 @@
     ]
   },
   "metrics" : {
-    "views" : 386397,
-    "likes" : 17305,
+    "views" : 386434,
+    "likes" : 17304,
     "comments" : 1798
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "This Episode Will Be Erased In 24 Hours - H3TV #37",
   "description" : "<p>This episode is literally the worst episode of the H3 Podcast of all time (not clickbait)</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GtITnfBQ2Ck/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28084,8 +28082,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1137031,
+    "views" : 1137241,
     "likes" : 27020,
-    "comments" : 3407
+    "comments" : 3392
   }
 }

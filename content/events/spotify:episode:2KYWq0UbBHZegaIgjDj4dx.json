@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Tim Pool & Keemstar Dark Alliance, Beans On Toast - Off The Rails #33",
   "description" : "<p>Today we have AB&#39;s boxing coach, Lucky Boy, to share his incredible story of moving from Nigeria to pursue boxing around the globe. We also discuss the cursed team-up of Tim Pool/Keemstar, an update to the beans on toast debate with a vegemite twist, an unexpected return of the Fika Fish, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/nnKBeuxk_bg/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -42356,8 +42354,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1127173,
-    "likes" : 32910,
-    "comments" : 3963
+    "views" : 1127454,
+    "likes" : 32913,
+    "comments" : 3953
   }
 }

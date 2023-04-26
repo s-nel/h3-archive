@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#176 - Jake Paul's New Scam",
   "description" : "<p>On this episode of the H3 Podcast the gang discuss Jake Paul&#39;s new scam and his cure for anxiety, veggie burgers vs the real deal, Ethan grills the crew on if they are ass or tit guys, and we discuss Logan making borderline porn content on YouTube!</p> <p> </p> <ul><li><a href=\"https://youtu.be/IFclsY5NBlc\" rel=\"nofollow\">Jake&#39;s scam pitch</a></li><li><a href=\"https://www.youtube.com/watch?v&#61;ZVkY9PjqIXc\" rel=\"nofollow\">Logan&#39;s Lana Rhodes video</a></li><li><a href=\"https://financialfreedommovement.com/\" rel=\"nofollow\">Jake&#39;s scam website</a></li></ul><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/X9bdbCGiSJ8/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -18480,8 +18478,8 @@
     ]
   },
   "metrics" : {
-    "views" : 980702,
+    "views" : 980738,
     "likes" : 23225,
-    "comments" : 5328
+    "comments" : 5324
   }
 }

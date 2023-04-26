@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "MY GIRL IS LEAVING ME FOR THIS GUY",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uqWUfTsEEOE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1486249593000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3489,8 +3486,8 @@
     ]
   },
   "metrics" : {
-    "views" : 9356782,
-    "likes" : 292514,
-    "comments" : 22267
+    "views" : 9357938,
+    "likes" : 292520,
+    "comments" : 22265
   }
 }

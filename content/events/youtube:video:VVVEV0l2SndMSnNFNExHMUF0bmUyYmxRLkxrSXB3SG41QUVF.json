@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Hand Model -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LkIpwHn5AEE/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1423165952000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1766,8 +1763,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2983700,
-    "likes" : 66025,
-    "comments" : 2692
+    "views" : 2983937,
+    "likes" : 66029,
+    "comments" : 2696
   }
 }

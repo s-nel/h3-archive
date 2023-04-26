@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Meet Tai Lopez",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VQTfyuEdNfo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1492035339000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -7372,8 +7369,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5156258,
-    "likes" : 235377,
-    "comments" : 22979
+    "views" : 5156541,
+    "likes" : 235382,
+    "comments" : 22974
   }
 }

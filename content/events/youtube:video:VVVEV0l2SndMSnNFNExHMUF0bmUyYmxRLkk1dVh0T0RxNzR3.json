@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Where have we been?",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/I5uXtODq74w/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1515797047000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1234,8 +1231,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3965205,
-    "likes" : 292445,
-    "comments" : 29273
+    "views" : 3965259,
+    "likes" : 292441,
+    "comments" : 29270
   }
 }

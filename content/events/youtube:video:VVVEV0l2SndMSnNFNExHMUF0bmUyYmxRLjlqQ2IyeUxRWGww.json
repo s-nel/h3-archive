@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "goats exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9jCb2yLQXl0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1368793743000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -141,8 +138,8 @@
     ]
   },
   "metrics" : {
-    "views" : 363894,
-    "likes" : 7408,
+    "views" : 363932,
+    "likes" : 7409,
     "comments" : 161
   }
 }

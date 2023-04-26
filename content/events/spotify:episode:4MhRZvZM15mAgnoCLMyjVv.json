@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trump’s New Social Media Platform Is Already A Disaster - Leftovers #5",
   "description" : "<p>On this episode of Leftovers the boys discuss if sex work is work, why people say all cops are bad, and Trump&#39;s brand new social media venture (twitter close) is absolutely demolished within hours of being announced!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VPoKMwsSDVI/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -25990,8 +25988,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1130674,
-    "likes" : 32593,
-    "comments" : 5019
+    "views" : 1131380,
+    "likes" : 32604,
+    "comments" : 5014
   }
 }

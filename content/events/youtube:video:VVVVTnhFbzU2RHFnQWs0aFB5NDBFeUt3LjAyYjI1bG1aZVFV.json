@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How To Ruin Your Life In One Minute (Ft. Smoothie Guy)",
   "description" : "smoothie guy speed run",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/02b25lmZeQU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1643119200000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2429,8 +2426,8 @@
     ]
   },
   "metrics" : {
-    "views" : 395245,
-    "likes" : 20533,
+    "views" : 395263,
+    "likes" : 20534,
     "comments" : 3605
   }
 }

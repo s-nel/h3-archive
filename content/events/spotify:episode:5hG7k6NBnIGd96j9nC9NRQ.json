@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "iDubbbz Calls In, Howie Goes Against The Family, Massive Coachella Fail - Off The Rails #68",
   "description" : "<p>Today we have iDubbbz and Anisa calling in to discuss Creator Clash! We also chat about some of the craziest YouTube fraud we&#39;ve seen, the latest Coachella debacle, Howie&#39;s betrayal, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QsIeIEJcS30/default.jpg",
   "tags" : [
     {
@@ -33,15 +32,7 @@
       "role" : "crew"
     },
     {
-      "person_id" : "olopes",
-      "role" : "crew"
-    },
-    {
       "person_id" : "aayad",
-      "role" : "crew"
-    },
-    {
-      "person_id" : "love",
       "role" : "crew"
     },
     {
@@ -57,28 +48,35 @@
       "role" : "crew"
     },
     {
-      "person_id" : "zlouis",
-      "role" : "crew"
-    },
-    {
       "person_id" : "islater",
       "role" : "crew"
     },
     {
-      "person_id": "ijomha",
-      "role": "guest"
+      "person_id" : "ajomha",
+      "role" : "guest"
     },
     {
-      "person_id": "ajomha",
-      "role": "guest"
+      "person_id" : "olopes",
+      "role" : "crew"
     },
     {
-      "person_id": "hmandel",
-      "role": "topic"
+      "person_id" : "ijomha",
+      "role" : "guest"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hmandel",
+      "role" : "topic"
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27275,8 +27273,8 @@
     ]
   },
   "metrics" : {
-    "views" : 172657,
-    "likes" : 8630,
-    "comments" : 375
+    "views" : 778646,
+    "likes" : 18690,
+    "comments" : 2140
   }
 }

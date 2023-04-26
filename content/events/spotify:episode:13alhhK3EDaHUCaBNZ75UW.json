@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Regarding Trisha Quitting Frenemies",
   "description" : "<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CmkFNIjcNFw/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4456,8 +4454,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5445149,
-    "likes" : 276886,
-    "comments" : 72121
+    "views" : 5451739,
+    "likes" : 276916,
+    "comments" : 72075
   }
 }

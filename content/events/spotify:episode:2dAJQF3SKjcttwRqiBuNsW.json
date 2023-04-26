@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Hila Is Back... And She's Being Sued - H3 After Dark # 45",
   "description" : "<p>On this episode of H3 After Dark HILA IS BACK!!!!!!!!!!!!!!!!!!! Together we discuss Hila getting sued by Ryan KavKav, DaBaby being a homophobe, Lovebot 2.0, and a whole lot more!!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/SXxSAyvkYH4/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21664,8 +21662,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1686251,
-    "likes" : 40717,
-    "comments" : 3952
+    "views" : 1686387,
+    "likes" : 40718,
+    "comments" : 3935
   }
 }

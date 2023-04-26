@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "hot kitchen",
   "description" : "a little video we made last year but sean ruined it",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3kcZsoHAphE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1408047016000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -387,7 +384,7 @@
     ]
   },
   "metrics" : {
-    "views" : 88060,
+    "views" : 88071,
     "likes" : 4778,
     "comments" : 194
   }

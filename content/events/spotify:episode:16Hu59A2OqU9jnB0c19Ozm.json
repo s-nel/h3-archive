@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#152 - Trisha Paytas",
   "description" : "<p>On this episode of the H3 Podcast we are joined by YouTuber, camgirl, provocateur, and frequent subject of Ethan&#39;s ridicule: Trisha Paytas! Together they discuss trolling, being trans, mukbang... and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_Ud00nah_n4/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11623,8 +11621,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3624757,
-    "likes" : 106309,
-    "comments" : 31664
+    "views" : 3627595,
+    "likes" : 106327,
+    "comments" : 31640
   }
 }

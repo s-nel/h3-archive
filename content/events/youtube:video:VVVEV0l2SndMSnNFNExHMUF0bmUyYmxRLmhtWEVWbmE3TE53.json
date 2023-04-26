@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How to get a Date on Tinder",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hmXEVna7LNw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1472170486000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3335,8 +3332,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5692997,
-    "likes" : 221414,
-    "comments" : 11976
+    "views" : 5693513,
+    "likes" : 221420,
+    "comments" : 11975
   }
 }

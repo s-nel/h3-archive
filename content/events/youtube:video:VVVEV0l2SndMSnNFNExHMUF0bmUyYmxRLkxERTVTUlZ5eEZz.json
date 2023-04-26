@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Why is Facebook Content SO Bad?!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LDE5SRVyxFs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1470504848000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1421,8 +1418,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6273806,
+    "views" : 6274268,
     "likes" : 275826,
-    "comments" : 22094
+    "comments" : 22084
   }
 }

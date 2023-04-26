@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How Can a Cooking Show be this Sad?!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Xtrsh4U_GCY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1470846499000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1509,8 +1506,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8321925,
-    "likes" : 276123,
-    "comments" : 25040
+    "views" : 8322999,
+    "likes" : 276142,
+    "comments" : 25038
   }
 }

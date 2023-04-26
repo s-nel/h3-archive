@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#65 - Logan Paul Slammed On Twitter & Ethan Quits Social Media",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila return from their week in social media exile! Together we discuss Logan Paul and Chris D&#39;Elia&#39;s twitter spat, we listen to voice mails, Hila sends the news, and we are joined in the studio by Chaos Chaos for a musical performance!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YCYSWUeA8W8/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34657,8 +34655,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1316935,
-    "likes" : 29545,
+    "views" : 1316960,
+    "likes" : 29546,
     "comments" : 3336
   }
 }

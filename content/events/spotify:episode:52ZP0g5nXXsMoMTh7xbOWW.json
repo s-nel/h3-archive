@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The ACE Family Scammed Us, Oliver Tree - H3TV #32",
   "description" : "<p>Today is a packed episode! We have a mini awards show for Oliver Tree, Good Mythical Morning superchef Josh Scherer brings us his attempt at a Swedish kebab pizza, Ethan&#39;s parents call in, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yd6_HqM4wy0/default.jpg",
   "tags" : [
     {
@@ -90,7 +89,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23745,8 +23743,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1081085,
-    "likes" : 32716,
-    "comments" : 5815
+    "views" : 1081463,
+    "likes" : 32722,
+    "comments" : 5812
   }
 }

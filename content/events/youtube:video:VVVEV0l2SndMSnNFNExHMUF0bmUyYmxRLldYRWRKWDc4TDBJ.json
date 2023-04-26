@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Real Life 34 Year Old Virgin",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WXEdJX78L0I/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1502403205000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3262,8 +3259,8 @@
     ]
   },
   "metrics" : {
-    "views" : 10076549,
-    "likes" : 329910,
-    "comments" : 36346
+    "views" : 10077586,
+    "likes" : 329922,
+    "comments" : 36341
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Nature Valley Rediscover Nature -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LUHQnZUDh3I/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1440718906000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -981,8 +978,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4477575,
-    "likes" : 107776,
+    "views" : 4478045,
+    "likes" : 107780,
     "comments" : 6674
   }
 }

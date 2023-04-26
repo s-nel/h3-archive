@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Return of Prank Invasion",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/levGiU1xL28/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1481656686000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3988,8 +3985,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7867615,
-    "likes" : 247168,
-    "comments" : 15773
+    "views" : 7869038,
+    "likes" : 247174,
+    "comments" : 15772
   }
 }

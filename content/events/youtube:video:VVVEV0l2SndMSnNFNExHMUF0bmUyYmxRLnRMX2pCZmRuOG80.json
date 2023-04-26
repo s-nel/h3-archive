@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Eviction I (Part 1 of 3)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tL_jBfdn8o4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1398031244000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -310,8 +307,8 @@
     ]
   },
   "metrics" : {
-    "views" : 187697,
-    "likes" : 4019,
+    "views" : 187738,
+    "likes" : 4020,
     "comments" : 214
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#114 - Endgame Review, KFC Ruins H3 Podcast, Fast Food Power Rankings",
   "description" : "<p>On this episode of The H3 Podcast we discuss our new arch nemesis Colonel Douchebag, draft our fast food power tier list, get a report on Ian&#39;s pilgrimage to see Kanye at Coachella, Hila reviews fan submitted terrible tattoos, and we discuss Avengers: Endgame (spoiler warning!)</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DsWSC9Sa3PI/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -40498,8 +40496,8 @@
     ]
   },
   "metrics" : {
-    "views" : 865065,
+    "views" : 865126,
     "likes" : 19404,
-    "comments" : 3953
+    "comments" : 3952
   }
 }

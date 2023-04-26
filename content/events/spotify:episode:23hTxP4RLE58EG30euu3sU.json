@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#138 - PewDiePie Hits 100M & James Charles Gets Hacked",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WZQ16RjoFIU/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11297,8 +11295,8 @@
     ]
   },
   "metrics" : {
-    "views" : 990974,
-    "likes" : 27732,
-    "comments" : 4242
+    "views" : 991017,
+    "likes" : 27733,
+    "comments" : 4240
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I’m Selling Vape Nation - H3 Podcast # 239",
   "description" : "<p>On this episode of the H3 Podcast Ethan and da bois discuss the NFT phenomenon, Papa&#39;s latest goof, All Gas No Breaks getting screwed, and a whole lot more!</p> <p>NFT&#39;s: https://opensea.io/collection/h3h3-nft</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/zfWQpaPGW4g/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -17388,8 +17386,8 @@
     ]
   },
   "metrics" : {
-    "views" : 912437,
-    "likes" : 26323,
-    "comments" : 7289
+    "views" : 912512,
+    "likes" : 26324,
+    "comments" : 7276
   }
 }

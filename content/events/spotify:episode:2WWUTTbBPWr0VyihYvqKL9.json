@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#179 - Ethan Ruins the H3 Podcast",
   "description" : "<p>Ethan owns up to being a ruthless tyrant of a boss (not really) but we discuss the backlash to the last episode- but don&#39;t worry it&#39;s not all serious... we&#39;ve got some great goofs and gaffs too baybaaaaaay!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/39jND-GYG34/default.jpg",
   "tags" : [
     {
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14879,8 +14877,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1005281,
-    "likes" : 34617,
-    "comments" : 8194
+    "views" : 1005347,
+    "likes" : 34618,
+    "comments" : 8190
   }
 }

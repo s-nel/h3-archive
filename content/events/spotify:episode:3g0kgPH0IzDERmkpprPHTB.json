@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Olivia Does Our Makeup, Nikita Dragun, David Dobrik - After Dark #89",
   "description" : "<p>Today we finally do the long-awaited Olivia makeup tutorial! We also discuss David Dobrik&#39;s new pizza parlor mishap, the continued destruction of Twitter, the sad situation regarding Nikita Dragun, &amp; much more.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OKvP1K2OuLk/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -32144,8 +32142,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1405707,
-    "likes" : 26612,
-    "comments" : 3809
+    "views" : 1427766,
+    "likes" : 26654,
+    "comments" : 3802
   }
 }

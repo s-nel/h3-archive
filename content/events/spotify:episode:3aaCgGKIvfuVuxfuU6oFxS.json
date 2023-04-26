@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Frenemies #1 - Trisha's New Boyfriend Is Hila's Brother",
   "description" : "<p>Welcome to episode #1 of our new venture- Frenemies, a podcast hosted by Ethan Klein and Trisha Paytas. Together Ethan and Trisha discuss her budding romance with Hila&#39;s brother Moses, STDs, OnlyFans, insane stalkers, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Mtblz3KPYT0/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -9339,8 +9337,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3642062,
-    "likes" : 111068,
-    "comments" : 14919
+    "views" : 3648112,
+    "likes" : 111136,
+    "comments" : 14909
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "YouTube Invited us to New York to Talk",
   "description" : "We flew to New York to speak with YouTube at the Creator Summit 2017\n\nINSTAGRAM......http://instagram.com/h3h3productions\nMERCH...............http://h3h3productions.spreadshirt.com\n\n\nTwitter......................►https://twitter.com/h3h3productions\nHila's Twitter............►https://twitter.com/hilakleinh3\nSpreadshirt..............►http://h3h3productions.spreadshirt.com\nInstagram................►http://instagram.com/h3h3productions\nHila's Instragram.....►https://www.instagram.com/kleinhila\nWebsite....................►http://h3h3productions.com\nSubreddit.................►http://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cStDReU_0pw/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1494172150000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2004,8 +2001,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1816665,
-    "likes" : 81658,
-    "comments" : 6543
+    "views" : 1816777,
+    "likes" : 81659,
+    "comments" : 6541
   }
 }

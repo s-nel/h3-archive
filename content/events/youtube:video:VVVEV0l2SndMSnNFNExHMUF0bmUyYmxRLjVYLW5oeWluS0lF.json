@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "What is h3h3productions?",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5X-nhyinKIE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1408835977000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -101,8 +98,8 @@
     ]
   },
   "metrics" : {
-    "views" : 333484,
-    "likes" : 11774,
+    "views" : 333505,
+    "likes" : 11775,
     "comments" : 419
   }
 }

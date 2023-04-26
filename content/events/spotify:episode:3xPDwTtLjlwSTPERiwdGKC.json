@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Jeff Whittek Interview Fallout - Frenemies # 27",
   "description" : "<p>On this episode of Frenemies Ethan and Trisha debrief about their bombshell interview with Jeff last episode and all the fallout that has come from it!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JHUfQXheOrs/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19093,8 +19091,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4568453,
-    "likes" : 116645,
-    "comments" : 20636
+    "views" : 4573973,
+    "likes" : 116669,
+    "comments" : 20583
   }
 }

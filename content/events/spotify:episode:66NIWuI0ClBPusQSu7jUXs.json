@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The Fate Of Frenemies With Dr. Drew - Frenemies #14",
   "description" : "<p>On this final episode of Frenemies for 2020 Dr. Drew and his associate Dr. Mark Young join us for a little psychological analysis as we try and navigate the troubled friendship of Ethan &amp; Trisha. Will they be able to find some understanding? Or is Frenemies done forever?</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jByWaMDVF1w/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -19251,8 +19249,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3365436,
-    "likes" : 86061,
-    "comments" : 37448
+    "views" : 3369356,
+    "likes" : 86082,
+    "comments" : 37437
   }
 }

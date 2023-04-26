@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "AMONG US WITH DUNKEY, GUS JOHNSON, EDDY BURBACK, LEAH, H3H3",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VPNt-VBpizo/default.jpg",
   "tags" : [
   ],
@@ -14,7 +13,6 @@
     }
   ],
   "start_date" : 1604362385000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "aayad",
@@ -42,7 +40,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -8605,8 +8602,8 @@
     ]
   },
   "metrics" : {
-    "views" : 487063,
-    "likes" : 19293,
-    "comments" : 1647
+    "views" : 487295,
+    "likes" : 19294,
+    "comments" : 1646
   }
 }

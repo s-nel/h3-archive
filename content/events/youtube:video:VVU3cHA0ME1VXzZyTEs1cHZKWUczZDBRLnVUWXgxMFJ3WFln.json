@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ethan Klein of h3h3Productions caught on film abusing his wife Hila Klein",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uTYx10RwXYg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1412370566000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -530,8 +527,8 @@
     ]
   },
   "metrics" : {
-    "views" : 783002,
-    "likes" : 26121,
+    "views" : 783062,
+    "likes" : 26124,
     "comments" : 1976
   }
 }

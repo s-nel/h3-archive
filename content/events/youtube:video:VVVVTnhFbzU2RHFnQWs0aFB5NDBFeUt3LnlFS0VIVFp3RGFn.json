@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Brendan Schaub Hates Free Speech",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yEKEHTZwDag/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1652171763000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1406,7 +1403,7 @@
     ]
   },
   "metrics" : {
-    "views" : 377745,
+    "views" : 377762,
     "likes" : 22184,
     "comments" : 3489
   }

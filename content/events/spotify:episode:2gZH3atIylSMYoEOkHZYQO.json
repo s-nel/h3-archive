@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Gets Black Pilled - Leftovers #16",
   "description" : "<p>Today we discuss the importance of steroids, Jordan Peterson getting way too horny, a recap of the worst meme show on the internet, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LBCEZEni_5Q/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27409,8 +27407,8 @@
     ]
   },
   "metrics" : {
-    "views" : 970566,
-    "likes" : 23897,
-    "comments" : 1910
+    "views" : 971925,
+    "likes" : 23914,
+    "comments" : 1911
   }
 }

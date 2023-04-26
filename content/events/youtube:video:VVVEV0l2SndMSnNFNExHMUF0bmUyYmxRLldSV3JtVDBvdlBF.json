@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ubuntu causes girl to drop out of college -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WRWrmT0ovPE/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1416502790000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -706,8 +703,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5888050,
-    "likes" : 140984,
+    "views" : 5888489,
+    "likes" : 140990,
     "comments" : 11161
   }
 }

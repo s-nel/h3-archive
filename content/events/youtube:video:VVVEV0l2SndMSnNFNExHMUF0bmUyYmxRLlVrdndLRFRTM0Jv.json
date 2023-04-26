@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How Pranksters Are Ruining Society...",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/UkvwKDTS3Bo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1476831093000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1135,8 +1132,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5850353,
-    "likes" : 288909,
-    "comments" : 32806
+    "views" : 5850917,
+    "likes" : 288912,
+    "comments" : 32804
   }
 }

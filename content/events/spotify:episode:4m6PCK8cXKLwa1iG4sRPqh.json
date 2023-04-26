@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Bella Poarch - H3 Podcast # 247",
   "description" : "<p>Today we interview Bella Poarch! We discuss growing up in the Philippines, her time in the Navy, her incredible rise to Tik Tok stardom and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2jFIQr_cVz4/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11954,8 +11952,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2827097,
-    "likes" : 142161,
-    "comments" : 15746
+    "views" : 2827765,
+    "likes" : 142177,
+    "comments" : 15736
   }
 }

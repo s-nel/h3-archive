@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Big, the BOLD, the Beautiful (Re-Upload)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CXUs5FOo-JE/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1503541392000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3603,8 +3600,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8047867,
-    "likes" : 531597,
-    "comments" : 33736
+    "views" : 8048879,
+    "likes" : 531599,
+    "comments" : 33734
   }
 }

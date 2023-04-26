@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Dan Quit The Show - Off The Rails #53",
   "description" : "<p>Today, we have some sad news...Dan quit. We debrief, and after grieving we cover some other topics including Poot Lovato, an Amouranth update, James Corden being a menace to Earth, and much more.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Hj7Tx9D8G-s/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23854,8 +23852,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1320773,
-    "likes" : 28258,
-    "comments" : 5959
+    "views" : 1321562,
+    "likes" : 28270,
+    "comments" : 5936
   }
 }

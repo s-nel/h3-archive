@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Thank You",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9HMzwFl5OLY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1483394637000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3907,8 +3904,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2439197,
-    "likes" : 189704,
-    "comments" : 10262
+    "views" : 2439224,
+    "likes" : 189698,
+    "comments" : 10260
   }
 }

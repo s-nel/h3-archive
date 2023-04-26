@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#66 - YouTube Is Doomed, 30 Year Old Mall Ninja Evicted & Kendrick Lamar",
   "description" : "<p>On this episode of The H3 Podcast Hila is out of town so instead Erik is here as a substitute carer for Ethan. Together they discuss the future of YouTube, the fate of the 30 year old mall ninja evictee, the recent school shooting incidents, and Kendrick Lamar&#39;s ill advised choice to bring a white fan up on stage to perform one of his tracks!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/kDI8dD4vReE/default.jpg",
   "tags" : [
   ],
@@ -38,7 +37,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49774,8 +49772,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1579299,
-    "likes" : 28749,
-    "comments" : 3592
+    "views" : 1579332,
+    "likes" : 28748,
+    "comments" : 3590
   }
 }

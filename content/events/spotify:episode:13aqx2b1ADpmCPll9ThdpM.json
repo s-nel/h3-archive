@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ben Shapiro & The Daily Wire Are Hateful Little Manlets - Leftovers #17",
   "description" : "<p>Today we go over the absolute meltdown over Disney&#39;s &#34;gay agenda&#34;, The Daily Wire&#39;s hateful new documentary, Ben Shapiro losing his mind over a child being happy, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/yhuHmFHgdx0/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35509,8 +35507,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1715461,
-    "likes" : 27532,
-    "comments" : 4658
+    "views" : 1716544,
+    "likes" : 27548,
+    "comments" : 4657
   }
 }

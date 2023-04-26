@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Man vs Machine Game, Teddy Fresh Controversy, Howie Mandel Meme Competition - After Dark #77",
   "description" : "<p>Today we conduct a modern day John Henry vs the Steam Engine with our very own Cam putting his photoshop skills to the test against the Dall-E 2 AI. We also have Sam bring in her brand new recipe the Howie Mandolapse donuts, and we address the latest situation regarding Teddy Fresh.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VHkpIXco8Ks/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -47199,8 +47197,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1147289,
-    "likes" : 23193,
-    "comments" : 2353
+    "views" : 1148341,
+    "likes" : 23198,
+    "comments" : 2350
   }
 }

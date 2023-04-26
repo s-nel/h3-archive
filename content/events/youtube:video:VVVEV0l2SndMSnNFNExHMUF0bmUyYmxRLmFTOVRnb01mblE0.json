@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Cameron Carpenter exe [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aS9TgoMfnQ4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1412008840000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -222,8 +219,8 @@
     ]
   },
   "metrics" : {
-    "views" : 382627,
-    "likes" : 7148,
+    "views" : 382652,
+    "likes" : 7147,
     "comments" : 519
   }
 }

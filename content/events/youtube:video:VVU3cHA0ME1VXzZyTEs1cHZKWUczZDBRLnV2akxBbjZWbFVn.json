@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "xtra rekt",
   "description" : "Music by the king Holder: https://www.youtube.com/user/strangeholder",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uvjLAn6VlUg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1408302986000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46,7 +43,7 @@
     ]
   },
   "metrics" : {
-    "views" : 132070,
+    "views" : 132119,
     "likes" : 5507,
     "comments" : 324
   }

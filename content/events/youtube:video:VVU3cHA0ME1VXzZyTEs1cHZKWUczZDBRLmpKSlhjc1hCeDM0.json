@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Play Ourselves in Payday 2!!",
   "description" : "We're in the ultimate video game, Payday 2!!\nYou can grab it here:\nhttp://store.steampowered.com/app/758420/PAYDAY_2_h3h3_Character_Pack/",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/jJJXcsXBx34/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1511744644000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14214,8 +14211,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1449937,
-    "likes" : 38306,
+    "views" : 1450000,
+    "likes" : 38307,
     "comments" : 2667
   }
 }

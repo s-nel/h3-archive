@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Huge Twitch Drama (actually a crime, not drama)",
   "description" : "Good read regarding false accusations\nhttps://www.nsvrc.org/sites/default/files/2012-03/Publications_NSVRC_Overview_False-Reporting.pdf",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/y1UFizfmJe4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1673082640000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -6807,8 +6804,8 @@
     ]
   },
   "metrics" : {
-    "views" : 401057,
-    "likes" : 17606,
+    "views" : 401101,
+    "likes" : 17605,
     "comments" : 3175
   }
 }

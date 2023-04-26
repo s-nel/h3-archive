@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha & Ethan Fight About The Election - Frenemies #8",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trisha stumble their way through conversation about election day! Also more on Trisha&#39;s drama with James Charles and pretty much everyone else on the internet!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Cms9D7om3gk/default.jpg",
   "tags" : [
     {
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -33070,8 +33068,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3036945,
-    "likes" : 76854,
-    "comments" : 19721
+    "views" : 3041105,
+    "likes" : 76888,
+    "comments" : 19722
   }
 }

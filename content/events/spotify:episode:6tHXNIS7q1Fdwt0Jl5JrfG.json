@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "It's Time For War... I've Never Been So Offended - H3TV #47",
   "description" : "<p>Today we go to war yet again. This time on two separate fronts, H3 vs Jidion and Jimmie Lee vs Arab World News. We also try meat from AB&#39;s childhood butcher, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/IFfxLKkYh8Q/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -54643,8 +54641,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1028070,
-    "likes" : 24503,
-    "comments" : 3289
+    "views" : 1028678,
+    "likes" : 24513,
+    "comments" : 3275
   }
 }

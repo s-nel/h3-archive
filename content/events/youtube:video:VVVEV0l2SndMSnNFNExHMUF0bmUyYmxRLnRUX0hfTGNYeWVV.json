@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "YOU WILL BE AMAZED Ft. Dude Perfect",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tT_H_LcXyeU/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1480980079000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3500,8 +3497,8 @@
     ]
   },
   "metrics" : {
-    "views" : 9132712,
-    "likes" : 265984,
-    "comments" : 18638
+    "views" : 9133439,
+    "likes" : 265990,
+    "comments" : 18634
   }
 }

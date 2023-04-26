@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#82 - Tim Heidecker",
   "description" : "<p>On this episode of The H3 Podcast we&#39;re joined in the studio by Tim Heidecker! Together we discuss his incredible multi-media project On Cinema, his big break with Bob Odenkirk, transitioning between comedy and dramatic acting, and what his dad&#39;s like. Tim Heidecker is a comedian, musician, actor, and the co-founder of Abso Lutely Productions and a huge inspiration to h3h3productions! Thanks for coming by Tim!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dpxirs9L8Cw/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -23873,8 +23871,8 @@
     ]
   },
   "metrics" : {
-    "views" : 687485,
-    "likes" : 17355,
-    "comments" : 3326
+    "views" : 687627,
+    "likes" : 17356,
+    "comments" : 3325
   }
 }

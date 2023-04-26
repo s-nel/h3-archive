@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
   "description" : "<p>On this episode of LEFTOVERS, Ethan &amp; Hasan discuss Crowder&#39;s big issue with a black James Bond, Tim Pool being a giant liar, fake masks, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/bnjJkVcayac/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27578,8 +27576,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1532638,
-    "likes" : 52927,
-    "comments" : 7305
+    "views" : 1537134,
+    "likes" : 52963,
+    "comments" : 7299
   }
 }

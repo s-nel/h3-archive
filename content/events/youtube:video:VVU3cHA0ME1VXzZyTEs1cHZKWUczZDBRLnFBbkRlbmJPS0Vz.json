@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Found The Beanie God",
   "description" : "Thank you guys so much for joining us.��_��_ So nice to be back on Ethan and Hila!\n\nThis Weird City is Freaking Me Out �м https://goo.gl/UZkrDr\n\nTwitter......................�мhttps://twitter.com/h3h3productions\nHila's Twitter............�мhttps://twitter.com/hilakleinh3\nSpreadshirt..............�мhttp://h3h3productions.spreadshirt.com\nInstagram................�мhttp://instagram.com/h3h3productions\nHila's Instragram.....�мhttps://www.instagram.com/kleinhila\nWebsite............,.......�мhttp://h3h3productions.com\nSubreddit.................�мhttp://reddit.com/r/h3h3productions\n\n\nMusic by Otis McDonald",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qAnDenbOKEs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1485279363000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1828,8 +1825,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1609047,
-    "likes" : 59720,
-    "comments" : 3209
+    "views" : 1609121,
+    "likes" : 59721,
+    "comments" : 3208
   }
 }

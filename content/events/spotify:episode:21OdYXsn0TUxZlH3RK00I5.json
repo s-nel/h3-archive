@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Kim, Kanye, And Pete - After Dark #68",
   "description" : "<p>Today we discuss the Kanye-Kim-Pete drama triangle and subsequent fallout. We also have a few interesting callers, starting with a man who may be a little TOO intimate with jars of peanut butter and an astrologer comes on to tell us about our star charts! Will Ethan be convinced to believe in the power of the astro-signs? Find out on this episode of AFTER DARK.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_VovzI50yC4/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -69544,8 +69542,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2305020,
-    "likes" : 37575,
-    "comments" : 7290
+    "views" : 2318933,
+    "likes" : 37600,
+    "comments" : 7282
   }
 }

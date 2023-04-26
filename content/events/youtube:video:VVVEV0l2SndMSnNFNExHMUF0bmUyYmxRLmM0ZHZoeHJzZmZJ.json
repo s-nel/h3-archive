@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "MattyB Juicy -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/c4dvhxrsffI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1426363775000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -574,8 +571,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7245575,
-    "likes" : 172127,
-    "comments" : 7939
+    "views" : 7245981,
+    "likes" : 172132,
+    "comments" : 7936
   }
 }

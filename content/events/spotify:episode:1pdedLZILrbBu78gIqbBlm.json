@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The 2022 Sound Bite Tournament - After Dark #92",
   "description" : "<p>Today is the competition to end all competitions...the SOUNDBITE TOURNAMENT. We recap all the best soundbites of the year, and battle it out in a winner-takes-all clash!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GgwXXGtUCgE/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -71311,8 +71309,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1310966,
-    "likes" : 30152,
-    "comments" : 2304
+    "views" : 1312697,
+    "likes" : 30173,
+    "comments" : 2297
   }
 }

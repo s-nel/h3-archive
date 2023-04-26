@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha Birthday Celebration - Frenemies # 34",
   "description" : "<p>On this episode of Frenemies we celebrate Trisha&#39;s birthday with costumes, gifts, cake, trivia, drama, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2-sRFyE2Dcw/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15481,8 +15479,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4267468,
-    "likes" : 122184,
-    "comments" : 18153
+    "views" : 4274976,
+    "likes" : 122205,
+    "comments" : 18146
   }
 }

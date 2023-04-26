@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "My Epic Collab With Pewdiepie!!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/qjYxXg4wZDg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1486584224000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3885,8 +3882,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7915414,
-    "likes" : 359405,
-    "comments" : 19852
+    "views" : 7915960,
+    "likes" : 359414,
+    "comments" : 19850
   }
 }

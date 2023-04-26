@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "I'm Cancelled - H3TV #13",
   "description" : "<p>Today, Ethan is in absolute shambles...he has finally been tragically CANCELLED.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VUSyVSyRkPM/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -45717,8 +45715,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1474248,
-    "likes" : 41844,
-    "comments" : 3467
+    "views" : 1474585,
+    "likes" : 41851,
+    "comments" : 3460
   }
 }

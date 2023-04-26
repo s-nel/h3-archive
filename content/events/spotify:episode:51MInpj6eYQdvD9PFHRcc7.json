@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Squid Game IN REAL LIFE - Off The Rails #14",
   "description" : "<p>We dig into the best self-defense techniques, Demi Lovato&#39;s alien adventures, and the Squid Game phenomenon. Let&#39;s just j u m p r i g h t i n t o i t</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wtOzt-oLZ3Q/default.jpg",
   "tags" : [
     {
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28000,8 +27998,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1221643,
-    "likes" : 33690,
-    "comments" : 6107
+    "views" : 1221987,
+    "likes" : 33691,
+    "comments" : 6099
   }
 }

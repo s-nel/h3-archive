@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#54 - Vsauce3 (Jake Roper)",
   "description" : "<p>On this episode of The H3 Podcast we are joined by the illustrious Jake Roper, aka Vsauce3! We cover the creative process, Beme, space travel, and of course- sounding. Jake Roper aka Vsauce 3 is a YouTuber and director who makes fascinating videos exploring science, technology, and fictional worlds.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tgeZfmSeqXk/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -16558,7 +16556,7 @@
     ]
   },
   "metrics" : {
-    "views" : 931122,
+    "views" : 931159,
     "likes" : 19889,
     "comments" : 1917
   }

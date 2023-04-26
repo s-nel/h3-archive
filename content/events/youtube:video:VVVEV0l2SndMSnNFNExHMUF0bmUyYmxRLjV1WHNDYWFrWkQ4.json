@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "It's Time To Stop Ajit Pai",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5uXsCaakZD8/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1513454437000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1652,8 +1649,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7133072,
-    "likes" : 439212,
-    "comments" : 31718
+    "views" : 7133505,
+    "likes" : 439211,
+    "comments" : 31714
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Elon Musk Forced To Buy Twitter, Herschel Walker Walked Her To The Clinic - Leftovers #27",
   "description" : "<p>Today we get called out by the NELK boys, Herschel Walker aborts his campaign, Ethan and Hasan discuss a potential Bill Burr collab, Elon Musk backtracks on his Twitter deal, Ron DeSantis has some new boots, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wwVJoZqn7e0/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -34619,8 +34617,8 @@
     ]
   },
   "metrics" : {
-    "views" : 845762,
-    "likes" : 19454,
-    "comments" : 1268
+    "views" : 848043,
+    "likes" : 19474,
+    "comments" : 1269
   }
 }

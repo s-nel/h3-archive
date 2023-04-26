@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Saying Goodbye To YouTube",
   "description" : "<p>On this episode of H3 Off The Rails Ethan reaffirms his commitment to the YouTube platform FOREVER. Ethan and the team discuss Joe Rogan&#39;s big mommy milkers, try Popeye&#39;s unforgettable chicken nuggies, give some more unpopular opinions, Dan refuses to stand up, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/sm39YIin0FU/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -40510,8 +40508,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1465766,
-    "likes" : 38311,
-    "comments" : 8311
+    "views" : 1465979,
+    "likes" : 38314,
+    "comments" : 8309
   }
 }

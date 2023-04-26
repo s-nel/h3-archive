@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#97 - Jack Black & Kyle Gass (Tenacious D)",
   "description" : "<p>On this episode of The H3 Podcast we are joined by the greatest band in the history of all music ever- Tenacious D! Together we discuss latkes, circumcision, their origins with the Mr. Show crew, Jack mentoring Justin Roiland, and  SO much more! Jack and Kyle&#39;s new animated feature film and album, Post-Apocalypto, are available now! You can watch Post-Apocalypto free on <a href=\"https://tenaciousd.com/\" rel=\"nofollow\">https://tenaciousd.com/</a></p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/oVxQdMh5FEw/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -12078,8 +12076,8 @@
     ]
   },
   "metrics" : {
-    "views" : 962018,
-    "likes" : 36942,
-    "comments" : 3048
+    "views" : 962723,
+    "likes" : 36964,
+    "comments" : 3047
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Logan Paul Ain’t Coming Back From This - Off The Rails #57",
   "description" : "<p>Today we do a David Dobrik pizza review, review one of the most cringe TikTok accounts of all time, discuss the latest development in the Coffeezilla Logan Paul drama, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/txuivldLEzo/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -65115,8 +65113,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1298533,
-    "likes" : 22551,
-    "comments" : 2301
+    "views" : 1305915,
+    "likes" : 22567,
+    "comments" : 2279
   }
 }

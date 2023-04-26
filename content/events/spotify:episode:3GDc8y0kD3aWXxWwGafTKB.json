@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Wake Up America - Off The Rails #37",
   "description" : "<p>Our hearts are too heavy for goofs and gaffs today- Donate to help support the victims and their families here: https://www.gofundme.com/f/mtdrdc-texas-elementary-school-shooting-victims-fund</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DHLaFRO1lNQ/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -21143,8 +21141,8 @@
     ]
   },
   "metrics" : {
-    "views" : 766983,
-    "likes" : 27840,
-    "comments" : 4679
+    "views" : 767116,
+    "likes" : 27844,
+    "comments" : 4656
   }
 }

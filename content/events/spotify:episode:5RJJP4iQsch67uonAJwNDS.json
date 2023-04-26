@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Shane's Husband Confirms The Cat Story? - After Dark #54",
   "description" : "<p>It&#39;s Friday baby, &amp; we&#39;ve got a lot to talk about...we respond to some past comments from YouTuber Jamari, Bezos sent Captain Kirk to space, we put Ethan&#39;s marshmellow-catching skills to the test, &amp;...Ryland Adams confirms the cat story? </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eioZLqucKU4/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29347,8 +29345,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2454794,
-    "likes" : 42849,
-    "comments" : 6260
+    "views" : 2461726,
+    "likes" : 42874,
+    "comments" : 6249
   }
 }

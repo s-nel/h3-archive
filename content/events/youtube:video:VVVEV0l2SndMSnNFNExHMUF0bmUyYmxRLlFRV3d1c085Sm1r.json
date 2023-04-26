@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "forever rekt",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QQWwusO9Jmk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1413476137000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -299,8 +296,8 @@
     ]
   },
   "metrics" : {
-    "views" : 488034,
-    "likes" : 14161,
+    "views" : 488086,
+    "likes" : 14162,
     "comments" : 1128
   }
 }

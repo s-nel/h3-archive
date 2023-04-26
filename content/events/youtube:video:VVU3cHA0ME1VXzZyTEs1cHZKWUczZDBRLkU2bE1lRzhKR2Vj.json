@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "CENSORSHIP ON YOUTUBE: PART TWO",
   "description" : "Full Screen did the right thing but there is still a huge problem with Networks on YouTube.",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/E6lMeG8JGec/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1438898300000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2543,8 +2540,8 @@
     ]
   },
   "metrics" : {
-    "views" : 497328,
-    "likes" : 21353,
+    "views" : 497350,
+    "likes" : 21352,
     "comments" : 999
   }
 }

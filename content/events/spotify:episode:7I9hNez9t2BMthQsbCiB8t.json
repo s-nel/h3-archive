@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Tana Mongeau - H3 Podcast #266",
   "description" : "<p>Today we are joined by none other than Tana Mongeau! This is our first solo interview with Tana, and we really jump into it. From her start in YouTube, to her upbringing, to her current success and relationships, we discuss it all!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TsHmmkK8mQA/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28242,8 +28240,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1821409,
-    "likes" : 48387,
-    "comments" : 3924
+    "views" : 1835724,
+    "likes" : 48576,
+    "comments" : 3923
   }
 }

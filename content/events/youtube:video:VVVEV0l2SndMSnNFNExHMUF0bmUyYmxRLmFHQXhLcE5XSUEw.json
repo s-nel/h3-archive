@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Jake Paul Corrects Our Grammar",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/aGAxKpNWIA0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1501618030000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2598,8 +2595,8 @@
     ]
   },
   "metrics" : {
-    "views" : 10104850,
+    "views" : 10105440,
     "likes" : 418080,
-    "comments" : 24749
+    "comments" : 24745
   }
 }

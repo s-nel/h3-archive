@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "EXPERIMENT Glowing 1000 degree KNIFE ft iDubbbzTV",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/gherdHE_HDo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1483213148000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5638,8 +5635,8 @@
     ]
   },
   "metrics" : {
-    "views" : 12919632,
-    "likes" : 544486,
-    "comments" : 28834
+    "views" : 12922128,
+    "likes" : 544521,
+    "comments" : 28829
   }
 }

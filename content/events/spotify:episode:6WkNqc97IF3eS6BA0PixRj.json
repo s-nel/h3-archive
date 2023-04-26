@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#180 - Big Ed Puts Mayo In Zach's Hair",
   "description" : "<p>On this episode of the H3 Podcast we are joined by BIG ED THA GOAT- living legend and hair-care extraordinaire! Beside giving Zach a hands on lesson in mayo application we also talk literal gaffe&#39;s from some of our favorite politicans and Dan sends news! </p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/dn0c1-TaHSQ/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11579,8 +11577,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1105221,
+    "views" : 1105335,
     "likes" : 29897,
-    "comments" : 4701
+    "comments" : 4697
   }
 }

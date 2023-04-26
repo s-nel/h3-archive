@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "VAPE NATION",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Dkm8Hteeh6M/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1458604374000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -794,8 +791,8 @@
     ]
   },
   "metrics" : {
-    "views" : 29079420,
-    "likes" : 775514,
-    "comments" : 51891
+    "views" : 29086065,
+    "likes" : 775610,
+    "comments" : 51893
   }
 }

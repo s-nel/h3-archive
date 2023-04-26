@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "I'm Being Targeted",
   "description" : "DarkViperAU has written a 14 page meticulous essay about me",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Mk3LuoJKSdg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1644562510000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3243,8 +3240,8 @@
     ]
   },
   "metrics" : {
-    "views" : 472704,
+    "views" : 472739,
     "likes" : 21365,
-    "comments" : 3417
+    "comments" : 3416
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Talking About Gabbie Hanna - Frenemies # 39",
   "description" : "<p>The curse of Fester/Dominos strikes again...</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/poqMtuBVHU4/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -15643,8 +15641,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5367433,
-    "likes" : 107375,
-    "comments" : 71596
+    "views" : 5374544,
+    "likes" : 107429,
+    "comments" : 71542
   }
 }

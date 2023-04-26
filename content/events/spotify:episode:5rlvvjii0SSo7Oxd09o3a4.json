@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ryan Kavanaugh Just Filed His Third Lawsuit Against Me",
   "description" : "<p>Ryan Kavanaugh did what????</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QobESzsbh6M/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -40272,8 +40270,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1753595,
-    "likes" : 46233,
-    "comments" : 4570
+    "views" : 1755448,
+    "likes" : 46240,
+    "comments" : 4558
   }
 }

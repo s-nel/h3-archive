@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Revolutionary A.I. Vape",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/wS8a5as4d-I/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1538072848000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1084,8 +1081,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4846993,
-    "likes" : 325250,
-    "comments" : 25811
+    "views" : 4847576,
+    "likes" : 325258,
+    "comments" : 25806
   }
 }

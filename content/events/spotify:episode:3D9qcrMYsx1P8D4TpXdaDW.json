@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Families Reunion!",
   "description" : "<p>DONARCHS RISE UP!!! The Families reunion episode is here!!! We catch up with the Klein&#39;s, the crusade to save the butterflies, we see who can cook the ultimate latke, and Gary and Donna go head to head in a heated game of Halo slayer!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6eKA1zsLvSM/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -10546,8 +10544,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1137494,
-    "likes" : 45596,
-    "comments" : 7671
+    "views" : 1138394,
+    "likes" : 45606,
+    "comments" : 7662
   }
 }

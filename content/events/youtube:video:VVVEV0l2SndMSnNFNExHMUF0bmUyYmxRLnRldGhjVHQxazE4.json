@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Owe you Guys an Explanation...",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/tethcTt1k18/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1476574754000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2994,8 +2991,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3852351,
-    "likes" : 175080,
-    "comments" : 22823
+    "views" : 3852383,
+    "likes" : 175078,
+    "comments" : 22824
   }
 }

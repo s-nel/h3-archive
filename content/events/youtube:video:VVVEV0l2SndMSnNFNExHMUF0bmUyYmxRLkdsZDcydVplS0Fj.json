@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "ASMR Has Gone Way Too Far",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Gld72uZeKAc/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1586381801000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1685,8 +1682,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3070134,
-    "likes" : 186720,
-    "comments" : 39449
+    "views" : 3070961,
+    "likes" : 186732,
+    "comments" : 39446
   }
 }

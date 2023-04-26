@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Making Music with Post Malone",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/YTBJxZx3AZI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1485730906000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -4435,8 +4432,8 @@
     ]
   },
   "metrics" : {
-    "views" : 10348030,
-    "likes" : 586853,
-    "comments" : 20901
+    "views" : 10348818,
+    "likes" : 586860,
+    "comments" : 20900
   }
 }

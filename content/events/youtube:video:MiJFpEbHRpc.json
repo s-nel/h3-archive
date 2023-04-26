@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The American Meltdown - H3 Podcast #230",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MiJFpEbHRpc/default.jpg",
   "tags" : [
   ],
@@ -14,7 +13,6 @@
     }
   ],
   "start_date" : 1609978385000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "dswerdlove",
@@ -42,7 +40,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46027,8 +46024,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1375823,
-    "likes" : 35093,
-    "comments" : 4985
+    "views" : 1375995,
+    "likes" : 35097,
+    "comments" : 4967
   }
 }

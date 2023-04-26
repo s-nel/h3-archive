@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ben Shaprio Endorses Mass Murder - Leftovers #3",
   "description" : "<p>On this episode of Leftovers Ethan and Hasan get into the weeds of what seperates their outlook on how economics should work, The Quartering is big mad so Ethan introduces Hasan to &#34;I just peed in my basement&#34;, and we examine the question &#34;are there not enough Jews in hollywood?&#34;</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/vjluqyN7SNk/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -32275,8 +32273,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1867207,
-    "likes" : 53948,
-    "comments" : 9557
+    "views" : 1871225,
+    "likes" : 53978,
+    "comments" : 9547
   }
 }

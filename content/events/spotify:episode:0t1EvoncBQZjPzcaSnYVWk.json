@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#140 - Mick West",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9LmxvrxDjvA/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29707,8 +29705,8 @@
     ]
   },
   "metrics" : {
-    "views" : 702430,
-    "likes" : 15138,
+    "views" : 702462,
+    "likes" : 15139,
     "comments" : 3368
   }
 }

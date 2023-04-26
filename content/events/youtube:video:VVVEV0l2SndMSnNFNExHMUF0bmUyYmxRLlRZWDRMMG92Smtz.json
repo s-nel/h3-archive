@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Punk Rocker",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/TYX4L0ovJks/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1388435285000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -420,8 +417,8 @@
     ]
   },
   "metrics" : {
-    "views" : 111308,
-    "likes" : 4211,
+    "views" : 111358,
+    "likes" : 4212,
     "comments" : 266
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#102 - A Lot Happened While We Were Gone...",
   "description" : "<p>On this episode of The H3 Podcast the gang covers all the happenings and goings-on of the past month while we were on break! We talk about the Kevin Hart Oscar controversy, R. Kelly and Fyre Festival documentaries, Kevin Spacey&#39;s bizarre YouTube video, Gillette&#39;s toxic masculinity ad, and Sandra Bullocks love of Korean baby foreskin!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/B29sPyBo3_I/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28772,8 +28770,8 @@
     ]
   },
   "metrics" : {
-    "views" : 929942,
-    "likes" : 21642,
+    "views" : 930032,
+    "likes" : 21644,
     "comments" : 2422
   }
 }

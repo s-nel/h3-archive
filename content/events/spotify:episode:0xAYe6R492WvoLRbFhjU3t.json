@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#145 - We Actually Stormed Area 51",
   "description" : "<p>On this episode of the H3 Podcast we talk to Ethan&#39;s brother Sean who did some first hand gumshoe reporting at the Area 51 base camp this past weekend! We also talk about Hila&#39;s citizenship oath ceremony, Justin Trudeau&#39;s deep affection for offensive costumes, and cringey fathers using their pregnant wives for views!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cX7gNjaveBs/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -12862,8 +12860,8 @@
     ]
   },
   "metrics" : {
-    "views" : 699104,
-    "likes" : 17685,
-    "comments" : 2928
+    "views" : 699245,
+    "likes" : 17690,
+    "comments" : 2926
   }
 }

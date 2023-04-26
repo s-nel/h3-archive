@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "You are NOT the father! Ft. Maury Povich [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JYsY0nwQV5E/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1370546928000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -134,7 +131,7 @@
     ]
   },
   "metrics" : {
-    "views" : 290782,
+    "views" : 290811,
     "likes" : 7752,
     "comments" : 268
   }

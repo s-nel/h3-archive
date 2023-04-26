@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trump Might Actually Go To Jail For This - Leftovers #24",
   "description" : "<p>Today we talk about the potential downfall of Donald J Trump and    T H E    D O C U M E N T S. We also discuss Steve-Will-Do-It, Steven Crowder likening posting to storming the beaches of Normandy, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/ygZKfA9iYuo/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -33258,8 +33256,8 @@
     ]
   },
   "metrics" : {
-    "views" : 997620,
-    "likes" : 22669,
-    "comments" : 1949
+    "views" : 998166,
+    "likes" : 22680,
+    "comments" : 1933
   }
 }

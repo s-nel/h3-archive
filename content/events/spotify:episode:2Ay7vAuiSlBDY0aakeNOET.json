@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Frenemies Is Under Attack - Frenemies #16",
   "description" : "<p>On this episode of Frenemies we go to WAR... with some mild mixed criticism of the show. Also we review Trisha&#39;s long history of TV appearances from game shows to reality show to talent shows, Trisha has done it all.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/eE-eJVJNYKQ/default.jpg",
   "tags" : [
     {
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -31589,8 +31587,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3134386,
-    "likes" : 88051,
-    "comments" : 13146
+    "views" : 3139282,
+    "likes" : 88079,
+    "comments" : 13140
   }
 }

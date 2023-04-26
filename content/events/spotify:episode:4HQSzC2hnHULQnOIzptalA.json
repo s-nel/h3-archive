@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan Got Covid, Jordan Peterson Publicly Humiliated - Off The Rails #41",
   "description" : "<p>Today we return from a COVID hiatus! Ethan had an unfortunate birthday surprise that had him locked in the basement the last week, so we recap his experience in the brig. We also celebrate Dan&#39;s 5 year anniversary on the podcast, go over the biggest Jordan Peterson mask off moment yet, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Hu_V2NwLnYk/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20175,8 +20173,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1555154,
-    "likes" : 27024,
-    "comments" : 3521
+    "views" : 1557398,
+    "likes" : 27033,
+    "comments" : 3514
   }
 }

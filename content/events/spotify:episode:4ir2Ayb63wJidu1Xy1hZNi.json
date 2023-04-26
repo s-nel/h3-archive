@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan's Car Was Stolen - H3TV #57",
   "description" : "<p>Today we have an ACTION packed episode for you all today. First off, Ethan was struck by a TRAGIC situation regarding CAR THEFT. We also receive a phone call from the one and only JEFF WITTEK, Olivia was BIT BY A DOG(!!!), we play a HIGH STAKES game of EGG DROP, &amp; so much MORE</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Y0idXvAgs6Q/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -52897,8 +52895,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1048285,
-    "likes" : 22534,
-    "comments" : 2766
+    "views" : 1050417,
+    "likes" : 22544,
+    "comments" : 2761
   }
 }

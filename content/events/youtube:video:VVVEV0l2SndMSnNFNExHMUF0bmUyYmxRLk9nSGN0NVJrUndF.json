@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Honest Gold Digger",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OgHct5RkRwE/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1526594127000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3757,8 +3754,8 @@
     ]
   },
   "metrics" : {
-    "views" : 11395092,
-    "likes" : 399208,
-    "comments" : 23200
+    "views" : 11396604,
+    "likes" : 399224,
+    "comments" : 23192
   }
 }

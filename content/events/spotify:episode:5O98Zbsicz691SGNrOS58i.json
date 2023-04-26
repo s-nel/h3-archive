@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "24 HOURS IN THE MOST HAUNTED PLACE IN AMERICA - Off The Rails #16",
   "description" : "<p>On this episode of H3 OFF THE RAILS the gang go ghost hunting in an undisclosed location. Audio listeners should probably know the video is where the full experience is at on this one- watch it here: https://youtu.be/xH_z6O6l9SM</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/xH_z6O6l9SM/default.jpg",
   "tags" : [
     {
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14554,8 +14552,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1008894,
-    "likes" : 63290,
-    "comments" : 6222
+    "views" : 1009802,
+    "likes" : 63315,
+    "comments" : 6218
   }
 }

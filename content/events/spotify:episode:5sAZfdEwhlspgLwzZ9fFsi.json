@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#85 - Greg Paul Allegations & Post Malone Cursed",
   "description" : "<p>On this episode of The H3 Podcast Ethan and Hila go over the top of the week! We discuss the leaked Greg Paul sex tape, Post Malone being cursed by an ancient yiddish ghost, weathermen getting busted for exaggerating their weather reports, H3 infiltrates 90 Day Fiance, Goop&#39;s purifying jade eggs, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1t4h0XWRnC4/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27771,8 +27769,8 @@
     ]
   },
   "metrics" : {
-    "views" : 979354,
-    "likes" : 22062,
+    "views" : 979398,
+    "likes" : 22063,
     "comments" : 3243
   }
 }

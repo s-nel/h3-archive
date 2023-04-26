@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How Does A Homeless Man Spend $100? -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/e5uwvHNM-xY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1434042324000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1828,8 +1825,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5128884,
-    "likes" : 122278,
-    "comments" : 4142
+    "views" : 5129270,
+    "likes" : 122282,
+    "comments" : 4140
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "The Crew Is Splitting Up - Off The Rails #39",
   "description" : "<p>Today we have some tragic news to share...the gang is breaking up. After that, we have a call-in with Amouranth to discuss her recent harrowing experience with a stalker, have a big brain debate about which fruit or vegetable would have the biggest impact on the world if it were to disappear, Zach professes his love to Ryan Gosling, and MUCH more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/6TsZE8Cu0-Q/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -20062,8 +20060,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1520613,
-    "likes" : 25731,
-    "comments" : 2681
+    "views" : 1537431,
+    "likes" : 25763,
+    "comments" : 2671
   }
 }

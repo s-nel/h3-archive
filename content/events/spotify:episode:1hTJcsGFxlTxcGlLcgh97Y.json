@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Trisha & Ethan Do Oddly Satisfying Trends - Frenemies # 30",
   "description" : "<p>On this episode of Frenemies Ethan &amp; Trish get a little odd as they make goo, watch paint dry, and smash cakes together.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DZp6yuHZTzo/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -50230,8 +50228,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5625438,
-    "likes" : 119893,
-    "comments" : 24257
+    "views" : 5635761,
+    "likes" : 119939,
+    "comments" : 24239
   }
 }

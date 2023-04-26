@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Alex Jones Loses Big, Kitboga Calls In, Love Got Arrested - Off The Rails #45",
   "description" : "<p>Today we recap Love being arrested, KitBoga calls in to discuss his war on scam callers, Alex Jones has a bad day, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pUAWStsw8jY/default.jpg",
   "tags" : [
     {
@@ -74,7 +73,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -51471,8 +51469,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1150208,
-    "likes" : 26597,
+    "views" : 1151895,
+    "likes" : 26610,
     "comments" : 2421
   }
 }

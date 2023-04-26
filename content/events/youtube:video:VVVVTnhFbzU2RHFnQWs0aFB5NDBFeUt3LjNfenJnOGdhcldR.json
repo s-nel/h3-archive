@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Nikocado Avocado Cancelled",
   "description" : "Well, looks like Nikocado Avocado isn't coming on the podcast :(",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3_zrg8garWQ/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1642689729000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -5410,8 +5407,8 @@
     ]
   },
   "metrics" : {
-    "views" : 507286,
-    "likes" : 25238,
-    "comments" : 7915
+    "views" : 507300,
+    "likes" : 25236,
+    "comments" : 7914
   }
 }

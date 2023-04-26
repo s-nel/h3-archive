@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#119 - No Meme Left Behind",
   "description" : "<p>On this episode of The H3 Podcast with the help of the podcast crew we delve into the depths of our google doc to ensure that no meme is left behind! Together we cover CGI influencers coming for our jobs, the Governator rapping, Kim K flipping out over hamburgers, and bring to you a new Bradberry classic!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/J4JJ8RUpRhk/default.jpg",
   "tags" : [
   ],
@@ -54,7 +53,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -49867,8 +49865,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1002796,
-    "likes" : 22583,
+    "views" : 1002903,
+    "likes" : 22584,
     "comments" : 2995
   }
 }

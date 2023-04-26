@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "FREEZING IN SWEDEN",
   "description" : "We visited Sweden for the first time & we're freezing in Stockholm\n\nMERCH...............http://h3h3productions.spreadshirt.com\nINSTAGRAM......http://instagram.com/h3h3productions\n\nGoof of the Day ► https://goo.gl/XD5Wr8\n\nTwitter......................►https://twitter.com/h3h3productions\nHila's Twitter............►https://twitter.com/hilakleinh3\nSpreadshirt..............►http://h3h3productions.spreadshirt.com\nInstagram................►http://instagram.com/h3h3productions\nHila's Instragram.....►https://www.instagram.com/kleinhila\nWebsite....................►http://h3h3productions.com\nSubreddit.................►http://reddit.com/r/h3h3productions\n\nSlickk thicc remix from the end by EchoRobot:\nhttps://soundcloud.com/aldenchambers/great-moves-keep-it-up\n\nOriginal theme song by Holder:\nhttps://goo.gl/e0nSv6\n\nOld Bossa by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://www.twinmusicom.org/",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/9cZFrT6eGUM/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1494292209000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1014,8 +1011,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1425903,
-    "likes" : 64385,
+    "views" : 1425996,
+    "likes" : 64384,
     "comments" : 7771
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Facebook Moms Against Dabbing",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/GH0wPmLIWow/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1492290794000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3225,8 +3222,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8180660,
-    "likes" : 256268,
-    "comments" : 12555
+    "views" : 8181350,
+    "likes" : 256272,
+    "comments" : 12556
   }
 }

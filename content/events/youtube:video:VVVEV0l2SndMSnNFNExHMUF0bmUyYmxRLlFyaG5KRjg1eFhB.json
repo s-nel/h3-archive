@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Steve Harvey Pranks Miss Universe -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/QrhnJF85xXA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1451010888000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2708,8 +2705,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4323644,
-    "likes" : 129170,
-    "comments" : 9630
+    "views" : 4323976,
+    "likes" : 129174,
+    "comments" : 9629
   }
 }

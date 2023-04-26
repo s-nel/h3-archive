@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "These Horrible Designs Are UNREAL",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/uowrZJV6jVs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1496005379000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3038,8 +3035,8 @@
     ]
   },
   "metrics" : {
-    "views" : 9908730,
-    "likes" : 272288,
+    "views" : 9909347,
+    "likes" : 272295,
     "comments" : 11364
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#75 - Logan Paul Humiliated & Roseanne Loses It",
   "description" : "<p>On this episode of The H3 Podcast Ethan brings to you the worst tweet of all time thanks to the master maverick himself- Logan Paul. Additionally we talk about Roseanne&#39;s &#34;apology&#34;, watch a bizarre 1990&#39;s PSA, play Know Your Meme ft. Skippy, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/pKENOdgWWUY/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29146,8 +29144,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1092536,
-    "likes" : 25653,
-    "comments" : 3300
+    "views" : 1092574,
+    "likes" : 25652,
+    "comments" : 3299
   }
 }

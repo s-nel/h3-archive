@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "24 HOUR FORT CHALLENGE (GONE WRONG)",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/p0vXpNqCuQY/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1476056042000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1861,8 +1858,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4537372,
-    "likes" : 181650,
-    "comments" : 9044
+    "views" : 4537823,
+    "likes" : 181661,
+    "comments" : 9040
   }
 }

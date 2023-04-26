@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "IN RESPONSE TO SOFLO",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/AemSBOsfhc0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1455202400000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1542,8 +1539,8 @@
     ]
   },
   "metrics" : {
-    "views" : 7993139,
-    "likes" : 335161,
-    "comments" : 20097
+    "views" : 7993714,
+    "likes" : 335155,
+    "comments" : 20094
   }
 }

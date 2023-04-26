@@ -56,6 +56,7 @@ import { setAll as setAllSteamies } from './data/steamiesSlice'
 import { remove as removeToast } from './data/toastsSlice'
 import Login from './Login'
 import ScrollToTop from './ScrollToTop';
+import EditTranscript from './EditTranscript';
 
 const Root = () => {
   const [hasFetchedData, setFetchedData] = React.useState(false)
@@ -272,6 +273,10 @@ const App = () => {
         {
           path: "/login",
           element: <Login />
+        },
+        {
+          path: "/events/:eventId/transcript",
+          element: <EditTranscript />
         }
       ],
     },

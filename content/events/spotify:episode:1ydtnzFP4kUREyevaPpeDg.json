@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Brittany Broski Is BACK!- H3 Podcast #261",
   "description" : "<p>Today we welcome back the incredibly funny Brittany Broski! We host the &#34;Brittany Brawl&#34; (a cutthroat tournament to determine who Brittany stans the most), try a selection of fine cuisine (an oreo burger, M&amp;M pizza, etc), discuss fresh alpha male TikTok cringe, &amp; more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/32_0ehY5QH8/default.jpg",
   "tags" : [
   ],
@@ -66,7 +65,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -32147,8 +32145,8 @@
     ]
   },
   "metrics" : {
-    "views" : 2701824,
-    "likes" : 40443,
+    "views" : 2780827,
+    "likes" : 40671,
     "comments" : 3161
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Two Handed Great Sword -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/L0Cxt1pReMs/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1436558610000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2048,8 +2045,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5544677,
-    "likes" : 104899,
-    "comments" : 7591
+    "views" : 5545241,
+    "likes" : 104905,
+    "comments" : 7589
   }
 }

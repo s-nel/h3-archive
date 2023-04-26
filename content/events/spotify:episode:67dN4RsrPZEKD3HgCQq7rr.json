@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Mom's Embarrassing Story Destroyed My Soul - Families # 4",
   "description" : "<p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OJo0Z90eWDE/default.jpg",
   "tags" : [
   ],
@@ -58,7 +57,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30643,8 +30641,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1786044,
-    "likes" : 62139,
-    "comments" : 10880
+    "views" : 1786755,
+    "likes" : 62145,
+    "comments" : 10863
   }
 }

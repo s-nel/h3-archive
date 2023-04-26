@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Nuclear Fallout - Keemstar",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/DAUqqz-xaJ4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1590088561000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2411,8 +2408,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5551337,
-    "likes" : 569583,
-    "comments" : 55136
+    "views" : 5552344,
+    "likes" : 569576,
+    "comments" : 55126
   }
 }

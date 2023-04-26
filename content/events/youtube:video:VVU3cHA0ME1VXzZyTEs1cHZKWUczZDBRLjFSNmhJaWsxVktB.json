@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Jokes - Goldmine",
   "description" : "Spotify: https://goo.gl/m1QodU\niTunes: https://goo.gl/kWDJwq\nFrom the podcast today, me and the boys wrote a lil song about Hila being gone, and me being the wizard of loneliness. There's nothing funny bout the jokes, folks. Ok, ill see myself out. Hope u enjoy",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/1R6hIik1VKA/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1530925599000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -244,8 +241,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1037973,
-    "likes" : 90159,
+    "views" : 1038703,
+    "likes" : 90178,
     "comments" : 8890
   }
 }

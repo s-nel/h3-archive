@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "David Dobrik Debate, FREE BRITNEY, Ben Shapiro Calls In - H3 Podcast #235",
   "description" : "<p>On this episode of the H3 Podcast AB debates with Ethan &amp; Hila over the honor of David Dobrik, little Benny Shapiro calls in to share his thoughts on Cardi B&#39;s new music video, we discuss the FREE BRITNEY doc, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/3tqvNI1HIcI/default.jpg",
   "tags" : [
   ],
@@ -62,7 +61,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -12816,8 +12814,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1135123,
-    "likes" : 30096,
-    "comments" : 18077
+    "views" : 1135221,
+    "likes" : 30095,
+    "comments" : 18070
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Backstage with Post Malone",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/APC3yUn77Ns/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1488671869000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1520,8 +1517,8 @@
     ]
   },
   "metrics" : {
-    "views" : 5024243,
-    "likes" : 323658,
-    "comments" : 14028
+    "views" : 5024440,
+    "likes" : 323660,
+    "comments" : 14026
   }
 }

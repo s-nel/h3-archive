@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Blaire White Needs To Address This",
   "description" : "Blaire White started a conversation and its important she address what she said in her last video",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/cH7hpA7AH-s/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1643768807000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -3507,8 +3504,8 @@
     ]
   },
   "metrics" : {
-    "views" : 421836,
-    "likes" : 19849,
+    "views" : 421884,
+    "likes" : 19848,
     "comments" : 4263
   }
 }

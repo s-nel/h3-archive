@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Most Scared I've Ever Been In My Life",
   "description" : "Teddy fresh drop at 10am pst 2.17 \nHttp://teddyfresh.com",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/41L0c6Cxahk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1645104539000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -922,8 +919,8 @@
     ]
   },
   "metrics" : {
-    "views" : 434217,
-    "likes" : 27176,
+    "views" : 434257,
+    "likes" : 27177,
     "comments" : 2734
   }
 }

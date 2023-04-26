@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#57 - Bob Saget",
   "description" : "<p>On this episode of The H3 Podcast we are joined by legendary comedian/host/actor Bob Saget! Together we discuss poop particles, Don Rickles, camels, bottom bitches, and what Bob was up to in 1990. Bob Saget is best known for his role as Danny Tanner on Full House but is oh so much more.</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/D4JrLoUhHPA/default.jpg",
   "tags" : [
   ],
@@ -42,7 +41,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -11377,7 +11375,7 @@
     ]
   },
   "metrics" : {
-    "views" : 755524,
+    "views" : 755562,
     "likes" : 22920,
     "comments" : 3200
   }

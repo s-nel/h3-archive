@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Bryce Hall - H3 Podcast #267",
   "description" : "<p>Today we have on the one and only Bryce Hall! We chat with him about his relationship with Ryan Kavanaugh, his controversial past and our prior disagreements (we squash the beef!), the experiences that led to his decision to turn his public image around, Fousey, Austin McBroom, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/VtLBHtdcMm8/default.jpg",
   "tags" : [
   ],
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -46910,8 +46908,8 @@
     ]
   },
   "metrics" : {
-    "views" : 886917,
-    "likes" : 23985,
-    "comments" : 2371
+    "views" : 897050,
+    "likes" : 24093,
+    "comments" : 2356
   }
 }

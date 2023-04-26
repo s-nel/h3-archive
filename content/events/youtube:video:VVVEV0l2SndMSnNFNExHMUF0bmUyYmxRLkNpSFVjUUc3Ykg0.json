@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "We Must Stop This Millionaire Content Thief",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/CiHUcQG7bH4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1554321901000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1916,8 +1913,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4370087,
-    "likes" : 237130,
-    "comments" : 11540
+    "views" : 4370428,
+    "likes" : 237132,
+    "comments" : 11539
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Ethan Joins a 90s Boy Band",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/MqgtVpD328o/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1460843027000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2741,8 +2738,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6812588,
-    "likes" : 240014,
-    "comments" : 16687
+    "views" : 6813486,
+    "likes" : 240026,
+    "comments" : 16686
   }
 }

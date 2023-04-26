@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "will.i.am -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Prv5q84-Ebg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1415984558000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -739,8 +736,8 @@
     ]
   },
   "metrics" : {
-    "views" : 3506706,
-    "likes" : 76193,
+    "views" : 3507004,
+    "likes" : 76197,
     "comments" : 2676
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ace Family Is Going Bye Bye - H3TV #28",
   "description" : "<p>Today we discuss The Ace Family announcing their &#34;retirement&#34;, the latest updates with our old pal Ryan Kavanaugh, Durte Dom being wanted by the LAPD, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/2Pbu55cclU4/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -30696,8 +30694,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1514236,
-    "likes" : 28832,
-    "comments" : 2809
+    "views" : 1514824,
+    "likes" : 28834,
+    "comments" : 2793
   }
 }

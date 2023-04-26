@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Baby Gender Reveal!!",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/Cylt4QXHuaI/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1548879355000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1872,8 +1869,8 @@
     ]
   },
   "metrics" : {
-    "views" : 4001741,
-    "likes" : 315950,
-    "comments" : 40055
+    "views" : 4001933,
+    "likes" : 315945,
+    "comments" : 40050
   }
 }

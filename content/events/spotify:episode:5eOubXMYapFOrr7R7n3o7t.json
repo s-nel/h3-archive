@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Guess Whos High Or Drunk 4/20 Special - Off The Rails #32",
   "description" : "<p>Today we play an upgraded version of Guess Who&#39;s High to celebrate the holiday of 4/20- Guess who&#39;s high, drunk, crossfaded or sober! The whole gang undergoes INTENSE questioning from Mr Ethan Klein as we try to determine which is which. We also discuss Jaden Smith&#39;s inspirational statements on the playground, Logan Paul&#39;s latest NFT scam, &amp; much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PUQPGI9fNok/default.jpg",
   "tags" : [
     {
@@ -70,7 +69,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -61180,8 +61178,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1643132,
-    "likes" : 36378,
-    "comments" : 4235
+    "views" : 1648990,
+    "likes" : 36433,
+    "comments" : 4230
   }
 }

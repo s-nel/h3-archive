@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Urgent Message To Adin Ross",
   "description" : "Adin Ross was recently banned on twitch and I actually know the real story, it’s very urgent that he sees this",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/84ftOZhBjrk/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1673682426000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -614,8 +611,8 @@
     ]
   },
   "metrics" : {
-    "views" : 262701,
-    "likes" : 16696,
-    "comments" : 2603
+    "views" : 262794,
+    "likes" : 16697,
+    "comments" : 2606
   }
 }

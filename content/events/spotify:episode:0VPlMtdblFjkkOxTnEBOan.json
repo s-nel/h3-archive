@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Ethan’s Plan To Never Get Cancelled Again, Super Bowl, Joe Rogan Scam, MGK 💔 Megan Fox - H3TV #65",
   "description" : "<p>Today we discuss this dystopian Joe Rogan supplement scam, a recap of the horrifying events in Ohio, a call with Dr Idz regarding the positive benefits of ice baths, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/JUgwnVF_zuA/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -28126,8 +28124,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1057285,
-    "likes" : 19222,
-    "comments" : 2179
+    "views" : 1058315,
+    "likes" : 19234,
+    "comments" : 2172
   }
 }

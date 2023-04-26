@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "JUICER POLITICS EP! TRUMPY DUMPY 🍑 ARRESTED👮😩 CIVIL WAR ON THE HORIZON? 😳 - Leftovers #44",
   "description" : "<p>Today is Trump arrest day, folks. We break down the whole situation, unpack an insane Matt Walsh take, Mike Lindell living in his car, Ethan being a short king, and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/lgwVwZm-bwE/default.jpg",
   "tags" : [
     {
@@ -82,7 +81,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -27411,8 +27409,8 @@
     ]
   },
   "metrics" : {
-    "views" : 644825,
-    "likes" : 15591,
-    "comments" : 1219
+    "views" : 665449,
+    "likes" : 15783,
+    "comments" : 1236
   }
 }

@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#211 - Cody Ko",
   "description" : "<p>On this episode of the H3 Podcast we are joined by YouTuber comedian, former app developer, and olympic level diver Cody Ko! Together we discuss getting yolked, which way to wipe your butt, staying motivated during lock down, and we react to some of Ethan&#39;s GOAT videos!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WOw64ZqbXIc/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -14168,8 +14166,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1215760,
-    "likes" : 34925,
+    "views" : 1216136,
+    "likes" : 34928,
     "comments" : 3079
   }
 }

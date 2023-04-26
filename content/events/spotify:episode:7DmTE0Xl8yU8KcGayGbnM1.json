@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#116 - ProJared & Trisha Paytas",
   "description" : "<p>On this episode of Drama Al... The H3 Podcast... we talk about ProJared&#39;s hilarious fall from grace, Trisha Paytas&#39; beef with Ethan, where the Sonic movie will fall in the pantheon of the worst films of all time, more Guinness records that shouldn&#39;t exist, and a whole lot more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/hCeaYuEzbvs/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -29040,8 +29038,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1943160,
-    "likes" : 38314,
+    "views" : 1943308,
+    "likes" : 38317,
     "comments" : 6612
   }
 }

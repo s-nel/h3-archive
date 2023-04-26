@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "WEARING 200 SHIRTS IN THE GROCERY STORE",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/PRl1zMUKTxQ/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1472251233000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1810,8 +1807,8 @@
     ]
   },
   "metrics" : {
-    "views" : 6577898,
-    "likes" : 347038,
+    "views" : 6578478,
+    "likes" : 347040,
     "comments" : 18775
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Coughs 'n Flops [h3h3productions]",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/57XODCEgJ_4/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1423686713000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1641,8 +1638,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1367211,
-    "likes" : 33499,
+    "views" : 1367327,
+    "likes" : 33501,
     "comments" : 1080
   }
 }

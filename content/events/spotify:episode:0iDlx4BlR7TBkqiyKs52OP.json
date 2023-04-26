@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#199 - iDubbbz & Dax Flame",
   "description" : "<p>On this episode of the H3 Podcast we are joined by YouTube documentarian and old friend of the show iDubbbz, as well as the subject of his latest video, the legendary mid-2000&#39;s YouTuber Dax Flame! Together we discuss life in lockdown, raising chickens, moving beyond Content Cop, the fallout of Dax&#39;s sabatoge, and a whole lot more!!!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/5BuBRV1Mw5A/default.jpg",
   "tags" : [
   ],
@@ -50,7 +49,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -13156,8 +13154,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1086354,
-    "likes" : 32778,
+    "views" : 1086474,
+    "likes" : 32777,
     "comments" : 3987
   }
 }

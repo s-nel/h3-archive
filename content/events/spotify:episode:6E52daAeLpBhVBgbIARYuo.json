@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "Cheaters Tier List & Dream Face Reveal - Off The Rails #51",
   "description" : "<p>There have been a lot of cheating scandals this past few weeks, and we are going to rank all of them. Try Guys Ned, a shocking case of cheating in the fish community, a chess cheating scandal, Adam Levine cheating, Ethan cheating, Dream cheating (and we also cover his face reveal), and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/NI1UG6QGdr8/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -62673,8 +62671,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1454606,
-    "likes" : 24503,
-    "comments" : 2184
+    "views" : 1460399,
+    "likes" : 24526,
+    "comments" : 2179
   }
 }

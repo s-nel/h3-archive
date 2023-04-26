@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Deception, Lies, and CSGO",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/_8fU2QG-lV0/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1467591069000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -2125,8 +2122,8 @@
     ]
   },
   "metrics" : {
-    "views" : 9828008,
-    "likes" : 426963,
-    "comments" : 42174
+    "views" : 9828545,
+    "likes" : 426960,
+    "comments" : 42164
   }
 }

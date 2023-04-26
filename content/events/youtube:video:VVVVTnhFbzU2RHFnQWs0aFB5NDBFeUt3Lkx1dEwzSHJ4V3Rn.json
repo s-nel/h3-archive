@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "I’m sorry guys, but this needs to stop",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/LutL3HrxWtg/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1673590767000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -26,7 +24,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1593,8 +1590,8 @@
     ]
   },
   "metrics" : {
-    "views" : 302370,
+    "views" : 302442,
     "likes" : 25192,
-    "comments" : 5206
+    "comments" : 5204
   }
 }

@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "poop in a hole central park tutorial how to poop in a hole expertvillage",
   "description" : "How to poop in a hole presented by ExpertVillage",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/T0goQRA5464/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1441156831000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1366,8 +1363,8 @@
     ]
   },
   "metrics" : {
-    "views" : 366029,
-    "likes" : 9876,
+    "views" : 366059,
+    "likes" : 9879,
     "comments" : 684
   }
 }

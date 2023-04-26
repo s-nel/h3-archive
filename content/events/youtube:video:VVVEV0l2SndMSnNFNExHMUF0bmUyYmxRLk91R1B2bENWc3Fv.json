@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "How to Dispute a Strike -- DMCA Process Explained",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/OuGPvlCVsqo/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1477351582000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -992,8 +989,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1275597,
+    "views" : 1275610,
     "likes" : 71954,
-    "comments" : 4888
+    "comments" : 4886
   }
 }

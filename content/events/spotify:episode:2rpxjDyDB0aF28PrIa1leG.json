@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "We Won The Lawsuit - Off The Rails #47",
   "description" : "<p>Today, we celebrate another lawsuit victory against Kavanaugh! We also discuss a SHOCKING new clip regarding Steve-Will-Do-It and his dog, along with an office mystery and much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/mRMb2YKOOrs/default.jpg",
   "tags" : [
     {
@@ -78,7 +77,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -63113,8 +63111,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1282759,
-    "likes" : 27495,
+    "views" : 1286827,
+    "likes" : 27519,
     "comments" : 2418
   }
 }

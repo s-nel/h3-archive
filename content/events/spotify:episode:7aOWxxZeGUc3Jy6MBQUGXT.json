@@ -3,7 +3,6 @@
   "category" : "podcast",
   "name" : "#104 - Shane Dawson vs Chuck E. Cheese Pizza Lies",
   "description" : "<p>On this episode of The H3 Podcast we discuss some mind blowing aspects of Shane Dawson&#39;s Chuck E. Cheese expose, women eating their placenta, 21 Savage&#39;s arrest, Kenny G at Kanye&#39;s house, rejected sponsors, Lance Stewart&#39;s breakup, blackface clothes, and SO much more!</p><p> </p>",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/utjYy8pabQU/default.jpg",
   "tags" : [
   ],
@@ -46,7 +45,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -35625,8 +35623,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1597908,
-    "likes" : 27237,
-    "comments" : 4331
+    "views" : 1598212,
+    "likes" : 27239,
+    "comments" : 4329
   }
 }

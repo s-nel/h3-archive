@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "Content Nuke - Keemstar",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/w3gXcIifc3o/default.jpg",
   "tags" : [
     {
@@ -18,7 +17,6 @@
     }
   ],
   "start_date" : 1589914176000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -30,7 +28,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -6393,8 +6390,8 @@
     ]
   },
   "metrics" : {
-    "views" : 8201536,
-    "likes" : 664708,
-    "comments" : 78367
+    "views" : 8203853,
+    "likes" : 664697,
+    "comments" : 78360
   }
 }

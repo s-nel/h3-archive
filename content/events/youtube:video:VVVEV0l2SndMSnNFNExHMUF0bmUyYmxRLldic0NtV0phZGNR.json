@@ -3,7 +3,6 @@
   "category" : "video",
   "name" : "The Worst Movie Ever Made (Part 2) -- h3h3 reaction video",
   "description" : "",
-  "notes" : null,
   "thumb" : "https://i.ytimg.com/vi/WbsCmWJadcQ/default.jpg",
   "tags" : [
     {
@@ -22,7 +21,6 @@
     }
   ],
   "start_date" : 1413307695000,
-  "duration" : null,
   "people" : [
     {
       "person_id" : "eklein",
@@ -34,7 +32,6 @@
     }
   ],
   "transcription" : {
-    "text" : null,
     "segments" : [
       {
         "id" : 0,
@@ -1964,7 +1961,7 @@
     ]
   },
   "metrics" : {
-    "views" : 2085556,
+    "views" : 2085705,
     "likes" : 44688,
     "comments" : 2007
   }
