@@ -20,24 +20,24 @@
   "duration" : 9360587,
   "people" : [
     {
-      "person_id" : "eklein",
-      "role" : "host"
-    },
-    {
-      "person_id" : "islater",
-      "role" : "crew"
-    },
-    {
       "person_id" : "dswerdlove",
       "role" : "crew"
+    },
+    {
+      "person_id" : "bkreischer",
+      "role" : "guest"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
     },
     {
       "person_id" : "hklein",
       "role" : "host"
     },
     {
-      "person_id" : "bkreischer",
-      "role" : "guest"
+      "person_id" : "islater",
+      "role" : "crew"
     }
   ],
   "transcription" : {
@@ -53175,8 +53175,8 @@
     ]
   },
   "metrics" : {
-    "views" : 1440513,
-    "likes" : 29703,
-    "comments" : 3134
+    "views" : 1441255,
+    "likes" : 29715,
+    "comments" : 3137
   }
 }

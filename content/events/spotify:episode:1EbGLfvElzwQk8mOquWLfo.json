@@ -62379,5 +62379,10 @@
         "no_speech_prob" : 0.9929025769233704
       }
     ]
+  },
+  "metrics" : {
+    "views" : 751357,
+    "likes" : 18107,
+    "comments" : 1747
   }
 }
