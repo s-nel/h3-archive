@@ -149,6 +149,7 @@ const TranscriptEditor = ({
               topSpeakers,
               onSegmentsChanged,
               highlightedIndex,
+              playbackSpeed,
             }}
             itemSize={getRowHeight}
           >
@@ -172,6 +173,7 @@ const Segment = ({
     topSpeakers,
     onSegmentsChanged,
     highlightedIndex,
+    playbackSpeed,
   },
 }) => {
   const rowRef = React.useRef({})
@@ -189,6 +191,7 @@ const Segment = ({
   const playSegment = () => {
     if (ytVideo) {
       ytVideo.seekTo(segment.start, true)
+      ytVideo.setPlaybackRate(playbackSpeed)
       ytVideo.playVideo()
     }
   }

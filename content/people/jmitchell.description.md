@@ -1,0 +1,1 @@
+Founder of Gays Against Groomers--a conservative group spreading transphobia that was criticized in [Ethan's debate with Oli London](/events/spotify:episode:73UB36eG2oC2m6B2cDpnqQ).

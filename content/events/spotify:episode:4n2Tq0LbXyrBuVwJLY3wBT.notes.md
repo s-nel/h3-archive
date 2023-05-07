@@ -1,0 +1,1 @@
+* Ethan announces that the [Patrice](/people/pwilson) drama from the last episode was solved by some Discord detectives. Apparently, [Patrice](/people/pwilson) was doing some promotion for a show that he was producing.

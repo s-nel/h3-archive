@@ -1,0 +1,1 @@
+* Shredder is spoken about and shown on the podcast for the first time.

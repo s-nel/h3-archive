@@ -1,0 +1,1 @@
+Singer/keyboardist of the synthpop band, "Chaos Chaos".

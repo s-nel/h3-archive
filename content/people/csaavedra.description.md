@@ -1,0 +1,1 @@
+Drummer of the synthpop band "Chaos Chaos".

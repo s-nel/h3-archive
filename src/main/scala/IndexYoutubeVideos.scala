@@ -3,7 +3,8 @@ package com.snacktrace.archive
 import IndexPodcast._
 
 import akka.actor.ActorSystem
-import akka.http.scaladsl.model.{HttpMethods, HttpRequest, Uri}
+import akka.http.scaladsl.model.StatusCodes.InternalServerError
+import akka.http.scaladsl.model.{HttpMethods, HttpRequest, HttpResponse, Uri}
 import cats.implicits._
 import com.snacktrace.archive.IndexYoutubeVideos2._
 import com.snacktrace.archive.model.{Category, LinkDoc, LinkType, TagDoc}
@@ -13,6 +14,8 @@ import io.circe.parser.decode
 import java.io.{File, FileWriter}
 import scala.io.{Source, StdIn}
 import akka.http.scaladsl.model.Uri.{Path, Query}
+import akka.http.scaladsl.server.Directives.complete
+import akka.http.scaladsl.server.ExceptionHandler
 import akka.stream.Materializer
 import com.snacktrace.archive.model.EventDoc
 import com.typesafe.config.ConfigFactory
@@ -26,6 +29,13 @@ object IndexYoutubeVideos {
   implicit val system: ActorSystem = ActorSystem()
   implicit val dispatcher: ExecutionContext = system.dispatcher
   implicit val materializer: Materializer = Materializer.createMaterializer(system)
+
+  implicit def myExceptionHandler: ExceptionHandler = ExceptionHandler {
+    case e =>
+      println("Unhandled exception")
+      e.printStackTrace()
+      complete(HttpResponse(InternalServerError))
+  }
 
   val youtubeDataApiUrl = Uri("https://www.googleapis.com")
   val h3h3productionsUploadsPlaylistId = "UUDWIvJwLJsE4LG1Atne2blQ"

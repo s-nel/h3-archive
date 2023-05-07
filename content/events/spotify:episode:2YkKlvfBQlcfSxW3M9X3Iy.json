@@ -42,6 +42,14 @@
     {
       "person_id" : "islater",
       "role" : "crew"
+    },
+    {
+      "person_id" : "asaavedra",
+      "role" : "guest"
+    },
+    {
+      "person_id" : "csaavedra",
+      "role" : "guest"
     }
   ],
   "transcription" : {

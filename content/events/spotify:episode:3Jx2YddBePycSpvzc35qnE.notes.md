@@ -1,0 +1,1 @@
+* Ethan and [Tom](/people/tsegura) discuss bidet use.

@@ -1,0 +1,3 @@
+Oli London is an internet personality famed for his extreme cosmetic surgery procedures that he used to make himself look like Jimin from BTS. He was a trans woman but now identifies as a British man. Most recently Oli has gained attention from the right for espousing right-wing talking points on transgender topics despite having been a trans woman himself. He has claimed that drag shows in which children are present sexualize the children and is a form of child abuse. He also supports laws against any kind of medical transition for minors including puberty blockers, hormones, and surgery.
+
+In May 2023, Oli was a guest on the podcast and Ethan debated the transphobic ideas that Oli was spreading.
