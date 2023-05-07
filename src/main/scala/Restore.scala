@@ -11,6 +11,7 @@ import com.sksamuel.elastic4s.requests.mappings.MappingDefinition
 import com.snacktrace.archive.IndexPodcast.{
   eventsIndex,
   eventsMapping,
+  indexSettings,
   peopleIndex,
   peopleIndexMapping,
   soundbitesIndex,
@@ -63,6 +64,7 @@ object Restore {
       client = elasticsearchClient,
       index = eventsIndex,
       mapping = eventsMapping,
+      indexSettings = indexSettings,
       dir = "events",
       maybeBatchSize = maybeBatchSize,
       transformer = eventDoc => {
@@ -83,6 +85,7 @@ object Restore {
       client = elasticsearchClient,
       index = transcriptIndex,
       mapping = transcriptMapping,
+      indexSettings = Map.empty,
       dir = "events",
       maybeBatchSize = maybeBatchSize,
       transformer = eventDoc => {
@@ -103,6 +106,7 @@ object Restore {
       client = elasticsearchClient,
       index = peopleIndex,
       mapping = peopleIndexMapping,
+      indexSettings = Map.empty,
       dir = "people",
       maybeBatchSize = maybeBatchSize,
       transformer = a => Some(a),
@@ -113,6 +117,7 @@ object Restore {
       client = elasticsearchClient,
       index = steamyIndex,
       mapping = steamyIndexMapping,
+      indexSettings = Map.empty,
       dir = "steamies",
       maybeBatchSize = maybeBatchSize,
       transformer = a => Some(a),
@@ -123,6 +128,7 @@ object Restore {
       client = elasticsearchClient,
       index = soundbitesIndex,
       mapping = soundbitesIndexMapping,
+      indexSettings = Map.empty,
       dir = "soundbites",
       maybeBatchSize = maybeBatchSize,
       transformer = a => Some(a),
@@ -149,13 +155,14 @@ object Restore {
       client: ElasticClient,
       index: String,
       mapping: MappingDefinition,
+      indexSettings: Map[String, Any],
       dir: String,
       maybeBatchSize: Option[Int],
       transformer: Doc => Option[Doc2],
       markdownFields: Map[String, (Doc, String) => Doc]
   ): Future[Unit] = {
     for {
-      createIndexResponse <- client.execute(createIndex(index).mapping(mapping))
+      createIndexResponse <- client.execute(createIndex(index).mapping(mapping).settings(indexSettings))
       _ <- createIndexResponse.toEither match {
         case Right(_) => Future.successful(())
         case Left(err) if err.`type` === "resource_already_exists_exception" => Future.successful(())
@@ -214,7 +221,7 @@ object Restore {
         }
       }
       batches = ops.flatten.grouped(maybeBatchSize.getOrElse(50))
-      results <- Future.traverse(batches) { batch =>
+      results <- seqFutures(batches) { batch =>
         client.execute(bulk(batch: _*))
       }
       _ = println(s"results = ${results.toList.toString}")
@@ -247,5 +254,13 @@ object Restore {
         Future.successful(())
       }
     } yield {}
+  }
+
+  def seqFutures[T, U](items: IterableOnce[T])(yourfunction: T => Future[U]): Future[List[U]] = {
+    items.iterator.foldLeft(Future.successful[List[U]](Nil)) { (f, item) =>
+      f.flatMap { x =>
+        yourfunction(item).map(_ :: x)
+      }
+    } map (_.reverse)
   }
 }

@@ -1,0 +1,79 @@
+{
+  "event_id" : "spotify:episode:044MISq9rpp7sA3c4tL30f",
+  "category" : "podcast",
+  "name" : "Ok wait Crowder is an actual demon - After Dark #103",
+  "description" : "<p>Today we cover the absolutely insane leaked video of Steven Crowder going mask off. We also have a very informative call with C-Man, Hila calls us from the doctor with some special news, the further downslide of Andrew Tate, and much more!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/LWRDQIrF8tc/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "After Dark"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/044MISq9rpp7sA3c4tL30f"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/LWRDQIrF8tc"
+    }
+  ],
+  "start_date" : 1682725786000,
+  "duration" : 12075676,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "hklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "scrowder",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "cfarmer",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ]
+}

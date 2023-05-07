@@ -1,0 +1,79 @@
+{
+  "event_id" : "spotify:episode:5Kfx1J0GEpWHuBtmm6Mvmo",
+  "category" : "podcast",
+  "name" : "Crowder's wife left him lol - Off The Rails #69",
+  "description" : "<p>Today we have two big topics - our ongoing feud with Dad coming to a dramatic close, and Crowder&#39;s wife leaving him. Hop in!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/TzRTvKPOqgI/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/5Kfx1J0GEpWHuBtmm6Mvmo"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/TzRTvKPOqgI"
+    }
+  ],
+  "start_date" : 1682563325000,
+  "duration" : 12330448,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "nbarnett",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "scrowder",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "cfarmer",
+      "role" : "topic"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ]
+}
