@@ -208,7 +208,7 @@ object Restore {
             indexInto(index)
               .withId(id)
               .doc(transformedDoc.asJson.noSpaces)
-              .versionType(VersionType.EXTERNAL)
+              .versionType(VersionType.EXTERNAL_GTE)
               .version(maxLastModified)
           }
         }

@@ -92,7 +92,8 @@
         "avg_logprob" : -0.7255936170879164,
         "compression_ratio" : 1.0729166666666667,
         "no_speech_prob" : 0.2797209620475769,
-        "speaker" : "ajones"
+        "speaker" : "ajones",
+        "is_soundbite" : true
       },
       {
         "id" : 2,
@@ -129,7 +130,8 @@
         "avg_logprob" : -0.554541674527255,
         "compression_ratio" : 1.6193548387096774,
         "no_speech_prob" : 0.5838123559951782,
-        "speaker" : "wweekes"
+        "speaker" : "wweekes",
+        "is_soundbite" : true
       },
       {
         "id" : 5,
@@ -2158,7 +2160,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "zlouis"
       },
       {
         "id" : 175,
@@ -2169,7 +2172,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "zlouis"
       },
       {
         "id" : 176,
@@ -2180,7 +2184,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "eklein"
       },
       {
         "id" : 177,
@@ -2191,7 +2196,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "zlouis"
       },
       {
         "id" : 178,
@@ -2202,7 +2208,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "eklein"
       },
       {
         "id" : 179,
@@ -2213,7 +2220,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "zlouis"
       },
       {
         "id" : 180,
@@ -2224,18 +2232,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "zlouis"
       },
       {
         "id" : 181,
         "seek" : 39900,
         "start" : 422.0,
         "end" : 425.0,
-        "text" : " So hopefully, I'm going to be able to do that.",
+        "text" : " So hopefully, he's making the best there.",
         "temperature" : 0.0,
         "avg_logprob" : -0.3600209345583056,
         "compression_ratio" : 1.5606694560669456,
-        "no_speech_prob" : 0.0690949410200119
+        "no_speech_prob" : 0.0690949410200119,
+        "speaker" : "eklein"
       },
       {
         "id" : 182,
@@ -2246,7 +2256,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "zlouis"
       },
       {
         "id" : 183,
@@ -2257,7 +2268,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "zlouis"
       },
       {
         "id" : 184,
@@ -2268,7 +2280,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "eklein"
       },
       {
         "id" : 185,
@@ -2279,7 +2292,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "eklein"
       },
       {
         "id" : 186,
@@ -2290,7 +2304,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "eklein"
       },
       {
         "id" : 187,
@@ -2301,7 +2316,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 188,
@@ -2312,7 +2328,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "eklein"
       },
       {
         "id" : 189,
@@ -2323,7 +2340,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "zlouis"
       },
       {
         "id" : 190,
@@ -2334,29 +2352,32 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "zlouis"
       },
       {
         "id" : 191,
         "seek" : 42500,
         "start" : 448.0,
         "end" : 450.0,
-        "text" : " He's like, hey, you got a hot mom.",
+        "text" : " He's like, hey, you got a hot mom?",
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "zlouis"
       },
       {
         "id" : 192,
         "seek" : 42500,
         "start" : 450.0,
         "end" : 451.0,
-        "text" : " She's out of nowhere.",
+        "text" : " Just out of nowhere.",
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "zlouis"
       },
       {
         "id" : 193,
@@ -2367,7 +2388,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2776563186054082,
         "compression_ratio" : 1.6118143459915613,
-        "no_speech_prob" : 0.06405827403068542
+        "no_speech_prob" : 0.06405827403068542,
+        "speaker" : "eklein"
       },
       {
         "id" : 194,
@@ -2378,7 +2400,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 195,
@@ -2389,7 +2412,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 196,
@@ -2400,7 +2424,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 197,
@@ -2411,7 +2436,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 198,
@@ -2422,7 +2448,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 199,
@@ -2433,7 +2460,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "eklein"
       },
       {
         "id" : 200,
@@ -2444,7 +2472,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "eklein"
       },
       {
         "id" : 201,
@@ -2455,18 +2484,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 202,
         "seek" : 45200,
         "start" : 465.0,
         "end" : 466.0,
-        "text" : " Very odd, dude.",
+        "text" : " Very odd dude.",
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 203,
@@ -2477,7 +2508,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "zlouis"
       },
       {
         "id" : 204,
@@ -2488,7 +2520,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "eklein"
       },
       {
         "id" : 205,
@@ -2499,7 +2532,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "eklein"
       },
       {
         "id" : 206,
@@ -2510,7 +2544,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "eklein"
       },
       {
         "id" : 207,
@@ -2521,18 +2556,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 208,
         "seek" : 45200,
         "start" : 475.0,
         "end" : 478.0,
-        "text" : " I'm just going to sit here silently in way.",
+        "text" : " I'm just going to sit here silently and wait.",
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "eklein"
       },
       {
         "id" : 209,
@@ -2543,7 +2580,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 210,
@@ -2554,7 +2592,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.13367244175502233,
         "compression_ratio" : 1.6051502145922747,
-        "no_speech_prob" : 0.09491891413927078
+        "no_speech_prob" : 0.09491891413927078,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 211,
@@ -2565,7 +2604,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 212,
@@ -2576,7 +2616,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 213,
@@ -2587,7 +2628,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 214,
@@ -2598,7 +2640,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 215,
@@ -2609,7 +2652,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 216,
@@ -2620,18 +2664,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 217,
         "seek" : 48000,
         "start" : 497.0,
         "end" : 498.0,
-        "text" : " Isn't there, maybe?",
+        "text" : " Isn't there, AB?",
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 218,
@@ -2642,7 +2688,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "aayad"
       },
       {
         "id" : 219,
@@ -2653,7 +2700,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 220,
@@ -2664,7 +2712,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 221,
@@ -2675,7 +2724,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 222,
@@ -2686,7 +2736,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.2324156433571386,
         "compression_ratio" : 1.5390625,
-        "no_speech_prob" : 0.04038551449775696
+        "no_speech_prob" : 0.04038551449775696,
+        "speaker" : "eklein"
       },
       {
         "id" : 223,
@@ -2697,29 +2748,32 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 224,
         "seek" : 50800,
         "start" : 510.0,
         "end" : 512.0,
-        "text" : " Sure.",
+        "text" : " Shirt.",
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 225,
         "seek" : 50800,
         "start" : 512.0,
         "end" : 514.0,
-        "text" : " Sure.",
+        "text" : " Shirt.",
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 226,
@@ -2730,7 +2784,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 227,
@@ -2741,7 +2796,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 228,
@@ -2752,7 +2808,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 229,
@@ -2763,7 +2820,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 230,
@@ -2774,7 +2832,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 231,
@@ -2785,7 +2844,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 232,
@@ -2796,7 +2856,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 233,
@@ -2807,7 +2868,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 234,
@@ -2818,7 +2880,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 235,
@@ -2829,7 +2892,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 236,
@@ -2840,7 +2904,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 237,
@@ -2851,7 +2916,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.216758487731453,
         "compression_ratio" : 1.5161290322580645,
-        "no_speech_prob" : 0.06325741112232208
+        "no_speech_prob" : 0.06325741112232208,
+        "speaker" : "eklein"
       },
       {
         "id" : 238,
@@ -2862,7 +2928,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 239,
@@ -2873,7 +2940,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 240,
@@ -2884,7 +2952,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 241,
@@ -2895,7 +2964,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 242,
@@ -2906,7 +2976,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 243,
@@ -2917,7 +2988,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 244,
@@ -2928,7 +3000,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 245,
@@ -2939,7 +3012,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 246,
@@ -2950,7 +3024,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 247,
@@ -2961,7 +3036,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.16515696676153885,
         "compression_ratio" : 1.5775401069518717,
-        "no_speech_prob" : 0.09757815301418304
+        "no_speech_prob" : 0.09757815301418304,
+        "speaker" : "eklein"
       },
       {
         "id" : 248,
@@ -2972,7 +3048,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 249,
@@ -2983,7 +3060,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 250,
@@ -2994,7 +3072,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 251,
@@ -3005,7 +3084,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 252,
@@ -3016,7 +3096,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 253,
@@ -3027,7 +3108,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 254,
@@ -3038,7 +3120,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 255,
@@ -3049,7 +3132,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 256,
@@ -3060,7 +3144,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 257,
@@ -3071,7 +3156,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 258,
@@ -3082,7 +3168,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 259,
@@ -3093,7 +3180,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 260,
@@ -3104,7 +3192,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 261,
@@ -3115,7 +3204,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "eklein"
       },
       {
         "id" : 262,
@@ -3126,7 +3216,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 263,
@@ -3137,7 +3228,9 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1839866486806718,
         "compression_ratio" : 1.4840182648401827,
-        "no_speech_prob" : 0.015811679884791374
+        "no_speech_prob" : 0.015811679884791374,
+        "speaker" : "dpourshalimi",
+        "is_soundbite" : true
       },
       {
         "id" : 264,
@@ -3148,7 +3241,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 265,
@@ -3159,18 +3253,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 266,
         "seek" : 59500,
         "start" : 597.0,
         "end" : 600.0,
-        "text" : " As you know, oh, John Scars donated a thousand.",
+        "text" : " As you know, oh, John Scarce donated a thousand.",
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 267,
@@ -3181,40 +3277,44 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 268,
         "seek" : 59500,
         "start" : 601.0,
         "end" : 603.0,
-        "text" : " Scars is a sweetheart.",
+        "text" : " Scarce is a sweetheart.",
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 269,
         "seek" : 59500,
         "start" : 603.0,
         "end" : 604.0,
-        "text" : " That's Scars.",
+        "text" : " That's Scarce Scarce?",
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 270,
         "seek" : 59500,
         "start" : 604.0,
         "end" : 605.0,
-        "text" : " Yes, that's Scars.",
+        "text" : " Yes, that's Scarce.",
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 271,
@@ -3225,7 +3325,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 272,
@@ -3236,7 +3337,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 273,
@@ -3247,7 +3349,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 274,
@@ -3258,7 +3361,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 275,
@@ -3269,7 +3373,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 276,
@@ -3280,7 +3385,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19073356164468303,
         "compression_ratio" : 1.6336996336996337,
-        "no_speech_prob" : 0.016133589670062065
+        "no_speech_prob" : 0.016133589670062065,
+        "speaker" : "eklein"
       },
       {
         "id" : 277,
@@ -3291,7 +3397,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "eklein"
       },
       {
         "id" : 278,
@@ -3302,7 +3409,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "eklein"
       },
       {
         "id" : 279,
@@ -3313,7 +3421,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "eklein"
       },
       {
         "id" : 280,
@@ -3324,7 +3433,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 281,
@@ -3335,7 +3445,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 282,
@@ -3346,18 +3457,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 283,
         "seek" : 62400,
         "start" : 637.0,
         "end" : 638.0,
-        "text" : " Oh, you have to.",
+        "text" : " Oh, you have tea?",
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "eklein"
       },
       {
         "id" : 284,
@@ -3368,7 +3481,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 285,
@@ -3379,7 +3493,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "eklein"
       },
       {
         "id" : 286,
@@ -3390,7 +3505,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 287,
@@ -3401,18 +3517,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 288,
         "seek" : 62400,
         "start" : 649.0,
         "end" : 652.0,
-        "text" : " I mean, that's pretty crazy because Keemstar always accused me of baking.",
+        "text" : " I mean, that's pretty crazy because Keemstar always accused me of faking.",
         "temperature" : 0.0,
         "avg_logprob" : -0.19625343732385828,
         "compression_ratio" : 1.6644518272425248,
-        "no_speech_prob" : 0.023691659793257713
+        "no_speech_prob" : 0.023691659793257713,
+        "speaker" : "eklein"
       },
       {
         "id" : 289,
@@ -3423,7 +3541,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "aayad"
       },
       {
         "id" : 290,
@@ -3434,7 +3553,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 291,
@@ -3445,18 +3565,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 292,
         "seek" : 65200,
         "start" : 657.0,
         "end" : 660.0,
-        "text" : " But you're telling me he maybe didn't didn't fall through on a",
+        "text" : " But you're telling me he maybe didn't didn't follow through on a",
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 293,
@@ -3467,7 +3589,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 294,
@@ -3478,7 +3601,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 295,
@@ -3489,18 +3613,21 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 296,
         "seek" : 65200,
         "start" : 664.0,
         "end" : 666.0,
-        "text" : " I want to know what it is to everyone affected.",
+        "text" : " I want to apologize to everyone affected.",
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "dkeem",
+        "is_soundbite" : true
       },
       {
         "id" : 297,
@@ -3511,7 +3638,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 298,
@@ -3522,7 +3650,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 299,
@@ -3533,7 +3662,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 300,
@@ -3544,7 +3674,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 301,
@@ -3555,7 +3686,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.15932215084819673,
         "compression_ratio" : 1.6450617283950617,
-        "no_speech_prob" : 0.015571181662380695
+        "no_speech_prob" : 0.015571181662380695,
+        "speaker" : "eklein"
       },
       {
         "id" : 302,
@@ -3566,7 +3698,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 303,
@@ -3577,7 +3710,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 304,
@@ -3588,7 +3722,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 305,
@@ -3599,7 +3734,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 306,
@@ -3610,7 +3746,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 307,
@@ -3621,7 +3758,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 308,
@@ -3632,7 +3770,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 309,
@@ -3643,7 +3782,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 310,
@@ -3654,7 +3794,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 311,
@@ -3665,7 +3806,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 312,
@@ -3676,7 +3818,9 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "dkeem",
+        "is_soundbite" : true
       },
       {
         "id" : 313,
@@ -3687,7 +3831,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 314,
@@ -3698,7 +3843,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 315,
@@ -3709,7 +3855,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 316,
@@ -3720,7 +3867,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 317,
@@ -3731,29 +3879,33 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.11509069236549171,
         "compression_ratio" : 1.620817843866171,
-        "no_speech_prob" : 0.22758716344833374
+        "no_speech_prob" : 0.22758716344833374,
+        "speaker" : "eklein"
       },
       {
         "id" : 318,
         "seek" : 70800,
         "start" : 709.0,
         "end" : 710.0,
-        "text" : " Big Alan, my part.",
+        "text" : " Big L on my part.",
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "dkeem",
+        "is_soundbite" : true
       },
       {
         "id" : 319,
         "seek" : 70800,
         "start" : 710.0,
         "end" : 713.0,
-        "text" : " These are such a fucking piece of shit.",
+        "text" : " He's such a fucking piece of shit.",
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 320,
@@ -3764,7 +3916,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 321,
@@ -3775,18 +3928,20 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 322,
         "seek" : 70800,
         "start" : 720.0,
         "end" : 725.0,
-        "text" : " Yo, this is June 2, June 6th, Kim Star.",
+        "text" : " Yo, this is June 2, June 6th, Keemstar.",
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 323,
@@ -3797,7 +3952,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 324,
@@ -3808,7 +3964,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 325,
@@ -3819,7 +3976,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "eklein"
       },
       {
         "id" : 326,
@@ -3830,7 +3988,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.23129896017221305,
         "compression_ratio" : 1.4608294930875576,
-        "no_speech_prob" : 0.026427453383803368
+        "no_speech_prob" : 0.026427453383803368,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 327,
@@ -3841,7 +4000,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 328,
@@ -3852,7 +4012,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "eklein"
       },
       {
         "id" : 329,
@@ -3863,7 +4024,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 330,
@@ -3874,7 +4036,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 331,
@@ -3885,7 +4048,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "eklein"
       },
       {
         "id" : 332,
@@ -3896,7 +4060,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 333,
@@ -3907,7 +4072,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 334,
@@ -3918,7 +4084,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 335,
@@ -3929,7 +4096,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 336,
@@ -3940,7 +4108,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "eklein"
       },
       {
         "id" : 337,
@@ -3951,7 +4120,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1673179343894676,
         "compression_ratio" : 1.688976377952756,
-        "no_speech_prob" : 0.31546521186828613
+        "no_speech_prob" : 0.31546521186828613,
+        "speaker" : "eklein"
       },
       {
         "id" : 338,
@@ -3962,29 +4132,32 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 339,
         "seek" : 76200,
         "start" : 766.0,
         "end" : 769.0,
-        "text" : " and he thinks everyone's a scape-mer because, well,",
+        "text" : " and he thinks everyone's a scammer because, well,",
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 340,
         "seek" : 76200,
         "start" : 769.0,
         "end" : 772.0,
-        "text" : " you've seen the back of his eyelids.",
+        "text" : " he's seeing the back of his eyelids.",
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 341,
@@ -3995,7 +4168,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 342,
@@ -4006,7 +4180,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 343,
@@ -4017,7 +4192,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 344,
@@ -4028,7 +4204,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 345,
@@ -4039,7 +4216,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 346,
@@ -4050,7 +4228,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "eklein"
       },
       {
         "id" : 347,
@@ -4061,7 +4240,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 348,
@@ -4072,7 +4252,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.22146665940590954,
         "compression_ratio" : 1.4642857142857142,
-        "no_speech_prob" : 0.1030803695321083
+        "no_speech_prob" : 0.1030803695321083,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 349,
@@ -4083,7 +4264,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "eklein"
       },
       {
         "id" : 350,
@@ -4094,7 +4276,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "eklein"
       },
       {
         "id" : 351,
@@ -4105,7 +4288,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "eklein"
       },
       {
         "id" : 352,
@@ -4116,7 +4300,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "eklein"
       },
       {
         "id" : 353,
@@ -4127,7 +4312,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 354,
@@ -4138,7 +4324,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 355,
@@ -4149,7 +4336,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 356,
@@ -4160,7 +4348,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "eklein"
       },
       {
         "id" : 357,
@@ -4171,7 +4360,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.1413240791263437,
         "compression_ratio" : 1.5134099616858236,
-        "no_speech_prob" : 0.06150025874376297
+        "no_speech_prob" : 0.06150025874376297,
+        "speaker" : "eklein"
       },
       {
         "id" : 358,
@@ -4215,7 +4405,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.240321528302492,
         "compression_ratio" : 1.6285714285714286,
-        "no_speech_prob" : 0.009301257319748402
+        "no_speech_prob" : 0.009301257319748402,
+        "speaker" : "eklein"
       },
       {
         "id" : 362,
@@ -4226,7 +4417,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.240321528302492,
         "compression_ratio" : 1.6285714285714286,
-        "no_speech_prob" : 0.009301257319748402
+        "no_speech_prob" : 0.009301257319748402,
+        "speaker" : "eklein"
       },
       {
         "id" : 363,
@@ -4281,7 +4473,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.240321528302492,
         "compression_ratio" : 1.6285714285714286,
-        "no_speech_prob" : 0.009301257319748402
+        "no_speech_prob" : 0.009301257319748402,
+        "speaker" : "eklein"
       },
       {
         "id" : 368,
@@ -4292,7 +4485,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.240321528302492,
         "compression_ratio" : 1.6285714285714286,
-        "no_speech_prob" : 0.009301257319748402
+        "no_speech_prob" : 0.009301257319748402,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 369,
@@ -4303,7 +4497,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.240321528302492,
         "compression_ratio" : 1.6285714285714286,
-        "no_speech_prob" : 0.009301257319748402
+        "no_speech_prob" : 0.009301257319748402,
+        "speaker" : "dswerdlove"
       },
       {
         "id" : 370,
@@ -4325,7 +4520,8 @@
         "temperature" : 0.0,
         "avg_logprob" : -0.240321528302492,
         "compression_ratio" : 1.6285714285714286,
-        "no_speech_prob" : 0.009301257319748402
+        "no_speech_prob" : 0.009301257319748402,
+        "speaker" : "eklein"
       },
       {
         "id" : 372,

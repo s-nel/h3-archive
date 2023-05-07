@@ -214,6 +214,7 @@ const Segment = ({
       top: style.top + GUTTER_SIZE,
       height: style.height - GUTTER_SIZE,
     }}
+    ref={rowRef}
   >
     <EuiFlexItem grow={1}>
       <form 

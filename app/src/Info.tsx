@@ -340,15 +340,6 @@ const Info = ({ eventId, isEditing, highlights: overrideHighlights, plain }) => 
               <EuiSpacer size="s" />
               <Transcript event={info} transcript={transcript} ytVideo={ytVideo} ytVideoRef={ytVideoRef} highlightTerms={highlightTerms} plain={!isTranscriptShowing} />
             </EuiAccordion>
-            {isEditing && ([<EuiHorizontalRule />, <TranscriptEditor 
-                segments={transcript.transcription.segments} 
-                ytId={ytId} 
-                speakers={people.map(p => ({
-                  id: p.person_id,
-                  thumb: p.thumb,
-                  displayName: p.display_name || `${p.first_name} ${p.last_name}`
-                }))} 
-              />])}
           </EuiPanel>
         </EuiFlexItem>)}
       </EuiFlexGroup>
