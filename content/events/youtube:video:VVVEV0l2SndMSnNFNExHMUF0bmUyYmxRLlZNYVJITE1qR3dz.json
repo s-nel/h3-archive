@@ -27,6 +27,274 @@
       "role" : "crew"
     }
   ],
+  "transcription" : {
+    "segments" : [
+      {
+        "id" : 0,
+        "seek" : 0,
+        "start" : 0.0,
+        "end" : 2.0,
+        "text" : " From a distant vantage point,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 1,
+        "seek" : 0,
+        "start" : 2.0,
+        "end" : 3.0,
+        "text" : " you're a...",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 2,
+        "seek" : 0,
+        "start" : 3.0,
+        "end" : 6.0,
+        "text" : " Why not see you in many particular interests?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 3,
+        "seek" : 0,
+        "start" : 6.0,
+        "end" : 7.0,
+        "text" : " Let me inspire you!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 4,
+        "seek" : 0,
+        "start" : 14.0,
+        "end" : 16.0,
+        "text" : " So all you fuck boys and imposter's",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 5,
+        "seek" : 0,
+        "start" : 17.0,
+        "end" : 19.0,
+        "text" : " that wanna live my life",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 6,
+        "seek" : 0,
+        "start" : 19.0,
+        "end" : 20.0,
+        "text" : " and wanna be me",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 7,
+        "seek" : 0,
+        "start" : 20.0,
+        "end" : 22.0,
+        "text" : " I'd rather you just be inspired",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 8,
+        "seek" : 0,
+        "start" : 25.0,
+        "end" : 28.0,
+        "text" : " I believe a woman should",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.4206135981791728,
+        "compression_ratio" : 1.4035087719298245,
+        "no_speech_prob" : 0.10989370197057724
+      },
+      {
+        "id" : 9,
+        "seek" : 2800,
+        "start" : 28.0,
+        "end" : 36.0,
+        "text" : " praise the man, you know, the king, you know, if you, if you hold it down for the, for your woman, I feel like the woman should praise.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2832540689512741,
+        "compression_ratio" : 1.626865671641791,
+        "no_speech_prob" : 0.020700762048363686
+      },
+      {
+        "id" : 10,
+        "seek" : 2800,
+        "start" : 40.0,
+        "end" : 43.0,
+        "text" : " What we do with our world right now",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2832540689512741,
+        "compression_ratio" : 1.626865671641791,
+        "no_speech_prob" : 0.020700762048363686
+      },
+      {
+        "id" : 11,
+        "seek" : 2800,
+        "start" : 43.0,
+        "end" : 45.0,
+        "text" : " will propagate down through the centuries",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2832540689512741,
+        "compression_ratio" : 1.626865671641791,
+        "no_speech_prob" : 0.020700762048363686
+      },
+      {
+        "id" : 12,
+        "seek" : 2800,
+        "start" : 45.0,
+        "end" : 48.0,
+        "text" : " and powerfully affect the destiny of our descendants.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2832540689512741,
+        "compression_ratio" : 1.626865671641791,
+        "no_speech_prob" : 0.020700762048363686
+      },
+      {
+        "id" : 13,
+        "seek" : 2800,
+        "start" : 49.0,
+        "end" : 53.0,
+        "text" : " The doors that was always closed, I've ripped the door off,",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.2832540689512741,
+        "compression_ratio" : 1.626865671641791,
+        "no_speech_prob" : 0.020700762048363686
+      },
+      {
+        "id" : 14,
+        "seek" : 5300,
+        "start" : 53.0,
+        "end" : 55.0,
+        "text" : " put the hinges off",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 15,
+        "seek" : 5300,
+        "start" : 55.0,
+        "end" : 57.0,
+        "text" : " and wrapped it the hinges off",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 16,
+        "seek" : 5300,
+        "start" : 57.0,
+        "end" : 61.0,
+        "text" : " and put the hinges on the fuck boys hands.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 17,
+        "seek" : 5300,
+        "start" : 61.0,
+        "end" : 64.0,
+        "text" : " Save my name, baby, for my changed.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 18,
+        "seek" : 5300,
+        "start" : 65.0,
+        "end" : 66.0,
+        "text" : " A lot!",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 19,
+        "seek" : 5300,
+        "start" : 67.0,
+        "end" : 68.0,
+        "text" : " How did you gain all the weight?",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 20,
+        "seek" : 5300,
+        "start" : 69.0,
+        "end" : 71.0,
+        "text" : " Um, just eating a lot.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 21,
+        "seek" : 5300,
+        "start" : 72.0,
+        "end" : 79.0,
+        "text" : " It is well within our power to destroy our civilization and perhaps our species as well.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.27872110849403475,
+        "compression_ratio" : 1.55,
+        "no_speech_prob" : 0.03340495005249977
+      },
+      {
+        "id" : 22,
+        "seek" : 7900,
+        "start" : 79.0,
+        "end" : 82.0,
+        "text" : " It's one, four, step to land.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.588265373593285,
+        "compression_ratio" : 0.8867924528301887,
+        "no_speech_prob" : 0.220764622092247
+      },
+      {
+        "id" : 23,
+        "seek" : 7900,
+        "start" : 84.0,
+        "end" : 86.0,
+        "text" : " One, die of lead.",
+        "temperature" : 0.0,
+        "avg_logprob" : -0.588265373593285,
+        "compression_ratio" : 0.8867924528301887,
+        "no_speech_prob" : 0.220764622092247
+      }
+    ]
+  },
   "metrics" : {
     "views" : 1591600,
     "likes" : 30292,
