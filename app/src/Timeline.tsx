@@ -6,7 +6,6 @@ import Info, {categoryColor, categoryLabel} from './Info'
 import './App.css'
 import SearchBox from './SearchBox'
 import { useSelector } from 'react-redux'
-import { astToEsQueryDsl } from './astToQuery'
 import {
   EuiBadge,
   EuiBasicTable,
@@ -296,7 +295,7 @@ const GUTTER_SIZE = 5
 const fetchPage = (query, events, setEvents, setTotalEvents, setLoading, setEmpty, index, batchSize, sort) => {
   setLoading(true)
   return axios.post(`/api/events`, {
-    query: query ? astToEsQueryDsl(query.ast, {}) : {
+    query: query ? Query.toESQuery(query, {}) : {
       match_all: {}
     },
     size: batchSize,

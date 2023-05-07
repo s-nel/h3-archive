@@ -220,7 +220,7 @@ object Restore {
           }
         }
       }
-      batches = ops.flatten.grouped(maybeBatchSize.getOrElse(50))
+      batches = ops.flatten.grouped(maybeBatchSize.getOrElse(15))
       results <- seqFutures(batches) { batch =>
         client.execute(bulk(batch: _*))
       }

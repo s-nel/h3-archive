@@ -1,0 +1,67 @@
+{
+  "event_id" : "spotify:episode:73UB36eG2oC2m6B2cDpnqQ",
+  "category" : "podcast",
+  "name" : "Ethan Confronts Oli London - Off The Rails #70",
+  "description" : "<p>Today we have a lively debate with Oli London, the viral sensation who grew to popularity after attempting to become transracial and has now become an anti-trans activist. We also discuss the ongoing destruction of Steven Crowder, Ethan&#39;s viral TikTok moment, the writers strike, and much more!</p><p> </p>",
+  "thumb" : "https://i.ytimg.com/vi/nH972Ccee0E/default.jpg",
+  "tags" : [
+    {
+      "key" : "Series",
+      "value" : "Off The Rails"
+    }
+  ],
+  "links" : [
+    {
+      "type" : "spotify",
+      "url" : "https://open.spotify.com/episode/73UB36eG2oC2m6B2cDpnqQ"
+    },
+    {
+      "type" : "youtube",
+      "url" : "https://youtu.be/nH972Ccee0E"
+    }
+  ],
+  "start_date" : 1683157281000,
+  "duration" : 11767980,
+  "people" : [
+    {
+      "person_id" : "stemple",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "dswerdlove",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "olopes",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "aayad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "love",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "layad",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "eklein",
+      "role" : "host"
+    },
+    {
+      "person_id" : "cgrant",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "zlouis",
+      "role" : "crew"
+    },
+    {
+      "person_id" : "islater",
+      "role" : "crew"
+    }
+  ]
+}

@@ -13,7 +13,6 @@ import {
 } from './Info'
 import _ from 'lodash'
 import axios from 'axios'
-import { astToEsQueryDsl } from './astToQuery'
 
 export const height = 300
 
@@ -223,7 +222,7 @@ const radiuses = {
 const fetchPage = (query, events, setEvents, setLoading, setEmpty, setEventsSize) => {
   setLoading(true)
   return axios.post(`/api/events`, {
-    query: query ? astToEsQueryDsl(query.ast) : {
+    query: query ? Query.toESQuery(query) : {
       match_all: {}
     },
     size: 1000,
