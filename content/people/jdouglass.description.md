@@ -1,0 +1,1 @@
+Jacksfilms is a popular YouTube channel created by Jack Douglass. Jack is a friend of Ethan and together with Erik "Internet Comment Etiquette" have been guests on several episodes of the podcast. Jack was discussed on Frenemies when host [Trisha Paytas](/people/tpaytas) voiced her disgust of Jack. This lead to him being jokingly nominated for the "Biggest Douche" 2020 steamy.

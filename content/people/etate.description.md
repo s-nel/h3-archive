@@ -1,0 +1,3 @@
+Andrew Tate is a former kick-boxer and current manosphere personality who is facing charges of human trafficking, rape, and forming a criminal gang to sexually exploit women.
+
+Andrew was first shown on the podcast in 2022 when he was clowned on for his insistence that rich and successful people should drink sparkling water. Later that year, Andrew Tate's popularity skyrocketed especially among young men who shared his misogynistic content on TikTok. The podcast reported on his rape allegations and his Hustler's University that teaches young boys how to run a camgirl business. Ethan had a live discussion with [Bradley Martyn](/people/bmartyn) to try to sway his support for Tate.

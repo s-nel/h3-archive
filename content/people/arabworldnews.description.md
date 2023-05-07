@@ -1,0 +1,3 @@
+Arab World News is a YouTube channel that was first discovered on ["Leftovers" #20](/events/spotify:episode:0agwNhFovemD9MuFtpno7R) where Ethan and [Hasan](/people/hpiker) were discussing [PewDiePie](/people/fkjellberg)'s recent controversy for imitating deaf TikToker Scarlet May's sign language and voice. Ethan and [Hasan](/people/hpiker) found Arab World News' video covering the controversy because [Felix](/people/fkjellberg) removed the original video.
+
+In many other episodes Arab World News' coverage of drama was featured. Arab World News has expressed love for the podcast and the foot soldiers for their love and support, but has expressed hesitance to appear on the podcast due to his self-assessed poor English and the time zone difference.

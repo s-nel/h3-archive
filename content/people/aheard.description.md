@@ -1,0 +1,1 @@
+Amber Heard is a movie actress. In 2022, Heard and actor [Johnny Depp](/people/jdepp) were involved in a very public defamation lawsuit that was covered on the podcast.

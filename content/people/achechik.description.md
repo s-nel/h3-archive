@@ -1,0 +1,1 @@
+Adriana Chechik is a Twitch streamer and former adult film actress who broke her back at an ill-conceived foam pit at TwitchCon 2022. Afterwords she discovered that she was pregnant at the time and the pregnancy had to be terminated.

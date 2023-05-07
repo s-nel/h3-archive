@@ -1,0 +1,1 @@
+James Charles is a popular makeup YouTuber. The podcast has been highly critical of James due to his persistent solicitation of minors online.

@@ -1,0 +1,1 @@
+Andrew Yang is a politician four times. Ethan and Hila were very supportive of his political campaigns and his interesting progressive ideas like universal basic income, but more recently Ethan and [Hasan](/people/hpiker) voiced their disapproval of Yang.

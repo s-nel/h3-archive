@@ -1,0 +1,1 @@
+Alex Jones is an infamous internet personality and creator of Infowars--a controversial internet program that promotes far-right ideologies and conspiracy theories. In 2022, Alex Jones lost a lawsuit over his promotion of a conspiracy theory that the Sandy Hook shooting victims' parents were crisis actors.

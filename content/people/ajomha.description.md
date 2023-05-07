@@ -1,0 +1,1 @@
+Anisa Jomha is a streamer and organizer of the very successful charity boxing events, "The Creator Clash" and "The Creator Clash 2" with her husband [Ian](/people/ijomha).

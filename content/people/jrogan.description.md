@@ -1,0 +1,1 @@
+Joe Rogan is a comedian and host of one of the most popular podcasts in the world. Joe is frequently clowned and criticized on the podcast. Much of the criticism came during the Covid-19 outbreak when Joe was spreading misinformation and anti-vax, anti-max sentiments.

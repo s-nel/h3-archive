@@ -1,0 +1,1 @@
+One half of the YouTuber duo, Aba and Preach. The group is critical of Ethan.

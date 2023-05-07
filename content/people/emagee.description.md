@@ -1,0 +1,1 @@
+Ryan Magee is one-half of the YouTube channel SuperMega with co-creator [Matt Watson](/people/mwatson). Ryan participated in "The Creator Clash" charity boxing event. SuperMega was also involved in a podcast bit where they feuded with [Dad](/people/nbarnett) where SuperMega and Dad both gifted Ethan a chair to try to win favor.

@@ -1,0 +1,1 @@
+Adin Ross is a popular streamer. The podcast has criticized Adin Ross for his involvement with gambling streams and his romanticization of alleged sex trafficker, [Andrew Tate](/people/etate).
